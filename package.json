@@ -1,0 +1,35 @@
+{
+  "name": "static-site",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/TransgenderDotOrg/static-site",
+  "author": "Tamzin <transgenderdotorg@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "postinstall": "husky install"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.1",
+    "@types/react-dom": "17.0.0",
+    "@types/react-router-dom": "5.1.7",
+    "css-loader": "5.1.2",
+    "file-loader": "6.2.0",
+    "husky": "^8.0.0",
+    "prettier": "2.2.1",
+    "style-loader": "2.0.0",
+    "ts-loader": "^9.4.3",
+    "typescript": "4.8.3",
+    "webpack": "5.24.4",
+    "webpack-cli": "4.5.0",
+    "webpack-dev-middleware": "4.1.0",
+    "webpack-dev-server": "3.11.2"
+  },
+  "dependencies": {
+    "moment": "2.29.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-router-dom": "5.2.0"
+  }
+}
