@@ -8,7 +8,7 @@ This project is currently under active development. It may serve as a temporary 
 
 ## Getting Started
 
-Before contributing to this project, please ensure that you are using Node.js v18.15.0 as well as Yarn v2.
+Before contributing to this project, please ensure that you are using Node.js v18.15.0 and NPM.
 
 ### Installation
 

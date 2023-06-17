@@ -18,9 +18,13 @@ export default {
     extensions: [".tsx", ".ts", ".js"],
   },
   devServer: {
-    contentBase: path.join(__dirname, 'dist'),
+    static: {
+      directory: __dirname,
+    },
     compress: true,
     port: 9000,
+    hot: true,
+    open: true,
   },
   module: {
     rules: [
@@ -43,4 +47,5 @@ export default {
       }
     ],
   },
+
 };
