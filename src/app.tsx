@@ -1,5 +1,7 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
+import "./app.css";
+import logoUrl from "./assets/logo.svg";
 
 // transgendermap.com -- general trans guidebook
 // diyhrt.cafe -- safe diy hrt websites for buying
@@ -12,48 +14,59 @@ import * as ReactDOM from "react-dom";
 
 const App = () => {
   return (
-    <div>
-      <div>
-        We're working on something awesome! Things will be changing here quickly
-        :)
-      </div>
-      <div>
-        <a href="https://genderdysphoria.fyi">
-          genderdysphoria.fyi - Information for Both Trans People and Allies
-          About Trans History, HRT, and Dysphoria
-        </a>
-      </div>
-      <div>
-        <a href="https://transgendermap.com">
-          transgendermap.com - A General Guidebook For Trans and Allies
-        </a>
-      </div>
-      <div>
-        <a href="https://diyhrt.cafe">diyhrt.cafe - Tested DIY HRT Providers</a>
-      </div>
-      <div>
-        <a href="https://transfemscience.org">
-          transfemscience.org - Research, Info, and Guidance on Hormonal
-          Transitioning for Transfemme
-        </a>
-      </div>
-      <div>
-        <a href="https://strandsfortrans.org">
-          strandsfortrans.org - Comprehensive Map of Trans-Friendly Salons and
-          Barbershops
-        </a>
-      </div>
-      <div>
-        <a href="https://equaldex.com">
-          equaldex.com - Compare LGBTQ Rights Between Countries, Provinces, and
-          States
-        </a>
-      </div>
-      <div>
-        <a href="https://rainbowrailroad.org">
-          rainbowrailroad.org - Organization Assisting LGBTQ People From Hostile
-          Countries Make Their Way to Safety
-        </a>
+    <div className="page one-column">
+      <div className="column">
+        <div className="tdo-lockup">
+          <img src={logoUrl} />
+          <h1>Transgender.org</h1>
+        </div>
+        <h2>We're working on some amazing things for the trans community.</h2>
+        <hr />
+        <h3>In the meantime, check out these resources:</h3>
+        <p>
+          <h4>
+            <a href="https://genderdysphoria.fyi">genderdysphoria.fyi</a>
+          </h4>
+          Information for Both Trans People and Allies About Trans History, HRT,
+          and Dysphoria
+          <br />
+          <br />
+          <h4>
+            <a href="https://transgendermap.com">transgendermap.com</a>
+          </h4>
+          A General Guidebook For Trans and Allies
+          <br />
+          <br />
+          <h4>
+            <a href="https://diyhrt.cafe">diyhrt.cafe</a>
+          </h4>
+          Tested DIY HRT Providers
+          <br />
+          <br />
+          <h4>
+            <a href="https://transfemscience.org">transfemscience.org</a>
+          </h4>
+          Research, Info, and Guidance on Hormonal Transitioning for Transfemme
+          <br />
+          <br />
+          <h4>
+            <a href="https://strandsfortrans.org">strandsfortrans.org</a>
+          </h4>
+          Comprehensive Map of Trans-Friendly Salons and Barbershops
+          <br />
+          <br />
+          <h4>
+            <a href="https://equaldex.com">equaldex.com</a>
+          </h4>
+          Compare LGBTQ Rights Between Countries, Provinces, and States
+          <br />
+          <br />
+          <h4>
+            <a href="https://rainbowrailroad.org">rainbowrailroad.org</a>
+            Organization Assisting LGBTQ People From Hostile Countries Make
+            Their Way to Safety
+          </h4>
+        </p>
       </div>
     </div>
   );

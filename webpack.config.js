@@ -37,6 +37,10 @@ export default {
         use: ["file-loader"],
       },
       {
+        test: /\.svg$/,
+        use: ['@svgr/webpack', 'url-loader'],
+      },
+      {
         test: /\.tsx?$/,
         use: "ts-loader",
         exclude: /node_modules/,
