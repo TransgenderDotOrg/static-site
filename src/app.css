@@ -34,7 +34,7 @@
 }
 
 body {
-  background-color: var(--root-bg);
+  background-color: var(--bg-color);
   color: #101417;
   font-family: "Barlow", sans-serif;
   padding: 0px;
