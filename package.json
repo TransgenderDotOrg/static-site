@@ -7,7 +7,7 @@
   "author": "Tamzin <transgenderdotorg@gmail.com>",
   "private": true,
   "scripts": {
-    "build": "webpack --config webpack.config.production.js",
+    "build": "webpack --config webpack.config.production.js && cp ./src/index.html ./dist/. && cp ./src/assets/logo.svg ./dist/.",
     "postinstall": "husky install",
     "start": "webpack serve --mode development --open --hot"
   },
