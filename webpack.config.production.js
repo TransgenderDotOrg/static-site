@@ -5,26 +5,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export default {
-  mode: "development",
+  mode: "production",
   entry: {
     app: "./src/app.tsx",
-  },
-  resolve: {
-    extensions: [".tsx", ".ts", ".js"],
   },
   output: {
     globalObject: "self",
     filename: "[name].bundle.js",
     path: path.resolve(__dirname, "dist"),
   },
-  devServer: {
-    static: {
-      directory: path.join(__dirname, "src"),
-    },
-    compress: true,
-    port: 9000,
-    hot: true,
-    open: true,
+  resolve: {
+    extensions: [".tsx", ".ts", ".js"],
   },
   module: {
     rules: [
