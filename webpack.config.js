@@ -38,7 +38,7 @@ export default {
       },
       {
         test: /\.svg$/,
-        use: ['@svgr/webpack', 'url-loader'],
+        use: ["@svgr/webpack", "url-loader"],
       },
       {
         test: /\.tsx?$/,
@@ -48,8 +48,7 @@ export default {
       {
         test: /\.txt?$/,
         type: "asset/source",
-      }
+      },
     ],
   },
-
 };

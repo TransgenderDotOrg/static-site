@@ -63,9 +63,9 @@ const App = () => {
           <br />
           <h4>
             <a href="https://rainbowrailroad.org">rainbowrailroad.org</a>
-            Organization Assisting LGBTQ People From Hostile Countries Make
-            Their Way to Safety
           </h4>
+          Organization Assisting LGBTQ People From Hostile Countries Make Their
+          Way to Safety
         </p>
       </div>
     </div>
