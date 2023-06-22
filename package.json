@@ -7,7 +7,7 @@
   "author": "Tamzin <transgenderdotorg@gmail.com>",
   "private": true,
   "scripts": {
-    "build": "webpack --config webpack.config.production.js && cp ./src/index.html ./docs/. && cp -rf ./favicons ./docs/favicons",
+    "build": "webpack --config webpack.config.production.js && cp ./src/index.html ./docs/. && cp ./src/index.html ./docs/404.html && cp -rf ./favicons ./docs/favicons",
     "postinstall": "husky install",
     "start": "webpack serve --mode development --open --hot"
   },
