@@ -15,7 +15,7 @@ Before contributing to this project, please ensure that you are using Node.js v1
 First, install the project dependencies by running the following command:
 
 ```bash
-yarn install
+npm install
 ```
 
 ### Development
@@ -23,7 +23,7 @@ yarn install
 To start the project in development mode, run:
 
 ```bash
-yarn start
+npm run start
 ```
 
 This command enables Hot Module Replacement (HMR), which can be useful during development.
@@ -33,7 +33,7 @@ This command enables Hot Module Replacement (HMR), which can be useful during de
 Before finalizing a commit, make sure to build the project by running:
 
 ```bash
-yarn build
+npm run build
 ```
 
 This command ensures that your changes are included in the build for GitHub Pages to access the assets.
