@@ -1,3 +1,4 @@
+import styled from "@emotion/styled";
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 import "./app.css";
@@ -6,49 +7,143 @@ import appData from "./app-data.json";
 import { LinkList } from "./link-list";
 import useSearch from "./useSearch";
 
-const App = () => {
-  const { results, searchValue, setSearchValue } = useSearch<Post>({
-    dataSet: appData.links,
-    keys: ["title", "description", "url"],
-  });
+export const AppContainer = styled("div")({
+  display: "flex",
+  flexDirection: "column",
+  alignItems: "center",
+  background: "var(--bg-pink-gradient)",
+  minHeight: "100vh",
+});
 
+export const AppLogo = styled("div")({
+  display: "flex",
+  flexDirection: "row",
+  alignItems: "center",
+  height: "100px",
+
+  "& img": {
+    height: "100%",
+  },
+  "& h1": {
+    marginLeft: "1rem",
+    color: "white",
+  },
+});
+
+export const Card = styled("div")({
+  backgroundColor: "#fffb",
+  borderRadius: "10px",
+  backdropFilter: "blur(5px)",
+  "-webkit-backdrop-filter": "blur(15px)",
+  boxShadow: "var(--standard-shadow)",
+});
+
+export const Menu = styled("div")({
+  display: "flex",
+  flexDirection: "row",
+  background: "var(--accent-1a)",
+  height: "30px",
+  borderRadius: "10px 10px 0 0",
+  "& a": {
+    background: `1px solid var(--accent-1a)`,
+    border: `1px solid #fff`,
+    borderWidth: "0 1px",
+    whiteSpace: "nowrap",
+    color: "black",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    height: "30px",
+    padding: "0 1rem",
+    "&:hover": {
+      background: "var(--accent-2a)",
+      color: "#fff",
+    },
+    "& img": {
+      height: "100%",
+    },
+  },
+});
+
+export interface MenuItemProps {
+  title: string;
+  href: string;
+  position?: "bottom" | "right";
+  children?: React.ReactNode;
+}
+
+export const MenuContainer = styled("a")({
+  "& > .children": {
+    display: "none",
+  },
+
+  "&:hover > .children": {
+    display: "block",
+  },
+});
+
+export const MenuItem = ({
+  href,
+  title,
+  children,
+  position = "right",
+}: MenuItemProps) => {
   return (
-    <div className="page one-column">
-      <div className="column">
-        <div className="tdo-lockup">
-          <img src={logoUrl} />
-          <h1>Transgender.org</h1>
+    <MenuContainer href={href} style={{ position: "relative" }}>
+      {title}
+
+      {children && (
+        <div
+          className="children"
+          style={{
+            position: "absolute",
+            left: position === "bottom" ? -1 : "100%",
+            top: position === "bottom" ? "100%" : 0,
+            minWidth: "calc(100% + 2px)",
+          }}
+        >
+          {children}
         </div>
-        <h2>We're working on some amazing things for the trans community.</h2>
-        <hr />
-        <h3>In the meantime, check out these resources:</h3>
-        <LinkList links={appData.links} />
-        <form>
-          <label>Search:</label>
-          <input
-            type="searchValue"
-            id="searchValue"
-            name="searchValue"
-            onChange={(e) => setSearchValue(e.currentTarget.value)}
-          ></input>
-        </form>
-        {JSON.stringify(results)}
-      </div>
-    </div>
+      )}
+    </MenuContainer>
+  );
+};
+
+const App = () => {
+  return (
+    <>
+      <AppContainer>
+        <Card style={{ marginTop: "4rem" }}>
+          <Menu>
+            <a
+              href="https://transgender.org"
+              style={{ padding: "4px", border: "none" }}
+            >
+              <img src={logoUrl} />
+            </a>
+            <MenuItem title="Something Here" href="#bleh" position="bottom">
+              <MenuItem title="Another Thing" href="#blahz">
+                <MenuItem title="Something Here" href="#bleh">
+                  <MenuItem title="Another Thing" href="#blahz" />
+                </MenuItem>
+              </MenuItem>
+            </MenuItem>
+            <MenuItem title="Something Here" href="#bleh" position="bottom">
+              <MenuItem title="Another Thing" href="#blahz" />
+            </MenuItem>
+          </Menu>
+          <div style={{ padding: "2rem" }}>
+            <h2>
+              We're working on some amazing things for the trans community.
+            </h2>
+            <hr />
+            <h3>In the meantime, check out these resources:</h3>
+            <LinkList links={appData.links} />
+          </div>
+        </Card>
+      </AppContainer>
+    </>
   );
 };
 
 ReactDOM.render(<App />, document.getElementById("app"));
-
-// ...
-
-interface Post {
-  title: any;
-  description: any;
-  url: any;
-  // ... other fields
-}
-
-// Search bar here
-
-// Render the results accordingly
