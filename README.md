@@ -42,10 +42,9 @@ This command ensures that your changes are included in the build for GitHub Page
 
 We welcome and appreciate your contributions! To contribute:
 
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
-3. Make your changes
-4. Submit a Pull Request (PR)
+1. Create a new branch for your feature or bug fix
+2. Make your changes
+3. Submit a Pull Request (PR)
 
 Please note that for a PR to be approved, it must be verified by two senior developers. Be sure to use the provided PR template when submitting your PRs - this template will auto-populate your pull requests to guide you in providing the necessary information.
 
