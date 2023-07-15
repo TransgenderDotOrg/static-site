@@ -5,6 +5,14 @@ import logoUrl from "./assets/logo.svg";
 import appData from "./app-data.json";
 import { LinkList } from "./link-list";
 
+const PostList = (posts: any) => {
+  const { results, searchValue, setSearchValue } = useSearch<Post>({
+    dataSet: appData.links,
+    keys: ['title', 'description', 'url'],
+  })
+}
+export default PostList
+
 const App = () => {
   return (
     <div className="page one-column">
@@ -17,9 +25,32 @@ const App = () => {
         <hr />
         <h3>In the meantime, check out these resources:</h3>
         <LinkList links={appData.links} />
+        <form>
+          <label>Search:</label>
+          <input type="searchValue" id="searchValue" name="searchValue"></input>
+        </form>
+        {PostList}
       </div>
     </div>
   );
 };
 
+
+
 ReactDOM.render(<App />, document.getElementById("app"));
+
+import useSearch from './useSearch'
+// ...
+
+interface Post {
+	title: any
+	description: any
+	url: any
+	// ... other fields
+}
+
+
+	// Search bar here
+
+	// Render the results accordingly
+
