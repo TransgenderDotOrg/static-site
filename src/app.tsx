@@ -1,6 +1,14 @@
 import styled from "@emotion/styled";
 import * as React from "react";
 import * as ReactDOM from "react-dom";
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Link,
+  BrowserRouter,
+  Routes,
+} from "react-router-dom";
 import "./normalize.css";
 import "./style.css";
 import logoUrl from "./assets/logo.svg";
@@ -135,11 +143,33 @@ const theme = createTheme({
   },
 });
 
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: (
+      <div>
+        <h1>Hello World</h1>
+        <Link to="about">About Us</Link>
+      </div>
+    ),
+  },
+  {
+    path: "about",
+    element: <div>About</div>,
+  },
+]);
+
 const App = () => {
   return (
     <>
       <ThemeProvider theme={{}}>
-        <Header />
+        <BrowserRouter>
+          <Header />
+          <Routes>
+            <Route path="/" element={<div>Home</div>} />
+            <Route path="about" element={<div>About</div>} />
+          </Routes>
+        </BrowserRouter>
       </ThemeProvider>
     </>
   );

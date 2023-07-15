@@ -1,5 +1,6 @@
 import React from "react";
 import { Box, SxProps, Typography, styled, useTheme } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 import { ReactComponent as CaratDown } from "../../assets/carat-down.svg";
 import { ReactComponent as SearchIcon } from "../../assets/search.svg";
 import { ReactComponent as Discord } from "../../assets/discord.svg";
@@ -22,7 +23,7 @@ const HeaderTypography = styled(Typography)({
   cursor: "pointer",
 });
 
-export const MenuContainer = styled("a")({
+export const MenuItemContainer = styled("a")({
   textDecoration: "none",
   padding: "0.5rem .75rem",
 
@@ -89,7 +90,6 @@ export const SearchInput = () => {
         padding: "0.5rem 0.75rem",
         width: 346,
         "@media (max-width: 1200px)": {
-          width: "100%",
           marginTop: "0.5rem",
         },
       }}
@@ -111,6 +111,8 @@ export interface MenuItemProps {
 export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
   const [isOpen, setIsOpen] = React.useState(false);
 
+  const navigate = useNavigate();
+
   // listen for clicks or escape to close the menu
   React.useEffect(() => {
     const closeMenu = () => isOpen && setIsOpen(false);
@@ -130,8 +132,14 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
   }, [isOpen]);
 
   return (
-    <MenuContainer
+    <MenuItemContainer
       href={href}
+      onClick={(e) => {
+        if (href) {
+          e.preventDefault();
+          navigate(href);
+        }
+      }}
       sx={{
         position: "relative",
         display: "flex",
@@ -166,7 +174,7 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
           {children}
         </Typography>
       )}
-    </MenuContainer>
+    </MenuItemContainer>
   );
 };
 
