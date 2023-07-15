@@ -146,6 +146,15 @@ div.two-columns div.column.two {
   float: right;
 }
 
+form {
+  height: 100%;
+  margin: 2%;
+}
+
+input {
+  width: 30%;
+}
+
 @media only screen and (max-width: 700px) {
   div.one-column {
     width: 100%;

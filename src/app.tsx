@@ -22,17 +22,16 @@ const App = () => {
         <h2>We're working on some amazing things for the trans community.</h2>
         <hr />
         <h3>In the meantime, check out these resources:</h3>
-        <LinkList links={appData.links} />
         <form>
-          <label>Search:</label>
           <input
             type="searchValue"
             id="searchValue"
             name="searchValue"
             onChange={(e) => setSearchValue(e.currentTarget.value)}
+            placeholder="Search..."
           ></input>
         </form>
-        {JSON.stringify(results)}
+        <LinkList links={results} />
       </div>
     </div>
   );
