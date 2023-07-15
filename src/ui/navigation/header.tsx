@@ -2,7 +2,9 @@ import React from "react";
 import { Box, SxProps, Typography, styled, useTheme } from "@mui/material";
 import { ReactComponent as CaratDown } from "../../assets/carat-down.svg";
 import { ReactComponent as SearchIcon } from "../../assets/search.svg";
+import { ReactComponent as Discord } from "../../assets/discord.svg";
 import logoUrl from "../../assets/logo.svg";
+import { Button } from "../button";
 
 const StyledLink = styled("a")({
   textDecoration: "none",
@@ -65,6 +67,15 @@ export const SearchStyledInput = styled("input")({
   outline: "none",
 });
 
+export const StyledDiscordLink = styled("a")({
+  marginLeft: "0.5rem",
+  lineHeight: 0,
+  "@media (max-width: 1200px)": {
+    marginTop: "0.5rem",
+    marginLeft: 0,
+  },
+});
+
 export const SearchInput = () => {
   const inputRef = React.useRef<HTMLInputElement>(null);
   return (
@@ -77,6 +88,10 @@ export const SearchInput = () => {
         border: "1px solid #A1AABF",
         padding: "0.5rem 0.75rem",
         width: 346,
+        "@media (max-width: 1200px)": {
+          width: "100%",
+          marginTop: "0.5rem",
+        },
       }}
       onClick={() => inputRef.current?.focus()}
     >
@@ -103,6 +118,7 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
     document.addEventListener("click", closeMenu);
     document.addEventListener("keyup", (e) => {
       if (e.key === "Escape") {
+        e.stopPropagation();
         closeMenu();
       }
     });
@@ -114,7 +130,16 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
   }, [isOpen]);
 
   return (
-    <MenuContainer href={href} sx={{ position: "relative", ...sx }}>
+    <MenuContainer
+      href={href}
+      sx={{
+        position: "relative",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        ...sx,
+      }}
+    >
       <HeaderTypography onClick={() => setIsOpen(!isOpen)}>
         {title}
 
@@ -124,12 +149,18 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
       {children && isOpen && (
         <Typography
           variant="body1"
-          style={{
+          sx={{
             display: "block",
             position: "absolute",
             left: 0,
             top: "100%",
-            minWidth: "calc(100% + 2px)",
+
+            "@media (max-width: 1200px)": {
+              position: "unset",
+              marginTop: "0.5rem",
+              left: "unset",
+              top: "unset",
+            },
           }}
         >
           {children}
@@ -142,9 +173,28 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
 export const Header = () => {
   const theme = useTheme();
 
+  const navigateToEscapeSite = () => {
+    window.location.href = "https://rnewsbite.com";
+  };
+
+  // on escape, navigate to escape site
+  React.useEffect(() => {
+    const escape = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        window.location.href = "https://rnewsbite.com";
+      }
+    };
+
+    document.addEventListener("keyup", escape);
+
+    return () => document.removeEventListener("keyup", escape);
+  }, []);
+
   return (
     <header
       style={{
+        display: "flex",
+        flexDirection: "column",
         backgroundColor: theme.palette.background.default,
         borderBottom: `5px solid gradient(#70B2F1, #FFFFFF, #FF8787)`,
       }}
@@ -155,6 +205,10 @@ export const Header = () => {
           display: "flex",
           flexDirection: "row",
           alignItems: "center",
+
+          "@media (max-width: 1200px)": {
+            flexDirection: "column",
+          },
         }}
       >
         <StyledLink href="/" style={{ textDecoration: "none" }}>
@@ -163,23 +217,64 @@ export const Header = () => {
             Transgender.org
           </HeaderTypography>
         </StyledLink>
-        <MenuItem title="Home" href="/" sx={{ marginLeft: "1.5rem" }} />
-        <MenuItem title="About" href="/about" />
-        <MenuItem title="Education" href="/education" />
-        <MenuItem title="Resources">
-          <Menu>
-            <a>MTF</a>
-            <a>FTM</a>
-            <a>Non-Binary</a>
-            <a>Intersex</a>
-          </Menu>
-        </MenuItem>
+        <Box
+          sx={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+            flex: 1,
+
+            "@media (max-width: 1200px)": {
+              flexDirection: "column",
+              marginTop: "0.5rem",
+            },
+          }}
+        >
+          <MenuItem
+            title="Home"
+            href="/"
+            sx={{
+              marginLeft: "1.5rem",
+              "@media (max-width: 1200px)": {
+                marginLeft: 0,
+              },
+            }}
+          />
+          <MenuItem title="About" href="/about" />
+          <MenuItem title="Education" href="/education" />
+          <MenuItem title="Resources">
+            <Menu>
+              <a>MTF</a>
+              <a>FTM</a>
+              <a>Non-Binary</a>
+              <a>Intersex</a>
+            </Menu>
+          </MenuItem>
+        </Box>
         <SearchInput />
+        <StyledDiscordLink
+          href="https://discord.gg/wtRVNzpGkx"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Discord />
+        </StyledDiscordLink>
+        <Button
+          onClick={navigateToEscapeSite}
+          sx={{
+            marginLeft: "0.5rem",
+            "@media (max-width: 1200px)": {
+              marginTop: "0.5rem",
+              marginLeft: 0,
+            },
+          }}
+        >
+          Emergency Exit (ESC)
+        </Button>
       </Box>
       <Box
         sx={{
           background: "linear-gradient(to right, #70B2F1, #FFFFFF, #FF8787)",
-          width: "100%",
           height: 5,
         }}
       />
