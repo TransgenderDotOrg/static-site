@@ -1,0 +1,14 @@
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+a:hover {
+  color: unset;
+  text-decoration: unset;
+}
+
+a:active {
+  color: unset;
+  text-decoration: unset;
+}

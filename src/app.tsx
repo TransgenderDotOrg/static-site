@@ -1,11 +1,14 @@
 import styled from "@emotion/styled";
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import "./app.css";
+import "./normalize.css";
+import "./style.css";
 import logoUrl from "./assets/logo.svg";
 import appData from "./app-data.json";
 import { LinkList } from "./link-list";
 import useSearch from "./useSearch";
+import { ThemeProvider, createTheme, useTheme } from "@mui/material";
+import { Header } from "./ui/navigation/header";
 
 export const AppContainer = styled("div")({
   display: "flex",
@@ -109,39 +112,35 @@ export const MenuItem = ({
   );
 };
 
+const theme = createTheme({
+  typography: {
+    body1: {
+      fontFamily: "OpenSans, sans-serif",
+      fontSize: "1.5rem",
+      fontWeight: 400,
+      lineHeight: 1.5,
+    },
+    h3: {
+      fontFamily: "Mukta, sans-serif",
+      fontSize: "2.5rem",
+      fontWeight: 400,
+      lineHeight: 1.5,
+    },
+    button: {
+      fontFamily: "Mukta, sans-serif",
+      fontSize: "1rem",
+      fontWeight: 400,
+      lineHeight: 1.5,
+    },
+  },
+});
+
 const App = () => {
   return (
     <>
-      <AppContainer>
-        <Card style={{ marginTop: "4rem" }}>
-          <Menu>
-            <a
-              href="https://transgender.org"
-              style={{ padding: "4px", border: "none" }}
-            >
-              <img src={logoUrl} />
-            </a>
-            <MenuItem title="Something Here" href="#bleh" position="bottom">
-              <MenuItem title="Another Thing" href="#blahz">
-                <MenuItem title="Something Here" href="#bleh">
-                  <MenuItem title="Another Thing" href="#blahz" />
-                </MenuItem>
-              </MenuItem>
-            </MenuItem>
-            <MenuItem title="Something Here" href="#bleh" position="bottom">
-              <MenuItem title="Another Thing" href="#blahz" />
-            </MenuItem>
-          </Menu>
-          <div style={{ padding: "2rem" }}>
-            <h2>
-              We're working on some amazing things for the trans community.
-            </h2>
-            <hr />
-            <h3>In the meantime, check out these resources:</h3>
-            <LinkList links={appData.links} />
-          </div>
-        </Card>
-      </AppContainer>
+      <ThemeProvider theme={{}}>
+        <Header />
+      </ThemeProvider>
     </>
   );
 };
