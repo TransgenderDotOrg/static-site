@@ -81,11 +81,20 @@ export const StyledDiscordLink = styled("a")({
 });
 
 export interface SearchInputProps {
+  defaultValue?: string;
   className?: string;
   sx?: SxProps;
+  onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void;
+  onKeyPress?: (e: React.KeyboardEvent<HTMLInputElement>) => void;
 }
 
-export const SearchInput = ({ className, sx }: SearchInputProps) => {
+export const SearchInput = ({
+  defaultValue,
+  className,
+  sx,
+  onChange,
+  onKeyPress,
+}: SearchInputProps) => {
   const inputRef = React.useRef<HTMLInputElement>(null);
   return (
     <Box
@@ -105,7 +114,13 @@ export const SearchInput = ({ className, sx }: SearchInputProps) => {
       }}
       onClick={() => inputRef.current?.focus()}
     >
-      <SearchStyledInput ref={inputRef} placeholder="Search for resources..." />
+      <SearchStyledInput
+        ref={inputRef}
+        placeholder="Search for resources..."
+        onChange={onChange}
+        onKeyPress={onKeyPress}
+        defaultValue={defaultValue}
+      />
       <SearchIcon />
     </Box>
   );
@@ -224,6 +239,9 @@ export const Header = () => {
     <StyledHeader
       sx={{
         minHeight: 85,
+        position: "sticky",
+        top: 0,
+        zIndex: 100,
         "& .non-mobile-hide": {
           display: "none",
         },
@@ -260,6 +278,7 @@ export const Header = () => {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
+            minHeight: 48,
 
             "@media (max-width: 1200px)": {
               width: "100%",
@@ -274,6 +293,10 @@ export const Header = () => {
           </Box>
           <StyledLink
             href="/"
+            onClick={(e) => {
+              e.preventDefault();
+              navigate("/");
+            }}
             sx={{
               display: "flex",
               flexDirection: "row",
@@ -300,6 +323,7 @@ export const Header = () => {
               style={{ cursor: "pointer" }}
               onClick={navigateToEscapeSite}
             />
+            <Box className="mobile-toggle" sx={{ width: "36px" }} />
           </Box>
         </Box>
         <Box
@@ -326,8 +350,8 @@ export const Header = () => {
               },
             }}
           />
-          <MenuItem title="About" href="/about" />
-          <MenuItem title="Education" href="/education" />
+          {/*<MenuItem title="About" href="/about" />*/}
+          {/*<MenuItem title="Education" href="/education" />*/}
           <MenuItem title="Resources" href="/resources">
             <Menu>
               <a
@@ -364,7 +388,14 @@ export const Header = () => {
           </MenuItem>
         </Box>
         {location.pathname !== "/resources" && (
-          <SearchInput className="mobile-toggle" />
+          <SearchInput
+            className="mobile-toggle"
+            onKeyPress={(e) => {
+              if (e.key === "Enter") {
+                navigate(`/resources?search=${e.currentTarget.value}`);
+              }
+            }}
+          />
         )}
         <StyledDiscordLink
           className="mobile-toggle"

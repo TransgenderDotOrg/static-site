@@ -12,13 +12,11 @@ import {
 import "./normalize.css";
 import "./style.css";
 import logoUrl from "./assets/logo.svg";
-import appData from "./app-data.json";
-import { LinkList } from "./link-list";
-import useSearch from "./useSearch";
 import { ThemeProvider, createTheme, useTheme } from "@mui/material";
 import { Header } from "./ui/navigation/header";
 import { HomePage } from "./pages/home";
 import { ResourcePage } from "./pages/resource";
+import { AboutPage } from "./pages/about";
 
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
@@ -202,7 +200,7 @@ const App = () => {
           <Header />
           <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route path="about" element={<div>About</div>} />
+            {/*<Route path="about" element={<AboutPage />} />*/}
             <Route path="resources" element={<ResourcePage />} />
           </Routes>
         </BrowserRouter>

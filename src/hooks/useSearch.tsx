@@ -4,12 +4,17 @@ import Fuse from "fuse.js";
 interface IUseSearchProps<T> {
   dataSet: T[];
   keys: string[];
+  defaultValue?: string;
 }
 
 const SCORE_THRESHOLD = 0.4;
 
-export default function useSearch<T>({ dataSet, keys }: IUseSearchProps<T>) {
-  const [searchValue, setSearchValue] = useState("");
+export default function useSearch<T>({
+  dataSet,
+  keys,
+  defaultValue,
+}: IUseSearchProps<T>) {
+  const [searchValue, setSearchValue] = useState(defaultValue);
 
   const fuse = useMemo(() => {
     const options = {

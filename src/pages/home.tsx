@@ -1,10 +1,13 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import { Box, Typography } from "@mui/material";
 
 import homeImageUrl from "../assets/home.jpg";
 import { Button } from "../ui/button";
 
 export const HomePage = () => {
+  const navigate = useNavigate();
+
   return (
     <Box
       sx={{
@@ -36,22 +39,32 @@ export const HomePage = () => {
           },
         }}
       >
-        <Typography variant="h3">What do we do?</Typography>
+        <Typography variant="h3">What is Transgender.org?</Typography>
         <Typography variant="body2">
-          Dorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu
-          turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec
-          fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus
-          elit sed risus. Maecenas eget condimentum velit, sit amet feugiat
-          lectus. Class aptent taciti sociosqu ad litora torquent per conubia
-          nostra, per inceptos himenaeos. Praesent auctor purus luctus enim
-          egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.
-          Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum
-          lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in
-          elementum tellus.
+          Transgender.org is a grassroots movement, by and for the transgender
+          community. Our mission is to create a dynamic platform that serves as
+          an inclusive resource hub for transgender individuals globally. In our
+          early beta stage, we're working towards establishing a 501(c)(3) and a
+          501(c)(4) to further expand our outreach and impact. We encourage
+          community participation, and everyone is welcome to contribute to our
+          resources in our Discord server. This is only the beginning of our
+          journey to empower and support transgender people worldwide.
         </Typography>
         <Box sx={{ display: "flex", flexDirection: "row", marginTop: "1rem" }}>
-          <Button>More About Us</Button>
-          <Button sx={{ marginLeft: "0.5rem" }}>Go to Resources</Button>
+          {/*<Button onClick={() => navigate("/about")}>More About Us</Button>*/}
+          <Button
+            onClick={() => {
+              window.open("https://discord.gg/wtRVNzpGkx", "_blank");
+            }}
+          >
+            Join Us On Discord
+          </Button>
+          <Button
+            onClick={() => navigate("/resources")}
+            sx={{ marginLeft: "0.5rem" }}
+          >
+            Go to Resources
+          </Button>
         </Box>
       </Box>
     </Box>
