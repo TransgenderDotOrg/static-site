@@ -14,7 +14,7 @@ export const HomePage = () => {
       sx={{
         display: "flex",
         flexDirection: "column",
-        background: `linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%), url(${homeImageUrl}) no-repeat center center`,
+        background: `linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%), url(${homeImageUrl}) no-repeat center center, #000`,
         backgroundSize: "cover",
         height: "calc(100vh - 85px - 200px)",
         padding: "100px 120px",

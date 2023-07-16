@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import { Box, SxProps, Typography, styled, useTheme } from "@mui/material";
 import { useLocation, useNavigate } from "react-router-dom";
 import { ReactComponent as CaratDown } from "../../assets/carat-down.svg";
@@ -24,6 +24,7 @@ const HeaderTypography = styled(Typography)({
   alignItems: "center",
   fontFamily: "Quicksand",
   fontSize: "1.25rem",
+  fontWeight: 400,
   cursor: "pointer",
 });
 
@@ -139,6 +140,8 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
 
   const navigate = useNavigate();
 
+  const ref = useRef<HTMLDivElement>(null);
+
   // listen for clicks or escape to close the menu
   React.useEffect(() => {
     const closeMenu = () => isOpen && setIsOpen(false);
@@ -160,15 +163,6 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
   return (
     <MenuItemContainer
       href={href}
-      onClick={(e) => {
-        if (href) {
-          e.preventDefault();
-
-          if (!children || (children && isOpen)) {
-            navigate(href);
-          }
-        }
-      }}
       sx={{
         position: "relative",
         display: "flex",
@@ -177,7 +171,19 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
         ...sx,
       }}
     >
-      <HeaderTypography onClick={() => setIsOpen(!isOpen)}>
+      <HeaderTypography
+        ref={ref}
+        onClick={(e) => {
+          if (href) {
+            e.preventDefault();
+
+            if (!children || (children && isOpen)) {
+              navigate(href);
+            }
+          }
+          setIsOpen(!isOpen);
+        }}
+      >
         {title}
 
         {children && <CaratDown style={{ marginLeft: "0.5rem" }} />}
@@ -361,7 +367,6 @@ export const Header = () => {
                 href="/resources?tags=transmasculine"
                 onClick={(e) => {
                   e.preventDefault();
-                  e.stopPropagation();
                   navigate("/resources?tags=transmasculine");
                 }}
               >
@@ -371,7 +376,6 @@ export const Header = () => {
                 href="/resources?tags=transfeminine"
                 onClick={(e) => {
                   e.preventDefault();
-                  e.stopPropagation();
                   navigate("/resources?tags=transfeminine");
                 }}
               >
@@ -381,7 +385,6 @@ export const Header = () => {
                 href="/resources?tags=non-binary"
                 onClick={(e) => {
                   e.preventDefault();
-                  e.stopPropagation();
                   navigate("/resources?tags=non-binary");
                 }}
               >

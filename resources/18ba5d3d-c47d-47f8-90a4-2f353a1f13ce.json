@@ -2,13 +2,7 @@
   "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
   "slug": "ftmguideorg",
   "externalUrl": "https://FTMGuide.org",
-  "tags": [
-    "transfeminine",
-    "non-binary",
-    "transmasculine",
-    "healthcare",
-    "clothing"
-  ],
+  "tags": ["non-binary", "transmasculine", "healthcare", "clothing"],
   "i18n": {
     "en-US": {
       "title": "FTMGuide.org",

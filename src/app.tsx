@@ -45,7 +45,7 @@ export const AppLogo = styled("div")({
 });
 
 export const Card = styled("div")({
-  backgroundColor: "#fffb",
+  backgroundColor: "#fff",
   borderRadius: "10px",
   backdropFilter: "blur(5px)",
   "-webkit-backdrop-filter": "blur(15px)",
