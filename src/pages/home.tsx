@@ -10,7 +10,7 @@ export const HomePage = () => {
       sx={{
         display: "flex",
         flexDirection: "column",
-        background: `url(${homeImageUrl}) no-repeat center center`,
+        background: `linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%), url(${homeImageUrl}) no-repeat center center`,
         backgroundSize: "cover",
         height: "calc(100vh - 85px - 200px)",
         padding: "100px 120px",
@@ -18,6 +18,7 @@ export const HomePage = () => {
         "@media (max-width: 768px)": {
           padding: 0,
           justifyContent: "flex-end",
+          background: `url(${homeImageUrl}) no-repeat center center`,
         },
       }}
     >
