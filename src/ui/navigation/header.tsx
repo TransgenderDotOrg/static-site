@@ -191,7 +191,6 @@ export const StyledHeader = styled("header")((theme) => ({
   display: "flex",
   flexDirection: "column",
   backgroundColor: "#ffffff",
-  borderBottom: `5px solid gradient(#70B2F1, #FFFFFF, #FF8787)`,
 }));
 
 export const Header = () => {
@@ -218,6 +217,7 @@ export const Header = () => {
   return (
     <StyledHeader
       sx={{
+        minHeight: 85,
         "& .non-mobile-hide": {
           display: "none",
         },
@@ -237,6 +237,7 @@ export const Header = () => {
     >
       <Box
         sx={{
+          flex: 1,
           padding: "1rem",
           display: "flex",
           flexDirection: "row",

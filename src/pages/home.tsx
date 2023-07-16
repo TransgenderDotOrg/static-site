@@ -12,7 +12,7 @@ export const HomePage = () => {
         flexDirection: "column",
         background: `url(${homeImageUrl}) no-repeat center center`,
         backgroundSize: "cover",
-        height: "calc(100vh - 73px - 200px)",
+        height: "calc(100vh - 85px - 200px)",
         padding: "100px 120px",
 
         "@media (max-width: 768px)": {
