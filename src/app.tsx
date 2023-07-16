@@ -9,6 +9,7 @@ import {
   BrowserRouter,
   Routes,
 } from "react-router-dom";
+import { Helmet } from "react-helmet";
 import "./normalize.css";
 import "./style.css";
 import logoUrl from "./assets/logo.svg";
@@ -18,48 +19,43 @@ import { HomePage } from "./pages/home";
 import { ResourcePage } from "./pages/resource";
 import { AboutPage } from "./pages/about";
 
-import i18n from 'i18next';
-import { initReactI18next } from 'react-i18next';
-import LanguageDetector from 'i18next-browser-languagedetector';
-import './i18n'
-
+import i18n from "i18next";
+import { initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+import "./i18n";
 
 const resources = {
   en: {
     translation: {
-      "translated-paragraph": "We are going to translate this paragraph - how will it be in Polish?"
-    }
+      "translated-paragraph":
+        "We are going to translate this paragraph - how will it be in Polish?",
+    },
   },
   pl: {
     translation: {
-      "translated-paragraph": "Przetlumaczymy ten paragraf - jak to bedzie po Polsku?"
-    }
-  }
+      "translated-paragraph":
+        "Przetlumaczymy ten paragraf - jak to bedzie po Polsku?",
+    },
+  },
 };
 
-i18n
-  .use(initReactI18next)
-  .use(LanguageDetector)
-  .init({
-    resources,
-    fallbackLng: 'en'
-  });
+i18n.use(initReactI18next).use(LanguageDetector).init({
+  resources,
+  fallbackLng: "en",
+});
 
 export default i18n;
 
 const DETECTION_OPTIONS = {
-  order: ['localStorage', 'navigator'],
-  caches: ['localStorage']
+  order: ["localStorage", "navigator"],
+  caches: ["localStorage"],
 };
 
-i18n
-  .use(LanguageDetector)
-  .use(initReactI18next)
-  .init({
-    detection: DETECTION_OPTIONS,
-    resources,
-    fallbackLng: 'en'
-  });
+i18n.use(LanguageDetector).use(initReactI18next).init({
+  detection: DETECTION_OPTIONS,
+  resources,
+  fallbackLng: "en",
+});
 
 export const AppContainer = styled("div")({
   display: "flex",
@@ -196,6 +192,10 @@ const App = () => {
   return (
     <>
       <ThemeProvider theme={theme}>
+        <Helmet>
+          <title>{i18n.t("meta.title")}</title>
+          <meta name="description" content={i18n.t("meta.description")} />
+        </Helmet>
         <BrowserRouter>
           <Header />
           <Routes>
