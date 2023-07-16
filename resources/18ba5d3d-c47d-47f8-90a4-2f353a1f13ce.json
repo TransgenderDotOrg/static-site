@@ -1,0 +1,98 @@
+{
+  "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
+  "slug": "ftmguideorg",
+  "externalUrl": "https://FTMGuide.org",
+  "tags": [
+    "transfeminine",
+    "non-binary",
+    "transmasculine",
+    "healthcare",
+    "clothing"
+  ],
+  "i18n": {
+    "en-US": {
+      "title": "FTMGuide.org",
+      "description": "A comprehensive online platform dedicated to supporting individuals who are transitioning from female to male (FTM). Their website serves as a trusted resource, offering a wealth of information, guidance, and community connections for those embarking on their FTM journey. From practical advice on hormone therapy and surgical options to mental health support and personal stories, FTMGuide.org aims to empower individuals with the knowledge and resources they need to navigate their transition with confidence and clarity."
+    },
+    "fr-FR": {
+      "title": "FTMGuide.org",
+      "description": "Une plateforme en ligne complète dédiée à soutenir les personnes qui effectuent une transition de femme à homme (FTM). Leur site web sert de ressource fiable, offrant une multitude d'informations, de conseils et de connexions communautaires pour ceux qui entament leur voyage FTM. Des conseils pratiques sur la thérapie hormonale et les options chirurgicales à l'accompagnement en santé mentale et des histoires personnelles, FTMGuide.org vise à responsabiliser les individus avec les connaissances et les ressources dont ils ont besoin pour naviguer dans leur transition avec confiance et clarté."
+    },
+    "es-ES": {
+      "title": "FTMGuide.org",
+      "description": "Una plataforma en línea integral dedicada a apoyar a las personas que están haciendo la transición de femenino a masculino (FTM). Su sitio web sirve como un recurso de confianza, que ofrece una gran cantidad de información, orientación y conexiones comunitarias para aquellos que inician su viaje FTM. Desde consejos prácticos sobre terapia hormonal y opciones quirúrgicas hasta apoyo de salud mental e historias personales, FTMGuide.org tiene como objetivo empoderar a las personas con el conocimiento y los recursos que necesitan para navegar su transición con confianza y claridad."
+    },
+    "zh-CN": {
+      "title": "FTMGuide.org",
+      "description": "一个全面的在线平台，致力于支持由女性向男性（FTM）过渡的个人。他们的网站被视为一个值得信赖的资源，为开始FTM旅程的人提供大量的信息，指引和社区联系。从关于荷尔蒙疗法和手术选择的实用建议，到心理健康支持和个人故事，FTMGuide.org 致力于赋予个人知识和资源，让他们能够自信和清晰地进行过渡。"
+    },
+    "ar-SA": {
+      "title": "FTMGuide.org",
+      "description": "منصة إلكترونية شاملة م dedicateded إلى دعم الأفراد الذين ينتقلون من الإناث إلى الذكور (FTM). يعمل موقعهم على الإنترنت كمورد موثوق، ويوفر الكثير من المعلومات، والإرشاد، وروابط المجتمع لأولئك الذين يبدأون رحلتهم FTM. من النصائح العملية حول العلاج بالهرمونات والخيارات الجراحية إلى دعم الصحة العقلية والقصص الشخصية، يهدف FTMGuide.org إلى تمكين الأفراد بالمعرفة والموارد التي يحتاجونها للتنقل في تحولهم بثقة ووضوح."
+    },
+    "hi-IN": {
+      "title": "FTMGuide.org",
+      "description": "एक समग्र ऑनलाइन मंच जो महिला से पुरुष (FTM) के लिए संक्रमण कर रहे व्यक्तियों का समर्थन करने के लिए समर्पित है। उनकी वेबसाइट एक विश्वसनीय संसाधन के रूप में कार्य करती है, जो उन लोगों के लिए जानकारी, मार्गदर्शन, और समुदाय कनेक्शन प्रदान करती है जो अपनी FTM यात्रा पर निकलते हैं। हार्मोन थेरेपी और शल्य विकल्पों पर व्यावहारिक सलाह से लेकर मानसिक स्वास्थ्य समर्थन और व्यक्तिगत कहानियों तक, FTMGuide.org का लक्ष्य व्यक्तियों को ज्ञान और संसाधनों से सशक्त करना है जिसकी उन्हें अपने संक्रमण को आत्मविश्वास और स्पष्टता के साथ निभाने की जरुरत है।"
+    },
+    "pt-PT": {
+      "title": "FTMGuide.org",
+      "description": "Uma plataforma online abrangente dedicada a apoiar os indivíduos que estão fazendo a transição de feminino para masculino (FTM). Seu site serve como um recurso confiável, oferecendo uma riqueza de informações, orientação e conexões com a comunidade para aqueles que estão embarcando em sua jornada FTM. Desde conselhos práticos sobre terapia hormonal e opções cirúrgicas até apoio à saúde mental e histórias pessoais, FTMGuide.org tem como objetivo capacitar os indivíduos com o conhecimento e os recursos de que precisam para navegar em sua transição com confiança e clareza."
+    },
+    "id-ID": {
+      "title": "FTMGuide.org",
+      "description": "Sebuah platform online komprehensif yang didedikasikan untuk mendukung individu yang sedang bertransisi dari wanita menjadi pria (FTM). Situs web mereka berfungsi sebagai sumber daya tepercaya, menawarkan berbagai informasi, bimbingan, dan konektivitas komunitas untuk mereka yang memulai perjalanan FTM mereka. Mulai dari saran praktis tentang terapi hormon dan opsi bedah hingga dukungan kesehatan mental dan cerita pribadi, FTMGuide.org bertujuan untuk memberdayakan individu dengan pengetahuan dan sumber daya yang mereka butuhkan untuk menjalani transisi mereka dengan percaya diri dan kejelasan."
+    },
+    "ru-RU": {
+      "title": "FTMGuide.org",
+      "description": "Об comprehensive online platform dedicated to supporting individuals who are transitioning from female to male (FTM). Их веб-сайт служит надежным ресурсом, предлагая огромное количество информации, рекомендаций и общинных связей для тех, кто начинает свое путешествие FTM. От практических советов по гормональной терапии и хирургическим вариантам до поддержки психического здоровья и личных историй, FTMGuide.org стремится дать людям знания и ресурсы, которые им нужны для того, чтобы с уверенностью и ясностью пройти свой переход."
+    },
+    "ur-PK": {
+      "title": "FTMGuide.org",
+      "description": "یہ ایک جامع آن لائن پلیٹ فارم ہے جو خواتین سے مردوں کی طرف گزرنے والے افراد کی مدد کرتا ہے (FTM). ان کی ویب سائٹ ایک معتبر وسیلہ کے طور پر کام کرتی ہے، جو معلومات، ہدایت اور کمیونٹی کے تعلقات کی بھرپور معلومات فراہم کرتی ہے جو اپنے FTM سفر پر نکلنے والے ہیں۔ ہارمون تھیراپی اور سرجری کے اختیارات پر عملی مشورے سے لے کر ذہنی صحت کی مدد اور ذاتی کہانیوں تک، FTMGuide.org افراد کو قدرت اور وسائل مہیا کرنے کا مقصد رکھتا ہے تاکہ وہ اپنے گزرنے کو پوری طرح سے سمجھ سکیں۔"
+    },
+    "bn-BD": {
+      "title": "FTMGuide.org",
+      "description": "একটি সম্পূর্ণ অনলাইন প্ল্যাটফর্ম যা মহিলা থেকে পুরুষ (FTM) হওয়ার প্রক্রিয়ায় ব্যক্তিদের সমর্থন করার জন্য উৎসাহিত করে। তাদের ওয়েবসাইটটি একটি বিশ্বস্ত সম্পদ হিসেবে কাজ করে, যা FTM পথে অবসরের জন্য তথ্য, নির্দেশ এবং সম্প্রদায়ের সংযোগ সরবরাহ করে। হরমোন থেরাপি এবং শাস্ত্রীয় বিকল্পগুলির উপর ব্যাবহারিক পরামর্শ থেকে মানসিক স্বাস্থ্য সমর্থন এবং ব্যক্তিগত গল্প পর্যন্ত, FTMGuide.org ব্যক্তিদের তাদের পরিবর্তন কেন্দ্রালোক এবং পরিষ্কারতার সাথে নেভিগেট করার জন্য প্রয়োজনীয় জ্ঞান এবং সম্পদ দিয়ে সশক্ত করার লক্ষ্যে।"
+    },
+    "sw-KE": {
+      "title": "FTMGuide.org",
+      "description": "Jukwaa la mtandaoni lenye habari za kina linalojitolea kuwasaidia watu wanaopitia mchakato wa kubadilika kutoka jinsia ya kike kwenda kiume (FTM). Tovuti yao inatumika kama rasilimali inayoaminika, ikitoa wingi wa habari, mwongozo, na mawasiliano ya jamii kwa wale wanaoanza safari yao ya FTM. Kutoka kwenye ushauri wa vitendo kuhusu tiba ya homoni na chaguzi za upasuaji hadi msaada wa afya ya akili na hadithi za kibinafsi, FTMGuide.org inalenga kuwapa watu uwezo kwa maarifa na rasilimali wanazohitaji kuendesha mabadiliko yao kwa ujasiri na uelewa."
+    },
+    "de-DE": {
+      "title": "FTMGuide.org",
+      "description": "Eine umfassende Online-Plattform, die sich der Unterstützung von Personen widmet, die von weiblich zu männlich (FTM) übergehen. Ihre Website dient als vertrauenswürdige Ressource und bietet eine Fülle von Informationen, Anleitungen und Verbindungen zur Gemeinschaft für diejenigen, die ihre FTM-Reise beginnen. Von praktischen Ratschlägen zur Hormontherapie und chirurgischen Optionen bis hin zu Unterstützung der psychischen Gesundheit und persönlichen Geschichten, zielt FTMGuide.org darauf ab, Personen durch Wissen und Ressourcen zu stärken, die sie benötigen, um ihren Übergang mit Zuversicht und Klarheit zu navigieren."
+    },
+    "ja-JP": {
+      "title": "FTMGuide.org",
+      "description": "女性から男性（FTM）への性別遷移をする個人を支援するための包括的なオンラインプラットフォームです。そのウェブサイトは信頼できるリソースとして提供され、FTMの旅に乗り出す人々に情報、ガイダンス、そしてコミュニティの接続を提供します。ホルモン療法や手術の選択肢に関する実用的なアドバイスから、メンタルヘルスのサポート、個人的なストーリーまで、FTMGuide.orgは、個人が自身の性別遷移を自信と明確さで進めるための知識とリソースを提供することを目指しています。"
+    },
+    "mr-IN": {
+      "title": "FTMGuide.org",
+      "description": "स्त्रीते पुरुष (FTM) कडे स्थलांतर करणार्या व्यक्तींना समर्थन करण्यासमर्पित एक महत्त्वाचा ऑनलाइन प्लॅटफॉर्म. त्यांची वेबसाइट एक विश्वसनीय संसाधनम्हणून काम करते, मूलभूत माहिती, मार्गदर्शन आणि समुदायातील संबंधांसाठी एक समृद्ध संसाधन उपलब्ध करवुन देते. हार्मोन चिकित्सा आणि शस्त्रक्रिया पर्यायांवरील व्यवहारिक सल्ल्यासह मानसिक आरोग्य समर्थन आणि वैयक्तिक कथा, FTMGuide.org हे व्यक्तींना ज्ञान आणि संसाधने प्राप्त करण्याची क्षमता देऊन, त्यांच्या स्थलांतराच्या प्रवासाचे स्वतंत्रपणे आणि स्पष्टपणे नेविगेट करण्यास तयार करणारे."
+    },
+    "te-IN": {
+      "title": "FTMGuide.org",
+      "description": "మహిళల నుండి పురుషుడికి (FTM) మారుస్థితికి వెళ్లుతున్న వ్యక్తులకు మద్దతు ప్రదానించే వ్యాపక ఆన్‌లైన్ వేదిక 'FTMGuide.org'. వారి వెబ్‌సైట్‌ ఒక విశ్వసనీయ సంసాధనంగా పనిచేస్తుంది, FTM యాత్రలో నిర్గమించడం కొరకు సమాచార యన్నియం, మార్గదర్శనం, కమ్మునిటీ కనెక్షన్‌లను అందిస్తుంది. హార్మోన్ చికిత్స మరియు శస్త్ర ప్రయోగాలపై ప్రాక్టికల్ సలహా నుండి మానసిక ఆరోగ్య మద్దతు మరియు వ్యక్తిగత కథల వరకు, FTMGuide.org వ్యక్తులకు ఆవశ్యక జ్ఞానం మరియు సంసాధనాలను అందించడానికి మరియు వారి మారుస్థితిని ఆత్మవిశ్వాసంతో మరియు స్పష్టతతో నడిచేందుకు ప్రయత్నిస్తుంది."
+    },
+    "tr-TR": {
+      "title": "FTMGuide.org",
+      "description": "Kadından erkeğe (FTM) geçiş yapan bireyleri desteklemeye adanmış kapsamlı bir online platform. Web siteleri, FTM yolculuklarına çıkanlar için bilgi, rehberlik ve topluluk bağlantıları sunan güvenilir bir kaynak olarak hizmet vermektedir. Hormon tedavisi ve cerrahi seçenekler hakkında pratik tavsiyelerden, zihinsel sağlık desteğine ve kişisel hikayelere kadar, FTMGuide.org, bireylerin geçişlerini güven ve açıklıkla yönetmeleri için gereken bilgi ve kaynaklarla donatmayı amaçlamaktadır."
+    },
+    "vi-VN": {
+      "title": "FTMGuide.org",
+      "description": "Một nền tảng trực tuyến toàn diện dành cho những người đang chuyển đổi từ nữ sang nam (FTM). Trang web của họ phục vụ như một nguồn tài nguyên đáng tin cậy, cung cấp một lượng lớn thông tin, hướng dẫn và kết nối cộng đồng cho những người đang bắt đầu hành trình FTM của mình. Từ lời khuyên thực tế về liệu pháp hormone và tùy chọn phẫu thuật đến hỗ trợ sức khỏe tâm thần và câu chuyện cá nhân, FTMGuide.org nhằm trao quyền cho các cá nhân bằng kiến thức và tài nguyên họ cần để điều hướng quá trình chuyển đổi của mình với sự tự tin và rõ ràng."
+    },
+    "ko-KR": {
+      "title": "FTMGuide.org",
+      "description": "여성에서 남성으로 변환하는 개인을 지원하기 위해 헌신하는 종합적인 온라인 플랫폼입니다. 그들의 웹사이트는 신뢰할 수 있는 자원으로서, FTM 여행을 시작하는 사람들을 위한 많은 정보, 지침, 그리고 커뮤니티 연결을 제공합니다. 호르몬 치료 및 수술 옵션에 대한 실질적인 조언부터 정신 건강 지원 및 개인적인 이야기에 이르기까지, FTMGuide.org은 개인들이 자신의 변환을 자신감과 명확성으로 탐색할 수 있도록 필요한 지식과 자원을 갖추는 것을 목표로 합니다."
+    },
+    "uk-UA": {
+      "title": "FTMGuide.org",
+      "description": "Повнофункціональна онлайн-платформа, призначена для підтримки осіб, які переходять від жіночої до чоловічої статі (FTM). Їхній веб-сайт служить надійним ресурсом, пропонуючи безліч інформації, керівництва та взаємозв'язків спільноти для тих, хто вступає на шлях FTM. Починаючи від практичних порад щодо гормональної терапії та хірургічних варіантів до підтримки психічного здоров'я та особистих історій, FTMGuide.org прагне наділити осіб знаннями та ресурсами, які їм необхідні для того, щоб прокласти шлях переходу з впевненістю та ясністю."
+    },
+    "ta-IN": {
+      "title": "FTMGuide.org",
+      "description": "பெண்களிலிருந்து ஆண்களுக்கு (FTM) மாறிவரும் நபர்களை ஆதரிக்கவையாகவே எந்தனைத் தளத்துக்காக உருவாக்கப்பட்ட FTMGuide.org. அவரது இணையதளம், ஒரு நம்பிக்கையுள்ள வளமாக சேவிக்கின்றது, தமின் FTM பயணத்தில் பயணமாகும் தேவைக்கு ஏற்ப அதிகமான தகவல், வழிகாட்டல், மற்றும் சமூக இணையங்களை வழங்குகிறது. ஹார்மோன் சிகிச்சை மற்றும் அறுவை விருப்பங்கள் மீதான நடைமுறை ஆலோசனைகளிலிருந்து ஆரோக்கியக்கல்வி ஆதரவு மற்றும் தனிப்பட்ட கதைகள் வரை, FTMGuide.org நபர்களை அவர்களுக்கு தேவையான அறிவு மற்றும் வளங்களுடன் உரிமைகொள்ள அவர்களின் மாற்றத்தை தனிப்பட்ட மற்றும் தெளிவான வழியில் வழிநடத்த நோக்குகிறது."
+    }
+  }
+}

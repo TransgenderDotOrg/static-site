@@ -1,0 +1,98 @@
+{
+  "id": "0db36ba9-b329-4a54-8302-d7810866457a",
+  "slug": "diyhrtcafe",
+  "externalUrl": "https://diyhrt.cafe",
+  "tags": [
+    "transfeminine",
+    "non-binary",
+    "transmasculine",
+    "healthcare",
+    "education-awareness"
+  ],
+  "i18n": {
+    "en-US": {
+      "title": "DIYHRT.cafe",
+      "description": "A vibrant online community and hub of knowledge for individuals interested in do-it-yourself hormone replacement therapy (HRT). Their website is dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. Whether you are exploring alternative methods, seeking guidance on dosage and administration, or simply looking to connect with others who share similar experiences, DIYHRT.cafe offers a wealth of valuable insights, personal stories, and expert advice to help you make informed decisions about your health and well-being."
+    },
+    "es-ES": {
+      "title": "DIYHRT.cafe",
+      "description": "Una comunidad online vibrante y un centro de conocimiento para las personas interesadas en la terapia hormonal de reemplazo (HRT) por sí mismos.  Su sitio web está dedicado a proporcionar un espacio seguro e inclusivo donde las personas pueden acceder a información, recursos y apoyo para la HRT administrada por uno mismo. Ya sea que estés explorando métodos alternativos, buscando orientación sobre la dosis y la administración, o simplemente deseas conectar con otras personas que comparten experiencias similares, DIYHRT.cafe ofrece una gran cantidad de valiosos conocimientos, historias personales y asesoramiento de expertos para ayudarte a tomar decisiones informadas sobre tu salud y bienestar."
+    },
+    "zh-CN": {
+      "title": "DIYHRT.cafe",
+      "description": "一个活跃的在线社区和知识中心，专为对自我制作激素替代疗法（HRT）感兴趣的个体提供。他们的网站致力于提供一个安全包容的空间，让人们可以获取有关自我管理HRT的信息、资源和支持。无论你是在探索替代疗法，寻求有关剂量和管理的指导，还是仅仅希望与有相似经历的人交流，DIYHRT.cafe都为你提供丰富的有价值的观点，个人故事，和专业建议，以帮助你做出关于你的健康和幸福的明智决定。"
+    },
+    "fr-FR": {
+      "title": "DIYHRT.cafe",
+      "description": "Une communauté en ligne dynamique et un centre de connaissances pour les individus intéressés par l'hormonothérapie de substitution à faire soi-même (HRT). Leur site Web est dédié à offrir un espace sûr et inclusif où les gens peuvent accéder à des informations, des ressources, et le soutien pour l'HRT auto-administrée. Que vous exploriez des méthodes alternatives, cherchiez des conseils sur le dosage et l'administration, ou simplement que vous cherchiez à connecter avec d'autres qui partagent des expériences similaires, DIYHRT.cafe offre une multitude d'aperçus précieux, d'histoires personnelles et de conseils d'experts pour vous aider à prendre des décisions éclairées sur votre santé et votre bien-être."
+    },
+    "ar-SA": {
+      "title": "DIYHRT.cafe",
+      "description": "مجتمع اونلاين نابض بالحياة ومركز معرفة للأشخاص المهتمين بالعلاج الهرموني البديل (HRT). موقعهم على الويب مُ dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. سواء كنت تستكشف الأساليب البديلة، أو تبحث عن التوجيه حول الجرعة والإدارة، أو ببساطة تبحث عن التواصل مع الآخرين الذين يشاركون تجارب مماثلة، يقدم DiyHRT.cafe ثروة من الإطلاعات القيمة, قصص شخصية, ونصائح خبير لمساعدتك في اتخاذ قرارات مستنيره بشأن صحتك ورفاهيتك."
+    },
+    "hi-IN": {
+      "title": "DIYHRT.cafe",
+      "description": "ऐसे व्यक्तियों के लिए ज्ञान का हब और ऑनलाइन समुदाय के रूप में एक उत्साही DIY hormone replacement therapy (HRT) में रुचि रखने वाले लोग। उनकी वेबसाइट स्वयं की HRT के लिए सूचना, संसाधन और समर्थन तक पहुँच पा सकने वाले लोगों के लिए एक सुरक्षित और समावेशी स्थल प्रदान करने के लिए समर्पित है। चाहे आप वैकल्पिक विधियों का अन्वेषण कर रहे हों, डोज़ और प्रशासन पर मार्गदर्शन ढ़ूंढ़ रहे हों, या बस उन लोगों से जुड़ना चाहते हैं जो समान अनुभव रखते हैं, DIYHRT.cafe आपकी हेल्थ और कल्याण के बारे में सूचित निर्णय लेने में मदद करने के लिए मूल्यवान सूचनाएँ, व्यक्तिगत कहानियाँ और विशेषज्ञ सलाह प्रदान करता है।"
+    },
+    "id-ID": {
+      "title": "DIYHRT.cafe",
+      "description": "Sebuah komunitas online yang dinamis dan pusat pengetahuan untuk individu yang tertarik pada terapi penggantian hormon buatan sendiri (HRT). Situs web mereka didedikasikan untuk menyediakan ruang yang aman dan inklusif di mana orang dapat mengakses informasi, sumber daya, dan dukungan untuk HRT yang diadministrasikan sendiri. Apakah Anda menjelajahi metode alternatif, mencari panduan tentang dosis dan administrasi, atau hanya ingin berhubungan dengan orang-orang yang memiliki pengalaman serupa, DIYHRT.cafe menawarkan banyak wawasan berharga, kisah pribadi, dan nasihat ahli untuk membantu Anda membuat keputusan yang tepat tentang kesehatan dan kesejahteraan Anda."
+    },
+    "pt-PT": {
+      "title": "DIYHRT.cafe",
+      "description": "Uma vibrante comunidade online e centro de conhecimento para indivíduos interessados em terapia de reposição hormonal faça-você-mesmo (HRT). O site deles é dedicado a fornecer um espaço seguro e inclusivo onde as pessoas possam acessar informações, recursos e apoio para a HRT autoadministrada. Seja você está explorando métodos alternativos, buscando orientação sobre dosagem e administração, ou simplesmente procurando se conectar com outros que compartilham experiências semelhantes, o DIYHRT.cafe oferece uma riqueza de insights valiosos, histórias pessoais e conselhos de especialistas para ajudá-lo a tomar decisões informadas sobre sua saúde e bem-estar."
+    },
+    "ru-RU": {
+      "title": "DIYHRT.cafe",
+      "description": "Яркое онлайн-сообщество и центр знаний для людей, заинтересованных в самостоятельной гормональной заместительной терапии (HRT). Их веб-сайт посвящен предоставлению безопасного и включающего пространства, где люди могут получить информацию, ресурсы и поддержку для самостоятельного HRT. Будь вы в поисках альтернативных методов, ищете руководство по дозировке и администрированию, или просто хотите связаться с другими, кто разделяет похожие опыты, DIYHRT.cafe предлагает множество ценных у insights, личных историй и профессиональных советов, которые помогут вам принять обоснованные решения о вашем здоровье и благополучии."
+    },
+    "ur-PK": {
+      "title": "DIYHRT.cafe",
+      "description": "خود کر کے ہارمون رپلیسمنٹ تھریپی (HRT) میں دلچسپی رکھنے والے افراد کے لیے علم کا ہب اور آن لائن کمیونٹی ہے۔ ان کی ویب سائٹ خود کو محفوظ اور شامل کرنے والی جگہ مہیا کرنے کے لئے وقف کی گئی ہے جہاں لوگ معلومات، وسائل اور خود کو خود میں مہارت رکھنے کے لئے مدد حاصل کر سکتے ہیں۔ چاہے آپ متبادل طریقوں کا تجزیہ کر رہے ہوں، خوراک اور انتظام کے بارے میں رہنمائی تلاش کر رہے ہوں، یا صرف ایسے لوگوں سے رابطہ کرنے کی تلاش میں ہوں جو ایک جیسے تجربات شریک کرتے ہیں، DIYHRT.cafe آپکو اپنی صحت اور خوشحالی کے بارے میں آگاہ فیصلے کرنے میں مددگار ہونے والی قیمتی بصیرت، ذاتی کہانیوں، اور ماہرانہ مشورے پیش کرتا ہے۔"
+    },
+    "bn-BD": {
+      "title": "DIYHRT.cafe",
+      "description": "ডু-ইট-ইউরসেলফ হরমোন রিপ্লেসমেন্ট থেরাপি (HRT) এর প্রতি আগ্রহী ব্যক্তিদের জন্য একটি অত্যন্ত সক্রিয় অনলাইন সম্প্রদায় এবং জ্ঞানের হাব। তাদের ওয়েবসাইট একটি নিরাপদ এবং সমাবেশক স্থান প্রদান করতে উদ্যোগী যেখানে মানুষজন স্বয়ং-প্রশাসিত HRT জন্য তথ্য, সম্পদ এবং সমর্থন অ্যাক্সেস করতে পারে। আপনি যদি বিকল্প পদ্ধতিগুলি অন্বেষণ করেন, ডোজ এবং প্রশাসনে নির্দেশ খুঁজছেন, অথবা কেবল অন্যান্যদের সাথে যোগাযোগ করার চেষ্টা করছেন যারা অনুরূপ অভিজ্ঞতা শেয়ার করে, DIYHRT.cafe আপনার স্বাস্থ্য এবং সু-অবস্থার সম্বন্ধে সুজ্ঞান সিদ্ধান্ত গ্রহণে সহায়তা করতে মূল্যবান অন্তর্দৃষ্টি, ব্যক্তিগত গল্প এবং বিশেষজ্ঞদের পরামর্শ সরবরাহ করে।"
+    },
+    "de-DE": {
+      "title": "DIYHRT.cafe",
+      "description": "Eine lebendige Online-Gemeinschaft und Wissenshub für Personen, die sich für Do-it-yourself-Hormonersatztherapie (HRT) interessieren. Ihre Webseite ist dafür bestimmt, einen sicheren und inklusiven Raum zu bieten, in dem Menschen Zugang zu Informationen, Ressourcen und Unterstützung für die selbstverabreichte HRT bekommen können. Ob Sie alternative Methoden erforschen, Anleitung für Dosierung und Verabreichung suchen oder einfach nur den Kontakt zu anderen suchen, die ähnliche Erfahrungen gemacht haben, DIYHRT.cafe bietet eine Fülle von wertvollen Einsichten, persönlichen Geschichten und Expertenratschlägen, um Ihnen zu helfen, informierte Entscheidungen über Ihre Gesundheit und Ihr Wohlbefinden zu treffen."
+    },
+    "sw-KE": {
+      "title": "DIYHRT.cafe",
+      "description": "Jamii inayochanua mtandaoni na kitovu cha maarifa kwa watu binafsi wanaovutiwa na tiba ya kubadilisha homoni (HRT) kwa kujitegemea. Tovuti yao imejitolea kutoa nafasi salama na jumuishi ambapo watu wanaweza kupata habari, rasilimali, na msaada kwa HRT inayosimamiwa na mtu binafsi. Iwe unachunguza njia mbadala, unatafuta mwongozo kuhusu kipimo na utawala, au unatafuta tu kuungana na wengine ambao wana shiriki uzoefu kama huo, DIYHRT.cafe inatoa mtazamo wa thamani nyingi, hadithi za kibinafsi, na ushauri wa wataalam kusaidia kufanya maamuzi yaliyoarifiwa kuhusu afya yako na ustawi."
+    },
+    "ja-JP": {
+      "title": "DIYHRT.cafe",
+      "description": "DIYHRT.cafeは、自分で行うホルモン補充療法（HRT）に興味のある人々のための活発なオンラインコミュニティと知識のハブです。彼らのウェブサイトは、自己投与のHRTに対する情報、リソース、そしてサポートにアクセスできる安全で包括的な空間を提供することに専念しています。あなたが代替方法を探しているのか、用量と投与に関するガイダンスを求めているのか、または同様の経験を共有する他の人々と繋がることを望んでいるだけなのか、DIYHRT.cafeはあなたの健康と幸福に関する情報通りの決定を下すのを支援する貴重な洞察、個人の物語、専門的なアドバイスを提供します。"
+    },
+    "mr-IN": {
+      "title": "DIYHRT.cafe",
+      "description": "स्वत:ची हॉर्मोन बदलेली उपचार (HRT) करणार्या व्यक्त्यांसाठी एक उज्जवळ ऑनलाईन समुदाय आणि ज्ञानाचे केंद्र. त्यांची वेबसाईट स्वत:च्या HRT साठी माहिती, संसाधने आणि समर्थन मिळवण्याच्या ठिकाणी सुरक्षित आणि समाविष्ट करणारी जागा प्रदान करण्यासमर्पित आहे. किंवा तुम्ही दोसागी पद्धतींची शोध घेतली आहे, डोसाईजिंग आणि प्रशासनासाठी मार्गदर्शन होऊ द्या किंवा फक्त इतरांशी सांगणारे अनुभव्या, DIYHRT.cafe तुमच्या आरोग्य आणि क्षेमाबद्दल सुचेत संपादनांसाठी तुम्हाला मदत करण्यासाठी मूल्यवान अंतर्दृष्टी, व्यक्तिगत कथा आणि तज्ज्ञ सल्ला प्रदान करते."
+    },
+    "te-IN": {
+      "title": "DIYHRT.cafe",
+      "description": "డూ-ఇట్-యొవర్సెల్ఫ్ హార్మోన్ రిప్లేస్మెంట్ థెరపీ (HRT) పై ఆసక్తి ఉన్న వ్యక్తుల కోసం తెలివైన సముదాయం మరియు జ్ఞాన కేంద్రం ఏదైనా DIYHRT.cafe. వారి వెబ్‌సైట్ స్వయం నిర్వహించే HRTకు సమాచారం, వనరులు, మరియు మద్దతును ఆందోళన చేసే సురక్షిత మరియు సమావేశక స్థలంగా ఉంది. మీరు ప్రత్యామ్నాయ పద్ధతులను అన్వేషిస్తున్నారా, డోసేజీ మరియు నిర్వహణ పై మార్గదర్శనను శోధిస్తున్నారా, లేదా మీకు అనుభవాలు ఉన్నవారితో కనెక్ట్ చేయాలని కోరుకుంటున్నారా, DIYHRT.cafe మీ ఆరోగ్య మరియు సంకల్పాత్మక నిపుణ సలహా, వ్యక్తిగత కథనాలు, మరియు అరుదైన సమాచారాన్ని అందించడానికి సంపన్నం."
+    },
+    "tr-TR": {
+      "title": "DIYHRT.cafe",
+      "description": "Kendin yap hormon yerine koyma tedavisi (HRT) ile ilgilenen kişiler için canlı bir online topluluk ve bilgi merkezi. Web siteleri, kendi kendine uygulanan HRT için bilgi, kaynak ve destek erişebilecekleri güvenli ve kapsayıcı bir alan sağlamaya adanmıştır. Alternatif yöntemleri keşfediyor olun, dozaj ve uygulama üzerinde rehberlik arıyor olun, veya benzer deneyimleri paylaşan başkalarıyla bağlantı kurmayı arıyor olun, DIYHRT.cafe sağlık ve esenliğinizle ilgili bilinçli kararlar vermenize yardımcı olacak değerli içgörüler, kişisel hikayeler ve uzman tavsiyeleri sunar."
+    },
+    "vi-VN": {
+      "title": "DIYHRT.cafe",
+      "description": "Một cộng đồng trực tuyến sôi động và trung tâm kiến thức cho những người quan tâm đến việc tự tạo ra liệu pháp thay thế hormon (HRT). Trang web của họ tập trung vào việc cung cấp một không gian an toàn và bao quát nơi mọi người có thể tiếp cận thông tin, nguồn lực, và hỗ trợ cho việc tự điều khiển HRT. Dù bạn đang khám phá các phương pháp thay thế, tìm kiếm hướng dẫn về liều lượng và quản lý, hay chỉ đơn giản muốn kết nối với những người chia sẻ những trải nghiệm tương tự, DIYHRT.cafe mang đến một nguồn thông tin quý giá, câu chuyện cá nhân, và lời khuyên chuyên môn để giúp bạn ra quyết định thông suốt về sức khỏe và cuộc sống của bạn."
+    },
+    "uk-UA": {
+      "title": "DIYHRT.cafe",
+      "description": "Жвава онлайн спільнота та центр знань для осіб, які цікавляться самостійною замінною гормональною терапією (HRT). Їхній вебсайт призначений для надання безпечного та включного простору, де люди можуть отримувати інформацію, ресурси та підтримку для самостійної HRT. Неважливо, досліджуєте ви альтернативні методи, шукаєте керівництво щодо дозування та адміністрації, або просто хочете зв'язатися з іншими, хто має подібний досвід, DIYHRT.cafe пропонує багатство цінних оглядів, особистих історій та експертних порад, щоб допомогти вам приймати обгрунтовані рішення щодо вашого здоров'я та благополуччя."
+    },
+    "ko-KR": {
+      "title": "DIYHRT.cafe",
+      "description": "자기 고체 호르몬 대체 요법에 관심이 있는 개인들을 위한 지식의 중심지이자 열정적인 온라인 커뮤니티입니다. 그들의 웹사이트는 안전하고 포괄적인 공간을 제공하기 위해 헌신하며, 사람들이 자가 투여 HRT에 대한 정보, 리소스, 지원을 접근할 수 있습니다. 대체 방법을 탐색하고 있거나, 복용량과 투여에 대한 지도를 찾고 있거나, 비슷한 경험을 공유하는 다른 사람들과 연결하고 싶은 경우, DIYHRT.cafe는 귀하의 건강과 웰빙에 대한 정보적 결정을 돕기 위한 귀중한 통찰력, 개인적인 이야기, 전문적인 조언을 제공합니다."
+    },
+    "ta-IN": {
+      "title": "DIYHRT.cafe",
+      "description": "தன்னையே செயலாக்கும் ஹார்மோன் மாற்று சிகிச்சை (HRT) ஆர்வத்தை வைத்திருக்கும் நபர்களுக்கான அறிவு மையமாக உள்ள மிகுந்த ஆன்லைன் சமூகம். அவர்களின் இணையத்தளம் தனியார செயலாக்கும் HRT க்கு தகவல்களை, வளங்களை, ஆதரவை அணுகுவது என்பது எங்கும் பாதுகாப்பான மற்றும் சேர்ந்து வாழ்வது என்பது என்று ஈர்த்தெழுதுகிறது. நீங்கள் மாற்று முறைகளை ஆராய்கிறீர்களா, மதிப்பீடு மற்றும் செயல்பாட்டில் வழிகாட்டுதலை தேடுகிறீர்களா, அல்லது ஒரே அனுபவத்தை பகிர்ந்து கொண்ட பிறருடன் தொடர்பு கொள்ள விரும்புகிறீர்களா, DIYHRT.cafe உங்கள் ஆரோக்கியம் மற்றும் நலன் பற்றிய அறிவியல் ஆக்கப்பட்ட முடிவுகளை எடுக்க உதவும் மிகுந்த முக்கியத்துவமுள்ள ஞாலங்களை, தனிப்பட்ட கதைகளை மற்றும் வல்லுநர் ஆலோசனைகளை வழங்குகிறது."
+    }
+  }
+}

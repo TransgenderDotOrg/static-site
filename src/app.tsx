@@ -18,6 +18,7 @@ import useSearch from "./useSearch";
 import { ThemeProvider, createTheme, useTheme } from "@mui/material";
 import { Header } from "./ui/navigation/header";
 import { HomePage } from "./pages/home";
+import { ResourcePage } from "./pages/resource";
 
 export const AppContainer = styled("div")({
   display: "flex",
@@ -129,6 +130,12 @@ const theme = createTheme({
       fontWeight: 300,
       lineHeight: 1.5,
     },
+    body2: {
+      fontFamily: "OpenSans, sans-serif",
+      fontSize: "1.25rem",
+      fontWeight: 300,
+      lineHeight: 1.5,
+    },
     h3: {
       fontFamily: "Mukta, sans-serif",
       fontSize: "2.5rem",
@@ -153,6 +160,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="about" element={<div>About</div>} />
+            <Route path="resources" element={<ResourcePage />} />
           </Routes>
         </BrowserRouter>
       </ThemeProvider>

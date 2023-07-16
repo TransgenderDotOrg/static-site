@@ -19,6 +19,7 @@ export const HomePage = () => {
           padding: 0,
           justifyContent: "flex-end",
           background: `url(${homeImageUrl}) no-repeat center center`,
+          height: "calc(100vh - 85px)",
         },
       }}
     >
@@ -36,7 +37,7 @@ export const HomePage = () => {
         }}
       >
         <Typography variant="h3">What do we do?</Typography>
-        <Typography variant="body1">
+        <Typography variant="body2">
           Dorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu
           turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec
           fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus

@@ -1,0 +1,22 @@
+[
+  { "language": "Mandarin (Simplified)", "locale_code": "zh-CN" },
+  { "language": "Hindi", "locale_code": "hi-IN" },
+  { "language": "Spanish", "locale_code": "es-ES" },
+  { "language": "French", "locale_code": "fr-FR" },
+  { "language": "Arabic", "locale_code": "ar-SA" },
+  { "language": "Bengali", "locale_code": "bn-BD" },
+  { "language": "Russian", "locale_code": "ru-RU" },
+  { "language": "Portuguese", "locale_code": "pt-PT" },
+  { "language": "Indonesian", "locale_code": "id-ID" },
+  { "language": "Urdu", "locale_code": "ur-PK" },
+  { "language": "German", "locale_code": "de-DE" },
+  { "language": "Japanese", "locale_code": "ja-JP" },
+  { "language": "Swahili", "locale_code": "sw-KE" },
+  { "language": "Marathi", "locale_code": "mr-IN" },
+  { "language": "Telugu", "locale_code": "te-IN" },
+  { "language": "Turkish", "locale_code": "tr-TR" },
+  { "language": "Tamil", "locale_code": "ta-IN" },
+  { "language": "Vietnamese", "locale_code": "vi-VN" },
+  { "language": "Korean", "locale_code": "ko-KR" },
+  { "language": "Ukrainian", "locale_code": "uk-UA" }
+]

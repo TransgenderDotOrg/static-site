@@ -1,0 +1,97 @@
+{
+  "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
+  "slug": "equaldexcom",
+  "externalUrl": "https://EqualDex.com",
+  "tags": [
+    "transfeminine",
+    "non-binary",
+    "transmasculine",
+    "partner-resources"
+  ],
+  "i18n": {
+    "en-US": {
+      "title": "EqualDex.com",
+      "description": "An innovative online platform that aims to create a comprehensive and up-to-date resource for global LGBTQ+ rights. Their website provides a centralized database of laws, policies, and societal attitudes towards LGBTQ+ rights from around the world. By mapping and visualizing data on equality, inclusivity, and legal protections, EqualDex.com offers a powerful tool for activists, researchers, and individuals seeking to understand and advocate for LGBTQ+ rights on a global scale. Explore their interactive maps, browse country-specific profiles, and stay informed about the latest advancements and challenges facing the LGBTQ+ community worldwide."
+    },
+    "es-ES": {
+      "title": "EqualDex.com",
+      "description": "Una plataforma en línea innovadora que tiene como objetivo crear un recurso completo y actualizado para los derechos LGBTQ+ globales. Su sitio web proporciona una base de datos centralizada de leyes, políticas y actitudes sociales hacia los derechos LGBTQ+ en todo el mundo. Al mapear y visualizar datos sobre igualdad, inclusividad y protecciones legales, EqualDex.com ofrece una herramienta poderosa para activistas, investigadores e individuos que buscan comprender y abogar por los derechos LGBTQ+ a escala global. Explore sus mapas interactivos, perfiles específicos de países y manténgase informado sobre los últimos avances y desafíos que enfrenta la comunidad LGBTQ+ en todo el mundo."
+    },
+    "fr-FR": {
+      "title": "EqualDex.com",
+      "description": "Une plateforme en ligne innovante qui vise à créer une ressource complète et à jour des droits LGBTQ+ mondiaux. Leur site Web fournit une base de données centralisée des lois, politiques et attitudes sociétales envers les droits LGBTQ+ à travers le monde. En cartographiant et en visualisant les données sur l'égalité, l'inclusivité et les protections juridiques, EqualDex.com offre un outil puissant pour les activistes, les chercheurs et les individus cherchant à comprendre et à défendre les droits LGBTQ+ à l'échelle mondiale. Explorez leurs cartes interactives, parcourez les profils spécifiques aux pays et restez informé sur les dernières avancées et défis auxquels fait face la communauté LGBTQ+ dans le monde."
+    },
+    "zh-CN": {
+      "title": "EqualDex.com",
+      "description": "一个创新的在线平台，旨在为全球LGBTQ+权益创建一个全面且最新的资源。他们的网站提供一个集合了法律、政策以及来自世界各地对LGBTQ+权益的社会态度的中央数据库。通过对平等、包容性和法律保护的数据进行映射和可视化，EqualDex.com为活动家、研究人员以及希望理解并倡导全球范围内LGBTQ+权益的个体提供了强大的工具。探索他们的交互式地图，浏览特定国家的概况，以及关注LGBTQ+社区在全球范围内面临的最新进展和挑战。"
+    },
+    "ar-SA": {
+      "title": "EqualDex.com",
+      "description": "منصة عبر الإنترنت مبتكرة تهدف إلى إنشاء مورد شامل ومحدث لحقوق LGBTQ+ العالمية. يوفر موقعهم قاعدة بيانات مركزية للقوانين والسياسات والمواقف المجتمعية تجاه حقوق LGBTQ+ في جميع أنحاء العالم. من خلال رسم البيانات وتصويرها بشكل بصري على الإنصاف والشمولية والحماية القانونية، يقدم EqualDex.com أداة قوية للنشطاء والباحثين والأفراد الذين يسعون لفهم والدعوة إلى حقوق LGBTQ+ على نطاق عالمي. استكشف خرائطهم التفاعلية، وتصفح الملفات الشخصية الخاصة بالبلد، وابق على اطلاع على أحدث التطورات والتحديات التي تواجه مجتمع LGBTQ+ في جميع أنحاء العالم."
+    },
+    "hi-IN": {
+      "title": "EqualDex.com",
+      "description": "एक नवाचारी ऑनलाइन प्लेटफॉर्म जो वैश्विक LGBTQ+ अधिकारों के लिए एक व्यापक और अद्यतित संसाधन बनाने का उद्देश्य रखता है। उनकी वेबसाइट दुनिया भर से LGBTQ+ अधिकारों के प्रति क़ानूनों, नीतियों, और समाजिक दृष्टिकोणों का एक केंद्रीय डेटाबेस प्रदान करती है। समानता, समावेशिता, और कानूनी संरक्षण पर डेटा का मैपिंग और विजुअलीकरण करके, EqualDex.com कार्यकर्ताओं, अनुसंधानकर्ताओं, और वैश्विक स्तर पर LGBTQ+ अधिकारों के लिए समझने और समर्थन करने की कोशिश करने वाले व्यक्तियों के लिए एक शक्तिशाली उपकरण प्रदान करता है। उनके इंटरैक्टिव मैप्स का अन्वेषण करें, देश-विशिष्ट प्रोफाइल्स ब्राउज़ करें, और LGBTQ+ समुदाय के सामने आने वाली नवीनतम उन्नतियां और चुनौतियां के बारे में जागरूक रहें।"
+    },
+    "id-ID": {
+      "title": "EqualDex.com",
+      "description": "Sebuah platform online inovatif yang bertujuan untuk menciptakan sumber daya yang komprehensif dan terkini tentang hak LGBTQ+ global. Situs web mereka menyediakan basis data sentralisasi dari undang-undang, kebijakan, dan sikap masyarakat terhadap hak LGBTQ+ dari seluruh dunia. Dengan memetakan dan memvisualisasikan data tentang kesetaraan, inklusivitas, dan perlindungan hukum, EqualDex.com menawarkan alat yang kuat untuk aktivis, peneliti, dan individu yang berusaha memahami dan advokasi untuk hak LGBTQ+ dalam skala global. Jelajahi peta interaktif mereka, telusuri profil negara tertentu, dan tetap terinformasi tentang kemajuan dan tantangan terbaru yang dihadapi komunitas LGBTQ+ di seluruh dunia."
+    },
+    "pt-PT": {
+      "title": "EqualDex.com",
+      "description": "Uma plataforma online inovadora que visa criar um recurso abrangente e atualizado para os direitos globais da comunidade LGBTQ+. O site deles oferece um banco de dados centralizado de leis, políticas e atitudes da sociedade em relação aos direitos LGBTQ+ de todo o mundo. Ao mapear e visualizar dados sobre igualdade, inclusão e proteções legais, EqualDex.com oferece uma ferramenta poderosa para ativistas, pesquisadores e pessoas que procuram entender e defender os direitos LGBTQ+ em escala global. Explore os mapas interativos, navegue pelos perfis de cada país e mantenha-se informado sobre os mais recentes avanços e desafios enfrentados pela comunidade LGBTQ+ em todo o mundo."
+    },
+    "ru-RU": {
+      "title": "EqualDex.com",
+      "description": "Новаторская интернет-платформа, которая стремится создать всеобъемлющий и актуальный ресурс по глобальным правам ЛГБТК+. На их веб-сайте представлена централизованная база данных о законах, политике и общественном отношении к правам ЛГБТК+ по всему миру. Визуализируя данные об равенстве, инклюзивности и правовой защите, EqualDex.com предлагает мощный инструмент для активистов, исследователей и людей, желающих понять и поддержать права ЛГБТК+ на глобальном уровне. Изучайте их интерактивные карты, просматривайте профили специфических для страны и следите за последними достижениями и вызовами, с которыми сталкивается ЛГБТК+ сообщество по всему миру."
+    },
+    "ur-PK": {
+      "title": "EqualDex.com",
+      "description": "یہ ایک نوعیاتی آن لائن پلیٹ فارم ہے جو عالمگیر LGBTQ+ حقوق کے لئے ایک جامع اور تازہ ترین وسائل پیدا کرنے کا مقصد رکھتا ہے۔ ان کی ویب سائٹ دنیا بھر سے LGBTQ+ حقوق کے قوانین، پالیسیوں، اور معاشرتی رویوں کے مرکزی ڈیٹابیس فراہم کرتی ہے۔ برابری، شمولیت، اور قانونی تحفظات پر ڈیٹا کو نقشے بناکر اور بصری ہونے والا ڈیٹا، EqualDex.com نے کارکنان، تحقیق کرنے والوں، اور افراد کے لئے ایک طاقتور اوزار فراہم کیا ہے جو عالمگیر پیمانے پر LGBTQ+ حقوق کو سمجھنے اور ان کی حمایت کرنے کی کوشش کر رہے ہیں۔ ان کے تفریحی نقشوں کا جائزہ لیں، ملک خاص پروفائل براؤز کریں، اور LGBTQ+ برادری کو عالمگیر پیمانے پر سامنے آنے والی ترقیوں اور چیلنجز کے بارے میں مطلع رہیں۔"
+    },
+    "bn-BD": {
+      "title": "EqualDex.com",
+      "description": "একটি নতুন ধরনের অনলাইন প্ল্যাটফর্ম যা বিশ্বব্যাপী এলজিবিটিকিউ+ অধিকারের জন্য একটি সম্পূর্ণ এবং আধুনিক উপায় সৃষ্টি করার লক্ষ্য ধারণ করে। তাদের ওয়েবসাইট বিশ্বের প্রায় সমস্ত দেশ থেকে এলজিবিটিকিউ+ অধিকার সম্পর্কিত আইন, নীতি এবং সমাজভিত্তিক মনোনীতির একটি কেন্দ্রীভূত ডাটাবেজ প্রদান করে। সমতা, সহভাগিতা এবং আইনগত সুরক্ষা সম্পর্কিত ডাটা মানচিত্রণ এবং চিত্রায়ণ করে, EqualDex.com কর্মী, গবেষক এবং বিশ্ব মাত্রায় এলজিবিটিকিউ+ অধিকারের জন্য অধিকার দাবি করার চেষ্টা করা ব্যক্তিদের জন্য একটি শক্তিশালী সরঞ্জাম অফার করে। তাদের ইন্টারেক্টিভ মানচিত্র অন্বেষণ করুন, দেশভিত্তিক প্রোফাইল ব্রাউজ করুন, এবং বিশ্বব্যাপী এলজিবিটিকিউ+ সম্প্রদায়ের সম্মুখীন সর্বশেষ উন্নতি এবং চ্যালেঞ্জ সম্পর্কে সচেতন থাকুন।"
+    },
+    "de-DE": {
+      "title": "EqualDex.com",
+      "description": "Eine innovative Online-Plattform, die darauf abzielt, eine umfassende und aktuelle Ressource für globale LGBTQ+ Rechte zu schaffen. Ihre Webseite bietet eine zentralisierte Datenbank von Gesetzen, Richtlinien und gesellschaftlichen Einstellungen gegenüber LGBTQ+ Rechten aus der ganzen Welt. Durch das Kartieren und Visualisieren von Daten über Gleichheit, Inklusivität und Rechtsschutz bietet EqualDex.com ein leistungsstarkes Werkzeug für Aktivisten, Forscher und Personen, die LGBTQ+ Rechte auf globaler Ebene verstehen und dafür eintreten wollen. Erkunden Sie ihre interaktiven Karten, durchsuchen Sie länderspezifische Profile und bleiben Sie informiert über die neuesten Fortschritte und Herausforderungen, die die LGBTQ+ Gemeinschaft weltweit trifft."
+    },
+    "sw-KE": {
+      "title": "EqualDex.com",
+      "description": "Jukwaa la mkondoni lenye ubunifu linalolenga kuunda rasilimali kamili na ya kisasa kwa haki za LGBTQ+ ulimwenguni. Tovuti yao inatoa hifadhidata kuu ya sheria, sera, na mtazamo wa jamii kuelekea haki za LGBTQ+ kutoka ulimwenguni kote. Kwa kukusanya na kuonesha data kuhusu usawa, ujumuishaji, na ulinzi wa kisheria, EqualDex.com inatoa zana yenye nguvu kwa wazalendo, watafiti, na watu binafsi wanaotaka kuelewa na kuhamasisha haki za LGBTQ+ kwenye kiwango cha kimataifa. Gundua ramani zao za kuona na kubadilika, angalia maelezo maalum ya nchi, na ujue maboresho na changamoto za hivi karibuni zinazokabili jamii ya LGBTQ+ ulimwenguni."
+    },
+    "ja-JP": {
+      "title": "EqualDex.com",
+      "description": "包括的で最新の世界のLGBTQ+の権利に関するリソースを作成することを目指して開発された革新的なオンラインプラットフォームです。そのウェブサイトは、世界中のLGBTQ+の権利に対する法律、政策、社会的態度の集中データベースを提供しています。平等、包含性、法的保護についてのデータをマッピングし、視覚化することで、EqualDex.comは、活動家、研究者、そして世界規模でLGBTQ+の権利を理解し、主張しようとする個人にとって強力なツールを提供します。彼らのインタラクティブな地図を探索し、国別のプロファイルを参照し、世界中のLGBTQ+コミュニティが直面する最新の進歩と課題について情報を得てください。"
+    },
+    "mr-IN": {
+      "title": "EqualDex.com",
+      "description": "एक अभिप्रेती ऑनलाईन प्लॅटफॉर्म ज्याचा लक्ष महाराष्ट्रातील एलजीबीटीक्यू+ अधिकारांची समग्र आणि वर्तमान स्तरावरील स्थळी तयार करण्यास आहे. त्यांची वेबसाईट जगभरातील एलजीबीटीक्यू+ अधिकारांवरील मतांच्या, नीत्यांच्या आणि समाजाच्या दृष्टिकोनाच्या अधिसूचनांची संकेन्द्रित डेटाबेस प्रदान करते. समानता, सम्वेशीत्व आणि कायदेशीर विरोधाभासावरील डेटाच्या मानचित्रणाच्या आणि दृश्यविलासनाद्वारे, EqualDex.com म्हणजेच वावर्तोमागणार्‍या, संशोधकांच्या आणि जगातील एलजीबीटीक्यू+ अधिकारांच्या अभिप्रेती वैयतिगतांसाठी एक प्रबळ साधन उपलब्ध करते. त्यांच्या इंटरॅक्टिव मानचित्रे अन्वेषण करा, देशविशिष्ट प्रोफाइल्स ब्राउज करा, आणि जगातभरातील एलजीबीटीक्यू+ समुदायाच्या समोर येणाऱ्या नवनवीन प्रगती आणि आव्हानांबद्दल माहितीपूर्ण राहा."
+    },
+    "te-IN": {
+      "title": "EqualDex.com",
+      "description": "ప్రపంచ వ్యాప్తంగా ఎల్జిబిటిక్యు+ హక్కుల కోసం ఓ వ్యాపకమైన మరియు తాజాగా ఉన్న వనరులను సృష్టించడానికి ముంగిలియు అన్ని విధాలలో ఉన్న ఒక ఆన్‌లైన్ వేదికగా EqualDex.com. వారి వెబ్‌సైట్ ప్రపంచవ్యాప్తంగా ఎల్జిబిటిక్యు+ హక్కుల పై చట్టాలు, విధానాలు, మరియు సమాజ దృష్టికోణాల కేంద్రీకృత డేటాబేస్‌ను అందిస్తుంది. సమానత్వ, సమావేశత, మరియు చట్టానికి ఉన్న రక్షణకు డేటాను మ్యాపింగ్ మరియు కనుగొనడం ద్వారా, EqualDex.com కృతాగ్నులు, పరిశోధకులు, మరియు ఎల్జిబిటిక్యు+ హక్కుల కోసం ప్రపంచ వ్యాపరాన్ని అర్థం చేసే మరియు అభ్యర్థించే వ్యక్తుల కోసం ఒక శక్తివంతమైన పరికరం మరియు ఒక ఉపకరణంగా పనిచేస్తుంది. వారి ప్రత్యేకితనమైన మ్యాప్లను అన్వేషించండి, దేశ ప్రత్యేకానికి ప్రొఫైల్‌లను బ్రౌజ్ చేయండి, మరియు ఎల్జిబిటిక్యు+ సముదాయంపై ఎదురుచూసే తాజా సంఘటనలు మరియు సవాలులు పై తెలివిగా ఉండండి."
+    },
+    "uk-UA": {
+      "title": "EqualDex.com",
+      "description": "Інноваційна онлайн-платформа, що має на меті створити всеосяжний та актуальний ресурс для глобальних прав LGBTQ+. Їх веб-сайт надає централізовану базу даних законів, політик та суспільних ставлення до прав LGBTQ+ зі всього світу. Візуалізуючи та відображаючи дані про рівність, інклюзивність та правовий захист, EqualDex.com пропонує потужний інструмент для активістів, дослідників та осіб, які прагнуть зрозуміти та відстоювати права LGBTQ+ на глобальному рівні. Досліджуйте їхні інтерактивні карти, переглядайте профілі конкретних країн та слідкуйте за останніми досягненнями та викликами, з якими стикається співтовариство LGBTQ+ у всьому світі."
+    },
+    "ko-KR": {
+      "title": "EqualDex.com",
+      "description": "글로벌 LGBTQ+ 권리에 대한 포괄적이고 최신의 자료를 제공하려는 혁신적인 온라인 플랫폼입니다. 이 웹사이트는 세계 각국의 법률, 정책, 그리고 LGBTQ+ 권리에 대한 사회 태도를 중앙집중적으로 데이터베이스화하고 있습니다. 평등, 포괄성, 법적 보호에 대한 데이터를 매핑하고 시각화함으로써, EqualDex.com은 여성 활동가들, 연구원들, 그리고 글로벌 규모에서 LGBTQ+ 권리를 이해하고 지지하려는 개인들에게 강력한 도구를 제공합니다. 그들의 대화형 지도를 탐색하고, 국가별 프로필을 둘러보시고, 세계적으로 LGBTQ+ 커뮤니티가 직면하고 있는 최신 발전과 도전에 대해 계속해서 정보를 얻으십시오."
+    },
+    "tr-TR": {
+      "title": "EqualDex.com",
+      "description": "Küresel LGBTQ+ hakları için kapsamlı ve güncel bir kaynak oluşturmayı hedefleyen yenilikçi bir çevrimiçi platform. Web siteleri, yasa, politika ve toplumsal tutumlar hakkında merkezi bir veri tabanı sunar ve bu bilgiler dünya çapında LGBTQ+ hakları açısından ele alınır. Eşitlik, kapsayıcılık ve yasal korumalar hakkındaki verileri görselleştirerek ve haritalandırarak, EqualDex.com, aktivistler, araştırmacılar ve LGBTQ+ hakları hakkında bilgi edinmek ve bunları küresel ölçekte savunmak isteyen bireyler için güçlü bir araç sunar. Interaktif haritalarını keşfedin, ülkeye özel profillere göz atın ve LGBTQ+ topluluğunu dünya çapında etkileyen en son ilerlemeler ve zorluklar hakkında bilgi sahibi olun."
+    },
+    "vi-VN": {
+      "title": "EqualDex.com",
+      "description": "Một nền tảng trực tuyến đổi mới mà mục tiêu là tạo ra một nguồn tài nguyên toàn diện và cập nhật cho quyền lợi LGBTQ+ toàn cầu. Trang web của họ cung cấp một cơ sở dữ liệu trung tâm về luật pháp, chính sách và thái độ xã hội đối với quyền lợi LGBTQ+ từ khắp nơi trên thế giới. Bằng việc vẽ bản đồ và trực quan hóa dữ liệu về bình đẳng, sự bao trùm, và bảo vệ pháp lý, EqualDex.com cung cấp một công cụ mạnh mẽ cho các nhà hoạt động, nhà nghiên cứu, và cá nhân mong muốn hiểu và đấu tranh cho quyền lợi LGBTQ+ trên phạm vi toàn cầu. Khám phá các bản đồ tương tác của họ, duyệt các thông tin cụ thể của từng quốc gia, và cập nhật thông tin về những tiến bộ và thách thức mới nhất mà cộng đồng LGBTQ+ trên toàn thế giới đang đối mặt."
+    },
+    "ta-IN": {
+      "title": "EqualDex.com",
+      "description": "உலக முழுவதும் சமமான அறிகுரலை பரப்பவும் ஒரே நேரத்தில் மேம்பட்டதாக இருமருமான மூல ஊழியத்தை உருவாக்குவதை நோக்கி ஒரு முதன்முதலான ஆன்லைன் மேடையாக இருக்கின்றது. அவரது இணையதளம் உலக முழுவதும் இருக்கும் சட்டங்கள், கொள்கைகள் மற்றும் சமமான உரிமைகளுக்கு சமூக அழிப்புருக்களை மதிப்பிடுகின்ற கேண்ட்ரலைஸ் டேட்டாபேஸை வழங்குகின்றது. சமத்துவ, ஆக்கப்பூர்வமான, மற்றும் சட்ட பாதுகாப்பைப் பார்த்திருக்கும் தரவை வரைபடத்தால் மற்றும் மாறுபாடுகளை வரையவும், EqualDex.com செயலாளர்களுக்கு, ஆராய்ச்சியாளர்களுக்கு, மற்றும் உலக அளவில் சமமான உரிமைகளுக்காக ஆதரவளிக்கும் விருப்புவாய்ஞ்சகளுக்கு ஒரு சக்திவாய்ந்த கருவியாக இருக்கின்றது. அவரது தொடன்படத்தலாகும் வரைபடங்களை ஆராய்ந்து பார், நாட்டைப் பிரிய சுவாரஸ்யமான விபரங்களை உலவு, மற்றும் உலக முழுவதும் சமமான உரிமைகளைப் பொறுத்தும் சமூகத்தின் அண்மைய மேம்பாடுகள் மற்றும் சவால்களை அறிய."
+    }
+  }
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, SxProps, Typography, styled, useTheme } from "@mui/material";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { ReactComponent as CaratDown } from "../../assets/carat-down.svg";
 import { ReactComponent as SearchIcon } from "../../assets/search.svg";
 import { ReactComponent as Discord } from "../../assets/discord.svg";
@@ -146,7 +146,10 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
       onClick={(e) => {
         if (href) {
           e.preventDefault();
-          navigate(href);
+
+          if (!children || (children && isOpen)) {
+            navigate(href);
+          }
         }
       }}
       sx={{
@@ -194,8 +197,9 @@ export const StyledHeader = styled("header")((theme) => ({
 }));
 
 export const Header = () => {
-  const theme = useTheme();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
+  const location = useLocation();
+  const navigate = useNavigate();
 
   const navigateToEscapeSite = () => {
     window.location.href = "https://rnewsbite.com";
@@ -223,10 +227,10 @@ export const Header = () => {
         },
         "@media (max-width: 1200px)": {
           "& .mobile-toggle": {
-            display: isMobileMenuOpen ? "block" : "none",
+            display: isMobileMenuOpen ? "flex" : "none",
           },
           "& .mobile-toggle-inverse": {
-            display: isMobileMenuOpen ? "none" : "block",
+            display: isMobileMenuOpen ? "none" : "flex",
           },
 
           "& .non-mobile-hide": {
@@ -242,6 +246,7 @@ export const Header = () => {
           display: "flex",
           flexDirection: "row",
           alignItems: "center",
+          justifyContent: "center",
 
           "@media (max-width: 1200px)": {
             flexDirection: "column",
@@ -321,16 +326,44 @@ export const Header = () => {
           />
           <MenuItem title="About" href="/about" />
           <MenuItem title="Education" href="/education" />
-          <MenuItem title="Resources">
+          <MenuItem title="Resources" href="/resources">
             <Menu>
-              <a>MTF</a>
-              <a>FTM</a>
-              <a>Non-Binary</a>
-              <a>Intersex</a>
+              <a
+                href="/resources?tags=transmasculine"
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  navigate("/resources?tags=transmasculine");
+                }}
+              >
+                Transmasculine
+              </a>
+              <a
+                href="/resources?tags=transfeminine"
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  navigate("/resources?tags=transfeminine");
+                }}
+              >
+                Transfeminine
+              </a>
+              <a
+                href="/resources?tags=non-binary"
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  navigate("/resources?tags=non-binary");
+                }}
+              >
+                Non-Binary
+              </a>
             </Menu>
           </MenuItem>
         </Box>
-        <SearchInput className="mobile-toggle" />
+        {location.pathname !== "/resources" && (
+          <SearchInput className="mobile-toggle" />
+        )}
         <StyledDiscordLink
           className="mobile-toggle"
           href="https://discord.gg/wtRVNzpGkx"
