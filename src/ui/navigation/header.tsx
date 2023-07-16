@@ -8,6 +8,7 @@ import { ReactComponent as MenuIcon } from "../../assets/menu.svg";
 import { ReactComponent as EscapeButton } from "../../assets/escape-button.svg";
 import logoUrl from "../../assets/logo.svg";
 import { Button } from "../button";
+import { useTranslation } from 'react-i18next';
 
 const StyledLink = styled("a")({
   textDecoration: "none",
@@ -200,6 +201,7 @@ export const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
   const location = useLocation();
   const navigate = useNavigate();
+  const { t, i18n } = useTranslation();
 
   const navigateToEscapeSite = () => {
     window.location.href = "https://rnewsbite.com";
@@ -315,7 +317,7 @@ export const Header = () => {
           }}
         >
           <MenuItem
-            title="Home"
+            title={t('Home')}
             href="/"
             sx={{
               marginLeft: "1.5rem",
