@@ -1,0 +1,37 @@
+{
+  "id": "47b17f76-670a-4835-8773-409d98934b91",
+  "title": "Sylvia Rivera Law Project (SRLP)",
+  "description": "The Sylvia Rivera Law Project works to guarantee that all people are free to self-determine gender identity and expression, regardless of income or race, and without facing harassment, discrimination or violence. SRLP provides legal help, organizes campaigns, conducts trainings, and runs a Prisoner Advisory Committee. Community involvement is encouraged through donations, volunteering, and membership.",
+  "slug": "sylvia-rivera-law-project",
+  "externalUrl": "https://srlp.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "147 W 24th St #5th, New York, NY 10011, USA",
+  "phoneNumber": "212-337-8550",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "town": "Manhattan",
+  "county": "New York County",
+  "latLng": [40.744576, -73.9941166],
+  "socialMedia": {
+    "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
+    "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
+    "facebookUrl": "https://www.facebook.com/sylviariveralawproject",
+    "twitterUrl": "https://www.twitter.com/srlp",
+    "instagramUrl": "https://instagram.com/sylviariveralawproject/",
+    "youtubeUrl": "https://www.youtube.com/user/SylviaRiveraLP",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

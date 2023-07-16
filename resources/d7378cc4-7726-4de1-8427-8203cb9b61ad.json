@@ -1,0 +1,122 @@
+{
+  "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+  "slug": "east-bay-trans-queer-counseling",
+  "externalUrl": "https://www.eastbaytranscounseling.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "education-awareness"
+  ],
+  "email": "eastbaytranscounseling@gmail.com",
+  "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+  "phoneNumber": "781-775-7802",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Berkeley",
+  "county": "Alameda County",
+  "latLng": [
+    37.8538725,
+    -122.2596505
+  ],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "East Bay Trans & Queer Counseling",
+      "description": "East Bay Trans & Queer Counseling offers sliding scale services that include: Individual Therapy centrally located in Berkeley, CA Support through gender exploration and transition Recommendation letters for hormones and surgery Professional trainings for mental health providers, students, and employers. Sam Davis is a transgender, genderqueer Licensed Clinical Social Worker (LCSW) specializing in working with trans, queer, genderqueer, and gender-nonconforming teens and adults. They have 16 years of experience as a mental health provider in the East Bay, including peer support group facilitation, community education at LGBTQI conferences, and 9 years of clinical practice and crisis counseling with severely marginalized people for the County of Alameda. They are a strong and committed advocate with a long history of organizing on behalf of marginalized people."
+    },
+    "es-ES": {
+      "title": "Consejería Trans & Queer de East Bay",
+      "description": "La Consejería Trans & Queer de East Bay ofrece servicios a escala móvil que incluyen: Terapia individual ubicada en el centro de Berkeley, CA. Apoyo a través de la exploración de género y la transición. Cartas de recomendación para hormonas y cirugía. Capacitaciones profesionales para proveedores de salud mental, estudiantes y empleadores. Sam Davis es un trabajador social clínico con licencia (LCSW) transgender, genderqueer que se especializa en trabajar con adolescentes y adultos trans, queer, genderqueer y que no se conforman con el género. Tienen 16 años de experiencia como proveedor de salud mental en East Bay, incluyendo la facilitación de grupos de apoyo entre pares, educación comunitaria en conferencias LGBTQI, y 9 años de práctica clínica y consejería en crisis con personas severamente marginadas para el Condado de Alameda. Son un defensor fuerte y comprometido con una larga historia de organización en nombre de las personas marginadas."
+    },
+    "id-ID": {
+      "title": "East Bay Trans & Queer Counseling",
+      "description": "East Bay Trans & Queer Counseling menawarkan layanan skala bergerak yang mencakup: Terapi Individual yang berlokasi sentral di Berkeley, CA Dukungan melalui eksplorasi gender dan transisi Surat rekomendasi untuk hormon dan operasi Latihan profesional untuk penyedia layanan kesehatan mental, siswa, dan majikan. Sam Davis adalah seorang Pekerja Sosial Klinis Berlisensi (LCSW) transgender, genderqueer yang mengkhususkan diri dalam bekerja dengan remaja dan dewasa trans, queer, genderqueer, dan yang tidak sesuai gender. Mereka memiliki 16 tahun pengalaman sebagai penyedia layanan kesehatan mental di East Bay, termasuk fasilitasi kelompok dukungan sebaya, pendidikan komunitas di konferensi LGBTQI, dan 9 tahun praktik klinis dan konseling krisis dengan orang-orang yang sangat marginal untuk County of Alameda. Mereka adalah advokat yang kuat dan berkomitmen dengan sejarah panjang organisasi atas nama orang-orang yang termarginalisasi."
+    },
+    "de-DE": {
+      "title": "East Bay Trans & Queer Beratung",
+      "description": "Die East Bay Trans & Queer Beratung bietet gleitende Skalen-Dienstleistungen an, die Folgendes beinhalten: Individuelle Therapie zentral gelegen in Berkeley, CA Unterstützung bei der Geschlechtsforschung und -überleitung Empfehlungsschreiben für Hormone und Operationen Professionelle Schulungen für Anbieter im Bereich der geistigen Gesundheit, Studenten und Arbeitgeber. Sam Davis ist ein transgender, genderqueer lizenzierter klinischer Sozialarbeiter (LCSW), der sich auf die Arbeit mit trans, queer, genderqueer und gender-nonkonformen Jugendlichen und Erwachsenen spezialisiert hat. Sie haben 16 Jahre Erfahrung als Anbieter im Bereich der geistigen Gesundheit in der East Bay, einschließlich der Moderation von Peer-Support-Gruppen, der Gemeindebildung auf LGBTQI-Konferenzen und 9 Jahre klinischer Praxis und Krisenberatung mit stark marginalisierten Menschen für den County of Alameda. Sie sind ein starker und engagierter Verfechter mit einer langen Geschichte der Organisation im Interesse marginalisierter Menschen."
+    },
+    "pt-PT": {
+      "title": "Aconselhamento Trans & Queer da East Bay",
+      "description": "O Aconselhamento Trans & Queer da East Bay oferece serviços em escala móvel que incluem: Terapia individual localizada centralmente em Berkeley, CA Suporte através da exploração de gênero e transição Cartas de recomendação para hormônios e cirurgia Treinamentos profissionais para provedores de saúde mental, estudantes e empregadores. Sam Davis é um Trabalhador Social Clínico licenciado, transgênero, genderqueer (LCSW) especializado em trabalhar com adolescentes e adultos trans, queer, genderqueer e não conformes com o gênero. Eles têm 16 anos de experiência como provedor de saúde mental na East Bay, incluindo facilitação de grupo de apoio de pares, educação comunitária em conferências LGBTQI e 9 anos de prática clínica e aconselhamento em crises com pessoas severamente marginalizadas pelo Condado de Alameda. Eles são um forte e comprometido advogado com uma longa história de organização em nome de pessoas marginalizadas."
+    },
+    "zh-CN": {
+      "title": "东湾跨性别与酷儿咨询",
+      "description": "东湾跨性别与酷儿咨询提供滑动比例服务，包括：位于伯克利，CA的个人治疗，支持性别探索和过渡，为激素和手术提供推荐信，为心理健康提供者，学生和雇主提供专业培训。Sam Davis 是一位跨性别的，酷儿的持照临床社会工作者(LCSW)，专门为跨性别，酷儿，酷儿，和性别不形式的青少年和成年人提供专业服务。他们有16年作为东湾地区的心理健康提供者的经验，包括促进同行支持小组，LGBTQI大会的社区教育，以及9年为阿拉米达县严重边缘化的人提供临床实践和危机咨询。他们是一位有着长期为边缘化人群组织的坚强而坚定的倡导者。"
+    },
+    "fr-FR": {
+      "title": "East Bay Trans & Queer Counseling",
+      "description": "East Bay Trans & Queer Counseling offre des services à échelle mobile qui comprennent: Thérapie individuelle située au cœur de Berkeley, CA Soutien à travers l'exploration du genre et la transition Lettres de recommandation pour les hormones et la chirurgie Formations professionnelles pour les prestataires de soins de santé mentale, les étudiants et les employeurs. Sam Davis est un travailleur social clinique agréé (LCSW) transgenre, genderqueer, spécialisé dans le travail avec les adolescents et les adultes trans, queer, genderqueer et non-conformes. Ils ont 16 ans d'expérience en tant que prestataire de soins de santé mentale dans l'East Bay, y compris l'animation de groupes de soutien par les pairs, l'éducation communautaire lors de conférences LGBTQI, et 9 ans de pratique clinique et de conseil en cas de crise auprès de personnes fortement marginalisées pour le compte du comté d'Alameda. Ils sont un militant fort et engagé avec une longue histoire d'organisation au nom des personnes marginalisées."
+    },
+    "ko-KR": {
+      "title": "East Bay Trans & Queer 상담",
+      "description": "East Bay Trans & Queer 상담은 주요 위치인 버클리, CA에서 개별 치료, 성별 탐색 및 전환을 통한 지원, 호르몬과 수술을 위한 추천 편지, 정신 건강 제공자, 학생, 고용주를 위한 전문 교육을 포함하는 슬라이딩 스케일 서비스를 제공합니다. Sam Davis는 트랜스, 퀴어, 성별 제한적이고 성별을 비준수하는 청소년과 성인을 전문적으로 대하는 transgender, genderqueer Licensed Clinical Social Worker (LCSW)입니다. 그들은 동료 지원 그룹의 주관, LGBTQI 회의에서의 커뮤니티 교육, Alameda 카운티에서 심각한 사람들을 위한 9년 동안의 임상실습 및 위기 상담을 포함하여 East Bay에서 정신 건강 제공자로서 16년의 경험을 갖고 있습니다. 그들은 주변에 있는 사람들을 대신하여 조직하는 데 오랫동안 역사를 가진 강력하고 헌신적인 옹호자입니다."
+    },
+    "sw-KE": {
+      "title": "Ushauri wa Trans & Queer wa East Bay",
+      "description": "East Bay Trans & Queer Counseling inatoa huduma za mfumo wa alama ambazo zinajumuisha: Tiba ya kibinafsi iliyo katikati ya Berkeley, CA Support kupitia utambuzi wa jinsia na mabadiliko Barua za mapendekezo za homoni na upasuaji Mafunzo ya kitaalamu kwa wasambazaji wa afya ya akili, wanafunzi, na waajiri. Sam Davis ni Mfanyakazi wa Jamii wa Kliniki (LCSW) anayebadilisha jinsia, genderqueer na anabobea katika kufanya kazi na vijana na watu wazima wa trans, queer, genderqueer, na wanaobadilisha jinsia. Wana uzoefu wa miaka 16 kama mtoaji wa afya ya akili huko East Bay, ikiwa ni pamoja na uratibu wa kundi la msaada wa wenzao, elimu ya jamii kwenye mikutano ya LGBTQI, na miaka 9 ya mazoezi ya kliniki na ushauri wa mzozo kwa watu walio kwenye ukingo mkubwa sana kwa Kaunti ya Alameda. Wao ni mtetezi imara na aliyejitolea na historia ndefu ya kuandaa kwa niaba ya watu walio kwenye ukingo."
+    },
+    "tr-TR": {
+      "title": "East Bay Trans & Queer Danışmanlık",
+      "description": "East Bay Trans & Queer Danışmanlık, merkezi Berkeley, CA'da bulunan bireysel terapi sunan, cinsiyet keşfi ve geçiş desteği, hormonlar ve cerrahi için tavsiye mektubu, akıl sağlığı sağlayıcıları, öğrenciler ve işverenler için profesyonel eğitimler sunan bir slayt ölçekli hizmetler sunar. Sam Davis, trans, queer, cinsiyetçi, cinsiyet-uyumsuz gençler ve yetişkinlerle çalışmada uzmanlaşmış bir Lisanlı Klinik Sosyal Çalışmacı (LCSW)'dır. East Bay'de bir akıl sağlığı sağlayıcısı olarak 16 yıllık tecrübeye sahiptirler, bu da LGBTQI konferanslarındaki topluluk eğitimi ve Alameda Eyaleti için ağır bir şekilde marjinalleştirilmiş insanlarla klinik uygulama ve kriz danışmanlığı yapmayı içerir. Marjinalleştirilmiş insanlar adına örgütlenme konusunda uzun bir geçmişe sahip güçlü ve kararlı bir savunucu olan Sam, aynı zamanda diğerleri için bilgilendirici bir rol modeldir."
+    },
+    "vi-VN": {
+      "title": "Tư vấn Trans & Queer East Bay",
+      "description": "Tư vấn Trans & Queer East Bay cung cấp các dịch vụ theo quy mô trượt bao gồm: Trị liệu cá nhân tọa lạc tại trung tâm Berkeley, CA Hỗ trợ qua việc khám phá giới tính và chuyển đổi Thư giới thiệu cho hormones và phẫu thuật Đào tạo chuyên nghiệp cho các nhà cung cấp sức khỏe tâm thần, sinh viên và nhà tuyển dụng. Sam Davis là một người chuyển giới, giới tính mờ Lisenced Clinical Social Worker (LCSW) chuyên về việc làm việc với các thiếu niên và người lớn trans, queer, giới tính hoà mình và giới tính không tuân thủ. Họ có 16 năm kinh nghiệm là người cung cấp sức khỏe tâm thần tại East Bay, bao gồm việc hỗ trợ nhóm hỗ trợ ngang hàng, giáo dục cộng đồng tại các hội nghị LGBTQI và 9 năm thực hành lâm sàng và tư vấn khủng hoảng cho những người bị cô lập nặng nề tại Quận Alameda. Họ là một người ủng hộ mạnh mẽ và cam kết với lịch sử tổ chức dài hạn đại diện cho những người bị đẩy lề."
+    },
+    "ja-JP": {
+      "title": "イーストベイ トランス & クィア カウンセリング",
+      "description": "イーストベイ トランス & クィア カウンセリングは、以下のようなスライディングスケールのサービスを提供しています: バークレー、CAに位置する個人療法、ジェンダーの探求と移行を通じたサポート、ホルモンや手術の推薦状、精神保健提供者、学生、雇用者向けの専門トレーニング。サム・デイビスは、トランスジェンダー、ジェンダークィアのライセンスを持つ臨床社会福祉士（LCSW）で、トランスジェンダー、クィア、ジェンダークィア、ジェンダー非適合の10代と大人との勤務に特化しています。彼らは、イーストベイの精神保健プロバイダーとして16年の経験を持ち、LGBTQIカンファレンスでのコミュニティ教育、アラメダ郡での発達した人々への臨床実践と危機カウンセリング9年、ピアサポートグループの促進を含みます。彼らは、マージナル化された人々を代表しての長期間に及ぶ組織化の歴史を持つ強力で専念した支持者です。"
+    },
+    "ar-SA": {
+      "title": "استشارات East Bay Trans وQueer",
+      "description": "تقدم استشارات East Bay Trans & Queer خدمات بمقياس متزلج تشمل: العلاج الفردي والذي يقع في موقع مركزي في بيركلي، كاليفورنيا. الدعم من خلال استكشاف الجنس والانتقال، رسائل توصية للهرمونات والجراحة، وتدريبات مهنية لمقدمي الرعاية الصحية النفسية، الطلاب، وأصحاب العمل. سام ديفيس هو عامل اجتماعي سريري مرخص ، محول جنسيا ، وهو مختص في العمل مع المراهقين والبالغين الذين يظهرون كمثلي الجنس، المثليين، المحولين جنسيا، والذين لا يحددون جنسهم. لديهم 16 عامًا من الخبرة كمقدم للرعاية الصحية العقلية في East Bay، بما في ذلك تسهيل دعم مجموعات الأقران، والتعليم المجتمعي في المؤتمرات LGBTQI، و9 سنوات من الممارسة السريرية والاستشارة في الأزمات مع الأشخاص المهمشين بشدة لمقاطعة ألاميدا. إنهم مدافع قوي وملتزم لديه تاريخ طويل في التنظيم نيابة عن الأشخاص المهمشين."
+    },
+    "uk-UA": {
+      "title": "Східна Затока - Рада Транс і Квір",
+      "description": "Центр \"Східна Затока - Рада для Транс і Квір\" пропонує послуги за скальованими цінами, які включають: Індивідуальну терапію, що знаходиться в центрі Берклі, штат Каліфорнія, підтримку в процесі дослідження гендерної самоідентифікації та переходу, рекомендаційні листи для прийому гормонів і проведення операцій, професійні навчання студентам, роботодавцям та працівникам у сфері психічного здоров'я. Сем Девіс - трансгендер, що відносять себе до гендерно-квир, та ліцензований клінічний соціальний працівник (LCSW), спеціалізований на роботі з транс, квір, гендерно-квір та невизначеними за статтю підлітками та дорослими. Вони мають 16 років досвіду роботи в сфері психічного здоров'я у Східній Затоці, включаючи проведення групових занять з підтримки однолітків, спільнотна освіта на конференціях LGBTQI, та 9 років клінічної практики та кризового консультування сильно маргіналізованих людей для округу Аламеда. Вони є сильним та відданим захисником з довгою історією організації в захист маргіналізованих людей."
+    },
+    "ur-PK": {
+      "title": "East Bay Trans & Queer Counseling",
+      "description": "East Bay Trans & Queer Counseling گھسٹاؤ سکیل سروسز فراہم کرتا ہے جو شامل ہیں: بیکلی، CA میں مرکزی طور پر واقع انفرادی تھراپی گینڈر کی تحقیق اور ترقی کے ذریعے سپورٹ ہارمون کی سفارشات اور سرجری کے لئے تجویز نامے ذہنی صحت کے فراہم کنندہ ، طلبہ ، اور ملازمین کے لئے پیشہ ورانہ تربیتیں. Sam Davis ایک ٹرانسجینڈر، گینڈرکویر لائینسڈ کلینیکل سوشل ورکر (LCSW) ہیں جو ٹرانس، کویر، گینڈرکویر، اور جنسی طور پر غیر تقید بند نوجوانوں اور بالغوں کے ساتھ کام کرنے میں مہارت رکھتے ہیں۔ ان کا 16 سالہ تجربہ ہے East Bay میں ذہنی صحت کے فراہم کنندہ کے طور پر ، جس میں peer support group کی سہولت ، LGBTIQ کی کانفرنس میں کمیونٹی تعلیم ، اور Alameda کے کاؤنٹی کے لئے شدید طور پر حاشیہ دار لوگوں کی ساتھ کلینکل عمل اور بحران مشاورت کے 9 سال شامل ہیں۔ وہ ایک مضبوط اور پختہ حمایتی ہیں جن کا طویل تاریخ ہے حاشیہ دار لوگوں کی حمایت میں تنظیم."
+    },
+    "ru-RU": {
+      "title": "East Bay Trans & Queer Counseling",
+      "description": "East Bay Trans & Queer Counseling предлагает услуги по скользящей шкале, которые включают: индивидуальную терапию, расположенную в центре Беркли, штат Калифорния, поддержка в процессе исследования гендерной проблематики и перехода, рекомендательные письма по поводу гормонов и операции, профессиональные тренинги для специалистов по психическому здоровью, студентов и работодателей. Сэм Дэвис - трансгендер, гендерквир, лицензированный клинический социальный работник (LCSW), специализирующийся на работе с трансгендерами, квир, гендерквир и подростками и взрослыми, не соответствующими гендерным стереотипам. У них 16 лет опыта работы в области психического здоровья в East Bay, включая проведение групповых занятий по поддержке сверстников, общественное образование на конференциях ЛГБТКИ и 9 лет клинической практики и кризисного консультирования сильно маргинализированных людей для округа Аламеда. Они являются сильным и преданным защитником с долгой историей организации в интересах маргинализированных людей."
+    },
+    "bn-BD": {
+      "title": "ইস্ট বে ট্রান্স এন্ড কোয়ার কাউন্সেলিং",
+      "description": "ইস্ট বে ট্রান্স এন্ড কোয়িয়ার কাউন্সেলিং এ সার্বিকভাবে অনুসারী সেবা অন্তর্ভুক্ত করে: বার্কলেয়, ক্যালিফোর্নিয়ায় কেন্দ্রভূতভাবে ব্যক্তিগত চিকিত্সা জেন্ডার এক্সপ্লোরেশন এবং ট্র্যান্সিশনের মাধ্যমে সহায়তা হরমোন এবং সার্জারীর জন্য সুপারিশপত্র মানসিক স্বাস্থ্য পরিদর্শকদের, ছাত্রদের এবং কর্মচারীদের জন্য পেশাদার প্রশিক্ষণ। স্যাম ডেভিস একজন ট্রান্সজেন্ডার, জেন্ডারকেয়ার লাইসেন্সড ক্লিনিক্যাল সোশ্যাল ওয়ার্কার (LCSW) যারা ট্রান্স, কোয়ার, জেন্ডারকেয়ার এবং জেন্ডার-অ্যানকনফরমিং কিশোর এবং প্রাপ্তবয়স্কদের সাথে কাজ করার মেয়াদি বিশেষজ্ঞ। তাদের ইস্ট বেতে মানসিক স্বাস্থ্য পরিদর্শক হিসেবে 16 বছরের অভিজ্ঞতা রয়েছে, যার মধ্যে পিয়ার সমর্থন গ্রুপ সহায়তা, LGBTQI সম্মেলনে সম্প্রদায়ের শিক্ষা এবং আলামিডা কাউন্টির জন্য প্রাচীনতম মানুষদের সাথে ক্লিনিক্যাল প্র্যাক্টিস এবং সংকট কাউন্সেলিং-এ 9 বছরের পরিচিতি। তারা অব্যাহত প্রতিবাদী এবং সংগঠিত অব্যাহত অভিযানকারী যারা বিপন্ন মানুষের পক্ষে সংগঠন করেছেন।"
+    },
+    "hi-IN": {
+      "title": "ईस्ट बे ट्रांस और क्वीर काउंसलिंग",
+      "description": "ईस्ट बे ट्रांस और क्वीर काउंसलिंग स्लाइडिंग स्केल सेवाएं प्रदान करती है जिनमें शामिल हैं: बर्केली, कैलिफोर्निया में केंद्रीय रूप से स्थित व्यक्तिगत चिकित्सा, लिंग अन्वेषण और संक्रमण के माध्यम से समर्थन हार्मोंस और सर्जरी के लिए सिफारिश पत्र मानसिक स्वास्थ्य प्रदाताओं, छात्रों, और नियोक्ताओं के लिए पेशेवर प्रशिक्षण। सैम डेविस एक ट्रांसजेंडर, जिनसान्य लाइसेंस्ड क्लिनिकल सोशल कार्यकर्ता (LCSW) है जो ट्रांस, क्वीर, जिनसान्य, और जेंडर-अनुरूपक युवाओं और वयस्कों के साथ काम करने में विशेषज्ञता रखते हैं। उनके पास ईस्ट बे में मानसिक स्वास्थ्य प्रदाता के रूप में 16 वर्षों का अनुभव है, जिसमें पीर समर्थन समूह संचालन, LGBTQI सम्मेलनों में समुदाय शिक्षा, और अलामेडा काउंटी के लिए गहरे तौर पर हाशिये की जनता के साथ नैनिक अभ्यास और संकट चिकित्सा के 9 वर्ष शामिल हैं। वे एक मजबूत और प्रतिबद्ध समर्थक हैं, जिनका हाशिये की जनता की ओर से संगठन करने का लंबा इतिहास है।"
+    },
+    "mr-IN": {
+      "title": "पूर्व बे ट्रान्स आणि क्विअर सल्लागार",
+      "description": "पूर्व बे ट्रान्स आणि क्विअर सल्लागार यांनी छुट्यावर सेवा प्रदान करण्याचे आव्हान केले आहे ज्यामध्ये समाविष्ट आहे: वैयक्तिक उपचार बर्कली सेंट्रल्लोकेटेड, CA मध्ये स्थानिकतेच्या माध्यमातून लिंग संस्कार औषधे आणि शल्यक्रियांसाठी सिफारस पत्र प्रोफेशनल ट्रेनिंग मानसिक आरोग्य प्रदाता, विद्यार्थी, औषधे आणि शल्यक्रियांसाठी सिफारस पत्र, विद्यार्थी, आणि कामगारांसाठी. सॅम डेव्हिस म्हणजे एक ट्रान्सजेंडर, जेंडरक्विअर लायसेन्स्ड क्लिनिकल सोशल वर्कर (LCSW) ज्यांचा विशेषज्ञता ट्रान्स, क्विअर, जेंडरक्विअर, आणि जेंडर-नॉनकन्फॉर्मिंग तरुणांच्या साथी काम करण्यात आहे. त्यांना पूर्व बे मधील मानसिक आरोग्य पुरवठादारांमध्ये 16 वर्षांचा अनुभव आहे, यामध्ये समर्थन समूह सुविधा, LGBTQI संमेलनांमधील समुदाय शिक्षण, आणि अलामेडा काउंटीसाठी गंभीरपणे वंचित माणसांच्या साथी वैयक्तिक अभ्यास आणि संकट सल्लागार सह 9 वर्षे आहेत. ते वंचित व्यक्तींच्या मतदारांमध्ये दीर्घकाळीन आयोजक आहेत."
+    },
+    "te-IN": {
+      "title": "ఈస్ట్ బే ట్రాన్స్ & క్వీర్ కౌన్సిలింగ్",
+      "description": "మధ్యమమైన బర్కలీ, CA లో దొరికే వ్యక్తిగత చికిత్సను కలిపిన నమోదు చేసే సేవలు ఈస్ట్ బే ట్రాన్స్ & క్వీర్ కౌన్సిలింగ్ అందిస్తుంది: లింగ అన్వేషణ మరియు మార్పుకు మద్దతు. హార్మోన్స్ మరియు శస్త్రచికిత్స కోసం సిఫారసు లేఖలు. మానసిక ఆరోగ్య సరఫరాదారులు, విద్యార్థులు, ఉద్యోగిస్తుల కోసం ప్రొఫెషనల్ శిక్షలు. సామ్ డేవిస్ ఒక ట్రాన్స్జెండర్, జెండర్క్వీర్ లైసెన్సింగ్ క్లినికల్ సోషల్ వర్కర్ (LCSW) ఆరుటు, ట్రాన్స్, క్వీర్, జెండర్క్వీర్, మరియు జెండర్-నాన్ కంఫార్మింగ్ కిశోరులు మరియు వయోధికమైన వ్యక్తులతో పనిచేసే ప్రత్యేకతతో. ఈస్ట్ బేలో అందుబాటులో మానసిక ఆరోగ్య సరఫరాదారుగా 16 సంవత్సరాల అనుభవం ఉంది, అతనిలో పీర్ మద్దతు సమూహ ప్రేరేణ, LGBTQI సమ్మేళనలలో సముదాయ విద్యానివేతన, ఆలమేడా కౌంటీ కోసం గూడితట్టిన ప్రజలుతో క్లినికల్ చికిత్సా మరియు సంకట కౌన్సిలింగ్తో పాటు 9 సంవత్సరాలు. వేలకు గురుచేతులుగా పనిచే సౌకర్యమైన ప్రత్యేక హక్కుబాధులు."
+    },
+    "ta-IN": {
+      "title": "கிழக்கு பே மாறுபட்ட பாலினத்தை அடிப்படையாக ஏற்கும் & கோயில் ஆலோசனை",
+      "description": "கிழக்கு பே மாறுபட்ட பாலினத்தை அடிப்படையாக ஏற்கும் & கோயில் ஆலோசனை, சார்ந்த முதுகேலை ஆன சேவைகளை உள்ளடக்கியுள்ளது: தனிப்பட்ட ஆலோசனை பெர்க்லே, CA-வில் மையக்குவியலில் இருத்தல் பாலின ஆராய்ச்சி மற்றும் மாற்றத்தின் வழியாக ஆதரவு ஆற்றல் மற்றும் அறுவை சிகிச்சைக்குரிய அறிவிப்பு கடிதங்கள் மானசிக ஆரோக்கிய வழங்குபவர்களுக்கு, மாணவர்களுக்கு, ஊழியர்களுக்கு தொழில்நுட்ப பயிற்சி. சேம் டேவிஸ மாறுபட்ட பாலினத்தின அடிப்படையில் ஏற்கனவே உள்ளவர், ஆதாரம் இல்லாத பாலினத்தை அடிப்படையாக ஏற்கும் சமூக சேவை அலுவலர் (LCSW) மாறுபட்ட பாலினத்தின அடிப்படையில் ஏற்கும், ஆதாரம் இல்லாத பாலினத்தின அடிப்படையில் ஏற்கும் பள்ளியோட்டிகள் மற்றும் பாலை மாற்றிய இளம் மருந்து ஆராய்ச்சியுக்காக பணியாற்றுவார். அவர்கள் கிழக்கு பே மானசிக ஆரோக்கிய வழங்குபவராக 16 ஆண்டுகளிலும் அதிகமான அனுபவம் உள்ளனர், இது சமூக கல்வி மற்றும் மக்கள் ஆதரவு குழு நடத்தல், LGBTQI மாநாடுகளில் சமூக கல்வி மற்றும் அலமிடா கவுன்டியில் மிகப்பெரிய தொழில்நெறிகளுக்கு மன நேரடி ஆலோசனையிடும் 9 ஆண்டுகளும் உள்ளன. அவர்கள் நீண்ட கால அவஸ்தையில் மிக அதிகமாக ஆதரிக்கப்பட்டவர்களின் பக்கத்தில் ஒரு பலமான மற்றும் மேலும் அமைத்துவைக்கும் ஆதரவாளர்."
+    }
+  }
+}

@@ -24,7 +24,7 @@ const translationPrompt = new PromptTemplate({
   inputVariables: ["language", "json"],
 });
 
-async function translateJSON(jsonObject: any) {
+async function translateJSON(id: string, jsonObject: any) {
   const { title, description, ...rest } = jsonObject;
 
   const translations: { [key: string]: any } = {
@@ -34,7 +34,7 @@ async function translateJSON(jsonObject: any) {
     },
   };
 
-  const chunkSize = 5;
+  const chunkSize = 20;
 
   for (let i = 0; i < languages.length; i += chunkSize) {
     const chunk = languages.slice(i, i + chunkSize);
@@ -47,7 +47,9 @@ async function translateJSON(jsonObject: any) {
 
       const response = await model.call(input);
 
-      let translatedJson = response.match(/```([\s\S]*)```/)?.[1].trim();
+      let translatedJson = response
+        .match(/```(json)?([\s\S]*)```/)?.[2]
+        ?.trim();
       let translatedJsonObject: any;
 
       if (!translatedJson) {
@@ -55,22 +57,28 @@ async function translateJSON(jsonObject: any) {
           translatedJsonObject = JSON.parse(response.trim());
         } catch (err) {
           console.error(
-            `${language.language}: Could not extract translated JSON from response: ${response}`
+            `${id} - ${language.language}: Could not extract translated JSON from response: ${response}`
           );
         }
       } else {
-        translatedJsonObject = JSON.parse(translatedJson);
+        try {
+          translatedJsonObject = JSON.parse(translatedJson);
+        } catch (err) {
+          console.error(
+            `${id} - ${language.language}: Could not extract translated JSON from response: ${response}`
+          );
+        }
       }
 
       if (translatedJsonObject) {
         translations[language.locale_code] = translatedJsonObject;
-      }
 
-      console.log(
-        `Finished translating ${language.language} (${j + 1}/${
-          chunk.length
-        } in chunk, total: ${i + j + 1}/${languages.length})`
-      );
+        console.log(
+          `Finished translating ${language.language} (${j + 1}/${
+            chunk.length
+          } in chunk, total: ${i + j + 1}/${languages.length})`
+        );
+      }
     });
 
     await Promise.all(chunkPromises);
@@ -91,12 +99,14 @@ async function processFiles() {
 
       // Ensure we're only processing .json files
       if (path.extname(file) === ".json") {
+        const id = path.basename(file, ".json");
+
         const data = await readFile(filePath, "utf-8");
 
         const jsonObject = JSON.parse(data);
 
         // Create translated version
-        const translatedJson = await translateJSON(jsonObject);
+        const translatedJson = await translateJSON(id, jsonObject);
 
         // Output multi-translation version into the "/resources" directory
         const translatedFileName = path.join(OUTPUT_DIR, file);

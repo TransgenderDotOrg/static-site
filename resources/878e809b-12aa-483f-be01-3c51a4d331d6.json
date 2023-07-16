@@ -1,0 +1,120 @@
+{
+  "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+  "slug": "national-center-for-transgender-equality",
+  "externalUrl": "https://transequality.org",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+  "phoneNumber": "(202) 642-4542",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Washington D.C.",
+  "county": "District of Columbia",
+  "latLng": [
+    38.903438,
+    -77.035037
+  ],
+  "email": "ncte@transequality.org",
+  "socialMedia": {
+    "blogUrl": "https://transequality.org/blog"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "National Center for Transgender Equality",
+      "description": "The National Center for Transgender Equality is an organization advocating to change policies and societal attitudes for increased understanding and acceptance of transgender people. The NCTE provides information about issues affecting the Transgender community including aging, anti-violence, employment, families, health & HIV, housing & homelessness, and more."
+    },
+    "pt-PT": {
+      "title": "Centro Nacional para a Igualdade Transgênero",
+      "description": "O Centro Nacional para a Igualdade Transgênero é uma organização que advoga pela mudança de políticas e atitudes sociais para um maior entendimento e aceitação de pessoas transgênero. O NCTE fornece informações sobre questões que afetam a comunidade Transgênero, incluindo envelhecimento, anti-violência, emprego, famílias, saúde e HIV, habitação e desabrigados, e mais."
+    },
+    "es-ES": {
+      "title": "Centro Nacional para la Igualdad Transgénero",
+      "description": "El Centro Nacional para la Igualdad Transgénero es una organización que aboga por cambiar políticas y actitudes sociales para aumentar la comprensión y aceptación de las personas transgénero. El NCTE proporciona información sobre temas que afectan a la comunidad Transgénero, incluyendo el envejecimiento, la anti-violencia, el empleo, las familias, la salud y el VIH, la vivienda y la falta de hogar, y más."
+    },
+    "id-ID": {
+      "title": "Pusat Nasional untuk Kesetaraan Transgender",
+      "description": "Pusat Nasional untuk Kesetaraan Transgender adalah sebuah organisasi yang berjuang untuk mengubah kebijakan dan sikap masyarakat agar memahami dan menerima orang-orang transgender. NCTE menyediakan informasi tentang berbagai isu yang mempengaruhi komunitas Transgender termasuk penuaan, anti-kekerasan, pekerjaan, keluarga, kesehatan & HIV, perumahan & tunawisma, dan lainnya."
+    },
+    "de-DE": {
+      "title": "Nationales Zentrum für Transgender-Gleichstellung",
+      "description": "Das Nationale Zentrum für Transgender-Gleichstellung ist eine Organisation, die sich dafür einsetzt, Politiken und gesellschaftliche Einstellungen zu ändern, um das Verständnis und die Akzeptanz von Transgender-Personen zu erhöhen. Die NCTE bietet Informationen zu Themen, die die Transgender-Gemeinschaft betreffen, einschließlich Alter, Gewaltbekämpfung, Beschäftigung, Familien, Gesundheit & HIV, Wohnen & Obdachlosigkeit und mehr."
+    },
+    "zh-CN": {
+      "title": "全国跨性别平等中心",
+      "description": "全国跨性别平等中心是一个倡导改变政策和社会态度的组织，以增加对跨性别人群的理解和接受。NCTE提供关于影响跨性别社区的问题的信息，包括衰老，反暴力，就业，家庭，健康和艾滋病，住房和无家可归等。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Kitaifa cha Usawa wa Jinsia ya Kugeuka",
+      "description": "Kituo cha Kitaifa cha Usawa wa Jinsia ya Kugeuka ni shirika linalotetea mabadiliko ya sera na mitazamo ya jamii kwa uelewa na kukubalika zaidi kwa watu wa jinsia ya kugeuka. NCTE inatoa habari kuhusu masuala yanayoathiri jamii ya Jinsia ya Kugeuka ikiwa ni pamoja na kuzeeka, kupinga unyanyasaji, ajira, familia, afya & VVU, makazi & ukosefu wa makazi, na zaidi."
+    },
+    "fr-FR": {
+      "title": "Centre national pour l'égalité des transgenres",
+      "description": "Le Centre national pour l'égalité des transgenres est une organisation qui plaide pour changer les politiques et les attitudes sociétales pour une meilleure compréhension et acceptation des personnes transgenres. Le NCTE fournit des informations sur les problèmes affectant la communauté transgenre, y compris le vieillissement, la lutte contre la violence, l'emploi, les familles, la santé & le VIH, le logement & l'itinérance, et plus."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダーの平等を促進する全国センター",
+      "description": "トランスジェンダーの平等を促進する全国センターは、トランスジェンダーの人々の理解と受け入れを向上させるための政策や社会的態度の変更を提唱する組織です。NCTEは、トランスジェンダーコミュニティに影響を与える問題についての情報を提供しています。これには、高齢化、反暴力、雇用、家族、健康＆HIV、住宅とホームレス、その他が含まれます。"
+    },
+    "tr-TR": {
+      "title": "Uluslararası Transgender Eşitliği Merkezi",
+      "description": "Uluslararası Transgender Eşitliği Merkezi, transgender insanların anlaşılması ve kabul görmesi için politikaların ve toplumsal tutumların değiştirilmesini savunan bir organizasyondur. NCTE, yaşlanma, şiddete karşı olanlar, iş imkanları, aileler, sağlık & HIV, konut & evsizlik ve daha fazlası da dahil olmak üzere Transgender topluluğunu etkileyen konular hakkında bilgi sağlar."
+    },
+    "vi-VN": {
+      "title": "Trung tâm quốc gia về Bình đẳng Transgender",
+      "description": "Trung tâm quốc gia về Bình đẳng Transgender là một tổ chức đấu tranh để thay đổi chính sách và thái độ của xã hội nhằm tăng sự hiểu biết và chấp nhận người Transgender. NCTE cung cấp thông tin về các vấn đề ảnh hưởng đến cộng đồng Transgender bao gồm lão hóa, chống bạo lực, việc làm, gia đình, sức khỏe & HIV, nhà ở & người vô gia cư, và nhiều hơn nữa."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 평등을 위한 국립 센터",
+      "description": "트랜스젠더 평등을 위한 국립 센터는 트랜스젠더 사람들에 대한 이해와 수용을 높이기 위해 정책과 사회적 태도 변화를 촉구하는 조직입니다. NCTE는 노화, 반폭력, 고용, 가족, 건강 및 HIV, 주거 및 노숙 등 트랜스젠더 커뮤니티에 영향을 미치는 문제에 대한 정보를 제공합니다."
+    },
+    "ru-RU": {
+      "title": "Национальный центр за равенство трансгендеров",
+      "description": "Национальный центр за равенство трансгендеров - это организация, которая выступает за изменение политики и общественного мнения для улучшения понимания и принятия трансгендерных людей. NCTE предоставляет информацию о проблемах, с которыми сталкивается трансгендерное сообщество, включая старение, антинасилие, трудоустройство, семьи, здоровье и ВИЧ, жилье и бездомность и многое другое."
+    },
+    "uk-UA": {
+      "title": "Національний центр за рівність трансгендерів",
+      "description": "Національний центр за рівність трансгендерів - це організація, яка пропагує зміну політик та соціальних ставлень до підвищення розуміння та прийняття трансгендерних людей. NCTE надає інформацію про проблеми, які впливають на трансгендерну спільноту, включаючи старіння, антинасильство, зайнятість, сім'ї, здоров'я та ВІЛ, житло та бездомність і багато іншого."
+    },
+    "ar-SA": {
+      "title": "المركز الوطني للمساواة بين المتحولين جنسيا",
+      "description": "المركز الوطني للمساواة بين المتحولين جنسيا هو منظمة تدعو لتغيير السياسات والمواقف المجتمعية لزيادة الفهم والقبول للأشخاص المتحولين جنسيا. يوفر NCTE معلومات حول القضايا التي تؤثر على المجتمع المتحول جنسيًا بما في ذلك الشيخوخة، مكافحة العنف، التوظيف، الأسر، الصحة و الإيدز، الإسكان والبطالة، وأكثر."
+    },
+    "mr-IN": {
+      "title": "राष्ट्रीय ट्रान्सजेंडर समानता केंद्र",
+      "description": "राष्ट्रीय ट्रान्सजेंडर समानता केंद्र ही संस्था ट्रान्सजेंडर लोकांची मान्यता आणि समजून घेणे साठी धोरणे आणि समाजाच्या मान्यतांमध्ये बदल करण्याच्या प्रयत्नांचा प्रतिपादन करते. नाटीसिटीई ट्रान्सजेंडर समाजातील मुद्द्यांची माहिती पुरवते, जसे की, वयोजन, हिंसाविरोध, रोजगार, कुटुंब, आरोग्य & एचआयव्ही, निवास & अपनिवास, आणि अधिक."
+    },
+    "hi-IN": {
+      "title": "राष्ट्रीय सेंटर फ़ॉर ट्रान्सजेंडर समानता",
+      "description": "राष्ट्रीय सेंटर फ़ॉर ट्रान्सजेंडर समानता एक संगठन है जो ट्रान्सजेंडर लोगों की समझ और स्वीकार्यता बढ़ाने के लिए नीतियों और सामाजिक दृष्टिकोणों में परिवर्तन के लिए समर्थन करता है। NCTE ट्रान्सजेंडर समुदाय को प्रभावित करने वाले मुद्दों जैसे बुढ़ापा, हिंसा के खिलाफ, रोजगार, परिवार, स्वास्थ्य और HIV, आवास और बेघरी आदि के बारे में जानकारी प्रदान करते हैं।"
+    },
+    "ur-PK": {
+      "title": "قومی مرکز برائے ٹرانسجینڈر برابری",
+      "description": "قومی مرکز برائے ٹرانسجینڈر برابری ایک ادارہ ہے جو ٹرانسجینڈر لوگوں کی بہتر تفہیم اور قبولیت کے لئے پالیسیوں اور معاشرتی رویوں میں تبدیلی کی ترقی کر رہا ہے۔ نیشنل سینٹر فار ٹرانسجینڈر ایکواٹی (NCTE) بڑھتی ہوئی عمر، خلاف تشدد، روزگار، خاندان، صحت اور ایچ آئی وی، ہاؤسنگ اور بے گھری اور اور بھی عناصر جو ٹرانسجینڈر کمیونٹی کو متاثر کرتی ہیں، کے بارے میں معلومات فراہم کرتا ہے۔"
+    },
+    "ta-IN": {
+      "title": "தேசிய மாறுபாலி சமமானத்துவ மையம்",
+      "description": "தேசிய மாறுபாலி சமமானத்துவ மையம் என்பது மாறுபாலி மக்களை மேலும் உண்மையில் அறிய மற்றும் ஏற்றுறுத்தல் கிடைக்க விதிகள் மற்றும் சமூக முன்னோக்கி மேல் ஆதரவு கொடுத்து, மாறுபாலிக் குழு என்ற சமூகத்தின் மேல் விளைவிக்கும் பிரச்சினைகளுக்கு பற்றி தகவல்கள் வழங்குவதாகும் ஒரு அமைப்பு. அதில் முதுமையாக உள்ளது, வன்முறை எதிர்ப்பு, வேலை, குடும்பங்கள், சுகாதாரம் & HIV, வீடு & விழிப்புணர்வு, மேலும் பல."
+    },
+    "bn-BD": {
+      "title": "ন্যাশনাল সেন্টার ফর ট্রান্সজেন্ডার ইকোয়ালিটি",
+      "description": "ন্যাশনাল সেন্টার ফর ট্রান্সজেন্ডার ইকোয়ালিটি একটি সংস্থা যার উদ্দেশ্য রাজনৈতিক এবং সামাজিক দৃষ্টিভঙ্গি পরিবর্তন করে ট্রান্সজেন্ডার মানুষদের জন্য বোধগম্যতা ও গ্রহণযোগ্যতা বাড়ানো। ন্যাশনাল সেন্টার ফর ট্রান্সজেন্ডার ইকোয়ালিটি (NCTE) ট্রান্সজেন্ডার সম্প্রদায়ের সম্মুখীন সমস্যাগুলি সম্পর্কে তথ্য সরবরাহ করে, যেমন বার্ধক্য, বিরুদ্ধে হিংসা, চাকরি, পরিবার, স্বাস্থ্য & এইচআইভি, বাসস্থান ও দরিদ্রতা, এবং আরও বেশি।"
+    },
+    "te-IN": {
+      "title": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం",
+      "description": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం అనేది ట్రాన్స్ జెండర్ వ్యక్తులకు అర్ధంచేసుకునే మరియు అంగీకరించే విధంగా సమాజ దృష్టాంతాలను మరియు విధానాలను మార్చడానికి ప్రచారణ చేయు సంస్థ . NCTE ముప్పు (ఏజింగ్), వైలెంస్ వ్యతిరేకత, ఉద్యోగం, కుటుంబాలు, కుల (హెల్త్ & హివ్), ఇంటి కౌటుంబికత (హౌసింగ్ & బెత్తలకు లేనివారు), మరియు మరియు మరిన్ని ప్రశ్నల గురించి సమాచారం అందిస్తుంది."
+    }
+  }
+}

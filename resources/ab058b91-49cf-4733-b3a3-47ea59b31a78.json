@@ -1,0 +1,107 @@
+{
+  "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
+  "slug": "a-place-for-marsha",
+  "externalUrl": "https://www.aplaceformarshaofficial.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "community-stories"
+  ],
+  "email": "info@aplaceformarshaofficial.org",
+  "socialMedia": {
+    "tiktok": "https://www.tiktok.com/@aplaceformarsha"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "A Place for Marsha",
+      "description": "A Place for Marsha is one of many start-up projects aiming towards helping Trans individuals and families in increasingly dangerous states to a safer place. APFM began its journey in March of 2023 in reaction to the rise of anti-trans legislation around the nation. APFM now focuses on matching Refugees from red states as roommates, carefully handling one household at a time."
+    },
+    "pt-PT": {
+      "title": "Um Lugar para Marsha",
+      "description": "Um Lugar para Marsha é um de muitos projetos start-up com o objetivo de ajudar indivíduos Trans e famílias em estados cada vez mais perigosos para um lugar mais seguro. APFM iniciou sua jornada em março de 2023 em reação ao aumento da legislação anti-trans em todo o país. APFM agora se concentra em combinar Refugiados de estados vermelhos como colegas de quarto, cuidando cuidadosamente de uma casa de cada vez."
+    },
+    "fr-FR": {
+      "title": "Un lieu pour Marsha",
+      "description": "Un place pour Marsha est l'un des nombreux projets de démarrage visant à aider les personnes transgenres et leurs familles dans des États de plus en plus dangereux, à un endroit plus sûr. APFM a commencé son voyage en mars 2023 en réaction à la montée de la législation anti-trans à travers la nation. APFM se concentre maintenant sur l'appariement des réfugiés des États rouges comme colocataires, gérant soigneusement un ménage à la fois."
+    },
+    "es-ES": {
+      "title": "Un Lugar para Marsha",
+      "description": "Un Lugar para Marsha es uno de muchos proyectos de inicio orientados a ayudar a individuos y familias Trans en estados cada vez más peligrosos a un lugar más seguro. ULPM comenzó su viaje en marzo de 2023 en reacción al auge de la legislatura anti-trans en toda la nación. Ahora ULPM se enfoca en emparejar a los refugiados de los estados rojos como compañeros de cuarto, manejando cuidadosamente un hogar a la vez."
+    },
+    "zh-CN": {
+      "title": "Marsha的归属地",
+      "description": "Marsha的归属地是许多初创项目之一，旨在帮助男女转型者和家庭从越来越危险的状态转移到更安全的地方。 APFM从2023年3月开始行动，以回应全国范围内的反转型立法潮流。 APFM现在专注于将来自红色州的难民作为室友进行匹配，小心翼翼地处理一个家庭。"
+    },
+    "de-DE": {
+      "title": "Ein Ort für Marsha",
+      "description": "Ein Ort für Marsha ist eines von vielen Start-up-Projekten, die darauf abzielen, trans Personen und Familien in zunehmend gefährlichen Bundesstaaten an einen sichereren Ort zu helfen. APFM begann seine Reise im März 2023 als Reaktion auf den Anstieg von antitrans*-Gesetzgebung im ganzen Land. APFM konzentriert sich nun darauf, Flüchtlinge aus roten Bundesstaaten als Mitbewohner zu vermitteln und dabei sorgfältig einen Haushalt nach dem anderen zu behandeln."
+    },
+    "sw-KE": {
+      "title": "Mahali pa Marsha",
+      "description": "Mahali pa Marsha ni moja ya miradi mingi ya kuanzia inayolenga kusaidia watu wa Trans na familia zao katika majimbo yanayozidi kuwa hatari kuelekea mahali salama. APFM ilianza safari yake mwezi Machi wa 2023 kufuatia kuongezeka kwa sheria za kupinga-trans kote nchini. APFM sasa inazingatia kuwalinganisha Wakimbizi kutoka majimbo mekundu kama wenye vyumba, kushughulikia kwa makini kaya moja kwa wakati."
+    },
+    "id-ID": {
+      "title": "Sebuah Tempat untuk Marsha",
+      "description": "Sebuah Tempat untuk Marsha adalah salah satu dari banyak proyek start-up yang bertujuan untuk membantu individu dan keluarga Trans dalam negara yang semakin berbahaya menuju tempat yang lebih aman. APFM memulai perjalanannya pada Maret 2023 sebagai reaksi terhadap meningkatnya legislasi anti-trans di seluruh negeri. APFM sekarang berfokus pada mencocokkan Pengungsi dari negara merah sebagai teman sekamar, dengan hati-hati menangani satu rumah tangga dalam satu waktu."
+    },
+    "ko-KR": {
+      "title": "A Place for Marsha",
+      "description": "A Place for Marsha는 점점 위험해지는 주에서 트랜스 개인과 가족들을 보다 안전한 장소로 돕는 많은 스타트업 프로젝트 중 하나입니다. APFM은 전국적으로 트랜스에 대한 반대 입법이 증가하는 반응으로 2023년 3월에 그 여정을 시작했습니다. APFM은 이제 빨간 주에서의 난민을 룸메이트로 매칭하는 데 집중하며, 한 가구를 신중하게 처리합니다."
+    },
+    "tr-TR": {
+      "title": "Marsha İçin Bir Yer",
+      "description": "Marsha İçin Bir Yer, artan ölçüde tehlikeli eyaletlerdeki Trans bireylerin ve ailelerin daha güvenli bir yere geçiş yapmasına yardımcı olmayı hedefleyen birçok start-up projesinden biridir. APFM yolculuğuna, ülke genelinde anti-trans yasalarının artışına tepki olarak 2023 Mart'ında başladı. APFM şimdi, mültecileri kırmızı eyaletlerden oda arkadaşı olarak eşleştirmeye, her bir hanehalkını dikkatlice ele almaya odaklanıyor."
+    },
+    "vi-VN": {
+      "title": "Một nơi cho Marsha",
+      "description": "Một nơi cho Marsha là một trong nhiều dự án khởi nghiệp hướng tới việc hỗ trợ cho các cá nhân và gia đình Trans trong các bang ngày càng nguy hiểm tới một nơi an toàn hơn. APFM bắt đầu hành trình của mình vào tháng 3 năm 2023 phản ứng trước sự gia tăng của các dự luật chống trans trên toàn quốc. APFM giờ đây tập trung vào việc ghép đôi những người tị nạn từ các bang đỏ làm bạn cùng phòng, cẩn thận xử lý từng hộ gia đình một."
+    },
+    "ja-JP": {
+      "title": "マーシャのための場所",
+      "description": "「マーシャのための場所」は、増加する危険な状態の中でトランスの個人と家族をより安全な場所に移すことを目指している多くのスタートアッププロジェクトの1つです。 APFMは、全国の反トランス法の増加に反応して2023年3月にその旅を始めました。 APFMは現在、赤い州からの難民とルームメイトをマッチングさせることに焦点を当てており、一つずつ世帯を丁寧に取り扱っています。"
+    },
+    "ru-RU": {
+      "title": "Место для Марши",
+      "description": "«Место для Марши» - это один из многих стартап-проектов, целью которых является помощь трансгендерным людям и их семьям в местах, где уровень опасности все возрастает, переехать в более безопасное место. APFM начал свою работу в марте 2023 года в ответ на рост антитрансгендерной законодательной базы по всей стране. Теперь APFM сосредоточен на поиске соседей для беженцев из «красных» штатов, тщательно работая с каждым домохозяйством по отдельности."
+    },
+    "uk-UA": {
+      "title": "Місце для Марши",
+      "description": "Місце для Марши - один з численних стартап-проектів, спрямованих на допомогу трансгендерним особам та їх сім'ям у дедалі небезпечніших штатах, щоб вони могли перебратися в безпечніше місце. APFM розпочала свій шлях у березні 2023 року як відповідь на зростання антітрансгендерного законодавства у країні. Тепер APFM зосереджується на пошуку співмешканців для біженців з червоних штатів, обережно працюючи з кожним домогосподарством окремо."
+    },
+    "ar-SA": {
+      "title": "مكان لمارشا",
+      "description": "مكان لمارشا هو واحد من العديد من مشاريع الشركات الناشئة التي تهدف إلى مساعدة الأفراد المتحولين جنسيا وعائلاتهم في الولايات المتزايدة الخطورة إلى مكان أكثر أمانا. بدأت APFM رحلتها في مارس من العام 2023 رداً على ارتفاع التشريعات المعادية للتحول الجنسي في جميع أنحاء الوطن. تُركز APFM الآن على مطابقة اللاجئين من الولايات الحمراء كرفاق في الغرفة، معالجة بعناية منزل واحد في كل مرة."
+    },
+    "ur-PK": {
+      "title": "مارشا کے لئے ایک جگہ",
+      "description": "مارشا کے لئے ایک جگہ بہت ساری شروعات میں سے ایک ہے جو ٹرانس افراد اور خاندانوں کی مدد کی طرف مایل ہے، جو بڑھتے ہوئے خطرناک حالات میں محفوظ جگہوں کی طرف. اے پی ایف ایم نے 2023 کے مارچ میں قوم بھر میں ٹرانس کے خلاف قوانین کی اضافہ کے رد عمل میں اپنا سفر شروع کیا. اب اے پی ایف ایم خاص طور پر سرخ ریاستوں سے پناہ گزینوں کو روم میٹس کے طور پر میچ کرنے پر توجہ مرکوز کر رہا ہے، احتیاط سے ایک گھرانے کا انتظام کرتے ہوئے."
+    },
+    "hi-IN": {
+      "title": "मार्शा के लिए एक स्थान",
+      "description": "मार्शा के लिए एक स्थान, ट्रांस व्यक्तियों और परिवारों की मदद करने की दिशा में अनेक स्टार्ट-अप परियोजनाओं में से एक है जो खतरनाक राज्यों में बढ़ रहे हैं। जिसे एक सुरक्षित स्थान की ओर ले जाने का लक्ष्य है। APFM ने 2023 के मार्च में राष्ट्र भर में ट्रांस-विरोधी कानूनों के ऊदय के जवाब में अपनी यात्रा शुरू की। APFM अब लाल राज्यों से शरणार्थियों को रूममेट के रूप में मिलाने पर ध्यान केंद्रित करता है, सावधानीपूर्वक एक समय में एक घर को संभालता है।"
+    },
+    "mr-IN": {
+      "title": "मार्शा साठी एक ठिकाण",
+      "description": "मार्शा साठी एक ठिकाण हे अधिक व प्रतिसादात्मक म्हणजेच अधिक धोकादायक राज्यांतील ट्रान्स व्यक्तींची आणि कुटुंबियांची मदत करणार्या अनेक सुरुवातीच्या प्रकल्पांपैकी एक आहे. APFM त्याचे प्रवास मार्च 2023 मध्ये संपूर्ण देशातील विरोधक ट्रान्स कायद्यांच्या वाढीच्या प्रतिसादाने सुरु केले. APFM आता लाल राज्यातील शरणार्थ्यांना रुममेट म्हणून जोडण्यावर, एकैकाने घरगुती विचारलेल्या, केंद्रीभूत करते."
+    },
+    "bn-BD": {
+      "title": "মার্শার জন্য একটি স্থান",
+      "description": "মার্শার জন্য একটি স্থান হল ট্রান্স ব্যক্তি এবং পরিবারকে বাড়িয়ে নিতে লক্ষ্য করে শুরু হওয়া অনেক প্রকল্পের একটি। সবে অনাড়ি হল এই ভিত্তি কেন্দ্রিক সংস্থাটি যা 2023 সালের মার্চ মাসে জাতি জুড়ে ত্রান্সবিরোধী আইনের বিস্তারের প্রতিক্রিয়ায় শুরু হয়েছিল। এপিএফএম এখন লাল রাজ্যের শরণার্থীদের রুমমেট হিসাবে মিলিয়ে দেওয়ার উপর মনোনিবেশ করে, একটি সময়ে একটি পরিবার কেয়ারফুলি হ্যান্ডল করে।"
+    },
+    "te-IN": {
+      "title": "మార్షా కొరకు ఒక స్థలం",
+      "description": "మార్షా కొరకు ఒక ప్రదేశం, ప్రారంభ ప్రాజెక్టులలో ఒకటిగా పెరుగుతున్న ప్రమాదకరమైన నిలవగానున్న రాష్ట్రాల్లో ట్రాన్స్ వ్యక్తులు మరియు కుటుంబాలకు సహాయపడేందుకు లక్ష్యించింది. APFM 2023 మార్చ్ లో జాతీయస్థాయిలో ట్రాన్స్ బిల్లుల ప్రమాణాలు పెరుగుదలతో ప్రారంభించింది. APFM ఇప్పుడు ఎర్రి రాష్ట్రాల నుండి శరణార్థులను గృహసహచరులుగా మ్యాచింగ్ చేయడానికి కేంద్రీకరించింది, ఒక గృహసంస్థను జాగ్రత్తగా పరిచరించింది."
+    },
+    "ta-IN": {
+      "title": "மார்ஷாக்கான இடம்",
+      "description": "மார்ஷாக்கான இடம் ஆகியவை, ஆதிகமான அபாயங்களுக்கு இருப்புவதிலிருந்து பாதுகாப்பான இடத்தில் டிரான்ஸ் நபர்கள் மற்றும் குடும்பங்களுக்கு உதவ நோக்குகின்றன. தேசத்தின் சுற்றுலாவில் முரண்டிய அண்டிரான்ஸ் சட்டங்களுக்கு எதிராக மார்ச், 2023ம் ஆண்டுக்கு அதன் பயணத்தை தொடங்கி. இப்போது APFM சிவப்புநில மாநிலங்களிலிருந்து அகதிகளை ஒரே வீட்டிற்கு ஒரு நண்பரின் வேண்டுவதைப் பொருத்துவதில் கூற்றுத் தழுவுகின்றது, மிகவும் கவனமாக ஒரே வீட்டாக."
+    }
+  }
+}

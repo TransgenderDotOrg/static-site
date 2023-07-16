@@ -1,0 +1,134 @@
+{
+  "id": "0066902c-dfbc-4094-82d7-817c1e4533e0",
+  "slug": "san-mateo-county-pride-center",
+  "externalUrl": "https://sanmateopride.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "community-stories",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "clothing",
+    "artists-creators",
+    "friendly-businesses",
+    "makeup",
+    "voice-training",
+    "discord-groups"
+  ],
+  "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
+  "phoneNumber": "650-591-0133",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "San Mateo",
+  "county": "San Mateo County",
+  "latLng": [
+    37.5569591,
+    -122.3189073
+  ],
+  "socialMedia": {
+    "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
+    "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "San Mateo County Pride Center",
+      "description": "The San Mateo County Pride Center is a collaboration model organization and one-stop shop for the LGBTQ+ community. We offer robust programs and services to support LGBTQ+ community members of all ages, including education, training, community events, peer support groups, daily programming, clinical therapy, and case management."
+    },
+    "fr-FR": {
+      "title": "Centre de Fierté du Comté de San Mateo",
+      "description": "Le Centre de Fierté du Comté de San Mateo est une organisation modèle de collaboration et un guichet unique pour la communauté LGBTQ+. Nous offrons des programmes et des services robustes pour soutenir les membres de la communauté LGBTQ+ de tous âges, y compris l'éducation, la formation, les événements communautaires, les groupes de soutien par les pairs, la programmation quotidienne, la thérapie clinique et la gestion de cas."
+    },
+    "zh-CN": {
+      "title": "圣马特奥县骄傲中心",
+      "description": "圣马特奥县骄傲中心是一个协作模式的组织，也是LGBTQ+ 社区的一站式服务站。我们为所有年龄的LGBTQ+社区成员提供强大的计划和服务，包括教育，培训，社区活动，同伴支持小组，每日规划，临床治疗，和案例管理。"
+    },
+    "es-ES": {
+      "title": "Centro del Orgullo del Condado de San Mateo",
+      "description": "El Centro del Orgullo del Condado de San Mateo es una organización modelo de colaboración y una parada única para la comunidad LGBTQ+. Ofrecemos programas robustos y servicios para apoyar a los miembros de la comunidad LGBTQ+ de todas las edades, incluyendo educación, capacitación, eventos comunitarios, grupos de apoyo entre pares, programación diaria, terapia clínica y manejo de casos."
+    },
+    "ar-SA": {
+      "title": "مركز سان ماتيو كاونتي للفخر",
+      "description": "مركز سان ماتيو كاونتي للفخر هو منظمة نموذج تعاون ومحطة واحدة لخدمة المجتمع المثلي. نحن نقدم برامج وخدمات قوية لدعم أعضاء المجتمع المثلي من جميع الأعمار، بما في ذلك التعليم، التدريب، الأحداث المجتمعية، مجموعات الدعم النظير، برمجة يومية، العلاج السريري، والإدارة الحالة."
+    },
+    "hi-IN": {
+      "title": "सैन मेटियो काउंटी प्राइड सेंटर",
+      "description": "सैन मेटियो काउंटी प्राइड सेंटर एक सहयोग मॉडल संगठन और LGBTQ+ समुदाय के लिए एक स्टॉप दुकान है। हम सभी आयु के LGBTQ+ समुदाय के सदस्यों का समर्थन करने के लिए शिक्षा, प्रशिक्षण, सामुदायिक कार्यक्रम, सहकर्मी समर्थन समूह, दैनिक कार्यक्रम, नैदानिक चिकित्सा, और केस प्रबंधन सहित मजबूत कार्यक्रम और सेवाएं प्रदान करते हैं।"
+    },
+    "id-ID": {
+      "title": "San Mateo County Pride Center",
+      "description": "San Mateo County Pride Center adalah organisasi model kolaborasi dan pusat belanja satu atap untuk komunitas LGBTQ+. Kami menawarkan program dan layanan yang kuat untuk mendukung anggota komunitas LGBTQ+ dari segala usia, termasuk pendidikan, pelatihan, acara komunitas, kelompok dukungan sebaya, program harian, terapi klinis, dan manajemen kasus."
+    },
+    "pt-PT": {
+      "title": "Centro Pride do Condado de San Mateo",
+      "description": "O Centro Pride do Condado de San Mateo é uma organização modelo de colaboração e uma loja única para a comunidade LGBTQ+. Oferecemos robustos programas e serviços para apoiar membros da comunidade LGBTQ+ de todas as idades, incluindo educação, treinamento, eventos comunitários, grupos de apoio de pares, programação diária, terapia clínica e gestão de casos."
+    },
+    "ru-RU": {
+      "title": "Центр гордости округа Сан-Матео",
+      "description": "Центр гордости округа Сан-Матео является организацией, работающей по модели сотрудничества и представляет собой универсальный центр для сообщества LGBTQ+. Мы предлагаем мощные программы и услуги для поддержки членов сообщества LGBTQ+ всех возрастов, включая образование, тренинги, мероприятия сообщества, группы поддержки, ежедневное планирование, клиническую терапию и управление делами."
+    },
+    "ur-PK": {
+      "title": "سان ماتیو کاؤنٹی پرائڈ سینٹر",
+      "description": "سان ماتیو کاؤنٹی پرائڈ سینٹر ایک تعاونی ماڈل تنظیم اور LGBTQ+ برادری کے لئے ون سٹاپ شاپ ہے. ہم تمام عمر کے LGBTQ+ برادری کے رکنوں کی حمایت کے لئے مضبوط پروگرامز اور خدمات پیش کرتے ہیں، جس میں تعلیم، تربیت، کمیونٹی کے واقعات، ہمسر برادری کے گروہ، روزمرہ کی پروگرامنگ، کلینیکی تربیت، اور کیس مینجمنٹ شامل ہیں."
+    },
+    "bn-BD": {
+      "title": "San Mateo County Pride Center",
+      "description": "San Mateo কাউন্টি প্রাইড সেন্টার হল একটি সহযোগিতামূলক মডেল সংস্থা এবং LGBTQ+ সম্প্রদায়ের জন্য অব্যাহত সেবা কেন্দ্র। আমরা সকল বয়সী LGBTQ+ সদস্যদের সমর্থনে শিক্ষা, প্রশিক্ষণ, সম্প্রদায়ের ইভেন্ট, সহযোগী সমর্থণ গ্রুপ, দৈনিক প্রোগ্রামিং, ক্লিনিকাল থেরাপি, এবং মামলা ব্যবস্থাপনা হিসেবে সক্ষম প্রোগ্রাম এবং সেবা প্রদান করি।"
+    },
+    "de-DE": {
+      "title": "San Mateo County Pride Center",
+      "description": "Das San Mateo County Pride Center ist eine Modellorganisation in Zusammenarbeit und eine Anlaufstelle für die LGBTQ+ Gemeinschaft. Wir bieten umfangreiche Programme und Dienstleistungen zur Unterstützung von LGBTQ+ Gemeinschaftsmitgliedern aller Altersgruppen, einschließlich Bildung, Training, Gemeindeveranstaltungen, Peer-Support-Gruppen, tägliche Programme, klinische Therapie und Fallmanagement."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Pride cha Kaunti ya San Mateo",
+      "description": "Kituo cha Pride cha Kaunti ya San Mateo ni mfano wa shirika la ushirikiano na duka moja la LGBTQ+ community. Tunatoa mipango na huduma thabiti kusaidia wanachama wa jumuiya ya LGBTQ+ wa umri wote, ikiwa ni pamoja na elimu, mafunzo, matukio ya jamii, vikundi vya msaada wa rika, programu ya kila siku, tiba ya kliniki, na usimamizi wa kesi."
+    },
+    "ja-JP": {
+      "title": "サンマテオ郡プライドセンター",
+      "description": "サンマテオ郡プライドセンターは、LGBTQ+コミュニティのためのコラボレーションモデル組織およびワンストップショップです。 私たちは、教育、トレーニング、コミュニティイベント、ピアサポートグループ、日常のプログラミング、臨床療法、ケース管理など、すべての年齢のLGBTQ+コミュニティメンバーをサポートするための充実したプログラムとサービスを提供しています。"
+    },
+    "mr-IN": {
+      "title": "सॅन माटेओ काउंटी प्राईड सेंटर",
+      "description": "सॅन माटेओ काउंटी प्राईड सेंटर ही एक सहकार्याच्या मॉडेल संस्था आणि LGBTQ+ समुदायासाठीची एकूण दुकान आहे. आम्ही सर्व वयोमानांच्या LGBTQ+ समुदायाच्या सदस्यांना समर्थन देणारी चटकामत्वपूर्ण कार्यक्रमे आणि सेवा देतो, ज्यामध्ये शिक्षण, प्रशिक्षण, समुदायीच्या कार्यक्रमांची समावेश, सहकारी समूहांची समर्थन, दैनंदिनी कार्यक्रमे, क्लिनिकल थेरपी, आणि बायकेस कार्य केलेला व्यवस्थापन."
+    },
+    "te-IN": {
+      "title": "సాన్ మాటెయో కౌంటీ ప్రైడ్ సెంటర్",
+      "description": "సాన్ మాటెయో కౌంటీ ప్రైడ్ సెంటర్ ఒక సహకార మోడల్ సంస్ధ మరియు LGBTQ+ సముదాయానికి ఒక ఐక్య శాప్. మామూలు పరిశోధనలు, సేవల మరియు పోషకత్వాంశాలు అందిస్తోంది , అన్ని వయసు వర్గాల LGBTQ+ సముదాయ సభ్యులకు పఠన, శిక్షణ, సముదాయ కార్యక్రమాలు, సహపాఠి మద్దతు సమూహాలు, రోజువారీ ప్రోగ్రమింగ్, క్లినికల్ చికిత్స, మరియు కేస్ మేనేజ్మెంట్."
+    },
+    "tr-TR": {
+      "title": "San Mateo County Pride Merkezi",
+      "description": "San Mateo County Pride Merkezi, LGBTQ+ topluluğu için işbirlik modeli bir organizasyon ve tek durak yeridir. Tüm yaş gruplarından LGBTQ+ topluluk üyelerini desteklemek için eğitim, eğitim, topluluk etkinlikleri, akran destek grupları, günlük programlama, klinik terapi ve dosya yönetimi dahil olmak üzere sağlam programlar ve hizmetler sunuyoruz."
+    },
+    "uk-UA": {
+      "title": "Прайд-центр округу Сан-Матео",
+      "description": "Прайд-центр округу Сан-Матео - це модель співпраці та універсальний центр для спільноти LGBTQ+. Ми пропонуємо потужні програми та послуги для підтримки членів спільноти LGBTQ+ всіх вікових категорій, включаючи освіту, навчання, спільнотні заходи, групи однолітків, щоденну програмування, клінічну терапію та кейс-менеджмент."
+    },
+    "ko-KR": {
+      "title": "샌 마테오 카운티 프라이드 센터",
+      "description": "샌 마테오 카운티 프라이드 센터는 LGBTQ+ 커뮤니티를 위한 협력 모델 조직 및 원스톱 쇼핑몰입니다. 우리는 교육, 훈련, 커뮤니티 이벤트, 동료 지원 그룹, 일일 프로그래밍, 임상 치료, 사례 관리를 포함하여 모든 연령의 LGBTQ+ 커뮤니티 멤버를 지원하기 위한 강인한 프로그램과 서비스를 제공합니다."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Tự hào San Mateo County",
+      "description": "Trung tâm Tự hào Hạt San Mateo là một tổ chức mô hình hợp tác và là nơi dừng chân cho cộng đồng LGBTQ+. Chúng tôi cung cấp các chương trình và dịch vụ mạnh mẽ để hỗ trợ các thành viên của cộng đồng LGBTQ+ ở mọi lứa tuổi, bao gồm giáo dục, đào tạo, sự kiện cộng đồng, nhóm hỗ trợ bạn bè, lập trình hàng ngày, liệu pháp lâm sàng, và quản lý trường hợp."
+    },
+    "ta-IN": {
+      "title": "சான் மத்தேயோ கவுண்டி பெருமை மையம்",
+      "description": "சான் மத்தேயோ கவுண்டி பெருமை மையம் ஒரு இணையான மாதிரி அமைப்பு முனையே ஒரு நிறுவனமாகும் மற்றும் LGBTQ+ சமூகத்துக்கான ஒரு கணினிப் பொருட்காட்சியாகும். எமது சமூக உறுப்பினர்களுக்கு பயிற்சி, சமூக நிகழ்வுகள், சக ஆதரவு குழுக்கள், நாள்தோறும் நிகழ்வுகள், மன சார்பரி, மற்றும் வழக்கு மேலாண்மை ஆகியவற்றை ஆதரிக்க சக்திவாய்ந்த திட்டங்கள் மற்றும் சேவைகளை வழங்குகின்றோம்."
+    }
+  }
+}

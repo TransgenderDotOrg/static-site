@@ -1,0 +1,41 @@
+{
+  "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+  "title": "Oakland LGBTQ Community Center",
+  "description": "Oakland's first ever Non-profit 501c3, all ages, all inclusive LGBTQ community service center. Services offered include support groups, mental health support, housing assistance, youth program, legal clinic, food pantry etc. Special programs are also conducted for aged LGBTQ+ people and transgender community members.",
+  "slug": "oakland-lgbtq-community-center",
+  "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "community-stories",
+    "partner-resources"
+  ],
+  "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+  "phoneNumber": "510-882-2286",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Oakland",
+  "county": "Alameda County",
+  "latLng": [37.8103802, -122.2459822],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+    "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+    "twitterUrl": null,
+    "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+    "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

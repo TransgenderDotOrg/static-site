@@ -1,0 +1,125 @@
+{
+  "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+  "slug": "oakland-lgbtq-community-center",
+  "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "community-stories",
+    "partner-resources"
+  ],
+  "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+  "phoneNumber": "510-882-2286",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Oakland",
+  "county": "Alameda County",
+  "latLng": [37.8103802, -122.2459822],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+    "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+    "twitterUrl": null,
+    "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+    "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Oakland LGBTQ Community Center",
+      "description": "Oakland's first ever Non-profit 501c3, all ages, all inclusive LGBTQ community service center. Services offered include support groups, mental health support, housing assistance, youth program, legal clinic, food pantry etc. Special programs are also conducted for aged LGBTQ+ people and transgender community members."
+    },
+    "es-ES": {
+      "title": "Centro Comunitario LGBTQ de Oakland",
+      "description": "El primer centro de servicio comunitario LGBTQ inclusivo y para todas las edades sin fines de lucro 501c3 de Oakland. Los servicios ofrecidos incluyen grupos de apoyo, soporte de salud mental, asistencia de vivienda, programa juvenil, clínica legal, despensa de alimentos, etc. También se realizan programas especiales para personas LGBTQ+ de edad avanzada y miembros de la comunidad transgénero."
+    },
+    "fr-FR": {
+      "title": "Centre communautaire LGBTQ d'Oakland",
+      "description": "Le tout premier centre de service communautaire LGBTQ à but non lucratif 501c3 de Oakland, pour toutes les âges et toutes les inclusivités. Les services proposés incluent des groupes de soutien, un soutien en santé mentale, une assistance au logement, un programme pour jeunes, une clinique juridique, une banque alimentaire, etc. Des programmes spéciaux sont également organisés pour les personnes âgées LGBTQ+ et les membres de la communauté transgenre."
+    },
+    "pt-PT": {
+      "title": "Centro Comunitário LGBTQ de Oakland",
+      "description": "O primeiro centro de serviço comunitário LGBTQ de Oakland, sem fins lucrativos 501c3, de todas as idades, totalmente inclusivo. Os serviços oferecidos incluem grupos de apoio, suporte para saúde mental, assistência habitacional, programa para jovens, clínica jurídica, despensa de alimentos etc. Programas especiais também são conduzidos para pessoas LGBTQ+ idosas e membros da comunidade transgênero."
+    },
+    "zh-CN": {
+      "title": "奥克兰LGBTQ社区中心",
+      "description": "奥克兰首个为所有年龄段、全包容的LGBTQ社区服务中心，属于非营利501c3组织。所提供的服务包括支持团体，心理健康支持，住房援助，青少年计划，法律诊所，食品储藏室等。还为年长的LGBTQ+人群和跨性别社区成员开展了特殊计划。"
+    },
+    "tr-TR": {
+      "title": "Oakland LGBTQ Topluluk Merkezi",
+      "description": "Oakland'ın ilk kâr amacı gütmeyen 501c3, her yaştan, kapsayıcı LGBTQ toplum hizmet merkezi. Sunulan hizmetler arasında destek grupları, ruh sağlığı desteği, konut yardımı, gençlik programı, hukuki danışmanlık, gıda bankası vb. bulunmaktadır. Ayrıca yaşlı LGBTQ+ bireyler ve trans topluluk üyeleri için özel programlar düzenlenmektedir."
+    },
+    "de-DE": {
+      "title": "Oakland LGBTQ Gemeinschaftszentrum",
+      "description": "Oaklands erstes gemeinnütziges 501c3, für alle Altersgruppen offenes und allumfassendes LGBTQ-Gemeinschaftsdienstzentrum. Angebotene Dienstleistungen umfassen Unterstützungsgruppen, psychische Gesundheitsunterstützung, Wohnhilfe, Jugendprogramm, Rechtsklinik, Lebensmittelkammer usw. Spezielle Programme werden auch für ältere LGBTQ+ Menschen und Mitglieder der Transgender-Gemeinschaft durchgeführt."
+    },
+    "id-ID": {
+      "title": "Pusat Komunitas LGBTQ Oakland",
+      "description": "Pertama kali di Oakland, organisasi non-profit 501c3, untuk semua usia, pusat pelayanan komunitas LGBTQ semuanya. Layanan yang ditawarkan meliputi kelompok dukungan, dukungan kesehatan mental, bantuan perumahan, program pemuda, klinik hukum, dapur umum, dll. Program khusus juga diselenggarakan untuk anggota komunitas LGBTQ+ yang berusia lanjut dan anggota komunitas transgender."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Jumuiya ya LGBTQ Oakland",
+      "description": "Kituo cha kwanza kabisa cha huduma kwa jamii ya LGBTQ katika Oakland kinachohusisha umri wote, chenye shirika lisilo la faida 501c3. Huduma zinazotolewa ni pamoja na makundi ya msaada, msaada wa afya ya akili, msaada wa makazi, programu ya vijana, kliniki ya kisheria, hifadhi ya chakula nk. Pia hufanya mipango maalum kwa ajili ya watu wa LGBTQ+ walio na umri na wanachama wa jamii ya transgender."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Cộng đồng LGBTQ Oakland",
+      "description": "Trung tâm dịch vụ cộng đồng LGBTQ đầu tiên của Oakland, không vì lợi nhuận, dành cho mọi lứa tuổi và bao quát mọi thành viên. Các dịch vụ được cung cấp bao gồm nhóm hỗ trợ, hỗ trợ sức khỏe tâm thần, hỗ trợ nhà ở, chương trình cho thanh thiếu niên, phòng khám pháp lý, phòng tạp phẩm thực phẩm, v.v. Còn tổ chức các chương trình đặc biệt cho người LGBTQ+ tuổi cao cùng cộng đồng người chuyển giới."
+    },
+    "ru-RU": {
+      "title": "Центр Сообщества LGBTQ в Окленде",
+      "description": "Первый в Окленде некоммерческий 501c3, для всех возрастов, всесторонний центр обслуживания сообщества LGBTQ. Предлагаемые услуги включают в себя группы поддержки, поддержку психического здоровья, помощь в поиске жилья, молодежную программу, юридическую клинику, пункт питания и т.д. Также проводятся специальные программы для пожилых людей LGBTQ+ и трансгендерного сообщества."
+    },
+    "ko-KR": {
+      "title": "오클랜드 LGBTQ 커뮤니티 센터",
+      "description": "오클랜드 최초의 비영리 501c3, 모든 연령, 모든 포괄적인 LGBTQ 커뮤니티 서비스 센터입니다. 제공되는 서비스에는 지원 그룹, 정신 건강 지원, 주거 지원, 청소년 프로그램, 법률 클리닉, 식량 저장소 등이 포함됩니다. 노인 LGBTQ+ 사람들과 트랜스젠더 커뮤니티 회원들을 위한 특별 프로그램들도 진행됩니다."
+    },
+    "ja-JP": {
+      "title": "オークランドLGBTQコミュニティセンター",
+      "description": "オークランド初の非営利組織501c3、全年齢、全包括的なLGBTQコミュニティサービスセンター。提供されるサービスには、サポートグループ、メンタルヘルスサポート、住宅援助、若者向けプログラム、法律相談所、食料品パントリーなどがあります。また、年配のLGBTQ+の人々やトランスジェンダーのコミュニティメンバーのための特別プログラムも行われています。"
+    },
+    "ur-PK": {
+      "title": "Oakland LGBTQ برادری مرکز",
+      "description": "اوکلینڈ کی پہلی نا منافع 501c3، تمام سنوں ، تمام شامل LGBTQ برادری خدمت مرکز۔ فراہم کی گئی خدمات میں سپورٹ گروپ، ذہنی صحت کا سپورٹ، رہائشی مدد، نوجوانان کا پروگرام، قانونی کلینک، فوڈ پینٹری وغیرہ شامل ہیں۔ خاص پروگرامات بھی LGBTQ+ لوگوں کی عمر کے لئے اور خود کا انتخاب کرنے والے برادری کے اراکین کے لئے بھی منعقد کیے جاتے ہیں۔"
+    },
+    "uk-UA": {
+      "title": "Центр LGBTQ спільноти Окленд",
+      "description": "Перший в Окленді некомерційний центр обслуговування LGBTQ спільноти для всіх вікових груп, 501c3. Послуги, що надаються, включають підтримувальні групи, психічну підтримку, допомогу з житлом, молодіжну програму, юридичну клініку, продуктовий склад тощо. Також проводяться спеціальні програми для людей похилого віку LGBTQ+ і трансгендерних членів спільноти."
+    },
+    "ar-SA": {
+      "title": "مركز مجتمع لوس أنجلوس للمثليين والمثليات ومزدوجي الجنس",
+      "description": "أول مركز خدمة مجتمعية غير ربحي يعود تأسيسه لـ501c3 في لوس أنجلوس، يقبل جميع الأعمار ومن جميع الأطياف، والذي يشمل مجتمع المثليين والمثليات ومزدوجي الجنس. الخدمات المقدمة تشمل مجموعات الدعم، الدعم النفسي، المساعدة السكنية، برنامج الشباب، العيادة القانونية، مستودع الطعام، إلخ. كما يتم إجراء برامج خاصة أيضًا للمثليين والمثليات المسنين وأفراد مجتمع المتحولين جنسيا."
+    },
+    "hi-IN": {
+      "title": "ओकलैंड LGBTQ समुदाय केंद्र",
+      "description": "ओकलैंड का पहला कभी गैर-लाभकारी 501c3, सभी आयु वर्गों, सभी समावेशी LGBTQ समुदाय सेवा केंद्र। इसमें शामिल हैं समर्थन समूह, मानसिक स्वास्थ्य सहायता, आवास सहायता, युवा कार्यक्रम, कानूनी क्लिनिक, भोजन कक्ष आदि। विशेष कार्यक्रम भी मूल निवासी LGBTQ+ लोगों और ट्रांसजेंडर समुदाय के सदस्यों के लिए आयोजित किए जाते हैं।"
+    },
+    "ta-IN": {
+      "title": "ஓக்லாந்து பிராசம்பிய அறிமுக இடம்",
+      "description": "ஓக்லாந்துவின் முதன்முதலாகவும் அனைவருக்கும் வழங்கும் அரசு அங்கீகரித்த 501c3 பிராசம்பிய அறிமுக இடம். வழங்கியுள்ள சேவைகள் ஆதரவு குழுக்கள், மன நலச் சேவைகள், வீட்டுநிலை உதவி, இளைஞர் நிகழ்ச்சி, சட்ட மேலாண்மை நிறுவனம், உணவு அடையாளங்கள் முதலியவற்றை உள்ளடக்கி உள்ளன. முதியவர் பிராசம்பிய மக்களுக்கும், பிராசம்பிய சமூக உறுப்பினருக்கும் சிறப்பு நிகழ்ச்சிகள் நடைபெறுகின்றன."
+    },
+    "bn-BD": {
+      "title": "ওকল্যান্ড এলজিবিটিকিউ সম্প্রদায় কেন্দ্র",
+      "description": "ওকল্যান্ডের কখনই প্রথম অ-লাভজনক 501c3, সমস্ত বয়সী, সম্পূর্ণ অন্তর্ভুক্তি সম্পন্ন এলজিবিটিকিউ সম্প্রদায় সেবা কেন্দ্র। সেবা অন্তর্গত সমর্থন গোষ্ঠী, মানসিক স্বাস্থ্য সমর্থন, আবাসন সহায়তা, কিশোর কার্যক্রম, আইনজীবী ক্লিনিক, খাদ্য ভাণ্ডার ইত্যাদি রয়েছে। ব্যাগ্ধ এলজিবিটিকিউ + লোকদের এবং ট্রান্সজেন্ডার সম্প্রদায়ের সদস্যদের জন্য বিশেষ কার্যক্রমগুলি ও পরিচালিত করা হয়।"
+    },
+    "te-IN": {
+      "title": "ఓక్లాండ్ LGBTQ సముదాయ సేంటర్",
+      "description": "ఓక్లాండ్ యొక్క మొదటి సర్వత్ర ఆఫ్రోఫిట్ 501c3, అన్ని ఆయుస్సుల ప్రజలకు, అన్ని భాగస్వాముల కలిగిన LGBTQ సముదాయ సేవా కేంద్రం. మాతృభాషాసహాయ సమూహాలు, మానసికతత్వశాస్త్ర సమర్థనం, నివాస సహాయం, యువక ప్రోగ్రామ్, చట్టప్రతి క్లినిక్, ఆహార పానీయాల అంగరాఖణ మొదలగునే సేవలు అందించబడుచున్నాయి. LGBTQ+ ముత్యుల ప్రజలు మరియు త్రితీయ లింగి సముదాయ సభ్యుల కోసం ప్రత్యేక ప్రోగ్రాములు కూడా నిర్వహించబడుతున్నాయి."
+    },
+    "mr-IN": {
+      "title": "ओकलॅंड LGBTQ समुदाय केंद्र",
+      "description": "ओकलॅंडचे एकच निधी विनियोग 501c3, सर्व वयोगटां, सर्व समाविष्ट LGBTQ समुदाय सेवा केंद्र. सेवेमध्ये समर्थन समूह, मानसिक आरोग्य समर्थन, निवास सहाय्य, तरुण कार्यक्रम, कायद्याशास्त्रीय चौकशी, अन्नकोठर इत्यादी समाविष्ट आहे. वयस्क LGBTQ+ लोक आणि तरुणसमुदाय सदस्यांसाठी विशेष कार्यक्रमही केलेले आहे."
+    }
+  }
+}

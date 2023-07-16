@@ -1,0 +1,103 @@
+{
+  "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+  "slug": "trans-families-home",
+  "externalUrl": "https://transfamilies.org",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "parent-family-resources",
+    "support-groups",
+    "education-awareness"
+  ],
+  "email": null,
+  "phoneNumber": null,
+  "address": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Trans Families",
+      "description": "Trans Families inspires hope, increases understanding, and creates a visible pathway to support trans and gender diverse children and all those who touch their lives. We provide resources, organize events, and connect families to support groups."
+    },
+    "es-ES": {
+      "title": "Familias Trans",
+      "description": "Familias Trans inspira esperanza, aumenta la comprensión y crea un camino visible para apoyar a niños trans y de género diverso y a todos aquellos que tocan sus vidas. Proporcionamos recursos, organizamos eventos y conectamos familias a grupos de apoyo."
+    },
+    "pt-PT": {
+      "title": "Famílias Trans",
+      "description": "Famílias Trans inspire esperança, aumentam a compreensão e criam um caminho visível para apoiar crianças trans e de gênero diverso e todos aqueles que tocam suas vidas. Fornecemos recursos, organizamos eventos e conectamos famílias a grupos de apoio."
+    },
+    "de-DE": {
+      "title": "Trans Familien",
+      "description": "Trans Familien inspiriert Hoffnung, erhöht das Verständnis und schafft einen sichtbaren Weg zur Unterstützung von trans und geschlechtsdiversen Kindern und allen, die ihr Leben berühren. Wir bieten Ressourcen, organisieren Veranstaltungen und verbinden Familien mit Unterstützungsgruppen."
+    },
+    "tr-TR": {
+      "title": "Trans Aileler",
+      "description": "Trans Aileler umut verir, anlayışı arttırır ve trans ve cinsiyet çeşitliliği olan çocuklara ve hayatlarına dokunan herkese destek sağlamak için görünür bir yol oluşturur. Kaynaklar sunarız, etkinlikler düzenleriz ve aileleri destek gruplarına bağlarız."
+    },
+    "zh-CN": {
+      "title": "跨性别家庭",
+      "description": "跨性别家庭激励希望，增进理解，为支持跨性别和性别多元的孩子以及所有涉及他们生活的人创建了一个可见的途径。我们提供资源，组织活动，并将家庭连接到支持团体。"
+    },
+    "ru-RU": {
+      "title": "Трансгендерные Семьи",
+      "description": "Трансгендерные Семьи вдохновляют на надежду, увеличивают понимание и создают видимый путь поддержки трансгендерных и гендерно-разнообразных детей, а также всех тех, кто оказывает влияние на их жизнь. Мы предоставляем ресурсы, организуем мероприятия и связываем семьи с группами поддержки."
+    },
+    "fr-FR": {
+      "title": "Familles Trans",
+      "description": "Trans Families inspire de l'espoir, augmente la compréhension et crée un chemin visible pour soutenir les enfants transgenres et diversifiés sur le plan du genre et tous ceux qui touchent leur vie. Nous fournissons des ressources, organisons des événements et connectons les familles à des groupes de soutien."
+    },
+    "ko-KR": {
+      "title": "Trans Families",
+      "description": "Trans Families는 희망을 불어넣고, 이해를 증진시키며, 트랜스와 성 다양성을 가진 아이들과 그들의 생활에 관련된 모든 사람들을 지원하는 명확한 길을 제시합니다. 우리는 자원을 제공하고, 이벤트를 구성하며, 가족들을 지원 그룹에 연결합니다."
+    },
+    "id-ID": {
+      "title": "Keluarga Trans",
+      "description": "Keluarga Trans menginspirasi harapan, meningkatkan pemahaman, dan menciptakan jalur yang terlihat untuk mendukung anak-anak trans dan beragam gender serta semua orang yang menyentuh hidup mereka. Kami menyediakan sumberdaya, mengorganisir acara, dan menghubungkan keluarga ke grup dukungan."
+    },
+    "sw-KE": {
+      "title": "Familia za Trans",
+      "description": "Familia za Trans inatia matumaini, inaongeza uelewa, na inaunda njia inayoonekana ya kusaidia watoto wa jinsia tofauti na wote wanaogusa maisha yao. Tunatoa rasilimali, tunaandaa matukio, na kuunganisha familia kwa makundi ya msaada."
+    },
+    "ja-JP": {
+      "title": "トランスの家族",
+      "description": "トランスの家族は希望をあたえ、理解を深め、トランスやジェンダー多様性のある子どもたち、そして彼らの生活に関わるすべての人々を支援するための明確な道筋を作ります。私たちはリソースを提供し、イベントを組織し、家族を支援グループにつなぐことでサポートしています。"
+    },
+    "vi-VN": {
+      "title": "Gia đình Trans",
+      "description": "Gia đình Trans truyền cảm hứng hy vọng, tăng sự hiểu biết và tạo ra lối mòn hữu hình để hỗ trợ trẻ em Trans và đa dạng giới tính cũng như tất cả những người có liên quan đến cuộc sống của họ. Chúng tôi cung cấp nguồn lực, tổ chức sự kiện và kết nối gia đình với các nhóm hỗ trợ."
+    },
+    "uk-UA": {
+      "title": "Транссексуальні Сім'ї",
+      "description": "Транссексуальні Сім'ї надихають на надію, підвищують розуміння та створюють видимий шлях до підтримки транссексуальних та гендерно різноманітних дітей, а також всіх тих, хто входить в їхнє життя. Ми надаємо ресурси, організовуємо заходи та з'єднуємо сім'ї з групами підтримки."
+    },
+    "ur-PK": {
+      "title": "ٹرانس خاندان",
+      "description": "ٹرانس خاندان امید بھرتا ہے ، سمجھ بڑھاتا ہے ، اور ایک نظریہ بناتا ہے جو ٹرانس اور جنسی طور پر متنوع بچوں اور ان سب لوگوں کی مدد کرتا ہے جو ان کی زندگی کو چھوتے ہیں۔ ہم وسائل فراہم کرتے ہیں ، تقریبات منظم کرتے ہیں ، اور خاندانوں کو سپورٹ گروپوں سے تعلق میں لاتے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "संवेदनशील कुटुंब",
+      "description": "संवेदनशील कुटुंबांनी आशावाद जोखीम घेतला, समजून घेण्याची क्षमता वाढवली, आणि संवेदनशील आणि लिंगभेदी मुलांच्या मदतीसाठी दृश्यमान मार्ग तयार केला. आम्ही संसाधने पुरवतो, कार्यक्रमे योजित करतो आणि कुटुंबांची मदत करणाऱ्या समूहांशी संपर्क साधतो."
+    },
+    "hi-IN": {
+      "title": "ट्रांस परिवार",
+      "description": "ट्रांस परिवार आशा का स्रोत बनते हैं, समझ को बढ़ाते हैं, और ट्रांस और लिंग विविध बच्चों के साथ-साथ उन सभी लोगों का समर्थन करने के लिए एक दृश्य पथ बनाते हैं जो उनके जीवन को छूते हैं। हम संसाधन प्रदान करते हैं, कार्यक्रमों का आयोजन करते हैं, और परिवारों को समर्थन समूहों से जोड़ते हैं।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্স ফ্যামিলিগুলি",
+      "description": "ট্রান্স ফ্যামিলিগুলি আশা উদ্দীপনা করে, বোধগম্যতা বাড়ায়, এবং ট্রান্স এবং লিঙ্গ বিচ্যুতি সম্পন্ন শিশুদের এবং তাদের জীবনে যারা লাগায়, সমর্থনের জন্য দৃশ্যমান পথ তৈরি করে। আমরা সম্পদ সরবরাহ করি, ইভেন্টগুলি আয়োজন করি, এবং পরিবারগুলিকে সমর্থন গ্রুপের সাথে সংযোগ করি।"
+    },
+    "ta-IN": {
+      "title": "மாறிவாழ்க்கை குடும்பங்கள்",
+      "description": "மாறிவாழ்க்கை குடும்பங்கள் நம்பிக்கையை ஊக்கப்படுத்தி, மேலும் அறிவை அதிகரிப்பதற்கும், மாறிய பாலினத்தையும் பாலின வேறுபாடுகளையும் அடையாளம் காணும் குழந்தைகளுக்கு ஆதரவு வழியை உருவாக்கும். ஆவணங்களை வழங்குவதற்கும், நிகழ்வுகளை ஏற்பாடு செய்வதற்கும், குடும்பங்களை ஆதரவு குழுக்களுக்கு இணைக்கும் ஆணைகளை இணைக்கின்றோம்."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్ కుటుంబాలు",
+      "description": "ట్రాన్స్ కుటుంబాలు ఆశానికి ప్రేరణ ఇస్తుంది, అర్ధాన్ని పెంచుతుంది, మరియు వారి జీవితాలను తాకే అన్ని వ్యక్తులకు మద్దతు మరియు ప్రాతిపదిక లింగ వైవిధ్యతను మద్దతు చేయడానికి ఒక కనిపించే మార్గాన్ని సృష్టిస్తుంది. మేము వనరులను అందిస్తాము, ఈవెంట్లను నిర్వహిస్తాము, మరియు కుటుంబాలను మద్దతు సమూహాలకు కనేక్ట్ చేస్తాము."
+    },
+    "ar-SA": {
+      "title": "عائلات المتحولين جنسيا",
+      "description": "تلهم عائلات المتحولين جنسيا الأمل، وتزيد من التفهم، وتخلق مسارًا واضحًا لدعم الأطفال المتحولين جنسيا والذين يعانون من تنوع الجنس وكل من يلمس حياتهم. نحن نقدم الموارد، وننظم الأحداؤ، ونربط العائلات بجماعات الدعم."
+    }
+  }
+}

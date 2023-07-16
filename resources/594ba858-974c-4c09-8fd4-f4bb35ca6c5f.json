@@ -1,0 +1,119 @@
+{
+  "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+  "slug": "pacific-center-for-human-growth",
+  "externalUrl": "https://www.pacificcenter.org/",
+  "tags": [
+    "mental-health",
+    "support-groups",
+    "healthcare",
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+  "phoneNumber": "510-548-8283",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Berkeley",
+  "county": "Alameda County",
+  "latLng": [
+    37.8611143,
+    -122.2593404
+  ],
+  "socialMedia": {
+    "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+    "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+    "facebookUrl": "https://www.facebook.com/pacific.center",
+    "twitterUrl": null,
+    "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+    "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Pacific Center for Human Growth",
+      "description": "Founded in 1973, Pacific Center for Human Growth is the oldest LGBTQIA+ center in the Bay Area, the third oldest in the nation, and operates the only sliding scale mental health clinic for LGBTQIA+ and QTBIPOC people and their families in Alameda County."
+    },
+    "de-DE": {
+      "title": "Pacific Center for Human Growth",
+      "description": "Gegründet im Jahr 1973, ist das Pacific Center for Human Growth das älteste LGBTQIA+ Zentrum in der Bay Area, das drittälteste in der Nation und betreibt die einzige Gleitklinikklinik für psychische Gesundheit für LGBTQIA+ und QTBIPOC Menschen und ihre Familien in Alameda County."
+    },
+    "pt-PT": {
+      "title": "Centro Pacífico para Crescimento Humano",
+      "description": "Fundado em 1973, o Centro Pacífico para Crescimento Humano é o centro LGBTQIA+ mais antigo da área da Baía, o terceiro mais antigo na nação, e opera a única clínica de saúde mental de escala ajustável para pessoas LGBTQIA+ e QTBIPOC e suas famílias no condado de Alameda."
+    },
+    "es-ES": {
+      "title": "Centro Pacífico para el Crecimiento Humano",
+      "description": "Fundado en 1973, el Centro Pacífico para el Crecimiento Humano es el centro LGBTQIA+ más antiguo del Área de la Bahía, el tercero más antiguo de la nación, y opera la única clínica de salud mental a escala variable para personas LGBTQIA+ y QTBIPOC y sus familias en el condado de Alameda."
+    },
+    "ja-JP": {
+      "title": "パシフィック人間成長センター",
+      "description": "1973年設立のパシフィック人間成長センターは、湾岸エリアで最も古いLGBTQIA+センターであり、全国で3番目に古いセンターであり、アラメダ郡のLGBTQIA+とQTBIPOCの人々及びその家族向けに、唯一のスライディングスケールのメンタルヘルスクリニックを運営しています。"
+    },
+    "zh-CN": {
+      "title": "太平洋人类成长中心",
+      "description": "太平洋人类成长中心成立于1973年，是旧金山湾区最古老的LGBTQIA+中心，全国第三古老，并运营着阿拉米达县唯一为LGBTQIA+和QTBIPOC人群及其家庭提供滑动规模精神健康诊所。"
+    },
+    "id-ID": {
+      "title": "Pacific Center for Human Growth",
+      "description": "Didirikan pada tahun 1973, Pacific Center for Human Growth adalah pusat LGBTQIA+ tertua di Bay Area, yang ketiga tertua di negara ini, dan mengoperasikan satu-satunya klinik kesehatan mental dengan skala geser untuk orang-orang LGBTQIA+ dan QTBIPOC serta keluarga mereka di Kabupaten Alameda."
+    },
+    "fr-FR": {
+      "title": "Centre Pacifique pour la Croissance Humaine",
+      "description": "Fondé en 1973, le Centre Pacifique pour la Croissance Humaine est le plus ancien centre LGBTQIA+ de la région de la Baie, le troisième plus ancien du pays, et il gère la seule clinique de santé mentale à échelle variable pour les personnes LGBTQIA+ et QTBIPOC et leurs familles dans le comté d'Alameda."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Kupanua Binadamu cha Pacific",
+      "description": "Ilianzishwa mwaka 1973, Kituo cha Kupanua Binadamu cha Pacific ni kituo kikongwe zaidi cha LGBTQIA+ katika eneo la Bay, cha tatu kongwe nchini, na kinatoa kliniki pekee ya afya ya akili inayotumia kipimo cha sliding kwa watu wa LGBTQIA+ na QTBIPOC na familia zao katika Kaunti ya Alameda."
+    },
+    "tr-TR": {
+      "title": "Pacific İnsan Büyümesi Merkezi",
+      "description": "1973 yılında kurulan Pacific İnsan Büyümesi Merkezi, Bay Area'daki en eski LGBTQIA+ merkezi, ülkenin üçüncü en eski merkezi olup, yalnızca Alameda County'deki LGBTQIA+ ve QTBIPOC kişilere ve ailelerine ait ölçekli zihinsel sağlık kliniğini işletmektedir."
+    },
+    "ar-SA": {
+      "title": "مركز المحيط الهادئ للنمو البشري",
+      "description": "تأسس في عام 1973، مركز المحيط الهادئ للنمو البشري هو أقدم مركز لـ LGBTQIA+ في منطقة خليج سان فرانسيسكو، والثالث الأقدم في البلاد، ويدير العيادة النفسية الوحيدة التي تتبع نظام السعر المنزلق لـ LGBTQIA+ و QTBIPOC وعائلاتهم في مقاطعة ألاميدا."
+    },
+    "ru-RU": {
+      "title": "Тихоокеанский центр человеческого развития",
+      "description": "Основанный в 1973 году, Тихоокеанский центр человеческого развития является старейшим центром LGBTQIA+ в заливе, третьим старейшим в стране, и единственным действующим ментальным здоровьем клининга для людей LGBTQIA+ и QTBIPOC и их семей в округе Аламеда на системе скользящего масштаба."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Phát triển Con người Pacific",
+      "description": "Được thành lập vào năm 1973, Trung tâm Phát triển Con người Pacific là trung tâm LGBTQIA+ lâu đời nhất tại Vùng Vịnh, thứ ba lâu đời nhất tại quốc gia, và điều hành phòng khám sức khỏe tâm thần tỷ lệ trượt duy nhất cho người LGBTQIA+ và QTBIPOC và gia đình họ tại Quận Alameda."
+    },
+    "uk-UA": {
+      "title": "Тихоокеанський центр розвитку людини",
+      "description": "Заснований у 1973 році, Тихоокеанський центр розвитку людини є найстарішим центром LGBTQIA+ в заливі, третім за старістю в країні, і оперує єдиною клінікою психічного здоров'я для людей LGBTQIA+ та QTBIPOC та їхніх сімей в окрузі Аламеда, де встановлено плаваючу шкалу."
+    },
+    "ko-KR": {
+      "title": "태평양 인간 성장 센터",
+      "description": "1973년에 설립된 태평양 인간 성장 센터는 베이 지역에서 가장 오래된 LGBTQIA+ 센터이며, 전국에서 세 번째로 오래되었고, 알라메다 카운티의 LGBTQIA+ 및 QTBIPOC 사람들과 그들의 가족을 위한 유일한 슬라이딩 스케일 정신 건강 클리닉을 운영하고 있습니다."
+    },
+    "hi-IN": {
+      "title": "पसिफिक सेंटर फॉर ह्यूमन ग्रोथ",
+      "description": "1973 में स्थापित, पसिफिक सेंटर फॉर ह्यूमन ग्रोथ बे एरिया में सबसे पुराना LGBTQIA+ केंद्र है, राष्ट्र में तीसरा सबसे पुराना, और यह एलामेडा काउंटी में LGBTQIA+ और QTBIPOC लोगों और उनके परिवारों के लिए एकमात्र स्लाइडिंग स्केल मानसिक स्वास्थ्य क्लिनिक का संचालन करता है।"
+    },
+    "ur-PK": {
+      "title": "پیسیفک سینٹر فار ہیومن گروتھ",
+      "description": "1973 میں قائم ہونے والا پیسیفک سینٹر فار ہیومن گروتھ بے ایریا کا سب سے پرانا LGBTQIA+ مرکز ہے، قومی سطح پر تیسرا سب سے پرانا ہے، اور الیامیڈا کاؤنٹی میں LGBTQIA+ اور QTBIPOC لوگوں اور ان کے خاندانوں کے لئے فقط منظم مند ڈیماغی صحت کے کلینک چلا رہا ہے۔"
+    },
+    "mr-IN": {
+      "title": "पॅसिफिक सेंटर फॉर ह्युमन ग्रोथ",
+      "description": "1973 मध्ये स्थापित झालेल्या, पॅसिफिक सेंटर फॉर ह्युमन ग्रोथ ही बे एरियातील सर्वात जुनी LGBTQIA+ केंद्र आहे, देशातील तिसरी सर्वात जुनी आणि अलामेदा काउंटीतील LGBTQIA+ व् QTBIPOC लोकांसाठी आणि त्यांच्या कुटुंबियांसाठी फक्त स्लाइडिंग स्केल मानसिक आरोग्य क्लिनिक चालवते."
+    },
+    "bn-BD": {
+      "title": "প্যাসিফিক সেন্টার ফর হিউম্যান গ্রোথ",
+      "description": "১৯৭৩ সালে প্রতিষ্ঠিত, প্যাসিফিক সেন্টার ফর হিউম্যান গ্রোথ হ'ল বে এরিয়ার সর্বপ্রথম LGBTQIA+ কেন্দ্র, দেশে তৃতীয় সর্বপ্রথম, এবং এলামেডা কাউন্টির LGBTQIA+ এবং QTBIPOC মানুষদের এবং তাদের পরিবারের জন্য একমাত্র স্লাইডিং স্কেল মানসিক স্বাস্থ্য ক্লিনিক চালানো হয়।"
+    },
+    "te-IN": {
+      "title": "పసిఫిక్ సెంటర్ ఫర్ హ్యూమన్ గ్రోత్",
+      "description": "1973లో స్థాపించిన Pacific Center for Human Growth, బే ఏరియాలో అతి పాత లెస్బియన్లు, గేయ్స్, బై సెక్సుయల్, ట్రాన్స్, అండిఖానీ సెంటర్, దేశంలో మూడవ, మాత్రమే అలమేడా కౌంటీలో లెస్బియన్లు, గేయ్స్, బై సెక్సుయల్, LGBTQIA+ మరియు QTBIPOC ప్రజలు మరియు వారి కుటుంబాలకు మాత్రమే మానసిక ఆరోగ్య క్లినిక్ నిర్వహిస్తోంది."
+    },
+    "ta-IN": {
+      "title": "Pacific மனித வளர்ச்சி மையம்",
+      "description": "1973ஆம் ஆண்டில் தொடக்கப்பட்டதாக, Pacific மனித வளர்ச்சி மையம் Bay பிரதேசத்தில் மிகவும் பழைய LGBTQIA+ மையமாகும், தேசிய நிலையில் மூன்றாவது மிகவும் பழையதாகும், மேலும் அது Alameda மாவட்டத்தில் LGBTQIA+ மற்றும் QTBIPOC மக்களுக்கும் அவர்கள் குடும்பத்தினருக்கும் மட்டும் மாற்று மதிப்பு மன சுகாதார மருத்துவமனையை இயக்குகிறது."
+    }
+  }
+}

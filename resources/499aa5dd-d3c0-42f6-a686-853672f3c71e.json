@@ -1,0 +1,102 @@
+{
+  "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
+  "slug": "erin-in-the-morning",
+  "externalUrl": "https://www.erininthemorning.com/",
+  "tags": [
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "education-awareness"
+  ],
+  "email": "null",
+  "socialMedia": {
+    "facebook": "facebook.com/erininthemorning",
+    "email": "mailto:info@erininthemorning.com"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Erin In The Morning",
+      "description": "News and discussion on trans legislation and life. By Erin Reed · Over 38,000 subscribers"
+    },
+    "id-ID": {
+      "title": "Erin di Pagi Hari",
+      "description": "Berita dan diskusi tentang legislasi trans dan kehidupan. Oleh Erin Reed · Lebih dari 38.000 pelanggan"
+    },
+    "es-ES": {
+      "title": "Erin en la mañana",
+      "description": "Noticias y discusión sobre legislación trans y la vida. Por Erin Reed · Más de 38,000 suscriptores"
+    },
+    "tr-TR": {
+      "title": "Sabahın Erin'leri",
+      "description": "Trans mevzuatı ve yaşam hakkında haberler ve tartışmalar. Erin Reed tarafından · 38.000'den fazla abone"
+    },
+    "zh-CN": {
+      "title": "早晨的艾琳",
+      "description": "关于跨性别立法和生活的新闻和讨论。由艾琳·里德制作 · 超过38,000名订阅者"
+    },
+    "fr-FR": {
+      "title": "Erin Dans La Matin",
+      "description": "Nouvelles et discussions sur la législation trans et la vie. Par Erin Reed · Plus de 38,000 abonnés"
+    },
+    "pt-PT": {
+      "title": "Erin Na Manhã",
+      "description": "Notícias e discussões sobre legislação e vida trans. Por Erin Reed · Com mais de 38.000 inscritos"
+    },
+    "vi-VN": {
+      "title": "Erin vào buổi sáng",
+      "description": "Tin tức và thảo luận về các quy định và cuộc sống của người chuyển giới. Bởi Erin Reed · Hơn 38.000 người đăng ký"
+    },
+    "ja-JP": {
+      "title": "エリンのモーニング",
+      "description": "トランスに関する法律と生活についてのニュースと議論。エリン・リードによる · 38,000人以上の購読者"
+    },
+    "ko-KR": {
+      "title": "아침의 에린",
+      "description": "트랜스법률과 생활에 대한 뉴스와 토론. 에린 리드에 의해 · 구독자 38,000명 이상"
+    },
+    "ru-RU": {
+      "title": "Эрин утром",
+      "description": "Новости и дискуссии о законодательстве о трансгендерах и жизни. Автор Эрин Рид · Более 38 000 подписчиков"
+    },
+    "uk-UA": {
+      "title": "Ерін ранком",
+      "description": "Новини та дискусії про законодавство для трансгендерів та життя. Від Ерін Рід · Понад 38 000 передплатників"
+    },
+    "de-DE": {
+      "title": "Erin am Morgen",
+      "description": "Nachrichten und Diskussion über Trans-Gesetzgebung und Leben. Von Erin Reed · Über 38.000 Abonnenten"
+    },
+    "bn-BD": {
+      "title": "সকালে এরিন",
+      "description": "ট্রান্স আইন এবং জীবন উপর খবর এবং আলোচনা। এরিন রিড দ্বারা · বেশি ৩৮,০০০ সদস্য"
+    },
+    "ar-SA": {
+      "title": "إيرين في الصباح",
+      "description": "أخبار ومناقشات حول التشريعات الخاصة بالمتحولين جنسياً والحياة. بواسطة إيرين ريد · أكثر من 38,000 مشترك"
+    },
+    "mr-IN": {
+      "title": "सकाळी एरिन",
+      "description": "प्रतिसत्ता विधानावरील बातमी आणि चर्चा आणि जीवन. एरिन रीड द्वारे · 38,000 पेक्षा अधिक सदस्य"
+    },
+    "sw-KE": {
+      "title": "Erin Asubuhi",
+      "description": "Habari na majadiliano kuhusu sheria za transgender na maisha. Kwa Erin Reed · Zaidi ya wanachama 38,000"
+    },
+    "ur-PK": {
+      "title": "صبح میں ایرن",
+      "description": "ٹرانس قانون و زندگی پر خبروں اور بحث۔ ایرن ریڈ کی جانب سے۔ 38,000 سے زیادہ سبسکرائبرز"
+    },
+    "hi-IN": {
+      "title": "सुबह में एरिन",
+      "description": "ट्रांस कानून और जीवन पर समाचार और चर्चा। एरिन रीड द्वारा · 38,000 से अधिक सब्सक्राइबर्स"
+    },
+    "ta-IN": {
+      "title": "காலையில் ஏரின்",
+      "description": "பாலின சட்டங்கள் மற்றும் வாழ்க்கை பற்றிய செய்திகள் மற்றும் விவாதம். ஏரின் ரீட் மூலம் · 38,000 க்கும் மேற்பட்ட சந்தாதாரர்கள்"
+    },
+    "te-IN": {
+      "title": "ఉదయంలో ఈరిన్",
+      "description": "ట్రాన్స్ చట్టపు మరియు జీవనం పై వార్తలు మరియు చర్చ. ఈరిన్ రీడ్ చేత · అధిక 38,000 చందాదారులు"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+  "title": "Gender Diversity",
+  "description": "Gender Diversity improves the well-being of children and adults of all gender identities and expression by providing education, increasing awareness, and offering insight into the wider range of human experience. We also assist in creating supportive and non-discriminatory environments in schools, sports teams, workplaces, and healthcare providers for transgender and gender diverse individuals.",
+  "slug": "gender-diversity",
+  "externalUrl": "https://genderdiversity.org",
+  "tags": [
+    "education-awareness",
+    "healthcare",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "social-services",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "address": "6523 California Ave SW #144, Seattle, WA 98136",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [47.544046, -122.387452],
+  "phoneNumber": "1-833-3GENDER",
+  "email": "info@genderdiversity.org"
+}

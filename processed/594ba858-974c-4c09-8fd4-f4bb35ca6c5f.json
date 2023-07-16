@@ -1,0 +1,32 @@
+{
+  "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+  "title": "Pacific Center for Human Growth",
+  "description": "Founded in 1973, Pacific Center for Human Growth is the oldest LGBTQIA+ center in the Bay Area, the third oldest in the nation, and operates the only sliding scale mental health clinic for LGBTQIA+ and QTBIPOC people and their families in Alameda County.",
+  "slug": "pacific-center-for-human-growth",
+  "externalUrl": "https://www.pacificcenter.org/",
+  "tags": [
+    "mental-health",
+    "support-groups",
+    "healthcare",
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+  "phoneNumber": "510-548-8283",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Berkeley",
+  "county": "Alameda County",
+  "latLng": [37.8611143, -122.2593404],
+  "socialMedia": {
+    "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+    "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+    "facebookUrl": "https://www.facebook.com/pacific.center",
+    "twitterUrl": null,
+    "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+    "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

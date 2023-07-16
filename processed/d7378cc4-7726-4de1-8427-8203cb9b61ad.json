@@ -1,0 +1,35 @@
+{
+  "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+  "title": "East Bay Trans & Queer Counseling",
+  "description": "East Bay Trans & Queer Counseling offers sliding scale services that include: Individual Therapy centrally located in Berkeley, CA Support through gender exploration and transition Recommendation letters for hormones and surgery Professional trainings for mental health providers, students, and employers. Sam Davis is a transgender, genderqueer Licensed Clinical Social Worker (LCSW) specializing in working with trans, queer, genderqueer, and gender-nonconforming teens and adults. They have 16 years of experience as a mental health provider in the East Bay, including peer support group facilitation, community education at LGBTQI conferences, and 9 years of clinical practice and crisis counseling with severely marginalized people for the County of Alameda. They are a strong and committed advocate with a long history of organizing on behalf of marginalized people.",
+  "slug": "east-bay-trans-queer-counseling",
+  "externalUrl": "https://www.eastbaytranscounseling.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "education-awareness"
+  ],
+  "email": "eastbaytranscounseling@gmail.com",
+  "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+  "phoneNumber": "781-775-7802",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Berkeley",
+  "county": "Alameda County",
+  "latLng": [37.8538725, -122.2596505],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

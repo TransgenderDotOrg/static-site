@@ -1,0 +1,113 @@
+{
+  "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+  "slug": "gender-diversity",
+  "externalUrl": "https://genderdiversity.org",
+  "tags": [
+    "education-awareness",
+    "healthcare",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "social-services",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "address": "6523 California Ave SW #144, Seattle, WA 98136",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.544046,
+    -122.387452
+  ],
+  "phoneNumber": "1-833-3GENDER",
+  "email": "info@genderdiversity.org",
+  "i18n": {
+    "en-US": {
+      "title": "Gender Diversity",
+      "description": "Gender Diversity improves the well-being of children and adults of all gender identities and expression by providing education, increasing awareness, and offering insight into the wider range of human experience. We also assist in creating supportive and non-discriminatory environments in schools, sports teams, workplaces, and healthcare providers for transgender and gender diverse individuals."
+    },
+    "es-ES": {
+      "title": "Diversidad de Género",
+      "description": "La Diversidad de Género mejora el bienestar de los niños y adultos de todas las identidades y expresiones de género al proporcionar educación, aumentar la conciencia y ofrecer una visión de la gama más amplia de experiencias humanas. También ayudamos a crear entornos de apoyo y no discriminatorios en escuelas, equipos deportivos, lugares de trabajo y proveedores de atención médica para personas transgénero y de género diverso."
+    },
+    "fr-FR": {
+      "title": "Diversité de genre",
+      "description": "La diversité de genre améliore le bien-être des enfants et des adultes de toutes identités de genre et d'expression en fournissant de l'éducation, en augmentant la prise de conscience, et en offrant un aperçu de la plus large gamme d'expériences humaines. Nous aidons également à créer des environnements de soutien et non discriminatoires dans les écoles, les équipes sportives, les lieux de travail et les prestataires de soins de santé pour les personnes transgenres et de diversité de genre."
+    },
+    "pt-PT": {
+      "title": "Diversidade de Gênero",
+      "description": "A Diversidade de Gênero melhora o bem-estar de crianças e adultos de todas as identidades e expressões de gênero, fornecendo educação, aumentando a conscientização e oferecendo insights sobre a ampla gama de experiências humanas. Também auxiliamos na criação de ambientes de apoio e não discriminatórios em escolas, equipes esportivas, locais de trabalho e provedores de saúde para indivíduos transgêneros e de gênero diverso."
+    },
+    "zh-CN": {
+      "title": "性别多样性",
+      "description": "性别多样性通过提供教育，提高意识，以及透视更广泛的人类经验，改善了所有性别身份和表达的儿童和成人的福祉。我们还协助创建支持性和非歧视性的环境，为学校，体育队，工作场所和医疗提供者中的跨性别者和性别多元的个体提供帮助。"
+    },
+    "de-DE": {
+      "title": "Geschlechtervielfalt",
+      "description": "Geschlechtervielfalt verbessert das Wohlbefinden von Kindern und Erwachsenen aller Geschlechtsidentitäten und -ausdrücke, indem sie Bildung bereitstellt, das Bewusstsein schärft und Einblick in das breitere Spektrum menschlicher Erfahrungen bietet. Wir helfen auch dabei, unterstützende und diskriminierungsfreie Umgebungen in Schulen, Sportteams, Arbeitsplätzen und bei Gesundheitsdienstleistern für transsexuelle und geschlechtsdiverse Individuen zu schaffen."
+    },
+    "id-ID": {
+      "title": "Keragaman Gender",
+      "description": "Keragaman Gender meningkatkan kesejahteraan anak-anak dan orang dewasa dari semua identitas dan ekspresi gender dengan menyediakan pendidikan, meningkatkan kesadaran, dan menawarkan wawasan ke dalam rentang pengalaman manusia yang lebih luas. Kami juga membantu dalam menciptakan lingkungan yang mendukung dan tidak diskriminatif di sekolah, tim olahraga, tempat kerja, dan penyedia layanan kesehatan untuk individu transgender dan beragam gender."
+    },
+    "sw-KE": {
+      "title": "Utofauti wa Jinsia",
+      "description": "Utofauti wa Jinsia unaongeza ustawi wa watoto na watu wazima wa utambulisho na uonyeshaji wa jinsia zote kwa kutoa elimu, kuongeza uelewa, na kutoa mwanga katika uzoefu mpana zaidi wa kibinadamu. Sisi pia tunasaidia katika kuunda mazingira ya kusaidia na yasiyo ya ubaguzi katika shule, timu za michezo, sehemu za kazi, na watoa huduma za afya kwa watu walio na jinsia tofauti na wale wa jinsia mbalimbali."
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Çeşitliliği",
+      "description": "Cinsiyet Çeşitliliği, tüm cinsiyet kimlikleri ve ifadeleri olan çocukların ve yetişkinlerin iyi oluşunu, eğitim sağlayarak, farkındalığı artırarak ve insan deneyiminin daha geniş yelpazesine içgörü kazandırarak iyileştirir. Ayrıca, okullarda, spor takımlarında, iş yerlerinde ve sağlık hizmeti sağlayıcılarda, trans ve cinsiyet çeşitliliği olan bireyler için destekleyici ve ayrımcılığa dayanmayan ortamların oluşturulmasına yardımcı oluruz."
+    },
+    "ja-JP": {
+      "title": "ジェンダー・ダイバーシティ",
+      "description": "ジェンダー・ダイバーシティは、教育を提供し、認識を高め、人間経験の広範な範囲を示すことで、すべてのジェンダー・アイデンティティと表現の子供と大人の幸福を改善します。また、トランスジェンダーとジェンダー多様性を持つ個人のために、学校、スポーツチーム、職場、健康保険提供者の中で支援的で差別のない環境を作るのを手伝います。"
+    },
+    "ru-RU": {
+      "title": "Гендерное разнообразие",
+      "description": "Гендерное разнообразие улучшает благосостояние детей и взрослых всех гендерных идентичностей и форм самовыражения, предоставляя образование, повышая осведомленность и предлагая взгляд на более широкий спектр человеческого опыта. Мы также помогаем создавать поддерживающую и недискриминационную среду в школах, спортивных командах, на рабочих местах и у поставщиков медицинских услуг для трансгендерных и гендерно-разнообразных людей."
+    },
+    "vi-VN": {
+      "title": "Đa dạng giới tính",
+      "description": "Đa dạng giới tính cải thiện sự ổn định của trẻ em và người lớn thuộc mọi danh tính và biểu hiện giới tính bằng cách cung cấp giáo dục, nâng cao nhận thức, và đem lại cái nhìn sâu sắc vào phạm vi rộng lớn hơn của trải nghiệm con người. Chúng tôi còn hỗ trợ trong việc tạo ra môi trường hỗ trợ và không phân biệt đối xử tại các trường học, đội thể thao, nơi làm việc, và nhà cung cấp dịch vụ y tế cho các cá nhân chuyển đổi giới tính và đa dạng giới tính."
+    },
+    "ko-KR": {
+      "title": "성별 다양성",
+      "description": "성별 다양성은 교육을 제공하고, 인식을 높이며, 더 넓은 인간 경험에 대한 통찰력을 제공함으로써 모든 성별 신분과 표현을 가진 어린이와 성인의 안녕을 개선합니다. 또한, 우리는 학교, 스포츠 팀, 직장, 그리고 헬스케어 제공자에서 트랜스젠더 및 성별 다양성을 가진 개인들에게 지지적이고 차별 없는 환경을 만드는데 도움을 줍니다."
+    },
+    "uk-UA": {
+      "title": "Статева різноманітність",
+      "description": "Статева різноманітність покращує благополуччя дітей та дорослих усіх статевих ідентичностей і виражень, забезпечуючи освіту, підвищуючи обізнаність та надаючи зрозуміння широкого спектра людського досвіду. Ми також допомагаємо у створенні підтримуючих та нетолерантних дискримінаційних середовищ в школах, спортивних командах, місцях роботи та у надавачів медичних послуг для трансгендерних осіб та осіб з різноманітністю статі."
+    },
+    "ar-SA": {
+      "title": "التنوع الجنسي",
+      "description": "يعمل التنوع الجنسي على تحسين رفاهية الأطفال والبالغين من كافة الهويات والتعبيرات الجنسية من خلال توفير التعليم وزيادة الوعي وتقديم الرؤية حول النطاق الأوسع من التجربة البشرية. كما نقوم بالمساعدة في خلق بيئات داعمة وغير تمييزية في المدارس والفرق الرياضية وأماكن العمل ومقدمي الرعاية الصحية للأفراد من المتحولين جنسيا والذين يتمتعون بتنوع جنسي."
+    },
+    "ur-PK": {
+      "title": "صنفی تنوع",
+      "description": "صنفی تنوع بچوں اور بالغوں کی خوشی کو بہتر بناتا ہے، ہر صنفی شناخت اور اظہار سے متاثر ہونے والوں کو، تعلیم فراہم کرکے، شعور بڑھاکر اور انسانی تجربات کی وسیع رینج میں بصیرت فراہم کرکے۔ ہم ٹرانسجنڈر اور صنفی تنوع والے افراد کے لئے اسکولوں، کھیلوں کی ٹیموں، کام کی جگہوں اور صحت کی فراہم کنندگان میں سپورٹیو اور غیر تبصرہ کرنے والے ماحول بنانے میں بھی مدد کرتے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "लिंगीन विविधता",
+      "description": "शिक्षण देऊन, जागरूकता वाढवून आणि मानवी अनुभवाच्या व्यापक रेंजीत अधिक अभिप्रेती देऊन, लिंगीन विविधता सर्व लिंगांच्या ओळख आणि अभिव्यक्तीच्या सर्व मुलांची आणि प्रौढांची सुखकरता सुधारीते. आम्ही नि:शंकित आणि भेदभावाने वागणाऱ्या वातावरणाची तयारी करतो शाळा, क्रीडा संघ, कामगारस्थळ आणि आरोग्यदेय व्यापारींसाठी, ज्या लोकांमध्ये ट्रान्सजेंडर आणि लिंगीन विविध व्यक्ती असतात."
+    },
+    "bn-BD": {
+      "title": "লিঙ্গের বৈচিত্র্য",
+      "description": "লিঙ্গের বৈচিত্র্য সকল লিঙ্গ পরিচয় এবং প্রকাশের শিশু এবং প্রাপ্তবয়স্কদের সুস্থতা বৃদ্ধি করে শিক্ষা প্রদান করে, সচেতনতা বাড়ায় এবং মানব অভিজ্ঞার প্রশাস্ত পরিসর রচনায় অন্তঃদৃষ্টি অর্পণ করে। আমরা এমনও করি, ট্রান্সজেন্ডার এবং লিঙ্গ বৈচিত্র্যমূলক ব্যক্তিদের জন্য সহায়ক এবং বিভেদমূলক নয় এমন পরিবেশ সৃষ্টি করি স্কুল, ক্রীড়া দল, কর্মস্থল এবং স্বাস্থ্য সেবা প্রদানকারীদের মধ্যে।"
+    },
+    "hi-IN": {
+      "title": "लिंग विविधता",
+      "description": "लिंग विविधता सभी लिंग पहचान और अभिव्यक्ति के बच्चों और वयस्कों की भलाई में सुधार लाती है। यह शिक्षा प्रदान करके, जागरूकता बढ़ाकर और मानव अनुभव की व्यापक श्रृंखला में अधिक जानकारी प्रदान करके। हम यह भी सहायता करते हैं अनुकूल, भेदभाव हीन वातावरण का निर्माण करने में स्कूलों, खेल टीमों, कार्य स्थलों और स्वास्थ्य सेवा प्रदाताओं में ट्रांसजेंडर और लिंग विविध व्यक्तियों के लिए."
+    },
+    "ta-IN": {
+      "title": "பால் வகைப்பாடு",
+      "description": "பால் வகைப்பாடு என்பது அனைத்து பாலுக்கான அடையாளங்கள் மற்றும் வெளிப்படைத்தல்களுக்கான குழந்தைகள் மற்றும் வாழ்க்கையாளர்களின் நலம் மேம்படுத்தும் மூலம் கல்வியாளவு, விழிப்புணர்வுக் கூர்மையாக்கி, மனித அனுபவங்களின் விரிவான வீச்சில் அறிவீடு வழங்குகிறது. நாம் மேலும் பல்லூட்டியல் மற்றும் பாலுக்கான விவாதிப்பான சூழல்களை பள்ளிகள், விளையாட்டு அணிகள், வேலை சூழலுக்குக் கொண்டுவந்து, மற்றும் மருத்துவ வழங்குநர்களால் உருவாக்குவதற்கு உதவுகின்றோம்."
+    },
+    "te-IN": {
+      "title": "లింగ వైవిధ్యత",
+      "description": "లింగ వైవిధ్యత అన్ని లింగ గుర్తులు మరియు ప్రకటనల కలలిగిన పిల్లలు మరియు వయోవృద్ధుల సరైనతను మెరుగుపరుచుతుంది. మనం విద్యా అందిస్తున్నాము, అవగాహనను పెంచుతున్నాము, మరియు మానవ అనుభవం యొక్క విస్తృత పరిధిలో అంతర్దృష్టిని అందిస్తున్నాము. మానం సేవించునే లింగ అనిష్ఠిత వ్యక్తుల కోసం పాఠశాలలు, క్రీడా జట్లు, ఉద్యోగ స్థలాలు, మరియు ఆరోగ్య సేవా సంచాలకుల్లో మద్దతిస్తున్నాము, మార్గదర్శించునే మరియు విభేజనాత్మకమైన పరిసరాలను సృష్టించలను."
+    }
+  }
+}
