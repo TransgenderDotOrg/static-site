@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Transmasculine",
+    "value": "transmasculine"
+  },
+  {
+    "name": "Non-Binary",
+    "value": "non-binary"
+  },
+  {
+    "name": "Transfeminine",
+    "value": "transfeminine"
+  },
+  {
+    "name": "Legal",
+    "value": "legal"
+  },
+  {
+    "name": "Healthcare",
+    "value": "healthcare"
+  },
+  {
+    "name": "Mental Health",
+    "value": "mental-health"
+  },
+  {
+    "name": "Social Services",
+    "value": "social-services"
+  },
+  {
+    "name": "Youth Services",
+    "value": "youth-services"
+  },
+  {
+    "name": "Support Groups",
+    "value": "support-groups"
+  },
+  {
+    "name": "Parent / Family Resources",
+    "value": "parent-family-resources"
+  },
+  {
+    "name": "Partner Resources",
+    "value": "partner-resources"
+  },
+  {
+    "name": "Community Stories",
+    "value": "community-stories"
+  },
+  {
+    "name": "Education / Awareness",
+    "value": "education-awareness"
+  },
+  {
+    "name": "Financial Aid / Scholarships",
+    "value": "financial-aid-scholarships"
+  },
+  {
+    "name": "Clothing",
+    "value": "clothing"
+  },
+  {
+    "name": "Artists & Creators",
+    "value": "artists-creators"
+  },
+  {
+    "name": "Friendly Businesses",
+    "value": "friendly-businesses"
+  },
+  {
+    "name": "Makeup",
+    "value": "makeup"
+  },
+  {
+    "name": "Voice Training",
+    "value": "voice-training"
+  },
+  {
+    "name": "Discord Groups",
+    "value": "discord-groups"
+  }
+]

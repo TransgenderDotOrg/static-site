@@ -24,7 +24,7 @@ export default {
         use: ["style-loader", "css-loader"],
       },
       {
-        test: /\.(ttf|png)$/,
+        test: /\.(ttf|png|jpg)$/,
         use: ["file-loader"],
       },
       {

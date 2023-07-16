@@ -1,0 +1,102 @@
+{
+  "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
+  "slug": "transgendermap",
+  "externalUrl": "https://transgendermap.com",
+  "tags": [
+    "transfeminine",
+    "non-binary",
+    "transmasculine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "community-stories",
+    "education-awareness"
+  ],
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Map",
+      "description": "Transgendermap.com is an online resource aimed at providing practical information and guidance to people who are questioning their gender identity or are somewhere on the transgender spectrum. The website includes a wide range of topics like understanding transgender terminology, transition processes, legal issues, healthcare, and numerous personal stories. Its goal is to help individuals navigate their personal journeys by providing a 'map' or guide to the many aspects of gender identity and transgender experiences. Please visit the actual site for the most current and accurate information."
+    },
+    "es-ES": {
+      "title": "Mapa Transgénero",
+      "description": "Transgendermap.com es un recurso en línea dirigido a proporcionar información práctica y orientación a las personas que están cuestionando su identidad de género o que se encuentran en algún lugar del espectro transgénero. El sitio web incluye una amplia gama de temas, como la comprensión de la terminología transgénero, los procesos de transición, los problemas legales, la atención sanitaria y numerosas historias personales. Su objetivo es ayudar a las personas a navegar por sus viajes personales, proporcionando un 'mapa' o guía de los muchos aspectos de la identidad de género y las experiencias transgénero. Por favor, visite el sitio actual para obtener la información más actual y precisa."
+    },
+    "zh-CN": {
+      "title": "跨性别地图",
+      "description": "Transgendermap.com是一个在线资源网站，旨在为正在质疑自己的性别认同或者在跨性别范围内的人们提供实用的信息和指导。网站包括广泛的主题，比如理解跨性别术语、过渡过程、法律问题、医疗保健，以及大量的个人故事。其目标是通过提供一个'地图'或指南，帮助个人导航他们的个人旅程，了解性别认同和跨性别经验的多个方面。请访问实际网站获取最新和最准确的信息。"
+    },
+    "fr-FR": {
+      "title": "Carte Transgenre",
+      "description": "Transgendermap.com est une ressource en ligne visant à fournir des informations pratiques et des conseils aux personnes qui remettent en question leur identité de genre ou qui se situent quelque part sur le spectre transgenre. Le site Web comprend un large éventail de sujets tels que la compréhension de la terminologie transgenre, les processus de transition, les problèmes juridiques, les soins de santé et de nombreuses histoires personnelles. Son objectif est d'aider les individus à naviguer dans leur parcours personnel en fournissant une 'carte' ou un guide des nombreux aspects de l'identité de genre et des expériences transgenres. Veuillez visiter le site réel pour obtenir les informations les plus actuelles et précises."
+    },
+    "ar-SA": {
+      "title": "خريطة المتحولين جنسيا",
+      "description": "موقع Transgendermap.com هو مورد عبر الإنترنت يهدف إلى تقديم معلومات عملية وإرشادات للأشخاص الذين يتساءلون حول هويتهم الجندرية أو الموجودين في أي مكان على طيف المتحولين جنسيا. يتضمن الموقع نطاقًا واسعًا من الموضوعات مثل فهم مصطلحات المتحولين جنسيا، عمليات الانتقال، القضايا القانونية، الرعاية الصحية، والعديد من القصص الشخصية. هدفها هو مساعدة الأفراد على التنقل في رحلاتهم الشخصية من خلال تقديم 'خريطة' أو دليل للعديد من جوانب الهوية الجندرية وتجارب المتحولين جنسيا. يرجى زيارة الموقع الفعلي للحصول على المعلومات الأكثر حداثة ودقة."
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर मैप",
+      "description": "Transgendermap.com एक ऑनलाइन संसाधन है जो अपनी जेंडर पहचान पर सवाल कर रहे लोगों या ट्रांसजेंडर स्पेक्ट्रम पर कहीं भी होने वाले लोगों को व्यावहारिक जानकारी और मार्गदर्शन प्रदान करने के लिए लक्षित है। वेबसाइट में ट्रांसजेंडर शब्दावली को समझने, संक्रमण प्रक्रियाओं, कानूनी मुद्दों, स्वास्थ्य सेवाओं और अनेक व्यक्तिगत कहानियों जैसे विषयों की विस्तृत श्रृंखला शामिल है। इसका लक्ष्य व्यक्तियों को अपनी व्यक्तिगत यात्राओं को नेविगेट करने में मदद करना है, जेंडर पहचान और ट्रांसजेंडर अनुभवों के कई पहलुओं के लिए 'मैप' या मार्गदर्शिका प्रदान करके। कृपया सबसे वर्तमान और सटीक जानकारी के लिए वास्तविक साइट पर जाएं।"
+    },
+    "pt-PT": {
+      "title": "Mapa Transgênero",
+      "description": "Transgendermap.com é um recurso online destinado a fornecer informações práticas e orientações para pessoas que estão questionando sua identidade de gênero ou que estão em algum lugar no espectro transgênero. O site inclui uma ampla gama de tópicos, como entender a terminologia transgênero, processos de transição, questões jurídicas, saúde e inúmeras histórias pessoais. Seu objetivo é ajudar os indivíduos a navegar em suas jornadas pessoais, fornecendo um 'mapa' ou guia para os muitos aspectos da identidade de gênero e experiências transgêneros. Por favor, visite o site real para as informações mais atuais e precisas."
+    },
+    "id-ID": {
+      "title": "Peta Transgender",
+      "description": "Transgendermap.com adalah sumber daya online yang bertujuan untuk memberikan informasi praktis dan panduan kepada orang yang sedang mempertanyakan identitas gender mereka atau berada di suatu tempat dalam spektrum transgender. Situs web ini mencakup berbagai topik seperti pemahaman terminologi transgender, proses transisi, masalah hukum, kesehatan, dan banyak cerita pribadi. Tujuannya adalah untuk membantu individu menavigasi perjalanan pribadi mereka dengan menyediakan 'peta' atau panduan untuk berbagai aspek identitas gender dan pengalaman transgender. Silakan kunjungi situs aslinya untuk informasi yang paling baru dan akurat."
+    },
+    "ru-RU": {
+      "title": "Карта трансгендеров",
+      "description": "Transgendermap.com - это онлайн-ресурс, нацеленный на предоставление практической информации и руководства людям, которые задают вопросы о своей гендерной идентификации или находятся где-то на трансгендерном спектре. Веб-сайт включает в себя широкий спектр тем, таких как понимание терминологии трансгендеров, процессы трансформации, юридические вопросы, здравоохранение и многочисленные личные истории. Его цель - помочь людям ориентироваться в своих личных путешествиях, предоставляя 'карту' или руководство по многим аспектам гендерной идентификации и трансгендерного опыта. Пожалуйста, посетите актуальный сайт для получения самой актуальной и точной информации."
+    },
+    "ur-PK": {
+      "title": "ٹرانس جنڈر میپ",
+      "description": "ٹرانس جنڈرمیپ کام ایک آن لائن وسیلہ ہے جو ان لوگوں کو عملی معلومات اور ہدایت فراہم کرنے کا مقصد رکھتا ہے جو اپنی جنسیتی شناخت سے سوال کر رہے ہیں یا وہ ٹرانس جنڈر سپیکٹرم پر کہیں نہ کہیں موجود ہیں. ویب سائٹ میں ٹرانس جنڈر اصطلاحات کی تفہیم ، ٹرانزیشن عملیات ، قانونی مسائل ، صحت کی دیکھ بھال ، اور بہت ساری ذاتی کہانیاں جیسے کئی موضوعات شامل ہیں. اس کا مقصد یہ ہے کہ وہ فردوں کی مدد کرے جو اپنے ذاتی سفر کو نیگیٹ کر رہے ہیں جنسیتی شناخت اور ٹرانس جنڈر تجربات کے بہت سے پہلوؤں کی رہنمائی کی ایک 'نقشہ' یا گائیڈ فراہم کرکے. براہ کرم تازہ ترین اور درست معلومات کے لئے اصل سائٹ کا دورہ کریں."
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার মানচিত্র",
+      "description": "Transgendermap.com একটি অনলাইন সুযোগ যা তাদের নিজের লিঙ্গ পরিচয়ের চিন্তা করা বা ট্রান্সজেন্ডার স্পেকট্রামে কোনও স্থানে রয়েছে এমন মানুষদের প্রভাবশালী তথ্য এবং নির্দেশনা প্রদানের একটি চেষ্টা। ওয়েবসাইটটি লিঙ্গ পরিচয় এবং ট্রান্সজেন্ডার অভিজ্ঞতার অনেক দিকে 'মানচিত্র' বা গাইড প্রদান করে ব্যক্তি গুলকে তাদের ব্যক্তিগত যাত্রায় সহায়তা করার মতো একটি লক্ষ্য নিয়ে বিভিন্ন বিষয়ে ব্যাপক তথ্য অন্তর্গত করে, যেমন ট্রান্সজেন্ডার টার্মিনোলজি বোঝা, পরিবর্তন প্রক্রিয়া, আইনি বিষয়, স্বাস্থ্য সেবা এবং অনেক ব্যক্তিগত গল্প। সবচেয়ে সাম্প্রতিক এবং সঠিক তথ্যের জন্য দয়া করে প্রকৃত সাইটটি দেখুন।"
+    },
+    "de-DE": {
+      "title": "Transgender Karte",
+      "description": "Transgendermap.com ist eine Online-Ressource, die darauf abzielt, praktische Informationen und Anleitungen für Menschen bereitzustellen, die ihre Geschlechtsidentität in Frage stellen oder irgendwo auf dem Transgender-Spektrum sind. Die Website umfasst eine Vielzahl von Themen wie das Verständnis von Transgender-Terminologie, Übergangsprozesse, rechtliche Fragen, Gesundheitsversorgung und zahlreiche persönliche Geschichten. Ihr Ziel ist es, Einzelpersonen dabei zu helfen, ihre persönlichen Reisen zu navigieren, indem sie eine 'Karte' oder einen Leitfaden zu den vielen Aspekten der Geschlechtsidentität und Transgender-Erfahrungen bietet. Bitte besuchen Sie die tatsächliche Website für die aktuellsten und genauesten Informationen."
+    },
+    "sw-KE": {
+      "title": "Ramani ya Transgender",
+      "description": "Transgendermap.com ni rasilimali ya mtandaoni yenye lengo la kutoa habari za vitendo na mwongozo kwa watu ambao wanajiuliza kuhusu utambulisho wao wa jinsia au wako popote katika wigo wa transgender. Tovuti inajumuisha anuwai kubwa ya mada kama vile kuelewa istilahi ya transgender, mchakato wa mpito, maswala ya kisheria, huduma ya afya, na hadithi nyingi za kibinafsi. Lengo lake ni kuwasaidia watu kusafiri katika safari zao binafsi kwa kutoa 'ramani' au mwongozo kwa upande mwingi wa utambulisho wa jinsia na uzoefu wa transgender. Tafadhali tembelea tovuti halisi kwa habari sahihi na za sasa zaidi."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダーマップ",
+      "description": "Transgendermap.comは、自身のジェンダーアイデンティティに疑問を持つ人々や、トランスジェンダーのスペクトル上にいる人々に対して、実用的な情報とガイダンスを提供することを目指したオンラインリソースです。ウェブサイトには、トランスジェンダーの用語の理解、遷移プロセス、法的問題、医療ケア、数多くの個人的なストーリーなど、幅広いトピックが含まれています。その目標は、ジェンダーアイデンティティとトランスジェンダーの経験の多くの側面への「マップ」またはガイドを提供することにより、個々の人々が自身の旅をナビゲートするのを助けることです。最新で正確な情報を得るために、実際のサイトを訪れてください。"
+    },
+    "mr-IN": {
+      "title": "ट्रान्सजेंडर माहिती पत्रिका",
+      "description": "Transgendermap.com हे अशांच्या लोकांना व्यावहारिक माहिती व मार्गदर्शन पुरविण्याच्या उद्दिष्टाने तयार केलेले एक ऑनलाईन संसाधन आहे ज्यांना त्यांच्या लिंग परिचयावर प्रश्न असतात किंवा ट्रान्सजेंडर स्पेक्ट्रमवर कोणतीही ठिकाण आहे. वेबसाइटवर ट्रान्सजेंडर टर्मिनोलॉजी समजवणारी, परिवर्तन प्रक्रिया, कायदेशीर मुद्दे, आरोग्यदायी व्यवस्था, व अनेक वैयक्तिक कथांचे विस्तृत विषय आहेत. त्याचे उद्दिष्ट वैयक्तिक यात्रेतील व्यक्तींना 'नकाशा' किंवा लिंग परिचय आणि ट्रान्सजेंडर अनुभवांच्या अनेक पहल्यांच्या मार्गदर्शनास मदत करणे आहे. कृपया सर्वात अद्यतित आणि अचूक माहितीसाठी वास्तविक साइटला भेट द्या."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్‌జెండర్ మ్యాప్",
+      "description": "Transgendermap.com అనేది తమ లింగ గుర్తింపును ప్రశ్నించే వారికి లేదా ట్రాన్స్‌జెండర్ అవధిలో ఏదో ఒక్కటిగా ఉండే వారికి అనువర్తనాత్మక సమాచారాన్ని మరియు మార్గదర్శనాన్ని అందించడానికి దృష్టిలో పెట్టుకునే ఆన్‌లైన్ సంసాధనం. ఈ వెబ్‌సైట్‌లో ట్రాన్స్‌జెండర్ నిఘంటువును అర్ధం చేసుకునేందుకు, మారుదలపై ప్రక్రియలు, చట్టపరమైన సమస్యలు, ఆరోగ్య పరేక్షణానికి, మరియు అనేక వ్యక్తిగత కథలు వంటి వివిధ అంశాలు ఉంటాయి. దీని లక్ష్యం 'మ్యాప్' లేదా లింగ గుర్తించుకునే అనేక అంశాలను మార్గదర్శకంగా అందిస్తూ వ్యక్తులు తమ వ్యక్తిగత ప్రయాణాలను నడుపుకోవడానికి సహాయపడడానికి ఉంది. అత్యంత నగదు మరియు ఖచ్చితమైన సమాచారాన్ని కొరకు ఆసలైన సైటును సందర్శించండి."
+    },
+    "tr-TR": {
+      "title": "Transgender Haritası",
+      "description": "Transgendermap.com, cinsiyet kimliği konusunda soruları olan veya transgender spektrumda bir yere sahip olan kişilere pratik bilgi ve rehberlik sağlamayı hedefleyen bir çevrimiçi kaynaktır. Web sitesi, transgender terminolojisini anlama, geçiş süreçleri, hukuki meseleler, sağlık hizmetleri ve sayısız kişisel hikâye gibi çok çeşitli konuları içerir. Amacı, insanların kişisel yolculuklarını, cinsiyet kimliğinin ve transgender deneyimlerinin birçok yönüne bir 'harita' veya rehber sağlayarak yönlendirmesine yardımcı olmaktır. En güncel ve doğru bilgi için lütfen gerçek siteyi ziyaret edin."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 맵",
+      "description": "Transgendermap.com은 성별 정체성에 대해 질문하거나 트랜스젠더 스펙트럼에 있는 사람들에게 실질적인 정보와 안내를 제공하는 온라인 리소스입니다. 웹사이트에는 트랜스젠더 용어 이해, 전환 과정, 법적 문제, 건강관리, 그리고 수많은 개인적인 이야기와 같은 다양한 주제가 포함되어 있습니다. 이 웹사이트의 목표는 개인의 성별 정체성과 트랜스젠더 경험의 많은 면을 지도나 가이드로 제공함으로써 개개인이 자신의 여정을 이해하는 데 도움을 주는 것입니다. 가장 최신이고 정확한 정보를 위해 실제 사이트를 방문해 주세요."
+    },
+    "vi-VN": {
+      "title": "Bản đồ Transgender",
+      "description": "Transgendermap.com là một nguồn tài nguyên trực tuyến nhằm cung cấp thông tin và hướng dẫn thực tế cho những người đang thắc mắc về giới tính của mình hoặc đang nằm ở một đâu đó trên phổ giới tính chuyển đổi. Trang web bao gồm một loạt các chủ đề như hiểu về thuật ngữ transgender, quá trình chuyển đổi, vấn đề pháp lý, chăm sóc sức khỏe và nhiều câu chuyện cá nhân. Mục tiêu của nó là giúp cá nhân điều hướng hành trình cá nhân của mình bằng cách cung cấp một 'bản đồ' hoặc hướng dẫn về nhiều khía cạnh của giới tính và trải nghiệm transgender. Vui lòng truy cập trang web thực sự để nhận thông tin mới nhất và chính xác nhất."
+    },
+    "uk-UA": {
+      "title": "Трансгендерна карта",
+      "description": "Transgendermap.com - це онлайн-ресурс, метою якого є надання практичної інформації та керівництва людям, які ставлять питання про свою гендерну ідентичність або є десь на трансгендерному спектрі. Веб-сайт включає велику кількість тем, таких як розуміння термінології трансгендерів, процеси переходу, юридичні питання, охорона здоров'я, а також численні особисті історії. Його метою є допомога людям рухатися по їх особистим маршрутам, надаючи 'карту' чи посібник до багатьох аспектів гендерної ідентичності та трансгендерного досвіду. Будь ласка, відвідайте актуальний сайт для отримання найбільш актуальної та точної інформації."
+    },
+    "ta-IN": {
+      "title": "பாலின மாற்று வரைபடம்",
+      "description": "Transgendermap.com என்பது பாலின் அடையாளத்தை சந்தேகிக்கும் அல்லது பாலின மாற்று வரியாவில் உள்ள மக்களுக்கு பிரயோகக் கூறுகள் மற்றும் வழிகாட்டுதல்களை வழங்குவதை நோக்கி ஆன்லைன் வளமாக உள்ளது. இந்த இணையத்தளம் பாலின் மாற்று சொற்தகவல்களை உணர்வத், மாற்றம் செயல்முறைகள், சட்ட விவாதங்கள், சுகாதார, பல தனிப்பட்ட கதைகள் போன்ற பல தலைப்புகளைக் கொண்டுள்ளது. அதன் நோக்கம், 'வரைபடத்தின்' மூலமாக பாலின் அடையாளத்தின் பல பகுதிகளுக்கு வழிகாட்டல் வழங்கி தனித்த பயணங்களுக்கு மக்களை வழிகாட்டுவதாகும். மிகவும் தற்போதைய மற்றும் சரியான தகவல்களுக்கு நிஜ தளத்தை பார்வையிடுவதற்கை நல்லாக கேட்டுக்கொள்ளுகிறோம்."
+    }
+  }
+}

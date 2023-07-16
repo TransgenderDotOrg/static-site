@@ -1,0 +1,19 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+a:hover {
+  color: unset;
+  text-decoration: unset;
+}
+
+a:active {
+  color: unset;
+  text-decoration: unset;
+}
