@@ -83,7 +83,15 @@ export const ResourcePage = () => {
         }}
       >
         <Box>
-          <Box sx={{ width: 200, border: `2px solid #D6D6D6` }}>
+          <Box
+            sx={{
+              width: 200,
+              border: `2px solid #D6D6D6`,
+              "@media (max-width: 768px)": {
+                width: "unset",
+              },
+            }}
+          >
             <Box
               sx={{ padding: "0.5rem 1rem", borderBottom: `2px solid #D6D6D6` }}
             >
@@ -132,7 +140,7 @@ export const ResourcePage = () => {
                       {i18n.t(`tags.${tag.value}`)}
                     </Typography>
                   }
-                  sx={{ marginLeft: "0.15rem" }}
+                  sx={{ marginLeft: "0.15rem", flex: 1 }}
                 />
               </Box>
             ))}
@@ -151,7 +159,7 @@ export const ResourcePage = () => {
           }}
         >
           <SearchInput
-            sx={{ width: "100%" }}
+            sx={{ width: "auto" }}
             onChange={(e) => {
               if (!e.target.value) {
                 searchParams.delete("search");

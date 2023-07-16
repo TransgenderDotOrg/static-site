@@ -16,14 +16,14 @@ export const HomePage = () => {
         flexDirection: "column",
         background: `linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%), url(${homeImageUrl}) no-repeat center center, #000`,
         backgroundSize: "cover",
-        height: "calc(100vh - 85px - 200px)",
+        minHeight: "calc(100vh - 85px - 200px)",
         padding: "100px 120px",
 
         "@media (max-width: 768px)": {
           padding: 0,
           justifyContent: "flex-end",
           background: `url(${homeImageUrl}) no-repeat center center`,
-          height: "calc(100vh - 85px)",
+          minHeight: "calc(100vh - 85px)",
         },
       }}
     >
@@ -37,6 +37,7 @@ export const HomePage = () => {
           "@media (max-width: 768px)": {
             width: "unset",
             borderRadius: 0,
+            marginTop: "50vh",
           },
         }}
       >
@@ -44,7 +45,13 @@ export const HomePage = () => {
         <Typography variant="body2">
           {i18n.t("home.cta.description")}
         </Typography>
-        <Box sx={{ display: "flex", flexDirection: "row", marginTop: "1rem" }}>
+        <Box
+          sx={{
+            display: "flex",
+            flexDirection: "row",
+            marginTop: "1rem",
+          }}
+        >
           {/*<Button onClick={() => navigate("/about")}>More About Us</Button>*/}
           <Button
             onClick={() => {
