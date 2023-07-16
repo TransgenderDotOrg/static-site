@@ -4,6 +4,7 @@ import { Box, Typography } from "@mui/material";
 
 import homeImageUrl from "../assets/home.jpg";
 import { Button } from "../ui/button";
+import i18n from "../i18n";
 
 export const HomePage = () => {
   const navigate = useNavigate();
@@ -39,16 +40,9 @@ export const HomePage = () => {
           },
         }}
       >
-        <Typography variant="h3">What is Transgender.org?</Typography>
+        <Typography variant="h3">{i18n.t("home.cta.title")}</Typography>
         <Typography variant="body2">
-          Transgender.org is a grassroots movement, by and for the transgender
-          community. Our mission is to create a dynamic platform that serves as
-          an inclusive resource hub for transgender individuals globally. In our
-          early beta stage, we're working towards establishing a 501(c)(3) and a
-          501(c)(4) to further expand our outreach and impact. We encourage
-          community participation, and everyone is welcome to contribute to our
-          resources in our Discord server. This is only the beginning of our
-          journey to empower and support transgender people worldwide.
+          {i18n.t("home.cta.description")}
         </Typography>
         <Box sx={{ display: "flex", flexDirection: "row", marginTop: "1rem" }}>
           {/*<Button onClick={() => navigate("/about")}>More About Us</Button>*/}
@@ -57,13 +51,13 @@ export const HomePage = () => {
               window.open("https://discord.gg/wtRVNzpGkx", "_blank");
             }}
           >
-            Join Us On Discord
+            {i18n.t("home.cta.discord-button")}
           </Button>
           <Button
             onClick={() => navigate("/resources")}
             sx={{ marginLeft: "0.5rem" }}
           >
-            Go to Resources
+            {i18n.t("home.cta.resources-button")}
           </Button>
         </Box>
       </Box>

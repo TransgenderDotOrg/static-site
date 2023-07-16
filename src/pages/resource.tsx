@@ -1,6 +1,5 @@
 import React from "react";
 import { useSearchParams } from "react-router-dom";
-import * as acceptLanguage from "accept-language-parser";
 
 import { Box, Checkbox, FormControlLabel, Typography } from "@mui/material";
 import { ReactComponent as ResultsLeft } from "../assets/results-left.svg";
@@ -10,6 +9,7 @@ import languages from "../../languages.json";
 
 import { SearchInput } from "../ui/navigation/header";
 import useSearch from "../hooks/useSearch";
+import i18n from "../i18n";
 
 interface Resource {
   id: string;
@@ -33,28 +33,10 @@ export const ResourcePage = () => {
     [searchParams]
   );
 
-  const language = React.useMemo(
-    () =>
-      acceptLanguage.pick(
-        [...languages, { language: "English", locale_code: "en" }].map(
-          (language) => language.locale_code.split("-")[0]
-        ),
-        navigator.languages.map((language) => ({ code: language, quality: 1 }))
-      ),
-    []
-  );
-
-  console.log(
-    navigator.languages,
-    [...languages, { language: "English", locale_code: "en" }].map(
-      (language) => language.locale_code.split("-")[0]
-    )
-  );
-
   React.useEffect(() => {
     const fetchResources = async () => {
-      const pickedLanguage = languages.find(
-        (l) => l.locale_code.split("-")[0] === language
+      const pickedLanguage = [...languages, { locale_code: "en-US" }].find(
+        (l) => l.locale_code === i18n.language
       );
 
       const { default: resources } = await import(
@@ -68,7 +50,7 @@ export const ResourcePage = () => {
     };
 
     void fetchResources();
-  }, [language]);
+  }, []);
 
   const { results, searchValue, setSearchValue } = useSearch<Resource>({
     defaultValue: searchParams.get("search") ?? "",
@@ -86,12 +68,10 @@ export const ResourcePage = () => {
 
   return (
     <Box sx={{ padding: "2rem" }}>
-      <Typography variant="h3">Resources</Typography>
-      <Typography variant="body2">
-        Empowering Information at your fingertips - Discover, explore, and
-        access an extensive collection of resources designed to support,
-        educate, and uplift the transgender community.
+      <Typography variant="h3">
+        {i18n.t("header.menuitem.resources")}
       </Typography>
+      <Typography variant="body2">{i18n.t("resources.description")}</Typography>
       <Box
         sx={{
           display: "flex",
@@ -113,7 +93,7 @@ export const ResourcePage = () => {
                   fontFamily: "Mukta, sans-serif",
                 }}
               >
-                Tags
+                {i18n.t("tags")}
               </Typography>
             </Box>
 
@@ -145,8 +125,11 @@ export const ResourcePage = () => {
                     setSearchParams(searchParams);
                   }}
                   label={
-                    <Typography variant="body1" sx={{ marginLeft: "0.25rem" }}>
-                      {tag.name}
+                    <Typography
+                      variant="body1"
+                      sx={{ marginLeft: "0.25rem", wordBreak: "break-word" }}
+                    >
+                      {i18n.t(`tags.${tag.value}`)}
                     </Typography>
                   }
                   sx={{ marginLeft: "0.15rem" }}
@@ -181,7 +164,7 @@ export const ResourcePage = () => {
             defaultValue={searchValue}
           />
           <Typography variant="body1" sx={{ marginTop: "1rem" }}>
-            {resultsWithTagsFiltered.length} Results
+            {resultsWithTagsFiltered.length} {i18n.t("resources.results")}
           </Typography>
           {resultsWithTagsFiltered.map((result, i) => (
             <Box key={i} sx={{ marginTop: "1rem" }}>

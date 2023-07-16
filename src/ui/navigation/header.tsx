@@ -8,7 +8,8 @@ import { ReactComponent as MenuIcon } from "../../assets/menu.svg";
 import { ReactComponent as EscapeButton } from "../../assets/escape-button.svg";
 import logoUrl from "../../assets/logo.svg";
 import { Button } from "../button";
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from "react-i18next";
+import i18n from "../../i18n";
 
 const StyledLink = styled("a")({
   textDecoration: "none",
@@ -116,7 +117,7 @@ export const SearchInput = ({
     >
       <SearchStyledInput
         ref={inputRef}
-        placeholder="Search for resources..."
+        placeholder={i18n.t("search.placeholder")}
         onChange={onChange}
         onKeyPress={onKeyPress}
         defaultValue={defaultValue}
@@ -216,7 +217,6 @@ export const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
   const location = useLocation();
   const navigate = useNavigate();
-  const { t, i18n } = useTranslation();
 
   const navigateToEscapeSite = () => {
     window.location.href = "https://rnewsbite.com";
@@ -341,7 +341,7 @@ export const Header = () => {
           }}
         >
           <MenuItem
-            title={t('Home')}
+            title={i18n.t("header.menuitem.home")}
             href="/"
             sx={{
               marginLeft: "1.5rem",
@@ -352,7 +352,10 @@ export const Header = () => {
           />
           {/*<MenuItem title="About" href="/about" />*/}
           {/*<MenuItem title="Education" href="/education" />*/}
-          <MenuItem title="Resources" href="/resources">
+          <MenuItem
+            title={i18n.t("header.menuitem.resources")}
+            href="/resources"
+          >
             <Menu>
               <a
                 href="/resources?tags=transmasculine"
@@ -362,7 +365,7 @@ export const Header = () => {
                   navigate("/resources?tags=transmasculine");
                 }}
               >
-                Transmasculine
+                {i18n.t("tags.transmasculine")}
               </a>
               <a
                 href="/resources?tags=transfeminine"
@@ -372,7 +375,7 @@ export const Header = () => {
                   navigate("/resources?tags=transfeminine");
                 }}
               >
-                Transfeminine
+                {i18n.t("tags.transfeminine")}
               </a>
               <a
                 href="/resources?tags=non-binary"
@@ -382,7 +385,7 @@ export const Header = () => {
                   navigate("/resources?tags=non-binary");
                 }}
               >
-                Non-Binary
+                {i18n.t("tags.non-binary")}
               </a>
             </Menu>
           </MenuItem>
@@ -416,7 +419,7 @@ export const Header = () => {
             },
           }}
         >
-          Emergency Exit (ESC)
+          {i18n.t("header.emergency-exit")}
         </Button>
       </Box>
       <Box
