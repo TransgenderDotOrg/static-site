@@ -17,6 +17,7 @@ import { LinkList } from "./link-list";
 import useSearch from "./useSearch";
 import { ThemeProvider, createTheme, useTheme } from "@mui/material";
 import { Header } from "./ui/navigation/header";
+import { HomePage } from "./pages/home";
 
 export const AppContainer = styled("div")({
   display: "flex",
@@ -124,8 +125,8 @@ const theme = createTheme({
   typography: {
     body1: {
       fontFamily: "OpenSans, sans-serif",
-      fontSize: "1.5rem",
-      fontWeight: 400,
+      fontSize: "1rem",
+      fontWeight: 300,
       lineHeight: 1.5,
     },
     h3: {
@@ -143,30 +144,14 @@ const theme = createTheme({
   },
 });
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: (
-      <div>
-        <h1>Hello World</h1>
-        <Link to="about">About Us</Link>
-      </div>
-    ),
-  },
-  {
-    path: "about",
-    element: <div>About</div>,
-  },
-]);
-
 const App = () => {
   return (
     <>
-      <ThemeProvider theme={{}}>
+      <ThemeProvider theme={theme}>
         <BrowserRouter>
           <Header />
           <Routes>
-            <Route path="/" element={<div>Home</div>} />
+            <Route path="/" element={<HomePage />} />
             <Route path="about" element={<div>About</div>} />
           </Routes>
         </BrowserRouter>

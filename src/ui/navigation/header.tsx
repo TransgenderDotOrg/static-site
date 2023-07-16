@@ -4,6 +4,8 @@ import { useNavigate } from "react-router-dom";
 import { ReactComponent as CaratDown } from "../../assets/carat-down.svg";
 import { ReactComponent as SearchIcon } from "../../assets/search.svg";
 import { ReactComponent as Discord } from "../../assets/discord.svg";
+import { ReactComponent as MenuIcon } from "../../assets/menu.svg";
+import { ReactComponent as EscapeButton } from "../../assets/escape-button.svg";
 import logoUrl from "../../assets/logo.svg";
 import { Button } from "../button";
 
@@ -77,10 +79,16 @@ export const StyledDiscordLink = styled("a")({
   },
 });
 
-export const SearchInput = () => {
+export interface SearchInputProps {
+  className?: string;
+  sx?: SxProps;
+}
+
+export const SearchInput = ({ className, sx }: SearchInputProps) => {
   const inputRef = React.useRef<HTMLInputElement>(null);
   return (
     <Box
+      className={className}
       sx={{
         display: "flex",
         flexDirection: "row",
@@ -92,6 +100,7 @@ export const SearchInput = () => {
         "@media (max-width: 1200px)": {
           marginTop: "0.5rem",
         },
+        ...sx,
       }}
       onClick={() => inputRef.current?.focus()}
     >
@@ -178,8 +187,16 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
   );
 };
 
+export const StyledHeader = styled("header")((theme) => ({
+  display: "flex",
+  flexDirection: "column",
+  backgroundColor: "#ffffff",
+  borderBottom: `5px solid gradient(#70B2F1, #FFFFFF, #FF8787)`,
+}));
+
 export const Header = () => {
   const theme = useTheme();
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
 
   const navigateToEscapeSite = () => {
     window.location.href = "https://rnewsbite.com";
@@ -199,12 +216,23 @@ export const Header = () => {
   }, []);
 
   return (
-    <header
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        backgroundColor: theme.palette.background.default,
-        borderBottom: `5px solid gradient(#70B2F1, #FFFFFF, #FF8787)`,
+    <StyledHeader
+      sx={{
+        "& .non-mobile-hide": {
+          display: "none",
+        },
+        "@media (max-width: 1200px)": {
+          "& .mobile-toggle": {
+            display: isMobileMenuOpen ? "block" : "none",
+          },
+          "& .mobile-toggle-inverse": {
+            display: isMobileMenuOpen ? "none" : "block",
+          },
+
+          "& .non-mobile-hide": {
+            display: "flex",
+          },
+        },
       }}
     >
       <Box
@@ -219,13 +247,55 @@ export const Header = () => {
           },
         }}
       >
-        <StyledLink href="/" style={{ textDecoration: "none" }}>
-          <img src={logoUrl} alt="logo" />
-          <HeaderTypography sx={{ marginLeft: "0.5rem", fontSize: "1.5rem" }}>
-            Transgender.org
-          </HeaderTypography>
-        </StyledLink>
         <Box
+          sx={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+
+            "@media (max-width: 1200px)": {
+              width: "100%",
+            },
+          }}
+        >
+          <Box className="non-mobile-hide" sx={{ flex: 1 }}>
+            <MenuIcon
+              style={{ cursor: "pointer" }}
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            />
+          </Box>
+          <StyledLink
+            href="/"
+            sx={{
+              display: "flex",
+              flexDirection: "row",
+              textDecoration: "none",
+              userSelect: "none",
+            }}
+          >
+            <img src={logoUrl} alt="logo" />
+            <HeaderTypography sx={{ marginLeft: "0.5rem", fontSize: "1.5rem" }}>
+              Transgender.org
+            </HeaderTypography>
+          </StyledLink>
+          <Box
+            className="non-mobile-hide"
+            sx={{
+              flex: 1,
+              display: "flex",
+              flexDirection: "row",
+              justifyContent: "flex-end",
+            }}
+          >
+            <EscapeButton
+              className="mobile-toggle-inverse"
+              style={{ cursor: "pointer" }}
+              onClick={navigateToEscapeSite}
+            />
+          </Box>
+        </Box>
+        <Box
+          className="mobile-toggle"
           sx={{
             display: "flex",
             flexDirection: "row",
@@ -259,8 +329,9 @@ export const Header = () => {
             </Menu>
           </MenuItem>
         </Box>
-        <SearchInput />
+        <SearchInput className="mobile-toggle" />
         <StyledDiscordLink
+          className="mobile-toggle"
           href="https://discord.gg/wtRVNzpGkx"
           target="_blank"
           rel="noreferrer"
@@ -268,6 +339,7 @@ export const Header = () => {
           <Discord />
         </StyledDiscordLink>
         <Button
+          className="mobile-toggle"
           onClick={navigateToEscapeSite}
           sx={{
             marginLeft: "0.5rem",
@@ -286,6 +358,6 @@ export const Header = () => {
           height: 5,
         }}
       />
-    </header>
+    </StyledHeader>
   );
 };
