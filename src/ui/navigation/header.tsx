@@ -10,6 +10,7 @@ import logoUrl from "../../assets/logo.svg";
 import { Button } from "../button";
 import { useTranslation } from "react-i18next";
 import i18n from "../../i18n";
+import tags from "../../../tags.json";
 
 const StyledLink = styled("a")({
   textDecoration: "none",
@@ -28,7 +29,7 @@ const HeaderTypography = styled(Typography)({
   cursor: "pointer",
 });
 
-export const MenuItemContainer = styled("a")({
+export const MenuItemContainer = styled("div")({
   textDecoration: "none",
   padding: "0.5rem .75rem",
 
@@ -140,7 +141,7 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
 
   const navigate = useNavigate();
 
-  const ref = useRef<HTMLDivElement>(null);
+  const ref = useRef<HTMLAnchorElement>(null);
 
   // listen for clicks or escape to close the menu
   React.useEffect(() => {
@@ -162,7 +163,6 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
 
   return (
     <MenuItemContainer
-      href={href}
       sx={{
         position: "relative",
         display: "flex",
@@ -171,7 +171,8 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
         ...sx,
       }}
     >
-      <HeaderTypography
+      <a
+        href={href}
         ref={ref}
         onClick={(e) => {
           if (href) {
@@ -184,10 +185,12 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
           setIsOpen(!isOpen);
         }}
       >
-        {title}
+        <HeaderTypography>
+          {title}
 
-        {children && <CaratDown style={{ marginLeft: "0.5rem" }} />}
-      </HeaderTypography>
+          {children && <CaratDown style={{ marginLeft: "0.5rem" }} />}
+        </HeaderTypography>
+      </a>
 
       {children && isOpen && (
         <Typography
@@ -363,33 +366,17 @@ export const Header = () => {
             href="/resources"
           >
             <Menu>
-              <a
-                href="/resources?tags=transmasculine"
-                onClick={(e) => {
-                  e.preventDefault();
-                  navigate("/resources?tags=transmasculine");
-                }}
-              >
-                {i18n.t("tags.transmasculine")}
-              </a>
-              <a
-                href="/resources?tags=transfeminine"
-                onClick={(e) => {
-                  e.preventDefault();
-                  navigate("/resources?tags=transfeminine");
-                }}
-              >
-                {i18n.t("tags.transfeminine")}
-              </a>
-              <a
-                href="/resources?tags=non-binary"
-                onClick={(e) => {
-                  e.preventDefault();
-                  navigate("/resources?tags=non-binary");
-                }}
-              >
-                {i18n.t("tags.non-binary")}
-              </a>
+              {tags.map((tag, i) => (
+                <a
+                  href={`/resources?tags=${tag.value}`}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    navigate(`/resources?tags=${tag.value}`);
+                  }}
+                >
+                  {i18n.t(`tags.${tag.value}`)}
+                </a>
+              ))}
             </Menu>
           </MenuItem>
         </Box>
