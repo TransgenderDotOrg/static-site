@@ -1,5 +1,55 @@
 [
   {
+    "id": "0066902c-dfbc-4094-82d7-817c1e4533e0",
+    "slug": "san-mateo-county-pride-center",
+    "externalUrl": "https://sanmateopride.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "clothing",
+      "artists-creators",
+      "friendly-businesses",
+      "makeup",
+      "voice-training",
+      "discord-groups"
+    ],
+    "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
+    "phoneNumber": "650-591-0133",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Mateo",
+    "county": "San Mateo County",
+    "latLng": [
+      37.5569591,
+      -122.3189073
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
+      "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Центр гордости округа Сан-Матео",
+    "description": "Центр гордости округа Сан-Матео является организацией, работающей по модели сотрудничества и представляет собой универсальный центр для сообщества LGBTQ+. Мы предлагаем мощные программы и услуги для поддержки членов сообщества LGBTQ+ всех возрастов, включая образование, тренинги, мероприятия сообщества, группы поддержки, ежедневное планирование, клиническую терапию и управление делами."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -55,6 +105,64 @@
     "description": "Надежный онлайн-ресурс для людей, ищущих знания, поддержку и понимание вопроса гендерной дисфории. Их веб-сайт предлагает множество информации, ресурсов и связей с сообществом, чтобы помочь людям в их путешествии. От всесторонних руководств по гендерной идентичности и переходу к персональным историям и советам экспертов, они стремятся создать безопасное и включающее пространство для всех."
   },
   {
+    "id": "47b17f76-670a-4835-8773-409d98934b91",
+    "slug": "sylvia-rivera-law-project",
+    "externalUrl": "https://srlp.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "147 W 24th St #5th, New York, NY 10011, USA",
+    "phoneNumber": "212-337-8550",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "town": "Manhattan",
+    "county": "New York County",
+    "latLng": [
+      40.744576,
+      -73.9941166
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
+      "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
+      "facebookUrl": "https://www.facebook.com/sylviariveralawproject",
+      "twitterUrl": "https://www.twitter.com/srlp",
+      "instagramUrl": "https://instagram.com/sylviariveralawproject/",
+      "youtubeUrl": "https://www.youtube.com/user/SylviaRiveraLP",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Проект закона Сильвии Риверы (SRLP)",
+    "description": "Проект закона Сильвии Риверы работает, чтобы гарантировать, что все люди свободны самостоятельно определять свою гендерную идентичность и выражение, независимо от дохода или расы, и без столкновения с оскорблениями, дискриминацией или насилием. SRLP предоставляет юридическую помощь, организует кампании, проводит тренинги и руководит Комитетом консультаций заключенных. Призывается к участию сообщества через пожертвования, волонтерство и членство."
+  },
+  {
+    "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
+    "slug": "erin-in-the-morning",
+    "externalUrl": "https://www.erininthemorning.com/",
+    "tags": [
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "email": "null",
+    "socialMedia": {
+      "facebook": "facebook.com/erininthemorning",
+      "email": "mailto:info@erininthemorning.com"
+    },
+    "title": "Эрин утром",
+    "description": "Новости и дискуссии о законодательстве о трансгендерах и жизни. Автор Эрин Рид · Более 38 000 подписчиков"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -82,6 +190,173 @@
     "description": "Strands For Trans - это глобальная сеть индустрий и организаций красоты, здоровья и благополучия, которые стремятся создавать и вдохновлять на безопасный и позитивный опыт для всех гостей, особенно гостей из трансгендерного сообщества."
   },
   {
+    "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+    "slug": "pacific-center-for-human-growth",
+    "externalUrl": "https://www.pacificcenter.org/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "510-548-8283",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8611143,
+      -122.2593404
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+      "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+      "facebookUrl": "https://www.facebook.com/pacific.center",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+      "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Тихоокеанский центр человеческого развития",
+    "description": "Основанный в 1973 году, Тихоокеанский центр человеческого развития является старейшим центром LGBTQIA+ в заливе, третьим старейшим в стране, и единственным действующим ментальным здоровьем клининга для людей LGBTQIA+ и QTBIPOC и их семей в округе Аламеда на системе скользящего масштаба."
+  },
+  {
+    "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+    "slug": "oakland-lgbtq-community-center",
+    "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories",
+      "partner-resources"
+    ],
+    "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+    "phoneNumber": "510-882-2286",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8103802,
+      -122.2459822
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+      "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+      "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Центр Сообщества LGBTQ в Окленде",
+    "description": "Первый в Окленде некоммерческий 501c3, для всех возрастов, всесторонний центр обслуживания сообщества LGBTQ. Предлагаемые услуги включают в себя группы поддержки, поддержку психического здоровья, помощь в поиске жилья, молодежную программу, юридическую клинику, пункт питания и т.д. Также проводятся специальные программы для пожилых людей LGBTQ+ и трансгендерного сообщества."
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "healthcare",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "social-services",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "Гендерное разнообразие",
+    "description": "Гендерное разнообразие улучшает благосостояние детей и взрослых всех гендерных идентичностей и форм самовыражения, предоставляя образование, повышая осведомленность и предлагая взгляд на более широкий спектр человеческого опыта. Мы также помогаем создавать поддерживающую и недискриминационную среду в школах, спортивных командах, на рабочих местах и у поставщиков медицинских услуг для трансгендерных и гендерно-разнообразных людей."
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "Национальный центр за равенство трансгендеров",
+    "description": "Национальный центр за равенство трансгендеров - это организация, которая выступает за изменение политики и общественного мнения для улучшения понимания и принятия трансгендерных людей. NCTE предоставляет информацию о проблемах, с которыми сталкивается трансгендерное сообщество, включая старение, антинасилие, трудоустройство, семьи, здоровье и ВИЧ, жилье и бездомность и многое другое."
+  },
+  {
+    "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
+    "slug": "a-place-for-marsha",
+    "externalUrl": "https://www.aplaceformarshaofficial.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "email": "info@aplaceformarshaofficial.org",
+    "socialMedia": {
+      "tiktok": "https://www.tiktok.com/@aplaceformarsha"
+    },
+    "title": "Место для Марши",
+    "description": "«Место для Марши» - это один из многих стартап-проектов, целью которых является помощь трансгендерным людям и их семьям в местах, где уровень опасности все возрастает, переехать в более безопасное место. APFM начал свою работу в марте 2023 года в ответ на рост антитрансгендерной законодательной базы по всей стране. Теперь APFM сосредоточен на поиске соседей для беженцев из «красных» штатов, тщательно работая с каждым домохозяйством по отдельности."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -94,6 +369,44 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Жизненно важная онлайн-платформа, посвященная помощи и защите лиц, идентифицирующих себя как ЛГБТК+, которые сталкиваются с преследованиями и насилием во всем мире. С неизменной преданностью сайт связывает тех, кто находится в непосредственной опасности, с ресурсами, спасающими жизни, экстренной помощью и безопасными путями к спасению. Через партнерства с местными организациями и сеть сочувствующих сторонников RainbowRailroad.org неутомимо работает над предоставлением защиты, юридической помощи и поддержки в переезде, позволяя людям сбежать от преследований и найти убежище. Защищая права человека, спасая жизни и содействуя созданию более инклюзивного мира, RainbowRailroad.org служит маяком надежды и защиты для лиц ЛГБТК+, ищущих безопасности и свободы."
+  },
+  {
+    "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+    "slug": "east-bay-trans-queer-counseling",
+    "externalUrl": "https://www.eastbaytranscounseling.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness"
+    ],
+    "email": "eastbaytranscounseling@gmail.com",
+    "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "781-775-7802",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8538725,
+      -122.2596505
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "East Bay Trans & Queer Counseling",
+    "description": "East Bay Trans & Queer Counseling предлагает услуги по скользящей шкале, которые включают: индивидуальную терапию, расположенную в центре Беркли, штат Калифорния, поддержка в процессе исследования гендерной проблематики и перехода, рекомендательные письма по поводу гормонов и операции, профессиональные тренинги для специалистов по психическому здоровью, студентов и работодателей. Сэм Дэвис - трансгендер, гендерквир, лицензированный клинический социальный работник (LCSW), специализирующийся на работе с трансгендерами, квир, гендерквир и подростками и взрослыми, не соответствующими гендерным стереотипам. У них 16 лет опыта работы в области психического здоровья в East Bay, включая проведение групповых занятий по поддержке сверстников, общественное образование на конференциях ЛГБТКИ и 9 лет клинической практики и кризисного консультирования сильно маргинализированных людей для округа Аламеда. Они являются сильным и преданным защитником с долгой историей организации в интересах маргинализированных людей."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
@@ -112,5 +425,24 @@
     ],
     "title": "Карта трансгендеров",
     "description": "Transgendermap.com - это онлайн-ресурс, нацеленный на предоставление практической информации и руководства людям, которые задают вопросы о своей гендерной идентификации или находятся где-то на трансгендерном спектре. Веб-сайт включает в себя широкий спектр тем, таких как понимание терминологии трансгендеров, процессы трансформации, юридические вопросы, здравоохранение и многочисленные личные истории. Его цель - помочь людям ориентироваться в своих личных путешествиях, предоставляя 'карту' или руководство по многим аспектам гендерной идентификации и трансгендерного опыта. Пожалуйста, посетите актуальный сайт для получения самой актуальной и точной информации."
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "Трансгендерные Семьи",
+    "description": "Трансгендерные Семьи вдохновляют на надежду, увеличивают понимание и создают видимый путь поддержки трансгендерных и гендерно-разнообразных детей, а также всех тех, кто оказывает влияние на их жизнь. Мы предоставляем ресурсы, организуем мероприятия и связываем семьи с группами поддержки."
   }
 ]

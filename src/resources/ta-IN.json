@@ -1,5 +1,55 @@
 [
   {
+    "id": "0066902c-dfbc-4094-82d7-817c1e4533e0",
+    "slug": "san-mateo-county-pride-center",
+    "externalUrl": "https://sanmateopride.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "clothing",
+      "artists-creators",
+      "friendly-businesses",
+      "makeup",
+      "voice-training",
+      "discord-groups"
+    ],
+    "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
+    "phoneNumber": "650-591-0133",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Mateo",
+    "county": "San Mateo County",
+    "latLng": [
+      37.5569591,
+      -122.3189073
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
+      "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "சான் மத்தேயோ கவுண்டி பெருமை மையம்",
+    "description": "சான் மத்தேயோ கவுண்டி பெருமை மையம் ஒரு இணையான மாதிரி அமைப்பு முனையே ஒரு நிறுவனமாகும் மற்றும் LGBTQ+ சமூகத்துக்கான ஒரு கணினிப் பொருட்காட்சியாகும். எமது சமூக உறுப்பினர்களுக்கு பயிற்சி, சமூக நிகழ்வுகள், சக ஆதரவு குழுக்கள், நாள்தோறும் நிகழ்வுகள், மன சார்பரி, மற்றும் வழக்கு மேலாண்மை ஆகியவற்றை ஆதரிக்க சக்திவாய்ந்த திட்டங்கள் மற்றும் சேவைகளை வழங்குகின்றோம்."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -55,6 +105,64 @@
     "description": "பாலியல் குழப்பத்தை குறித்து அறிவு, ஆதரவு, மற்றும் புரிந்துணர்வு தேடும் நபர்களுக்கான நம்பிக்கையான ஆன்லைன் வளாகம். அவர்களது வலைத்தளம் தனிநபர்களின் பயணத்தில் அவர்களை ஆதரிக்க ஒரு பொதுவழிக் கேள்விகள், வளங்கள் மற்றும் சமூக இணைப்புகள் ஆகியவற்றை ஏற்படுத்துவதாக உள்ளது. பாலியல் அடையாளம் மற்றும் மாற்றத்திலிருந்து முழுமையான வழிகாட்டிகள், தனிப்பட்ட கதைகள் மற்றும் வல்லுநர் ஆலோசனைகள் வரை, அவர்கள் அனைத்துக்கும் பாலாண்மையான மற்றும் சேர்ந்து இருக்கும் இடத்தை உருவாக்க முயற்சிக்கின்றனர்."
   },
   {
+    "id": "47b17f76-670a-4835-8773-409d98934b91",
+    "slug": "sylvia-rivera-law-project",
+    "externalUrl": "https://srlp.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "147 W 24th St #5th, New York, NY 10011, USA",
+    "phoneNumber": "212-337-8550",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "town": "Manhattan",
+    "county": "New York County",
+    "latLng": [
+      40.744576,
+      -73.9941166
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
+      "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
+      "facebookUrl": "https://www.facebook.com/sylviariveralawproject",
+      "twitterUrl": "https://www.twitter.com/srlp",
+      "instagramUrl": "https://instagram.com/sylviariveralawproject/",
+      "youtubeUrl": "https://www.youtube.com/user/SylviaRiveraLP",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Sylvia Rivera Law Project (SRLP)",
+    "description": "Sylvia Rivera சட்ட திட்டம் அனைத்து மக்களும் வருமானம் அல்லது இனவாதியாக இருப்பதின் அலப்பரமாக, சுடச்சூழல், வேலைநீக்கம் அல்லது வன்முறை எதிர்கொள்வதின்றி, தங்களின் பாலினம் அடையாளத்தையும் வெளிப்பாட்டையும் தனித்து முடிவுக்குரியதாக உறுதி செய்வதற்கான வேலைகளை நிறைவேறுகின்றது. SRLP சட்டப்பொருள் உதவி,பிரச்சினைகளையெயப்பது, பயிற்சிகளையெய்துதல், மற்றும் ஒரு சிறை ஆலோசக விவகார சபைக்கு ஒழுங்கு வைப்பது. சமூக ஈடுபாடு நாணய நிதியுரிப்புகள், தொண்டர்களாக விருப்புள்ளவர்கள், மற்றும் சபை உறுப்பினர்களின் மூலம் ஊக்குவிக்கப்படுகின்றது."
+  },
+  {
+    "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
+    "slug": "erin-in-the-morning",
+    "externalUrl": "https://www.erininthemorning.com/",
+    "tags": [
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "email": "null",
+    "socialMedia": {
+      "facebook": "facebook.com/erininthemorning",
+      "email": "mailto:info@erininthemorning.com"
+    },
+    "title": "காலையில் ஏரின்",
+    "description": "பாலின சட்டங்கள் மற்றும் வாழ்க்கை பற்றிய செய்திகள் மற்றும் விவாதம். ஏரின் ரீட் மூலம் · 38,000 க்கும் மேற்பட்ட சந்தாதாரர்கள்"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -82,6 +190,173 @@
     "description": "ஸ்ட்ரான்ஸ் ஃபார் டிரான்ஸ், முதலியவற்றில் உள்ள முழுவதும் உலக அளவில் மூடி, அழகு, மற்றும் ஆரோக்கியத்தில் உள்ள தொழில்துறைகள் மற்றும் அமைப்புகளின் வலையமைப்பேது. அவை அனைத்து விருந்தினர்களுக்கும், குறிப்பாக டிரான்ஸ் சமுதாயத்தில் இருந்து வரும் விருந்தினர்களுக்கும், பாதுகாப்பான மற்றும் நேர்ம அனுபவங்களை உருவாக்குவதற்கு மற்றும் அதை ஊக்குவிக்குவதற்கு முயல்கின்றன."
   },
   {
+    "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+    "slug": "pacific-center-for-human-growth",
+    "externalUrl": "https://www.pacificcenter.org/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "510-548-8283",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8611143,
+      -122.2593404
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+      "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+      "facebookUrl": "https://www.facebook.com/pacific.center",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+      "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Pacific மனித வளர்ச்சி மையம்",
+    "description": "1973ஆம் ஆண்டில் தொடக்கப்பட்டதாக, Pacific மனித வளர்ச்சி மையம் Bay பிரதேசத்தில் மிகவும் பழைய LGBTQIA+ மையமாகும், தேசிய நிலையில் மூன்றாவது மிகவும் பழையதாகும், மேலும் அது Alameda மாவட்டத்தில் LGBTQIA+ மற்றும் QTBIPOC மக்களுக்கும் அவர்கள் குடும்பத்தினருக்கும் மட்டும் மாற்று மதிப்பு மன சுகாதார மருத்துவமனையை இயக்குகிறது."
+  },
+  {
+    "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+    "slug": "oakland-lgbtq-community-center",
+    "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories",
+      "partner-resources"
+    ],
+    "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+    "phoneNumber": "510-882-2286",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8103802,
+      -122.2459822
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+      "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+      "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ஓக்லாந்து பிராசம்பிய அறிமுக இடம்",
+    "description": "ஓக்லாந்துவின் முதன்முதலாகவும் அனைவருக்கும் வழங்கும் அரசு அங்கீகரித்த 501c3 பிராசம்பிய அறிமுக இடம். வழங்கியுள்ள சேவைகள் ஆதரவு குழுக்கள், மன நலச் சேவைகள், வீட்டுநிலை உதவி, இளைஞர் நிகழ்ச்சி, சட்ட மேலாண்மை நிறுவனம், உணவு அடையாளங்கள் முதலியவற்றை உள்ளடக்கி உள்ளன. முதியவர் பிராசம்பிய மக்களுக்கும், பிராசம்பிய சமூக உறுப்பினருக்கும் சிறப்பு நிகழ்ச்சிகள் நடைபெறுகின்றன."
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "healthcare",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "social-services",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "பால் வகைப்பாடு",
+    "description": "பால் வகைப்பாடு என்பது அனைத்து பாலுக்கான அடையாளங்கள் மற்றும் வெளிப்படைத்தல்களுக்கான குழந்தைகள் மற்றும் வாழ்க்கையாளர்களின் நலம் மேம்படுத்தும் மூலம் கல்வியாளவு, விழிப்புணர்வுக் கூர்மையாக்கி, மனித அனுபவங்களின் விரிவான வீச்சில் அறிவீடு வழங்குகிறது. நாம் மேலும் பல்லூட்டியல் மற்றும் பாலுக்கான விவாதிப்பான சூழல்களை பள்ளிகள், விளையாட்டு அணிகள், வேலை சூழலுக்குக் கொண்டுவந்து, மற்றும் மருத்துவ வழங்குநர்களால் உருவாக்குவதற்கு உதவுகின்றோம்."
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "தேசிய மாறுபாலி சமமானத்துவ மையம்",
+    "description": "தேசிய மாறுபாலி சமமானத்துவ மையம் என்பது மாறுபாலி மக்களை மேலும் உண்மையில் அறிய மற்றும் ஏற்றுறுத்தல் கிடைக்க விதிகள் மற்றும் சமூக முன்னோக்கி மேல் ஆதரவு கொடுத்து, மாறுபாலிக் குழு என்ற சமூகத்தின் மேல் விளைவிக்கும் பிரச்சினைகளுக்கு பற்றி தகவல்கள் வழங்குவதாகும் ஒரு அமைப்பு. அதில் முதுமையாக உள்ளது, வன்முறை எதிர்ப்பு, வேலை, குடும்பங்கள், சுகாதாரம் & HIV, வீடு & விழிப்புணர்வு, மேலும் பல."
+  },
+  {
+    "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
+    "slug": "a-place-for-marsha",
+    "externalUrl": "https://www.aplaceformarshaofficial.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "email": "info@aplaceformarshaofficial.org",
+    "socialMedia": {
+      "tiktok": "https://www.tiktok.com/@aplaceformarsha"
+    },
+    "title": "மார்ஷாக்கான இடம்",
+    "description": "மார்ஷாக்கான இடம் ஆகியவை, ஆதிகமான அபாயங்களுக்கு இருப்புவதிலிருந்து பாதுகாப்பான இடத்தில் டிரான்ஸ் நபர்கள் மற்றும் குடும்பங்களுக்கு உதவ நோக்குகின்றன. தேசத்தின் சுற்றுலாவில் முரண்டிய அண்டிரான்ஸ் சட்டங்களுக்கு எதிராக மார்ச், 2023ம் ஆண்டுக்கு அதன் பயணத்தை தொடங்கி. இப்போது APFM சிவப்புநில மாநிலங்களிலிருந்து அகதிகளை ஒரே வீட்டிற்கு ஒரு நண்பரின் வேண்டுவதைப் பொருத்துவதில் கூற்றுத் தழுவுகின்றது, மிகவும் கவனமாக ஒரே வீட்டாக."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -94,6 +369,44 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "உலகெங்கும் முற்றுகேடு மற்றும் வன்முறைக்கு இருக்கும் LGBTQ+ நிறுவனங்களுக்கு உதவி மற்றும் சார்ந்தோர் என்பவர்களை தனிப்பட்ட மின்னணு மேடையாக அமைந்துள்ளது. தனக்குள் நிறுத்தாமையான முழுமையுடன், இந்த வலைத்தளம் உடனடியாக ஆபத்தில் இருக்கும் ஆதாரங்களுக்கு, அவர்களைத் தொடர்கதைக்கு இணைக்கின்றது, அவர்களுக்கு அவர்கள் மேற்பாடு அவர்களை அப்பத்தியிலிருந்து மேலே ஏற்றுவைக்கும் வழிமுறைகள் மற்றும் ஆதாரத் துணையை வழங்குவதாகக் கொண்டிருந்தால். உள்ளூர் நிறுவனங்களுடன் கூட்டுப்பாடுகள் மற்றும் ஏகப்பட்ட ஆதரவுள்ள வலையமைப்புகளுக்கு மூலம், RainbowRailroad.org துண்டுதடுமாறு முழுமைப்படுத்திய ஆலோசனையை, சட்டப்பேரவையை, மற்றும் மாற்று ஆதரவை வழங்குகிறது, இப்படியே ஆதாரங்களுக்கு முற்றுகேடு என்பனை விட்டு முதன்முதலில் செலுத்த வேண்டியவர்களுக்குக் காவலனாக செல்வதாகக் இருக்கும். RainbowRailroad.org முக்கியமாகக் கொண்டிருப்பது மனித உரிமைகளை, வாழ்க்கையை காப்பாற்றுவதை, மற்றும் இன்னும் ஆக்கப்பொருளான உலகை வழங்குவதை, ஆகியே சேர்ந்துகொண்டுள்ளது பொறுப்பாகக் கொண்டிருப்பது, முதிரை மக்களுக்கு அரசியலும் மற்றும் சுதந்திரத்தைக் கேட்டுவார்."
+  },
+  {
+    "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+    "slug": "east-bay-trans-queer-counseling",
+    "externalUrl": "https://www.eastbaytranscounseling.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness"
+    ],
+    "email": "eastbaytranscounseling@gmail.com",
+    "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "781-775-7802",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8538725,
+      -122.2596505
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "கிழக்கு பே மாறுபட்ட பாலினத்தை அடிப்படையாக ஏற்கும் & கோயில் ஆலோசனை",
+    "description": "கிழக்கு பே மாறுபட்ட பாலினத்தை அடிப்படையாக ஏற்கும் & கோயில் ஆலோசனை, சார்ந்த முதுகேலை ஆன சேவைகளை உள்ளடக்கியுள்ளது: தனிப்பட்ட ஆலோசனை பெர்க்லே, CA-வில் மையக்குவியலில் இருத்தல் பாலின ஆராய்ச்சி மற்றும் மாற்றத்தின் வழியாக ஆதரவு ஆற்றல் மற்றும் அறுவை சிகிச்சைக்குரிய அறிவிப்பு கடிதங்கள் மானசிக ஆரோக்கிய வழங்குபவர்களுக்கு, மாணவர்களுக்கு, ஊழியர்களுக்கு தொழில்நுட்ப பயிற்சி. சேம் டேவிஸ மாறுபட்ட பாலினத்தின அடிப்படையில் ஏற்கனவே உள்ளவர், ஆதாரம் இல்லாத பாலினத்தை அடிப்படையாக ஏற்கும் சமூக சேவை அலுவலர் (LCSW) மாறுபட்ட பாலினத்தின அடிப்படையில் ஏற்கும், ஆதாரம் இல்லாத பாலினத்தின அடிப்படையில் ஏற்கும் பள்ளியோட்டிகள் மற்றும் பாலை மாற்றிய இளம் மருந்து ஆராய்ச்சியுக்காக பணியாற்றுவார். அவர்கள் கிழக்கு பே மானசிக ஆரோக்கிய வழங்குபவராக 16 ஆண்டுகளிலும் அதிகமான அனுபவம் உள்ளனர், இது சமூக கல்வி மற்றும் மக்கள் ஆதரவு குழு நடத்தல், LGBTQI மாநாடுகளில் சமூக கல்வி மற்றும் அலமிடா கவுன்டியில் மிகப்பெரிய தொழில்நெறிகளுக்கு மன நேரடி ஆலோசனையிடும் 9 ஆண்டுகளும் உள்ளன. அவர்கள் நீண்ட கால அவஸ்தையில் மிக அதிகமாக ஆதரிக்கப்பட்டவர்களின் பக்கத்தில் ஒரு பலமான மற்றும் மேலும் அமைத்துவைக்கும் ஆதரவாளர்."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
@@ -112,5 +425,24 @@
     ],
     "title": "பாலின மாற்று வரைபடம்",
     "description": "Transgendermap.com என்பது பாலின் அடையாளத்தை சந்தேகிக்கும் அல்லது பாலின மாற்று வரியாவில் உள்ள மக்களுக்கு பிரயோகக் கூறுகள் மற்றும் வழிகாட்டுதல்களை வழங்குவதை நோக்கி ஆன்லைன் வளமாக உள்ளது. இந்த இணையத்தளம் பாலின் மாற்று சொற்தகவல்களை உணர்வத், மாற்றம் செயல்முறைகள், சட்ட விவாதங்கள், சுகாதார, பல தனிப்பட்ட கதைகள் போன்ற பல தலைப்புகளைக் கொண்டுள்ளது. அதன் நோக்கம், 'வரைபடத்தின்' மூலமாக பாலின் அடையாளத்தின் பல பகுதிகளுக்கு வழிகாட்டல் வழங்கி தனித்த பயணங்களுக்கு மக்களை வழிகாட்டுவதாகும். மிகவும் தற்போதைய மற்றும் சரியான தகவல்களுக்கு நிஜ தளத்தை பார்வையிடுவதற்கை நல்லாக கேட்டுக்கொள்ளுகிறோம்."
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "மாறிவாழ்க்கை குடும்பங்கள்",
+    "description": "மாறிவாழ்க்கை குடும்பங்கள் நம்பிக்கையை ஊக்கப்படுத்தி, மேலும் அறிவை அதிகரிப்பதற்கும், மாறிய பாலினத்தையும் பாலின வேறுபாடுகளையும் அடையாளம் காணும் குழந்தைகளுக்கு ஆதரவு வழியை உருவாக்கும். ஆவணங்களை வழங்குவதற்கும், நிகழ்வுகளை ஏற்பாடு செய்வதற்கும், குடும்பங்களை ஆதரவு குழுக்களுக்கு இணைக்கும் ஆணைகளை இணைக்கின்றோம்."
   }
 ]

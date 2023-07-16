@@ -1,5 +1,55 @@
 [
   {
+    "id": "0066902c-dfbc-4094-82d7-817c1e4533e0",
+    "slug": "san-mateo-county-pride-center",
+    "externalUrl": "https://sanmateopride.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "clothing",
+      "artists-creators",
+      "friendly-businesses",
+      "makeup",
+      "voice-training",
+      "discord-groups"
+    ],
+    "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
+    "phoneNumber": "650-591-0133",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Mateo",
+    "county": "San Mateo County",
+    "latLng": [
+      37.5569591,
+      -122.3189073
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
+      "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "圣马特奥县骄傲中心",
+    "description": "圣马特奥县骄傲中心是一个协作模式的组织，也是LGBTQ+ 社区的一站式服务站。我们为所有年龄的LGBTQ+社区成员提供强大的计划和服务，包括教育，培训，社区活动，同伴支持小组，每日规划，临床治疗，和案例管理。"
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -55,6 +105,64 @@
     "description": "一个值得信赖的在线资源，供寻求有关性别焦虑的知识、支持和理解的个体使用。他们的网站提供了丰富的信息、资源和社区联系，以使个体在其旅程中得到赋权。从全面的性别认同和过渡指南，到个人故事和专家建议，他们力争为所有人创造一个安全包容的空间。"
   },
   {
+    "id": "47b17f76-670a-4835-8773-409d98934b91",
+    "slug": "sylvia-rivera-law-project",
+    "externalUrl": "https://srlp.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "147 W 24th St #5th, New York, NY 10011, USA",
+    "phoneNumber": "212-337-8550",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "town": "Manhattan",
+    "county": "New York County",
+    "latLng": [
+      40.744576,
+      -73.9941166
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
+      "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
+      "facebookUrl": "https://www.facebook.com/sylviariveralawproject",
+      "twitterUrl": "https://www.twitter.com/srlp",
+      "instagramUrl": "https://instagram.com/sylviariveralawproject/",
+      "youtubeUrl": "https://www.youtube.com/user/SylviaRiveraLP",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "西尔维亚·里维拉法律项目（SRLP）",
+    "description": "西尔维亚·里维拉法律项目致力于确保所有人都能自由地确定性别身份和表达，无论收入或种族，且不会遭受骚扰，歧视或暴力。SRLP提供法律帮助，组织活动，进行培训，并运行一个囚犯咨询委员会。我们鼓励社区通过捐款，志愿者和会员资格参与。"
+  },
+  {
+    "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
+    "slug": "erin-in-the-morning",
+    "externalUrl": "https://www.erininthemorning.com/",
+    "tags": [
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "email": "null",
+    "socialMedia": {
+      "facebook": "facebook.com/erininthemorning",
+      "email": "mailto:info@erininthemorning.com"
+    },
+    "title": "早晨的艾琳",
+    "description": "关于跨性别立法和生活的新闻和讨论。由艾琳·里德制作 · 超过38,000名订阅者"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -82,6 +190,173 @@
     "description": "Strands For Trans是一个全球的头发，美容和健康产业和组织的网络，致力于为所有客户，尤其是跨性别社区的客户，创造和激发安全和积极的体验。"
   },
   {
+    "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+    "slug": "pacific-center-for-human-growth",
+    "externalUrl": "https://www.pacificcenter.org/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "510-548-8283",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8611143,
+      -122.2593404
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+      "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+      "facebookUrl": "https://www.facebook.com/pacific.center",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+      "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "太平洋人类成长中心",
+    "description": "太平洋人类成长中心成立于1973年，是旧金山湾区最古老的LGBTQIA+中心，全国第三古老，并运营着阿拉米达县唯一为LGBTQIA+和QTBIPOC人群及其家庭提供滑动规模精神健康诊所。"
+  },
+  {
+    "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+    "slug": "oakland-lgbtq-community-center",
+    "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories",
+      "partner-resources"
+    ],
+    "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+    "phoneNumber": "510-882-2286",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8103802,
+      -122.2459822
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+      "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+      "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "奥克兰LGBTQ社区中心",
+    "description": "奥克兰首个为所有年龄段、全包容的LGBTQ社区服务中心，属于非营利501c3组织。所提供的服务包括支持团体，心理健康支持，住房援助，青少年计划，法律诊所，食品储藏室等。还为年长的LGBTQ+人群和跨性别社区成员开展了特殊计划。"
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "healthcare",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "social-services",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "性别多样性",
+    "description": "性别多样性通过提供教育，提高意识，以及透视更广泛的人类经验，改善了所有性别身份和表达的儿童和成人的福祉。我们还协助创建支持性和非歧视性的环境，为学校，体育队，工作场所和医疗提供者中的跨性别者和性别多元的个体提供帮助。"
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "全国跨性别平等中心",
+    "description": "全国跨性别平等中心是一个倡导改变政策和社会态度的组织，以增加对跨性别人群的理解和接受。NCTE提供关于影响跨性别社区的问题的信息，包括衰老，反暴力，就业，家庭，健康和艾滋病，住房和无家可归等。"
+  },
+  {
+    "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
+    "slug": "a-place-for-marsha",
+    "externalUrl": "https://www.aplaceformarshaofficial.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "email": "info@aplaceformarshaofficial.org",
+    "socialMedia": {
+      "tiktok": "https://www.tiktok.com/@aplaceformarsha"
+    },
+    "title": "Marsha的归属地",
+    "description": "Marsha的归属地是许多初创项目之一，旨在帮助男女转型者和家庭从越来越危险的状态转移到更安全的地方。 APFM从2023年3月开始行动，以回应全国范围内的反转型立法潮流。 APFM现在专注于将来自红色州的难民作为室友进行匹配，小心翼翼地处理一个家庭。"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -94,6 +369,44 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "一个致力于帮助和倡导面临全球迫害和暴力的LGBTQ+个体的重要在线平台。这个网站坚定不移地将身处危险的人与挽救生命的资源，紧急援助和安全途径相连接。通过与本地组织和一网络富有同情心的支持者的合作，RainbowRailroad.org不知疲倦地提供倡导，法律援助和搬迁支持，使个人可以脱离迫害并找到庇护所。通过捍卫人权，挽救生命，和培育一个更包容的世界，RainbowRailroad.org对于寻求安全和自由的LGBTQ+个体而言，是希望建设的和保护的灯塔。"
+  },
+  {
+    "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+    "slug": "east-bay-trans-queer-counseling",
+    "externalUrl": "https://www.eastbaytranscounseling.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness"
+    ],
+    "email": "eastbaytranscounseling@gmail.com",
+    "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "781-775-7802",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8538725,
+      -122.2596505
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "东湾跨性别与酷儿咨询",
+    "description": "东湾跨性别与酷儿咨询提供滑动比例服务，包括：位于伯克利，CA的个人治疗，支持性别探索和过渡，为激素和手术提供推荐信，为心理健康提供者，学生和雇主提供专业培训。Sam Davis 是一位跨性别的，酷儿的持照临床社会工作者(LCSW)，专门为跨性别，酷儿，酷儿，和性别不形式的青少年和成年人提供专业服务。他们有16年作为东湾地区的心理健康提供者的经验，包括促进同行支持小组，LGBTQI大会的社区教育，以及9年为阿拉米达县严重边缘化的人提供临床实践和危机咨询。他们是一位有着长期为边缘化人群组织的坚强而坚定的倡导者。"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
@@ -112,5 +425,24 @@
     ],
     "title": "跨性别地图",
     "description": "Transgendermap.com是一个在线资源网站，旨在为正在质疑自己的性别认同或者在跨性别范围内的人们提供实用的信息和指导。网站包括广泛的主题，比如理解跨性别术语、过渡过程、法律问题、医疗保健，以及大量的个人故事。其目标是通过提供一个'地图'或指南，帮助个人导航他们的个人旅程，了解性别认同和跨性别经验的多个方面。请访问实际网站获取最新和最准确的信息。"
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "跨性别家庭",
+    "description": "跨性别家庭激励希望，增进理解，为支持跨性别和性别多元的孩子以及所有涉及他们生活的人创建了一个可见的途径。我们提供资源，组织活动，并将家庭连接到支持团体。"
   }
 ]

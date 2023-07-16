@@ -1,5 +1,55 @@
 [
   {
+    "id": "0066902c-dfbc-4094-82d7-817c1e4533e0",
+    "slug": "san-mateo-county-pride-center",
+    "externalUrl": "https://sanmateopride.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "clothing",
+      "artists-creators",
+      "friendly-businesses",
+      "makeup",
+      "voice-training",
+      "discord-groups"
+    ],
+    "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
+    "phoneNumber": "650-591-0133",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Mateo",
+    "county": "San Mateo County",
+    "latLng": [
+      37.5569591,
+      -122.3189073
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
+      "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "San Mateo County Pride Center",
+    "description": "The San Mateo County Pride Center is a collaboration model organization and one-stop shop for the LGBTQ+ community. We offer robust programs and services to support LGBTQ+ community members of all ages, including education, training, community events, peer support groups, daily programming, clinical therapy, and case management."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -55,6 +105,64 @@
     "description": "A trusted online resource for individuals seeking knowledge, support, and understanding about gender dysphoria. Their website provides a wealth of information, resources, and community connections to empower individuals on their journey. From comprehensive guides on gender identity and transitioning to personal stories and expert advice, they strive to create a safe and inclusive space for all."
   },
   {
+    "id": "47b17f76-670a-4835-8773-409d98934b91",
+    "slug": "sylvia-rivera-law-project",
+    "externalUrl": "https://srlp.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "147 W 24th St #5th, New York, NY 10011, USA",
+    "phoneNumber": "212-337-8550",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "town": "Manhattan",
+    "county": "New York County",
+    "latLng": [
+      40.744576,
+      -73.9941166
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
+      "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
+      "facebookUrl": "https://www.facebook.com/sylviariveralawproject",
+      "twitterUrl": "https://www.twitter.com/srlp",
+      "instagramUrl": "https://instagram.com/sylviariveralawproject/",
+      "youtubeUrl": "https://www.youtube.com/user/SylviaRiveraLP",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Sylvia Rivera Law Project (SRLP)",
+    "description": "The Sylvia Rivera Law Project works to guarantee that all people are free to self-determine gender identity and expression, regardless of income or race, and without facing harassment, discrimination or violence. SRLP provides legal help, organizes campaigns, conducts trainings, and runs a Prisoner Advisory Committee. Community involvement is encouraged through donations, volunteering, and membership."
+  },
+  {
+    "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
+    "slug": "erin-in-the-morning",
+    "externalUrl": "https://www.erininthemorning.com/",
+    "tags": [
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "email": "null",
+    "socialMedia": {
+      "facebook": "facebook.com/erininthemorning",
+      "email": "mailto:info@erininthemorning.com"
+    },
+    "title": "Erin In The Morning",
+    "description": "News and discussion on trans legislation and life. By Erin Reed · Over 38,000 subscribers"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -82,6 +190,173 @@
     "description": "Strands For Trans is a global network of hair, beauty, and wellness industries and organizations that seek to create and inspire safe and positive experiences for all guests, especially guests from the trans community."
   },
   {
+    "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+    "slug": "pacific-center-for-human-growth",
+    "externalUrl": "https://www.pacificcenter.org/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "510-548-8283",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8611143,
+      -122.2593404
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+      "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+      "facebookUrl": "https://www.facebook.com/pacific.center",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+      "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Pacific Center for Human Growth",
+    "description": "Founded in 1973, Pacific Center for Human Growth is the oldest LGBTQIA+ center in the Bay Area, the third oldest in the nation, and operates the only sliding scale mental health clinic for LGBTQIA+ and QTBIPOC people and their families in Alameda County."
+  },
+  {
+    "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+    "slug": "oakland-lgbtq-community-center",
+    "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories",
+      "partner-resources"
+    ],
+    "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+    "phoneNumber": "510-882-2286",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8103802,
+      -122.2459822
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+      "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+      "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Oakland LGBTQ Community Center",
+    "description": "Oakland's first ever Non-profit 501c3, all ages, all inclusive LGBTQ community service center. Services offered include support groups, mental health support, housing assistance, youth program, legal clinic, food pantry etc. Special programs are also conducted for aged LGBTQ+ people and transgender community members."
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "healthcare",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "social-services",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "Gender Diversity",
+    "description": "Gender Diversity improves the well-being of children and adults of all gender identities and expression by providing education, increasing awareness, and offering insight into the wider range of human experience. We also assist in creating supportive and non-discriminatory environments in schools, sports teams, workplaces, and healthcare providers for transgender and gender diverse individuals."
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "National Center for Transgender Equality",
+    "description": "The National Center for Transgender Equality is an organization advocating to change policies and societal attitudes for increased understanding and acceptance of transgender people. The NCTE provides information about issues affecting the Transgender community including aging, anti-violence, employment, families, health & HIV, housing & homelessness, and more."
+  },
+  {
+    "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
+    "slug": "a-place-for-marsha",
+    "externalUrl": "https://www.aplaceformarshaofficial.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "email": "info@aplaceformarshaofficial.org",
+    "socialMedia": {
+      "tiktok": "https://www.tiktok.com/@aplaceformarsha"
+    },
+    "title": "A Place for Marsha",
+    "description": "A Place for Marsha is one of many start-up projects aiming towards helping Trans individuals and families in increasingly dangerous states to a safer place. APFM began its journey in March of 2023 in reaction to the rise of anti-trans legislation around the nation. APFM now focuses on matching Refugees from red states as roommates, carefully handling one household at a time."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -94,6 +369,44 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "A vital online platform dedicated to assisting and advocating for LGBTQ+ individuals who are facing persecution and violence worldwide. With unwavering commitment, the website connects those in immediate danger to life-saving resources, emergency assistance, and secure pathways to safety. Through partnerships with local organizations and a network of compassionate supporters, RainbowRailroad.org works tirelessly to provide advocacy, legal aid, and relocation support, enabling individuals to escape persecution and find refuge. By championing human rights, saving lives, and fostering a more inclusive world, RainbowRailroad.org serves as a beacon of hope and protection for LGBTQ+ individuals seeking safety and freedom."
+  },
+  {
+    "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+    "slug": "east-bay-trans-queer-counseling",
+    "externalUrl": "https://www.eastbaytranscounseling.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness"
+    ],
+    "email": "eastbaytranscounseling@gmail.com",
+    "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "781-775-7802",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8538725,
+      -122.2596505
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "East Bay Trans & Queer Counseling",
+    "description": "East Bay Trans & Queer Counseling offers sliding scale services that include: Individual Therapy centrally located in Berkeley, CA Support through gender exploration and transition Recommendation letters for hormones and surgery Professional trainings for mental health providers, students, and employers. Sam Davis is a transgender, genderqueer Licensed Clinical Social Worker (LCSW) specializing in working with trans, queer, genderqueer, and gender-nonconforming teens and adults. They have 16 years of experience as a mental health provider in the East Bay, including peer support group facilitation, community education at LGBTQI conferences, and 9 years of clinical practice and crisis counseling with severely marginalized people for the County of Alameda. They are a strong and committed advocate with a long history of organizing on behalf of marginalized people."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
@@ -112,5 +425,24 @@
     ],
     "title": "Transgender Map",
     "description": "Transgendermap.com is an online resource aimed at providing practical information and guidance to people who are questioning their gender identity or are somewhere on the transgender spectrum. The website includes a wide range of topics like understanding transgender terminology, transition processes, legal issues, healthcare, and numerous personal stories. Its goal is to help individuals navigate their personal journeys by providing a 'map' or guide to the many aspects of gender identity and transgender experiences. Please visit the actual site for the most current and accurate information."
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "Trans Families",
+    "description": "Trans Families inspires hope, increases understanding, and creates a visible pathway to support trans and gender diverse children and all those who touch their lives. We provide resources, organize events, and connect families to support groups."
   }
 ]

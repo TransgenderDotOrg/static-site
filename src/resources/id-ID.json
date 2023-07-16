@@ -1,5 +1,55 @@
 [
   {
+    "id": "0066902c-dfbc-4094-82d7-817c1e4533e0",
+    "slug": "san-mateo-county-pride-center",
+    "externalUrl": "https://sanmateopride.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "clothing",
+      "artists-creators",
+      "friendly-businesses",
+      "makeup",
+      "voice-training",
+      "discord-groups"
+    ],
+    "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
+    "phoneNumber": "650-591-0133",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Mateo",
+    "county": "San Mateo County",
+    "latLng": [
+      37.5569591,
+      -122.3189073
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
+      "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "San Mateo County Pride Center",
+    "description": "San Mateo County Pride Center adalah organisasi model kolaborasi dan pusat belanja satu atap untuk komunitas LGBTQ+. Kami menawarkan program dan layanan yang kuat untuk mendukung anggota komunitas LGBTQ+ dari segala usia, termasuk pendidikan, pelatihan, acara komunitas, kelompok dukungan sebaya, program harian, terapi klinis, dan manajemen kasus."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -55,6 +105,64 @@
     "description": "Sebuah sumber daya online tepercaya untuk individu yang mencari pengetahuan, dukungan, dan pemahaman tentang disforia gender. Situs web mereka menyediakan berbagai informasi, sumber daya, dan koneksi komunitas untuk memberdayakan individu dalam perjalanan mereka. Dari panduan komprehensif tentang identitas gender dan transisi hingga cerita pribadi dan saran ahli, mereka berusaha menciptakan ruang yang aman dan inklusif untuk semua."
   },
   {
+    "id": "47b17f76-670a-4835-8773-409d98934b91",
+    "slug": "sylvia-rivera-law-project",
+    "externalUrl": "https://srlp.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "147 W 24th St #5th, New York, NY 10011, USA",
+    "phoneNumber": "212-337-8550",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "town": "Manhattan",
+    "county": "New York County",
+    "latLng": [
+      40.744576,
+      -73.9941166
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
+      "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
+      "facebookUrl": "https://www.facebook.com/sylviariveralawproject",
+      "twitterUrl": "https://www.twitter.com/srlp",
+      "instagramUrl": "https://instagram.com/sylviariveralawproject/",
+      "youtubeUrl": "https://www.youtube.com/user/SylviaRiveraLP",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Sylvia Rivera Law Project (SRLP)",
+    "description": "Sylvia Rivera Law Project bekerja untuk menjamin bahwa semua orang bebas menentukan identitas dan ekspresi gender mereka, terlepas dari pendapatan atau ras, dan tanpa menghadapi pelecehan, diskriminasi atau kekerasan. SRLP menyediakan bantuan hukum, mengorganisir kampanye, melakukan pelatihan, dan menjalankan Komite Penasihat Narapidana. Keterlibatan komunitas dianjurkan melalui donasi, sukarelawan, dan keanggotaan."
+  },
+  {
+    "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
+    "slug": "erin-in-the-morning",
+    "externalUrl": "https://www.erininthemorning.com/",
+    "tags": [
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "email": "null",
+    "socialMedia": {
+      "facebook": "facebook.com/erininthemorning",
+      "email": "mailto:info@erininthemorning.com"
+    },
+    "title": "Erin di Pagi Hari",
+    "description": "Berita dan diskusi tentang legislasi trans dan kehidupan. Oleh Erin Reed · Lebih dari 38.000 pelanggan"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -82,6 +190,173 @@
     "description": "Strands For Trans adalah jaringan global industri rambut, kecantikan, dan kesehatan serta organisasi yang berusaha untuk menciptakan dan menginspirasi pengalaman yang aman dan positif untuk semua tamu, khususnya tamu dari komunitas trans."
   },
   {
+    "id": "594ba858-974c-4c09-8fd4-f4bb35ca6c5f",
+    "slug": "pacific-center-for-human-growth",
+    "externalUrl": "https://www.pacificcenter.org/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "510-548-8283",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8611143,
+      -122.2593404
+    ],
+    "socialMedia": {
+      "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
+      "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
+      "facebookUrl": "https://www.facebook.com/pacific.center",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/pacificcenterberkeley/",
+      "youtubeUrl": "https://www.youtube.com/user/TheInQueery",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Pacific Center for Human Growth",
+    "description": "Didirikan pada tahun 1973, Pacific Center for Human Growth adalah pusat LGBTQIA+ tertua di Bay Area, yang ketiga tertua di negara ini, dan mengoperasikan satu-satunya klinik kesehatan mental dengan skala geser untuk orang-orang LGBTQIA+ dan QTBIPOC serta keluarga mereka di Kabupaten Alameda."
+  },
+  {
+    "id": "682fba48-f668-4fe6-89a7-05a90193e778",
+    "slug": "oakland-lgbtq-community-center",
+    "externalUrl": "https://www.oaklandlgbtqcenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories",
+      "partner-resources"
+    ],
+    "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
+    "phoneNumber": "510-882-2286",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8103802,
+      -122.2459822
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
+      "facebookUrl": "https://www.facebook.com/oaklandlgbtqcommunitycenter/?notify_field=blurb&modal=profile_completion&notif_t=page_profile_blurb&notif_id=1499829595947085",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/oaklandlgbtqcenter",
+      "youtubeUrl": "https://youtu.be/3qxj1a9esuU",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Pusat Komunitas LGBTQ Oakland",
+    "description": "Pertama kali di Oakland, organisasi non-profit 501c3, untuk semua usia, pusat pelayanan komunitas LGBTQ semuanya. Layanan yang ditawarkan meliputi kelompok dukungan, dukungan kesehatan mental, bantuan perumahan, program pemuda, klinik hukum, dapur umum, dll. Program khusus juga diselenggarakan untuk anggota komunitas LGBTQ+ yang berusia lanjut dan anggota komunitas transgender."
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "healthcare",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "social-services",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "Keragaman Gender",
+    "description": "Keragaman Gender meningkatkan kesejahteraan anak-anak dan orang dewasa dari semua identitas dan ekspresi gender dengan menyediakan pendidikan, meningkatkan kesadaran, dan menawarkan wawasan ke dalam rentang pengalaman manusia yang lebih luas. Kami juga membantu dalam menciptakan lingkungan yang mendukung dan tidak diskriminatif di sekolah, tim olahraga, tempat kerja, dan penyedia layanan kesehatan untuk individu transgender dan beragam gender."
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "Pusat Nasional untuk Kesetaraan Transgender",
+    "description": "Pusat Nasional untuk Kesetaraan Transgender adalah sebuah organisasi yang berjuang untuk mengubah kebijakan dan sikap masyarakat agar memahami dan menerima orang-orang transgender. NCTE menyediakan informasi tentang berbagai isu yang mempengaruhi komunitas Transgender termasuk penuaan, anti-kekerasan, pekerjaan, keluarga, kesehatan & HIV, perumahan & tunawisma, dan lainnya."
+  },
+  {
+    "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
+    "slug": "a-place-for-marsha",
+    "externalUrl": "https://www.aplaceformarshaofficial.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "email": "info@aplaceformarshaofficial.org",
+    "socialMedia": {
+      "tiktok": "https://www.tiktok.com/@aplaceformarsha"
+    },
+    "title": "Sebuah Tempat untuk Marsha",
+    "description": "Sebuah Tempat untuk Marsha adalah salah satu dari banyak proyek start-up yang bertujuan untuk membantu individu dan keluarga Trans dalam negara yang semakin berbahaya menuju tempat yang lebih aman. APFM memulai perjalanannya pada Maret 2023 sebagai reaksi terhadap meningkatnya legislasi anti-trans di seluruh negeri. APFM sekarang berfokus pada mencocokkan Pengungsi dari negara merah sebagai teman sekamar, dengan hati-hati menangani satu rumah tangga dalam satu waktu."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -94,6 +369,44 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Sebuah platform online penting yang didedikasikan untuk membantu dan membela individu LGBTQ+ yang menghadapi penganiayaan dan kekerasan di seluruh dunia. Dengan komitmen yang tidak goyah, website ini menghubungkan mereka yang berada dalam bahaya langsung ke sumber daya penyelamatan hidup, bantuan darurat, dan jalur aman ke keamanan. Melalui kemitraan dengan organisasi lokal dan jaringan pendukung yang penuh belas kasih, RainbowRailroad.org bekerja tanpa lelah untuk menyediakan advokasi, bantuan hukum, dan dukungan relokasi, memungkinkan individu untuk kabur dari penganiayaan dan menemukan perlindungan. Dengan memperjuangkan hak asasi manusia, menyelamatkan hidup, dan mendorong dunia yang lebih inklusif, RainbowRailroad.org berfungsi sebagai mercusuar harapan dan perlindungan bagi individu LGBTQ+ yang mencari keamanan dan kebebasan."
+  },
+  {
+    "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",
+    "slug": "east-bay-trans-queer-counseling",
+    "externalUrl": "https://www.eastbaytranscounseling.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness"
+    ],
+    "email": "eastbaytranscounseling@gmail.com",
+    "address": "3099 Telegraph Ave, Berkeley, CA 94705, USA",
+    "phoneNumber": "781-775-7802",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Berkeley",
+    "county": "Alameda County",
+    "latLng": [
+      37.8538725,
+      -122.2596505
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "East Bay Trans & Queer Counseling",
+    "description": "East Bay Trans & Queer Counseling menawarkan layanan skala bergerak yang mencakup: Terapi Individual yang berlokasi sentral di Berkeley, CA Dukungan melalui eksplorasi gender dan transisi Surat rekomendasi untuk hormon dan operasi Latihan profesional untuk penyedia layanan kesehatan mental, siswa, dan majikan. Sam Davis adalah seorang Pekerja Sosial Klinis Berlisensi (LCSW) transgender, genderqueer yang mengkhususkan diri dalam bekerja dengan remaja dan dewasa trans, queer, genderqueer, dan yang tidak sesuai gender. Mereka memiliki 16 tahun pengalaman sebagai penyedia layanan kesehatan mental di East Bay, termasuk fasilitasi kelompok dukungan sebaya, pendidikan komunitas di konferensi LGBTQI, dan 9 tahun praktik klinis dan konseling krisis dengan orang-orang yang sangat marginal untuk County of Alameda. Mereka adalah advokat yang kuat dan berkomitmen dengan sejarah panjang organisasi atas nama orang-orang yang termarginalisasi."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
@@ -112,5 +425,24 @@
     ],
     "title": "Peta Transgender",
     "description": "Transgendermap.com adalah sumber daya online yang bertujuan untuk memberikan informasi praktis dan panduan kepada orang yang sedang mempertanyakan identitas gender mereka atau berada di suatu tempat dalam spektrum transgender. Situs web ini mencakup berbagai topik seperti pemahaman terminologi transgender, proses transisi, masalah hukum, kesehatan, dan banyak cerita pribadi. Tujuannya adalah untuk membantu individu menavigasi perjalanan pribadi mereka dengan menyediakan 'peta' atau panduan untuk berbagai aspek identitas gender dan pengalaman transgender. Silakan kunjungi situs aslinya untuk informasi yang paling baru dan akurat."
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "Keluarga Trans",
+    "description": "Keluarga Trans menginspirasi harapan, meningkatkan pemahaman, dan menciptakan jalur yang terlihat untuk mendukung anak-anak trans dan beragam gender serta semua orang yang menyentuh hidup mereka. Kami menyediakan sumberdaya, mengorganisir acara, dan menghubungkan keluarga ke grup dukungan."
   }
 ]
