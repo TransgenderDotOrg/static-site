@@ -121,6 +121,31 @@
     "description": "జెండర్ డిస్ఫోరియా గురించి జ్ఞానం, మద్దతు, మరియు అర్ధం శోధిస్తున్న వ్యక్తులకు విశ్వసనీయ ఆన్‌లైన్ జాబితా. వారి వెబ్‌సైట్ సమాచారం, వనరులు మరియు సముదాయ అనుబంధాలను అందించి, వ్యక్తులను వారి ప్రయాణంలో సమర్థించేందుకు రాణిస్తుంది. జెండర్ గుర్తింపు మరియు మార్పును గురించి సమగ్ర మార్గదర్శకాల నుంచి వ్యక్తిగత కథలు మరియు నిపుణుల సలహాల వరకు, వారు అన్నివారికీ సురక్షితమైన మరియు సమగ్రత స్థానం సృష్టించడానికి సాధిస్తుంది."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "యూనిటేరియన్ యూనివర్శలిస్ట్ అసోసియేషన్",
+    "description": "న్యాయం, ప్రేమ, నేర్చుకోవడం, ఆశ కలగని జీవితాలను నడిపించే వ్యక్తులకు మద్దతు పెట్టే ముగ్గురు-ముగ్గురుగా, ఉదార మనస్సు ఉంచే ఆధ్యాత్మిక సంఘం. ఈ సంఘం వైవిధ్యాలను, అదనపుగా ట్రాన్స్‌జెండర్ సముదాయాన్ని, స్వీకరిస్తుంది మరియు న్యాయకార్యాల్లో సాక్రియ పాల్పడతను ప్రేరేపిస్తుంది. వివిధ సామాజిక సమస్యలకు వనరులు, మద్దతు మరియు అభిప్రేతిని అందిస్తుంది."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "ఈ వెబ్‌సైట్ ఫ్లోరిడాలో వారి పేరు లేదా లింగాన్ని నవీకరించడానికి క్రమవర మార్గదర్శనను అందిస్తుంది. ఈ పద్ధతులు కోర్టులో ఫిర్యాదు నమోదు చేసేందుకు, సామాజిక భద్రతా కార్డు, డ్రైవర్ లైసెన్స్, పాస్పోర్ట్, మరియు జనన ప్రమాణ పత్రం అప్‌డేట్ చేసేందుకు ఉంటాయి."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ట్రాన్స్ లైఫ్లైన్",
+    "description": "ట్రాన్స్ లైఫ్‌లైన్ అనేది సహకారి సమర్థన మరియు ట్రాన్స్‌జెండర్ సముదాయానికి వనరులను అందించే ట్రాన్స్-నేతృత్వ సంస్థ. సముదాయ మద్దతు, మైక్రోగ్రాంట్లు మరియు హాట్లైన్‌పై దృష్టిపేట్టి, వారు ట్రాన్స్ మందికి అవసరమైన కనెక్షన్లు మరియు వనరులను అందించడానికి దానిని లక్ష్యించారు. ట్రాన్స్ లైఫ్‌లైన్, #SafeHotlines వంటి ప్రాధాన్యతల ద్వారా ట్రాన్స్ సముదాయానికి ప్రతిపాదన చేస్తుంది."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "ఈస్ట్ బే ట్రాన్స్ & క్వీర్ కౌన్సిలింగ్",
     "description": "మధ్యమమైన బర్కలీ, CA లో దొరికే వ్యక్తిగత చికిత్సను కలిపిన నమోదు చేసే సేవలు ఈస్ట్ బే ట్రాన్స్ & క్వీర్ కౌన్సిలింగ్ అందిస్తుంది: లింగ అన్వేషణ మరియు మార్పుకు మద్దతు. హార్మోన్స్ మరియు శస్త్రచికిత్స కోసం సిఫారసు లేఖలు. మానసిక ఆరోగ్య సరఫరాదారులు, విద్యార్థులు, ఉద్యోగిస్తుల కోసం ప్రొఫెషనల్ శిక్షలు. సామ్ డేవిస్ ఒక ట్రాన్స్జెండర్, జెండర్క్వీర్ లైసెన్సింగ్ క్లినికల్ సోషల్ వర్కర్ (LCSW) ఆరుటు, ట్రాన్స్, క్వీర్, జెండర్క్వీర్, మరియు జెండర్-నాన్ కంఫార్మింగ్ కిశోరులు మరియు వయోధికమైన వ్యక్తులతో పనిచేసే ప్రత్యేకతతో. ఈస్ట్ బేలో అందుబాటులో మానసిక ఆరోగ్య సరఫరాదారుగా 16 సంవత్సరాల అనుభవం ఉంది, అతనిలో పీర్ మద్దతు సమూహ ప్రేరేణ, LGBTQI సమ్మేళనలలో సముదాయ విద్యానివేతన, ఆలమేడా కౌంటీ కోసం గూడితట్టిన ప్రజలుతో క్లినికల్ చికిత్సా మరియు సంకట కౌన్సిలింగ్తో పాటు 9 సంవత్సరాలు. వేలకు గురుచేతులుగా పనిచే సౌకర్యమైన ప్రత్యేక హక్కుబాధులు."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "ఫ్లోరిడా యొక్క పెద్ద LGBTQ లోపల సంస్థ, సురక్షిత మరియు ఆరోగ్యకర పాఠశాలలు, LGBTQ ఆరోగ్య సమానత, HIV లోపల మహిళా సేవలు, LGBTQ రక్షణలు మరియు మరిన్ని కొనసాగిస్తోంది. ఈ సంస్థ వివిధ ఈవెంట్స్ నిర్వహిస్తుంది మరియు స్వేచ్ఛ బహుత్వాన్ని రక్షించింది, ట్రాన్స్జెండర్ ఆరోగ్య పరిశోధనల కోసం తోడ్పాటు చేస్తోంది."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

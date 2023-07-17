@@ -121,6 +121,31 @@
     "description": "Sebuah sumber daya online tepercaya untuk individu yang mencari pengetahuan, dukungan, dan pemahaman tentang disforia gender. Situs web mereka menyediakan berbagai informasi, sumber daya, dan koneksi komunitas untuk memberdayakan individu dalam perjalanan mereka. Dari panduan komprehensif tentang identitas gender dan transisi hingga cerita pribadi dan saran ahli, mereka berusaha menciptakan ruang yang aman dan inklusif untuk semua."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "Asosiasi Unitarian Universalis",
+    "description": "Komunitas spiritual yang berpikiran terbuka dan berhati terbuka yang mendukung orang-orang dalam menjalani kehidupan keadilan, cinta, belajar, dan harapan. Komunitas ini merangkul keragaman termasuk komunitas transgender dan mendorong partisipasi aktif dalam tindakan keadilan. Mereka juga menawarkan sumber daya, dukungan dan advokasi untuk berbagai masalah sosial."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "Situs web ini menyediakan panduan langkah demi langkah untuk mereka yang ingin memperbarui nama atau jenis kelamin mereka di Florida. Langkah-langkah tersebut termasuk mengajukan permohonan di pengadilan, dan memperbarui kartu Jaminan Sosial, lisensi pengemudi, paspor, dan akta kelahiran."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline adalah organisasi yang dipimpin oleh trans yang menawarkan dukungan sebaya dan sumber daya untuk komunitas transgender. Dengan fokus pada dukungan komunitas, mikrogrant, dan hotline, mereka bertujuan untuk menyediakan orang trans dengan koneksi dan sumber daya yang mereka butuhkan untuk berkembang. Trans Lifeline juga berjuang untuk komunitas trans melalui inisiatif seperti #SafeHotlines."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "East Bay Trans & Queer Counseling",
     "description": "East Bay Trans & Queer Counseling menawarkan layanan skala bergerak yang mencakup: Terapi Individual yang berlokasi sentral di Berkeley, CA Dukungan melalui eksplorasi gender dan transisi Surat rekomendasi untuk hormon dan operasi Latihan profesional untuk penyedia layanan kesehatan mental, siswa, dan majikan. Sam Davis adalah seorang Pekerja Sosial Klinis Berlisensi (LCSW) transgender, genderqueer yang mengkhususkan diri dalam bekerja dengan remaja dan dewasa trans, queer, genderqueer, dan yang tidak sesuai gender. Mereka memiliki 16 tahun pengalaman sebagai penyedia layanan kesehatan mental di East Bay, termasuk fasilitasi kelompok dukungan sebaya, pendidikan komunitas di konferensi LGBTQI, dan 9 tahun praktik klinis dan konseling krisis dengan orang-orang yang sangat marginal untuk County of Alameda. Mereka adalah advokat yang kuat dan berkomitmen dengan sejarah panjang organisasi atas nama orang-orang yang termarginalisasi."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "Organisasi advokasi LGBTQ terbesar di Florida yang bekerja menuju sekolah yang aman dan sehat, kesetaraan kesehatan LGBTQ, advokasi HIV, perlindungan LGBTQ, dan lainnya. Organisasi ini mengadakan berbagai acara dan telah mendapatkan dukungan pro-kesetaraan, berkontribusi pada hibah perawatan kesehatan transgender."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

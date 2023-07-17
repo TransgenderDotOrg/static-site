@@ -121,6 +121,31 @@
     "description": "一个值得信赖的在线资源，供寻求有关性别焦虑的知识、支持和理解的个体使用。他们的网站提供了丰富的信息、资源和社区联系，以使个体在其旅程中得到赋权。从全面的性别认同和过渡指南，到个人故事和专家建议，他们力争为所有人创造一个安全包容的空间。"
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "自由基督教会全国协会",
+    "description": "这是一个开明,胸怀广阔的精神社区，支持人们以正义、爱心、学习和希望引领生活。社区接纳多元性，包括跨性别社区，并鼓励积极参与正义行动。他们还为各种社会问题提供资源、支持和倡导。"
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "此网站为想在佛罗里达州更新姓名或性别的人提供逐步指导。步骤包括在法院提出申请，并更新社会保障卡，驾驶执照，护照和出生证明。"
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline是一个由跨性别人士领导的组织，为跨性别社区提供同伴支持和资源。他们专注于社区支持、微型资助和热线服务，旨在为跨性别人员提供他们需要的联系和资源以便繁荣发展。Trans Lifeline还通过诸如#SafeHotlines等倡议为跨性别社区进行倡导。"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "东湾跨性别与酷儿咨询",
     "description": "东湾跨性别与酷儿咨询提供滑动比例服务，包括：位于伯克利，CA的个人治疗，支持性别探索和过渡，为激素和手术提供推荐信，为心理健康提供者，学生和雇主提供专业培训。Sam Davis 是一位跨性别的，酷儿的持照临床社会工作者(LCSW)，专门为跨性别，酷儿，酷儿，和性别不形式的青少年和成年人提供专业服务。他们有16年作为东湾地区的心理健康提供者的经验，包括促进同行支持小组，LGBTQI大会的社区教育，以及9年为阿拉米达县严重边缘化的人提供临床实践和危机咨询。他们是一位有着长期为边缘化人群组织的坚强而坚定的倡导者。"
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "佛罗里达平等",
+    "description": "佛罗里达州最大的LGBTQ倡导组织，致力于实现安全健康的学校，LGBTQ健康公平，HIV倡导，LGBTQ保护等更多工作。该组织举办各种活动并已获得了支持平等的支持，为跨性别医疗保健基金做出了贡献。"
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

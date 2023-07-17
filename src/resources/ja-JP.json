@@ -121,6 +121,31 @@
     "description": "ジェンダー違和症について知識を求め、サポートを必要としている個々のための信頼できるオンラインリソースです。彼らのウェブサイトは情報、リソース、コミュニティとのつながりを提供し、個々の旅を強化します。ジェンダーアイデンティティとトランジションに関する包括的なガイドから個人の話や専門家のアドバイスまで、すべての人に対する安全で包括的なスペースを作り出すことを目指しています。"
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "ユニタリアンユニバーサリスト協会",
+    "description": "公正、愛、学習、希望に満ちた生活を送る人々を支援する、心と心が開かれた精神的コミュニティです。このコミュニティは多様性を包括し、トランスジェンダーコミュニティを含め、公正な行為に積極的に参加することを奨励しています。さらに、さまざまな社会問題に対するリソース、支援、提唱も提供しています。"
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "このウェブサイトは、フロリダで自分の名前や性別を更新したい方向けの段階的なガイダンスを提供します。手続きには、裁判所に嘆願書を提出し、社会保障カード、運転免許証、パスポート、出生証明書を更新することが含まれます。"
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifelineは、トランスジェンダーコミュニティのための仲間のサポートとリソースを提供するトランスが主導する組織です。コミュニティーサポート、マイクログラント、ホットラインに焦点を当て、彼らはトランスの人々が繁栄するために必要なつながりとリソースを提供することを目指しています。Trans Lifelineはまた、#SafeHotlinesなどの取り組みを通じて、トランスコミュニティのために提唱します。"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "イーストベイ トランス & クィア カウンセリング",
     "description": "イーストベイ トランス & クィア カウンセリングは、以下のようなスライディングスケールのサービスを提供しています: バークレー、CAに位置する個人療法、ジェンダーの探求と移行を通じたサポート、ホルモンや手術の推薦状、精神保健提供者、学生、雇用者向けの専門トレーニング。サム・デイビスは、トランスジェンダー、ジェンダークィアのライセンスを持つ臨床社会福祉士（LCSW）で、トランスジェンダー、クィア、ジェンダークィア、ジェンダー非適合の10代と大人との勤務に特化しています。彼らは、イーストベイの精神保健プロバイダーとして16年の経験を持ち、LGBTQIカンファレンスでのコミュニティ教育、アラメダ郡での発達した人々への臨床実践と危機カウンセリング9年、ピアサポートグループの促進を含みます。彼らは、マージナル化された人々を代表しての長期間に及ぶ組織化の歴史を持つ強力で専念した支持者です。"
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "イクオリティフロリダ",
+    "description": "フロリダ州最大のLGBTQ提唱団体で、安全で健康的な学校、LGBTQの健康平等、HIVアドボカシー、LGBTQ保護などに向けて取り組んでいます。この組織は様々なイベントを開催し、プロイクオリティサポートを確保し、トランスジェンダーの医療助成金に貢献しています。"
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

@@ -121,6 +121,31 @@
     "description": "Надежный онлайн-ресурс для людей, ищущих знания, поддержку и понимание вопроса гендерной дисфории. Их веб-сайт предлагает множество информации, ресурсов и связей с сообществом, чтобы помочь людям в их путешествии. От всесторонних руководств по гендерной идентичности и переходу к персональным историям и советам экспертов, они стремятся создать безопасное и включающее пространство для всех."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "Ассоциация Унитарных Универсалистов",
+    "description": "Открытое для новых взглядов и отзывчивое духовное сообщество, поддерживающее людей в ведении жизни справедливости, любви, обучения и надежды. Сообщество принимает разнообразие, включая трансгендерное сообщество, и поощряет активное участие в актах справедливости. Они также предлагают ресурсы, поддержку и защиту различных социальных вопросов."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "Этот веб-сайт предоставляет пошаговое руководство для тех, кто хочет обновить свое имя или пол во Флориде. Шаги включают подачу иска в суд и обновление карты социального обеспечения, водительских прав, паспорта и свидетельства о рождении."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline - это организация под руководством трансгендеров, предлагающая поддержку сверстников и ресурсы для трансгендерного сообщества. С акцентом на поддержку сообщества, микрогранты и горячую линию, они стремятся предоставить трансгендерным людям связи и ресурсы, необходимые для процветания. Trans Lifeline также отстаивает интересы трансгендерного сообщества через такие инициативы, как #SafeHotlines."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "East Bay Trans & Queer Counseling",
     "description": "East Bay Trans & Queer Counseling предлагает услуги по скользящей шкале, которые включают: индивидуальную терапию, расположенную в центре Беркли, штат Калифорния, поддержка в процессе исследования гендерной проблематики и перехода, рекомендательные письма по поводу гормонов и операции, профессиональные тренинги для специалистов по психическому здоровью, студентов и работодателей. Сэм Дэвис - трансгендер, гендерквир, лицензированный клинический социальный работник (LCSW), специализирующийся на работе с трансгендерами, квир, гендерквир и подростками и взрослыми, не соответствующими гендерным стереотипам. У них 16 лет опыта работы в области психического здоровья в East Bay, включая проведение групповых занятий по поддержке сверстников, общественное образование на конференциях ЛГБТКИ и 9 лет клинической практики и кризисного консультирования сильно маргинализированных людей для округа Аламеда. Они являются сильным и преданным защитником с долгой историей организации в интересах маргинализированных людей."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "Крупнейшая во Флориде организация, защищающая права ЛГБТК, и работающая над всеми аспектами безопасности и здоровья в школах, справедливостью в сфере здравоохранения ЛГБТК, защитой от ВИЧ, защитой прав ЛГБТК и многим другим. Организация проводит различные мероприятия и обеспечивает поддержку в пользу равенства, внося вклад в предоставление грантов на здравоохранение трансгендеров."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

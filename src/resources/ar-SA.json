@@ -121,6 +121,31 @@
     "description": "مورد موثوق على الإنترنت للأفراد الذين يبحثون عن المعرفة، والدعم، والتفهم حول اضطراب الهوية الجنسية. يوفر موقعهم الإلكتروني ثروة من المعلومات والموارد وروابط المجتمع لتمكين الأفراد في رحلتهم. من الدلائل الشاملة حول الهوية الجنسية والانتقال إلى القصص الشخصية والنصائح الخبيرة، يسعون إلى خلق مساحة آمنة وشاملة للجميع."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "جمعية الوحدانية اليونيتارية",
+    "description": "مجتمع روحي بفتح العقل والقلب يدعم الأشخاص في قيادة حياة العدل والحب والتعلم والأمل. يشمل المجتمع التنوع بما في ذلك المجتمع عبر الجنسين ويشجع على المشاركة الفعالة في أعمال العدل. كما أنهم يقدمون الموارد والدعم والدعوة للعديد من القضايا الاجتماعية."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "تُقدم هذه الموقع إرشادًا خطوة بخطوة للأشخاص الذين يرغبون في تحديث اسمهم أو جنسهم في فلوريدا. تشمل الخطوات تقديم عريضة في المحكمة، وتحديث بطاقة الضمان الاجتماعي، ورخصة القيادة، والجواز، وشهادة الميلاد."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "خط الرعاية للمتحولين جنسيا",
+    "description": "خط الرعاية للمتحولين جنسيا هو منظمة تقودها الجماعة المتحولة جنسيا وتقدم الدعم المتبادل والموارد للمجتمع المتحول جنسيا. مع التركيز على الدعم المجتمعي والمنح الدقيقة والخط الساخن، هدفهم تقديم الاتصالات والموارد التي يحتاجها الأشخاص المتحولون جنسيا للإزدهار. كما يدافع خط الرعاية للمتحولين جنسيا عن المجتمع المتحول جنسيا من خلال مبادرات مثل #SafeHotlines."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "استشارات East Bay Trans وQueer",
     "description": "تقدم استشارات East Bay Trans & Queer خدمات بمقياس متزلج تشمل: العلاج الفردي والذي يقع في موقع مركزي في بيركلي، كاليفورنيا. الدعم من خلال استكشاف الجنس والانتقال، رسائل توصية للهرمونات والجراحة، وتدريبات مهنية لمقدمي الرعاية الصحية النفسية، الطلاب، وأصحاب العمل. سام ديفيس هو عامل اجتماعي سريري مرخص ، محول جنسيا ، وهو مختص في العمل مع المراهقين والبالغين الذين يظهرون كمثلي الجنس، المثليين، المحولين جنسيا، والذين لا يحددون جنسهم. لديهم 16 عامًا من الخبرة كمقدم للرعاية الصحية العقلية في East Bay، بما في ذلك تسهيل دعم مجموعات الأقران، والتعليم المجتمعي في المؤتمرات LGBTQI، و9 سنوات من الممارسة السريرية والاستشارة في الأزمات مع الأشخاص المهمشين بشدة لمقاطعة ألاميدا. إنهم مدافع قوي وملتزم لديه تاريخ طويل في التنظيم نيابة عن الأشخاص المهمشين."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "مساواة فلوريدا",
+    "description": "أكبر منظمة دعوية لـ LGBTQ في فلوريدا تعمل نحو توفير مدارس آمنة وصحية، والمساواة في الرعاية الصحية لـ LGBTQ، والدعوة إلى حقوق مرضى فيروس الإيدز، وحماية حقوق LGBTQ، وأكثر. تقيم المنظمة أحداثا متنوعة وكانت قد حققت تأييد موال للمساواة، وتساهم نحو منح الرعاية الصحية للأشخاص المتحولين جنسيا."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

@@ -121,6 +121,31 @@
     "description": "Надійний онлайн-ресурс для людей, які шукають знання, підтримку та розуміння гендерної дисфорії. Їх веб-сайт надає багато інформації, ресурсів та зв'язків з громадою, щоб заохочувати людей у їхньому шляху. Від всеосяжних посібників про гендерну ідентичність та перехід до особистих історій та професійних порад, вони прагнуть створити безпечне та інклюзивне середовище для всіх."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "Асоціація Юнітарійських Універсалістів",
+    "description": "Толерантна, сердечна духовна спільнота, що підтримує людей у житті, сповненому справедливості, любові, навчання та надії. Ця спільнота різноманітна, вона включає трансгендерну спільноту і заохочує активну участь у діях на пошану справедливості. Вони також пропонують ресурси, підтримку і заступництво в різноманітних соціальних питаннях."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "Цей вебсайт надає покрокову інструкцію для тих, хто хоче оновити своє ім'я або стать в штаті Флорида. Кроки включають подачу петиції в суд, а також оновлення картки соціального захисту, водійського посвідчення, паспорту та свідоцтва про народження."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline - це організація, керована трансгендерними людьми, яка пропонує одноліткам підтримку та ресурси спільноти трансгендерів. Зосереджуючись на підтримці спільноти, мікрогрантах та гарячій лінії, вони прагнуть забезпечити трансгендерних людей необхідними зв'язками та ресурсами для процвітання. Trans Lifeline також заступається за інтереси трансгендерної спільноти через такі ініціативи, як #SafeHotlines."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "Східна Затока - Рада Транс і Квір",
     "description": "Центр \"Східна Затока - Рада для Транс і Квір\" пропонує послуги за скальованими цінами, які включають: Індивідуальну терапію, що знаходиться в центрі Берклі, штат Каліфорнія, підтримку в процесі дослідження гендерної самоідентифікації та переходу, рекомендаційні листи для прийому гормонів і проведення операцій, професійні навчання студентам, роботодавцям та працівникам у сфері психічного здоров'я. Сем Девіс - трансгендер, що відносять себе до гендерно-квир, та ліцензований клінічний соціальний працівник (LCSW), спеціалізований на роботі з транс, квір, гендерно-квір та невизначеними за статтю підлітками та дорослими. Вони мають 16 років досвіду роботи в сфері психічного здоров'я у Східній Затоці, включаючи проведення групових занять з підтримки однолітків, спільнотна освіта на конференціях LGBTQI, та 9 років клінічної практики та кризового консультування сильно маргіналізованих людей для округу Аламеда. Вони є сильним та відданим захисником з довгою історією організації в захист маргіналізованих людей."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Рівність Флориди",
+    "description": "Найбільша в Флориді організація захисту прав ЛГБТК+, яка працює над забезпеченням безпеки та здоров'я у школах, рівності у сфері охорони здоров'я ЛГБТК+, захисту від ВІЛ, захисту прав ЛГБТК+ та багато чого іншого. Організація проводить різноманітні заходи і отримала підтримку на користь рівності, сприяючи наданню грантів на охорону здоров'я трансгендерів."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

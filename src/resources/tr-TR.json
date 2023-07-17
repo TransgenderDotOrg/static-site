@@ -121,6 +121,31 @@
     "description": "Cinsiyet disforisi hakkında bilgi, desteğe ve anlamaya ihtiyaç duyan kişiler için güvenilir bir online kaynak. Web siteleri, bireylerin yolculuklarına güç vermek için çok sayıda bilgi, kaynak ve topluluk bağlantısı sağlar. Cinsiyet kimliği ve geçişe dair kapsamlı rehberlerden kişisel hikayelere ve uzman tavsiyelerine kadar, tüm kişiler için güvenli ve kapsayıcı bir alan yaratmayı hedefliyorlar."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "Unitarian Universalist Association",
+    "description": "Adalet, sevgi, öğrenme ve umut dolu bir yaşam sürme konusunda insanlara destek veren açık fikirli ve açık kalpli bir ruhani topluluk. Bu topluluk, transgender topluluğu da dahil olmak üzere çeşitliliği kucaklar ve adaletin etkin bir şekilde yerine getirilmesi için teşvik eder. Ayrıca çeşitli toplumsal sorunlar için kaynaklar, destek ve savunma hizmetleri sunarlar."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "Bu web sitesi, Florida'da adlarını veya cinsiyetlerini güncellemek isteyenler için adım adım rehber sunmaktadır. Adımlar, mahkemede dilekçe verme ve Sosyal Güvenlik kartı, sürücü belgesi, pasaport ve doğum belgesini güncelleme işlemlerini içerir."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline, trans bireylerin önderlik ettiği, transgender topluluğuna akran desteği ve kaynaklar sunan bir organizasyondur. Topluluk desteği, mikro hibeler ve bir yardım hattı üzerine odaklanarak, trans bireylerin gelişmeleri için ihtiyaç duydukları bağlantıları ve kaynakları sağlama hedefindedir. Trans Lifeline ayrıca #SafeHotlines gibi girişimler aracılığıyla trans topluluğu için savunma yapmaktadır."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "East Bay Trans & Queer Danışmanlık",
     "description": "East Bay Trans & Queer Danışmanlık, merkezi Berkeley, CA'da bulunan bireysel terapi sunan, cinsiyet keşfi ve geçiş desteği, hormonlar ve cerrahi için tavsiye mektubu, akıl sağlığı sağlayıcıları, öğrenciler ve işverenler için profesyonel eğitimler sunan bir slayt ölçekli hizmetler sunar. Sam Davis, trans, queer, cinsiyetçi, cinsiyet-uyumsuz gençler ve yetişkinlerle çalışmada uzmanlaşmış bir Lisanlı Klinik Sosyal Çalışmacı (LCSW)'dır. East Bay'de bir akıl sağlığı sağlayıcısı olarak 16 yıllık tecrübeye sahiptirler, bu da LGBTQI konferanslarındaki topluluk eğitimi ve Alameda Eyaleti için ağır bir şekilde marjinalleştirilmiş insanlarla klinik uygulama ve kriz danışmanlığı yapmayı içerir. Marjinalleştirilmiş insanlar adına örgütlenme konusunda uzun bir geçmişe sahip güçlü ve kararlı bir savunucu olan Sam, aynı zamanda diğerleri için bilgilendirici bir rol modeldir."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "Florida'nın en büyük LGBTQ savunuculuk organizasyonu, güvenli ve sağlıklı okullar, LGBTQ sağlık eşitliği, HIV savunuculuğu, LGBTQ korumaları ve daha fazlasına yönelik çalışmaktadır. Organizasyon çeşitli etkinlikler düzenlemekte ve transgender sağlık hizmetleri hibelerine katkıda bulunarak pro-eşitlik destekleri sağlamıştır."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

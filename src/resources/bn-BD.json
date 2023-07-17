@@ -121,6 +121,31 @@
     "description": "লিঙ্গ বিপর্যয়ের বিষয়ে জ্ঞান, সমর্থন এবং বোধের জন্য যজ্ঞসুযোগ্য অনলাইন উৎস। তাদের ওয়েবসাইট তথ্যের সম্পদ, সম্পদ এবং সম্প্রদায় সম্পর্ক সরবরাহ করে যা ব্যক্তিদের তাদের যাত্রায় সশক্ত করে তোলে। লিঙ্গ পরিচয় এবং পরিবর্তনের সম্পূর্ণ নির্দেশিকা থেকে ব্যক্তিগত গল্প এবং বিশেষজ্ঞদের পরামর্শ পর্যন্ত, তারা সবার জন্য নিরাপদ এবং অন্তর্ভুক্ত স্থান তৈরি করার চেষ্টা করেন।"
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "ইউনিটেরিয়ান ইউনিভার্সালিস্ট অ্যাসোসিয়েশন",
+    "description": "একটি উন্মুক্ত-মনের, উন্মুক্ত-হৃদয়ের আধ্যাত্মিক সম্প্রদায় যা ব্যক্তিদের ন্যায়, ভালোবাসা, শেখার এবং আশা নিয়ে জীবনযাপন করতে সহায়তা করে। সম্প্রদায়টি বৈচিত্র্যময়তা, যেমন ট্রান্সজেন্ডার সম্প্রদায়, গ্রহণ করে এবং ন্যায়ের জন্য সক্রিয় অংশগ্রহণটি উৎসাহিত করে। তারা বিভিন্ন সামাজিক সমস্যা জনিত সহায়তা, সমর্থন এবং অভিযোগের জন্য সংস্থানগুলিও প্রদান করে।"
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "এই ওয়েবসাইটটি যাদের ফ্লোরিডায় নিজের নাম বা লিঙ্গ আপডেট করতে চান তাদের জন্য ধাপে ধাপে নির্দেশনা প্রদান করে। এই ধাপগুলোর মধ্যে কোর্টে একটি পেটিশন দায়ের করা, এবং সামাজিক নিরাপত্তি কার্ড, ড্রাইভার লাইসেন্স, পাসপোর্ট এবং জন্ম সনদপত্র আপডেট করা অন্তর্ভুক্ত।"
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline একটি ট্রান্স-নেতৃত্বাধীন সংস্থা যা ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সহযোগী সমর্থন এবং সম্পদ সরবরাহ করে। সম্প্রদায় সমর্থন, মাইক্রোগ্র্যান্ট এবং একটি হটলাইনে মনোনিবেশ করে, তারা এমন সংযোগ এবং সম্পদ তৈরি করার লক্ষ্য করে যা ট্রান্স মানুষের জিবিকা বিশিষ্ট করতে পারে। Trans Lifeline এছাড়াও #SafeHotlines এর মতো ইনিশিয়েটিভগুলির মাধ্যমে ট্রান্স সম্প্রদায়ের জন্য মনোনীত করে।"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "ইস্ট বে ট্রান্স এন্ড কোয়ার কাউন্সেলিং",
     "description": "ইস্ট বে ট্রান্স এন্ড কোয়িয়ার কাউন্সেলিং এ সার্বিকভাবে অনুসারী সেবা অন্তর্ভুক্ত করে: বার্কলেয়, ক্যালিফোর্নিয়ায় কেন্দ্রভূতভাবে ব্যক্তিগত চিকিত্সা জেন্ডার এক্সপ্লোরেশন এবং ট্র্যান্সিশনের মাধ্যমে সহায়তা হরমোন এবং সার্জারীর জন্য সুপারিশপত্র মানসিক স্বাস্থ্য পরিদর্শকদের, ছাত্রদের এবং কর্মচারীদের জন্য পেশাদার প্রশিক্ষণ। স্যাম ডেভিস একজন ট্রান্সজেন্ডার, জেন্ডারকেয়ার লাইসেন্সড ক্লিনিক্যাল সোশ্যাল ওয়ার্কার (LCSW) যারা ট্রান্স, কোয়ার, জেন্ডারকেয়ার এবং জেন্ডার-অ্যানকনফরমিং কিশোর এবং প্রাপ্তবয়স্কদের সাথে কাজ করার মেয়াদি বিশেষজ্ঞ। তাদের ইস্ট বেতে মানসিক স্বাস্থ্য পরিদর্শক হিসেবে 16 বছরের অভিজ্ঞতা রয়েছে, যার মধ্যে পিয়ার সমর্থন গ্রুপ সহায়তা, LGBTQI সম্মেলনে সম্প্রদায়ের শিক্ষা এবং আলামিডা কাউন্টির জন্য প্রাচীনতম মানুষদের সাথে ক্লিনিক্যাল প্র্যাক্টিস এবং সংকট কাউন্সেলিং-এ 9 বছরের পরিচিতি। তারা অব্যাহত প্রতিবাদী এবং সংগঠিত অব্যাহত অভিযানকারী যারা বিপন্ন মানুষের পক্ষে সংগঠন করেছেন।"
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "ফ্লোরিডার সবচেয়ে বড় এলজিবিটিকিউ অধিকার সংস্থা, যা নিরাপদ এবং স্বাস্থ্যকর স্কুল, এলজিবিটিকিউ স্বাস্থ্য সমানতা, এইচআইভি অভিযান, এলজিবিটিকিউ সুরক্ষা এবং আরও অনেক কিছুরতে কাজ করে চলেছে। সংস্থা বিভিন্ন ইভেন্ট করে এবং প্রো-সমানতা সমর্থন নিশ্চিত করে, ট্রান্সজেন্ডার স্বাস্থ্য সেবা অনুদানের দিকে অবদান রাখে।"
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

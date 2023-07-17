@@ -121,6 +121,31 @@
     "description": "성별 불안증에 대한 이해, 지지, 지식을 찾는 사람들을 위한 신뢰할 수 있는 온라인 자원입니다. 그들의 웹사이트는 개인이 자신의 여정을 강화할 수 있도록 정보, 자원, 그리고 커뮤니티 연결을 풍부하게 제공합니다. 성별 신원과 전환에 대한 포괄적인 가이드부터 개인 이야기와 전문가 조언에 이르기까지, 그들은 모든 사람을 위한 안전하고 포괄적인 공간을 만들기 위해 노력합니다."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "유니타리언 유니버셜리스트 협회",
+    "description": "정의, 사랑, 학습, 희망의 삶을 이끌 수 있도록 지원하는 개방적이고 포용적인 정신적 커뮤니티입니다. 이 커뮤니티는 트랜스젠더 커뮤니티를 포함한 다양성을 존중하고 정의의 행동에 적극적인 참여를 장려합니다. 또한 다양한 사회 문제에 대한 자료, 지원, 옹호를 제공합니다."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "이 웹사이트는 이름이나 성별을 플로리다에서 업데이트하려는 사람들을 위한 단계별 지침을 제공합니다. 이 단계에는 법원에 청원서를 제출하고, 사회보장 카드, 운전 면허증, 여권, 그리고 탄생 증명서를 업데이트하는 것이 포함됩니다."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline은 트랜스 제도를 주도하며 트랜스성 커뮤니티를 위한 동료 지원 및 자원을 제공하는 조직입니다. 커뮤니티 지원, 마이크로 그랜트, 핫라인에 초점을 맞추고 있으며, 이들은 트랜스 성 인사들이 번영할 수 있도록 그들이 필요로 하는 연결고리와 자원을 제공하려고 합니다. Trans Lifeline은 또한 #SafeHotlines와 같은 이니셔티브를 통해 트랜스 커뮤니티를 옹호합니다."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "East Bay Trans & Queer 상담",
     "description": "East Bay Trans & Queer 상담은 주요 위치인 버클리, CA에서 개별 치료, 성별 탐색 및 전환을 통한 지원, 호르몬과 수술을 위한 추천 편지, 정신 건강 제공자, 학생, 고용주를 위한 전문 교육을 포함하는 슬라이딩 스케일 서비스를 제공합니다. Sam Davis는 트랜스, 퀴어, 성별 제한적이고 성별을 비준수하는 청소년과 성인을 전문적으로 대하는 transgender, genderqueer Licensed Clinical Social Worker (LCSW)입니다. 그들은 동료 지원 그룹의 주관, LGBTQI 회의에서의 커뮤니티 교육, Alameda 카운티에서 심각한 사람들을 위한 9년 동안의 임상실습 및 위기 상담을 포함하여 East Bay에서 정신 건강 제공자로서 16년의 경험을 갖고 있습니다. 그들은 주변에 있는 사람들을 대신하여 조직하는 데 오랫동안 역사를 가진 강력하고 헌신적인 옹호자입니다."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "플로리다 최대 LGBTQ 옹호 단체로서 안전하고 건강한 학교, LGBTQ 건강 평등, HIV 옹호, LGBTQ 보호 등을 위해 노력하고 있습니다. 이 단체는 다양한 행사를 개최하며, 트랜스젠더 건강 관리 보조금에 기여하는 등 찬성 평등 지원을 확보하고 있습니다."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

@@ -121,6 +121,31 @@
     "description": "Un recurso en línea confiable para personas que buscan conocimiento, apoyo y comprensión sobre la disforia de género. Su sitio web proporciona una gran cantidad de información, recursos y conexiones comunitarias para empoderar a las personas en su viaje. Desde guías completas sobre identidad de género y transición hasta historias personales y consejos de expertos, se esfuerzan por crear un espacio seguro e inclusivo para todos."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "Asociación Unitaria Universalista",
+    "description": "Una comunidad espiritual de mente abierta y corazón abierto que apoya a las personas para llevar vidas de justicia, amor, aprendizaje y esperanza. La comunidad abraza la diversidad, incluyendo a la comunidad transgénero, y fomenta la participación activa en actos de justicia. También ofrecen recursos, apoyo y defensa para varios problemas sociales."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "Este sitio web proporciona una guía paso a paso para aquellos que desean actualizar su nombre o género en Florida. Los pasos incluyen presentar una petición en tribunal y actualizar la tarjeta de seguro social, licencia de conducir, pasaporte y certificado de nacimiento."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline es una organización liderada por trans que ofrece apoyo entre pares y recursos para la comunidad transgénero. Con un enfoque en el apoyo comunitario, las microsubvenciones y una línea directa, su objetivo es proporcionar a las personas trans las conexiones y recursos que necesitan para prosperar. Trans Lifeline también aboga por la comunidad trans a través de iniciativas como #SafeHotlines."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "Consejería Trans & Queer de East Bay",
     "description": "La Consejería Trans & Queer de East Bay ofrece servicios a escala móvil que incluyen: Terapia individual ubicada en el centro de Berkeley, CA. Apoyo a través de la exploración de género y la transición. Cartas de recomendación para hormonas y cirugía. Capacitaciones profesionales para proveedores de salud mental, estudiantes y empleadores. Sam Davis es un trabajador social clínico con licencia (LCSW) transgender, genderqueer que se especializa en trabajar con adolescentes y adultos trans, queer, genderqueer y que no se conforman con el género. Tienen 16 años de experiencia como proveedor de salud mental en East Bay, incluyendo la facilitación de grupos de apoyo entre pares, educación comunitaria en conferencias LGBTQI, y 9 años de práctica clínica y consejería en crisis con personas severamente marginadas para el Condado de Alameda. Son un defensor fuerte y comprometido con una larga historia de organización en nombre de las personas marginadas."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "La organización de defensa LGBTQ más grande de Florida que trabaja hacia escuelas seguras y saludables, equidad en salud LGBTQ, defensa del VIH, protecciones LGBTQ y más. La organización realiza varios eventos y ha asegurado apoyos pro-igualdad, contribuyendo a becas de atención médica para personas transgénero."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

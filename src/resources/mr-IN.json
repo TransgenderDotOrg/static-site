@@ -121,6 +121,31 @@
     "description": "लिंग असंतृप्तीबद्दल माहिती, समर्थन आणि समजूतदारी शोधणाऱ्या व्यक्तींसाठी एक विश्वसनीय ऑनलाईन संसाधन. त्यांची वेबसाइट माहिती, संसाधने आणि समुदाय संबंध यांची समृद्धता पुरविते एवढी की व्यक्तींच्या प्रवासावर त्यांचे सामर्थ्य वाढवण्याची त्यांच्याकडे क्षमता असते. लिंग पहचान आणि संकल्पनेवरील व्यापक मार्गदर्शक पासून स्वत:च्या संगणकांपर्यंत आणि तज्ज्ञांच्या सल्ल्यांपर्यंत, ते सर्वांसाठी सुरक्षित आणि समावेशक स्थान तयार करण्याचा प्रयत्न करतात."
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "युनिटेरियन यूनिवर्सलिस्ट संघ",
+    "description": "न्याय, प्रेम, ग्रंथपठन आणि आशा च्या जीवनाला समर्थन देणारी खुलेआत्मक, हृदयाची खुली असलेली आध्यात्मिक समुदाय. ह्या समुदायात विविधतेच्या सहाव्याचा स्वागत केला जातो, समावेशी तरुण यांचा समावेश असा समावेशी. त्यांनी विविध सामाजिक समस्यांसाठी संसाधने, मदत आणि समर्थन दिलेले आहे."
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "या वेबसाईटमध्ये फ्लोरिडातील त्यांचे नाव किंवा लिंग अद्ययावत करण्यासाठीच्या एका एका पायरीवर मार्गदर्शन दिलेले आहे. या पायर्‍यांमध्ये कोर्टात पिटीशन दाखल करणे, सोशल सिक्युरिटी कार्ड, ड्रायव्हर परवाना, पारपत्र आणि जन्म प्रमाणपत्र अद्ययावत करणे समाविष्ट आहे."
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline ही एक ट्रान्स-नेतृत्वांकित संघटना आहे जी ट्रान्सजेंडर समुदायासाठी समान पुरस्कार आणि संसाधने प्रदान करते. समुदाय समर्थन, मायक्रोग्रांट्स आणि हॉटलाईनवर लक्ष केल्याने, ते ट्रान्स लोकांना त्या सॅमर्थन आणि संसाधनांची आवश्यकता असलेली प्रदान करण्याचे लक्ष करतात. Trans Lifeline म्हणजेच #SafeHotlines सारख्या उपक्रमांमार्गी ट्रान्स समुदायासाठी समर्थन करते."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "पूर्व बे ट्रान्स आणि क्विअर सल्लागार",
     "description": "पूर्व बे ट्रान्स आणि क्विअर सल्लागार यांनी छुट्यावर सेवा प्रदान करण्याचे आव्हान केले आहे ज्यामध्ये समाविष्ट आहे: वैयक्तिक उपचार बर्कली सेंट्रल्लोकेटेड, CA मध्ये स्थानिकतेच्या माध्यमातून लिंग संस्कार औषधे आणि शल्यक्रियांसाठी सिफारस पत्र प्रोफेशनल ट्रेनिंग मानसिक आरोग्य प्रदाता, विद्यार्थी, औषधे आणि शल्यक्रियांसाठी सिफारस पत्र, विद्यार्थी, आणि कामगारांसाठी. सॅम डेव्हिस म्हणजे एक ट्रान्सजेंडर, जेंडरक्विअर लायसेन्स्ड क्लिनिकल सोशल वर्कर (LCSW) ज्यांचा विशेषज्ञता ट्रान्स, क्विअर, जेंडरक्विअर, आणि जेंडर-नॉनकन्फॉर्मिंग तरुणांच्या साथी काम करण्यात आहे. त्यांना पूर्व बे मधील मानसिक आरोग्य पुरवठादारांमध्ये 16 वर्षांचा अनुभव आहे, यामध्ये समर्थन समूह सुविधा, LGBTQI संमेलनांमधील समुदाय शिक्षण, आणि अलामेडा काउंटीसाठी गंभीरपणे वंचित माणसांच्या साथी वैयक्तिक अभ्यास आणि संकट सल्लागार सह 9 वर्षे आहेत. ते वंचित व्यक्तींच्या मतदारांमध्ये दीर्घकाळीन आयोजक आहेत."
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "समानता फ्लोरिडा",
+    "description": "फ्लोरिडाची सर्वात मोठी LGBTQ समर्थन संस्था जी सुरक्षित आणि निरोगी शाळांच्या दिशेने, LGBTQ आरोग्य समतोलन, HIV समर्थन, LGBTQ संरक्षण आणि अधिक काम करीत आहे. संस्थेने विविध कार्यक्रमांची वाटचाल केली आहे आणि त्याने ट्रान्सजेंडर आरोग्य देखभाल अनुदानांमध्ये योगदान केलेले समर्थन मिळवले आहे."
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",

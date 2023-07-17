@@ -121,6 +121,31 @@
     "description": "एक विश्वसनीय ऑनलाइन संसाधन जिन्हें लिंग असंतुष्टि के बारे में ज्ञान, समर्थन और समझ खोजने की जरूरत है। उनकी वेबसाइट सूचना, संसाधन और समुदाय संपर्क प्रदान करती है जो व्यक्तियों को उनके यात्रा में सशक्त बनाने में मदद करते हैं। लिंग पहचान और अवसंर्पण पर व्यापक मार्गदर्शिकाओं से लेकर व्यक्तिगत कहानियाँ और विशेषज्ञ सलाह तक, वे सभी के लिए सुरक्षित और समावेशी स्थान बनाने का प्रयास करते हैं।"
   },
   {
+    "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+    "slug": "unitarian-universalist-association",
+    "externalUrl": "https://www.uua.org/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "education-awareness",
+      "spiritual"
+    ],
+    "address": "24 Farnsworth St, Boston, MA 02210, USA",
+    "phoneNumber": "(617) 742-2100",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.35163259999999,
+      -71.04857050000001
+    ],
+    "email": "info@uua.org",
+    "socialMedia": null,
+    "title": "यूनिटेरियन यूनिवर्सलिस्ट संघ",
+    "description": "एक खुले विचारों वाले, खुले दिल के आध्यात्मिक समुदाय, जो लोगों को न्याय, प्रेम, ज्ञान और आशा की जिंदगी जीने में सहयोग देते हैं। समुदाय ट्रांसजेंडर समुदाय सहित विविधता को स्वीकारता है और न्याय के अभियानों में सक्रिय भागीदारी को बढ़ावा देता है। उनके पास विभिन्न सामाजिक मुद्दों के लिए संसाधन, समर्थन और वकालत भी उपलब्ध है।"
+  },
+  {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
     "slug": "movement-advancement-project",
     "externalUrl": "https://www.lgbtmap.org/",
@@ -483,6 +508,39 @@
     "description": "यह वेबसाइट उन लोगों के लिए चरण-दर-चरण मार्गदर्शन प्रदान करती है जो फ्लोरिडा में अपना नाम या लिंग अपडेट करना चाहते हैं। इन चरणों में कोर्ट में याचिका दायर करना, और सोशल सिक्योरिटी कार्ड, ड्राइवर लाइसेंस, पासपोर्ट और जन्म प्रमाणपत्र को अपडेट करना शामिल है।"
   },
   {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline एक ट्रांस-आगे वाली संगठन है जो ट्रांसजेंडर समुदाय के लिए साथी समर्थन और संसाधन प्रदान करती है। सामुदायिक समर्थन, माइक्रोग्रांट्स और एक हॉटलाइन पर ध्यान देते हुए, वे ट्रांस लोगों को उन्हें सफल होने के लिए जरूरी संबंध और संसाधन प्रदान करने का उद्देश्य रखते हैं। Trans Lifeline योजनाओं जैसे #SafeHotlines के माध्यम से ट्रांस समुदाय के पक्ष में भी समर्थन करती है।"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -712,6 +770,37 @@
     },
     "title": "ईस्ट बे ट्रांस और क्वीर काउंसलिंग",
     "description": "ईस्ट बे ट्रांस और क्वीर काउंसलिंग स्लाइडिंग स्केल सेवाएं प्रदान करती है जिनमें शामिल हैं: बर्केली, कैलिफोर्निया में केंद्रीय रूप से स्थित व्यक्तिगत चिकित्सा, लिंग अन्वेषण और संक्रमण के माध्यम से समर्थन हार्मोंस और सर्जरी के लिए सिफारिश पत्र मानसिक स्वास्थ्य प्रदाताओं, छात्रों, और नियोक्ताओं के लिए पेशेवर प्रशिक्षण। सैम डेविस एक ट्रांसजेंडर, जिनसान्य लाइसेंस्ड क्लिनिकल सोशल कार्यकर्ता (LCSW) है जो ट्रांस, क्वीर, जिनसान्य, और जेंडर-अनुरूपक युवाओं और वयस्कों के साथ काम करने में विशेषज्ञता रखते हैं। उनके पास ईस्ट बे में मानसिक स्वास्थ्य प्रदाता के रूप में 16 वर्षों का अनुभव है, जिसमें पीर समर्थन समूह संचालन, LGBTQI सम्मेलनों में समुदाय शिक्षा, और अलामेडा काउंटी के लिए गहरे तौर पर हाशिये की जनता के साथ नैनिक अभ्यास और संकट चिकित्सा के 9 वर्ष शामिल हैं। वे एक मजबूत और प्रतिबद्ध समर्थक हैं, जिनका हाशिये की जनता की ओर से संगठन करने का लंबा इतिहास है।"
+  },
+  {
+    "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+    "slug": "equality-florida",
+    "externalUrl": "https://www.eqfl.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "St. Petersburg",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "phoneNumber": "813-870-3735",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/equalityfl/",
+      "twitterUrl": "https://twitter.com/EqualityFlorida",
+      "instagramUrl": "https://www.instagram.com/equalityfl/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Equality Florida",
+    "description": "फ़्लोरिडा की सबसे बड़ी LGBTQ समर्थन संगठन जो सुरक्षित और स्वस्थ स्कूलों, LGBTQ स्वास्थ्य समानता, HIV समर्थन, LGBTQ सुरक्षाएँ और अधिक की ओर काम कर रही है। संगठन विभिन्न आयोजन करता है और ने समानता समर्थन, ट्रांसजेंडर स्वास्थ्य देखभाल अनुदान की ओर योगदान किया है।"
   },
   {
     "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
