@@ -1,14 +1,18 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "commonjs",
     "strict": true,
     "jsx": "react",
+    "module": "esnext",
     "esModuleInterop": true,
+    "moduleResolution": "node",
     "sourceMap": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": true
+  },
+  "ts-node": {
+    "esm": true
   },
   "include": ["src/**/*.ts", "src/**/*.tsx"]
 }

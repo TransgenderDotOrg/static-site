@@ -1,11 +1,23 @@
+import {
+  AddressType,
+  Client as GoogleMapsClient,
+} from "@googlemaps/google-maps-services-js";
 import puppeteer from "puppeteer";
 import fs from "fs";
-import { uuid } from "uuidv4";
+import { v4 } from "uuid";
 import { promisify } from "util";
 import { PromptTemplate } from "langchain/prompts";
 import { OpenAI } from "langchain/llms/openai";
 import path from "path";
+import { fileURLToPath } from "url";
+
 import languages from "../languages.json";
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
+
+const googleMapsClient = new GoogleMapsClient({});
 
 // Promisify fs methods for async/await usage
 const writeFile = promisify(fs.writeFile);
@@ -15,7 +27,7 @@ const INPUT_DIR = path.join(__dirname, "../intake");
 const model = new OpenAI({ modelName: "gpt-4" });
 const template = `{content}
 
-The above content was extracted from {url}. Convert the content into a JSON object. Here is the id of the content: {uuid}. Please wrap the output in triple backticks. Here is the JSON schema:
+The above content was extracted from {url}. Convert the content into a JSON object. Here is the id of the content: {uuid}. Please wrap the output in triple backticks. Use null when you cannot fill a field. Here is the JSON schema:
 
 \`\`\`
 {{
@@ -45,7 +57,7 @@ const translationPrompt = new PromptTemplate({
 const url = process.argv[2];
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ headless: "new" });
   const page = await browser.newPage();
 
   await page.goto(url);
@@ -91,7 +103,7 @@ const url = process.argv[2];
   // now we need to translate the text content into JSON
   // we will use GPT-4 for this
 
-  const id = uuid();
+  const id = v4();
 
   const input = await translationPrompt.format({
     url,
@@ -130,6 +142,63 @@ const url = process.argv[2];
 
   const fileName = `${id}.json`;
 
+  // if an address is provided, let's process it with Google Maps
+  if (translatedJsonObject.address) {
+    console.log(`Processing address: ${translatedJsonObject.address}...`);
+
+    const address = translatedJsonObject.address;
+
+    const geocodeResponse = await googleMapsClient.geocode({
+      params: {
+        key: process.env.GOOGLE_MAPS_API_KEY ?? "",
+        address: address,
+      },
+      timeout: 1000,
+    });
+
+    if (geocodeResponse.data.status === "OK") {
+      const country = geocodeResponse.data.results[0].address_components.find(
+        (component) => component.types.includes("country" as AddressType)
+      )?.short_name;
+
+      const provinceOrState = geocodeResponse.data.results[0].address_components.find(
+        (component) =>
+          component.types.includes("administrative_area_level_1" as AddressType)
+      )?.short_name;
+
+      const county = geocodeResponse.data.results[0].address_components.find(
+        (component) =>
+          component.types.includes("administrative_area_level_2" as AddressType)
+      )?.short_name;
+
+      const city = geocodeResponse.data.results[0].address_components.find(
+        (component) => component.types.includes("locality" as AddressType)
+      )?.short_name;
+
+      const town = geocodeResponse.data.results[0].address_components.find(
+        (component) => component.types.includes("sublocality" as AddressType)
+      )?.short_name;
+
+      const latLng = [
+        geocodeResponse.data.results[0].geometry.location.lat,
+        geocodeResponse.data.results[0].geometry.location.lng,
+      ];
+
+      const address = geocodeResponse.data.results[0].formatted_address;
+
+      translatedJsonObject = {
+        ...translatedJsonObject,
+        country,
+        provinceOrState,
+        county,
+        city,
+        town,
+        latLng,
+        address,
+      };
+    }
+  }
+
   await writeFile(
     path.join(INPUT_DIR, fileName),
     JSON.stringify(translatedJsonObject, null, 2)
@@ -137,3 +206,5 @@ const url = process.argv[2];
 
   console.log(`Wrote ${fileName} to ${INPUT_DIR}`);
 })();
+
+export {};

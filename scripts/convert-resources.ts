@@ -1,6 +1,11 @@
 import fs from "fs";
 import path from "path";
 import { promisify } from "util";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
@@ -55,3 +60,5 @@ const processJsonFiles = async () => {
 
 // Run the script
 processJsonFiles().catch(console.error);
+
+export {};
