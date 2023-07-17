@@ -1,0 +1,20 @@
+{
+  "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+  "title": "GOOD HOPE Metropolitan Community Church",
+  "description": "A theologically progressive and inclusive Christian community founded on the principles of Jesus Christ that celebrates diversity and provides a safe, non-judgmental space where all are welcome. Part of an inclusive Christian congregation based in Cape Town, South Africa and part of the larger international denomination known as Metropolitan Community Churches (MCC).",
+  "slug": "good-hope-metropolitan-community-church",
+  "externalUrl": "https://www.goodhopemcc.org",
+  "tags": ["spiritual"],
+  "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+  "phoneNumber": null,
+  "country": "ZA",
+  "provinceOrState": "WC",
+  "city": "Cape Town",
+  "county": "City of Cape Town Metropolitan Municipality",
+  "latLng": [-33.9605258, 18.474311],
+  "email": "secretary@goodhopemcc.org",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/goodhopemcc"
+  },
+  "town": "Rondebosch"
+}

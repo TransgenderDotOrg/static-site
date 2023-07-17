@@ -146,6 +146,36 @@
     "description": "ஜோர்டன் ரோஸ், பாலின மாற்றத்தைக் கொண்ட மக்களுக்கு பேச்சு, குரல் மற்றும் தொடர்பு கல்வி வழங்குகிறார். அவர் 1-மேல்-1 கல்வி, ஆன்லைன் வகுப்புகள், நிகழ்வுகள், மற்றும் 'வாய்ஸ் விதின் கோச்சிங் நிரல்' வழங்குகின்றார். அவரது முறைக் கலைநெறியாளர்தகையான நிர்மாணத்தை, நிகருத் ஆற்றல் கலை சிகிச்சையை, யோகா மாணவர் வழிகாட்டலை, மற்றும் மூச்சு நிலைப்பாடுகளைக் கொண்டு, தொடர்பின் உடற்கையேனும் ஆலோசிக்க மற்றும் மனத்தையும், உண்மையான மற்றும் ஆற்றலான பகுதிகளையும் முடிவுக்கு அழைக்க முயற்சி செய்கின்றார்."
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "ஜென்டர் டைனாமிக்ஸ் ஆன்லைன் கல்வி போர்ட்டல்",
+    "description": "ஜென்டர் டைனாமிக்ஸ் என்பது ஐரோப்பிய மையமான அலாபரிசி அமைப்புச் சார்பு கொண்டது, இது தென் ஆப்பிரிக்காவில் மற்றும் தென் ஆப்பிரிக்காவில் உள்ள டிரான்ஸ் மற்றும் பாலினர் வளர்ச்சி சமூகங்களின் மாநுட உரிமைகளை வளர்ப்பது, முன்னேற்றுதல், மற்றும் பாதுகாப்பு அமைப்பு அமைப்பு. அமைப்பு வலைவரி, இயக்குதல் மற்றும் நேரடி சேவைகளை சமூகத்திற்கு வழங்குகிறது. அவர்கள் உடல்நலம், கல்வி நிகழ்வுகள், மற்றும் சட்டவிரோத பாலினர் அங்கீகாரத்தை குறித்த ஆன்லைன் வளங்களையும் வழங்குகிறார்கள்."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "தேசிய மாறுபாலி சமமானத்துவ மையம்",
     "description": "தேசிய மாறுபாலி சமமானத்துவ மையம் என்பது மாறுபாலி மக்களை மேலும் உண்மையில் அறிய மற்றும் ஏற்றுறுத்தல் கிடைக்க விதிகள் மற்றும் சமூக முன்னோக்கி மேல் ஆதரவு கொடுத்து, மாறுபாலிக் குழு என்ற சமூகத்தின் மேல் விளைவிக்கும் பிரச்சினைகளுக்கு பற்றி தகவல்கள் வழங்குவதாகும் ஒரு அமைப்பு. அதில் முதுமையாக உள்ளது, வன்முறை எதிர்ப்பு, வேலை, குடும்பங்கள், சுகாதாரம் & HIV, வீடு & விழிப்புணர்வு, மேலும் பல."
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "இன்னர் சர்க்கிள்",
+    "description": "ஆன்மீகத்துவம், கல்வி மற்றும் இயக்கத்தை மூலம் பாலின அந்தர்த்தனை மற்றும் பாலியல் அடையாளம் ஆதாரமாக மதிக்கப்பட்ட முஸ்லிம்களுக்கு குணமாக்குவதை நோக்கி உலக முஸ்லிம் சமுதாயத்தை இலக்குவதற்கு இயங்கும்"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

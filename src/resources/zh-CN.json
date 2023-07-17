@@ -146,6 +146,36 @@
     "description": "乔丹·罗斯为跨性别者、酷儿和性别不符合社会规范的个人提供语言、声音和沟通技巧的指导。他提供一对一的指导、在线课程、活动，以及'内在声音指导项目'。他的方法结合了神经语言程序设计、催眠治疗、瑜伽指导和呼吸指导，旨在解决沟通中的物理、心理、情绪和能量方面的问题。"
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "Gender Dynamix在线教育门户",
+    "description": "Gender Dynamix是一家非洲非营利性组织，目标是在南非和整个南部非洲促进、推进和保护跨性别和性别多元团体的人权。这个组织进行倡导，促进能力建设，并为社区提供直接服务。他们还提供与医疗保健、教育程序和法律性别认可相关的在线资源。"
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "全国跨性别平等中心",
     "description": "全国跨性别平等中心是一个倡导改变政策和社会态度的组织，以增加对跨性别人群的理解和接受。NCTE提供关于影响跨性别社区的问题的信息，包括衰老，反暴力，就业，家庭，健康和艾滋病，住房和无家可归等。"
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "内部圈子",
+    "description": "一个全球穆斯林社区，旨在通过精神，教育和运动来为因性取向和性别认同而被边缘化的穆斯林带来治愈"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

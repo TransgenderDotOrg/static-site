@@ -4,7 +4,7 @@ import { Box, Typography } from "@mui/material";
 
 export const PrivacyPolicyPage = () => {
   return (
-    <Box sx={{ padding: "2rem" }}>
+    <Box sx={{ padding: "2rem 8rem" }}>
       <Typography variant="h3">Transgender.org Privacy Policy</Typography>
       <Typography variant="body2" sx={{ marginTop: "1rem" }}>
         1. Introduction

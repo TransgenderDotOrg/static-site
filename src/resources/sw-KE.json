@@ -146,6 +146,36 @@
     "description": "Jordan Ross hutoa mafunzo ya hotuba, sauti na mawasiliano kwa watu trans, queer na wenye jinsia isiyo ya kawaida. Anatoa mafunzo ya 1-On-1, kozi za mkondoni, matukio, na 'Mpango wa Mafunzo ya Sauti ya Ndani'. Njia yake inajumuisha programu ya neva-linguistic, hypnotherapy, maelekezo ya yoga, na mafunzo ya pumzi, lengo likiwa kushughulikia sio tu viungo vya kimwili bali pia viungo vya kiakili, kihisia, na vya nishati vya mawasiliano."
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "Portal ya Elimu Mtandaoni ya Gender Dynamix",
+    "description": "Gender Dynamix ni shirika lisilo la faida linalotegemea Afrika ambalo linakusudia kukuza, kuendeleza, na kulinda haki za binadamu za jamii za trans na kijinsia katika Afrika Kusini na Afrika Kusini mwa Jangwa la Sahara. Shirika hilo linasimamia utetezi, linafacilitate uwezo wa kujenga, na linatoa huduma moja kwa moja kwa jamii. Pia wanao rasilimali mtandaoni zinazohusiana na huduma ya afya, mipango ya elimu, na utambuzi wa jinsia halisi."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "Kituo cha Kitaifa cha Usawa wa Jinsia ya Kugeuka",
     "description": "Kituo cha Kitaifa cha Usawa wa Jinsia ya Kugeuka ni shirika linalotetea mabadiliko ya sera na mitazamo ya jamii kwa uelewa na kukubalika zaidi kwa watu wa jinsia ya kugeuka. NCTE inatoa habari kuhusu masuala yanayoathiri jamii ya Jinsia ya Kugeuka ikiwa ni pamoja na kuzeeka, kupinga unyanyasaji, ajira, familia, afya & VVU, makazi & ukosefu wa makazi, na zaidi."
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "The Inner Circle",
+    "description": "Jumuiya ya Ulimwenguni ya Waislamu yenye lengo la kuleta uponyaji kwa Waislamu ambao wanatengwa kulingana na mwelekeo wa kijinsia na kitambulisho cha jinsia kupitia kiroho, elimu, na ujenzi wa harakati"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

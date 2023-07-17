@@ -146,6 +146,36 @@
     "description": "జోర్డాన్ రోస్ ట్రాన్స్, క్వీర్ మరియు జెండర్ నాన్-కన్ఫార్మింగ్ వ్యక్తుల కోసం ప్రసంగ, స్వరం మరియు కమ్యునికేషన్ కోచింగ్‌ను అందిస్తున్నారు. అతను 1-మీద-1 కోచింగ్, ఆన్‌లైన్ కోర్సులు, ఈవెంట్స్, మరియు 'వాయిస్ వితిన్ కోచింగ్ ప్రోగ్రామ్'‌ను అందిస్తున్నారు. అతని దాదాపు న్యూరో-లింగ్విస్టిక్ ప్రోగ్రామింగ్, హైప్నోథెరపీ, యోగా గురుత్వం, మరియు శ్వాస కోచింగ్ ఆకలికతలతో, శారీరికమైనవి కాకుండా మానసిక, భావోద్వేగ, మరియు ఊర్జా కమ్యునికేషన్ యొక్క అంశాలను ఘట్టించడానికి ప్రయత్నిస్తుంది."
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "జెండర్ డైనమిక్స్ ఆన్‌లైన్ ఎడ్యుకేషన్ పోర్టల్",
+    "description": "జెండర్ డైనమిక్స్ ఒక ఆఫ్రికా-ఆధారిత నాన్‌ప్రాఫిట్ సంస్థ అనిగి, దాని లక్ష్యం దక్షిణాఫ్రికా మరియు దక్షిణ ఆఫ్రికాలోని ట్రాన్స్ మరియు జెండర్ది వివిధత సమాజాల మానవ హక్కులను ప్రోత్సహించడం, సాగించడం మరియు సంరక్షించడం అని. ఈ సంస్థ ప్రజా సమాజాలతో మాట్లాడడం, సామర్ధ్యతను పెంచడం మరియు సేవలను ప్రత్యక్షంగా అందించడం చేస్తుంది. వారు ఆరోగ్య సేవలు, ఎడ్యుకేషనల్ ప్రోగ్రామ్లు, మరియు చట్టబద్ద జెండర్ గుర్తింపు సంబంధించిన ఆన్‌లైన్ వనరులను అందిస్తారు."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం",
     "description": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం అనేది ట్రాన్స్ జెండర్ వ్యక్తులకు అర్ధంచేసుకునే మరియు అంగీకరించే విధంగా సమాజ దృష్టాంతాలను మరియు విధానాలను మార్చడానికి ప్రచారణ చేయు సంస్థ . NCTE ముప్పు (ఏజింగ్), వైలెంస్ వ్యతిరేకత, ఉద్యోగం, కుటుంబాలు, కుల (హెల్త్ & హివ్), ఇంటి కౌటుంబికత (హౌసింగ్ & బెత్తలకు లేనివారు), మరియు మరియు మరిన్ని ప్రశ్నల గురించి సమాచారం అందిస్తుంది."
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "ఇన్నర్ సర్కిల్",
+    "description": "యొక్క ఆధ్యాత్మికత, విద్య, మరియు ఉగ్రత నిర్మాణం ద్వారా లైంగిక ఉపసంహారానికి మరియు లింగ అంగీకార ఆధారాన మిగిలిన ముస్లింలకు స్వస్థతను తేలుపటానికి ప్రయత్నిస్తున్న ప్రపంచ వ్యాప్తి ముస్లింల కమ్యూనిటీ"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

@@ -146,6 +146,36 @@
     "description": "Jordan Ross bietet Sprech-, Stimmen- und Kommunikationsschulungen für transsexuelle, queere und geschlechtsinkonforme Personen an. Er bietet 1-zu-1-Schulungen, Online-Kurse, Veranstaltungen und das 'Voice Within Coaching Program' an. Sein Ansatz integriert neurolinguistisches Programmieren, Hypnotherapie, Yoga-Unterricht und Atemschulung, mit dem Ziel, nicht nur physische, sondern auch mentale, emotionale und energetische Aspekte der Kommunikation anzusprechen."
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "Gender Dynamix Online-Bildungsportal",
+    "description": "Gender Dynamix ist eine in Afrika ansässige gemeinnützige Organisation, die darauf abzielt, die Menschenrechte von trans und geschlechtsdiversen Gemeinschaften in Südafrika und im gesamten südlichen Afrika zu fördern, voranzutreiben und zu schützen. Die Organisation betreibt Advocacy, fördert den Kapazitätsaufbau und bietet der Gemeinschaft direkte Dienstleistungen an. Sie bieten auch Online-Ressourcen im Zusammenhang mit Gesundheitsversorgung, Bildungsprogrammen und gesetzlicher Geschlechtsanerkennung an."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "Nationales Zentrum für Transgender-Gleichstellung",
     "description": "Das Nationale Zentrum für Transgender-Gleichstellung ist eine Organisation, die sich dafür einsetzt, Politiken und gesellschaftliche Einstellungen zu ändern, um das Verständnis und die Akzeptanz von Transgender-Personen zu erhöhen. Die NCTE bietet Informationen zu Themen, die die Transgender-Gemeinschaft betreffen, einschließlich Alter, Gewaltbekämpfung, Beschäftigung, Familien, Gesundheit & HIV, Wohnen & Obdachlosigkeit und mehr."
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "Der Innere Kreis",
+    "description": "Eine globale muslimische Gemeinschaft, die darauf abzielt, Muslimen, die aufgrund ihrer sexuellen Orientierung und Geschlechtsidentität marginalisiert sind, Heilung zu bringen durch Spiritualität, Bildung und Bewegungsaufbau"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

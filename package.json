@@ -11,7 +11,8 @@
     "postinstall": "husky install",
     "start": "webpack serve --mode development --open --hot",
     "scan-website": "ts-node scripts/scan-website.ts",
-    "process-intake": "ts-node scripts/process-intake.ts"
+    "process-intake": "ts-node scripts/process-intake.ts",
+    "patch-locale": "ts-node scripts/patch-locale.ts"
   },
   "devDependencies": {
     "@googlemaps/google-maps-services-js": "^3.3.33",

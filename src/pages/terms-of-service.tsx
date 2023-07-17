@@ -8,7 +8,7 @@ export const TermsOfServicePage = () => {
   const navigate = useNavigate();
 
   return (
-    <Box sx={{ padding: "2rem" }}>
+    <Box sx={{ padding: "2rem 8rem" }}>
       <Typography variant="h3">Transgender.org Terms of Service</Typography>
       <Typography variant="body2" sx={{ marginTop: "1rem" }}>
         1. Acceptance of Terms

@@ -146,6 +146,36 @@
     "description": "Jordan Ross надає тренінги з мови, голосу та комунікації для транс, квір і осіб, які не відповідають гендерним нормам. Він пропонує 1-на-1 тренування, онлайн-курси, заходи та програму тренування 'Voice Within Coaching Program'. Його підхід включає нейро-лінгвістичне програмування, гіпнотерапію, інструкції з йоги та тренінги дихання, маючи на меті звернути увагу не лише на фізичні, але й на ментальні, емоційні та енергетичні аспекти комунікації."
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "Онлайн портал освіти Gender Dynamix",
+    "description": "Gender Dynamix - це організація без прибуткової організації, що базується в Африці та має на меті сприяти, розвивати та захищати права людей транс та гендерно-різноманітних спільнот у Південній Африці та у всій південній Африці. Організація проводить захист інтересів, сприяє підвищенню потенціалу та надає прямі послуги спільноті. Вони також пропонують онлайн-ресурси, пов'язані з охороною здоров'я, освітніми програмами та визнанням гендеру за законом."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "Національний центр за рівність трансгендерів",
     "description": "Національний центр за рівність трансгендерів - це організація, яка пропагує зміну політик та соціальних ставлень до підвищення розуміння та прийняття трансгендерних людей. NCTE надає інформацію про проблеми, які впливають на трансгендерну спільноту, включаючи старіння, антинасильство, зайнятість, сім'ї, здоров'я та ВІЛ, житло та бездомність і багато іншого."
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "Внутрішнє Коло",
+    "description": "Міжнародна Мусульманська громада, що має на меті принести зцілення Мусульманам, які є відмежованими за орієнтацією і гендерною самосвідомістю через духовність, освіту та створення руху"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

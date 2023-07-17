@@ -146,6 +146,36 @@
     "description": "ジョーダン・ロスは、トランスジェンダー、クィア、ジェンダー非一貫性の個人向けにスピーチ、声、コミュニケーションのコーチングを提供しています。彼は1対1のコーチング、オンラインコース、イベント、そして「ボイス・ウィズイン・コーチング・プログラム」を提供しています。彼のアプローチは、ニューロリンギスティックプログラミング、催眠療法、ヨガの指導、呼吸コーチングを取り入れ、コミュニケーションの物理的な側面だけでなく、精神的、感情的、エネルギー的な側面にも対応することを目指しています。"
   },
   {
+    "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+    "slug": "gender-dynamix-online-education-portal",
+    "externalUrl": "https://www.genderdynamix.org.za/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "support-groups",
+      "community-stories"
+    ],
+    "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+    "phoneNumber": "+27 (0)21 447 4797",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9368811,
+      18.470378
+    ],
+    "email": "info@genderdynamix.org.za",
+    "socialMedia": null,
+    "town": "Observatory",
+    "title": "ジェンダーダイナミクスオンライン教育ポータル",
+    "description": "ジェンダーダイナミックスは、アフリカを拠点にした非営利団体で、南アフリカおよび南部アフリカ全体のトランスジェンダーおよびジェンダーダイバーシティコミュニティの人権を促進、発展、保護を目指しています。この団体は、アドボカシー活動を行い、能力構築を促進し、コミュニティに直接的なサービスを提供します。また、医療、教育プログラム、法的な性別の認識に関連するオンラインリソースも提供しています。"
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -373,6 +403,33 @@
     },
     "title": "トランスジェンダーの平等を促進する全国センター",
     "description": "トランスジェンダーの平等を促進する全国センターは、トランスジェンダーの人々の理解と受け入れを向上させるための政策や社会的態度の変更を提唱する組織です。NCTEは、トランスジェンダーコミュニティに影響を与える問題についての情報を提供しています。これには、高齢化、反暴力、雇用、家族、健康＆HIV、住宅とホームレス、その他が含まれます。"
+  },
+  {
+    "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+    "slug": "the-inner-circle",
+    "externalUrl": "https://theinnercircle.org.za/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+    "phoneNumber": "+27 (0) 21 761 0037",
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -34.011883,
+      18.469623
+    ],
+    "email": "admin@theinnercircle.org.za",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+      "twitter": "https://twitter.com/TIC_SouthAfrica"
+    },
+    "town": "Wynberg",
+    "title": "インナーサークル",
+    "description": "性的指向やジェンダーのアイデンティティに基づいてマーガナライズされたムスリムへの癒しを目指す、全世界のムスリムコミュニティ。スピリチュアリティ、教育、そして運動形成を通じて実現します。"
   },
   {
     "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",

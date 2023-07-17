@@ -1,0 +1,28 @@
+{
+  "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+  "title": "TransHub",
+  "description": "TransHub is a digital information and resource platform for all trans and gender diverse people in NSW, their loved ones, allies and health providers. It provides access to much needed information and resources for a community that may not have had access to such as they grew up or grew towards their authentic selves. Information ranges from medical needs such as hormones, surgeries and doctor lists to social and legal issues.",
+  "slug": "transhub",
+  "externalUrl": "https://www.transhub.org.au/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "health-providers",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

@@ -74,8 +74,7 @@ export const Footer = () => {
               color: "#fff",
             }}
           >
-            Empowering the transgender community through resources, support, and
-            open collaboration. Working together, we can make a difference.
+            {i18n.t("footer.description")}
           </Typography>
         </Box>
         <Box>
@@ -83,7 +82,7 @@ export const Footer = () => {
             variant="body2"
             sx={{ color: "#fff", fontSize: "1.5rem", marginBottom: "1rem" }}
           >
-            Resources
+            {i18n.t("header.menuitem.resources")}
           </Typography>
           <Box
             sx={{
@@ -93,44 +92,46 @@ export const Footer = () => {
               flexWrap: "wrap",
             }}
           >
-            {[
-              tags.slice(0, 5),
-              tags.slice(5, 10),
-              tags.slice(10, 15),
-              tags.slice(15, 20),
-            ].map((column, i) => (
-              <Box
-                sx={{
-                  padding: i === 0 ? 0 : "0 0 0 2rem",
-                  flexBasis: "25%",
-                  flex: 1,
+            {tags
+              .reduce((acc, tag, i) => {
+                const column = Math.floor(i / 6);
+                acc[column] = acc[column] || [];
+                acc[column].push(tag);
+                return acc;
+              }, [] as typeof tags[])
+              .map((column, i) => (
+                <Box
+                  sx={{
+                    padding: i === 0 ? 0 : "0 0 0 2rem",
+                    flexBasis: "25%",
+                    flex: 1,
 
-                  "@media (max-width: 650px)": {
-                    padding: 0,
-                    flex: "unset",
-                    flexBasis: "50%",
-                  },
-                }}
-              >
-                {column.map((tag, i) => (
-                  <Typography
-                    variant="body1"
-                    sx={{ color: "#fff", paddingBottom: "0.25rem" }}
-                  >
-                    <a
-                      href={`/resources?tags=${tag.value}`}
-                      onClick={(e) => {
-                        e.preventDefault();
-                        navigate(`/resources?tags=${tag.value}`);
-                        window.scrollTo(0, 0);
-                      }}
+                    "@media (max-width: 650px)": {
+                      padding: 0,
+                      flex: "unset",
+                      flexBasis: "50%",
+                    },
+                  }}
+                >
+                  {column.map((tag, i) => (
+                    <Typography
+                      variant="body1"
+                      sx={{ color: "#fff", paddingBottom: "0.25rem" }}
                     >
-                      {i18n.t(`tags.${tag.value}`)}
-                    </a>
-                  </Typography>
-                ))}
-              </Box>
-            ))}
+                      <a
+                        href={`/resources?tags=${tag.value}`}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          navigate(`/resources?tags=${tag.value}`);
+                          window.scrollTo(0, 0);
+                        }}
+                      >
+                        {i18n.t(`tags.${tag.value}`)}
+                      </a>
+                    </Typography>
+                  ))}
+                </Box>
+              ))}
           </Box>
         </Box>
       </Box>
@@ -145,7 +146,7 @@ export const Footer = () => {
             navigate("/terms-of-service");
           }}
         >
-          Terms of Service
+          {i18n.t("footer.terms-of-service")}
         </a>{" "}
         |{" "}
         <a
@@ -155,7 +156,7 @@ export const Footer = () => {
             navigate("/privacy-policy");
           }}
         >
-          Privacy Policy
+          {i18n.t("footer.privacy-policy")}
         </a>{" "}
         | © 2023 Transgender.org
       </Typography>
