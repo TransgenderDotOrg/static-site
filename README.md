@@ -55,7 +55,7 @@ We value your input and look forward to your contributions in making www.transge
 * `convert-resources.ts` - This takes the data produced by `scan-websites.ts` and generates the translations for all of our supported languages.
 * `process-intake.ts` - This takes the intake file created with all of the translations for the supported languages and gets them ready for the website and puts them in the processed folder.
 
-## Intake Instructions
+## External Content Intake Instructions
 1. Go to the new post in #submitted-resources.
 2. Copy the external-url off the post.
 3. Run `scan-websites.ts` command which creates base file in the `intake` directory.
