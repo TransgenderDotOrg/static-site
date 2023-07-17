@@ -1,0 +1,33 @@
+{
+  "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+  "title": "Trans Lifeline",
+  "description": "Trans Lifeline is a trans-led organization offering peer support and resources for the transgender community. With a focus on community support, microgrants and a hotline, they aim to provide trans people with the connections and resources they need to thrive. Trans Lifeline also advocates for the trans community through initiatives such as #SafeHotlines.",
+  "slug": "trans-lifeline-peer-support-and-resources",
+  "externalUrl": "https://translifeline.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "address": null,
+  "email": null,
+  "phoneNumber": "(877) 565-8860",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/TransLifeline/",
+    "twitterUrl": "https://twitter.com/TransLifeline",
+    "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
+  "slug": "unitarian-universalist-association",
+  "externalUrl": "https://www.uua.org/",
+  "tags": [
+    "non-binary",
+    "support-groups",
+    "education-awareness",
+    "spiritual"
+  ],
+  "address": "24 Farnsworth St, Boston, MA 02210, USA",
+  "phoneNumber": "(617) 742-2100",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "latLng": [
+    42.35163259999999,
+    -71.04857050000001
+  ],
+  "email": "info@uua.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Unitarian Universalist Association",
+      "description": "An open-minded, open-hearted spiritual community supporting people in leading lives of justice, love, learning, and hope. The community embraces diversity including the transgender community and encourages active participation in acts of justice. They also offer resources, support and advocacy for various social issues."
+    },
+    "fr-FR": {
+      "title": "Association unitarienne universaliste",
+      "description": "Une communauté spirituelle ouverte d'esprit et de cœur soutenant les personnes à mener des vies de justice, d'amour, d'apprentissage et d'espoir. La communauté embrasse la diversité, y compris la communauté transgenre, et encourage une participation active dans les actes de justice. Ils offrent également des ressources, du soutien et de la défense pour diverses problématiques sociales."
+    },
+    "pt-PT": {
+      "title": "Associação Unitária Universalista",
+      "description": "Uma comunidade espiritual de mente aberta, coração aberto, apoiando as pessoas a liderar vidas de justiça, amor, aprendizado e esperança. A comunidade acolhe a diversidade, incluindo a comunidade transgênero, e incentiva a participação ativa em atos de justiça. Eles também oferecem recursos, apoio e defesa para várias questões sociais."
+    },
+    "es-ES": {
+      "title": "Asociación Unitaria Universalista",
+      "description": "Una comunidad espiritual de mente abierta y corazón abierto que apoya a las personas para llevar vidas de justicia, amor, aprendizaje y esperanza. La comunidad abraza la diversidad, incluyendo a la comunidad transgénero, y fomenta la participación activa en actos de justicia. También ofrecen recursos, apoyo y defensa para varios problemas sociales."
+    },
+    "de-DE": {
+      "title": "Unitarische Universalistenvereinigung",
+      "description": "Eine aufgeschlossene, warmherzige spirituelle Gemeinschaft, die Menschen darin unterstützt, ein Leben in Gerechtigkeit, Liebe, Lernen und Hoffnung zu führen. Die Gemeinschaft schätzt Vielfalt, einschließlich der Transgender-Gemeinschaft, und ermutigt zu aktiver Teilnahme an Gerechtigkeitshandlungen. Sie bieten auch Ressourcen, Unterstützung und Fürsprache für verschiedene soziale Themen an."
+    },
+    "zh-CN": {
+      "title": "自由基督教会全国协会",
+      "description": "这是一个开明,胸怀广阔的精神社区，支持人们以正义、爱心、学习和希望引领生活。社区接纳多元性，包括跨性别社区，并鼓励积极参与正义行动。他们还为各种社会问题提供资源、支持和倡导。"
+    },
+    "tr-TR": {
+      "title": "Unitarian Universalist Association",
+      "description": "Adalet, sevgi, öğrenme ve umut dolu bir yaşam sürme konusunda insanlara destek veren açık fikirli ve açık kalpli bir ruhani topluluk. Bu topluluk, transgender topluluğu da dahil olmak üzere çeşitliliği kucaklar ve adaletin etkin bir şekilde yerine getirilmesi için teşvik eder. Ayrıca çeşitli toplumsal sorunlar için kaynaklar, destek ve savunma hizmetleri sunarlar."
+    },
+    "id-ID": {
+      "title": "Asosiasi Unitarian Universalis",
+      "description": "Komunitas spiritual yang berpikiran terbuka dan berhati terbuka yang mendukung orang-orang dalam menjalani kehidupan keadilan, cinta, belajar, dan harapan. Komunitas ini merangkul keragaman termasuk komunitas transgender dan mendorong partisipasi aktif dalam tindakan keadilan. Mereka juga menawarkan sumber daya, dukungan dan advokasi untuk berbagai masalah sosial."
+    },
+    "sw-KE": {
+      "title": "Chama cha Unitarian Universalist",
+      "description": "Jumuiya ya kiroho iliyo wazi ya akili na moyo inayosaidia watu kuongoza maisha ya haki, upendo, kujifunza, na matumaini. Jumuiya inakumbatia utofauti ikiwa ni pamoja na jumuiya ya watu wanaojibadilisha jinsia na inahimiza ushiriki hai katika vitendo vya haki. Pia wanatoa rasilimali, msaada na utetezi kwa masuala mbalimbali ya kijamii."
+    },
+    "ja-JP": {
+      "title": "ユニタリアンユニバーサリスト協会",
+      "description": "公正、愛、学習、希望に満ちた生活を送る人々を支援する、心と心が開かれた精神的コミュニティです。このコミュニティは多様性を包括し、トランスジェンダーコミュニティを含め、公正な行為に積極的に参加することを奨励しています。さらに、さまざまな社会問題に対するリソース、支援、提唱も提供しています。"
+    },
+    "ru-RU": {
+      "title": "Ассоциация Унитарных Универсалистов",
+      "description": "Открытое для новых взглядов и отзывчивое духовное сообщество, поддерживающее людей в ведении жизни справедливости, любви, обучения и надежды. Сообщество принимает разнообразие, включая трансгендерное сообщество, и поощряет активное участие в актах справедливости. Они также предлагают ресурсы, поддержку и защиту различных социальных вопросов."
+    },
+    "ko-KR": {
+      "title": "유니타리언 유니버셜리스트 협회",
+      "description": "정의, 사랑, 학습, 희망의 삶을 이끌 수 있도록 지원하는 개방적이고 포용적인 정신적 커뮤니티입니다. 이 커뮤니티는 트랜스젠더 커뮤니티를 포함한 다양성을 존중하고 정의의 행동에 적극적인 참여를 장려합니다. 또한 다양한 사회 문제에 대한 자료, 지원, 옹호를 제공합니다."
+    },
+    "vi-VN": {
+      "title": "Hiệp hội Unitarian Universalist",
+      "description": "Một cộng đồng tinh thần có tâm trí rộng mở, tình yêu rộng lượng hỗ trợ mọi người dẫn dắt cuộc sống với công lý, tình yêu, học hỏi và hy vọng. Cộng đồng này chào đón sự đa dạng bao gồm cộng đồng chuyển giới và khuyến nghị tham gia tích cực vào các hành động nhằm tạo công lý. Họ cũng cung cấp tài nguyên, hỗ trợ và tuyên truyền cho các vấn đề xã hội khác nhau."
+    },
+    "uk-UA": {
+      "title": "Асоціація Юнітарійських Універсалістів",
+      "description": "Толерантна, сердечна духовна спільнота, що підтримує людей у житті, сповненому справедливості, любові, навчання та надії. Ця спільнота різноманітна, вона включає трансгендерну спільноту і заохочує активну участь у діях на пошану справедливості. Вони також пропонують ресурси, підтримку і заступництво в різноманітних соціальних питаннях."
+    },
+    "ar-SA": {
+      "title": "جمعية الوحدانية اليونيتارية",
+      "description": "مجتمع روحي بفتح العقل والقلب يدعم الأشخاص في قيادة حياة العدل والحب والتعلم والأمل. يشمل المجتمع التنوع بما في ذلك المجتمع عبر الجنسين ويشجع على المشاركة الفعالة في أعمال العدل. كما أنهم يقدمون الموارد والدعم والدعوة للعديد من القضايا الاجتماعية."
+    },
+    "mr-IN": {
+      "title": "युनिटेरियन यूनिवर्सलिस्ट संघ",
+      "description": "न्याय, प्रेम, ग्रंथपठन आणि आशा च्या जीवनाला समर्थन देणारी खुलेआत्मक, हृदयाची खुली असलेली आध्यात्मिक समुदाय. ह्या समुदायात विविधतेच्या सहाव्याचा स्वागत केला जातो, समावेशी तरुण यांचा समावेश असा समावेशी. त्यांनी विविध सामाजिक समस्यांसाठी संसाधने, मदत आणि समर्थन दिलेले आहे."
+    },
+    "ur-PK": {
+      "title": "یونیٹارین یونیورسلسٹ ایسوسی ایشن",
+      "description": "ایک خولہ خیال، خوش دل روحانی برادری جہاں انصاف، محبت، تعلیم اور امید کی زندگیوں کی پیش گوئی کی سپورٹ کی جاتی ہے۔ یہ برادری خدشات کا سامنا کرتی ہے ، ترجمان برادری سمیت اور عدل کے کاموں میں سرگرم شرکت کو حوصلہ بخشتی ہے۔ وہ مختلف سماجی مسائل کے لئے وسائل، سپورٹ اور وکالت بھی فراہم کرتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "यूनिटेरियन यूनिवर्सलिस्ट संघ",
+      "description": "एक खुले विचारों वाले, खुले दिल के आध्यात्मिक समुदाय, जो लोगों को न्याय, प्रेम, ज्ञान और आशा की जिंदगी जीने में सहयोग देते हैं। समुदाय ट्रांसजेंडर समुदाय सहित विविधता को स्वीकारता है और न्याय के अभियानों में सक्रिय भागीदारी को बढ़ावा देता है। उनके पास विभिन्न सामाजिक मुद्दों के लिए संसाधन, समर्थन और वकालत भी उपलब्ध है।"
+    },
+    "ta-IN": {
+      "title": "யூனிட்டேரியன் யூனிவெர்ஸலிஸத் அசோசியேஷன்",
+      "description": "நீதி, அன்பு, அறிவெல்லாமில் முன்னேறும் மனிதர்களை ஆதரிக்கும் திறந்த மனதுடன், முதன்முதலில் ஆத்யாத்மிகம் அமைப்பு. இந்த சமூகம் மேலும் முறைசேர்க்கை அரசியற் சமுதாயத்தை உள்ளடக்கிய வேவைக்களாக பல்வேறு வகையான மக்களை அன்புடன் ஏற்றுக்கொள்கின்றது. அவர்கள் மேலும் விவித சமூக விஷயங்களுக்கான வளங்கள், ஆதரவு மற்றும் மேலேற்பதற்கான முயற்சியை வழங்குகின்றனர்."
+    },
+    "bn-BD": {
+      "title": "ইউনিটেরিয়ান ইউনিভার্সালিস্ট অ্যাসোসিয়েশন",
+      "description": "একটি উন্মুক্ত-মনের, উন্মুক্ত-হৃদয়ের আধ্যাত্মিক সম্প্রদায় যা ব্যক্তিদের ন্যায়, ভালোবাসা, শেখার এবং আশা নিয়ে জীবনযাপন করতে সহায়তা করে। সম্প্রদায়টি বৈচিত্র্যময়তা, যেমন ট্রান্সজেন্ডার সম্প্রদায়, গ্রহণ করে এবং ন্যায়ের জন্য সক্রিয় অংশগ্রহণটি উৎসাহিত করে। তারা বিভিন্ন সামাজিক সমস্যা জনিত সহায়তা, সমর্থন এবং অভিযোগের জন্য সংস্থানগুলিও প্রদান করে।"
+    },
+    "te-IN": {
+      "title": "యూనిటేరియన్ యూనివర్శలిస్ట్ అసోసియేషన్",
+      "description": "న్యాయం, ప్రేమ, నేర్చుకోవడం, ఆశ కలగని జీవితాలను నడిపించే వ్యక్తులకు మద్దతు పెట్టే ముగ్గురు-ముగ్గురుగా, ఉదార మనస్సు ఉంచే ఆధ్యాత్మిక సంఘం. ఈ సంఘం వైవిధ్యాలను, అదనపుగా ట్రాన్స్‌జెండర్ సముదాయాన్ని, స్వీకరిస్తుంది మరియు న్యాయకార్యాల్లో సాక్రియ పాల్పడతను ప్రేరేపిస్తుంది. వివిధ సామాజిక సమస్యలకు వనరులు, మద్దతు మరియు అభిప్రేతిని అందిస్తుంది."
+    }
+  }
+}

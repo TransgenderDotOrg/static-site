@@ -1,0 +1,27 @@
+{
+  "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+  "title": "Equality Florida",
+  "description": "Florida's largest LGBTQ advocacy organization working towards safe and healthy schools, LGBTQ health equity, HIV advocacy, LGBTQ protections and more. The organization holds various events and has secured pro-equality supports, contributing towards transgender health care grants.",
+  "slug": "equality-florida",
+  "externalUrl": "https://www.eqfl.org/",
+  "tags": ["legal", "healthcare", "education-awareness"],
+  "address": null,
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "St. Petersburg",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "phoneNumber": "813-870-3735",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/equalityfl/",
+    "twitterUrl": "https://twitter.com/EqualityFlorida",
+    "instagramUrl": "https://www.instagram.com/equalityfl/",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

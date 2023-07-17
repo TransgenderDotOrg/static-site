@@ -1,0 +1,115 @@
+{
+  "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
+  "slug": "equality-florida",
+  "externalUrl": "https://www.eqfl.org/",
+  "tags": [
+    "legal",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": null,
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "St. Petersburg",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "phoneNumber": "813-870-3735",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/equalityfl/",
+    "twitterUrl": "https://twitter.com/EqualityFlorida",
+    "instagramUrl": "https://www.instagram.com/equalityfl/",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Equality Florida",
+      "description": "Florida's largest LGBTQ advocacy organization working towards safe and healthy schools, LGBTQ health equity, HIV advocacy, LGBTQ protections and more. The organization holds various events and has secured pro-equality supports, contributing towards transgender health care grants."
+    },
+    "de-DE": {
+      "title": "Equality Florida",
+      "description": "Floridas größte LGBTQ-Advocacy-Organisation arbeitet an sicheren und gesunden Schulen, LGBTQ-Gesundheitsgleichheit, HIV-Advocacy, LGBTQ-Schutz und mehr. Die Organisation veranstaltet verschiedene Events und hat Pro-Gleichheitsunterstützungen gesichert und so zur Finanzierung von Transgender-Gesundheitsfürsorge beigetragen."
+    },
+    "es-ES": {
+      "title": "Equality Florida",
+      "description": "La organización de defensa LGBTQ más grande de Florida que trabaja hacia escuelas seguras y saludables, equidad en salud LGBTQ, defensa del VIH, protecciones LGBTQ y más. La organización realiza varios eventos y ha asegurado apoyos pro-igualdad, contribuyendo a becas de atención médica para personas transgénero."
+    },
+    "fr-FR": {
+      "title": "Equality Florida",
+      "description": "La plus grande organisation de défense des droits de la communauté LGBTQ de Floride travaillant pour des écoles sûres et saines, l'équité en matière de santé LGBTQ, le plaidoyer contre le HIV, les protections LGBTQ et plus encore. L'organisation organise divers événements et a obtenu des soutiens en faveur de l'égalité, contribuant aux subventions de soins de santé pour les personnes transgenres."
+    },
+    "sw-KE": {
+      "title": "Equality Florida",
+      "description": "Shirika kubwa zaidi la utetezi wa LGBTQ nchini Florida linalofanya kazi kuelekea kufanya shule kuwa salama na afya, usawa wa afya ya LGBTQ, utetezi wa HIV, ulinzi wa LGBTQ na zaidi. Shirika hilo linashikilia matukio mbalimbali na limehakikisha msaada wa usawa, kuchangia kwenye misaada ya afya ya watu wanaobadili jinsia."
+    },
+    "ko-KR": {
+      "title": "Equality Florida",
+      "description": "플로리다 최대 LGBTQ 옹호 단체로서 안전하고 건강한 학교, LGBTQ 건강 평등, HIV 옹호, LGBTQ 보호 등을 위해 노력하고 있습니다. 이 단체는 다양한 행사를 개최하며, 트랜스젠더 건강 관리 보조금에 기여하는 등 찬성 평등 지원을 확보하고 있습니다."
+    },
+    "pt-PT": {
+      "title": "Equality Florida",
+      "description": "A maior organização de advocacia LGBTQ da Flórida que trabalha na direção de escolas seguras e saudáveis, equidade de saúde LGBTQ, advocacia com HIV, proteções LGBTQ e mais. A organização realiza diversos eventos e garantiu apoio pró-igualdade, contribuindo para bolsas de saúde para transgêneros."
+    },
+    "id-ID": {
+      "title": "Equality Florida",
+      "description": "Organisasi advokasi LGBTQ terbesar di Florida yang bekerja menuju sekolah yang aman dan sehat, kesetaraan kesehatan LGBTQ, advokasi HIV, perlindungan LGBTQ, dan lainnya. Organisasi ini mengadakan berbagai acara dan telah mendapatkan dukungan pro-kesetaraan, berkontribusi pada hibah perawatan kesehatan transgender."
+    },
+    "ja-JP": {
+      "title": "イクオリティフロリダ",
+      "description": "フロリダ州最大のLGBTQ提唱団体で、安全で健康的な学校、LGBTQの健康平等、HIVアドボカシー、LGBTQ保護などに向けて取り組んでいます。この組織は様々なイベントを開催し、プロイクオリティサポートを確保し、トランスジェンダーの医療助成金に貢献しています。"
+    },
+    "zh-CN": {
+      "title": "佛罗里达平等",
+      "description": "佛罗里达州最大的LGBTQ倡导组织，致力于实现安全健康的学校，LGBTQ健康公平，HIV倡导，LGBTQ保护等更多工作。该组织举办各种活动并已获得了支持平等的支持，为跨性别医疗保健基金做出了贡献。"
+    },
+    "tr-TR": {
+      "title": "Equality Florida",
+      "description": "Florida'nın en büyük LGBTQ savunuculuk organizasyonu, güvenli ve sağlıklı okullar, LGBTQ sağlık eşitliği, HIV savunuculuğu, LGBTQ korumaları ve daha fazlasına yönelik çalışmaktadır. Organizasyon çeşitli etkinlikler düzenlemekte ve transgender sağlık hizmetleri hibelerine katkıda bulunarak pro-eşitlik destekleri sağlamıştır."
+    },
+    "ar-SA": {
+      "title": "مساواة فلوريدا",
+      "description": "أكبر منظمة دعوية لـ LGBTQ في فلوريدا تعمل نحو توفير مدارس آمنة وصحية، والمساواة في الرعاية الصحية لـ LGBTQ، والدعوة إلى حقوق مرضى فيروس الإيدز، وحماية حقوق LGBTQ، وأكثر. تقيم المنظمة أحداثا متنوعة وكانت قد حققت تأييد موال للمساواة، وتساهم نحو منح الرعاية الصحية للأشخاص المتحولين جنسيا."
+    },
+    "ru-RU": {
+      "title": "Equality Florida",
+      "description": "Крупнейшая во Флориде организация, защищающая права ЛГБТК, и работающая над всеми аспектами безопасности и здоровья в школах, справедливостью в сфере здравоохранения ЛГБТК, защитой от ВИЧ, защитой прав ЛГБТК и многим другим. Организация проводит различные мероприятия и обеспечивает поддержку в пользу равенства, внося вклад в предоставление грантов на здравоохранение трансгендеров."
+    },
+    "ur-PK": {
+      "title": "برابری فلوریڈا",
+      "description": "فلوریڈا کی سب سے بڑی LGBTQ تحفظ تنظیم جو محفوظ اور صحت مند اسکولوں، LGBTQ صحت کے برابری، HIV تحفظ، LGBTQ تحفظات اور زیادہ میں کام کر رہی ہے. تنظیم کو مختلف تقریبات کا انعقاد کرتے ہیں اور نے مساوات پسندانہ سپورٹ حاصل کیا ہے, ٹرانسجینڈر صحت کی گرانٹس کی جانب شراکت کررہی ہے."
+    },
+    "vi-VN": {
+      "title": "Equality Florida",
+      "description": "Tổ chức ủng hộ LGBTQ lớn nhất Florida hoạt động hướng tới việc tạo ra các trường học an toàn và lành mạnh, công bằng về sức khỏe LGBTQ, vận động về HIV, bảo vệ LGBTQ và nhiều hơn nữa. Tổ chức tổ chức các sự kiện khác nhau và đã đảm bảo sự hỗ trợ pro-equality, đóng góp vào các quỹ hỗ trợ sức khỏe cho người chuyển giới."
+    },
+    "uk-UA": {
+      "title": "Рівність Флориди",
+      "description": "Найбільша в Флориді організація захисту прав ЛГБТК+, яка працює над забезпеченням безпеки та здоров'я у школах, рівності у сфері охорони здоров'я ЛГБТК+, захисту від ВІЛ, захисту прав ЛГБТК+ та багато чого іншого. Організація проводить різноманітні заходи і отримала підтримку на користь рівності, сприяючи наданню грантів на охорону здоров'я трансгендерів."
+    },
+    "hi-IN": {
+      "title": "Equality Florida",
+      "description": "फ़्लोरिडा की सबसे बड़ी LGBTQ समर्थन संगठन जो सुरक्षित और स्वस्थ स्कूलों, LGBTQ स्वास्थ्य समानता, HIV समर्थन, LGBTQ सुरक्षाएँ और अधिक की ओर काम कर रही है। संगठन विभिन्न आयोजन करता है और ने समानता समर्थन, ट्रांसजेंडर स्वास्थ्य देखभाल अनुदान की ओर योगदान किया है।"
+    },
+    "mr-IN": {
+      "title": "समानता फ्लोरिडा",
+      "description": "फ्लोरिडाची सर्वात मोठी LGBTQ समर्थन संस्था जी सुरक्षित आणि निरोगी शाळांच्या दिशेने, LGBTQ आरोग्य समतोलन, HIV समर्थन, LGBTQ संरक्षण आणि अधिक काम करीत आहे. संस्थेने विविध कार्यक्रमांची वाटचाल केली आहे आणि त्याने ट्रान्सजेंडर आरोग्य देखभाल अनुदानांमध्ये योगदान केलेले समर्थन मिळवले आहे."
+    },
+    "bn-BD": {
+      "title": "Equality Florida",
+      "description": "ফ্লোরিডার সবচেয়ে বড় এলজিবিটিকিউ অধিকার সংস্থা, যা নিরাপদ এবং স্বাস্থ্যকর স্কুল, এলজিবিটিকিউ স্বাস্থ্য সমানতা, এইচআইভি অভিযান, এলজিবিটিকিউ সুরক্ষা এবং আরও অনেক কিছুরতে কাজ করে চলেছে। সংস্থা বিভিন্ন ইভেন্ট করে এবং প্রো-সমানতা সমর্থন নিশ্চিত করে, ট্রান্সজেন্ডার স্বাস্থ্য সেবা অনুদানের দিকে অবদান রাখে।"
+    },
+    "te-IN": {
+      "title": "Equality Florida",
+      "description": "ఫ్లోరిడా యొక్క పెద్ద LGBTQ లోపల సంస్థ, సురక్షిత మరియు ఆరోగ్యకర పాఠశాలలు, LGBTQ ఆరోగ్య సమానత, HIV లోపల మహిళా సేవలు, LGBTQ రక్షణలు మరియు మరిన్ని కొనసాగిస్తోంది. ఈ సంస్థ వివిధ ఈవెంట్స్ నిర్వహిస్తుంది మరియు స్వేచ్ఛ బహుత్వాన్ని రక్షించింది, ట్రాన్స్జెండర్ ఆరోగ్య పరిశోధనల కోసం తోడ్పాటు చేస్తోంది."
+    },
+    "ta-IN": {
+      "title": "Equality Florida",
+      "description": "பாதுகாப்பான மற்றும் ஆரோக்கியமான பள்ளிகளுக்கு, LGBTQ சுகாதார சமமிக்கை, HIV முன்னேற்பாடு, LGBTQ பாதுகாப்பும் பலவற்றுக்கு முன்னேற்பதில் உழைப்புப் பெரும் பிளோரிடாவின் LGBTQ முன்னேற்பாடு அமைப்பு. இந்த அமைப்பு விவித நிகழ்வுகளை நிறுவுகின்றது மற்றும் மிகப்பெரிய சமத்துவ ஆதரவுகளைப் பெற்றுள்ளது, பாலின மாற்று சுகாதார மானுடர்களுக்கு அவசியமான உதவியைவிட்டு."
+    }
+  }
+}

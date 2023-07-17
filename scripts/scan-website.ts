@@ -36,7 +36,7 @@ The above content was extracted from {url}. Convert the content into a JSON obje
     description: string [required] (A short description about what the resource is about and how it serves the transgender community)
     slug: string [required] [unique]
     externalUrl: Url
-    tags: Tags{{ transmasculine, non-binary, transfeminine, legal, healthcare, mental-health, social-services, youth-services, support-groups, parent-family-resources, partner-resources, community-stories, education-awareness, financial-aid-scholarships, clothing, artists-creators, friendly-businesses, makeup, voice-training, discord-groups }}[]
+    tags: Tags{{ transmasculine, non-binary, transfeminine, legal, healthcare, mental-health, social-services, youth-services, support-groups, parent-family-resources, partner-resources, community-stories, education-awareness, financial-aid-scholarships, clothing, artists-creators, friendly-businesses, makeup, voice-training, discord-groups, spiritual }}[]
     address: Address [optional, Google Maps friendly]
     phoneNumber: PhoneNumber [optional]
     country: Country [optional] (two letter country code)
