@@ -9,7 +9,9 @@
   "scripts": {
     "build": "ts-node scripts/convert-resources.ts && webpack --config webpack.config.production.js && cp ./src/index.html ./docs/. && cp ./src/index.html ./docs/404.html && cp -rf ./favicons ./docs/favicons",
     "postinstall": "husky install",
-    "start": "webpack serve --mode development --open --hot"
+    "start": "webpack serve --mode development --open --hot",
+    "scan-website": "ts-node scripts/scan-website.ts",
+    "process-intake": "ts-node scripts/process-intake.ts"
   },
   "devDependencies": {
     "@googlemaps/google-maps-services-js": "^3.3.33",

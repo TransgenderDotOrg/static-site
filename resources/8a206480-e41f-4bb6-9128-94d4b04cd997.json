@@ -1,0 +1,111 @@
+{
+  "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
+  "slug": "the-inner-circle",
+  "externalUrl": "https://theinnercircle.org.za/",
+  "tags": [
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": "Lester Rd, Wynberg, Cape Town, 7824, South Africa",
+  "phoneNumber": "+27 (0) 21 761 0037",
+  "country": "ZA",
+  "provinceOrState": "WC",
+  "city": "Cape Town",
+  "county": "City of Cape Town Metropolitan Municipality",
+  "latLng": [
+    -34.011883,
+    18.469623
+  ],
+  "email": "admin@theinnercircle.org.za",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/pg/The-Inner-Circle-151896104833723/",
+    "twitter": "https://twitter.com/TIC_SouthAfrica"
+  },
+  "town": "Wynberg",
+  "i18n": {
+    "en-US": {
+      "title": "The Inner Circle",
+      "description": "A Global Muslim community aimed to bring healing to Muslims who are marginalised based on sexual orientation and gender identity through spirituality, education, and movement building"
+    },
+    "de-DE": {
+      "title": "Der Innere Kreis",
+      "description": "Eine globale muslimische Gemeinschaft, die darauf abzielt, Muslimen, die aufgrund ihrer sexuellen Orientierung und Geschlechtsidentität marginalisiert sind, Heilung zu bringen durch Spiritualität, Bildung und Bewegungsaufbau"
+    },
+    "fr-FR": {
+      "title": "Le Cercle Intérieur",
+      "description": "Une communauté musulmane mondiale visant à apporter la guérison aux musulmans qui sont marginalisés en fonction de leur orientation sexuelle et de leur identité de genre à travers la spiritualité, l'éducation, et la construction de mouvement"
+    },
+    "id-ID": {
+      "title": "The Inner Circle",
+      "description": "Komunitas Muslim Global yang bertujuan membawa penyembuhan kepada Muslim yang termarginalisasi berdasarkan orientasi seksual dan identitas gender melalui spiritualitas, pendidikan, dan pembangunan gerakan"
+    },
+    "tr-TR": {
+      "title": "İç Çember",
+      "description": "Cinsel yönelim ve cinsiyet kimliği temelinde dışlanan Müslümanlara iyileştirmeyi hedefleyen global bir Müslüman topluluğu, maneviyat, eğitim ve hareket inşası yoluyla"
+    },
+    "es-ES": {
+      "title": "El Círculo Interior",
+      "description": "Una comunidad musulmana global destinada a brindar sanación a los musulmanes que son marginados en base a la orientación sexual y la identidad de género a través de la espiritualidad, la educación y la construcción de movimiento"
+    },
+    "pt-PT": {
+      "title": "O Círculo Interno",
+      "description": "Uma comunidade muçulmana global destinada a trazer cura para muçulmanos marginalizados com base na orientação sexual e identidade de gênero por meio de espiritualidade, educação e construção de movimentos"
+    },
+    "zh-CN": {
+      "title": "内部圈子",
+      "description": "一个全球穆斯林社区，旨在通过精神，教育和运动来为因性取向和性别认同而被边缘化的穆斯林带来治愈"
+    },
+    "ko-KR": {
+      "title": "내부 서클",
+      "description": "성적 지향과 성별 신원에 근거한 소외된 무슬림들에게 치유를 가져오는 것을 목표로 한 전세계 무슬림 커뮤니티를 통한 영성, 교육, 운동 구축"
+    },
+    "sw-KE": {
+      "title": "The Inner Circle",
+      "description": "Jumuiya ya Ulimwenguni ya Waislamu yenye lengo la kuleta uponyaji kwa Waislamu ambao wanatengwa kulingana na mwelekeo wa kijinsia na kitambulisho cha jinsia kupitia kiroho, elimu, na ujenzi wa harakati"
+    },
+    "ja-JP": {
+      "title": "インナーサークル",
+      "description": "性的指向やジェンダーのアイデンティティに基づいてマーガナライズされたムスリムへの癒しを目指す、全世界のムスリムコミュニティ。スピリチュアリティ、教育、そして運動形成を通じて実現します。"
+    },
+    "ar-SA": {
+      "title": "الدائرة الداخلية",
+      "description": "مجتمع مسلم عالمي يهدف إلى إحضار الشفاء للمسلمين الذين يتم تهميشهم على أساس التوجه الجنسي وهوية الجنس من خلال الروحانية، التعليم، وبناء الحركة"
+    },
+    "ru-RU": {
+      "title": "Внутренний Круг",
+      "description": "Глобальное мусульманское сообщество, целью которого является помощь мусульманам, которые подвергаются маргинализации на основе сексуальной ориентации и гендерной идентичности, через духовность, образование и создание движения"
+    },
+    "uk-UA": {
+      "title": "Внутрішнє Коло",
+      "description": "Міжнародна Мусульманська громада, що має на меті принести зцілення Мусульманам, які є відмежованими за орієнтацією і гендерною самосвідомістю через духовність, освіту та створення руху"
+    },
+    "vi-VN": {
+      "title": "Vòng Tròn Bên Trong",
+      "description": "Một cộng đồng Hồi giáo toàn cầu nhằm mang lại sự chữa lành cho những người Hồi giáo bị biên động dựa trên tình dục và giới tính thông qua tâm linh, giáo dục, và xây dựng phong trào"
+    },
+    "ur-PK": {
+      "title": "اندرونی حلقہ",
+      "description": "ایک عالمی مسلم کمیونٹی جو روحانیت، تعلیم اور تحریک کی تعمیر کے ذریعہ جنسی توجہ اور گیندر تشخص کی بنیاد پر محروم مسلمانوں کو شفا دینے کی کوشش کررہی ہے"
+    },
+    "mr-IN": {
+      "title": "अंतर्गत वृत्त",
+      "description": "लिंगी ओळख आणि लैंगिक आकर्षणावर आधारित मर्गक्रांत मुसलमानांना उपचार देण्याच्या लक्षात ठेवलेल्या वैश्विक मुस्लिम समुदाय. आत्मियतेच्या, शिक्षणाच्या आणि चळवळी निर्माणाच्या माध्यमातून"
+    },
+    "hi-IN": {
+      "title": "द इनर सर्कल",
+      "description": "एक वैश्विक मुस्लिम समुदाय जिसका उद्देश्य आत्मिकता, शिक्षा, और आंदोलन निर्माण के माध्यम से लैंगिक अभिविन्यास और लिंग पहचान के आधार पर हाशिये पर रहने वाले मुसलमानों को चिकित्सा प्रदान करना है"
+    },
+    "bn-BD": {
+      "title": "দ্য ইনার সার্কেল",
+      "description": "একটি বিশ্বজনীন মুসলিম সম্প্রদায় যা যৌনানুকূলতা এবং লিঙ্গ পরিচয় ভিত্তিতে প্রত্যাবৃত্ত হওয়া মুসলিমদের আত্মার সাথে চিকিৎসা সম্পাদনের লক্ষ্যে ধর্ম, শিক্ষা এবং আন্দোলন নির্মাণের মাধ্যমে নিয়ে আসা হয়েছে"
+    },
+    "ta-IN": {
+      "title": "இன்னர் சர்க்கிள்",
+      "description": "ஆன்மீகத்துவம், கல்வி மற்றும் இயக்கத்தை மூலம் பாலின அந்தர்த்தனை மற்றும் பாலியல் அடையாளம் ஆதாரமாக மதிக்கப்பட்ட முஸ்லிம்களுக்கு குணமாக்குவதை நோக்கி உலக முஸ்லிம் சமுதாயத்தை இலக்குவதற்கு இயங்கும்"
+    },
+    "te-IN": {
+      "title": "ఇన్నర్ సర్కిల్",
+      "description": "యొక్క ఆధ్యాత్మికత, విద్య, మరియు ఉగ్రత నిర్మాణం ద్వారా లైంగిక ఉపసంహారానికి మరియు లింగ అంగీకార ఆధారాన మిగిలిన ముస్లింలకు స్వస్థతను తేలుపటానికి ప్రయత్నిస్తున్న ప్రపంచ వ్యాప్తి ముస్లింల కమ్యూనిటీ"
+    }
+  }
+}

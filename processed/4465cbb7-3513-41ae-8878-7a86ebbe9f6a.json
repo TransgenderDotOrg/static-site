@@ -1,0 +1,30 @@
+{
+  "id": "4465cbb7-3513-41ae-8878-7a86ebbe9f6a",
+  "title": "Gender Dynamix Online Education Portal",
+  "description": "Gender Dynamix is an Africa-based non-profit organization that aims to promote, advance, and protect the human rights of trans and gender diverse communities in South Africa and across southern Africa. The organization conducts advocacy, facilitates capacity building, and provides direct services to the community. They also offer online resources related to healthcare, educational programs, and legal gender recognition.",
+  "slug": "gender-dynamix-online-education-portal",
+  "externalUrl": "https://www.genderdynamix.org.za/",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "education-awareness",
+    "support-groups",
+    "community-stories"
+  ],
+  "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
+  "phoneNumber": "+27 (0)21 447 4797",
+  "country": "ZA",
+  "provinceOrState": "WC",
+  "city": "Cape Town",
+  "county": "City of Cape Town Metropolitan Municipality",
+  "latLng": [
+    -33.9368811,
+    18.470378
+  ],
+  "email": "info@genderdynamix.org.za",
+  "socialMedia": null,
+  "town": "Observatory"
+}

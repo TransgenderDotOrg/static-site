@@ -4,7 +4,7 @@ import { promisify } from "util";
 import { PromptTemplate } from "langchain/prompts";
 import { OpenAI } from "langchain/llms/openai";
 import { fileURLToPath } from "url";
-import languages from "../languages.json";
+import languages from "../languages.json" assert { type: "json" };
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -52,9 +52,8 @@ async function translateJSON(id: string, jsonObject: any) {
 
       const response = await model.call(input);
 
-      let translatedJson = response
-        .match(/```(json)?([\s\S]*)```/)?.[2]
-        ?.trim();
+      // match the json defined by the curly braces
+      let translatedJson = response.match(/\{.*\}/s)?.[0]?.trim();
       let translatedJsonObject: any;
 
       if (!translatedJson) {
