@@ -511,6 +511,31 @@
     "description": "Un place pour Marsha est l'un des nombreux projets de démarrage visant à aider les personnes transgenres et leurs familles dans des États de plus en plus dangereux, à un endroit plus sûr. APFM a commencé son voyage en mars 2023 en réaction à la montée de la législation anti-trans à travers la nation. APFM se concentre maintenant sur l'appariement des réfugiés des États rouges comme colocataires, gérant soigneusement un ménage à la fois."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "Église métropolitaine de la BONNE ESPÉRANCE",
+    "description": "Une communauté chrétienne progressiste et inclusive sur le plan théologique fondée sur les principes de Jésus-Christ qui célèbre la diversité et offre un espace sûr et non discriminatoire où tous sont les bienvenus. Faisant partie d'une congrégation chrétienne inclusive basée à Cape Town, en Afrique du Sud et faisant partie de la plus grande dénomination internationale connue sous le nom de Metropolitan Community Churches (MCC)."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "East Bay Trans & Queer Counseling",
     "description": "East Bay Trans & Queer Counseling offre des services à échelle mobile qui comprennent: Thérapie individuelle située au cœur de Berkeley, CA Soutien à travers l'exploration du genre et la transition Lettres de recommandation pour les hormones et la chirurgie Formations professionnelles pour les prestataires de soins de santé mentale, les étudiants et les employeurs. Sam Davis est un travailleur social clinique agréé (LCSW) transgenre, genderqueer, spécialisé dans le travail avec les adolescents et les adultes trans, queer, genderqueer et non-conformes. Ils ont 16 ans d'expérience en tant que prestataire de soins de santé mentale dans l'East Bay, y compris l'animation de groupes de soutien par les pairs, l'éducation communautaire lors de conférences LGBTQI, et 9 ans de pratique clinique et de conseil en cas de crise auprès de personnes fortement marginalisées pour le compte du comté d'Alameda. Ils sont un militant fort et engagé avec une longue histoire d'organisation au nom des personnes marginalisées."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub est une plateforme numérique d'information et de ressources pour toutes les personnes trans et de genre diversifié en NSW, leurs proches, alliés et fournisseurs de soins de santé. Il offre un accès à des informations et ressources dont une communauté n'aurait peut-être pas eu accès en grandissant ou en se rapprochant de leur véritable personnalité. Les informations vont des besoins médicaux tels que les hormones, les chirurgies et les listes de médecins, aux questions sociales et juridiques."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

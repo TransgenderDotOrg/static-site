@@ -511,6 +511,31 @@
     "description": "Ein Ort für Marsha ist eines von vielen Start-up-Projekten, die darauf abzielen, trans Personen und Familien in zunehmend gefährlichen Bundesstaaten an einen sichereren Ort zu helfen. APFM begann seine Reise im März 2023 als Reaktion auf den Anstieg von antitrans*-Gesetzgebung im ganzen Land. APFM konzentriert sich nun darauf, Flüchtlinge aus roten Bundesstaaten als Mitbewohner zu vermitteln und dabei sorgfältig einen Haushalt nach dem anderen zu behandeln."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan Gemeindekirche",
+    "description": "Eine theologisch progressive und inklusive christliche Gemeinschaft, die auf den Prinzipien von Jesus Christus gegründet wurde, Vielfalt feiert und einen sicheren, nicht wertenden Raum bietet, in dem alle willkommen sind. Teil einer inklusiven christlichen Gemeinde in Kapstadt, Südafrika und Teil der größeren internationalen Denomination, bekannt als Metropolitan Community Churches (MCC)."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "East Bay Trans & Queer Beratung",
     "description": "Die East Bay Trans & Queer Beratung bietet gleitende Skalen-Dienstleistungen an, die Folgendes beinhalten: Individuelle Therapie zentral gelegen in Berkeley, CA Unterstützung bei der Geschlechtsforschung und -überleitung Empfehlungsschreiben für Hormone und Operationen Professionelle Schulungen für Anbieter im Bereich der geistigen Gesundheit, Studenten und Arbeitgeber. Sam Davis ist ein transgender, genderqueer lizenzierter klinischer Sozialarbeiter (LCSW), der sich auf die Arbeit mit trans, queer, genderqueer und gender-nonkonformen Jugendlichen und Erwachsenen spezialisiert hat. Sie haben 16 Jahre Erfahrung als Anbieter im Bereich der geistigen Gesundheit in der East Bay, einschließlich der Moderation von Peer-Support-Gruppen, der Gemeindebildung auf LGBTQI-Konferenzen und 9 Jahre klinischer Praxis und Krisenberatung mit stark marginalisierten Menschen für den County of Alameda. Sie sind ein starker und engagierter Verfechter mit einer langen Geschichte der Organisation im Interesse marginalisierter Menschen."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub ist eine digitale Informations- und Ressourcenplattform für alle trans und geschlechtlich vielfältigen Menschen in NSW, ihre Lieben, Verbündeten und Gesundheitsdienstleister. Sie bietet Zugang zu dringend benötigten Informationen und Ressourcen für eine Gemeinschaft, die möglicherweise keinen Zugang dazu hatte, als sie aufwuchs oder zu ihrer authentischen Selbst heranwuchs. Die Informationen reichen von medizinischen Bedürfnissen wie Hormonen, Operationen und Ärztelisten bis hin zu sozialen und rechtlichen Fragen."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

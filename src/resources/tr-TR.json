@@ -511,6 +511,31 @@
     "description": "Marsha İçin Bir Yer, artan ölçüde tehlikeli eyaletlerdeki Trans bireylerin ve ailelerin daha güvenli bir yere geçiş yapmasına yardımcı olmayı hedefleyen birçok start-up projesinden biridir. APFM yolculuğuna, ülke genelinde anti-trans yasalarının artışına tepki olarak 2023 Mart'ında başladı. APFM şimdi, mültecileri kırmızı eyaletlerden oda arkadaşı olarak eşleştirmeye, her bir hanehalkını dikkatlice ele almaya odaklanıyor."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan Community Kilisesi",
+    "description": "Çeşitliliği kutlayan ve herkesin hoş geldiği güvenli, yargısız bir alan sağlayan, İsa Mesih'in ilkeleri üzerine kurulmuş teolojik olarak ilerici ve kapsayıcı bir Hristiyan topluluğu. Cape Town, Güney Afrika'da bulunan ve Metropolitan Community Churches (MCC) olarak bilinen daha büyük uluslararası mezhep olan kapsayıcı bir Hristiyan cemaatinin bir parçası."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "East Bay Trans & Queer Danışmanlık",
     "description": "East Bay Trans & Queer Danışmanlık, merkezi Berkeley, CA'da bulunan bireysel terapi sunan, cinsiyet keşfi ve geçiş desteği, hormonlar ve cerrahi için tavsiye mektubu, akıl sağlığı sağlayıcıları, öğrenciler ve işverenler için profesyonel eğitimler sunan bir slayt ölçekli hizmetler sunar. Sam Davis, trans, queer, cinsiyetçi, cinsiyet-uyumsuz gençler ve yetişkinlerle çalışmada uzmanlaşmış bir Lisanlı Klinik Sosyal Çalışmacı (LCSW)'dır. East Bay'de bir akıl sağlığı sağlayıcısı olarak 16 yıllık tecrübeye sahiptirler, bu da LGBTQI konferanslarındaki topluluk eğitimi ve Alameda Eyaleti için ağır bir şekilde marjinalleştirilmiş insanlarla klinik uygulama ve kriz danışmanlığı yapmayı içerir. Marjinalleştirilmiş insanlar adına örgütlenme konusunda uzun bir geçmişe sahip güçlü ve kararlı bir savunucu olan Sam, aynı zamanda diğerleri için bilgilendirici bir rol modeldir."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub, NSW'deki tüm trans ve cinsiyet çeşitliliği olan kişiler, sevdikleri, müttefikleri ve sağlık sağlayıcıları için dijital bir bilgi ve kaynak platformudur. Kendi otantik benliklerine doğru büyümeyi başaran bu topluluk için çok gereken bilgi ve kaynaklara erişim sağlar. Bilgi, hormonlar, ameliyatlar ve doktor listeleri gibi tıbbi ihtiyaçlardan sosyal ve hukuki meselelere kadar uzanır."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

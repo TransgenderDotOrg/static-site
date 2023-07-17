@@ -1,0 +1,110 @@
+{
+  "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+  "slug": "gender-centre",
+  "externalUrl": "https://gendercentre.org.au/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "healthcare"
+  ],
+  "address": null,
+  "phoneNumber": "02 9519 7599",
+  "country": "AU",
+  "provinceOrState": null,
+  "city": "Sydney",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc. is providing a broad range of specialised services that enables the exploration of gender identity and assistance with the alleviation of gender dysphoria. It supports trans and gender expressive people at every stage of their journey as they explore and live their authentic sense of self. It offers accommodation, case management, education & training, counseling & mental health services, groups, news, and resources."
+    },
+    "fr-FR": {
+      "title": "Le Centre de Genre Inc.",
+      "description": "Le Centre de Genre Inc. fournit un large éventail de services spécialisés permettant l'exploration de l'identité de genre et l'aide à l'allégement de la dysphorie de genre. Il soutient les personnes trans et exprimant le genre à chaque étape de leur parcours alors qu'elles explorent et vivent leur sens authentique de soi. Il propose des logements, la gestion de cas, l'éducation & la formation, le conseil & les services de santé mentale, les groupes, les actualités et les ressources."
+    },
+    "es-ES": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc. proporciona una amplia gama de servicios especializados que permiten la exploración de la identidad de género y la ayuda para aliviar la disforia de género. Apoya a las personas trans y de género expresivo en cada etapa de su viaje mientras exploran y viven su auténtico sentido de sí mismos. Ofrece alojamiento, administración de casos, educación y formación, servicios de consejería y salud mental, grupos, noticias y recursos."
+    },
+    "id-ID": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc. menyediakan berbagai layanan khusus yang memungkinkan eksplorasi identitas gender dan bantuan untuk mengurangi dysphoria gender. Ini mendukung orang-orang trans dan berpenyuaran gender di setiap tahap perjalanan mereka saat mereka mengeksplorasi dan hidup dengan rasa diri yang otentik. Ini menawarkan akomodasi, manajemen kasus, pendidikan & pelatihan, layanan kesehatan mental & konseling, grup, berita, dan sumber daya."
+    },
+    "zh-CN": {
+      "title": "性别中心公司",
+      "description": "性别中心公司提供各种专业服务，这些服务帮助人们探索性别认同，缓解性别烦躁症。它支持跨性别者和性别表达者在他们寻求并体验真实自我的过程中的每一个阶段。它提供住宿，案例管理，教育和培训，咨询和心理健康服务，小组，新闻，以及资源。"
+    },
+    "pt-PT": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc. está fornecendo uma ampla gama de serviços especializados que permitem a exploração da identidade de gênero e assistência com a alleviação da disforia de gênero. Apoia pessoas trans e expressivas de gênero em todas as etapas de sua jornada enquanto exploram e vivem seu autêntico senso de si. Oferece acomodação, gerenciamento de caso, educação e treinamento, serviços de aconselhamento e saúde mental, grupos, notícias e recursos."
+    },
+    "de-DE": {
+      "title": "Das Gender-Zentrum Inc.",
+      "description": "Das Gender-Zentrum Inc. bietet eine breite Palette spezialisierter Dienste, die die Erforschung der Geschlechtsidentität ermöglichen und bei der Linderung der Geschlechtsdysphorie helfen. Es unterstützt transidente und geschlechtsausdrückende Menschen in jeder Phase ihrer Reise, während sie ihren authentischen Sinn für das Selbst erforschen und leben. Es bietet Unterbringung, Fallmanagement, Bildungs- und Ausbildungsdienstleistungen, Beratung und psychische Gesundheitsdienste, Gruppen, Nachrichten und Ressourcen."
+    },
+    "ko-KR": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc.는 성 정체성 탐색 및 성 역겹음증 완화를 돕는 다양한 전문 서비스를 제공합니다. 그것은 사람들이 진심으로 스스로를 인지하고 살아갈 수 있도록 여정의 모든 단계에서 트랜스와 성 표현 인물들을 지원합니다. 숙박 시설, 사례 관리, 교육 및 훈련, 상담 및 정신 건강 서비스, 그룹, 뉴스, 자료 등을 제공합니다."
+    },
+    "sw-KE": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc. inatoa huduma mbalimbali maalumu ambazo zinaruhusu uchunguzi wa utambulisho wa jinsia na msaada wa kupunguza mzozo wa jinsia. Inasaidia watu trans na waonyeshaji wa jinsia katika kila hatua ya safari yao wanapoanza kuchunguza na kuishi hisia zao halisi za nafsi. Inatoa makazi, usimamizi wa kesi, elimu na mafunzo, ushauri na huduma za afya ya akili, vikundi, habari, na rasilimali."
+    },
+    "tr-TR": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc., cinsiyet kimliğinin keşfini ve cinsiyet disforisinin hafifletilmesine yardımcı olabilecek çok çeşitli özel hizmetler sunmaktadır. Trans ve cinsiyet ifadesini yaşayan kişilere, kendilerini otantik olarak yaşama ve keşfetme yolculuklarının her aşamasında destek olmaktadır. Konaklama, davetsiz misafir yönetimi, eğitim & eğitim, danışmanlık & ruh sağlığı hizmetleri, gruplar, haberler ve kaynaklar sunmaktadır."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Giới tính Inc.",
+      "description": "Trung tâm Giới tính Inc. cung cấp một loạt các dịch vụ chuyên biệt giúp khám phá bản sắc giới tính và hỗ trợ giảm nhẹ sự mất ổn định giới tính. Nó hỗ trợ những người chuyển giới và những người thể hiện giới tính tại mọi giai đoạn của hành trình của họ khi họ khám phá và sống với bản sắc thực sự của họ. Nó cung cấp chỗ ở, quản lý hồ sơ, giáo dục & đào tạo, tư vấn & dịch vụ sức khỏe tâm thần, nhóm, tin tức và nguồn lực."
+    },
+    "ar-SA": {
+      "title": "مركز الجندر إنك.",
+      "description": "يقدم مركز الجندر إنك. مجموعة واسعة من الخدمات المتخصصة التي تتيح استكشاف الهوية الجندرية والمساعدة في تخفيف الاضطراب الجنسي. يدعم الأشخاص ذوي التعبير الجندري والمتحولين جنسياً في كل مرحلة من رحلتهم أثناء استكشافهم وعيشهم لمعنى الذات الحقيقي. يقدم الإقامة، إدارة الحالات، التعليم والتدريب، خدمات الإرشاد والصحة النفسية، المجموعات، الأخبار، والموارد."
+    },
+    "ja-JP": {
+      "title": "ジェンダーセンターInc.",
+      "description": "ジェンダーセンターInc.は、ジェンダーアイデンティティの探求と、性別不一致の軽減を支援するための幅広い専門サービスを提供しています。彼らが自分自身の本当の意味を探求し、生きるたびにトランスジェンダーやジェンダー表現の人々を支援します。宿泊、ケース管理、教育＆訓練、カウンセリング＆メンタルヘルスサービス、グループ、ニュース、リソースを提供しています。"
+    },
+    "ru-RU": {
+      "title": "Центр гендерных исследований Инк.",
+      "description": "Центр гендерных исследований Инк. предоставляет широкий спектр специализированных услуг, которые позволяют изучать гендерную идентичность и помогают в снятии гендерного дискомфорта. Он поддерживает транс-людей и людей, выражающих свой гендер, на каждом этапе их пути, помогая им исследовать и проживать свое подлинное Я. Центр предлагает жилье, управление делами, образование и обучение, психологическое консультирование и услуги в области психического здоровья, общественные группы, новости и ресурсы."
+    },
+    "ur-PK": {
+      "title": "The Gender Centre Inc.",
+      "description": "The Gender Centre Inc. جنسیتی شناخت کی تلاش اور جنسیتی ناارامی کی کمی کی مدد کرنے کے لئے وسیع خدمات فراہم کر رہا ہے. یہ ہر مرحلے پر خود کو جنسیتی جاتی نما اور خود کو اصلی لگنے والے لوگوں کی حمایت کرتا ہے جبکہ وہ اپنی اصلی خود کی تلاش اور زندگی گزارتے ہیں. اس میں رہایش، مقدمہ کی منظم کرنے، تعلیم و تربیت، مشاورت و ذہنی صحت کی خدمات، گروہ، خبریں، اور وسائل شامل ہیں."
+    },
+    "mr-IN": {
+      "title": "लिंग केंद्र ईन्क.",
+      "description": "लिंग केंद्र ईन्क. हे लिंग परिचयाची शोध आणि लिंगीय अस्वस्थतेच्या कमीकरणास मदत करणारी विशेषज्ञतेची विविध सेवा प्रदान करत आहे. हे प्रत्येक तपशीली यात्रेच्या प्रत्येक टप्प्यावर तांत्रिक आणि लिंगाचे व्यक्त करणार्‍या लोकांच्या मदतीस आहे ज्यांनी त्यांच्या मूळ आत्मसात्ता स्पष्ट केलेली आहे. त्यातली आहेत वासयात्राची सुविधा, प्रकरण व्यवस्थापन, शिक्षण आणि प्रशिक्षण, मानसिक स्वास्थ्य सेवा आणि समूह., बातम्या आणि संसाधने."
+    },
+    "hi-IN": {
+      "title": "द जेंडर सेंट्रे इंक।",
+      "description": "द जेंडर सेंट्रे इंक प्रसार सविस्तर सेवाओं की प्रदान करता है जो लिंग पहचान की खोज और लिंग असंतुष्टि के निवारण में सहयोग करती है। यह हर चरण पर ट्रांस और जेंडर एक्सप्रेसिव लोगों का समर्थन करता है जब वे अपनी वास्तविक पहचान की खोज और जीवन जीते हैं। यह आवास, मामले प्रबंधन, शिक्षा और प्रशिक्षण, मनोविज्ञान की सेवाएं, समूह, समाचार और संसाधन प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "দ্য জেন্ডার সেন্টার ইনক.",
+      "description": "দ্য জেন্ডার সেন্টার ইনক. যাদের মাধ্যমে জেন্ডার আইডেন্টিটি অনুসন্ধান এবং জেন্ডার ডিসফোরিয়া অবসাদনে সমর্থন প্রদান করার জন্য এক বিস্তৃত সেবা প্রদান করা হচ্ছে। এর সমর্থন প্রদান করা হচ্ছে ত্রাণ এবং জেন্ডার প্রকাশক মানুষদের, যখন তারা তাদের প্রামাণিক আত্ম অনুভূতি অনুসন্ধান এবং বাস্তবায়ন করার প্রতিটি পর্যায়ে। এটি বাসস্থান, মামলা ব্যবস্থাপনা, শিক্ষা ও প্রশিক্ষণ, পরামর্শ ও মানসিক স্বাস্থ্য সেবা, গোষ্ঠী, খবর, এবং সম্পদ প্রদান করে।"
+    },
+    "uk-UA": {
+      "title": "Центр Гендера Інк.",
+      "description": "Центр Гендера Інк. надає широкий спектр спеціалізованих послуг, які допомагають досліджувати гендерну ідентичність та сприяють зменшенню гендерної дисфорії. Центр підтримує транс- та гендерно виразні особи на всіх етапах їхньої подорожі, допомагаючи їм досліджувати та жити відповідно до їхнього справжнього відчуття себе. Він пропонує житло, керування випадками, освіту та навчання, консультації та послуги з психічного здоров'я, групи, новини та ресурси."
+    },
+    "te-IN": {
+      "title": "The Gender Centre Inc.",
+      "description": "జెండర్ సెంటర్ Inc. అనేది జెండర్ ఐడెంటిటీ అన్వేషణ మరియు జెండర్ డిస్ఫోరియాను తగ్గించడానికి సహాయం ఒక విస్తారణా సేవలాన్నింటిని అందిస్తోంది. ఇది తమ యాథార్థిక అనుభూతినే అనుపయోగించి ప్రయాణం చేసే ప్రతి దశలో ట్రాన్స్ మరియు జెండర్ ఆహ్వాన వ్యక్తులను మద్దతుగా ఉంది. ఇది ఆవాస వ్యవస్థ, కేసు నిర్వహణ, విద్యా & ప్రశిక్షణ, కన్సిలింగ్ & మానసిక ఆరోగ్య సేవలు, సమూహాలు, వార్తలు, మరియు సంపన్నాలు అందిస్తుంది."
+    },
+    "ta-IN": {
+      "title": "தசை மையம் இன்க்.",
+      "description": "தசை மையம் இன்க். பல்வேறு தனிப்பட்ட சேவைகளை வழங்கி, தசை அடையாளத்தை ஆராயும் மேலாண்மைக்கு ஆதாரமளிக்கின்றது மற்றும் தசை முனைப்பை இளைப்பதில் உதவின்றது. அவர்கள் உண்மையான தன்னை ஆராயும் மற்றும் வாழ்ந்து கொண்டிருக்கும் பயணத்தின் ஒவ்வொரு நிலையிலும் அது மாறிப்பாட்டு மற்றும் தசை இயற்பாடு மக்களை ஆதரிக்கின்றது. அது குடிசை, வழிவகுக்கum் மேலாண்மை, கல்வி & பயில்ட்டுவக்கும், ஆலோசனையும் மாநகிக சுவாரஸ்திர சேவைகளும், குழுக்களும், செய்திகளும், வளங்களும் வழங்குகின்றது."
+    }
+  }
+}

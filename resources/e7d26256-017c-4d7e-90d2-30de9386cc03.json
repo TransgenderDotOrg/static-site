@@ -1,0 +1,111 @@
+{
+  "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+  "slug": "twenty10",
+  "externalUrl": "https://twenty10.org.au/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Sydney",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Twenty10",
+      "description": "Twenty10 including GLCS provides various life-changing services to young people across NSW who identify as lesbian, gay, bisexual, transgender or gender diverse, intersex, queer, asexual or are questioning their identity. Their services include intake and referral, housing and case management, counseling, social support programs, and LGBTIQA+ inclusivity training"
+    },
+    "fr-FR": {
+      "title": "Twenty10",
+      "description": "Twenty10, y compris GLCS, offre divers services qui changent la vie des jeunes à travers NSW qui s'identifient comme lesbiennes, gays, bisexuels, transgenres ou diversités de genre, intersexués, queers, asexués ou qui questionnent leur identité. Leurs services incluent l'accueil et l'orientation, le logement et la gestion de cas, le conseil, les programmes de soutien social et la formation à l'inclusivité LGBTIQA+"
+    },
+    "de-DE": {
+      "title": "Twenty10",
+      "description": "Twenty10 einschließlich GLCS bietet verschiedene lebensverändernde Dienstleistungen für junge Menschen in ganz NSW an, die sich als lesbisch, schwul, bisexuell, transgender oder geschlechtsdivers, intersexuell, queer, asexuell identifizieren oder ihre Identität in Frage stellen. Ihre Dienstleistungen umfassen Aufnahme und Überweisung, Wohnen und Fallmanagement, Beratung, soziale Unterstützungsprogramme und LGBTIQA+ Inklusionstraining"
+    },
+    "tr-TR": {
+      "title": "Twenty10",
+      "description": "Twenty10, GLCS'yi de içererek NSW genelinde lezbiyen, gay, biseksüel, transseksüel veya cinsiyet çeşitliliği olan, interseks, queer, aseksüel veya kimliklerini sorgulayan gençlere hayatlarını değiştiren çeşitli hizmetler sunar. Hizmetleri arasında kabul ve yönlendirme, konut ve durum yönetimi, danışmanlık, sosyal destek programları ve LGBTIQA+ kapsayıcılık eğitimi bulunmaktadır."
+    },
+    "pt-PT": {
+      "title": "Twenty10",
+      "description": "A Twenty10, incluindo a GLCS, oferece diversos serviços que mudam a vida de jovens em todo o NSW que se identificam como lésbicas, gays, bissexuais, transgêneros ou diversidade de gênero, intersexuais, queer, assexuais ou estão questionando sua identidade. Seus serviços incluem acolhimento e encaminhamento, moradia e gestão de casos, aconselhamento, programas de apoio social e treinamento de inclusividade LGBTIQA+"
+    },
+    "es-ES": {
+      "title": "Twenty10",
+      "description": "Twenty10, incluyendo GLCS, proporciona varios servicios que cambian la vida a los jóvenes en NSW que se identifican como lesbianas, gays, bisexuales, transgénero o de género diverso, intersexuales, queer, asexuales o que están cuestionando su identidad. Sus servicios incluyen admisión y derivación, vivienda y gestión de casos, asesoramiento, programas de apoyo social y capacitación en inclusividad LGBTIQA+"
+    },
+    "sw-KE": {
+      "title": "Twenty10",
+      "description": "Twenty10 pamoja na GLCS inatoa huduma mbalimbali za kubadilisha maisha kwa vijana kote NSW ambao wanajitambulisha kama wasagaji, mashoga, wasio na jinsia, wanaobadili jinsia au wenye jinsia tofauti, intersex, queer, asexual au wanaouliza juu ya kitambulisho chao. Huduma zao ni pamoja na kuchukua na kuelekeza, makaazi na usimamizi wa kesi, ushauri, mipango ya msaada wa kijamii, na mafunzo ya kuwajumuisha LGBTIQA+"
+    },
+    "id-ID": {
+      "title": "Twenty10",
+      "description": "Twenty10 termasuk GLCS menyediakan berbagai layanan yang mengubah hidup bagi para pemuda di seluruh NSW yang mengidentifikasi diri sebagai lesbian, gay, biseksual, transgender atau beragam jenis kelamin, interseks, queer, aseksual atau sedang mempertanyakan identitas mereka. Layanan mereka termasuk penerimaan dan rujukan, perumahan dan manajemen kasus, konseling, program dukungan sosial, dan pelatihan inklusivitas LGBTIQA+"
+    },
+    "ko-KR": {
+      "title": "Twenty10",
+      "description": "Twenty10은 GLCS를 포함하여 레즈비언, 게이, 양성애자, 트랜스젠더 또는 성 다양성, 성 중성, 퀴어, 무성애자 또는 자신의 신분을 질문하는 뉴사우스웨일스의 젊은이들에게 다양한 삶을 바꾸는 서비스를 제공합니다. 그들의 서비스에는 인테이크 및 참조, 주거 및 사례 관리, 상담, 사회적 지원 프로그램, 그리고 LGBTIQA+ 포괄성 교육이 포함됩니다"
+    },
+    "vi-VN": {
+      "title": "Twenty10",
+      "description": "Twenty10 bao gồm GLCS cung cấp các dịch vụ thay đổi cuộc sống cho các bạn trẻ ở NSW định danh của mình là đồng tính, song tính, chuyển giới hoặc đa giới tính, liệt dị hóa, queer, không dục tính hoặc đang đặt câu hỏi về bản sắc của mình. Các dịch vụ của họ bao gồm tiếp nhận và giới thiệu, nhà ở và quản lý vụ kiện, tư vấn, các chương trình hỗ trợ xã hội, và đào tạo về sự bao dung của LGBTIQA+"
+    },
+    "zh-CN": {
+      "title": "Twenty10",
+      "description": "Twenty10包括GLCS为新南威尔士州各地认同为同性恋、双性恋、变性人、性别多元、两性人、酷儿、无性恋或正在质疑其身份的年轻人提供各种改变生活的服务。他们的服务包括接纳和转介，住房和案例管理，咨询，社会支持项目，以及LGBTIQA+包容性培训"
+    },
+    "ja-JP": {
+      "title": "Twenty10",
+      "description": "Twenty10はGLCSを含む、レズビアン、ゲイ、バイセクシャル、トランスジェンダーまたはジェンダーダイバース、インターセックス、クイア、セクシャル、または自分のアイデンティティについて疑問を持つ若者に対し、NSW全域でさまざまな人生を変えるサービスを提供します。彼らのサービスには、インテークとリファーラル、住宅とケースマネジメント、カウンセリング、社会支援プログラム、およびLGBTIQA+ の包括性トレーニングが含まれます"
+    },
+    "ru-RU": {
+      "title": "Twenty10",
+      "description": "Twenty10, включая GLCS, предоставляет различные услуги, меняющие жизнь молодых людей во всем Новом Южном Уэльсе, которые идентифицируют себя как лесбиянки, геи, бисексуалы, трансгендеры или люди с измененной гендерной принадлежностью, интерсексуалы, квир, асексуалы или задающие вопросы о своей идентичности. Их услуги включают прием и направление, жилищное и кейс-менеджмент, консультирование, социальные поддерживающие программы и обучение инклюзивности LGBTIQA+"
+    },
+    "ar-SA": {
+      "title": "Twenty10",
+      "description": "تقدم Twenty10 بما في ذلك GLCS خدمات متنوعة تغير الحياة للشباب في جميع أنحاء NSW الذين يتعرفون على أنفسهم كمثليين، مثليات، مزدوجي الجنس، متحولين جنسياً أو غير ثابتي الجنس، متغايري الجنس، غير واضحي الميول أو هم يتساءلون عن هويتهم. تشمل خدماتهم القبول والإحالة، الإسكان وإدارة الحالات، المشورة، برامج الدعم الاجتماعي، وتدريب على الشمول فيما يتعلق بمجتمع LGBTIQA+"
+    },
+    "uk-UA": {
+      "title": "Twenty10",
+      "description": "Twenty10, включаючи GLCS, надає різні життєзмінні послуги для молодих людей по всьому Новому Південному Уельсу, які визначають себе як лесбійки, геї, бісексуали, трансгендери або гендерно різноманітні, інтерсексуали, квіри, асексуали або перебувають у стадії запитань щодо своєї ідентичності. Їхні послуги включають прийом та направлення, житло та управління справами, консультування, соціальні підтримувальні програми та навчання з урахуванням інклюзивності ЛГБТІКА+"
+    },
+    "ur-PK": {
+      "title": "Twenty10",
+      "description": "Twenty10 جس میں GLCS شامل ہے ، جو نوجوانوں کے جو لیزبین ، گے ، بائسیکسول ، ٹرانسجینڈر  یا جنس تنگ نظر ، خود کی شناخت کے بارے میں سوال کرنے والے ، انٹرسیکس ، حیرت آنگیز ، نارمل یا ان کی شناخت کے بارے میں سوال کرنے والے ہیں کے لئے NSW میں مختلف زندگی بدلتی ہوئی خدمات فراہم کرتا ہے۔ ان کی خدمات میں داخلا اور حوالہ ، رہائشی اور معاملہ جاتی انتظام ، کونسلنگ ، سماجی مدد کے پروگرام ، اور LGBTIQA+ شامل ہونے کی تربیت شامل ہے"
+    },
+    "mr-IN": {
+      "title": "Twenty10",
+      "description": "Twenty10 ज्याचा चुकीचं पर्यायी नाव GLCS आहे, ते NSW येथील तरुणांना विविध आयुष्य बदलकरच्या सेवा देते, ज्यांची ओळख लेस्बियन, गे, बायसेक्सुअल, ट्रांसजेन्डर किंवा जाती विचलित, इंटरसेक्स, क्विअर, अलिंगी किंवा त्यांच्या ओळखीत संदेह असलेल्यांच्या रूपात आहे. त्यांच्या सेवांमध्ये त्राण आणि संदर्भ, निवास आणि प्रकरण व्यवस्थापन, सल्लागारी, सामाजिक सहाय्य कार्यक्रम आणि LGBTIQA+ समावेशकता प्रशिक्षण आहे"
+    },
+    "bn-BD": {
+      "title": "টোয়েন্টি10",
+      "description": "লেসবিয়ান, গে, বাইসেক্সুয়াল, ট্রান্সজেন্ডার বা জেন্ডার বৈচিত্র্যপূর্ণ, ইন্টারসেক্স, কুইয়ার, এসেক্সুয়াল বা তাদের পরিচয়ের ওপর প্রশ্ন করতে চাওয়া নিউ সাউথ ওয়েলসজনীত যুবকের জন্য বিভিন্ন প্রাণবন্ত সেবা প্রদান বা তাদের সাথে টোয়েন্টি10 অন্তর্গত GLCS। হাউসিং এবং মামলা ব্যবস্থাপনা, পরামর্শ, সামাজিক সহায়তা কার্যক্রম এবং LGBTIQA+ অবধারণা প্রশিক্ষণ অন্তর্গত তাদের সেবা।"
+    },
+    "hi-IN": {
+      "title": "Twenty10",
+      "description": "Twenty10 सहित GLCS NSW के भर में उन युवाओं को विभिन्न जीवन बदलने वाली सेवाएं प्रदान करती है जो लेसबियन, समलैंगिक, द्विलिंगी, ट्रांसजेंडर या लिंग विविधता, अंतरलैंगी, क्वीर, एसेक्सुअल पहचानते हैं या अपनी पहचान पर प्रश्न कर रहे हैं। उनकी सेवाएं स्वीकार और हवाला, आवास और मामला प्रबंधन, मनोवैज्ञानिक परामर्श, सामाजिक सहयोग कार्यक्रम, और LGBTIQA+ समावेशी प्रशिक्षण शामिल हैं"
+    },
+    "ta-IN": {
+      "title": "Twenty10",
+      "description": "Twenty10 உள்ளிட்ட GLCS ஆகியன வாழ்கையை மாற்றிய பல்வேறு சேவைகளை லெஸ்பியன், கேலி, இருபால்காமியாக அழைக்கப்படுகின்ற, மாற்றுப் பாலினமாக அழைக்கப்படுகிறது, கலைஞர், கீராக, காமத்துக்கு ஆஸையற்றவர் அல்லது அவர்கள் அடையாளத்தை கேள்விப்பதற்கு NSW மாநில மாணவர்களுக்கு வழங்குகின்றது. அவர்களின் சேவைகள் நுழைவுக்கும் மதிப்பைப் பொருத்துதல், வீட்டாக மற்றும் வழக்கு மேலாண்மை, ஆலோசனை, சமூக ஆதரவு திட்டங்கள், மற்றும் LGBTIQA+ அணுகுமுறைத் தரப்பு"
+    },
+    "te-IN": {
+      "title": "Twenty10",
+      "description": "Twenty10 మరియు GLCS వివిధ జీవమార్పణ సేవలను ఆంధ్రప్రదేశదానికి చెందిన యువతరాలకు అందిస్తుంది, వారు లెస్బియన్, గేయ్, బైసెక్సువల్, ట్రాన్స్జెండర్ లేదా జెండర్ డివర్స్, ఇంటర్సెక్స్, క్వియర్, అసెక్షుఅల్ లేదా వారు తమ గురించి ప్రశ్నించవచ్చు. వారి సేవలు ఇన్టేక్ మరియు రిఫెరల్, ఆవాసం మరియు కేసు నిర్వహణ, కౌన్సిలింగ్, సోషల్ మద్దతు కార్యక్రమాలు, మరియు LGBTIQA+ సమావేశత్వ ప్రశిక్షణ ఉన్నాయి"
+    }
+  }
+}

@@ -511,6 +511,31 @@
     "description": "Một nơi cho Marsha là một trong nhiều dự án khởi nghiệp hướng tới việc hỗ trợ cho các cá nhân và gia đình Trans trong các bang ngày càng nguy hiểm tới một nơi an toàn hơn. APFM bắt đầu hành trình của mình vào tháng 3 năm 2023 phản ứng trước sự gia tăng của các dự luật chống trans trên toàn quốc. APFM giờ đây tập trung vào việc ghép đôi những người tị nạn từ các bang đỏ làm bạn cùng phòng, cẩn thận xử lý từng hộ gia đình một."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan Community Church",
+    "description": "Một cộng đồng Kitô giáo tiến bộ về mặt thần học và bao dung, được thành lập trên các nguyên tắc của Chúa Giêsu Kitô, hoan nghênh sự đa dạng và cung cấp một không gian an toàn, không đánh giá mọi người. Là một phần của giáo hội Kitô giáo bao dung có trụ sở tại Cape Town, Nam Phi và là một phần của tôn giáo lớn quốc tế được biết đến với tên gọi Giáo Hội Cộng Đồng Metropolitan (MCC)."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "Tư vấn Trans & Queer East Bay",
     "description": "Tư vấn Trans & Queer East Bay cung cấp các dịch vụ theo quy mô trượt bao gồm: Trị liệu cá nhân tọa lạc tại trung tâm Berkeley, CA Hỗ trợ qua việc khám phá giới tính và chuyển đổi Thư giới thiệu cho hormones và phẫu thuật Đào tạo chuyên nghiệp cho các nhà cung cấp sức khỏe tâm thần, sinh viên và nhà tuyển dụng. Sam Davis là một người chuyển giới, giới tính mờ Lisenced Clinical Social Worker (LCSW) chuyên về việc làm việc với các thiếu niên và người lớn trans, queer, giới tính hoà mình và giới tính không tuân thủ. Họ có 16 năm kinh nghiệm là người cung cấp sức khỏe tâm thần tại East Bay, bao gồm việc hỗ trợ nhóm hỗ trợ ngang hàng, giáo dục cộng đồng tại các hội nghị LGBTQI và 9 năm thực hành lâm sàng và tư vấn khủng hoảng cho những người bị cô lập nặng nề tại Quận Alameda. Họ là một người ủng hộ mạnh mẽ và cam kết với lịch sử tổ chức dài hạn đại diện cho những người bị đẩy lề."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub là nền tảng thông tin và tài nguyên số cho tất cả mọi người trans và đa dạng giới tính tại NSW, những người thân yêu của họ, đồng minh và nhà cung cấp sức khỏe. Nó cung cấp quyền truy cập vào thông tin và tài nguyên rất cần thiết cho một cộng đồng mà có thể không có quyền truy cập vào như khi họ lớn lên hoặc phát triển hướng tới bản ngã thực sự của mình. Thông tin bao gồm các nhu cầu y tế như hormone, phẫu thuật và danh sách bác sĩ đến các vấn đề xã hội và pháp lý."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

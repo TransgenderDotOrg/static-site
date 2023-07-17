@@ -511,6 +511,31 @@
     "description": "Marsha的归属地是许多初创项目之一，旨在帮助男女转型者和家庭从越来越危险的状态转移到更安全的地方。 APFM从2023年3月开始行动，以回应全国范围内的反转型立法潮流。 APFM现在专注于将来自红色州的难民作为室友进行匹配，小心翼翼地处理一个家庭。"
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan 社区教堂",
+    "description": "这是一个以耶稣基督的原则为基础的理论上进步和包容的基督教社区，它庆祝多样性并提供一个安全，无评判的空间，欢迎所有人。 是南非开普敦基督教包容乡村基地的一部分，也是被称为大都会社区教堂（MCC）的大型国际教派的一部分。"
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "东湾跨性别与酷儿咨询",
     "description": "东湾跨性别与酷儿咨询提供滑动比例服务，包括：位于伯克利，CA的个人治疗，支持性别探索和过渡，为激素和手术提供推荐信，为心理健康提供者，学生和雇主提供专业培训。Sam Davis 是一位跨性别的，酷儿的持照临床社会工作者(LCSW)，专门为跨性别，酷儿，酷儿，和性别不形式的青少年和成年人提供专业服务。他们有16年作为东湾地区的心理健康提供者的经验，包括促进同行支持小组，LGBTQI大会的社区教育，以及9年为阿拉米达县严重边缘化的人提供临床实践和危机咨询。他们是一位有着长期为边缘化人群组织的坚强而坚定的倡导者。"
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub是新南威尔士州所有跨性别和性别多元人士、他们的亲人、盟友和卫生提供者的数字信息和资源平台。它为已经或逐渐向真实自我发展的社区提供了他们从未曾拥有过的信息和资源的访问途径。信息包括从医疗需求，如荷尔蒙，手术和医生列表，到社会和法律问题等。"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

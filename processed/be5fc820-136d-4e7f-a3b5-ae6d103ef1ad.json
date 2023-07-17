@@ -1,0 +1,26 @@
+{
+  "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+  "title": "The Gender Centre Inc.",
+  "description": "The Gender Centre Inc. is providing a broad range of specialised services that enables the exploration of gender identity and assistance with the alleviation of gender dysphoria. It supports trans and gender expressive people at every stage of their journey as they explore and live their authentic sense of self. It offers accommodation, case management, education & training, counseling & mental health services, groups, news, and resources.",
+  "slug": "gender-centre",
+  "externalUrl": "https://gendercentre.org.au/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "healthcare"
+  ],
+  "address": null,
+  "phoneNumber": "02 9519 7599",
+  "country": "AU",
+  "provinceOrState": null,
+  "city": "Sydney",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

@@ -511,6 +511,31 @@
     "description": "Um Lugar para Marsha é um de muitos projetos start-up com o objetivo de ajudar indivíduos Trans e famílias em estados cada vez mais perigosos para um lugar mais seguro. APFM iniciou sua jornada em março de 2023 em reação ao aumento da legislação anti-trans em todo o país. APFM agora se concentra em combinar Refugiados de estados vermelhos como colegas de quarto, cuidando cuidadosamente de uma casa de cada vez."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan Community Church",
+    "description": "Uma comunidade cristã teologicamente progressista e inclusiva, fundada sobre os princípios de Jesus Cristo, que celebra a diversidade e oferece um espaço seguro e não julgador onde todos são bem-vindos. Parte de uma congregação cristã inclusiva baseada na Cidade do Cabo, África do Sul, e parte da maior denominação internacional conhecida como Metropolitan Community Churches (MCC)."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "Aconselhamento Trans & Queer da East Bay",
     "description": "O Aconselhamento Trans & Queer da East Bay oferece serviços em escala móvel que incluem: Terapia individual localizada centralmente em Berkeley, CA Suporte através da exploração de gênero e transição Cartas de recomendação para hormônios e cirurgia Treinamentos profissionais para provedores de saúde mental, estudantes e empregadores. Sam Davis é um Trabalhador Social Clínico licenciado, transgênero, genderqueer (LCSW) especializado em trabalhar com adolescentes e adultos trans, queer, genderqueer e não conformes com o gênero. Eles têm 16 anos de experiência como provedor de saúde mental na East Bay, incluindo facilitação de grupo de apoio de pares, educação comunitária em conferências LGBTQI e 9 anos de prática clínica e aconselhamento em crises com pessoas severamente marginalizadas pelo Condado de Alameda. Eles são um forte e comprometido advogado com uma longa história de organização em nome de pessoas marginalizadas."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub é uma plataforma digital de informação e recursos para todas as pessoas trans e de gênero diverso em NSW, seus entes queridos, aliados e provedores de saúde. Ele fornece acesso a informações e recursos muito necessários para uma comunidade que pode não ter tido acesso a tais informações à medida que cresceram ou evoluíram para seus autênticos. A informação varia de necessidades médicas como hormônios, cirurgias e listas de médicos a questões sociais e legais."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

@@ -511,6 +511,31 @@
     "description": "Mahali pa Marsha ni moja ya miradi mingi ya kuanzia inayolenga kusaidia watu wa Trans na familia zao katika majimbo yanayozidi kuwa hatari kuelekea mahali salama. APFM ilianza safari yake mwezi Machi wa 2023 kufuatia kuongezeka kwa sheria za kupinga-trans kote nchini. APFM sasa inazingatia kuwalinganisha Wakimbizi kutoka majimbo mekundu kama wenye vyumba, kushughulikia kwa makini kaya moja kwa wakati."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan Community Church",
+    "description": "Jumuiya ya Kikristo inayojumuisha na inayosonga mbele kisoma kimeanzishwa kwenye kanuni za Yesu Kristo ambayo inasherehekea utofauti na hutoa nafasi salama, isiyo na hukumu ambapo wote wanakaribishwa. Sehemu ya kusanyiko la Kikristo linalojumuisha lililoko Cape Town, Afrika Kusini na sehemu ya dhehebu kubwa la kimataifa lijulikanalo kama Metropolitan Community Churches (MCC)."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "Ushauri wa Trans & Queer wa East Bay",
     "description": "East Bay Trans & Queer Counseling inatoa huduma za mfumo wa alama ambazo zinajumuisha: Tiba ya kibinafsi iliyo katikati ya Berkeley, CA Support kupitia utambuzi wa jinsia na mabadiliko Barua za mapendekezo za homoni na upasuaji Mafunzo ya kitaalamu kwa wasambazaji wa afya ya akili, wanafunzi, na waajiri. Sam Davis ni Mfanyakazi wa Jamii wa Kliniki (LCSW) anayebadilisha jinsia, genderqueer na anabobea katika kufanya kazi na vijana na watu wazima wa trans, queer, genderqueer, na wanaobadilisha jinsia. Wana uzoefu wa miaka 16 kama mtoaji wa afya ya akili huko East Bay, ikiwa ni pamoja na uratibu wa kundi la msaada wa wenzao, elimu ya jamii kwenye mikutano ya LGBTQI, na miaka 9 ya mazoezi ya kliniki na ushauri wa mzozo kwa watu walio kwenye ukingo mkubwa sana kwa Kaunti ya Alameda. Wao ni mtetezi imara na aliyejitolea na historia ndefu ya kuandaa kwa niaba ya watu walio kwenye ukingo."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub ni jukwaa la kidijitali la maelezo na rasilimali kwa watu wote wa kijinsia na tofauti ya jinsia huko NSW, wapendwa wao, washirika na watoa huduma za afya. Inatoa ufikiaji wa maelezo na rasilimali zinazohitajika kwa jamii ambayo huenda isingekuwa na ufikiaji wa kama walivyokua au walivyoelekea kuelekea nafsi zao halisi. Maelezo yanatoka kwenye mahitaji ya matibabu kama vile homoni, upasuaji na orodha za madaktari hadi masuala ya kijamii na kisheria."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

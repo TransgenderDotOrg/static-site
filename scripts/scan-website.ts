@@ -45,7 +45,7 @@ The above content was extracted from {url}. Convert the content into a JSON obje
     county: County [optional]
     latLng: LatLng [optional] 
     email: Email [optional]
-    socialMedia: {{ yelp: Url, google: Url, ... }} [optional]
+    socialMedia: {{ yelpUrl: Url, googleMapsUrl: Url, ... }} [optional]
 }}
 \`\`\``;
 const translationPrompt = new PromptTemplate({

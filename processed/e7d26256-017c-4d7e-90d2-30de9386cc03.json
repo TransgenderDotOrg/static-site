@@ -1,0 +1,27 @@
+{
+  "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+  "title": "Twenty10",
+  "description": "Twenty10 including GLCS provides various life-changing services to young people across NSW who identify as lesbian, gay, bisexual, transgender or gender diverse, intersex, queer, asexual or are questioning their identity. Their services include intake and referral, housing and case management, counseling, social support programs, and LGBTIQA+ inclusivity training",
+  "slug": "twenty10",
+  "externalUrl": "https://twenty10.org.au/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Sydney",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+  }
+}

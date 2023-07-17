@@ -1,0 +1,114 @@
+{
+  "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+  "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+  "externalUrl": "https://www.startts.org.au/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "phoneNumber": "+61 (0)2 9646 6700",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Carramar",
+  "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+  "latLng": [
+    -33.8801011,
+    150.9654668
+  ],
+  "email": "stts-startts@health.nsw.gov.au",
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/starttsNSW",
+    "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+    "instagramUrl": "https://www.instagram.com/startts_nsw/",
+    "linkedinUrl": "https://www.linkedin.com/company/startts/",
+    "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+  },
+  "county": "City of Fairfield",
+  "i18n": {
+    "en-US": {
+      "title": "NSW Service for the Treatment and Rehabilitation of Torture and Trauma Survivors",
+      "description": "STARTTS is a specialist, not-for-profit organisation that provides culturally relevant psychological treatment, support, and community interventions to help people and communities heal from torture and refugee trauma and rebuild their lives in Australia. They also support LGBTQIA+ individuals from refugee and asylum seeker backgrounds."
+    },
+    "es-ES": {
+      "title": "Servicio de NSW para el Tratamiento y Rehabilitación de Sobrevivientes de Tortura y Trauma",
+      "description": "STARTTS es una organización especializada, sin fines de lucro, que proporciona tratamiento psicológico culturalmente relevante, apoyo e intervenciones comunitarias para ayudar a las personas y comunidades a sanar de la tortura y el trauma de refugiados y reconstruir sus vidas en Australia. También apoyan a individuos LGBTQIA+ de orígenes de refugiados y solicitantes de asilo."
+    },
+    "id-ID": {
+      "title": "Layanan NSW untuk Pengobatan dan Rehabilitasi Korban Penyiksaan dan Trauma",
+      "description": "STARTTS adalah organisasi spesialis, nirlaba yang menyediakan perawatan psikologis yang relevan secara budaya, dukungan, dan intervensi komunitas untuk membantu orang dan komunitas sembuh dari penyiksaan dan trauma pengungsi dan membangun kembali kehidupan mereka di Australia. Mereka juga mendukung individu LGBTQIA+ dari latar belakang pengungsi dan pencari suaka."
+    },
+    "sw-KE": {
+      "title": "Huduma ya NSW kwa Matibabu na Urekebishaji wa Waathiriwa wa Utesaji na Mshtuko",
+      "description": "STARTTS ni shirika la kitaalamu, lisilo la faida linalotoa matibabu ya kisaikolojia yanayofaa kwa utamaduni, msaada, na hatua za jamii kusaidia watu na jamii kupona kutokana na mateso na mshtuko wa wakimbizi na kujenga upya maisha yao nchini Australia. Pia wanasaidia watu binafsi wa LGBTQIA+ kutoka kwa wakimbizi na asili za watafuta hifadhi."
+    },
+    "de-DE": {
+      "title": "NSW-Dienst für die Behandlung und Rehabilitation von Folter- und Traumaüberlebenden",
+      "description": "STARTTS ist eine spezialisierte, gemeinnützige Organisation, die kulturell relevante psychologische Behandlungen, Unterstützung und gemeinnützige Interventionen anbietet, um Menschen und Gemeinschaften dabei zu helfen, sich von Folter und Flüchtlingstrauma zu erholen und ihr Leben in Australien wieder aufzubauen. Sie unterstützen auch LGBTQIA+ Personen aus Flüchtlings- und Asylsuchenden-Hintergründen."
+    },
+    "zh-CN": {
+      "title": "新南威尔士省为酷刑和创伤幸存者提供的治疗和康复服务",
+      "description": "STARTTS是一个专门的非营利组织，为人们提供文化相关的心理治疗、支持和社区干预，帮助人们和社区从酷刑和难民创伤中康复，并在澳大利亚重建生活。他们也支持来自难民和寻求庇护者背景的LGBTQIA+个体。"
+    },
+    "fr-FR": {
+      "title": "Service NSW pour le traitement et la réadaptation des survivants de torture et de traumatismes",
+      "description": "STARTTS est une organisation spécialisée à but non lucratif qui fournit un traitement psychologique culturellement pertinent, un soutien et des interventions communautaires pour aider les personnes et les communautés à se rétablir de la torture et des traumatismes des réfugiés et à reconstruire leur vie en Australie. Ils soutiennent également les individus LGBTQIA+ issus de milieux de réfugiés et de demandeurs d'asile."
+    },
+    "pt-PT": {
+      "title": "Serviço NSW para o Tratamento e Reabilitação de Sobreviventes de Tortura e Trauma",
+      "description": "STARTTS é uma organização especialista, sem fins lucrativos, que fornece tratamento psicológico culturalmente relevante, apoio e intervenções comunitárias para ajudar pessoas e comunidades a se recuperarem de tortura e traumas de refugiados e reconstruir suas vidas na Austrália. Eles também apoiam indivíduos LGBTQIA+ de origem de refugiados e solicitantes de asilo."
+    },
+    "tr-TR": {
+      "title": "İşkence ve Travma Hayatta Kalanlarının Tedavi ve Rehabilitasyonu için NSW Hizmeti",
+      "description": "STARTTS, kültürel olarak ilgili psikolojik tedavi, destek ve toplum müdahalelerini sağlayan, kar amacı gütmeyen bir uzman kuruluştur. İşkence ve mülteci travmasından iyileşmeye ve hayatlarını Avustralya'da yeniden kurmaya yardımcı olur. Ayrıca mülteci ve sığınmacı arka planından gelen LGBTQIA+ bireylere de destek verirler."
+    },
+    "ko-KR": {
+      "title": "고문 및 트라우마 생존자 치료 및 재활을 위한 NSW 서비스",
+      "description": "STARTTS는 문화적으로 적절한 심리치료, 지원, 커뮤니티 개입을 제공하여 고문 및 난민 트라우마로부터 회복하고 호주에서 삶을 재건하는 데 도움을 주는 전문 비영리 기관입니다. 또한 난민 및 망명자 배경의 LGBTQIA+ 개인을 지원합니다."
+    },
+    "ja-JP": {
+      "title": "拷問およびトラウマの生存者のためのNSW治療およびリハビリテーションサービス",
+      "description": "STARTTSは、専門的な非営利団体であり、文化的に関連性を持つ心理療法、支援、そしてコミュニティ介入を提供して、人々とコミュニティが拷問および難民のトラウマから治癒し、その生活をオーストラリアで再建するためのサポートをしています。また、彼らは難民や亡命申請者の背景を持つLGBTQIA+の個々の人々もサポートしています。"
+    },
+    "ar-SA": {
+      "title": "خدمة NSW للعلاج والتأهيل لناجين العذاب والصدمة",
+      "description": "تعتبر STARTTS منظمة متخصصة غير ربحية توفر العلاج النفسي ذو الصلة الثقافية والدعم والتدخلات المجتمعية لمساعدة الأشخاص والمجتمعات على الشفاء من العذاب وصدمة اللاجئين وإعادة بناء حياتهم في أستراليا. كما أنها تدعم الأفراد ذوي الهوية LGBTQIA+ من خلفيات اللاجئين وطالبي اللجوء."
+    },
+    "ru-RU": {
+      "title": "Сервис Нового Южного Уэльса по лечению и реабилитации выживших после пыток и травм",
+      "description": "STARTTS - это специализированная некоммерческая организация, предоставляющая культурно-релевантное психологическое лечение, поддержку и вмешательства в сообщество, чтобы помочь людям и сообществам исцелиться от пыток и травм беженцев и заново построить свою жизнь в Австралии. Они также поддерживают лиц, относящихся к LGBTQIA+, из числа беженцев и лиц, ищущих убежище."
+    },
+    "vi-VN": {
+      "title": "Dịch vụ NSW cho việc điều trị và phục hồi cho Người sống sót sau cảnh tra tấn và tâm lý",
+      "description": "STARTTS là một tổ chức chuyên môn, phi lợi nhuận cung cấp điều trị tâm lý, hỗ trợ và can thiệp cộng đồng phù hợp với văn hóa để giúp mọi người và cộng đồng hồi phục từ nỗi đau tra tấn và sự truy lùng tị nạn và xây dựng lại cuộc sống của họ ở Úc. Họ cũng hỗ trợ cho cá nhân LGBTQIA+ từ nền tảng người tị nạn và người tìm cứu nạn."
+    },
+    "uk-UA": {
+      "title": "Послуга Нового Південного Уельсу для лікування та реабілітації виживших після тортур та травми",
+      "description": "STARTTS - це спеціалізована некомерційна організація, яка надає культурно-орієнтоване психологічне лікування, підтримку та втручання в громади з метою допомогти людям та громадам вилікуватися від тортур та травми біженців та відновити своє життя в Австралії. Вони також підтримують осіб LGBTQIA+ з біженського та статусу шукача притулку."
+    },
+    "ur-PK": {
+      "title": "تشدد اور تشدد کے قربانیوں کی علاج اور بحالی کے لئے NSW خدمت",
+      "description": "STARTTS ایک ماہر ، غیر منافع بخش تنظیم ہے جو ثقافتی طور پر موزوں نفسیاتی علاج ، مدد ، اور کمیونٹی مداخلات فراہم کرتی ہے تاکہ لوگ اور کمیونٹیز تشدد اور پناہ گزین ترمیم سے شفا حاصل کر سکیں اور اپنی زندگیوں کو آسٹریلیا میں دوبارہ تشکیل دے سکیں۔ وہ پناہ گزین اور پناہ طلب محوروں سے LGBTQIA + افراد کا بھی حمایت کرتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "तंत्रिका और आतंक सुर्वाइवर्स के उपचार और पुनर्वास के लिए NSW सेवा",
+      "description": "STARTTS एक विशेषज्ञ, गैर-लाभप्राप्त संगठन है जो सांस्कृतिक रूप से संबंधित मनोवैज्ञानिक उपचार, सहायता, और समुदायी हस्तक्षेप प्रदान करता है ताकि लोग और समुदाय यातना और शरणार्थी आतंक से ठीक हो सकें और अपने जीवन को ऑस्ट्रेलिया में पुनर्निर्माण कर सकें। वे शरणार्थी और शरणार्थी वापसी वाले व्यक्तियों का समर्थन भी करते हैं, जो LGBTQIA+ से जुड़े होते हैं।"
+    },
+    "mr-IN": {
+      "title": "ताप आणि संताप वाऱ्यामुळे जी व्यक्ती जीवन जगते त्या व्यक्तींच्या उपचार व पुनर्वासाच्या सेवा करणारी NSW सर्विस",
+      "description": "STARTTS ही एक विशेषत उपचार, नफा न घेणारी संस्था आहे जी सांस्कृतिक रीतीने मनोवैज्ञानिक उपचार, मदत, आणि समुदाय विदर्भ प्रस्तावित करते, त्यामुळे ताप आणि शरणार्थी संतापातून लोकांना आणि समुदायांना बरे होण्याची आणि ऑस्ट्रेलियात आपले आयुष्य सांगण्याची मदत करते. ते शरणार्थी आणि आश्रय शोधायला यायच्या पाठीशी असलेल्या LGBTQIA+ व्यक्तींसाठीही मदत करतात."
+    },
+    "bn-BD": {
+      "title": "তর্তীয় এবং ট্রমা শিকার ব্যক্তিদের চিকিৎসা এবং পুনর্বাসনের জন্য এনএসডব্লিউ সেবা",
+      "description": "STARTTS একটি বিশেষজ্ঞ, অলাভজনক প্রতিষ্ঠান যা সাংস্কৃতিক উপযুক্ত মানসিক চিকিৎসা, সমর্থন এবং সম্প্রদায় মধ্যবর্তী প্রয়োগ প্রদান করে যা মানুষ এবং সম্প্রদায়কে তর্তীয় এবং শরণার্থী ট্রমা থেকে সুস্থ হতে এবং তাদের জীবনকে অস্ট্রেলিয়ায় পুনরায় তৈরি করতে সহযোগিতা করে। তারা শরণার্থী এবং আশ্রয়দাতা পটভূমির থেকে বের হওয়া LGBTQIA+ ব্যক্তিদেরও সমর্থন করে।"
+    },
+    "ta-IN": {
+      "title": "ஒட்டுண்டு மற்றும் ஆயிரங்கொல்லுதல் மீண்டும் உயரும் ஆளுக்கான NSW சேவை",
+      "description": "STARTTS ஒரு சிறப்புச்சேர்ந்த, முன்னாட்சி அல்லாத அமைப்புக் கலாச்சாரத்துக்கு பொருத்தமான உளவியல் சிகிச்சை, ஆதரவு, மற்றும் சமுதாய வலைவில் இருந்து உயிரை வீசிய மற்றும் ஆயுதக்கேடு மிகுந்தவர்கள் அவர்களின் வாழ்க்கைகளை ஆஸ்திரேலியாவில் மீண்டும் கட்டிமேல் சேர்வதை உதவுவதாகும். அவர்கள் அகதியர் மற்றும் மிகுந்தவர்களின் பின்னணியில் இருந்து வந்த பாலுண்மைவியலாளர்களையும் ஆதரவு செய்கின்றனர்."
+    },
+    "te-IN": {
+      "title": "టార్చర్ మరియు ట్రామా సర్వైవర్ల చికిత్స మరియు పునర్వాస కోసం ఎన్‌ఎస్‌డబ్ల్యూ సేవ",
+      "description": "స్టార్ట్స్ ఒక ప్రత్యేక, లాభరహిత సంస్థ అది చర్యలకు తగిన మానసిక చికిత్సను, మద్దతిని, మరియు సంఘ చర్యలను అందిస్తుంది అంటే జనాలు మరియు సంఘాలు టార్చర్ మరియు శరణాధికారి ట్రామా నుండి సర్దుబాటు చేసుకోవాలని, మరియు వారి జీవితాలను ఆస్ట్రేలియాలో పునర్నిర్మించకు సహాయం చేస్తుంది. వారు అలాగే శరణాధికారి మరియు ఆస్యులం వేదిక నుండి వచ్చిన లెస్‌బియన్, గే, బైసెక్సువల్, ట్రాన్స్‌జెండర్, ఇంటర్‌సెక్స్, క్వీర్, ఎయ్‌ప్రూస్టైవ్‌ల్లు ఉన్న వ్యక్తులను మద్దతు చేస్తుంది."
+    }
+  }
+}

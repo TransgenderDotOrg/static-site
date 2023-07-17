@@ -511,6 +511,31 @@
     "description": "「マーシャのための場所」は、増加する危険な状態の中でトランスの個人と家族をより安全な場所に移すことを目指している多くのスタートアッププロジェクトの1つです。 APFMは、全国の反トランス法の増加に反応して2023年3月にその旅を始めました。 APFMは現在、赤い州からの難民とルームメイトをマッチングさせることに焦点を当てており、一つずつ世帯を丁寧に取り扱っています。"
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE都市共同体教会",
+    "description": "イエス・キリストの原則に基づいて設立された、神学的に進歩的で包括的なキリスト教共同体。多様性を祝い、すべての人々が歓迎される安全で非批判的な空間を提供します。南アフリカ、ケープタウンに拠点を置く包括的なキリスト教会であり、より大きな国際的な信者集団である都市共同体教会 (MCC) の一部です。"
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "イーストベイ トランス & クィア カウンセリング",
     "description": "イーストベイ トランス & クィア カウンセリングは、以下のようなスライディングスケールのサービスを提供しています: バークレー、CAに位置する個人療法、ジェンダーの探求と移行を通じたサポート、ホルモンや手術の推薦状、精神保健提供者、学生、雇用者向けの専門トレーニング。サム・デイビスは、トランスジェンダー、ジェンダークィアのライセンスを持つ臨床社会福祉士（LCSW）で、トランスジェンダー、クィア、ジェンダークィア、ジェンダー非適合の10代と大人との勤務に特化しています。彼らは、イーストベイの精神保健プロバイダーとして16年の経験を持ち、LGBTQIカンファレンスでのコミュニティ教育、アラメダ郡での発達した人々への臨床実践と危機カウンセリング9年、ピアサポートグループの促進を含みます。彼らは、マージナル化された人々を代表しての長期間に及ぶ組織化の歴史を持つ強力で専念した支持者です。"
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHubは、NSWのすべてのトランスジェンダーや性別多様な人々、彼らの大切な人、協力者、そして健康提供者向けのデジタル情報およびリソースプラットフォームです。本来の自分に向かって成長する過程でこれらにアクセスできなかった可能性があるコミュニティに対して、大いに必要な情報とリソースへのアクセスを提供します。情報は、ホルモン、手術、医師リストといった医療ニーズから社会的および法的な問題に至るまで幅広く対応しています。"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

@@ -511,6 +511,31 @@
     "description": "Sebuah Tempat untuk Marsha adalah salah satu dari banyak proyek start-up yang bertujuan untuk membantu individu dan keluarga Trans dalam negara yang semakin berbahaya menuju tempat yang lebih aman. APFM memulai perjalanannya pada Maret 2023 sebagai reaksi terhadap meningkatnya legislasi anti-trans di seluruh negeri. APFM sekarang berfokus pada mencocokkan Pengungsi dari negara merah sebagai teman sekamar, dengan hati-hati menangani satu rumah tangga dalam satu waktu."
   },
   {
+    "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+    "slug": "good-hope-metropolitan-community-church",
+    "externalUrl": "https://www.goodhopemcc.org",
+    "tags": [
+      "spiritual"
+    ],
+    "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+    "phoneNumber": null,
+    "country": "ZA",
+    "provinceOrState": "WC",
+    "city": "Cape Town",
+    "county": "City of Cape Town Metropolitan Municipality",
+    "latLng": [
+      -33.9605258,
+      18.474311
+    ],
+    "email": "secretary@goodhopemcc.org",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/goodhopemcc"
+    },
+    "town": "Rondebosch",
+    "title": "GOOD HOPE Metropolitan Community Church",
+    "description": "Sebuah komunitas Kristen yang teologis progresif dan inklusif yang didirikan atas prinsip-prinsip Yesus Kristus yang merayakan keragaman dan menyediakan ruang yang aman, tanpa penilaian di mana semua orang diterima. Bagian dari kongregasi Kristen inklusif yang berbasis di Cape Town, Afrika Selatan dan bagian dari denominasi internasional yang lebih besar yang dikenal sebagai Metropolitan Community Churches (MCC)."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -631,6 +656,34 @@
     },
     "title": "East Bay Trans & Queer Counseling",
     "description": "East Bay Trans & Queer Counseling menawarkan layanan skala bergerak yang mencakup: Terapi Individual yang berlokasi sentral di Berkeley, CA Dukungan melalui eksplorasi gender dan transisi Surat rekomendasi untuk hormon dan operasi Latihan profesional untuk penyedia layanan kesehatan mental, siswa, dan majikan. Sam Davis adalah seorang Pekerja Sosial Klinis Berlisensi (LCSW) transgender, genderqueer yang mengkhususkan diri dalam bekerja dengan remaja dan dewasa trans, queer, genderqueer, dan yang tidak sesuai gender. Mereka memiliki 16 tahun pengalaman sebagai penyedia layanan kesehatan mental di East Bay, termasuk fasilitasi kelompok dukungan sebaya, pendidikan komunitas di konferensi LGBTQI, dan 9 tahun praktik klinis dan konseling krisis dengan orang-orang yang sangat marginal untuk County of Alameda. Mereka adalah advokat yang kuat dan berkomitmen dengan sejarah panjang organisasi atas nama orang-orang yang termarginalisasi."
+  },
+  {
+    "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+    "slug": "transhub",
+    "externalUrl": "https://www.transhub.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "health-providers",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHub",
+    "description": "TransHub adalah platform informasi dan sumber daya digital untuk semua orang trans dan beragam gender di NSW, orang-orang yang mereka cintai, sekutu dan penyedia layanan kesehatan. Ini menyediakan akses ke informasi dan sumber daya yang sangat dibutuhkan oleh komunitas yang mungkin tidak memiliki akses seperti saat mereka tumbuh atau berkembang menuju jati diri mereka yang otentik. Informasi berkisar dari kebutuhan medis seperti hormon, operasi, dan daftar dokter hingga masalah sosial dan hukum."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
