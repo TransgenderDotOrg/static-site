@@ -11,13 +11,14 @@ import { SearchInput } from "../ui/navigation/header";
 import useSearch from "../hooks/useSearch";
 import i18n from "../i18n";
 
-interface Resource {
+export interface Resource {
   id: string;
   slug: string;
   externalUrl: string;
   tags: string[];
   title: string;
   description: string;
+  latLng: [number, number];
 }
 
 export const ResourcePage = () => {

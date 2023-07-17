@@ -23,6 +23,7 @@ import i18n from "./i18n";
 import { Footer } from "./ui/navigation/footer";
 import { TermsOfServicePage } from "./pages/terms-of-service";
 import { PrivacyPolicyPage } from "./pages/privacy-policy";
+import { MapPage } from "./pages/map";
 
 export const AppContainer = styled("div")({
   display: "flex",
@@ -173,6 +174,7 @@ const App = () => {
             <Route path="resources" element={<ResourcePage />} />
             <Route path="terms-of-service" element={<TermsOfServicePage />} />
             <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
+            <Route path="map" element={<MapPage />} />
             <Route path="*" element={<HomePage />} />
           </Routes>
           <Footer />

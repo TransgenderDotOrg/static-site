@@ -228,6 +228,12 @@ export const Header = () => {
   const navigate = useNavigate();
 
   React.useEffect(() => {
+    if (process.env.NODE_ENV !== "production") {
+      (window as any).navigate = navigate;
+    }
+  });
+
+  React.useEffect(() => {
     window.scrollTo(0, 0);
   }, [location.pathname]);
 
