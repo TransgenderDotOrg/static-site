@@ -1,0 +1,119 @@
+{
+  "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+  "slug": "the-trevor-project",
+  "externalUrl": "https://www.thetrevorproject.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "mental-health",
+    "education-awareness"
+  ],
+  "address": "West Hollywood, CA 90069, USA",
+  "email": null,
+  "phoneNumber": "(212) 695-8650",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "West Hollywood",
+  "county": "Los Angeles County",
+  "latLng": [
+    34.0931603,
+    -118.3783347
+  ],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+    "twitterUrl": "https://twitter.com/trevorproject",
+    "instagramUrl": "https://www.instagram.com/trevorproject/",
+    "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+    "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project is an American non-profit organization providing suicide prevention services to LGBTQ+ youth. The site provides valuable resources for the transgender community, including crisis intervention and suicide prevention lifeline, TrevorChat, and TrevorText as well as guidance on mental health, social services, and support groups."
+    },
+    "de-DE": {
+      "title": "Das Trevor Project",
+      "description": "Das Trevor Project ist eine amerikanische gemeinnützige Organisation, die Suizidpräventionsdienste für LGBTQ+ Jugendliche bereitstellt. Die Seite bietet wertvolle Ressourcen für die Transgender-Gemeinschaft, einschließlich Krisenintervention und Suizidpräventions-Hotline, TrevorChat und TrevorText sowie Anleitungen zu psychischer Gesundheit, sozialen Diensten und Unterstützungsgruppen."
+    },
+    "pt-PT": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project é uma organização sem fins lucrativos americana que oferece serviços de prevenção ao suicídio para a juventude LGBTQ+. O site oferece recursos valiosos para a comunidade transgênero, incluindo intervenção em crises e linha de prevenção ao suicídio, TrevorChat, e TrevorText, bem como orientações sobre saúde mental, serviços sociais e grupos de apoio."
+    },
+    "id-ID": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project adalah organisasi nirlaba Amerika yang menyediakan layanan pencegahan bunuh diri untuk pemuda LGBTQ+. Situs ini menyediakan sumber daya berharga bagi komunitas transgender, termasuk intervensi krisis dan garis hidup pencegahan bunuh diri, TrevorChat, dan TrevorText serta bimbingan tentang kesehatan mental, layanan sosial, dan kelompok dukungan."
+    },
+    "fr-FR": {
+      "title": "Le Projet Trevor",
+      "description": "Le Projet Trevor est une organisation américaine à but non lucratif qui fournit des services de prévention du suicide aux jeunes LGBTQ+. Le site offre des ressources précieuses pour la communauté transgenre, y compris une ligne de vie pour l'intervention en cas de crise et la prévention du suicide, TrevorChat, et TrevorText ainsi que des conseils sur la santé mentale, les services sociaux et les groupes de soutien."
+    },
+    "es-ES": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project es una organización sin fines de lucro estadounidense que proporciona servicios de prevención de suicidio a jóvenes LGBTQ+. El sitio proporciona recursos valiosos para la comunidad transgénero, incluyendo intervención en crisis y línea de vida de prevención de suicidio, TrevorChat, y TrevorText, así como orientación sobre salud mental, servicios sociales y grupos de apoyo."
+    },
+    "zh-CN": {
+      "title": "特雷弗项目",
+      "description": "特雷弗项目是一家美国非营利组织，为LGBTQ+青年提供自杀预防服务。该网站为跨性别社区提供了宝贵的资源，包括危机干预和自杀预防热线，特雷弗聊天和特雷弗文本，以及关于心理健康，社会服务和支持团体的指导。"
+    },
+    "ko-KR": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project는 LGBTQ+ 청소년을 대상으로 자살 예방 서비스를 제공하는 미국 비영리 단체입니다. 이 사이트는 위기 대응 및 자살 예방 핫라인, TrevorChat, TrevorText 및 정신 건강, 사회 서비스, 지원 그룹에 대한 지침을 포함하여 트랜스젠더 커뮤니티에 가치있는 자료를 제공합니다."
+    },
+    "sw-KE": {
+      "title": "Mradi wa Trevor",
+      "description": "Mradi wa Trevor ni shirika lisilo la faida la Amerika linalotoa huduma za kuzuia kujiua kwa vijana wa LGBTQ+. Tovuti hii inatoa rasilimali zenye thamani kwa jamii ya watu wanaobadili jinsia, ikiwa ni pamoja na kuingilia kwa dharura na mstari wa maisha ya kuzuia kujiua, TrevorChat, na TrevorText pamoja na mwongozo juu ya afya ya akili, huduma za kijamii, na makundi ya msaada."
+    },
+    "tr-TR": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project, LGBTQ+ gençlere intihar önleme hizmetleri sağlayan Amerikan kar amacı gütmeyen bir organizasyondur. Site, transgender topluluğu için değerli kaynaklar sağlar, bunlar arasında kriz müdahalesi ve intihar önleme yardım hattı, TrevorChat ve TrevorText bulunur ve ayrıca ruh sağlığı, sosyal hizmetler ve destek grupları hakkında rehberlik sunar."
+    },
+    "ja-JP": {
+      "title": "The Trevor Project",
+      "description": "Trevor Projectは、LGBTQ+の若者に自殺予防サービスを提供するアメリカの非営利団体です。このサイトは、危機介入や自殺予防ホットライン、TrevorChat、TrevorText、さらには精神保健、社会サービス、支援団体に関する指導を含む、トランスジェンダーコミュニティにとって価値あるリソースを提供しています。"
+    },
+    "ar-SA": {
+      "title": "مشروع تريفور",
+      "description": "مشروع تريفور هو منظمة غير ربحية أمريكية تقدم خدمات الوقاية من الانتحار للشباب LGBTQ+. يقدم الموقع موارد قيمة للمجتمع المتحول جنسيًا، بما في ذلك تدخل الأزمات وخط الوقاية من الانتحار، وتريفور تشات، وتريفور تكست وكذلك الإرشاد حول الصحة العقلية، والخدمات الاجتماعية، وجماعات الدعم."
+    },
+    "vi-VN": {
+      "title": "Dự án Trevor",
+      "description": "Dự án Trevor là một tổ chức phi lợi nhuận của Mỹ cung cấp dịch vụ phòng ngừa tự tử cho giới trẻ LGBTQ+. Trang web cung cấp các nguồn lực quý giá cho cộng đồng người chuyển giới, bao gồm can thiệp khủng hoảng và dây đường dây nóng phòng ngừa tự tử, TrevorChat, và TrevorText cũng như tư vấn về sức khỏe tâm thần, dịch vụ xã hội, và nhóm hỗ trợ."
+    },
+    "ru-RU": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project - это американская некоммерческая организация, предоставляющая услуги по предотвращению самоубийств среди молодежи LGBTQ+. Сайт предоставляет ценные ресурсы для трансгендерного сообщества, включая кризисное вмешательство и телефонную линию по предотвращению самоубийств, TrevorChat и TrevorText, а также руководство по вопросам психического здоровья, социальным услугам и группам поддержки."
+    },
+    "uk-UA": {
+      "title": "The Trevor Project",
+      "description": "The Trevor Project - це американська неприбуткова організація, яка надає послуги з попередження самогубств для молоді LGBTQ+. Сайт надає цінні ресурси для спільноти трансгендерів, включаючи кризову інтервенцію, телефон лінії попередження самогубств, TrevorChat і TrevorText, а також рекомендації з психічного здоров'я, соціальних послуг і груп підтримки."
+    },
+    "ur-PK": {
+      "title": "ٹریور پروجیکٹ",
+      "description": "ٹریور پروجیکٹ ایک امریکی غیر مفید تنظیم ہے جو LGBTQ+ نوجوانوں کو خودکشی روک تھام کی خدمات فراہم کرتی ہے۔ سائٹ ٹرانسجینڈر کمیونٹی کے لئے قیمتی وسائل فراہم کرتی ہے، جن میں کرائزس انتزاع اور خودکشی روک تھام لائف لائن، ٹریور چیٹ، اور ٹریور ٹیکسٹ شامل ہیں جس میں زہنی صحت، سماجی خدمات، اور سپورٹ گروپوں پر رہنمائی بھی شامل ہے۔"
+    },
+    "hi-IN": {
+      "title": "द ट्रेवर प्रोजेक्ट",
+      "description": "द ट्रेवर प्रोजेक्ट एक अमेरिकी गैर-लाभकारी संगठन है जो LGBTQ+ युवा के लिए आत्महत्या रोकथाम सेवाएं प्रदान करता है। यह साइट ट्रांसजेंडर समुदाय के लिए मूल्यवान संसाधन प्रदान करती है, जिसमें संकट हस्तक्षेप और आत्महत्या रोकथाम लाइफलाइन, ट्रेवरचाट, और ट्रेवरटेक्स्ट सहित मानसिक स्वास्थ्य, सामाजिक सेवाएं, और समर्थन समूहों पर मार्गदर्शन शामिल है।"
+    },
+    "mr-IN": {
+      "title": "द ट्रेव्हर प्रोजेक्ट",
+      "description": "द ट्रेव्हर प्रोजेक्ट हे एक अमेरिकन नॉन-प्रॉफिट संघटना आहे, ज्याने LGBTQ+ तरुणांना आत्महत्या रोखणारी सेवा प्रदान केली आहे. या साइटवर ट्रानसजेंडर समुदायासाठी मूल्यवान संसाधने उपलब्ध केली आहेत, ज्यात आपत्ती निवारण आणि आत्महत्या रोखणारी लायफलाइन, ट्रेव्हरचॅट, आणि ट्रेव्हरटेक्स्ट, मानसिक आरोग्य, सामाजिक सेवा, आणि समर्थन समूहांच्या मार्गदर्शनासह असलेली आहेत."
+    },
+    "bn-BD": {
+      "title": "দ্য ট্রেভর প্রজেক্ট",
+      "description": "দ্য ট্রেভর প্রজেক্ট একটি আমেরিকান অলাভজনক সংস্থা যা এলজিবিটিকিউ+ যুবকদের কাছে আত্মঘাতী প্রতিষেধক সেবা প্রদান করে। সাইটটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য মূল্যবান সম্পদ প্রদান করে, যেমন সংকট প্রতিকার এবং আত্মঘাতী প্রতিষেধক লাইফলাইন, ট্রেভরচ্যাট, এবং ট্রেভরটেক্সট এবং মানসিক স্বাস্থ্য, সামাজিক সেবা, এবং সমর্থন গোষ্ঠীর উপর নির্দেশনা।"
+    },
+    "ta-IN": {
+      "title": "ட்ரெவர் திட்டம்",
+      "description": "ட்ரேவர் திட்டம் அமெரிக்கத்தில் உள்ள முனையில்லா அமைப்பு, LGBTQ+ இளம் இளைஞர்களுக்கு மூக்குவிபரித்தல் தடுப்பு சேவைகளை வழங்குகின்றது. இந்த தளம் தற்போதுள்ள ஆபத்தியில் உள்ளவர்களுக்கு மற்றும் மூக்குவிபரித்தல் தடுப்பு முயற்சிக்கு, TrevorChat, மற்றும் TrevorText ஆகியவற்றின் மூலம் ஆதரவு வழங்குகிறது, மன நலத்தை மேம்படுத்த வழிகாட்டுதல்களின் மூலம் மற்றும் சமூக சேவைகளுக்கு மற்றும் ஆதரவு குழுக்களுக்கு மதிப்புள்ள ஆதாரங்களை வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "ది ట్రేవర్ ప్రాజెక్ట్",
+      "description": "ది ట్రేవర్ ప్రాజెక్ట్ అనేది అమెరికన్ నాన్-ప్రాఫిట్ సంస్థ అంటే, LGBTQ+ యువతికి ఆత్మహత్య నివారణ సేవల అందిస్తుంది. ఆ సైట్ ట్రాన్స్‌జెండర్ సముదాయంలో ప్రయోజనకరమైన వనరులను అందిస్తుంది, దీనిలో ఆపద్వాన ప్రతిస్పందన మరియు ఆత్మహత్య నివారణ లైఫ్ లైన్, ట్రేవర్ చాట్, మరియు ట్రేవర్ టెక్స్ట్ లను కలిగిఉంటుంది, మరియు మానసిక ఆరోగ్య మీద మార్గదర్శనం, సామాజిక సేవలు, మరియు మద్దతు గుంపుల పై కూడా."
+    }
+  }
+}

@@ -105,6 +105,61 @@
     "description": "ایک قابل اعتماد آن لائن وسیلہ برائے ان افراد کے لئے جو جینڈر ڈیسفوریا کے بارے میں علم، سپورٹ، اور تفہیم تلاش کر رہے ہیں۔ انکی ویب سائٹ انفارمیشن، وسائل، اور کمیونٹی کنکشنز کی بھرپور معلومات فراہم کرتی ہے تاکہ افراد اپنے سفر میں خود کو ثابت قدم کر سکیں۔ جینڈر شناخت اور ترقی پاسندی پر مکمل گائیڈز سے لے کر ذاتی کہانیوں اور ماہرین کی مشورے تک، وہ تمام کے لئے ایک محفوظ اور شامل کن محفظہ بنانے کی کوشش کرتے ہیں۔"
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "حرکت پیشروی پروژے",
+    "description": "حرکت پیشروی پروژے (MAP) ایک آزاد, غیر مفید سوچنے کا خانہ ہے جو مزیدر سخت تحقیق, بصیرت, اور مواصلات فراہم کرتا ہے جو برابری اور مواقعت کی رفتار میں مدد کرتے ہیں۔ MAP کا کام یہ یقینی بنانا ہے کہ تمام لوگوں کے پاس صحت اور خوشی کی تلاش ، روزی کمائی، اپنے پیاروں کی دیکھ بھال ، اپنے معاشروں میں محفوظ رہنے اور شہری زندگی میں شرکت کرنے کا منصفانہ موقع ملے۔"
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "جارڈن راس مواصلاتی خدمات",
+    "description": "جارڈن راس ٹرانس، کوئر اور جنسی غیر متوقع افراد کے لئے تقریر ، آواز اور مواصلاتی کوچنگ فراہم کرتے ہیں۔ وہ 1-پر-1 کوچنگ ، آن لائن کورسز ، واقعات ، اور 'آواز ودھ اندر کوچنگ پروگرام' پیش کرتے ہیں۔ ان کا طریقہ کار نیورو-لسانی پروگرامنگ ، ہائپنوتھیراپی ، یوگا ہدایت ، اور سانس کوچنگ کو شامل کرتا ہے ، مقصد یہ ہوتا ہے کہ نہ صرف جسمانی بلکہ ذہنی ، جذباتی ، اور توانائی کے اظہارات کو بھی تسلیم کیا جائے۔"
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "قومی مرکز برائے ٹرانسجینڈر برابری ایک ادارہ ہے جو ٹرانسجینڈر لوگوں کی بہتر تفہیم اور قبولیت کے لئے پالیسیوں اور معاشرتی رویوں میں تبدیلی کی ترقی کر رہا ہے۔ نیشنل سینٹر فار ٹرانسجینڈر ایکواٹی (NCTE) بڑھتی ہوئی عمر، خلاف تشدد، روزگار، خاندان، صحت اور ایچ آئی وی، ہاؤسنگ اور بے گھری اور اور بھی عناصر جو ٹرانسجینڈر کمیونٹی کو متاثر کرتی ہیں، کے بارے میں معلومات فراہم کرتا ہے۔"
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "فلوریڈا نام تبدیل ہوم",
+    "description": "یہ ویب سائٹ فلوریڈا میں اپنا نام یا جنس تبدیل کرنے والوں کے لئے مرحلہ وار ہدایت فراہم کرتی ہے۔ ان مراحل میں عدالت میں درخواست دائر کرنا، اور سوشل سیکیورٹی کارڈ، ڈرائیونگ لائسنس، پاسپورٹ اور پیدائشی سرٹیفیکیٹ کو تبدیل کرنا شامل ہے۔"
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ٹریور پروجیکٹ",
+    "description": "ٹریور پروجیکٹ ایک امریکی غیر مفید تنظیم ہے جو LGBTQ+ نوجوانوں کو خودکشی روک تھام کی خدمات فراہم کرتی ہے۔ سائٹ ٹرانسجینڈر کمیونٹی کے لئے قیمتی وسائل فراہم کرتی ہے، جن میں کرائزس انتزاع اور خودکشی روک تھام لائف لائن، ٹریور چیٹ، اور ٹریور ٹیکسٹ شامل ہیں جس میں زہنی صحت، سماجی خدمات، اور سپورٹ گروپوں پر رہنمائی بھی شامل ہے۔"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "مارشا کے لئے ایک جگہ بہت ساری شروعات میں سے ایک ہے جو ٹرانس افراد اور خاندانوں کی مدد کی طرف مایل ہے، جو بڑھتے ہوئے خطرناک حالات میں محفوظ جگہوں کی طرف. اے پی ایف ایم نے 2023 کے مارچ میں قوم بھر میں ٹرانس کے خلاف قوانین کی اضافہ کے رد عمل میں اپنا سفر شروع کیا. اب اے پی ایف ایم خاص طور پر سرخ ریاستوں سے پناہ گزینوں کو روم میٹس کے طور پر میچ کرنے پر توجہ مرکوز کر رہا ہے، احتیاط سے ایک گھرانے کا انتظام کرتے ہوئے."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons خود منتقل کرنے والے اور غیر دو جنسی افراد کے لئے مقبول آواز کنٹرول اور آزادی سروسز پیش کرتا ہے جو مزید مردانہ، خواتین، یا غیر جنسی طور پر آواز دینے کا مقصد رکھتے ہیں۔"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "ایک اہم آن لائن پلیٹ فارم جو دنیا بھر میں تشدد اور تعزیر سے دوچار LGBTQ+ افراد کی مدد اور تحفظ کیلیے خصوصی طور پر مختص ہے. بغیر کسی لچک کے، یہ ویبسائٹ معاشی مدد، زندگی بچانے والے وسائل اور سیکوریٹی کا راستہ دیکھاکر فوری خطرے میں مبتلا افراد سے رابطہ کرتی ہے. مقامی تنظیموں کے ساتھ شراکت داری اور ہمدرد سپورٹرز کے نیٹ ورک کے ذریعے، RainbowRailroad.org بلا تھکن تحفظ، قانونی مدد، اور منتقلی کی سپورٹ فراہم کرنے کے لیے کام کرتا ہے، جو افراد کو تعزیر سے بچاکر پناہ گاہ تلاش کرنے میں مددگار ثابت ہوتی ہے. انسانی حقوق کی ترجیح، زندگیوں کی حفاظت، اور ایک زیادہ شامل کنندہ دنیا کو فروغ دینے کے ذریعہ، RainbowRailroad.org LGBTQ+ افراد کے لیے امن و آزادی کے تلاش میں امید اور تحفظ کا منارہ کا کام کرتا ہے."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "میکینزی کا منصوبہ",
+    "description": "ایک جامع وسائل جو خدمات، پروگرام اور واقعات کی پیشکش کرتا ہے جو جنسی انصاف کو فروغ دینے اور ٹرانسجینڈر برادری کی خدمت کا ہدف ہوتا ہے۔ اس میں صحت کی نگہداشت، قانونی مدد، ذہنی صحت کی خدمات اور زیادہ سے زیادہ مددگار ریسورسز شامل ہیں۔"
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

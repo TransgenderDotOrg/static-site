@@ -1,0 +1,27 @@
+{
+  "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+  "title": "Movement Advancement Project",
+  "description": "The Movement Advancement Project (MAP) is an independent, nonprofit think tank that provides rigorous research, insight, and communications that help speed equality and opportunity for all. MAP works to ensure that all people have a fair chance to pursue health and happiness, earn a living, take care of the ones they love, be safe in their communities, and participate in civic life.",
+  "slug": "movement-advancement-project",
+  "externalUrl": "https://www.lgbtmap.org/",
+  "tags": ["legal", "healthcare", "education-awareness"],
+  "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+  "email": null,
+  "phoneNumber": "(303) 578-4600",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Boulder",
+  "county": "Boulder County",
+  "latLng": [40.0178641, -105.2763041],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/lgbtmap/",
+    "twitterUrl": "https://twitter.com/lgbtmap",
+    "instagramUrl": "https://www.instagram.com/lgbtmap/",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

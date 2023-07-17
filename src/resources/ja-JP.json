@@ -105,6 +105,61 @@
     "description": "ジェンダー違和症について知識を求め、サポートを必要としている個々のための信頼できるオンラインリソースです。彼らのウェブサイトは情報、リソース、コミュニティとのつながりを提供し、個々の旅を強化します。ジェンダーアイデンティティとトランジションに関する包括的なガイドから個人の話や専門家のアドバイスまで、すべての人に対する安全で包括的なスペースを作り出すことを目指しています。"
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ムーブメントアドバンスメントプロジェクト",
+    "description": "ムーブメントアドバンスメントプロジェクト（MAP）は、独立した非営利のシンクタンクであり、すべての人に平等と機会を迅速に提供するための厳密な研究、洞察、コミュニケーションを提供します。MAPは、すべての人が健康と幸福を追求し、生計を立て、愛する人を世話し、地域社会で安全を確保し、市民生活に参加するための公平なチャンスを持つことを確保するために活動しています。"
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ジョーダン・ロス　コミュニケーションサービス",
+    "description": "ジョーダン・ロスは、トランスジェンダー、クィア、ジェンダー非一貫性の個人向けにスピーチ、声、コミュニケーションのコーチングを提供しています。彼は1対1のコーチング、オンラインコース、イベント、そして「ボイス・ウィズイン・コーチング・プログラム」を提供しています。彼のアプローチは、ニューロリンギスティックプログラミング、催眠療法、ヨガの指導、呼吸コーチングを取り入れ、コミュニケーションの物理的な側面だけでなく、精神的、感情的、エネルギー的な側面にも対応することを目指しています。"
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "トランスジェンダーの平等を促進する全国センターは、トランスジェンダーの人々の理解と受け入れを向上させるための政策や社会的態度の変更を提唱する組織です。NCTEは、トランスジェンダーコミュニティに影響を与える問題についての情報を提供しています。これには、高齢化、反暴力、雇用、家族、健康＆HIV、住宅とホームレス、その他が含まれます。"
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "フロリダ姓名変更ホーム",
+    "description": "このウェブサイトは、フロリダで自分の名前や性別を更新したい方向けの段階的なガイダンスを提供します。手続きには、裁判所に嘆願書を提出し、社会保障カード、運転免許証、パスポート、出生証明書を更新することが含まれます。"
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "The Trevor Project",
+    "description": "Trevor Projectは、LGBTQ+の若者に自殺予防サービスを提供するアメリカの非営利団体です。このサイトは、危機介入や自殺予防ホットライン、TrevorChat、TrevorText、さらには精神保健、社会サービス、支援団体に関する指導を含む、トランスジェンダーコミュニティにとって価値あるリソースを提供しています。"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "「マーシャのための場所」は、増加する危険な状態の中でトランスの個人と家族をより安全な場所に移すことを目指している多くのスタートアッププロジェクトの1つです。 APFMは、全国の反トランス法の増加に反応して2023年3月にその旅を始めました。 APFMは現在、赤い州からの難民とルームメイトをマッチングさせることに焦点を当てており、一つずつ世帯を丁寧に取り扱っています。"
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessonsは、より男性的、女性的、または中性的な音声を目指すトランスジェンダーや非バイナリーの個人向けに、質の高い声のコントロールと解放サービスを提供します。"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "逼迫や暴力に直面しているLGBTQ+の個々を支援し、擁護するための重要なオンラインプラットフォーム。揺るぎないコミットメントをもって、ウェブサイトは直接的な危険から生命を救うリソース、緊急援助、そして安全な逃亡路へとつなげています。地元の団体とのパートナーシップや支持者のネットワークを通じて、RainbowRailroad.orgは避難、法的援助、リロケーションサポートを提供し、個々が迫害から逃れて避難地を見つけることができるようにしています。人権を擁護し、命を救い、より包括的な世界を育てることで、RainbowRailroad.orgは安全と自由を求めるLGBTQ+の個々にとって希望と保護の灯台として機能しています。"
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "マッケンジー・プロジェクト",
+    "description": "ジェンダー正義の推進とトランスジェンダーコミュニティの支援を目指すサービス、プログラム、イベントを提供する包括的なリソースです。ヘルスケア、法的援助、精神保健サービスなどの支援サービスとリソースが含まれています。"
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

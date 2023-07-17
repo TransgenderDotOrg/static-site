@@ -105,6 +105,61 @@
     "description": "مورد موثوق على الإنترنت للأفراد الذين يبحثون عن المعرفة، والدعم، والتفهم حول اضطراب الهوية الجنسية. يوفر موقعهم الإلكتروني ثروة من المعلومات والموارد وروابط المجتمع لتمكين الأفراد في رحلتهم. من الدلائل الشاملة حول الهوية الجنسية والانتقال إلى القصص الشخصية والنصائح الخبيرة، يسعون إلى خلق مساحة آمنة وشاملة للجميع."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "مشروع التقدم في الحركة",
+    "description": "مشروع التقدم في الحركة (MAP) هو مركز أبحاث مستقل وغير ربحي يقدم البحث الدقيق والرؤى والاتصالات التي تساعد في تسريع المساواة والفرص للجميع. يعمل MAP على ضمان أن لجميع الأشخاص فرصة عادلة في متابعة الصحة والسعادة، كسب المعيشة، العناية بمن يحبون، والشعور بالأمان في مجتمعاتهم، والمشاركة في الحياة المدنية."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "خدمات الاتصالات الأردن روس",
+    "description": "يقدم الأردن روس تدريبًا على الكلام والصوت والاتصال للأفراد المتحولين جنسيًا، والكوير والذين لا يتوافقون مع الجنس. يقدم تدريبًا فرديًا، ودورات عبر الإنترنت، والأحداث، و 'برنامج التدريب الصوتي من الداخل'. يتضمن مقاربته البرمجة العصبية اللغوية، والتنويم المغناطيسي، وتعليمات اليوجا، وتدريب التنفس، بهدف معالجة ليس فقط الجوانب الجسدية ولكن أيضًا العقلية والعاطفية والطاقية من الاتصال."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "المركز الوطني للمساواة بين المتحولين جنسيا هو منظمة تدعو لتغيير السياسات والمواقف المجتمعية لزيادة الفهم والقبول للأشخاص المتحولين جنسيا. يوفر NCTE معلومات حول القضايا التي تؤثر على المجتمع المتحول جنسيًا بما في ذلك الشيخوخة، مكافحة العنف، التوظيف، الأسر، الصحة و الإيدز، الإسكان والبطالة، وأكثر."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "الصفحة الرئيسية لتغيير الاسم في فلوريدا",
+    "description": "تُقدم هذه الموقع إرشادًا خطوة بخطوة للأشخاص الذين يرغبون في تحديث اسمهم أو جنسهم في فلوريدا. تشمل الخطوات تقديم عريضة في المحكمة، وتحديث بطاقة الضمان الاجتماعي، ورخصة القيادة، والجواز، وشهادة الميلاد."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "مشروع تريفور",
+    "description": "مشروع تريفور هو منظمة غير ربحية أمريكية تقدم خدمات الوقاية من الانتحار للشباب LGBTQ+. يقدم الموقع موارد قيمة للمجتمع المتحول جنسيًا، بما في ذلك تدخل الأزمات وخط الوقاية من الانتحار، وتريفور تشات، وتريفور تكست وكذلك الإرشاد حول الصحة العقلية، والخدمات الاجتماعية، وجماعات الدعم."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "مكان لمارشا هو واحد من العديد من مشاريع الشركات الناشئة التي تهدف إلى مساعدة الأفراد المتحولين جنسيا وعائلاتهم في الولايات المتزايدة الخطورة إلى مكان أكثر أمانا. بدأت APFM رحلتها في مارس من العام 2023 رداً على ارتفاع التشريعات المعادية للتحول الجنسي في جميع أنحاء الوطن. تُركز APFM الآن على مطابقة اللاجئين من الولايات الحمراء كرفاق في الغرفة، معالجة بعناية منزل واحد في كل مرة."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "توفر TransVoiceLessons خدمات السيطرة على الصوت والتحرر ذات الجودة للأفراد المتحولين جنسياً وغير الثنائيين الذين يهدفون إلى البدو بصوت أكثر رجولة أو أنوثة أو عدم تحديد الجنس."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "منصة عبر الإنترنت حيوية مكرسة لمساعدة والدفاع عن الأفراد من فئة LGBTQ+ الذين يواجهون الاضطهاد والعنف في جميع أنحاء العالم. من خلال التزام لا يتزعزع، يربط الموقع الأشخاص المهددين بالخطر المباشر بالموارد الحياتية، والمساعدة الطارئة ، والطرق الآمنة للأمان. من خلال الشراكات مع المؤسسات المحلية وشبكة من الداعمين الرحماء، يعمل RainbowRailroad.org دون كلل لتوفير الدعوة، والمساعدة القانونية، ودعم النقل، مما يتيح للأفراد الهروب من الاضطهاد وإيجاد ملاذ. من خلال الدفاع عن حقوق الإنسان، وإنقاذ الأرواح، وتعزيز عالم أكثر شمولا، يعمل RainbowRailroad.org كموقع للأمل والحماية للأفراد من فئة LGBTQ+ الذين يبحثون عن الأمان والحرية."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "مشروع ماكنزي",
+    "description": "مورد شامل يقدم خدمات وبرامج وأحداث تهدف إلى تعزيز العدالة الجنسانية وخدمة المجتمع المتحول جنسيا. يتضمن خدمات الدعم والموارد بما في ذلك الرعاية الصحية والمساعدة القانونية وخدمات الصحة العقلية والمزيد."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

@@ -105,6 +105,61 @@
     "description": "Надійний онлайн-ресурс для людей, які шукають знання, підтримку та розуміння гендерної дисфорії. Їх веб-сайт надає багато інформації, ресурсів та зв'язків з громадою, щоб заохочувати людей у їхньому шляху. Від всеосяжних посібників про гендерну ідентичність та перехід до особистих історій та професійних порад, вони прагнуть створити безпечне та інклюзивне середовище для всіх."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Проект Просування Руху",
+    "description": "Проект Просування Руху (MAP) - це незалежний, некомерційний думковий центр, який надає ретельne дослідження, внутрішнє сприйняття та комунікації, які допомагають прискорити рівність і можливості для всіх. MAP працює, щоб гарантувати, що всі люди мають рівні можливості досягнути здоров'я та щастя, заробляти на життя, дбати про тих, кого вони люблять, бути в безпеці в своїх громадах та брати участь у громадському житті."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Комунікаційні послуги Jordan Ross",
+    "description": "Jordan Ross надає тренінги з мови, голосу та комунікації для транс, квір і осіб, які не відповідають гендерним нормам. Він пропонує 1-на-1 тренування, онлайн-курси, заходи та програму тренування 'Voice Within Coaching Program'. Його підхід включає нейро-лінгвістичне програмування, гіпнотерапію, інструкції з йоги та тренінги дихання, маючи на меті звернути увагу не лише на фізичні, але й на ментальні, емоційні та енергетичні аспекти комунікації."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "Національний центр за рівність трансгендерів - це організація, яка пропагує зміну політик та соціальних ставлень до підвищення розуміння та прийняття трансгендерних людей. NCTE надає інформацію про проблеми, які впливають на трансгендерну спільноту, включаючи старіння, антинасильство, зайнятість, сім'ї, здоров'я та ВІЛ, житло та бездомність і багато іншого."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Домашня сторінка зміни імені в штаті Флорида",
+    "description": "Цей вебсайт надає покрокову інструкцію для тих, хто хоче оновити своє ім'я або стать в штаті Флорида. Кроки включають подачу петиції в суд, а також оновлення картки соціального захисту, водійського посвідчення, паспорту та свідоцтва про народження."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "The Trevor Project",
+    "description": "The Trevor Project - це американська неприбуткова організація, яка надає послуги з попередження самогубств для молоді LGBTQ+. Сайт надає цінні ресурси для спільноти трансгендерів, включаючи кризову інтервенцію, телефон лінії попередження самогубств, TrevorChat і TrevorText, а також рекомендації з психічного здоров'я, соціальних послуг і груп підтримки."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "Місце для Марши - один з численних стартап-проектів, спрямованих на допомогу трансгендерним особам та їх сім'ям у дедалі небезпечніших штатах, щоб вони могли перебратися в безпечніше місце. APFM розпочала свій шлях у березні 2023 року як відповідь на зростання антітрансгендерного законодавства у країні. Тепер APFM зосереджується на пошуку співмешканців для біженців з червоних штатів, обережно працюючи з кожним домогосподарством окремо."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons пропонує якісні послуги контролю та звільнення голосу для трансгендерних та небінарних осіб, які прагнуть звучати більш чоловічим, жіночим або андрогіним."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Важна онлайн-платформа, яка присвячена допомозі та захисту осіб LGBTQ+, які стикаються з переслідуваннями та насиллям у всьому світі. З незмінним зобов'язанням, веб-сайт з'єднує тих, хто перебуває в безпосередній небезпеці, з ресурсами, що рятує життя, надзвичайною допомогою та безпечними шляхами до безпеки. За допомогою партнерства з місцевими організаціями та мережі співчутливих підтримувачів, RainbowRailroad.org неухильно працює, щоб забезпечити захист, юридичну допомогу та підтримку переселення, дозволяючи особам уникнути переслідування та знайти притулок. Захищаючи права людини, рятується життя та сприяється створенню більш інклюзивного світу, RainbowRailroad.org служить маяком надії та захисту для осіб LGBTQ+, що шукають безпеку та свободу."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Проект McKenzie",
+    "description": "Всебічний ресурс, який пропонує послуги, програми та заходи, спрямовані на справедливість стосовно статевої належності та обслуговування трансгендерної спільноти. Включає в себе служби підтримки та ресурси, зокрема медичне обслуговування, юридичну допомогу, послуги з питань психічного здоров'я та багато іншого."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

@@ -1,0 +1,122 @@
+{
+  "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+  "slug": "the-mckenzie-project",
+  "externalUrl": "https://www.themckenzieproject.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+  "email": "Info@TheMcKenzieProject.org",
+  "phoneNumber": "305-846-3186",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Miami",
+  "county": "Miami-Dade County",
+  "latLng": [25.769445, -80.3321284],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "The McKenzie Project",
+      "description": "A comprehensive resource offering services, programs and events aimed at promoting gender justice and serving the transgender community. Includes support services and resources including healthcare, legal assistance, mental health services and more."
+    },
+    "es-ES": {
+      "title": "El Proyecto McKenzie",
+      "description": "Un recurso integral que ofrece servicios, programas y eventos destinados a promover la justicia de género y servir a la comunidad transgénero. Incluye servicios de apoyo y recursos que incluyen atención médica, asistencia legal, servicios de salud mental y más."
+    },
+    "pt-PT": {
+      "title": "O Projeto McKenzie",
+      "description": "Um recurso abrangente que oferece serviços, programas e eventos voltados para promover a justiça de gênero e servir a comunidade transgênero. Inclui serviços de apoio e recursos incluindo assistência médica, assistência jurídica, serviços de saúde mental e mais."
+    },
+    "zh-CN": {
+      "title": "麦肯齐项目",
+      "description": "一个全面的资源平台，提供服务、项目和活动，旨在推动性别公正，并为跨性别社区服务。包括支持服务和资源，包括医疗保健、法律援助、心理健康服务等等。"
+    },
+    "id-ID": {
+      "title": "Proyek McKenzie",
+      "description": "Sebuah sumber daya komprehensif yang menawarkan layanan, program dan acara yang bertujuan untuk mempromosikan keadilan gender dan melayani komunitas transgender. Termasuk layanan dukungan dan sumber daya termasuk kesehatan, bantuan hukum, layanan kesehatan mental dan lainnya."
+    },
+    "fr-FR": {
+      "title": "Le Projet McKenzie",
+      "description": "Une ressource complète proposant des services, des programmes et des événements visant à promouvoir la justice de genre et à servir la communauté transgenre. Comprend des services de soutien et des ressources tels que les soins de santé, l'aide juridique, les services de santé mentale et plus encore."
+    },
+    "de-DE": {
+      "title": "Das McKenzie Projekt",
+      "description": "Eine umfassende Ressource, die Dienstleistungen, Programme und Veranstaltungen anbietet, um Geschlechtergerechtigkeit zu fördern und die Transgender-Gemeinschaft zu unterstützen. Beinhaltet Unterstützungsdienste und Ressourcen wie Gesundheitsversorgung, rechtliche Hilfe, psychische Gesundheitsdienste und mehr."
+    },
+    "ko-KR": {
+      "title": "맥켄지 프로젝트",
+      "description": "성별 공정을 촉진하고 트랜스젠더 커뮤니티에 서비스를 제공하는 것을 목표로 한 서비스, 프로그램, 이벤트를 제공하는 종합 자원입니다. 건강관리, 법률 지원, 정신 건강 서비스 등을 포함한 지원 서비스와 자원이 포함되어 있습니다."
+    },
+    "sw-KE": {
+      "title": "Mradi wa McKenzie",
+      "description": "Rasilimali jumuishi inayotoa huduma, mipango na hafla zinazolenga kuendeleza haki ya jinsia na kuhudumia jumuiya ya watu wanaobadili jinsia. Inajumuisha huduma za usaidizi na rasilimali ikiwa ni pamoja na huduma za afya, msaada wa kisheria, huduma za afya ya akili na zaidi."
+    },
+    "ja-JP": {
+      "title": "マッケンジー・プロジェクト",
+      "description": "ジェンダー正義の推進とトランスジェンダーコミュニティの支援を目指すサービス、プログラム、イベントを提供する包括的なリソースです。ヘルスケア、法的援助、精神保健サービスなどの支援サービスとリソースが含まれています。"
+    },
+    "vi-VN": {
+      "title": "Dự án McKenzie",
+      "description": "Một nguồn tài nguyên toàn diện cung cấp các dịch vụ, chương trình và sự kiện nhằm thúc đẩy công bằng giới tính và phục vụ cộng đồng người chuyển giới. Bao gồm các dịch vụ hỗ trợ và tài nguyên bao gồm y tế, hỗ trợ pháp lý, dịch vụ sức khỏe tâm thần và hơn thế nữa."
+    },
+    "ru-RU": {
+      "title": "Проект Макензи",
+      "description": "Обширный ресурс, предлагающий услуги, программы и мероприятия, направленные на содействие гендерному справедливости и обслуживание трансгендерного сообщества. Включает в себя услуги поддержки и ресурсы, включая медицинское обслуживание, юридическую помощь, услуги психического здоровья и многое другое."
+    },
+    "tr-TR": {
+      "title": "McKenzie Projesi",
+      "description": "Toplumsal cinsiyet adaletini teşvik etmeyi ve trans cinsiyetli topluluğa hizmet etmeyi amaçlayan hizmetler, programlar ve etkinlikler sunan kapsamlı bir kaynak. Sağlık hizmetleri, hukuki yardım, ruh sağlığı hizmetleri ve daha fazlasını içeren destek hizmetleri ve kaynakları içerir."
+    },
+    "ar-SA": {
+      "title": "مشروع ماكنزي",
+      "description": "مورد شامل يقدم خدمات وبرامج وأحداث تهدف إلى تعزيز العدالة الجنسانية وخدمة المجتمع المتحول جنسيا. يتضمن خدمات الدعم والموارد بما في ذلك الرعاية الصحية والمساعدة القانونية وخدمات الصحة العقلية والمزيد."
+    },
+    "uk-UA": {
+      "title": "Проект McKenzie",
+      "description": "Всебічний ресурс, який пропонує послуги, програми та заходи, спрямовані на справедливість стосовно статевої належності та обслуговування трансгендерної спільноти. Включає в себе служби підтримки та ресурси, зокрема медичне обслуговування, юридичну допомогу, послуги з питань психічного здоров'я та багато іншого."
+    },
+    "ur-PK": {
+      "title": "میکینزی کا منصوبہ",
+      "description": "ایک جامع وسائل جو خدمات، پروگرام اور واقعات کی پیشکش کرتا ہے جو جنسی انصاف کو فروغ دینے اور ٹرانسجینڈر برادری کی خدمت کا ہدف ہوتا ہے۔ اس میں صحت کی نگہداشت، قانونی مدد، ذہنی صحت کی خدمات اور زیادہ سے زیادہ مددگار ریسورسز شامل ہیں۔"
+    },
+    "hi-IN": {
+      "title": "मैकेन्झी प्रोजेक्ट",
+      "description": "यह एक व्यापक संसाधन है जो सेवाएं, कार्यक्रम और घटनाएं प्रदान करता है, जिनका लक्ष्य लिंग न्याय को बढ़ावा देना और ट्रांसजेंडर समुदाय की सेवा करना है। इसमें स्वास्थ्य सेवाएं, कानूनी सहायता, मानसिक स्वास्थ्य सेवाएं और अधिक सहित समर्थन सेवाएं और संसाधन शामिल हैं।"
+    },
+    "ta-IN": {
+      "title": "மெக்கென்சி திட்டம்",
+      "description": "பாலின நீதியை மேம்படுத்துவதை இலகுவாக்குவதற்கும், மாறுபாலியாகக் குறிக்கப்பட்ட சமுதாயத்தை சேவைகூடாதிகாக்குவதற்கும் குறியேற்றும் சேவைகள், நிகழ்வுகள் மற்றும் நிகழ்வுகளை உள்ளடக்கிய ஒரு கூடுதலான வளங்கள். மருத்துவ சேவைகள், சட்ட உதவி, மானசிகச் சுகாதார சேவைகள் மற்றும் மேலும் ஆகியவற்றை உள்ளடக்கியுள்ளது."
+    },
+    "mr-IN": {
+      "title": "मॅकेंझी प्रकल्प",
+      "description": "लिंग न्याय बळीवाण करणार्या आणि ट्रान्सज्ञान समुदायाची सेवा करणार्या सेवांची, कार्यक्रमांची व कार्यक्रमांची वयोमय संसाधने प्रस्तुत करणारा प्रकल्प. स्वास्थ्यसेवा, कायदेशीर मदत, मानसिक आरोग्य सेवा आणि अधिक असलेल्या समर्थन सेवांची आणि संसाधनांची समावेश."
+    },
+    "bn-BD": {
+      "title": "দ্য ম্যাকেন্জি প্রকল্প",
+      "description": "লিঙ্গ ন্যায়তা প্রচার এবং ট্রান্সজেন্ডার সম্প্রদায়ের পরিষেবা প্রদানের লক্ষ্যে সেবা, কার্যক্রম এবং ইভেন্ট প্রদানের একটি সমগ্র সম্পদ। এটি স্বাস্থ্য সেবা, আইনগত সহায়তা, মানসিক স্বাস্থ্য সেবা এবং আরও অনেক কিছুর সমর্থন সেবার সহিত সম্পন্ন।"
+    },
+    "te-IN": {
+      "title": "ది మెక్కెన్జీ ప్రాజెక్ట్",
+      "description": "లింగ న్యాయానికి ప్రోత్సాహించే మరియు ట్రాన్స్జెండర్ సముదాయాన్ని సేవించే సేవలు, కార్యక్రమాలు మరియు ఈవెంట్లను అందిస్తున్న విస్తృత వనరు. సహాయక సేవలు మరియు వనరులను కలిగి ఉంటాయి, అవి ఆరోగ్య సేవలు, చట్టప్రమాణ సహాయం, మానసిక ఆరోగ్య సేవలు మరింత ఉండగలవు."
+    }
+  }
+}

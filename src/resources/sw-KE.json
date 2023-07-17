@@ -105,6 +105,61 @@
     "description": "Rasilimali ya mkondoni inayoaminika kwa watu wanaotafuta maarifa, msaada, na uelewa kuhusu kutokujaliana na jinsia. Tovuti yao inatoa habari nyingi, rasilimali, na uhusiano wa jamii kuwawezesha watu katika safari yao. Kutoka kwenye viongozi kamili kuhusu utambulisho wa jinsia na kubadilisha hadi hadithi binafsi na ushauri wa wataalam, wanaojitahidi kuunda nafasi salama na jumuishi kwa wote."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Mradi wa Kusonga Mbele",
+    "description": "Mradi wa Kusonga Mbele (MAP) ni tanki la kufikiria linalojitegemea, lisilo na faida ambalo hutoa utafiti mkali, ufahamu, na mawasiliano ambayo husaidia kuharakisha usawa na fursa kwa wote. MAP inafanya kazi kuhakikisha kuwa watu wote wanapata nafasi ya haki ya kufuata afya na furaha, kupata kipato, kujali wale wanaowapenda, kuwa salama katika jamii zao, na kushiriki katika maisha ya kiraia."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Huduma za Mawasiliano ya Jordan Ross",
+    "description": "Jordan Ross hutoa mafunzo ya hotuba, sauti na mawasiliano kwa watu trans, queer na wenye jinsia isiyo ya kawaida. Anatoa mafunzo ya 1-On-1, kozi za mkondoni, matukio, na 'Mpango wa Mafunzo ya Sauti ya Ndani'. Njia yake inajumuisha programu ya neva-linguistic, hypnotherapy, maelekezo ya yoga, na mafunzo ya pumzi, lengo likiwa kushughulikia sio tu viungo vya kimwili bali pia viungo vya kiakili, kihisia, na vya nishati vya mawasiliano."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "Kituo cha Kitaifa cha Usawa wa Jinsia ya Kugeuka ni shirika linalotetea mabadiliko ya sera na mitazamo ya jamii kwa uelewa na kukubalika zaidi kwa watu wa jinsia ya kugeuka. NCTE inatoa habari kuhusu masuala yanayoathiri jamii ya Jinsia ya Kugeuka ikiwa ni pamoja na kuzeeka, kupinga unyanyasaji, ajira, familia, afya & VVU, makazi & ukosefu wa makazi, na zaidi."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Nyumbani kwa Kubadilisha Jina Florida",
+    "description": "Tovuti hii inatoa miongozo hatua kwa hatua kwa wale ambao wanataka kusasisha jina lao au jinsia nchini Florida. Hatua hizi ni pamoja na kuwasilisha ombi mahakamani, na kusasisha kadi ya Usalama wa Jamii, leseni ya udereva, pasipoti, na cheti cha kuzaliwa."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Mradi wa Trevor",
+    "description": "Mradi wa Trevor ni shirika lisilo la faida la Amerika linalotoa huduma za kuzuia kujiua kwa vijana wa LGBTQ+. Tovuti hii inatoa rasilimali zenye thamani kwa jamii ya watu wanaobadili jinsia, ikiwa ni pamoja na kuingilia kwa dharura na mstari wa maisha ya kuzuia kujiua, TrevorChat, na TrevorText pamoja na mwongozo juu ya afya ya akili, huduma za kijamii, na makundi ya msaada."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "Mahali pa Marsha ni moja ya miradi mingi ya kuanzia inayolenga kusaidia watu wa Trans na familia zao katika majimbo yanayozidi kuwa hatari kuelekea mahali salama. APFM ilianza safari yake mwezi Machi wa 2023 kufuatia kuongezeka kwa sheria za kupinga-trans kote nchini. APFM sasa inazingatia kuwalinganisha Wakimbizi kutoka majimbo mekundu kama wenye vyumba, kushughulikia kwa makini kaya moja kwa wakati."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons inatoa huduma za ubora wa kudhibiti sauti na ukombozi kwa watu wa jinsia ya kupitisha na wasio na binary wanaolenga kusikika kuwa wa kiume zaidi, wa kike, au androgynous."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Jukwaa muhimu la mtandaoni lililojitolea kusaidia na kutetea watu binafsi wa LGBTQ + ambao wanakabiliwa na mateso na vurugu ulimwenguni. Kwa kujitolea kusita kusita, tovuti inaunganisha wale walio hatarini mara moja na rasilimali za kuokoa maisha, msaada wa dharura, na njia za kuelekea salama. Kupitia ushirikiano na mashirika ya ndani na mtandao wa wafuasi wenye huruma, RainbowRailroad.org inafanya kazi bila kuchoka kutoa utetezi, msaada wa kisheria, na msaada wa kuhamisha, kuwezesha watu binafsi kutoroka mateso na kupata hifadhi. Kwa kuwa bingwa wa haki za binadamu, kuokoa maisha, na kukuza ulimwengu wa jumuishi zaidi, RainbowRailroad.org inatumikia kama mwangaza wa matumaini na ulinzi kwa watu binafsi wa LGBTQ + wanaotafuta usalama na uhuru."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Mradi wa McKenzie",
+    "description": "Rasilimali jumuishi inayotoa huduma, mipango na hafla zinazolenga kuendeleza haki ya jinsia na kuhudumia jumuiya ya watu wanaobadili jinsia. Inajumuisha huduma za usaidizi na rasilimali ikiwa ni pamoja na huduma za afya, msaada wa kisheria, huduma za afya ya akili na zaidi."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

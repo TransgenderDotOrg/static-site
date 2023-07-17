@@ -1,0 +1,104 @@
+{
+  "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+  "slug": "florida-name-change-home",
+  "externalUrl": "https://www.floridanamechange.org/",
+  "tags": [
+    "legal",
+    "social-services"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Florida Name Change Home",
+      "description": "This website provides a step-by-step guidance for those who want to update their name or gender in Florida. The steps include filing a petition in court, and updating Social Security card, driver license, passport, and birth certificate."
+    },
+    "id-ID": {
+      "title": "Beranda Penggantian Nama Florida",
+      "description": "Situs web ini menyediakan panduan langkah demi langkah untuk mereka yang ingin memperbarui nama atau jenis kelamin mereka di Florida. Langkah-langkah tersebut termasuk mengajukan permohonan di pengadilan, dan memperbarui kartu Jaminan Sosial, lisensi pengemudi, paspor, dan akta kelahiran."
+    },
+    "zh-CN": {
+      "title": "佛罗里达更名首页",
+      "description": "此网站为想在佛罗里达州更新姓名或性别的人提供逐步指导。步骤包括在法院提出申请，并更新社会保障卡，驾驶执照，护照和出生证明。"
+    },
+    "es-ES": {
+      "title": "Inicio de Cambio de Nombre en Florida",
+      "description": "Este sitio web proporciona una guía paso a paso para aquellos que desean actualizar su nombre o género en Florida. Los pasos incluyen presentar una petición en tribunal y actualizar la tarjeta de seguro social, licencia de conducir, pasaporte y certificado de nacimiento."
+    },
+    "pt-PT": {
+      "title": "Página Inicial de Mudança de Nome na Flórida",
+      "description": "Este site fornece um guia passo a passo para aqueles que desejam atualizar seu nome ou gênero na Flórida. As etapas incluem o preenchimento de uma petição em tribunal, e a atualização do cartão da Segurança Social, carteira de motorista, passaporte e certidão de nascimento."
+    },
+    "ja-JP": {
+      "title": "フロリダ姓名変更ホーム",
+      "description": "このウェブサイトは、フロリダで自分の名前や性別を更新したい方向けの段階的なガイダンスを提供します。手続きには、裁判所に嘆願書を提出し、社会保障カード、運転免許証、パスポート、出生証明書を更新することが含まれます。"
+    },
+    "de-DE": {
+      "title": "Florida Namensänderung Zuhause",
+      "description": "Diese Website bietet eine Schritt-für-Schritt-Anleitung für diejenigen, die ihren Namen oder ihr Geschlecht in Florida aktualisieren möchten. Die Schritte beinhalten die Einreichung einer Petition vor Gericht sowie die Aktualisierung der Sozialversicherungskarte, des Führerscheins, des Passes und der Geburtsurkunde."
+    },
+    "fr-FR": {
+      "title": "Page d'accueil du changement de nom en Floride",
+      "description": "Ce site web fournit un guide étape par étape pour ceux qui souhaitent mettre à jour leur nom ou leur sexe en Floride. Les étapes comprennent le dépôt d'une requête devant le tribunal, et la mise à jour de la carte de sécurité sociale, du permis de conduire, du passeport, et du certificat de naissance."
+    },
+    "tr-TR": {
+      "title": "Florida Ad Değişikliği Ana Sayfası",
+      "description": "Bu web sitesi, Florida'da adlarını veya cinsiyetlerini güncellemek isteyenler için adım adım rehber sunmaktadır. Adımlar, mahkemede dilekçe verme ve Sosyal Güvenlik kartı, sürücü belgesi, pasaport ve doğum belgesini güncelleme işlemlerini içerir."
+    },
+    "ko-KR": {
+      "title": "플로리다 이름 변경 홈",
+      "description": "이 웹사이트는 이름이나 성별을 플로리다에서 업데이트하려는 사람들을 위한 단계별 지침을 제공합니다. 이 단계에는 법원에 청원서를 제출하고, 사회보장 카드, 운전 면허증, 여권, 그리고 탄생 증명서를 업데이트하는 것이 포함됩니다."
+    },
+    "vi-VN": {
+      "title": "Trang chủ Thay đổi Tên Florida",
+      "description": "Trang web này cung cấp hướng dẫn từng bước cho những người muốn cập nhật tên hoặc giới tính của mình tại Florida. Các bước bao gồm nộp đơn kiện tại tòa án và cập nhật thẻ Bảo hiểm Xã hội, giấy phép lái xe, hộ chiếu và giấy khai sinh."
+    },
+    "ru-RU": {
+      "title": "Главная страница об изменении имени во Флориде",
+      "description": "Этот веб-сайт предоставляет пошаговое руководство для тех, кто хочет обновить свое имя или пол во Флориде. Шаги включают подачу иска в суд и обновление карты социального обеспечения, водительских прав, паспорта и свидетельства о рождении."
+    },
+    "uk-UA": {
+      "title": "Домашня сторінка зміни імені в штаті Флорида",
+      "description": "Цей вебсайт надає покрокову інструкцію для тих, хто хоче оновити своє ім'я або стать в штаті Флорида. Кроки включають подачу петиції в суд, а також оновлення картки соціального захисту, водійського посвідчення, паспорту та свідоцтва про народження."
+    },
+    "sw-KE": {
+      "title": "Nyumbani kwa Kubadilisha Jina Florida",
+      "description": "Tovuti hii inatoa miongozo hatua kwa hatua kwa wale ambao wanataka kusasisha jina lao au jinsia nchini Florida. Hatua hizi ni pamoja na kuwasilisha ombi mahakamani, na kusasisha kadi ya Usalama wa Jamii, leseni ya udereva, pasipoti, na cheti cha kuzaliwa."
+    },
+    "ar-SA": {
+      "title": "الصفحة الرئيسية لتغيير الاسم في فلوريدا",
+      "description": "تُقدم هذه الموقع إرشادًا خطوة بخطوة للأشخاص الذين يرغبون في تحديث اسمهم أو جنسهم في فلوريدا. تشمل الخطوات تقديم عريضة في المحكمة، وتحديث بطاقة الضمان الاجتماعي، ورخصة القيادة، والجواز، وشهادة الميلاد."
+    },
+    "ur-PK": {
+      "title": "فلوریڈا نام تبدیل ہوم",
+      "description": "یہ ویب سائٹ فلوریڈا میں اپنا نام یا جنس تبدیل کرنے والوں کے لئے مرحلہ وار ہدایت فراہم کرتی ہے۔ ان مراحل میں عدالت میں درخواست دائر کرنا، اور سوشل سیکیورٹی کارڈ، ڈرائیونگ لائسنس، پاسپورٹ اور پیدائشی سرٹیفیکیٹ کو تبدیل کرنا شامل ہے۔"
+    },
+    "hi-IN": {
+      "title": "फ्लोरिडा नाम परिवर्तन होम",
+      "description": "यह वेबसाइट उन लोगों के लिए चरण-दर-चरण मार्गदर्शन प्रदान करती है जो फ्लोरिडा में अपना नाम या लिंग अपडेट करना चाहते हैं। इन चरणों में कोर्ट में याचिका दायर करना, और सोशल सिक्योरिटी कार्ड, ड्राइवर लाइसेंस, पासपोर्ट और जन्म प्रमाणपत्र को अपडेट करना शामिल है।"
+    },
+    "mr-IN": {
+      "title": "फ्लोरिडा नाव बदल होम",
+      "description": "या वेबसाईटमध्ये फ्लोरिडातील त्यांचे नाव किंवा लिंग अद्ययावत करण्यासाठीच्या एका एका पायरीवर मार्गदर्शन दिलेले आहे. या पायर्‍यांमध्ये कोर्टात पिटीशन दाखल करणे, सोशल सिक्युरिटी कार्ड, ड्रायव्हर परवाना, पारपत्र आणि जन्म प्रमाणपत्र अद्ययावत करणे समाविष्ट आहे."
+    },
+    "bn-BD": {
+      "title": "ফ্লোরিডা নাম পরিবর্তন হোম",
+      "description": "এই ওয়েবসাইটটি যাদের ফ্লোরিডায় নিজের নাম বা লিঙ্গ আপডেট করতে চান তাদের জন্য ধাপে ধাপে নির্দেশনা প্রদান করে। এই ধাপগুলোর মধ্যে কোর্টে একটি পেটিশন দায়ের করা, এবং সামাজিক নিরাপত্তি কার্ড, ড্রাইভার লাইসেন্স, পাসপোর্ট এবং জন্ম সনদপত্র আপডেট করা অন্তর্ভুক্ত।"
+    },
+    "te-IN": {
+      "title": "ఫ్లోరిడా పేరు మార్పు హోమ్",
+      "description": "ఈ వెబ్‌సైట్ ఫ్లోరిడాలో వారి పేరు లేదా లింగాన్ని నవీకరించడానికి క్రమవర మార్గదర్శనను అందిస్తుంది. ఈ పద్ధతులు కోర్టులో ఫిర్యాదు నమోదు చేసేందుకు, సామాజిక భద్రతా కార్డు, డ్రైవర్ లైసెన్స్, పాస్పోర్ట్, మరియు జనన ప్రమాణ పత్రం అప్‌డేట్ చేసేందుకు ఉంటాయి."
+    },
+    "ta-IN": {
+      "title": "ஃப்ளோரிடா பெயர் மாற்றத் தமிழில்",
+      "description": "இந்த வலைத்தளம் ஃப்ளோரிடாவில் தங்களது பெயர் அல்லது பாலின்கணத்தினைப் புதுப்பிக்க விரும்பும் நபர்களுக்கு படி முதல் படி வழிமுறையை வழங்குகிறது. அதில் நீதிமன்றத்தில் மனுவைக் கோப்பிடுதல், சமூக பாதுகாப்பு அட்டை, ஓட்டுனர் உரிமத்தைப், பாஸ்போர்டை மற்றும் பிறப்புச் சான்றிதழை புதுப்பிக்கும் படிகள் உள்ளன."
+    }
+  }
+}

@@ -105,6 +105,61 @@
     "description": "Un recurso en línea confiable para personas que buscan conocimiento, apoyo y comprensión sobre la disforia de género. Su sitio web proporciona una gran cantidad de información, recursos y conexiones comunitarias para empoderar a las personas en su viaje. Desde guías completas sobre identidad de género y transición hasta historias personales y consejos de expertos, se esfuerzan por crear un espacio seguro e inclusivo para todos."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Proyecto de Avance del Movimiento",
+    "description": "El Proyecto de Avance del Movimiento (MAP, por sus siglas en inglés) es un laboratorio de ideas independiente y sin fines de lucro que proporciona investigación rigurosa, insight y comunicaciones que ayudan a acelerar la igualdad y las oportunidades para todos. MAP trabaja para garantizar que todas las personas tengan una oportunidad justa de buscar salud y felicidad, ganarse la vida, cuidar a los que aman, estar seguros en sus comunidades y participar en la vida cívica."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Servicios de Comunicación de Jordan Ross",
+    "description": "Jordan Ross ofrece entrenamiento en habla, voz y comunicación para personas trans, queer y de género no conformes. Ofrece coaching 1-a-1, cursos en línea, eventos y el 'Programa de Coaching La Voz Interior'. Su enfoque incorpora programación neurolingüística, hipnoterapia, instrucción de yoga, y coaching de respiración, con el objetivo de abordar no solo los aspectos físicos, sino también los mentales, emocionales y energéticos de la comunicación."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "El Centro Nacional para la Igualdad Transgénero es una organización que aboga por cambiar políticas y actitudes sociales para aumentar la comprensión y aceptación de las personas transgénero. El NCTE proporciona información sobre temas que afectan a la comunidad Transgénero, incluyendo el envejecimiento, la anti-violencia, el empleo, las familias, la salud y el VIH, la vivienda y la falta de hogar, y más."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Inicio de Cambio de Nombre en Florida",
+    "description": "Este sitio web proporciona una guía paso a paso para aquellos que desean actualizar su nombre o género en Florida. Los pasos incluyen presentar una petición en tribunal y actualizar la tarjeta de seguro social, licencia de conducir, pasaporte y certificado de nacimiento."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "The Trevor Project",
+    "description": "The Trevor Project es una organización sin fines de lucro estadounidense que proporciona servicios de prevención de suicidio a jóvenes LGBTQ+. El sitio proporciona recursos valiosos para la comunidad transgénero, incluyendo intervención en crisis y línea de vida de prevención de suicidio, TrevorChat, y TrevorText, así como orientación sobre salud mental, servicios sociales y grupos de apoyo."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "Un Lugar para Marsha es uno de muchos proyectos de inicio orientados a ayudar a individuos y familias Trans en estados cada vez más peligrosos a un lugar más seguro. ULPM comenzó su viaje en marzo de 2023 en reacción al auge de la legislatura anti-trans en toda la nación. Ahora ULPM se enfoca en emparejar a los refugiados de los estados rojos como compañeros de cuarto, manejando cuidadosamente un hogar a la vez."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons ofrece servicios de control y liberación de voz de calidad para individuos transgénero y no binarios que buscan sonar más masculinos, femeninos o andróginos."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailway.org",
     "description": "Una vital plataforma en línea dedicada a asistir y abogar por los individuos LGBTQ+ que enfrentan persecución y violencia en todo el mundo. Con un compromiso inquebrantable, el sitio web conecta a aquellos en peligro inmediato con recursos que salvan vidas, asistencia de emergencia y vías seguras hacia la seguridad. A través de asociaciones con organizaciones locales y una red de simpatizantes compasivos, RainbowRailroad.org trabaja incansablemente para proporcionar defensa, asistencia legal y apoyo para la reubicación, permitiendo a las personas escapar de la persecución y encontrar refugio. Al defender los derechos humanos, salvar vidas y fomentar un mundo más inclusivo, RainbowRailroad.org sirve como un faro de esperanza y protección para las personas LGBTQ+ que buscan seguridad y libertad."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "El Proyecto McKenzie",
+    "description": "Un recurso integral que ofrece servicios, programas y eventos destinados a promover la justicia de género y servir a la comunidad transgénero. Incluye servicios de apoyo y recursos que incluyen atención médica, asistencia legal, servicios de salud mental y más."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

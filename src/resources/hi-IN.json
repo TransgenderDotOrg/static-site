@@ -105,6 +105,61 @@
     "description": "एक विश्वसनीय ऑनलाइन संसाधन जिन्हें लिंग असंतुष्टि के बारे में ज्ञान, समर्थन और समझ खोजने की जरूरत है। उनकी वेबसाइट सूचना, संसाधन और समुदाय संपर्क प्रदान करती है जो व्यक्तियों को उनके यात्रा में सशक्त बनाने में मदद करते हैं। लिंग पहचान और अवसंर्पण पर व्यापक मार्गदर्शिकाओं से लेकर व्यक्तिगत कहानियाँ और विशेषज्ञ सलाह तक, वे सभी के लिए सुरक्षित और समावेशी स्थान बनाने का प्रयास करते हैं।"
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "मूवमेंट एडवांसमेंट प्रोजेक्ट",
+    "description": "मूवमेंट एडवांसमेंट प्रोजेक्ट (MAP) एक स्वतंत्र, गैरलाभकारी थिंक टैंक है जो कठोर अनुसंधान, अंतर्दृष्टि, और संचार प्रदान करता है जो सभी के लिए समानता और अवसर को बढ़ाने में मदद करता है। MAP का काम यह सुनिश्चित करना होता है कि सभी लोगों को स्वास्थ्य और खुशी का पीछा करने, आय कमाने, अपने प्यारे लोगों की देखभाल करने, अपने समुदायों में सुरक्षित रहने, और नागरिक जीवन में भाग लेने का न्यायपूर्ण मौका मिले।"
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "जॉर्डन रॉस संचार सेवाएं",
+    "description": "जॉर्डन रॉस ट्रांस, क्वीर और लिंग संबंधी संवृद्धि वाले व्यक्तियों के लिए भाषण, आवाज और संचार कोचिंग प्रदान करते हैं। उनकी पेशकश में 1-टू-1 कोचिंग, ऑनलाइन कोर्स, इवेंट, और 'वॉयस विदीन कोचिंग प्रोग्राम' शामिल है। उनका दृष्टिकोण न्यूरो-लँग्वेजिस्टिक प्रोग्रामिंग, हायप्नोथेरेपी, योग निर्देशन, और श्वास कोचिंग को शामिल करता है, इसका उद्देश्य संचार के केवल शारीरिक ही नहीं बल्कि मानसिक, भावनात्मक, और ऊर्जा संबंधी पहलुओं को भी संबोधित करना है।"
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "राष्ट्रीय सेंटर फ़ॉर ट्रान्सजेंडर समानता एक संगठन है जो ट्रान्सजेंडर लोगों की समझ और स्वीकार्यता बढ़ाने के लिए नीतियों और सामाजिक दृष्टिकोणों में परिवर्तन के लिए समर्थन करता है। NCTE ट्रान्सजेंडर समुदाय को प्रभावित करने वाले मुद्दों जैसे बुढ़ापा, हिंसा के खिलाफ, रोजगार, परिवार, स्वास्थ्य और HIV, आवास और बेघरी आदि के बारे में जानकारी प्रदान करते हैं।"
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "फ्लोरिडा नाम परिवर्तन होम",
+    "description": "यह वेबसाइट उन लोगों के लिए चरण-दर-चरण मार्गदर्शन प्रदान करती है जो फ्लोरिडा में अपना नाम या लिंग अपडेट करना चाहते हैं। इन चरणों में कोर्ट में याचिका दायर करना, और सोशल सिक्योरिटी कार्ड, ड्राइवर लाइसेंस, पासपोर्ट और जन्म प्रमाणपत्र को अपडेट करना शामिल है।"
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "द ट्रेवर प्रोजेक्ट",
+    "description": "द ट्रेवर प्रोजेक्ट एक अमेरिकी गैर-लाभकारी संगठन है जो LGBTQ+ युवा के लिए आत्महत्या रोकथाम सेवाएं प्रदान करता है। यह साइट ट्रांसजेंडर समुदाय के लिए मूल्यवान संसाधन प्रदान करती है, जिसमें संकट हस्तक्षेप और आत्महत्या रोकथाम लाइफलाइन, ट्रेवरचाट, और ट्रेवरटेक्स्ट सहित मानसिक स्वास्थ्य, सामाजिक सेवाएं, और समर्थन समूहों पर मार्गदर्शन शामिल है।"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "मार्शा के लिए एक स्थान, ट्रांस व्यक्तियों और परिवारों की मदद करने की दिशा में अनेक स्टार्ट-अप परियोजनाओं में से एक है जो खतरनाक राज्यों में बढ़ रहे हैं। जिसे एक सुरक्षित स्थान की ओर ले जाने का लक्ष्य है। APFM ने 2023 के मार्च में राष्ट्र भर में ट्रांस-विरोधी कानूनों के ऊदय के जवाब में अपनी यात्रा शुरू की। APFM अब लाल राज्यों से शरणार्थियों को रूममेट के रूप में मिलाने पर ध्यान केंद्रित करता है, सावधानीपूर्वक एक समय में एक घर को संभालता है।"
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons ट्रांसजेंडर और गैर-बाइनरी व्यक्तियों के लिए, जो अधिक पुरुष, महिला, या उभयलिंगी आवाज़ निकालने की कोशिश कर रहे हैं, गुणवत्ता स्वर नियंत्रण और मुक्ति सेवाएं प्रदान करता है।"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "एक महत्वपूर्ण ऑनलाइन प्लेटफ़ॉर्म जो LGBTQ+ व्यक्तियों की सहायता और उनकी सराहना करता है, जो विश्वव्यापी उत्पीड़न और हिंसा का सामना कर रहे हैं। अटल समर्पण के साथ, यह वेबसाइट उन लोगों के साथ संपर्क करती है जो तत्काल खतरे में हैं, जीवन बचाने वाले संसाधनों, आपातकालीन सहायता, और सुरक्षित पथों तक पहुँचने के लिए। स्थानीय संगठनों के साथ भागीदारियों और सहानुभूति से भरे समर्थकों के नेटवर्क के माध्यम से, RainbowRailroad.org थकान से रहित रूप से सहयोग, कानूनी सहायता, और स्थानांतरण सहायता प्रदान करता है, जिससे व्यक्तियों को उत्पीड़न से बचने और शरण पाने की अनुमति होती है। मानवाधिकारों की संरक्षाण करने, जीवन बचाने, और एक अधिक समावेशी दुनिया को बढ़ावा देने के द्वारा, RainbowRailroad.org LGBTQ+ व्यक्तियों के लिए सुरक्षा और स्वतंत्रता की तलाश में आशा और संरक्षाण का प्रतीक बनता है।"
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "मैकेन्झी प्रोजेक्ट",
+    "description": "यह एक व्यापक संसाधन है जो सेवाएं, कार्यक्रम और घटनाएं प्रदान करता है, जिनका लक्ष्य लिंग न्याय को बढ़ावा देना और ट्रांसजेंडर समुदाय की सेवा करना है। इसमें स्वास्थ्य सेवाएं, कानूनी सहायता, मानसिक स्वास्थ्य सेवाएं और अधिक सहित समर्थन सेवाएं और संसाधन शामिल हैं।"
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

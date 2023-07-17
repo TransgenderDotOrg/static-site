@@ -1,0 +1,38 @@
+{
+  "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+  "title": "The McKenzie Project",
+  "description": "A comprehensive resource offering services, programs and events aimed at promoting gender justice and serving the transgender community. Includes support services and resources including healthcare, legal assistance, mental health services and more.",
+  "slug": "the-mckenzie-project",
+  "externalUrl": "https://www.themckenzieproject.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+  "email": "Info@TheMcKenzieProject.org",
+  "phoneNumber": "305-846-3186",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Miami",
+  "county": "Miami-Dade County",
+  "latLng": [25.769445, -80.3321284],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

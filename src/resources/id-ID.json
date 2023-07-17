@@ -105,6 +105,61 @@
     "description": "Sebuah sumber daya online tepercaya untuk individu yang mencari pengetahuan, dukungan, dan pemahaman tentang disforia gender. Situs web mereka menyediakan berbagai informasi, sumber daya, dan koneksi komunitas untuk memberdayakan individu dalam perjalanan mereka. Dari panduan komprehensif tentang identitas gender dan transisi hingga cerita pribadi dan saran ahli, mereka berusaha menciptakan ruang yang aman dan inklusif untuk semua."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Proyek Kemajuan Gerakan",
+    "description": "Proyek Kemajuan Gerakan (MAP) adalah think tank independen, nirlaba yang menyediakan penelitian yang ketat, wawasan, dan komunikasi yang membantu mempercepat kesetaraan dan kesempatan untuk semua orang. MAP berusaha untuk memastikan bahwa semua orang memiliki kesempatan yang adil untuk mengejar kesehatan dan kebahagiaan, mencari nafkah, merawat orang yang mereka cintai, aman di komunitas mereka, dan berpartisipasi dalam kehidupan sipil."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Layanan Komunikasi Jordan Ross",
+    "description": "Jordan Ross menyediakan pelatihan pidato, suara dan komunikasi untuk individu trans, queer dan non-konformitas gender. Dia menawarkan pelatihan 1-On-1, kursus online, acara, dan 'Program Coaching Voice Within'. Pendekatannya melibatkan pemrograman neuro-linguistik, hipnoterapi, instruksi yoga, dan pelatihan pernapasan, bertujuan untuk mengatasi tidak hanya aspek fisik tetapi juga mental, emosional, dan energetik dari komunikasi."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "Pusat Nasional untuk Kesetaraan Transgender adalah sebuah organisasi yang berjuang untuk mengubah kebijakan dan sikap masyarakat agar memahami dan menerima orang-orang transgender. NCTE menyediakan informasi tentang berbagai isu yang mempengaruhi komunitas Transgender termasuk penuaan, anti-kekerasan, pekerjaan, keluarga, kesehatan & HIV, perumahan & tunawisma, dan lainnya."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Beranda Penggantian Nama Florida",
+    "description": "Situs web ini menyediakan panduan langkah demi langkah untuk mereka yang ingin memperbarui nama atau jenis kelamin mereka di Florida. Langkah-langkah tersebut termasuk mengajukan permohonan di pengadilan, dan memperbarui kartu Jaminan Sosial, lisensi pengemudi, paspor, dan akta kelahiran."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "The Trevor Project",
+    "description": "The Trevor Project adalah organisasi nirlaba Amerika yang menyediakan layanan pencegahan bunuh diri untuk pemuda LGBTQ+. Situs ini menyediakan sumber daya berharga bagi komunitas transgender, termasuk intervensi krisis dan garis hidup pencegahan bunuh diri, TrevorChat, dan TrevorText serta bimbingan tentang kesehatan mental, layanan sosial, dan kelompok dukungan."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "Sebuah Tempat untuk Marsha adalah salah satu dari banyak proyek start-up yang bertujuan untuk membantu individu dan keluarga Trans dalam negara yang semakin berbahaya menuju tempat yang lebih aman. APFM memulai perjalanannya pada Maret 2023 sebagai reaksi terhadap meningkatnya legislasi anti-trans di seluruh negeri. APFM sekarang berfokus pada mencocokkan Pengungsi dari negara merah sebagai teman sekamar, dengan hati-hati menangani satu rumah tangga dalam satu waktu."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons menawarkan layanan kontrol suara dan pembebasan berkualitas untuk individu transgender dan non-binary yang ingin suaranya terdengar lebih maskulin, feminin, atau androgen."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Sebuah platform online penting yang didedikasikan untuk membantu dan membela individu LGBTQ+ yang menghadapi penganiayaan dan kekerasan di seluruh dunia. Dengan komitmen yang tidak goyah, website ini menghubungkan mereka yang berada dalam bahaya langsung ke sumber daya penyelamatan hidup, bantuan darurat, dan jalur aman ke keamanan. Melalui kemitraan dengan organisasi lokal dan jaringan pendukung yang penuh belas kasih, RainbowRailroad.org bekerja tanpa lelah untuk menyediakan advokasi, bantuan hukum, dan dukungan relokasi, memungkinkan individu untuk kabur dari penganiayaan dan menemukan perlindungan. Dengan memperjuangkan hak asasi manusia, menyelamatkan hidup, dan mendorong dunia yang lebih inklusif, RainbowRailroad.org berfungsi sebagai mercusuar harapan dan perlindungan bagi individu LGBTQ+ yang mencari keamanan dan kebebasan."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Proyek McKenzie",
+    "description": "Sebuah sumber daya komprehensif yang menawarkan layanan, program dan acara yang bertujuan untuk mempromosikan keadilan gender dan melayani komunitas transgender. Termasuk layanan dukungan dan sumber daya termasuk kesehatan, bantuan hukum, layanan kesehatan mental dan lainnya."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

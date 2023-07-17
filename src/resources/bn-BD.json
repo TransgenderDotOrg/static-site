@@ -105,6 +105,61 @@
     "description": "লিঙ্গ বিপর্যয়ের বিষয়ে জ্ঞান, সমর্থন এবং বোধের জন্য যজ্ঞসুযোগ্য অনলাইন উৎস। তাদের ওয়েবসাইট তথ্যের সম্পদ, সম্পদ এবং সম্প্রদায় সম্পর্ক সরবরাহ করে যা ব্যক্তিদের তাদের যাত্রায় সশক্ত করে তোলে। লিঙ্গ পরিচয় এবং পরিবর্তনের সম্পূর্ণ নির্দেশিকা থেকে ব্যক্তিগত গল্প এবং বিশেষজ্ঞদের পরামর্শ পর্যন্ত, তারা সবার জন্য নিরাপদ এবং অন্তর্ভুক্ত স্থান তৈরি করার চেষ্টা করেন।"
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "মুভমেন্ট অ্যাডভান্সমেন্ট প্রকল্প",
+    "description": "মুভমেন্ট অ্যাডভান্সমেন্ট প্রকল্প (এমএপি) একটি স্বাধীন, অলাভজনক চিন্তা কেন্দ্র যা প্রামাণিক গবেষণা, সূচনা এবং যোগাযোগ প্রদান করে যা সমস্তের জন্য সমান ও সমৃদ্ধির ক্ষেত্রে দ্রুত সমন্বয় সাধারণ করে তোলে। এমএপি নিশ্চিত করে যে সমস্ত লোকের স্বাস্থ্য এবং সুখ বাড়ানো, আয় অর্জন করা, নিজের পছন্দের ব্যক্তিদের যত্ন নেওয়া, নিজের সম্প্রদায়ে নিরাপদে থাকা এবং নাগরিক জীবনে অংশ নেওয়ার মতো ক্ষেত্রে সমান সুযোগের রয়েছে।"
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "জর্ডান রস কমিউনিকেশন সার্ভিসেস",
+    "description": "জর্ডান রস ট্রান্স, কুইয়ার এবং জেন্ডার অমান্যতাবাদী ব্যক্তিদের জন্য বক্তৃতা, কন্ঠ এবং যোগাযোগ কোচিং সরবরাহ করে। তিনি ১-এ-১ কোচিং, অনলাইন কোর্স, ইভেন্ট, এবং 'ভয়েস উইথিন কোচিং প্রোগ্রাম' অফার করেন। তার প্রোচ্ছেদ নিউরো-লিঙ্গুইস্টিক প্রোগ্রামিং, হাইপনোথেরাপি, ইয়োগা নির্দেশ, এবং শ্বাস কোচিং অন্তর্ভুক্ত করে, যা শারীরিক তত্ত্ব নয় কেবল মানসিক, আবেগিক, এবং শক্তিশালী যোগাযোগের দিকগুলি সমাধান করার উদ্দেশ্যে লক্ষ্য করে।"
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "ন্যাশনাল সেন্টার ফর ট্রান্সজেন্ডার ইকোয়ালিটি একটি সংস্থা যার উদ্দেশ্য রাজনৈতিক এবং সামাজিক দৃষ্টিভঙ্গি পরিবর্তন করে ট্রান্সজেন্ডার মানুষদের জন্য বোধগম্যতা ও গ্রহণযোগ্যতা বাড়ানো। ন্যাশনাল সেন্টার ফর ট্রান্সজেন্ডার ইকোয়ালিটি (NCTE) ট্রান্সজেন্ডার সম্প্রদায়ের সম্মুখীন সমস্যাগুলি সম্পর্কে তথ্য সরবরাহ করে, যেমন বার্ধক্য, বিরুদ্ধে হিংসা, চাকরি, পরিবার, স্বাস্থ্য & এইচআইভি, বাসস্থান ও দরিদ্রতা, এবং আরও বেশি।"
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ফ্লোরিডা নাম পরিবর্তন হোম",
+    "description": "এই ওয়েবসাইটটি যাদের ফ্লোরিডায় নিজের নাম বা লিঙ্গ আপডেট করতে চান তাদের জন্য ধাপে ধাপে নির্দেশনা প্রদান করে। এই ধাপগুলোর মধ্যে কোর্টে একটি পেটিশন দায়ের করা, এবং সামাজিক নিরাপত্তি কার্ড, ড্রাইভার লাইসেন্স, পাসপোর্ট এবং জন্ম সনদপত্র আপডেট করা অন্তর্ভুক্ত।"
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "দ্য ট্রেভর প্রজেক্ট",
+    "description": "দ্য ট্রেভর প্রজেক্ট একটি আমেরিকান অলাভজনক সংস্থা যা এলজিবিটিকিউ+ যুবকদের কাছে আত্মঘাতী প্রতিষেধক সেবা প্রদান করে। সাইটটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য মূল্যবান সম্পদ প্রদান করে, যেমন সংকট প্রতিকার এবং আত্মঘাতী প্রতিষেধক লাইফলাইন, ট্রেভরচ্যাট, এবং ট্রেভরটেক্সট এবং মানসিক স্বাস্থ্য, সামাজিক সেবা, এবং সমর্থন গোষ্ঠীর উপর নির্দেশনা।"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "মার্শার জন্য একটি স্থান হল ট্রান্স ব্যক্তি এবং পরিবারকে বাড়িয়ে নিতে লক্ষ্য করে শুরু হওয়া অনেক প্রকল্পের একটি। সবে অনাড়ি হল এই ভিত্তি কেন্দ্রিক সংস্থাটি যা 2023 সালের মার্চ মাসে জাতি জুড়ে ত্রান্সবিরোধী আইনের বিস্তারের প্রতিক্রিয়ায় শুরু হয়েছিল। এপিএফএম এখন লাল রাজ্যের শরণার্থীদের রুমমেট হিসাবে মিলিয়ে দেওয়ার উপর মনোনিবেশ করে, একটি সময়ে একটি পরিবার কেয়ারফুলি হ্যান্ডল করে।"
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons ট্রান্সজেন্ডার এবং নন-বাইনারি ব্যক্তিদের জন্য গুণিজন স্বর নিয়ন্ত্রণ ও মুক্তি পরিষেবা প্রদান করে, যারা আরও পুরুষমূলক, মহিলা বা অ্যান্ড্রোজানাস শব্দ করতে চাই।"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "নিজেদের বিশ্বজুড়ে হিংসা এবং নিপীড়নের সম্মুখীন হওয়া এলজিবিটিকিউ+ ব্যাক্তিদের সাহায্য করা এবং তাদের জন্য অভিযোগ নিভারণের ক্ষেত্রে উপস্থাপন করা নিতান্ত গুরুত্বপূর্ণ অনলাইন প্ল্যাটফর্ম। দৃঢ় প্রতিশ্রুতিতে, এই ওয়েবসাইটটি জীবন রক্ষার সংসদ ভর্না আপাতত সাহায্য, এবং নিরাপদ পথের সাথে তীব্র বিপদের সম্মুখীন ব্যক্তিদের সংযোগ করে। দেশি সংস্থাগুলোর সাথে সম্পৃক্তি এবং সদয়বেদনশীল সমর্থকদের একটি নেটওয়ার্কের মাধ্যমে, RainbowRailroad.org অবিরতভাবে উচ্চাভিলাষী, আইনজীবী সহায়তা, এবং পুনঃস্থাপনের সহায়তা সরবরাহ করে, যা ব্যক্তিদের নিপীড়ন থেকে যাত্রী করে আশ্রয় খুঁজে পেতে সক্ষম করে। মানবাধিকার সমর্থনে, জীবন রক্ষার এবং একটি সমাবেশী বিশ্ব গঠনের মাধ্যমে, RainbowRailroad.org এলজিবিটিকিউ+ ব্যাক্তিদের নিরাপদ এবং স্বাধীনতা কামনার মাধ্যমে আশার এবং সুরক্ষার একটি মাহিক বা খাবার হিসেবে কাজ করে।"
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "দ্য ম্যাকেন্জি প্রকল্প",
+    "description": "লিঙ্গ ন্যায়তা প্রচার এবং ট্রান্সজেন্ডার সম্প্রদায়ের পরিষেবা প্রদানের লক্ষ্যে সেবা, কার্যক্রম এবং ইভেন্ট প্রদানের একটি সমগ্র সম্পদ। এটি স্বাস্থ্য সেবা, আইনগত সহায়তা, মানসিক স্বাস্থ্য সেবা এবং আরও অনেক কিছুর সমর্থন সেবার সহিত সম্পন্ন।"
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

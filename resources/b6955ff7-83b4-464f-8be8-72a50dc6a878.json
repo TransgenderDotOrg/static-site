@@ -1,0 +1,113 @@
+{
+  "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+  "slug": "transvoicelessons",
+  "externalUrl": "https://www.transvoicelessons.com/",
+  "tags": [
+    "voice-training"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons offers quality voice control and liberation services for transgender and non-binary individuals aiming to sound more masculine, feminine, or androgynous."
+    },
+    "fr-FR": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons propose des services de contrôle et de libération de la voix de qualité pour les individus transgenres et non binaires visant à sonner plus masculin, féminin ou androgyne."
+    },
+    "es-ES": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons ofrece servicios de control y liberación de voz de calidad para individuos transgénero y no binarios que buscan sonar más masculinos, femeninos o andróginos."
+    },
+    "zh-CN": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons为变性人和非二元性别个体提供优质的声音控制和解放服务，旨在使他们的声音更具男性化、女性化或雌雄同体化。"
+    },
+    "id-ID": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons menawarkan layanan kontrol suara dan pembebasan berkualitas untuk individu transgender dan non-binary yang ingin suaranya terdengar lebih maskulin, feminin, atau androgen."
+    },
+    "ja-JP": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessonsは、より男性的、女性的、または中性的な音声を目指すトランスジェンダーや非バイナリーの個人向けに、質の高い声のコントロールと解放サービスを提供します。"
+    },
+    "de-DE": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons bietet qualitativ hochwertige Sprachkontroll- und Befreiungsdienste für Transgender- und nicht-binäre Personen an, die darauf abzielen, männlicher, weiblicher oder androgyn zu klingen."
+    },
+    "tr-TR": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons, daha maskülen, feminen veya androjen olmayı hedefleyen transseksüel ve non-binary bireyler için kaliteli ses kontrolü ve özgürleştirme hizmetleri sunar."
+    },
+    "pt-PT": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons oferece serviços de controle e liberação de voz de qualidade para indivíduos transgêneros e não-binários que visam soar mais masculinos, femininos ou andróginos."
+    },
+    "sw-KE": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons inatoa huduma za ubora wa kudhibiti sauti na ukombozi kwa watu wa jinsia ya kupitisha na wasio na binary wanaolenga kusikika kuwa wa kiume zaidi, wa kike, au androgynous."
+    },
+    "ko-KR": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons는 보다 남성적이거나, 여성적이거나, 또는 중성적인 소리를 내기를 원하는 트랜스젠더 및 비이진성 개인들을 대상으로 품질 높은 목소리 제어 및 해방 서비스를 제공합니다."
+    },
+    "vi-VN": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons cung cấp các dịch vụ kiểm soát và giải phóng chất lượng cho các cá nhân chuyển giới và không nhị phân nhằm hướng tới giọng nói nam tính, nữ tính hơn hoặc trung tính."
+    },
+    "ar-SA": {
+      "title": "TransVoiceLessons",
+      "description": "توفر TransVoiceLessons خدمات السيطرة على الصوت والتحرر ذات الجودة للأفراد المتحولين جنسياً وغير الثنائيين الذين يهدفون إلى البدو بصوت أكثر رجولة أو أنوثة أو عدم تحديد الجنس."
+    },
+    "uk-UA": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons пропонує якісні послуги контролю та звільнення голосу для трансгендерних та небінарних осіб, які прагнуть звучати більш чоловічим, жіночим або андрогіним."
+    },
+    "ru-RU": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons предлагает качественные услуги по контролю голоса и освобождению для трансгендерных и небинарных лиц, старающихся звучать более мужественно, женственно или андрогинно."
+    },
+    "ur-PK": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons خود منتقل کرنے والے اور غیر دو جنسی افراد کے لئے مقبول آواز کنٹرول اور آزادی سروسز پیش کرتا ہے جو مزید مردانہ، خواتین، یا غیر جنسی طور پر آواز دینے کا مقصد رکھتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons ट्रांसजेंडर और गैर-बाइनरी व्यक्तियों के लिए, जो अधिक पुरुष, महिला, या उभयलिंगी आवाज़ निकालने की कोशिश कर रहे हैं, गुणवत्ता स्वर नियंत्रण और मुक्ति सेवाएं प्रदान करता है।"
+    },
+    "mr-IN": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons हे ट्रान्सजेंडर व नॉन-बायनरी व्यक्तींसाठी उच्च गुणवत्तेच्या स्वर नियंत्रण व मुक्ती सेवा पुरवते ज्यांना पुरुषांसमान, स्त्रीसमान किंवा उभयलिंगी असायला इच्छित आहे."
+    },
+    "bn-BD": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons ট্রান্সজেন্ডার এবং নন-বাইনারি ব্যক্তিদের জন্য গুণিজন স্বর নিয়ন্ত্রণ ও মুক্তি পরিষেবা প্রদান করে, যারা আরও পুরুষমূলক, মহিলা বা অ্যান্ড্রোজানাস শব্দ করতে চাই।"
+    },
+    "ta-IN": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons முன்னும் பெண்ணாக, ஆணாக அல்லது ஆண்பெண் ஆக குரல் கட்டுப்பாட்டை மேம்படுத்த விரும்பும் மாற்று-பால் மற்றும் இணையரீதியான நபர்களுக்கு தரத்து கட்டுப்பாட்டை மற்றும் விடுதலை சேவைகளை வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "TransVoiceLessons",
+      "description": "TransVoiceLessons ట్రాన్స్జెండర్ మరియు నాన్-బైనరీ వ్యక్తులకు మరింత పురుషవంతమైన, స్త్రీవంతమైన, లేదా ఆండ్రోజనె౗స్ అని అనిపించడానికి గురించిన గుణవంతమైన స్వర నియంత్రణ మరియు విమోచన సేవలను అందిస్తుంది."
+    }
+  }
+}

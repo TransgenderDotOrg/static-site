@@ -105,6 +105,61 @@
     "description": "성별 불안증에 대한 이해, 지지, 지식을 찾는 사람들을 위한 신뢰할 수 있는 온라인 자원입니다. 그들의 웹사이트는 개인이 자신의 여정을 강화할 수 있도록 정보, 자원, 그리고 커뮤니티 연결을 풍부하게 제공합니다. 성별 신원과 전환에 대한 포괄적인 가이드부터 개인 이야기와 전문가 조언에 이르기까지, 그들은 모든 사람을 위한 안전하고 포괄적인 공간을 만들기 위해 노력합니다."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Movement Advancement Project",
+    "description": "Movement Advancement Project (MAP)는 모든 사람이 건강과 행복을 추구하고, 생계를 이어가고, 사랑하는 이들을 돌보며, 지역 사회에서 안전하게 생활하고, 시민 생활에 참여할 수 있는 공정한 기회를 갖도록 하는 데 일조하기 위한 철저한 연구, 통찰력, 그리고 소통을 제공하는 독립적인 비영리 연구소입니다."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Jordan Ross 커뮤니케이션 서비스",
+    "description": "Jordan Ross는 트랜스, 퀴어, 성별 비준수 개인들을 대상으로 언어, 목소리, 커뮤니케이션 코칭을 제공합니다. 그는 1대1 코칭, 온라인 코스, 이벤트, 그리고 'Voice Within Coaching Program'을 제공합니다. 그의 접근 방식에는 신경 언어 프로그래밍, 최면 요법, 요가 지도, 호흡 코칭이 포함되어 있으며, 이는 커뮤니케이션의 물리적 측면뿐만 아니라 정신적, 감정적, 에너제틱한 측면을 다루고자 합니다."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "트랜스젠더 평등을 위한 국립 센터는 트랜스젠더 사람들에 대한 이해와 수용을 높이기 위해 정책과 사회적 태도 변화를 촉구하는 조직입니다. NCTE는 노화, 반폭력, 고용, 가족, 건강 및 HIV, 주거 및 노숙 등 트랜스젠더 커뮤니티에 영향을 미치는 문제에 대한 정보를 제공합니다."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "플로리다 이름 변경 홈",
+    "description": "이 웹사이트는 이름이나 성별을 플로리다에서 업데이트하려는 사람들을 위한 단계별 지침을 제공합니다. 이 단계에는 법원에 청원서를 제출하고, 사회보장 카드, 운전 면허증, 여권, 그리고 탄생 증명서를 업데이트하는 것이 포함됩니다."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "The Trevor Project",
+    "description": "The Trevor Project는 LGBTQ+ 청소년을 대상으로 자살 예방 서비스를 제공하는 미국 비영리 단체입니다. 이 사이트는 위기 대응 및 자살 예방 핫라인, TrevorChat, TrevorText 및 정신 건강, 사회 서비스, 지원 그룹에 대한 지침을 포함하여 트랜스젠더 커뮤니티에 가치있는 자료를 제공합니다."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "A Place for Marsha는 점점 위험해지는 주에서 트랜스 개인과 가족들을 보다 안전한 장소로 돕는 많은 스타트업 프로젝트 중 하나입니다. APFM은 전국적으로 트랜스에 대한 반대 입법이 증가하는 반응으로 2023년 3월에 그 여정을 시작했습니다. APFM은 이제 빨간 주에서의 난민을 룸메이트로 매칭하는 데 집중하며, 한 가구를 신중하게 처리합니다."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons는 보다 남성적이거나, 여성적이거나, 또는 중성적인 소리를 내기를 원하는 트랜스젠더 및 비이진성 개인들을 대상으로 품질 높은 목소리 제어 및 해방 서비스를 제공합니다."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "전 세계적으로 박해와 폭력에 직면한 LGBTQ+ 개인을 돕고 옹호하기 위해 헌신적인 온라인 플랫폼입니다. 흔들림 없는 헌신으로, 이 웹사이트는 즉각적인 위험에 처한 사람들을 생명을 구하는 자원, 긴급 지원, 그리고 안전한 피난처로 연결합니다. 현지 조직과 동정적 지지자 네트워크와의 파트너십을 통해 RainbowRailroad.org는 피난을 치르고 안식처를 찾는 개인에게 옹호, 법적 지원, 그리고 이주 지원을 지속해서 제공합니다. 인권을 옹호하고, 생명을 구하고, 보다 포괄적인 세상을 위해 노력함으로써 RainbowRailroad.org는 안전을 찾고 자유를 추구하는 LGBTQ+ 개인에게 희망과 보호의 등대 역할을 합니다."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "맥켄지 프로젝트",
+    "description": "성별 공정을 촉진하고 트랜스젠더 커뮤니티에 서비스를 제공하는 것을 목표로 한 서비스, 프로그램, 이벤트를 제공하는 종합 자원입니다. 건강관리, 법률 지원, 정신 건강 서비스 등을 포함한 지원 서비스와 자원이 포함되어 있습니다."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

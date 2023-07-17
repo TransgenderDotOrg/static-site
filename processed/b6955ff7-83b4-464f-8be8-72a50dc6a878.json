@@ -1,0 +1,27 @@
+{
+  "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+  "title": "TransVoiceLessons",
+  "description": "TransVoiceLessons offers quality voice control and liberation services for transgender and non-binary individuals aiming to sound more masculine, feminine, or androgynous.",
+  "slug": "transvoicelessons",
+  "externalUrl": "https://www.transvoicelessons.com/",
+  "tags": ["voice-training"],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": null,
+    "twitterUrl": null,
+    "instagramUrl": null,
+    "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+  }
+}

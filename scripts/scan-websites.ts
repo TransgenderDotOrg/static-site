@@ -20,13 +20,18 @@ The above content was extracted from {url}. Convert the content into a JSON obje
 \`\`\`
 {{
     id: string [required]
-    title: string [required]
-    description: string [required]
+    title: string [required] (A short title for the resource)
+    description: string [required] (A short description about what the resource is about and how it serves the transgender community)
     slug: string [required] [unique]
     externalUrl: Url
     tags: Tags{{ transmasculine, non-binary, transfeminine, legal, healthcare, mental-health, social-services, youth-services, support-groups, parent-family-resources, partner-resources, community-stories, education-awareness, financial-aid-scholarships, clothing, artists-creators, friendly-businesses, makeup, voice-training, discord-groups }}[]
     address: Address [optional, Google Maps friendly]
     phoneNumber: PhoneNumber [optional]
+    country: Country [optional] (two letter country code)
+    provinceOrState: ProvinceOrState [optional] (two letter province or state code)
+    city: City [optional]
+    county: County [optional]
+    latLng: LatLng [optional] 
     email: Email [optional]
     socialMedia: {{ yelp: Url, google: Url, ... }} [optional]
 }}

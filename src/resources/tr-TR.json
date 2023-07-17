@@ -105,6 +105,61 @@
     "description": "Cinsiyet disforisi hakkında bilgi, desteğe ve anlamaya ihtiyaç duyan kişiler için güvenilir bir online kaynak. Web siteleri, bireylerin yolculuklarına güç vermek için çok sayıda bilgi, kaynak ve topluluk bağlantısı sağlar. Cinsiyet kimliği ve geçişe dair kapsamlı rehberlerden kişisel hikayelere ve uzman tavsiyelerine kadar, tüm kişiler için güvenli ve kapsayıcı bir alan yaratmayı hedefliyorlar."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Movement Advancement Project",
+    "description": "Movement Advancement Project (MAP), tüm insanlara eşitlik ve fırsatları hızlandırmaya yardımcı olan titiz araştırma, içgörü ve iletişimler sağlayan bağımsız, kâr amacı gütmeyen bir düşünce kuruluşudur. MAP, tüm insanların sağlık ve mutluluk peşinden gitme, geçimini sağlama, sevdiklerine bakma, topluluklarında güvende olma ve sivil hayata katılma hakkına sahip olmalarını sağlamak için çalışır."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Jordan Ross İletişim Hizmetleri",
+    "description": "Jordan Ross, trans, queer ve cinsiyet uyumsuz bireyler için konuşma, ses ve iletişim koçluğu sağlar. 1'e 1 koçluk, online kurslar, etkinlikler ve 'Voice Within Coaching Program'ı sunar. Yaklaşımı, sadece fiziksel değil aynı zamanda zihinsel, duygusal ve enerjik iletişim yönlerini ele almayı hedefleyen nöro-linguistik programlama, hipnoterapi, yoga eğitimi ve nefes koçluğunu içerir."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "Uluslararası Transgender Eşitliği Merkezi, transgender insanların anlaşılması ve kabul görmesi için politikaların ve toplumsal tutumların değiştirilmesini savunan bir organizasyondur. NCTE, yaşlanma, şiddete karşı olanlar, iş imkanları, aileler, sağlık & HIV, konut & evsizlik ve daha fazlası da dahil olmak üzere Transgender topluluğunu etkileyen konular hakkında bilgi sağlar."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Florida Ad Değişikliği Ana Sayfası",
+    "description": "Bu web sitesi, Florida'da adlarını veya cinsiyetlerini güncellemek isteyenler için adım adım rehber sunmaktadır. Adımlar, mahkemede dilekçe verme ve Sosyal Güvenlik kartı, sürücü belgesi, pasaport ve doğum belgesini güncelleme işlemlerini içerir."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "The Trevor Project",
+    "description": "The Trevor Project, LGBTQ+ gençlere intihar önleme hizmetleri sağlayan Amerikan kar amacı gütmeyen bir organizasyondur. Site, transgender topluluğu için değerli kaynaklar sağlar, bunlar arasında kriz müdahalesi ve intihar önleme yardım hattı, TrevorChat ve TrevorText bulunur ve ayrıca ruh sağlığı, sosyal hizmetler ve destek grupları hakkında rehberlik sunar."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "Marsha İçin Bir Yer, artan ölçüde tehlikeli eyaletlerdeki Trans bireylerin ve ailelerin daha güvenli bir yere geçiş yapmasına yardımcı olmayı hedefleyen birçok start-up projesinden biridir. APFM yolculuğuna, ülke genelinde anti-trans yasalarının artışına tepki olarak 2023 Mart'ında başladı. APFM şimdi, mültecileri kırmızı eyaletlerden oda arkadaşı olarak eşleştirmeye, her bir hanehalkını dikkatlice ele almaya odaklanıyor."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons, daha maskülen, feminen veya androjen olmayı hedefleyen transseksüel ve non-binary bireyler için kaliteli ses kontrolü ve özgürleştirme hizmetleri sunar."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Dünya çapında zulüm ve şiddetle karşı karşıya kalan LGBTQ+ bireyler için destek olmayı ve yardım etmeyi hedefleyen önemli bir online platform. Sarsılmaz bir taahhütle, web sitesi acil durumda olanları hayat kurtaran kaynaklara, acil yardıma ve güvenli kaçış yollarına bağlar. Yerel organizasyonlarla ve şefkatli destekçilerin bir ağıyla ortaklık yaparak, RainbowRailroad.org, savunuculuk, hukuki yardım ve yer değiştirme desteği sağlamak için durmaksızın çalışır, böylece bireylerin zulümden kaçıp sığınağa ulaşmasına olanak sağlar. İnsan haklarını savunarak, hayatları kurtararak ve daha kapsayıcı bir dünya yaratmayı teşvik ederek, RainbowRailroad.org, güvenlik ve özgürlük arayan LGBTQ+ bireyler için bir umut ve koruma ışığı olmaktadır."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "McKenzie Projesi",
+    "description": "Toplumsal cinsiyet adaletini teşvik etmeyi ve trans cinsiyetli topluluğa hizmet etmeyi amaçlayan hizmetler, programlar ve etkinlikler sunan kapsamlı bir kaynak. Sağlık hizmetleri, hukuki yardım, ruh sağlığı hizmetleri ve daha fazlasını içeren destek hizmetleri ve kaynakları içerir."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

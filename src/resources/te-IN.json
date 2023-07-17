@@ -105,6 +105,61 @@
     "description": "జెండర్ డిస్ఫోరియా గురించి జ్ఞానం, మద్దతు, మరియు అర్ధం శోధిస్తున్న వ్యక్తులకు విశ్వసనీయ ఆన్‌లైన్ జాబితా. వారి వెబ్‌సైట్ సమాచారం, వనరులు మరియు సముదాయ అనుబంధాలను అందించి, వ్యక్తులను వారి ప్రయాణంలో సమర్థించేందుకు రాణిస్తుంది. జెండర్ గుర్తింపు మరియు మార్పును గురించి సమగ్ర మార్గదర్శకాల నుంచి వ్యక్తిగత కథలు మరియు నిపుణుల సలహాల వరకు, వారు అన్నివారికీ సురక్షితమైన మరియు సమగ్రత స్థానం సృష్టించడానికి సాధిస్తుంది."
   },
   {
+    "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+    "slug": "movement-advancement-project",
+    "externalUrl": "https://www.lgbtmap.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+    "email": null,
+    "phoneNumber": "(303) 578-4600",
+    "country": "US",
+    "provinceOrState": "CO",
+    "city": "Boulder",
+    "county": "Boulder County",
+    "latLng": [
+      40.0178641,
+      -105.2763041
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/lgbtmap/",
+      "twitterUrl": "https://twitter.com/lgbtmap",
+      "instagramUrl": "https://www.instagram.com/lgbtmap/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "చలన ముందుగాచే ప్రాజెక్టు",
+    "description": "చలన ముందుగాచే ప్రాజెక్టు (MAP) ఒక స్వతంత్ర, గైరి లాభపర ఆలోచనా సంస్థ అని. ఇది ఖచ్చితమైన పరిశోధన, ఆలోచనలు, మరియు ప్రచారసరణిలను అందిస్తుంది ఏమితితో సమస్తులకు సరేసారి మరియు అవకాశాలను వేగవంతగా తీసుకోవడానికి సహాయముచేస్తుంది. MAP అందరికీ ఆరోగ్యవంతమైన మరియు సంతృప్తిని అనుసరించే అవకాశం, బతుకుందాం, వారి ప్రేమ మితులాను కాపాడుకోవడానికి, వారి ఆదివారిలో సురక్షితంగా ఉండటం, మరియు నగరసభలో పాల్గొనడానికి ఒక సమానమైన అవకాశం ఉన్నత ఉండాలని ప్రయత్నిస్తుంది."
+  },
+  {
+    "id": "43609b17-7528-4c60-94b4-e90866144715",
+    "slug": "jordan-ross-communication-services",
+    "externalUrl": "https://www.jordanrosscommunication.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/jordanrosscommunication/",
+      "youtubeUrl": "https://www.youtube.com/channel/UC4o7h219hPYdBcPaFpgh9Yw",
+      "tiktokUrl": "https://www.tiktok.com/@jordanrosscommunication",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "జోర్డాన్ రోస్ కమ్యునికేషన్ సర్వీసెస్",
+    "description": "జోర్డాన్ రోస్ ట్రాన్స్, క్వీర్ మరియు జెండర్ నాన్-కన్ఫార్మింగ్ వ్యక్తుల కోసం ప్రసంగ, స్వరం మరియు కమ్యునికేషన్ కోచింగ్‌ను అందిస్తున్నారు. అతను 1-మీద-1 కోచింగ్, ఆన్‌లైన్ కోర్సులు, ఈవెంట్స్, మరియు 'వాయిస్ వితిన్ కోచింగ్ ప్రోగ్రామ్'‌ను అందిస్తున్నారు. అతని దాదాపు న్యూరో-లింగ్విస్టిక్ ప్రోగ్రామింగ్, హైప్నోథెరపీ, యోగా గురుత్వం, మరియు శ్వాస కోచింగ్ ఆకలికతలతో, శారీరికమైనవి కాకుండా మానసిక, భావోద్వేగ, మరియు ఊర్జా కమ్యునికేషన్ యొక్క అంశాలను ఘట్టించడానికి ప్రయత్నిస్తుంది."
+  },
+  {
     "id": "47b17f76-670a-4835-8773-409d98934b91",
     "slug": "sylvia-rivera-law-project",
     "externalUrl": "https://srlp.org/",
@@ -334,6 +389,61 @@
     "description": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం అనేది ట్రాన్స్ జెండర్ వ్యక్తులకు అర్ధంచేసుకునే మరియు అంగీకరించే విధంగా సమాజ దృష్టాంతాలను మరియు విధానాలను మార్చడానికి ప్రచారణ చేయు సంస్థ . NCTE ముప్పు (ఏజింగ్), వైలెంస్ వ్యతిరేకత, ఉద్యోగం, కుటుంబాలు, కుల (హెల్త్ & హివ్), ఇంటి కౌటుంబికత (హౌసింగ్ & బెత్తలకు లేనివారు), మరియు మరియు మరిన్ని ప్రశ్నల గురించి సమాచారం అందిస్తుంది."
   },
   {
+    "id": "8ab7bb47-206d-4872-a3ca-e692ce2036ec",
+    "slug": "florida-name-change-home",
+    "externalUrl": "https://www.floridanamechange.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ఫ్లోరిడా పేరు మార్పు హోమ్",
+    "description": "ఈ వెబ్‌సైట్ ఫ్లోరిడాలో వారి పేరు లేదా లింగాన్ని నవీకరించడానికి క్రమవర మార్గదర్శనను అందిస్తుంది. ఈ పద్ధతులు కోర్టులో ఫిర్యాదు నమోదు చేసేందుకు, సామాజిక భద్రతా కార్డు, డ్రైవర్ లైసెన్స్, పాస్పోర్ట్, మరియు జనన ప్రమాణ పత్రం అప్‌డేట్ చేసేందుకు ఉంటాయి."
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ది ట్రేవర్ ప్రాజెక్ట్",
+    "description": "ది ట్రేవర్ ప్రాజెక్ట్ అనేది అమెరికన్ నాన్-ప్రాఫిట్ సంస్థ అంటే, LGBTQ+ యువతికి ఆత్మహత్య నివారణ సేవల అందిస్తుంది. ఆ సైట్ ట్రాన్స్‌జెండర్ సముదాయంలో ప్రయోజనకరమైన వనరులను అందిస్తుంది, దీనిలో ఆపద్వాన ప్రతిస్పందన మరియు ఆత్మహత్య నివారణ లైఫ్ లైన్, ట్రేవర్ చాట్, మరియు ట్రేవర్ టెక్స్ట్ లను కలిగిఉంటుంది, మరియు మానసిక ఆరోగ్య మీద మార్గదర్శనం, సామాజిక సేవలు, మరియు మద్దతు గుంపుల పై కూడా."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
@@ -357,6 +467,35 @@
     "description": "మార్షా కొరకు ఒక ప్రదేశం, ప్రారంభ ప్రాజెక్టులలో ఒకటిగా పెరుగుతున్న ప్రమాదకరమైన నిలవగానున్న రాష్ట్రాల్లో ట్రాన్స్ వ్యక్తులు మరియు కుటుంబాలకు సహాయపడేందుకు లక్ష్యించింది. APFM 2023 మార్చ్ లో జాతీయస్థాయిలో ట్రాన్స్ బిల్లుల ప్రమాణాలు పెరుగుదలతో ప్రారంభించింది. APFM ఇప్పుడు ఎర్రి రాష్ట్రాల నుండి శరణార్థులను గృహసహచరులుగా మ్యాచింగ్ చేయడానికి కేంద్రీకరించింది, ఒక గృహసంస్థను జాగ్రత్తగా పరిచరించింది."
   },
   {
+    "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
+    "slug": "transvoicelessons",
+    "externalUrl": "https://www.transvoicelessons.com/",
+    "tags": [
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": "https://www.youtube.com/c/transvoicelessons",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
+    },
+    "title": "TransVoiceLessons",
+    "description": "TransVoiceLessons ట్రాన్స్జెండర్ మరియు నాన్-బైనరీ వ్యక్తులకు మరింత పురుషవంతమైన, స్త్రీవంతమైన, లేదా ఆండ్రోజనె౗స్ అని అనిపించడానికి గురించిన గుణవంతమైన స్వర నియంత్రణ మరియు విమోచన సేవలను అందిస్తుంది."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -369,6 +508,47 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "జాతీయాతీత, లైంగిక గుర్తింపు కలిగి ఉన్న వ్యక్తులు ప్రపంచ వ్యాప్తంగా హింస మరియు హింసకేంద్రిత సంస్థల నుండి రక్షణ మరియు మోసం చెందాలనే ఉద్దేశంగా కలిగి ఉన్న ప్రధాన ఆన్‌లైన్ వేదిక. దృఢ ఉపకట్టేతో, ఈ వెబ్‌సైట్ ఆపద్వైపు పరిస్థితులు జరిగే వారిని స్వచ్ఛమైన శోధనాధారాలకు, అట్టంటి సహాయంగా మరియు సురక్షిత మార్గాలకు కనెక్ట్ చేస్తుంది. స్థానిక సంస్థలు మరియు కరుణాపూర్ణ మద్దతుదారుల నెట్వర్క్‌తో భాగస్వామ్యం, RainbowRailroad.org నిరంతరం ఆందోళన, చట్టప్రమాణ సహాయం, మరియు తరలింపు మద్దతును అందిస్తుంది, అదేవిధంగా వ్యక్తులు హింసను నీకొసంచి, ఆశ్రయాలను కనుగొనడానికి సాయం చేస్తుంది. మనవ హక్కులను రక్షిస్తూ, ప్రాణాలను కాపాడుతూ, మరియు మరిన్ని సమావేశకారీ ప్రపంచాన్ని ఉన్ముఖించే ద్వారా, RainbowRailroad.org సురక్షితత మరియు స్వేచ్ఛను శోధిస్తున్న లైంగిక గుర్తింపు కలిగి ఉన్న వ్యక్తులకు ఆశాదీపం మరియు రక్షణని అందిస్తుంది."
+  },
+  {
+    "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
+    "slug": "the-mckenzie-project",
+    "externalUrl": "https://www.themckenzieproject.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
+    "email": "Info@TheMcKenzieProject.org",
+    "phoneNumber": "305-846-3186",
+    "country": "US",
+    "provinceOrState": "FL",
+    "city": "Miami",
+    "county": "Miami-Dade County",
+    "latLng": [
+      25.769445,
+      -80.3321284
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": null,
+      "twitterUrl": null,
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ది మెక్కెన్జీ ప్రాజెక్ట్",
+    "description": "లింగ న్యాయానికి ప్రోత్సాహించే మరియు ట్రాన్స్జెండర్ సముదాయాన్ని సేవించే సేవలు, కార్యక్రమాలు మరియు ఈవెంట్లను అందిస్తున్న విస్తృత వనరు. సహాయక సేవలు మరియు వనరులను కలిగి ఉంటాయి, అవి ఆరోగ్య సేవలు, చట్టప్రమాణ సహాయం, మానసిక ఆరోగ్య సేవలు మరింత ఉండగలవు."
   },
   {
     "id": "d7378cc4-7726-4de1-8427-8203cb9b61ad",

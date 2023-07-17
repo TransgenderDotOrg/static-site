@@ -1,0 +1,118 @@
+{
+  "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
+  "slug": "movement-advancement-project",
+  "externalUrl": "https://www.lgbtmap.org/",
+  "tags": [
+    "legal",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "1905 15th St #1097, Boulder, CO 80302, USA",
+  "email": null,
+  "phoneNumber": "(303) 578-4600",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Boulder",
+  "county": "Boulder County",
+  "latLng": [
+    40.0178641,
+    -105.2763041
+  ],
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/lgbtmap/",
+    "twitterUrl": "https://twitter.com/lgbtmap",
+    "instagramUrl": "https://www.instagram.com/lgbtmap/",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Movement Advancement Project",
+      "description": "The Movement Advancement Project (MAP) is an independent, nonprofit think tank that provides rigorous research, insight, and communications that help speed equality and opportunity for all. MAP works to ensure that all people have a fair chance to pursue health and happiness, earn a living, take care of the ones they love, be safe in their communities, and participate in civic life."
+    },
+    "id-ID": {
+      "title": "Proyek Kemajuan Gerakan",
+      "description": "Proyek Kemajuan Gerakan (MAP) adalah think tank independen, nirlaba yang menyediakan penelitian yang ketat, wawasan, dan komunikasi yang membantu mempercepat kesetaraan dan kesempatan untuk semua orang. MAP berusaha untuk memastikan bahwa semua orang memiliki kesempatan yang adil untuk mengejar kesehatan dan kebahagiaan, mencari nafkah, merawat orang yang mereka cintai, aman di komunitas mereka, dan berpartisipasi dalam kehidupan sipil."
+    },
+    "pt-PT": {
+      "title": "Projeto Avanço do Movimento",
+      "description": "O Projeto Avanço do Movimento (MAP) é um think tank independente, sem fins lucrativos, que fornece pesquisa rigorosa, insight e comunicações que ajudam a acelerar a igualdade e oportunidade para todos. O MAP trabalha para garantir que todas as pessoas tenham uma chance justa de buscar saúde e felicidade, ganhar a vida, cuidar de quem amam, estarem seguras em suas comunidades e participarem da vida cívica."
+    },
+    "es-ES": {
+      "title": "Proyecto de Avance del Movimiento",
+      "description": "El Proyecto de Avance del Movimiento (MAP, por sus siglas en inglés) es un laboratorio de ideas independiente y sin fines de lucro que proporciona investigación rigurosa, insight y comunicaciones que ayudan a acelerar la igualdad y las oportunidades para todos. MAP trabaja para garantizar que todas las personas tengan una oportunidad justa de buscar salud y felicidad, ganarse la vida, cuidar a los que aman, estar seguros en sus comunidades y participar en la vida cívica."
+    },
+    "ko-KR": {
+      "title": "Movement Advancement Project",
+      "description": "Movement Advancement Project (MAP)는 모든 사람이 건강과 행복을 추구하고, 생계를 이어가고, 사랑하는 이들을 돌보며, 지역 사회에서 안전하게 생활하고, 시민 생활에 참여할 수 있는 공정한 기회를 갖도록 하는 데 일조하기 위한 철저한 연구, 통찰력, 그리고 소통을 제공하는 독립적인 비영리 연구소입니다."
+    },
+    "tr-TR": {
+      "title": "Movement Advancement Project",
+      "description": "Movement Advancement Project (MAP), tüm insanlara eşitlik ve fırsatları hızlandırmaya yardımcı olan titiz araştırma, içgörü ve iletişimler sağlayan bağımsız, kâr amacı gütmeyen bir düşünce kuruluşudur. MAP, tüm insanların sağlık ve mutluluk peşinden gitme, geçimini sağlama, sevdiklerine bakma, topluluklarında güvende olma ve sivil hayata katılma hakkına sahip olmalarını sağlamak için çalışır."
+    },
+    "sw-KE": {
+      "title": "Mradi wa Kusonga Mbele",
+      "description": "Mradi wa Kusonga Mbele (MAP) ni tanki la kufikiria linalojitegemea, lisilo na faida ambalo hutoa utafiti mkali, ufahamu, na mawasiliano ambayo husaidia kuharakisha usawa na fursa kwa wote. MAP inafanya kazi kuhakikisha kuwa watu wote wanapata nafasi ya haki ya kufuata afya na furaha, kupata kipato, kujali wale wanaowapenda, kuwa salama katika jamii zao, na kushiriki katika maisha ya kiraia."
+    },
+    "zh-CN": {
+      "title": "运动推进项目",
+      "description": "运动推进项目（MAP）是一家独立的，非营利性的智库，提供严谨的研究，深度的洞察和有效的沟通，以帮助加速实现所有人的平等和机会。MAP的工作是确保所有人都有公平的机会去追求健康和快乐，谋生，照顾他们所爱的人，确保他们在社区的安全，以及参与公民生活。"
+    },
+    "ar-SA": {
+      "title": "مشروع التقدم في الحركة",
+      "description": "مشروع التقدم في الحركة (MAP) هو مركز أبحاث مستقل وغير ربحي يقدم البحث الدقيق والرؤى والاتصالات التي تساعد في تسريع المساواة والفرص للجميع. يعمل MAP على ضمان أن لجميع الأشخاص فرصة عادلة في متابعة الصحة والسعادة، كسب المعيشة، العناية بمن يحبون، والشعور بالأمان في مجتمعاتهم، والمشاركة في الحياة المدنية."
+    },
+    "de-DE": {
+      "title": "Movement Advancement Project",
+      "description": "Das Movement Advancement Project (MAP) ist ein unabhängiger, gemeinnütziger Think Tank, der rigorose Forschung, Erkenntnisse und Kommunikationen liefert, die Gleichberechtigung und Chancen für alle beschleunigen. MAP arbeitet daran sicherzustellen, dass alle Menschen eine faire Chance haben, Gesundheit und Glück zu verfolgen, ein Einkommen zu verdienen, sich um die Menschen zu kümmern, die sie lieben, in ihren Gemeinschaften sicher zu sein und am bürgerlichen Leben teilzunehmen."
+    },
+    "fr-FR": {
+      "title": "Projet d'Avancement du Mouvement",
+      "description": "Le Projet d'Avancement du Mouvement (MAP) est un think tank indépendant et à but non lucratif qui fournit une recherche rigoureuse, un aperçu et des communications qui aident à accélérer l'égalité et les opportunités pour tous. MAP travaille pour s'assurer que toutes les personnes ont une chance équitable de poursuivre la santé et le bonheur, de gagner leur vie, de prendre soin de ceux qu'ils aiment, d'être en sécurité dans leurs communautés et de participer à la vie civique."
+    },
+    "vi-VN": {
+      "title": "Dự án Tiến bộ Di động",
+      "description": "Dự án Tiến bộ Di động (MAP) là một tổ chức tư duy phi lợi nhuận độc lập, cung cấp nghiên cứu chặt chẽ, cái nhìn sâu sắc, và truyền thông giúp thúc đẩy bình đẳng và cơ hội cho tất cả. MAP làm việc để đảm bảo rằng tất cả mọi người đều có cơ hội công bằng để theo đuổi sức khỏe và hạnh phúc, kiếm sống, chăm sóc những người họ yêu thương, an toàn trong cộng đồng của họ, và tham gia vào cuộc sống công dân."
+    },
+    "ja-JP": {
+      "title": "ムーブメントアドバンスメントプロジェクト",
+      "description": "ムーブメントアドバンスメントプロジェクト（MAP）は、独立した非営利のシンクタンクであり、すべての人に平等と機会を迅速に提供するための厳密な研究、洞察、コミュニケーションを提供します。MAPは、すべての人が健康と幸福を追求し、生計を立て、愛する人を世話し、地域社会で安全を確保し、市民生活に参加するための公平なチャンスを持つことを確保するために活動しています。"
+    },
+    "ur-PK": {
+      "title": "حرکت پیشروی پروژے",
+      "description": "حرکت پیشروی پروژے (MAP) ایک آزاد, غیر مفید سوچنے کا خانہ ہے جو مزیدر سخت تحقیق, بصیرت, اور مواصلات فراہم کرتا ہے جو برابری اور مواقعت کی رفتار میں مدد کرتے ہیں۔ MAP کا کام یہ یقینی بنانا ہے کہ تمام لوگوں کے پاس صحت اور خوشی کی تلاش ، روزی کمائی، اپنے پیاروں کی دیکھ بھال ، اپنے معاشروں میں محفوظ رہنے اور شہری زندگی میں شرکت کرنے کا منصفانہ موقع ملے۔"
+    },
+    "uk-UA": {
+      "title": "Проект Просування Руху",
+      "description": "Проект Просування Руху (MAP) - це незалежний, некомерційний думковий центр, який надає ретельne дослідження, внутрішнє сприйняття та комунікації, які допомагають прискорити рівність і можливості для всіх. MAP працює, щоб гарантувати, що всі люди мають рівні можливості досягнути здоров'я та щастя, заробляти на життя, дбати про тих, кого вони люблять, бути в безпеці в своїх громадах та брати участь у громадському житті."
+    },
+    "ru-RU": {
+      "title": "Проект Продвижения Движения",
+      "description": "Проект Продвижения Движения (MAP) - это независимый, некоммерческий аналитический центр, который предоставляет тщательные исследования, инсайты и коммуникации, которые помогают ускорить равенство и возможности для всех. MAP работает, чтобы гарантировать, что все люди имеют справедливый шанс заниматься здоровьем и счастьем, зарабатывать на жизнь, заботиться о любимых, быть в безопасности в своих сообществах и участвовать в гражданской жизни."
+    },
+    "hi-IN": {
+      "title": "मूवमेंट एडवांसमेंट प्रोजेक्ट",
+      "description": "मूवमेंट एडवांसमेंट प्रोजेक्ट (MAP) एक स्वतंत्र, गैरलाभकारी थिंक टैंक है जो कठोर अनुसंधान, अंतर्दृष्टि, और संचार प्रदान करता है जो सभी के लिए समानता और अवसर को बढ़ाने में मदद करता है। MAP का काम यह सुनिश्चित करना होता है कि सभी लोगों को स्वास्थ्य और खुशी का पीछा करने, आय कमाने, अपने प्यारे लोगों की देखभाल करने, अपने समुदायों में सुरक्षित रहने, और नागरिक जीवन में भाग लेने का न्यायपूर्ण मौका मिले।"
+    },
+    "bn-BD": {
+      "title": "মুভমেন্ট অ্যাডভান্সমেন্ট প্রকল্প",
+      "description": "মুভমেন্ট অ্যাডভান্সমেন্ট প্রকল্প (এমএপি) একটি স্বাধীন, অলাভজনক চিন্তা কেন্দ্র যা প্রামাণিক গবেষণা, সূচনা এবং যোগাযোগ প্রদান করে যা সমস্তের জন্য সমান ও সমৃদ্ধির ক্ষেত্রে দ্রুত সমন্বয় সাধারণ করে তোলে। এমএপি নিশ্চিত করে যে সমস্ত লোকের স্বাস্থ্য এবং সুখ বাড়ানো, আয় অর্জন করা, নিজের পছন্দের ব্যক্তিদের যত্ন নেওয়া, নিজের সম্প্রদায়ে নিরাপদে থাকা এবং নাগরিক জীবনে অংশ নেওয়ার মতো ক্ষেত্রে সমান সুযোগের রয়েছে।"
+    },
+    "mr-IN": {
+      "title": "संचालन प्रगती प्रकल्प",
+      "description": "संचालन प्रगती प्रकल्प (MAP) हे एक स्वतंत्र, गैरनफायदेशीर विचारगृह आहे जित्र कडून गंभीर संशोधन, अंतर्दृष्टी, आणि संवाद सर्वांसाठी समानता आणि संधी वेगवेगळ्या गतीने उपलब्ध होणार्या मदतीसाठी प्रदान केलेल्या जाऊन दिलेल्या आहेत. MAP यांनी काही कार्य केलेले आहे तरी की सर्व लोकांना आरोग्य आणि सुख, जीवनोपयोगी व्यवसाय करण्याचा, त्यांच्या प्रेयसींची काळजी घेण्याचा, त्यांच्या समुदायात सुरक्षित राहण्याचा, आणि नागरिक जीवनात सहभागी व्हाण्याचा न्यायसंगत अवसर आहे, याची खात्री केली आहे."
+    },
+    "te-IN": {
+      "title": "చలన ముందుగాచే ప్రాజెక్టు",
+      "description": "చలన ముందుగాచే ప్రాజెక్టు (MAP) ఒక స్వతంత్ర, గైరి లాభపర ఆలోచనా సంస్థ అని. ఇది ఖచ్చితమైన పరిశోధన, ఆలోచనలు, మరియు ప్రచారసరణిలను అందిస్తుంది ఏమితితో సమస్తులకు సరేసారి మరియు అవకాశాలను వేగవంతగా తీసుకోవడానికి సహాయముచేస్తుంది. MAP అందరికీ ఆరోగ్యవంతమైన మరియు సంతృప్తిని అనుసరించే అవకాశం, బతుకుందాం, వారి ప్రేమ మితులాను కాపాడుకోవడానికి, వారి ఆదివారిలో సురక్షితంగా ఉండటం, మరియు నగరసభలో పాల్గొనడానికి ఒక సమానమైన అవకాశం ఉన్నత ఉండాలని ప్రయత్నిస్తుంది."
+    },
+    "ta-IN": {
+      "title": "Movement Advancement Project",
+      "description": "மூவ்மெண்ட் அத்வான்மென்ட் ப்ரொஜெக்ட் (MAP) ஒரு சுய மையமான, முக்கியமற்ற ஆலோசனை மேலாண்மை நிறுவனமாகும். அது கடுமையான ஆராய்ச்சி, உண்மை, தொலைத்தொடர்பு மற்றும் அனைவருக்கும் சமமான வாய்ப்புகளை அதிவேகமாக ஏற்படுத்தும் உதவியை வழங்குகிறது. MAP உடல்நலம் மற்றும் மகிழ்ச்சியைப் பின்தொடர்புகொள்ள, வாழ்க்கையை வளர்க்க, அவர்கள் விரும்பும் அனைத்து ஆதரவை பெற காத்திருப்பவர்களை பராமரிக்க, அவர்கள் சமுதாயத்தில் பாதுகாப்பாக இருக்க, நாடாளுமன்ற வாழ்க்கையில் பங்கேற்க வேண்டிய அனைத்து மக்களையும் உறுதி செய்யும் பணியில் ஈடுபத்துகிறது."
+    }
+  }
+}
