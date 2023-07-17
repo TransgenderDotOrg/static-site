@@ -1,0 +1,111 @@
+{
+  "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+  "slug": "seahorse-victoria-club",
+  "externalUrl": "https://seahorsevic.com.au/",
+  "tags": [
+    "support-groups",
+    "community-stories",
+    "friendly-businesses"
+  ],
+  "address": "St Kilda VIC 3182, Australia",
+  "phoneNumber": "0401 455 198",
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "St Kilda",
+  "county": "Port Phillip",
+  "latLng": [
+    -37.864,
+    144.982
+  ],
+  "email": "seahorsevic@gmail.com",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Seahorse Victoria Club",
+      "description": "Est. 1975, Seahorse Club Victoria provides resources, community service and support for the transgender community. It includes a trans-friendly directory of services and an upcoming online platform for members to connect."
+    },
+    "pt-PT": {
+      "title": "Clube Seahorse Victoria",
+      "description": "Est. 1975, o Seahorse Club Victoria oferece recursos, serviço comunitário e apoio para a comunidade transgênero. Ele inclui um diretório de serviços amigáveis aos trans e uma próxima plataforma online para os membros se conectarem."
+    },
+    "id-ID": {
+      "title": "Seahorse Victoria Club",
+      "description": "Didirikan pada tahun 1975, Seahorse Club Victoria menyediakan sumber daya, layanan masyarakat dan dukungan untuk komunitas transgender. Ini mencakup direktori layanan yang ramah trans dan platform online yang akan datang untuk anggota terhubung."
+    },
+    "es-ES": {
+      "title": "Seahorse Victoria Club",
+      "description": "Est. 1975, Seahorse Club Victoria proporciona recursos, servicios comunitarios y apoyo para la comunidad transgénero. Incluye un directorio de servicios amigable para trans y una próxima plataforma en línea para que los miembros se conecten."
+    },
+    "fr-FR": {
+      "title": "Seahorse Victoria Club",
+      "description": "Fondé en 1975, Seahorse Club Victoria fournit des ressources, un service communautaire et un soutien pour la communauté transgenre. Il comprend un répertoire de services convivial pour les trans et une plateforme en ligne à venir pour que les membres puissent se connecter."
+    },
+    "de-DE": {
+      "title": "Seahorse Victoria Club",
+      "description": "Gegründet 1975, bietet der Seahorse Club Victoria Ressourcen, Gemeinschaftsdienst und Unterstützung für die Transgender-Gemeinschaft. Er beinhaltet ein trans-freundliches Verzeichnis von Dienstleistungen und eine bevorstehende Online-Plattform für Mitglieder zum Vernetzen."
+    },
+    "zh-CN": {
+      "title": "海马维多利亚俱乐部",
+      "description": "成立于1975年，海马维多利亚俱乐部为跨性别社区提供资源、社区服务和支持。包括一份对跨性别友好的服务目录和一个即将上线的供会员联系的在线平台。"
+    },
+    "ko-KR": {
+      "title": "Seahorse Victoria Club",
+      "description": "설립된 1975년, Seahorse Club Victoria는 transgender 커뮤니티를 위한 자원, 커뮤니티 서비스 및 지원을 제공합니다. 이에는 trans-friendly 서비스 디렉토리 및 회원들이 연결할 수 있는 곧 출시될 온라인 플랫폼이 포함되어 있습니다."
+    },
+    "tr-TR": {
+      "title": "Denizatı Victoria Kulübü",
+      "description": "1975'te kurulan Denizatı Kulübü Victoria, trans topluluğu için kaynaklar, toplum hizmeti ve destek sağlar. Trans-dostu bir hizmet dizini ve üyelerin bağlantı kurabileceği yaklaşan bir çevrimiçi platformu içerir."
+    },
+    "sw-KE": {
+      "title": "Seahorse Victoria Club",
+      "description": "Imeanzishwa 1975, Seahorse Club Victoria hutoa rasilimali, huduma ya jamii na msaada kwa jamii ya watu wanaobadili jinsia. Inajumuisha saraka rafiki ya kutumiwa na wabadilishaji jinsia ya huduma zinazohusika na jukwaa la mtandao linalokuja kwa wanachama kuungana."
+    },
+    "ru-RU": {
+      "title": "Клуб «Морской конек Виктория»",
+      "description": "Осн. в 1975 году, Клуб «Морской конек Виктория» предоставляет ресурсы, общественные услуги и поддержку для трансгендерного сообщества. В него входит дружественный к трансгендерам справочник услуг и предстоящая онлайн-платформа для связи членов сообщества."
+    },
+    "vi-VN": {
+      "title": "Câu lạc bộ Seahorse Victoria",
+      "description": "Thành lập từ năm 1975, Seahorse Club Victoria cung cấp các tài nguyên, dịch vụ cộng đồng và hỗ trợ cho cộng đồng người chuyển giới. Nó bao gồm một danh mục dịch vụ thân thiện với người chuyển giới và một nền tảng trực tuyến sắp ra mắt để các thành viên kết nối."
+    },
+    "ja-JP": {
+      "title": "シーホースビクトリアクラブ",
+      "description": "設立1975年、シーホースクラブビクトリアはトランスジェンダーコミュニティのためのリソース、コミュニティサービス、サポートを提供しています。それにはトランスフレンドリーなサービスディレクトリとメンバーがつながるための今後のオンラインプラットフォームが含まれています。"
+    },
+    "ar-SA": {
+      "title": "نادي Seahorse Victoria",
+      "description": "تأسس عام 1975، يوفر نادي Seahorse Victoria الموارد والخدمة المجتمعية والدعم لمجتمع المتحولين جنسياً. ويشمل دليلاً صديقاً للأشخاص المتحولين جنسياً للخدمات ومنصة عبر الإنترنت قادمة لتواصل الأعضاء."
+    },
+    "uk-UA": {
+      "title": "Seahorse Victoria Club",
+      "description": "Засн. 1975 року, Клуб Seahorse Victoria надає ресурси, службу спільноті та підтримку для трансгендерної спільноти. Він включає у себе дружній до транс-людей довідник послуг та майбутню онлайн-платформу для спілкування членів."
+    },
+    "mr-IN": {
+      "title": "सीहॉर्स विक्टोरिया क्लब",
+      "description": "1975 मध्ये स्थापना झालेल्या सीहॉर्स क्लब विक्टोरियाने ट्रान्सजेंडर समुदायांसाठी संसाधने, समुदाय सेवा आणि समर्थन प्रदान केले आहेत. त्यात सेवांच्या एक ट्रान्स-अनुकूल निर्देशिका आणि सदस्यांना जोडण्यासाठी येणार्या ऑनलाइन प्लॅटफॉर्माची समावेशकता आहे."
+    },
+    "ur-PK": {
+      "title": "سی ہورس وکٹوریہ کلب",
+      "description": "1975ء میں قائم ہونے والا، سی ہارس کلب وکٹوریہ ٹرانسجینڈر کمیونٹی کے لئے وسائل، کمیونٹی سروس اور مدد فراہم کرتا ہے۔ اس میں ایک ٹرانس فرینڈلی ڈائریکٹری اور جو خدمات ہیں اور ایک آنے والے آن لائن پلیٹ فارم شامل ہے جس کے ذریعے ممبرز آپس میں رابطہ کر سکتے ہیں۔"
+    },
+    "bn-BD": {
+      "title": "সিহর্স ভিক্টোরিয়া ক্লাব",
+      "description": "প্রতিষ্ঠিত ১৯৭৫ সালে, সিহর্স ক্লাব ভিক্টোরিয়া ট্রানসজেন্ডার সম্প্রদায়ের জন্য সম্পদ, সম্প্রদায় সেবা এবং সমর্থন প্রদান করে। এটি অন্তর্গত করেছে ট্রানস-বন্ধুত্বপূর্ণ সেবার ডিরেক্টোরি এবং সদস্যদের সংযুক্ত হওয়ার জন্য আসন্ন অনলাইন প্ল্যাটফর্ম।"
+    },
+    "hi-IN": {
+      "title": "सीहॉर्स विक्टोरिया क्लब",
+      "description": "1975 के बाद सीहॉर्स क्लब विक्टोरिया, ट्रांसजेंडर समुदाय के लिए संसाधन, समुदाय सेवा और सहायता प्रदान करता है। इसमें एक ट्रांस-अनुकूल सेवाओं की निर्देशिका और सदस्यों को जोड़ने के लिए एक आगामी ऑनलाइन प्लेटफ़ॉर्म शामिल है।"
+    },
+    "ta-IN": {
+      "title": "சீஹார்ஸ் விக்டோரியா கிளப்",
+      "description": "1975ல் உருவாக்கப்பட்டது, சீஹார்ஸ் கிளப் விக்டோரியா மாற்பட்ட இனத்தார்களுக்கு ஆதாரம், சமூக சேவை, மற்றும் ஆதரவை வழங்குகிறது. இது ஒரு மாற்பட்ட நண்பர்களுக்கு சந்தேகமற்ற சேவைகளின் அடைவரிசையை மற்றும் உறுப்பினர்களுக்கு தொடர்பிக்க உள்ள இன்னும் வருவிய ஆன்லைன் தளத்தை அடங்குகிறது."
+    },
+    "te-IN": {
+      "title": "Seahorse Victoria Club",
+      "description": "1975 ఏప్రిలికి స్థాపించబడి, Seahorse Club Victoria ట్రాన్స్జెండర్ సముదాయంలోకి సంస్థలు, కమ్మునిటీ సేవలు మరియు మద్దతును అందిస్తుంది. ఇది సేవల యొక్క ట్రాన్స్-అనుకూల డైరెక్టరీను మరియు సభ్యులు మధ్య కనెక్ట్ అవ్వడానికి ఉన్న (ఉండబోతున్న) ఆన్‌లైన్ ప్లాట్‌ఫామ్‌ను అనేకం."
+    }
+  }
+}

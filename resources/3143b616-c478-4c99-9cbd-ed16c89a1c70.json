@@ -1,0 +1,108 @@
+{
+  "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+  "slug": "meridian-support",
+  "externalUrl": "https://www.meridianact.org.au/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+  "phoneNumber": "(02) 6257 2855",
+  "country": "AU",
+  "provinceOrState": "ACT",
+  "city": "Turner",
+  "latLng": [
+    -35.2736943,
+    149.1291121
+  ],
+  "email": "contact@meridianact.org.au",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Meridian",
+      "description": "Meridian has been advocating for, and supporting, the LGBTIQA+ community for over 40 years, offering a range of services and programs across the Canberra region such as HIV services, wellbeing services, sex worker outreach programs and more."
+    },
+    "id-ID": {
+      "title": "Meridian",
+      "description": "Meridian telah menganjurkan dan mendukung komunitas LGBTIQA+ selama lebih dari 40 tahun, menawarkan berbagai layanan dan program di wilayah Canberra seperti layanan HIV, layanan kesejahteraan, program penjangkauan pekerja seks dan lainnya."
+    },
+    "zh-CN": {
+      "title": "子午线",
+      "description": "子午线已经为LGBTIQA+社区提倡并提供支持超过40年，提供了在堪培拉地区的一系列服务和计划，如艾滋病服务、福祉服务、性工作者外展计划等等。"
+    },
+    "fr-FR": {
+      "title": "Meridian",
+      "description": "Meridian soutient et défend la communauté LGBTIQA+ depuis plus de 40 ans, offrant une gamme de services et de programmes dans toute la région de Canberra tels que des services VIH, des services de bien-être, des programmes de sensibilisation pour les travailleurs du sexe et plus encore."
+    },
+    "pt-PT": {
+      "title": "Meridian",
+      "description": "Meridian tem defendido e apoiado a comunidade LGBTIQA+ há mais de 40 anos, oferecendo uma gama de serviços e programas em toda a região de Canberra, como serviços de HIV, serviços de bem-estar, programas de apoio a trabalhadores do sexo e mais."
+    },
+    "ru-RU": {
+      "title": "Meridian",
+      "description": "Meridian на протяжении более 40 лет поддерживает и защищает сообщество LGBTIQA+, предлагая целый ряд услуг и программ в регионе Канберры, таких как услуги по ВИЧ, услуги по благополучию, программы по работе с секс-работниками и многое другое."
+    },
+    "es-ES": {
+      "title": "Meridian",
+      "description": "Meridian ha estado abogando y apoyando a la comunidad LGBTIQA+ durante más de 40 años, ofreciendo una variedad de servicios y programas en la región de Canberra, como servicios de VIH, servicios de bienestar, programas de divulgación para trabajadores sexuales y más."
+    },
+    "de-DE": {
+      "title": "Meridian",
+      "description": "Meridian setzt sich seit über 40 Jahren für die LGBTIQA+ Gemeinschaft ein und unterstützt sie, indem sie in der Region Canberra eine Reihe von Dienstleistungen und Programmen bietet, wie HIV-Dienste, Wohlfahrtsdienste, Outreach-Programme für Sexarbeiter und mehr."
+    },
+    "ko-KR": {
+      "title": "Meridian",
+      "description": "Meridian은 40년 이상 동안 LGBTIQA+ 커뮤니티를 지지하고 지원해 왔으며, HIV 서비스, 웰빙 서비스, 성매매자 아웃리치 프로그램 등 Canberra 지역의 다양한 서비스와 프로그램을 제공하고 있습니다."
+    },
+    "sw-KE": {
+      "title": "Meridian",
+      "description": "Meridian imekuwa ikishikilia na kusaidia jamii ya LGBTIQA+ kwa zaidi ya miaka 40, ikitoa huduma na mipango mbalimbali katika eneo la Canberra kama vile huduma za HIV, huduma za ustawi, mipango ya ufikiaji wa wafanya kazi wa jinsia na zaidi."
+    },
+    "ja-JP": {
+      "title": "メリディアン",
+      "description": "メリディアンは40年以上にわたり、LGBTIQA+コミュニティを推進し、支援してきました。キャンベラ地域全体でHIVサービス、ウェルビーングサービス、セックスワーカーアウトリーチプログラムなど、さまざまなサービスとプログラムを提供しています。"
+    },
+    "tr-TR": {
+      "title": "Meridyen",
+      "description": "Meridyen, 40 yıldan fazla bir süredir LGBTIQA+ topluluğuna destek olmakta ve savunma yapmaktadır. Canberra bölgesi genelinde HIV hizmetleri, refah hizmetleri, seks çalışanlarına yönelik ulaşım programları ve daha fazlası gibi çeşitli hizmetler ve programlar sunmaktadır."
+    },
+    "ar-SA": {
+      "title": "ميريديان",
+      "description": "تدافع ميريديان عن المجتمع LGBTIQA+ وتدعمه منذ أكثر من 40 عاماً، وتقدم مجموعة من الخدمات والبرامج في منطقة كانبيرا مثل خدمات HIV، وخدمات الرفاهية، وبرامج التواصل مع عمال الجنس وأكثر من ذلك."
+    },
+    "vi-VN": {
+      "title": "Meridian",
+      "description": "Meridian đã ủng hộ và hỗ trợ cộng đồng LGBTIQA+ trong hơn 40 năm, cung cấp một loạt các dịch vụ và chương trình trên khu vực Canberra như dịch vụ HIV, dịch vụ sức khỏe, chương trình tiếp cận công nhân tình dục và nhiều hơn nữa."
+    },
+    "uk-UA": {
+      "title": "Меридіан",
+      "description": "Меридіан понад 40 років виступає на захист і підтримує спільноту LGBTIQA+, пропонуючи ряд послуг та програм на території Канберри, таких як послуги з ВІЛ, послуги з підтримки добробуту, програми вивчення поведінки секс-працівників та ін."
+    },
+    "hi-IN": {
+      "title": "मेरिडियन",
+      "description": "मेरिडियन पिछले 40 वर्षों से LGBTIQA+ समुदाय के लिए समर्थन और सहयोग कर रहा है, कैंबेरा क्षेत्र में एचआईवी सेवाएं, कल्याण सेवाएं, सेक्स कर्मी आउटरीच प्रोग्राम और अधिक जैसी विभिन्न सेवाएं और प्रोग्राम प्रदान कर रहा है।"
+    },
+    "mr-IN": {
+      "title": "मेरिडियन",
+      "description": "मेरिडियनने LGBTIQA+ समुदायासाठी प्रवाद आणि समर्थनासे 40 वर्षांसाठी केलेले आहे, कॅनबेरा प्रदेशात एचआईव्ही सेवा, कल्याण सेवा, लैंगिक कामगारांच्या आउटरीच कार्यक्रमांसह इतर सेवा आणि प्रक्रमांची सर्वांत मोठी श्रृंखला प्रदान करते."
+    },
+    "bn-BD": {
+      "title": "Meridian",
+      "description": "Meridian বিগত 40 বছর ধরে LGBTIQA+ সম্প্রদায়ের জন্য প্রচারণা এবং সমর্থন করে আসছে, ক্যানবেরা অঞ্চলের বিভিন্ন সেবা এবং কর্মসূচি সহ HIV সেবা, সুস্থতা সেবা, যৌন কর্মী আউটরিচ কর্মসূচি এবং আরও অনেক কিছু অফার করে।"
+    },
+    "ur-PK": {
+      "title": "میریڈیان",
+      "description": "میریدیان نے 40 سال سے زیادہ عرصے سے لگاتار LGBTIQA+ برادری کی حمایت اور ترغیب دیتا رہا ہے، کینبرا علاقے میں HIV کی خدمات، خوشی کی خدمات، جنسی مزدوروں کے آؤٹ ریچ پروگراموں اور دیگر خدماتوں کی ایک رینج پیش کرتا ہے۔"
+    },
+    "ta-IN": {
+      "title": "மெரிடியன்",
+      "description": "மெரிடியன் மேலும் 40 ஆண்டுகளுக்கு மேல் LGBTIQA+ சமூகத்துக்காக ஆதரவு வழங்கி, அதனை ஆதரவு செய்து வந்துள்ளது, கேன்பெரா பிரதேசத்தில் HIV சேவைகள், நலமுடன் சேவைகள், செக்ஸ் வேலைஞர் வெளியீடு திட்டங்கள் மற்றும் மேலதிகத்தை உள்ளடக்கி பல சேவைகள் மற்றும் திட்டங்களை வழங்குகின்றது."
+    },
+    "te-IN": {
+      "title": "Meridian",
+      "description": "मेरिडियन 40 సంవత్సరాలుగా LGBTIQA+ సముదాయానికి మద్దతు ఇవ్వడానికి, మరియు  అందుబాటులో ఉండడానికి, మరియు ప్రోగ్రాములను అందిస్తుంది. ఇలాంటివి HIV సేవలు, ఆరోగ్య సేవలు, లైంగిక పనిమనిషి ప్రయాణిక ప్రోగ్రాములు మరియు మరిన్ని ఉదాహరణకు కెనబెరా ప్రాంతం అగ్రగమ్యంగా ఉన్నాయి."
+    }
+  }
+}

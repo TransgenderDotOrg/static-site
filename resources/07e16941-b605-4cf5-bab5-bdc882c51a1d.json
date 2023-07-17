@@ -1,0 +1,114 @@
+{
+  "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+  "slug": "queerspace",
+  "externalUrl": "https://www.queerspace.org.au/",
+  "tags": [
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": "100 Drummond St, Carlton VIC 3053, Australia",
+  "phoneNumber": "03 9663 6733",
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "Carlton",
+  "county": "City of Melbourne",
+  "latLng": [
+    -37.8043894,
+    144.9681606
+  ],
+  "email": "enquiries@ds.org.au",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Queerspace",
+      "description": "Queerspace is an LGBTIQ+ health and wellbeing support service established in 2009 by LGBTIQ+ communities for LGBTIQ+ communities. It has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria. Services include counselling, case management, advocacy, support services, peer support, professional development, training and consulting."
+    },
+    "id-ID": {
+      "title": "Queerspace",
+      "description": "Queerspace adalah layanan dukungan kesehatan dan kesejahteraan LGBTIQ+ yang didirikan pada tahun 2009 oleh komunitas LGBTIQ+ untuk komunitas LGBTIQ+. Layanan ini berfokus pada hubungan, keluarga, pengasuhan anak, dan anak muda dan menawarkan layanan yang berlokasi di wilayah metropolitan barat laut Victoria. Layanan mencakup konseling, manajemen kasus, advokasi, layanan dukungan, dukungan sebaya, pengembangan profesional, pelatihan dan konsultasi."
+    },
+    "zh-CN": {
+      "title": "Queerspace",
+      "description": "Queerspace是一项由LGBTIQ+社区于2009年为LGBTIQ+社区建立的健康和福利支持服务。它关注的是关系、家庭、教育和年轻人，并在维多利亚州西北部都市区提供联合服务。服务包括咨询、案例管理、倡导、支持服务、同伴支持、专业发展、培训和咨询。"
+    },
+    "es-ES": {
+      "title": "Queerspace",
+      "description": "Queerspace es un servicio de apoyo para la salud y el bienestar LGBTIQ+ establecido en 2009 por las comunidades LGBTIQ+ para las comunidades LGBTIQ+. Se enfoca en las relaciones, las familias, la crianza y los jóvenes, y ofrece servicios ubicados en la región metropolitana noroeste de Victoria. Los servicios incluyen asesoramiento, gestión de casos, defensa, servicios de apoyo, apoyo entre pares, desarrollo profesional, formación y consultoría."
+    },
+    "sw-KE": {
+      "title": "Queerspace",
+      "description": "Queerspace ni huduma ya msaada wa afya na ustawi wa LGBTIQ+ ilianzishwa mnamo 2009 na jamii za LGBTIQ+ kwa jamii za LGBTIQ+. Ina mkazo kwa mahusiano, familia, malezi na vijana na inatoa huduma zilizopo pamoja katika eneo la kaskazini- magharibi la mji wa Victoria. Huduma ni pamoja na ushauri, usimamizi wa kesi, utetezi, huduma za msaada, msaada wa rika, maendeleo ya kitaalam, mafunzo na ushauri."
+    },
+    "tr-TR": {
+      "title": "Queerspace",
+      "description": "Queerspace, 2009 yılında LGBTIQ+ toplulukları tarafından LGBTIQ+ toplulukları için kurulan bir LGBTIQ+ sağlık ve iyilik hizmetidir. İlişkiler, aileler, ebeveynlik ve genç insanlar üzerine odaklanmaktadır ve Victoria'nın kuzey-batı metropolitan bölgesindeki hizmetleri bir arada sunmaktadır. Hizmetler arasında danışmanlık, durum yönetimi, savunma, destek hizmetleri, akran desteği, profesyonel gelişim, eğitim ve danışmanlık bulunmaktadır."
+    },
+    "de-DE": {
+      "title": "Queerspace",
+      "description": "Queerspace ist ein Gesundheits- und Wohlfühldienst für LGBTIQ+, der 2009 von LGBTIQ+-Gemeinschaften für LGBTIQ+-Gemeinschaften gegründet wurde. Es konzentriert sich auf Beziehungen, Familien, Elternschaft und junge Menschen und bietet zusammengelegte Dienstleistungen im nordwestlichen Metropolregion von Victoria. Dienstleistungen umfassen Beratung, Fallmanagement, Fürsprache, Unterstützungsdienstleistungen, Peer-Support, professionelle Weiterentwicklung, Training und Beratung."
+    },
+    "pt-PT": {
+      "title": "Queerspace",
+      "description": "Queerspace é um serviço de apoio à saúde e bem-estar LGBTIQ+ estabelecido em 2009 por comunidades LGBTIQ+ para comunidades LGBTIQ+. Ele tem um foco em relacionamentos, famílias, paternidade e juventude e oferece serviços co-locados em toda a região metropolitana noroeste de Victoria. Os serviços incluem aconselhamento, gerenciamento de casos, advocacia, serviços de apoio, apoio de pares, desenvolvimento profissional, treinamento e consultoria."
+    },
+    "fr-FR": {
+      "title": "Queerspace",
+      "description": "Queerspace est un service de soutien à la santé et au bien-être LGBTIQ+ établi en 2009 par les communautés LGBTIQ+ pour les communautés LGBTIQ+. Il met l'accent sur les relations, les familles, la parentalité et les jeunes et propose des services co-localisés dans la région métropolitaine nord-ouest de Victoria. Les services comprennent le conseil, la gestion de cas, la défense des droits, les services de soutien, le soutien par les pairs, le développement professionnel, la formation et le conseil."
+    },
+    "ko-KR": {
+      "title": "Queerspace",
+      "description": "Queerspace는 2009년에 LGBTIQ+ 커뮤니티에 의해 제공되어진 LGBTIQ+ 건강과 웰빙 지원 서비스입니다. 이는 관계, 가족, 부모되기, 그리고 젊은이들에 초점을 맞추고 있으며, 빅토리아의 북서부 도시 지역에 걸쳐 공동 위치한 서비스를 제공합니다. 서비스에는 상담, 케이스 관리, 지원, 지원 서비스, 동료 지원, 전문 개발, 교육 및 컨설팅이 포함됩니다."
+    },
+    "ja-JP": {
+      "title": "Queerspace",
+      "description": "Queerspaceは、2009年にLGBTIQ+コミュニティによってLGBTIQ+コミュニティのために設立された健康と幸福のサポートサービスです。関係、家族、子育て、若者に焦点を当て、ビクトリア州北西部地域全域で共同利用サービスを提供しています。サービスには、カウンセリング、ケースマネジメント、アドボカシー、サポートサービス、ピアサポート、プロフェッショナル開発、トレーニング、コンサルティングが含まれます。"
+    },
+    "ar-SA": {
+      "title": "كويرسبيس",
+      "description": "كويرسبيس هو خدمة دعم صحة ورفاهية لـ LGBTIQ+ تأسست في عام 2009 من قبل مجتمعات LGBTIQ+ لأجل مجتمعات LGBTIQ+. يركز على العلاقات والأسر والأبوة والأمومة والشباب ويقدم خدمات متجانسة في منطقة فكتوريا الحضرية الشمالية الغربية. تتضمن الخدمات المشاورة وإدارة الحالات والدعم وخدمات الدعم ودعم الأقران والتطوير المهني والتدريب والاستشارة."
+    },
+    "ru-RU": {
+      "title": "Queerspace",
+      "description": "Queerspace - это служба поддержки здоровья и благополучия LGBTIQ+, созданная в 2009 году общинами LGBTIQ+ для общин LGBTIQ+. Фокусируется на отношениях, семьях, родительстве и молодежи, и предлагает совместные услуги по всему северо-западному метрополитенскому региону Виктории. Услуги включают консультирование, управление случаями, адвокацию, службы поддержки, взаимную поддержку, профессиональное развитие, обучение и консультации."
+    },
+    "uk-UA": {
+      "title": "Queerspace",
+      "description": "Queerspace - це служба підтримки здоров'я та благополуччя LGBTIQ+, заснована в 2009 році LGBTIQ+ спільнотами для LGBTIQ+ спільнот. Вона фокусується на відносинах, сім'ях, вихованні дітей та молодіжі та пропонує спільно розташовані послуги в північно-західному метрополітенському регіоні Вікторії. Послуги включають консультування, кейс-менеджмент, захист прав, служби підтримки, підтримку однолітків, професійний розвиток, навчання та консультації."
+    },
+    "vi-VN": {
+      "title": "Queerspace",
+      "description": "Queerspace là một dịch vụ hỗ trợ sức khỏe và phúc lợi cho cộng đồng LGBTIQ+ được thành lập năm 2009 bởi cộng đồng LGBTIQ+ cho cộng đồng LGBTIQ+. Nó tập trung vào các mối quan hệ, gia đình, việc nuôi dạy con và thanh thiếu niên và cung cấp dịch vụ tại nhiều địa điểm trên khu vực đô thị phía tây bắc Victoria. Các dịch vụ bao gồm tư vấn, quản lý trường hợp, biện hộ, dịch vụ hỗ trợ, hỗ trợ từ đồng nghiệp, phát triển chuyên môn, đào tạo và tư vấn."
+    },
+    "hi-IN": {
+      "title": "Queerspace",
+      "description": "Queerspace एक LGBTIQ+ स्वास्थ्य और कल्याण समर्थन सेवा है जिसे 2009 में LGBTIQ+ समुदायों द्वारा LGBTIQ+ समुदायों के लिए स्थापित किया गया था। इसका ध्यान सम्बंधों, परिवारों, माता-पिता और युवाओं पर है और यह विक्टोरिया के उत्तर- पश्चिमी महानगर क्षेत्र में सह-स्थित सेवाएँ प्रदान करता है। सेवाएँ में परामर्श, मामला प्रबंधन, समर्थन सेवाएँ, साथी समर्थन, पेशेवर विकास, प्रशिक्षण और परामर्श शामिल हैं।"
+    },
+    "mr-IN": {
+      "title": "Queerspace",
+      "description": "Queerspace हे LGBTIQ+ आरोग्य आणि कल्याण समर्थन सेवा 2009 मध्ये LGBTIQ+ समुदायांनी LGBTIQ+ समुदायांसाठी स्थापन केलेली आहे. त्यात संबंध, कुटुंब, पालनपोषण आणि तरुणांच्या केंद्रभूत धोरणावर मुद्देआहेत व महाराष्ट्राच्या उत्तर-पश्चिम महानगर क्षेत्रातील सेवांची सहस्थानी सेवा देते. सेवांमध्ये सल्लागारी, प्रकरण व्यवस्थापन, पक्षसत्ता, समर्थन सेवा, सहकारी समर्थन, व्यावसायिक विकास, प्रशिक्षण आणि सल्लागारी असतात."
+    },
+    "ur-PK": {
+      "title": "کوئیرسپیس",
+      "description": "کوئیرسپیس ایک LGBTIQ+ صحت و خیریت کا سپورٹ سروس ہے جو 2009 میں LGBTIQ کمیونٹیز دوارا LGBTIQ کمیونٹیز کے لئے قائم کی گئی تھی۔ اسکا تناؤ تعلقات، خاندان، والدین اور  نوجوانوں پر ہوتا ہے اور یہ وکٹوریا کے شمال مغربی علاقے میں کو لوکیٹڈ سروسز پیش کرتا ہے۔ خدمات میں مشاورت، کیس مینجمنٹ، وکالت، سپورٹ سروسز، ساتھی سپورٹ، پیشہ ورانہ ترقی، تربیت و مشاورت شامل ہیں۔"
+    },
+    "bn-BD": {
+      "title": "Queerspace",
+      "description": "Queerspace একটি LGBTIQ+ স্বাস্থ্য এবং সুস্থ থাকার সমর্থন পরিষেবা যা 2009 সালে LGBTIQ+ সম্প্রদায়গুলির দ্বারা LGBTIQ+ সম্প্রদায়গুলির জন্য প্রতিষ্ঠিত হয়েছিল। এর ফোকাস রয়েছে সম্পর্ক, পরিবার, অভিভাবকত্ব এবং যুবক-যুবতীদের উপর এবং এটি ভিক্টোরিয়ার উত্তর-পশ্চিম মেট্রোপলিটন অঞ্চলে সুষ্ঠু অবস্থিত পরিষেবা অফার করে। পরিষেবাগুলো অন্তর্গত করে পরামর্শ, মামলা ব্যবস্থাপনা, উদ্যোগ, সমর্থন পরিষেবা, পীর সমর্থন, পেশাদার উন্নয়ন, প্রশিক্ষণ এবং পরামর্শ।"
+    },
+    "ta-IN": {
+      "title": "Queerspace",
+      "description": "Queerspace என்பது 2009ம் ஆண்டுபோது LGBTIQ+ சமுதாயத்தினால் LGBTIQ+ சமுதாயத்துக்காக நிறுவப்பட்ட மன மற்றும் உடல் நலம் ஆதரவு சேவையாகும். இது உறவுகள், குடும்பங்கள், பேற்றில் மற்றும் இளைஞர்களின் மேல் கவனம் கொண்டுள்ளது மற்றும் விக்டோரியாவின் வடமேற்கு மேலுப் பேருநகரப் பிரதேசத்தில் ஒத்திசைவு சேவைகளைத் தருகின்றது. சேவைகள் ஆலோசனை, வழக்கு மேலாண்மை, ஆதரவு சேவைகள், ஈர்க்கப் பெறுவோர் அரசியல், தொழில் மேம்பாடு, பயிற்சி மற்றும் ஆலோசனை ஆகியவைக் கொண்டுள்ளன."
+    },
+    "te-IN": {
+      "title": "Queerspace",
+      "description": "Queerspace అనేది 2009లో LGBTIQ+ సముదాయాల ద్వారా LGBTIQ+ సముదాయాల కోసం ఏర్పాటు చేయబడిన ఆరోగ్య మరియు మంచిదైన మద్దతు సేవ. ఇది సంబంధాలు, కుటుంబాలు, మాతాపితలత్వం, యువత మరియు విక్టోరియా యొక్క ఉత్తర-పశ్చిమ ప్రభుత్వాంగ ప్రాంతాల్లో సామూహికగా ఉన్న సేవలను ముఖ్యంగా పట్టించుకుంటుంది. సేవలు కౌన్సిలింగ్, కేసు నిర్వహణ, అభియోగ, మద్దతు సేవలు, సహజీవన మద్దతు, వృత్తిమార్గ అభివృద్ధి, ప్రశిక్షణ మరియు సలహా అనేవి ఉన్నాయి."
+    }
+  }
+}

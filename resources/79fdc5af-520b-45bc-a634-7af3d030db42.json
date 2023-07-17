@@ -1,0 +1,110 @@
+{
+  "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+  "slug": "shinesa",
+  "externalUrl": "https://shinesa.org.au/",
+  "tags": [
+    "healthcare",
+    "education-awareness",
+    "mental-health",
+    "social-services",
+    "support-groups"
+  ],
+  "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+  "phoneNumber": "8300 5300",
+  "country": "AU",
+  "provinceOrState": "SA",
+  "city": "Woodville",
+  "latLng": [
+    -34.87943560000001,
+    138.536817
+  ],
+  "email": "info@shinesa.org.au",
+  "socialMedia": null,
+  "county": "Charles Sturt",
+  "i18n": {
+    "en-US": {
+      "title": "SHINE SA",
+      "description": "A health organization in South Australia that provides clinical services, sexual health counselling and education and training related to sexual and reproductive health and relationship skills. It also gives support and inclusive services for the LGBTIQA+ community. They also participate in celebrating and advocating for international transgender and gender diverse communities rights and recognition."
+    },
+    "es-ES": {
+      "title": "SHINE SA",
+      "description": "Una organización de salud en Australia del Sur que proporciona servicios clínicos, asesoramiento en salud sexual y educación y formación relacionada con la salud sexual y reproductiva y habilidades relacionales. También proporciona apoyo y servicios inclusivos para la comunidad LGBTIQA+. También participan en la celebración y defensa de los derechos y el reconocimiento de las comunidades transgénero y de diversidad de género internacionales."
+    },
+    "de-DE": {
+      "title": "SHINE SA",
+      "description": "Eine Gesundheitsorganisation in Südaustralien, die klinische Dienstleistungen, Sexualgesundheitsberatung und Ausbildung und Training im Zusammenhang mit sexueller und reproduktiver Gesundheit und Beziehungsfähigkeiten bereitstellt. Sie bietet auch Unterstützung und integrative Dienstleistungen für die LGBTIQA+ Gemeinschaft. Sie beteiligen sich auch an Feierlichkeiten und Advocacy für internationale Transgender- und geschlechtsdiverse Gemeinschaften Rechte und Anerkennung."
+    },
+    "fr-FR": {
+      "title": "SHINE SA",
+      "description": "Une organisation de santé en Australie du Sud qui fournit des services cliniques, des conseils en santé sexuelle et une éducation et une formation relatives à la santé sexuelle et reproductive et aux compétences relationnelles. Elle offre également un soutien et des services inclusifs pour la communauté LGBTIQA+. Ils participent également à la célébration et à la défense des droits et de la reconnaissance des communautés transgenres et de diversité de genre à l'international."
+    },
+    "sw-KE": {
+      "title": "SHINE SA",
+      "description": "Shirika la afya lililopo South Australia linatoa huduma za kitabibu, ushauri wa afya ya ngono na elimu na mafunzo yanayohusiana na afya ya uzazi na ujuzi wa mahusiano. Pia inatoa msaada na huduma jumuishi kwa jamii ya LGBTIQA+. Pia wanashiriki katika kusherehekea na kutetea haki na utambuzi wa jumuiya za kimataifa za watu wenye jinsia tofauti."
+    },
+    "id-ID": {
+      "title": "SHINE SA",
+      "description": "Organisasi kesehatan di Australia Selatan yang menyediakan layanan klinis, konseling kesehatan seksual dan pendidikan serta pelatihan yang berkaitan dengan kesehatan seksual dan reproduksi dan keterampilan hubungan. Mereka juga memberikan dukungan dan layanan inklusif untuk komunitas LGBTIQA+. Mereka juga berpartisipasi dalam merayakan dan memperjuangkan hak dan pengakuan komunitas transgender dan gender beragam internasional."
+    },
+    "pt-PT": {
+      "title": "SHINE SA",
+      "description": "Uma organização de saúde na Austrália do Sul que fornece serviços clínicos, aconselhamento de saúde sexual e educação e formação relacionados à saúde sexual e reprodutiva e habilidades de relacionamento. Também oferece suporte e serviços inclusivos para a comunidade LGBTIQA+. Eles também participam celebrando e defendendo os direitos e reconhecimento das comunidades internacionais de transgêneros e diversidade de gênero."
+    },
+    "zh-CN": {
+      "title": "SHINE SA",
+      "description": "一个位于南澳大利亚的健康组织，提供临床服务、性健康咨询以及与性生殖健康和人际关系技能相关的教育和培训。它还为LGBTIQA+社区提供支持和包容的服务。他们还参与庆祝和倡导国际跨性别和性别多元化社区的权利和承认。"
+    },
+    "ja-JP": {
+      "title": "SHINE SA",
+      "description": "南オーストラリアの健康組織で、臨床サービス、性的健康に関するカウンセリングや教育、性と生殖に関する健康や関係スキルに関連した教育と研修を提供しています。また、LGBTIQA+コミュニティーのためのサポートと包括的なサービスを提供しています。国際的なトランスジェンダーと性的多様性を持つコミュニティの権利と認知のために祝賀し、支持する活動にも参加しています。"
+    },
+    "ar-SA": {
+      "title": "SHINE SA",
+      "description": "منظمة صحية في جنوب أستراليا تقدم الخدمات السريرية، والإرشاد الصحي الجنسي والتعليم والتدريب المتعلق بالصحة الجنسية والإنجابية ومهارات العلاقات. كما يقدم الدعم والخدمات المتضمنة لمجتمع LGBTIQA+. كما أنهم يشاركون في الاحتفال والدعوة إلى حقوق واعتراف مجتمعات الترانسجندر والجنس الآخر على الصعيد الدولي."
+    },
+    "vi-VN": {
+      "title": "SHINE SA",
+      "description": "Một tổ chức y tế ở Nam Úc cung cấp các dịch vụ lâm sàng, tư vấn về sức khỏe tình dục và giáo dục, đào tạo liên quan đến sức khỏe tình dục và sinh sản và kỹ năng tương tác. Nó cũng cung cấp hỗ trợ và các dịch vụ bao quát cho cộng đồng LGBTIQA+. Họ cũng tham gia vào việc kỷ niệm và ủng hộ cho quyền lợi và sự công nhận của cộng đồng người chuyển giới và đa giới tính quốc tế."
+    },
+    "tr-TR": {
+      "title": "SHINE SA",
+      "description": "Güney Avustralya'da klinik hizmetler, cinsel sağlık danışmanlığı ve cinsel ve üreme sağlığı ve ilişki becerileri ile ilgili eğitim ve eğitim sağlayan bir sağlık organizasyonu. Ayrıca LGBTIQA+ topluluğu için desteği ve kapsayıcı hizmetleri sunar. Ayrıca, uluslararası transseksüel ve cinsiyet çeşitliliği topluluklarının haklarının ve tanımasının kutlanması ve savunulması faaliyetlerine katılırlar."
+    },
+    "ko-KR": {
+      "title": "SHINE SA",
+      "description": "남호주에 위치한 건강 단체로, 임상 서비스, 성 건강 상담 및 성 및 생식 건강 및 관계 기술에 관련된 교육과 훈련을 제공합니다. 또한 LGBTIQA+ 커뮤니티에 대한 지원 및 포괄적인 서비스를 제공합니다. 또한, 국제 트랜스젠더 및 성 다양성 커뮤니티의 권리와 인정을 위해 축하하고 옹호하는 데 참여합니다."
+    },
+    "ru-RU": {
+      "title": "SHINE SA",
+      "description": "Здравоохранительная организация в Южной Австралии, которая предоставляет клинические услуги, консультации по вопросам сексуального здоровья и обучение, связанное с сексуальным и репродуктивным здоровьем и навыками взаимоотношений. Она также предлагает поддержку и инклюзивные услуги для сообщества LGBTIQA+. Они также участвуют в праздновании и защите прав и признания международных трансгендерных и гендерно-разнообразных сообществ."
+    },
+    "uk-UA": {
+      "title": "SHINE SA",
+      "description": "Організація охорони здоров'я в Південній Австралії, яка надає клінічні послуги, консультування з питань сексуального здоров'я та освіту та навчання, пов'язані з сексуальним та репродуктивним здоров'ям та вміннями у стосунках. Вона також надає підтримку та інклюзивні послуги для спільноти LGBTIQA+. Вони також беруть участь у святкуванні та захисті прав та визнання міжнародних трансгендерних та гендерно різноманітних спільнот."
+    },
+    "mr-IN": {
+      "title": "SHINE SA",
+      "description": "दक्षिण ऑस्ट्रेलियातील आरोग्य संस्था ज्यामुळे क्लिनिकल सेवा, लैंगिक आरोग्य सल्लागारी तसेच लैंगिक व प्रजनन स्वास्थ्य आणि संबंध साधारण कौशल्यांच्या शिक्षण आणि प्रशिक्षणांची पुरवठा होते. ती LGBTIQA+ समुदायासाठी समर्थन आणि समावेशी सेवा ही देते आहेत. हे वर कोणताही वाढीव आणि लिंग विविधता समुदायांच्या अधिकारांच्या सत्कारासाठी व ओळखासाठी उत्सव करणे आणि समर्थन करणे ह्यातही त्यांनी सहभागी आहेत."
+    },
+    "ur-PK": {
+      "title": "SHINE SA",
+      "description": "جنوبی آسٹریلیا میں ایک صحت کا تنظم جو کلینیکی خدمات، جنسی صحت کی مشاورت اور تعلیم اور تربیت متعلقہ جنسی اور زیستی صحت اور تعلقات کی مہارتوں کی فراہمی کرتا ہے۔ یہ LGBTIQA+ کمیونٹی کے لیے بھی سپورٹ اور شامل خدمات فراہم کرتی ہے۔ وہ بین الاقوامی ٹرانسجینڈر اور جنسانہ مختلف کمیونٹیز کے حقوق و تسلیم کے لیے جشن منانے اور اس کی حمایت میں بھی شرکت کرتے ہیں۔"
+    },
+    "bn-BD": {
+      "title": "SHINE SA",
+      "description": "দক্ষিণ অস্ট্রেলিয়ার একটি স্বাস্থ্য প্রতিষ্ঠান যা ক্লিনিকাল সেবা, যৌন স্বাস্থ্য পরামর্শ এবং যৌন এবং প্রজনন স্বাস্থ্য এবং সম্পর্ক দক্ষতা সম্পর্কিত শিক্ষা ও প্রশিক্ষণ প্রদান করে। এটি এছাড়াও LGBTIQA+ সম্প্রদায়ের জন্য সমর্থন এবং অন্তর্ভুক্তিপূর্ণ সেবা প্রদান করে। তারা আন্তর্জাতিক ট্রান্সজেন্ডার এবং লিঙ্গ ভেদভিন্ন সম্প্রদায়ের অধিকার এবং স্বীকৃতির জন্য উদযাপন এবং উত্থানে অংশ নেওয়ার মধ্য দিয়েও অংশ নেয়।"
+    },
+    "hi-IN": {
+      "title": "SHINE SA",
+      "description": "दक्षिण ऑस्ट्रेलिया में एक स्वास्थ्य संगठन जो नैदानिक सेवाएं, यौन स्वास्थ्य परामर्श तथा यौन और प्रजनन स्वास्थ्य और संबंध संबंधी कौशलों से संबंधित शिक्षा और प्रशिक्षण प्रदान करता है। यह लगभग+ समुदाय के लिए समर्थन और समावेशी सेवाओं का भी प्रदान करता है। वे अंतरराष्ट्रीय ट्रांसजेंडर और लिंग विविध समुदायों के अधिकारों और मान्यता के लिए मनाने और समर्थन करने में भी भाग लेते हैं।"
+    },
+    "ta-IN": {
+      "title": "SHINE SA",
+      "description": "தென்னாத்திராலியாவின் ஒரு சுகாதார அமைப்பு குறிப்பாக மருத்துவ சேவைகள், பாலிய சுகாதார ஆலோசனை மற்றும் பாலியல் மற்றும் பிரஜனந்திர சுகாதார மற்றும் உறவு திறன்கள் தொடர்பான கல்வி மற்றும் பயிற்சியை வழங்குகிறது. இது அத்துடன் LGBTIQA+ சமுதாயத்துக்கு ஆதரவாக மற்றும் சேர்ந்திருக்கும் சுகாதார சேவைகளையும் வழங்குகிறது. இவர்கள் மேலும் சர்வதேச அல்லது பாலிநிலை குழுக்களின் உரிமைகளுக்கு மற்றும் அங்கீகாரத்திற்கு மேலும் வாழ்த்துவதற்கு மற்றும் ஆதரவளிக்கும் வழியில் பங்குபெறுகின்றனர்."
+    },
+    "te-IN": {
+      "title": "SHINE SA",
+      "description": "దక్షిణ ఆస్ట్రేలియాలోని ఒక ఆరోగ్య సంస్థ ఇది, యేందు వైద్యుడు సేవలు, జేండర్ ఆరోగ్య సంబంధిత కన్సెలింగ్ మరియు శిక్షణను మరియు సంబంధాలు మరియు సంబంధాలకు సంబంధించిన వికసన ప్రమాణంగా సమర్ధిస్తుంది. ఇది కూడా LGBTIQA+ కమ్యునిటీకి మద్దతు మరియు సమావేశాత్మక సేవలను అందిస్తుంది. అంతర్జాతీయ ట్రాన్స్‌జెండర్ మరియు జెండర్ వైవిధ్యత సముదాయాల హక్కులు మరియు గుర్తింపుల కోసం సెలవులు జరుగుతుంటాయి మరియు అవును అంగీకరిస్తుంది."
+    }
+  }
+}

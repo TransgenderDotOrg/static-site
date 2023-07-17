@@ -1,0 +1,111 @@
+{
+  "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+  "slug": "freedom-centre-wa",
+  "externalUrl": "https://www.freedom.org.au/",
+  "tags": [
+    "youth-services",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "parent-family-resources"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "WA",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+    "instagramUrl": "https://www.instagram.com/freedom_centre/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Freedom Centre",
+      "description": "Freedom Centre provides a broad range of support services for LGBTIQA+ young people around WA, including drop-in sessions, community development, counselling and much more. They work towards making all LGBTIQA+ young people feel included, connected and respected. They also provide training and guidance to parents, professionals, communities and organisations."
+    },
+    "fr-FR": {
+      "title": "Centre de Liberté",
+      "description": "Le Centre de Liberté propose une large gamme de services de soutien pour les jeunes LGBTIQA+ dans toute la WA, y compris des séances de drop-in, du développement communautaire, du conseil et bien plus encore. Ils travaillent à faire en sorte que tous les jeunes LGBTIQA+ se sentent inclus, connectés et respectés. Ils fournissent également la formation et les directives aux parents, professionnels, communautés et organisations."
+    },
+    "es-ES": {
+      "title": "Freedom Centre",
+      "description": "Freedom Centre proporciona una amplia gama de servicios de apoyo para jóvenes LGBTIQA+ en todo WA, incluyendo sesiones de entrada libre, desarrollo comunitario, asesoramiento y mucho más. Trabajan para hacer que todos los jóvenes LGBTIQA+ se sientan incluidos, conectados y respetados. También proporcionan formación y orientación a padres, profesionales, comunidades y organizaciones."
+    },
+    "id-ID": {
+      "title": "Freedom Centre",
+      "description": "Freedom Centre menyediakan berbagai jenis layanan dukungan untuk pemuda LGBTIQA+ di sekitar WA, termasuk sesi bertemu dan berbicara, pengembangan komunitas, konseling, dan lainnya. Mereka bekerja ke arah membuat semua pemuda LGBTIQA+ merasa dipahami, terhubung, dan dihargai. Mereka juga memberikan pelatihan dan panduan kepada orangtua, profesional, komunitas, dan organisasi."
+    },
+    "pt-PT": {
+      "title": "Centro da Liberdade",
+      "description": "O Centro da Liberdade oferece uma ampla gama de serviços de apoio para jovens LGBTIQA+ em todo o WA, incluindo sessões de atendimento, desenvolvimento comunitário, aconselhamento e muito mais. Eles trabalham para fazer com que todos os jovens LGBTIQA+ se sintam incluídos, conectados e respeitados. Eles também fornecem treinamento e orientação para pais, profissionais, comunidades e organizações."
+    },
+    "de-DE": {
+      "title": "Freiheitszentrum",
+      "description": "Das Freiheitszentrum bietet eine breite Palette von Unterstützungsdiensten für LGBTIQA+ Jugendliche in ganz WA an, einschließlich Drop-In-Sitzungen, Gemeinschaftsentwicklung, Beratung und vieles mehr. Sie arbeiten daran, dass sich alle LGBTIQA+ Jugendlichen inbegriffen, verbunden und respektiert fühlen. Sie bieten auch Training und Anleitung für Eltern, Fachleute, Gemeinschaften und Organisationen an."
+    },
+    "ko-KR": {
+      "title": "Freedom Centre",
+      "description": "Freedom Centre는 WA 주의 LGBTIQA+ 청소년을 위한 다양한 지원 서비스를 제공합니다. 이에는 드롭인 세션, 커뮤니티 개발, 상담 등이 포함되며, 모든 LGBTIQA+ 청소년이 포괄되고 연결되며 존중받는 데 기여하고 있습니다. 또한 부모, 전문가, 커뮤니티 및 조직에 대한 교육과 지침도 제공하고 있습니다."
+    },
+    "zh-CN": {
+      "title": "自由中心",
+      "description": "自由中心为西澳州的LGBTIQA+青年提供广泛的支持服务，包括敞口式会话、社区发展、咨询等更多。他们致力于让所有LGBTIQA+的青年感到被接纳、联系和尊重。他们还为父母、专业人士、社区和组织提供培训和指导。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Uhuru",
+      "description": "Kituo cha Uhuru kinatoa huduma mbalimbali za msaada kwa vijana wa LGBTIQA+ kote WA, ikiwa ni pamoja na vikao vya kujiingiza, maendeleo ya jamii, ushauri na mengi zaidi. Wao hufanya kazi kuelekea kufanya vijana wote wa LGBTIQA+ wajisikie wamejumuishwa, wameunganishwa na wanaheshimika. Pia hutoa mafunzo na mwongozo kwa wazazi, wataalamu, jamii na mashirika."
+    },
+    "tr-TR": {
+      "title": "Özgürlük Merkezi",
+      "description": "Özgürlük Merkezi, WA çevresindeki LGBTIQA+ gençler için geniş kapsamlı destek hizmetleri sağlar, bunlar arasında düş-in seansları, toplum geliştirme, danışmanlık ve çok daha fazlası bulunur. Tüm LGBTIQA+ gençlerin dahil hissetmesi, bağlanması ve saygı görmesi için çalışırlar. Ayrıca ebeveynlere, profesyonellere, topluluklara ve organizasyonlara eğitim ve rehberlik sağlarlar."
+    },
+    "ru-RU": {
+      "title": "Центр Свободы",
+      "description": "Центр Свободы предоставляет широкий спектр поддержки для молодежи LGBTIQA+ по всей Западной Австралии, включая сессии без записи, развитие сообщества, консультации и многое другое. Они работают над тем, чтобы все молодые люди LGBTIQA+ чувствовали себя вовлеченными, связанными и уважаемыми. Они также предоставляют обучение и руководство родителям, профессионалам, сообществам и организациям."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Tự do",
+      "description": "Trung tâm Tự do cung cấp một loạt các dịch vụ hỗ trợ rộng rãi cho người trẻ thuộc LGBTIQA+ ở WA, bao gồm các buổi tiếp đãi rơi rớt, phát triển cộng đồng, tư vấn và nhiều hơn nữa. Họ làm việc để làm cho tất cả người trẻ LGBTIQA+ cảm thấy được đưa vào, kết nối và tôn trọng. Họ cũng cung cấp đào tạo và hướng dẫn cho cha mẹ, chuyên gia, cộng đồng và tổ chức."
+    },
+    "ja-JP": {
+      "title": "フリーダムセンター",
+      "description": "フリーダムセンターは、WAのLGBTIQA+の若者向けの幅広いサポートサービスを提供しています。これには、ドロップインセッション、コミュニティ開発、カウンセリングなどが含まれます。彼らはすべてのLGBTIQA+の若者が包含され、つながりを感じ、尊重されるように働いています。また、親、専門家、コミュニティ、組織にトレーニングとガイダンスを提供しています。"
+    },
+    "ur-PK": {
+      "title": "آزادی مرکز",
+      "description": "آزادی مرکز LGBTIQA+ کے نوجوانوں کے لئے کشیدگی خدمات کا ایک بڑا دایرہ فراہم کرتا ہے، جو پاکستان بھر میں شامل ہے، جیسے آن لائن سیشن، کمیونٹی ڈیولپمنٹ، مشاورت اور بہت کچھ اور. وہ تمام LGBTIQA+ نوجوانوں کو یہ احساس دلاتے ہیں کہ وہ شامل ہیں، منسلک ہیں اور محترم ہیں. وہ ماں باپ، پیشہ ورانہ، کمیونٹیز اور تنظیموں کو تربیت اور رہنمائی بھی فراہم کرتے ہیں."
+    },
+    "ar-SA": {
+      "title": "مركز الحرية",
+      "description": "يقدم مركز الحرية مجموعة واسعة من خدمات الدعم للشباب المثليين والمثليين والثنائيين والعابرين والمستقلين والمستقيمين (LGBTIQA+) في ولاية غرب أستراليا، بما في ذلك جلسات الإسقاط، وتنمية المجتمع، والإرشاد والكثير غير ذلك. وهم يسعون نحو جعل جميع الشباب من المثليين والمثليين والثنائيين والعابرين والمستقلين والمستقيمين (LGBTIQA+) يشعرون بالانتماء والاتصال والاحترام. كما أنهم يقدمون تدريبات وإرشادات للوالدين، والمهنيين، والمجتمعات، والمنظمات."
+    },
+    "uk-UA": {
+      "title": "Центр Свободи",
+      "description": "Центр Свободи надає широкий спектр підтримуючих послуг для молодих людей ЛГБТІКА+ по всій Західній Австралії, включаючи зустрічі на свободну тему, розвиток громади, консультування та багато іншого. Вони працюють над тим, щоб усі молоді люди ЛГБТІКА+ відчували себе включеними, пов'язаними та поважаними. Вони також надають навчання та настанови для батьків, професіоналів, громад та організацій."
+    },
+    "mr-IN": {
+      "title": "स्वातंत्र्य केंद्र",
+      "description": "स्वातंत्र्य केंद्रने लिंब्सोव्हीआ+, तरुण माणसांसाठी एक प्रचंड सहाय्य सेवा एकीकृत केलेली आहे, त्यात ड्रॉप-इन सत्र, समुदाय विकास, मनोपचार आणि अधिक असे आहे. ते सर्व लिंब्सोव्हीआ+ तरुण माणसांना समाविष्ट, जोडलेले आणि सन्मानित वाटण्यासाठी काम करतात. ते माता-पिता, प्रामाणिक, समुदाये आणि संघटनांना प्रशिक्षण आणि मार्गदर्शन देतात."
+    },
+    "hi-IN": {
+      "title": "स्वतंत्रता केंद्र",
+      "description": "स्वतंत्रता केंद्र WA के आस-पास के LGBTIQA+ युवा लोगों के लिए व्यापक सहायता सेवाएं प्रदान करते हैं, जिसमें ड्रॉप-इन सत्र, समुदाय विकास, परामर्श और बहुत कुछ शामिल है। वे सभी LGBTIQA+ युवाओं को शामिल, जुड़ा हुआ और सम्मानित महसूस कराने की दिशा में काम करते हैं। वे माता-पिता, पेशेवरों, समुदायों और संगठनों को प्रशिक्षण और मार्गदर्शन भी प्रदान करते हैं।"
+    },
+    "bn-BD": {
+      "title": "ফ্রিডম সেন্টার",
+      "description": "ফ্রিডম সেন্টার এ সরবরাহ করা হয় বিস্তৃত পরিসর সেবা যেমন এলজিবিটিআইকিউএ+ যুবক যুবতীদের জন্যে ড্রপ-ইন সেশন, সম্প্রদায় উন্নয়ন, পরামর্শ এবং আরও অনেক কিছু। তারা সব এলজিবিটিআইকিউএ+ যুবক যুবতীদের অন্তর্গত, সংযুক্ত এবং সম্মানিত অনুভব করার উদ্দেশ্যে কাজ করে। তারা আরও প্রশিক্ষণ এবং নির্দেশনা প্রদান করে মাতা-পিতা, পেশাদার, সম্প্রদায় এবং সংস্থা এর জন্য।"
+    },
+    "ta-IN": {
+      "title": "சுதந்திரம் மையம்",
+      "description": "சுதந்திரம் மையம் WA உள்ள LGBTIQA+ இளைஞர்களுக்கு ஆதரவு சேவைகளின் ஒரு பெரிய விவகாரத்தை வழங்குகிறது, அதில் ட்ராப்-இன் அமைப்புகள், சமூக மேம்பாட்டு, ஆலோசனை மற்றும் பலவற்றை அடங்கவிட்டது. அவர்கள் அனைத்து LGBTIQA+ இளைஞர்களும் சேர்த்து வைக்க, தொடர்பு கொள்ளவும், மதிப்பிடப்படவும் என்பதை நோக்கி பணி செய்கின்றனர். அவர்கள் கூடுதலாக பெற்றோர்களுக்கு, வல்லுநர்களுக்கு, சமூகங்களுக்கு மற்றும் அமைப்புகளுக்கு பயிற்சி மற்றும் வழிகாட்டல் வழங்குகின்றனர்."
+    },
+    "te-IN": {
+      "title": "స్వేచ్ఛా కేంద్రం",
+      "description": "స్వేచ్ఛా కేంద్రం WA ఆధారితమైన LGBTIQA+ యువత పైబడి విపులమైన మద్దతు సేవలను అందించుతుంది, దీనిలో డ్రాప్-ఇన్ సెషన్లు, సముదాయ అభివృద్ధి, సంబంధ సమాధానం, మరియు మరెన్నో ఉన్నాయి. వారు అన్ని LGBTIQA+ యువతకు సేర్పుడు, కనెక్షన్, గౌరవానికి ఉండడానికి పని చెందుతున్నారు. వారు మాతృవర్గాలు, వృత్తివంతులు, సముదాయాలు మరియు సంస్థలకు ప్రశిక్షణ మరియు సలహాలు అందించారు."
+    }
+  }
+}

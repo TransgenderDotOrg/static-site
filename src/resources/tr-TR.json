@@ -36,6 +36,36 @@
     "description": "San Mateo County Pride Merkezi, LGBTQ+ topluluğu için işbirlik modeli bir organizasyon ve tek durak yeridir. Tüm yaş gruplarından LGBTQ+ topluluk üyelerini desteklemek için eğitim, eğitim, topluluk etkinlikleri, akran destek grupları, günlük programlama, klinik terapi ve dosya yönetimi dahil olmak üzere sağlam programlar ve hizmetler sunuyoruz."
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace, 2009 yılında LGBTIQ+ toplulukları tarafından LGBTIQ+ toplulukları için kurulan bir LGBTIQ+ sağlık ve iyilik hizmetidir. İlişkiler, aileler, ebeveynlik ve genç insanlar üzerine odaklanmaktadır ve Victoria'nın kuzey-batı metropolitan bölgesindeki hizmetleri bir arada sunmaktadır. Hizmetler arasında danışmanlık, durum yönetimi, savunma, destek hizmetleri, akran desteği, profesyonel gelişim, eğitim ve danışmanlık bulunmaktadır."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "Kendin yap hormon yerine koyma tedavisi (HRT) ile ilgilenen kişiler için canlı bir online topluluk ve bilgi merkezi. Web siteleri, kendi kendine uygulanan HRT için bilgi, kaynak ve destek erişebilecekleri güvenli ve kapsayıcı bir alan sağlamaya adanmıştır. Alternatif yöntemleri keşfediyor olun, dozaj ve uygulama üzerinde rehberlik arıyor olun, veya benzer deneyimleri paylaşan başkalarıyla bağlantı kurmayı arıyor olun, DIYHRT.cafe sağlık ve esenliğinizle ilgili bilinçli kararlar vermenize yardımcı olacak değerli içgörüler, kişisel hikayeler ve uzman tavsiyeleri sunar."
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "Ngunnawal, Ngunawal ve Ngambri Ülkesinde oturan DEiFYDEiFYQTIBIPOC Kolektifi",
+    "description": "Bu, DEiFYQTIBIPOC topluluğu için bir toplu toplantıdır. Grup ayrıca Queer Maskülinite Zine ve özel çalma listelerini de tartışacak."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "Transgender ve non-binary topluluk için kanıta dayalı araştırmalar, eğitim ve kaynaklar sağlamaya adanmış çığır açan bir çevrimiçi platform olan transfemscience.org, özellikle feminize hormon tedavisi (FHT) üzerine yoğunlaşıyor. Web siteleri, FHT'nin tıbbi, fizyolojik ve psikolojik yönleri hakkında güvenilir ve güncel bilgiler arayan bireyler için hayati bir merkez görevi görüyor. Hakemli çalışmalarının, uzman makalelerinin ve pratik rehberlerinin kapsamlı koleksiyonu ile site, bireylerin geçiş ve sağlık hakkında bilinçli kararlar vermelerini sağlar."
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "Meridyen",
+    "description": "Meridyen, 40 yıldan fazla bir süredir LGBTIQA+ topluluğuna destek olmakta ve savunma yapmaktadır. Canberra bölgesi genelinde HIV hizmetleri, refah hizmetleri, seks çalışanlarına yönelik ulaşım programları ve daha fazlası gibi çeşitli hizmetler ve programlar sunmaktadır."
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "Northern Territory AIDS ve Hepatit Konseyi Inc.",
+    "description": "Northern Territory'deki Kan Yolu Virüslerine karşı bir topluluk tepkisi, onların bulaşmasını ortadan kaldırmayı hedefliyor. LGBTİ yaşamını destekleme, seks işçisi seferberliğini teşvik etme ve sağlık tanıtımı ve sağlık klinikleri sağlama gibi bir dizi hizmet sunar."
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "Trans mevzuatı ve yaşam hakkında haberler ve tartışmalar. Erin Reed tarafından · 38.000'den fazla abone"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "Trans Health SA",
+    "description": "Trans Health SA, Güney Avustralya'daki trans ve cinsiyet çeşitliliği olan insanların sağlık ihtiyaçları için bilgi ve destek sağlamak amacıyla var olan bir gönüllü grubudur. Saygılı uygulayıcılar, tıbbi ve hukuki bilgi, destekleyici kuruluşlar, kurumlar, yayınlar, sosyal ve destek grupları listelerini ve trans topluluğu tarafından oluşturulan kaynakları sağlar."
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "Küresel LGBTQ+ hakları için kapsamlı ve güncel bir kaynak oluşturmayı hedefleyen yenilikçi bir çevrimiçi platform. Web siteleri, yasa, politika ve toplumsal tutumlar hakkında merkezi bir veri tabanı sunar ve bu bilgiler dünya çapında LGBTQ+ hakları açısından ele alınır. Eşitlik, kapsayıcılık ve yasal korumalar hakkındaki verileri görselleştirerek ve haritalandırarak, EqualDex.com, aktivistler, araştırmacılar ve LGBTQ+ hakları hakkında bilgi edinmek ve bunları küresel ölçekte savunmak isteyen bireyler için güçlü bir araç sunar. Interaktif haritalarını keşfedin, ülkeye özel profillere göz atın ve LGBTQ+ topluluğunu dünya çapında etkileyen en son ilerlemeler ve zorluklar hakkında bilgi sahibi olun."
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "A Gender Ajandası",
+    "description": "A Gender Agenda, interseks, trans ve cinsiyet çeşitliliği olan kişiler, onların arkadaşları, aileleri ve müttefiklerinin yanında ve onlar adına çalışır. Eğitim, savunuculuk, akran desteği ve profesyonel ağlar aracılığıyla, AGA insanları birbirine bağlar ve kolektif deneyimlerden yararlanır. Topluluk için birçok etkinlik ve kaynak sunarlar, bu arada destek grupları, eğitim, eğitici kaynaklar dahil. Savunuculuk ve kriz yardım hattı sağlarlar."
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "1973 yılında kurulan Pacific İnsan Büyümesi Merkezi, Bay Area'daki en eski LGBTQIA+ merkezi, ülkenin üçüncü en eski merkezi olup, yalnızca Alameda County'deki LGBTQIA+ ve QTBIPOC kişilere ve ailelerine ait ölçekli zihinsel sağlık kliniğini işletmektedir."
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "Transgender Victoria",
+    "description": "TGV, trans ve cinsiyet çeşitliliği olan kişiler için Victoria'nın önde gelen kuruluşudur. Biz, topluluklarımız, eşleri, aileleri, arkadaşları ve müttefikleri için adalet, eşitlik ve dahil olmayı hedefliyoruz. Transgender topluluğunun sosyal, ekonomik, sağlık, refah ve mental sağlık sonuçlarına yönelik çeşitli kaynaklar, eğitim, savunuculuk ve destek hizmetleri sunmaktayız."
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "Oakland'ın ilk kâr amacı gütmeyen 501c3, her yaştan, kapsayıcı LGBTQ toplum hizmet merkezi. Sunulan hizmetler arasında destek grupları, ruh sağlığı desteği, konut yardımı, gençlik programı, hukuki danışmanlık, gıda bankası vb. bulunmaktadır. Ayrıca yaşlı LGBTQ+ bireyler ve trans topluluk üyeleri için özel programlar düzenlenmektedir."
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "The Shed Melbourne",
+    "description": "Melbourne merkezli transmaskülen bireyler için bir destek grubu olan The Shed, akran destek toplantıları, spor salonu kulüpleri, kitap kulüpleri, mental sağlık kaynakları, cerrahi ve testosteron bilgi ve destek, baglayıcı programları ve daha fazlası gibi çeşitli etkinlikler ve kaynaklar sunmaktadır."
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "Güney Avustralya'da klinik hizmetler, cinsel sağlık danışmanlığı ve cinsel ve üreme sağlığı ve ilişki becerileri ile ilgili eğitim ve eğitim sağlayan bir sağlık organizasyonu. Ayrıca LGBTIQA+ topluluğu için desteği ve kapsayıcı hizmetleri sunar. Ayrıca, uluslararası transseksüel ve cinsiyet çeşitliliği topluluklarının haklarının ve tanımasının kutlanması ve savunulması faaliyetlerine katılırlar."
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "Zoe Belle Cinsiyet Kolektifi",
+    "description": "Zoe Belle Cinsiyet Kolektifi, profesyonel eğitim, atölye çalışmaları ve LGBTQI+ topluluğu için destek sunan, trans ve cinsiyet çeşitliliği olan kişiler tarafından yönetilen bir savunma örgütüdür. Toplum hizmetleri, çalışanlar, aileler ve arkadaşlar ve trans ve cinsiyet çeşitliliği olan bireyler için kaynaklar ve yardım sağlar. Ayrıca yakın zamanda Transfemme'yi, cis erkeklerin trans kadınlara yönelik şiddetine karşı bir önleyici girişim olarak başlattı."
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "Cinsiyet Çeşitliliği",
     "description": "Cinsiyet Çeşitliliği, tüm cinsiyet kimlikleri ve ifadeleri olan çocukların ve yetişkinlerin iyi oluşunu, eğitim sağlayarak, farkındalığı artırarak ve insan deneyiminin daha geniş yelpazesine içgörü kazandırarak iyileştirir. Ayrıca, okullarda, spor takımlarında, iş yerlerinde ve sağlık hizmeti sağlayıcılarda, trans ve cinsiyet çeşitliliği olan bireyler için destekleyici ve ayrımcılığa dayanmayan ortamların oluşturulmasına yardımcı oluruz."
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "İşkence ve Travma Kurtulanlarının Tedavi ve Rehabilitasyonu için NSW Servisi",
+    "description": "STARTTS, işkence ve mülteci travmasının yaralarından tedavi olmalarına yardımcı olmak için kültürel olarak ilgili psikolojik tedavi, toplum müdahaleleri ve hizmetlere eğitim sunar. Çeşitli cinsellikler, cinsiyetler, bedenler için güvenli ve destekleyici bir ortam yaratmayı amaçlarlar, bu da mültecileri ve sığınma arayanları içerir."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons, daha maskülen, feminen veya androjen olmayı hedefleyen transseksüel ve non-binary bireyler için kaliteli ses kontrolü ve özgürleştirme hizmetleri sunar."
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Çözümleme",
+    "description": "Çözümleme, Tasmania'nın cinsellik, cinsiyet ve interseks durumu destek ve eğitim hizmetidir. LGBTIQ+ Tazmanyalılar için destek ve savunma hizmetleri sağlar ve okullara, işyerlerine, hükümete ve hükümet dışı organizasyonlara eğitim ve eğitim programları sunar."
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour Sağlık",
+    "description": "Cinsiyet, cins ve cinsellik çeşitliliği olan topluluklar için sağlık ve iyilik hizmetleri sunan bir LGBTIQ+ topluluk kontrol organizasyonu, HIV desteği ve önlenmesi, danışmanlık ve aile içi şiddet hizmetleri dahil."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "The Gender Centre Inc.",
     "description": "The Gender Centre Inc., cinsiyet kimliğinin keşfini ve cinsiyet disforisinin hafifletilmesine yardımcı olabilecek çok çeşitli özel hizmetler sunmaktadır. Trans ve cinsiyet ifadesini yaşayan kişilere, kendilerini otantik olarak yaşama ve keşfetme yolculuklarının her aşamasında destek olmaktadır. Konaklama, davetsiz misafir yönetimi, eğitim & eğitim, danışmanlık & ruh sağlığı hizmetleri, gruplar, haberler ve kaynaklar sunmaktadır."
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "Özgürlük Merkezi",
+    "description": "Özgürlük Merkezi, WA çevresindeki LGBTIQA+ gençler için geniş kapsamlı destek hizmetleri sağlar, bunlar arasında düş-in seansları, toplum geliştirme, danışmanlık ve çok daha fazlası bulunur. Tüm LGBTIQA+ gençlerin dahil hissetmesi, bağlanması ve saygı görmesi için çalışırlar. Ayrıca ebeveynlere, profesyonellere, topluluklara ve organizasyonlara eğitim ve rehberlik sağlarlar."
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "East Bay Trans & Queer Danışmanlık",
     "description": "East Bay Trans & Queer Danışmanlık, merkezi Berkeley, CA'da bulunan bireysel terapi sunan, cinsiyet keşfi ve geçiş desteği, hormonlar ve cerrahi için tavsiye mektubu, akıl sağlığı sağlayıcıları, öğrenciler ve işverenler için profesyonel eğitimler sunan bir slayt ölçekli hizmetler sunar. Sam Davis, trans, queer, cinsiyetçi, cinsiyet-uyumsuz gençler ve yetişkinlerle çalışmada uzmanlaşmış bir Lisanlı Klinik Sosyal Çalışmacı (LCSW)'dır. East Bay'de bir akıl sağlığı sağlayıcısı olarak 16 yıllık tecrübeye sahiptirler, bu da LGBTQI konferanslarındaki topluluk eğitimi ve Alameda Eyaleti için ağır bir şekilde marjinalleştirilmiş insanlarla klinik uygulama ve kriz danışmanlığı yapmayı içerir. Marjinalleştirilmiş insanlar adına örgütlenme konusunda uzun bir geçmişe sahip güçlü ve kararlı bir savunucu olan Sam, aynı zamanda diğerleri için bilgilendirici bir rol modeldir."
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Denizatı Victoria Kulübü",
+    "description": "1975'te kurulan Denizatı Kulübü Victoria, trans topluluğu için kaynaklar, toplum hizmeti ve destek sağlar. Trans-dostu bir hizmet dizini ve üyelerin bağlantı kurabileceği yaklaşan bir çevrimiçi platformu içerir."
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "Transgender Haritası",
     "description": "Transgendermap.com, cinsiyet kimliği konusunda soruları olan veya transgender spektrumda bir yere sahip olan kişilere pratik bilgi ve rehberlik sağlamayı hedefleyen bir çevrimiçi kaynaktır. Web sitesi, transgender terminolojisini anlama, geçiş süreçleri, hukuki meseleler, sağlık hizmetleri ve sayısız kişisel hikâye gibi çok çeşitli konuları içerir. Amacı, insanların kişisel yolculuklarını, cinsiyet kimliğinin ve transgender deneyimlerinin birçok yönüne bir 'harita' veya rehber sağlayarak yönlendirmesine yardımcı olmaktır. En güncel ve doğru bilgi için lütfen gerçek siteyi ziyaret edin."
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk of WA",
+    "description": "Batı Avustralya'daki transseksüel insanlar ve sevdikleri için bir akran destek hizmeti. Çevrimiçi gruplar, önerilen hizmetler ve kaynaklar sunar ve çeşitli etkinlikler düzenler."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

@@ -1,0 +1,107 @@
+{
+  "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+  "slug": "thorne-harbour-health",
+  "externalUrl": "https://thorneharbour.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Thorne Harbour Health",
+      "description": "A LGBTIQ+ community-controlled organisation providing health and wellbeing services for sex, gender and sexuality diverse communities, including HIV support and prevention, counselling, and family violence services."
+    },
+    "es-ES": {
+      "title": "Thorne Harbour Health",
+      "description": "Una organización controlada por la comunidad LGBTIQ+ que brinda servicios de salud y bienestar para las comunidades diversas en cuanto a sexo, género y sexualidad, incluyendo apoyo y prevención del VIH, consejería y servicios de violencia familiar."
+    },
+    "pt-PT": {
+      "title": "Thorne Harbour Health",
+      "description": "Uma organização controlada pela comunidade LGBTIQ+ que proporciona serviços de saúde e bem-estar para comunidades de sexo, gênero e diversidade sexual, incluindo apoio e prevenção ao HIV, aconselhamento e serviços de violência familiar."
+    },
+    "tr-TR": {
+      "title": "Thorne Harbour Sağlık",
+      "description": "Cinsiyet, cins ve cinsellik çeşitliliği olan topluluklar için sağlık ve iyilik hizmetleri sunan bir LGBTIQ+ topluluk kontrol organizasyonu, HIV desteği ve önlenmesi, danışmanlık ve aile içi şiddet hizmetleri dahil."
+    },
+    "zh-CN": {
+      "title": "Thorne Harbour 健康",
+      "description": "一个由LGBTIQ+社区管理的组织，为性别，性别和性取向多样性社区提供健康和福祉服务，包括HIV支持和预防，咨询，和家庭暴力服务。"
+    },
+    "ko-KR": {
+      "title": "Thorne Harbour Health",
+      "description": "성, 성별 및 성적 다양성 커뮤니티를 위한 건강 및 웰빙 서비스를 제공하는 LGBTIQ+ 공동체 관리 조직으로, HIV 지원 및 예방, 상담, 가정 폭력 서비스를 포함합니다."
+    },
+    "id-ID": {
+      "title": "Thorne Harbour Health",
+      "description": "Sebuah organisasi yang dikendalikan oleh komunitas LGBTIQ+ yang menyediakan layanan kesehatan dan kesejahteraan untuk komunitas yang beragam dalam hal seks, gender dan seksualitas, termasuk dukungan dan pencegahan HIV, konseling, dan layanan kekerasan dalam keluarga."
+    },
+    "sw-KE": {
+      "title": "Thorne Harbour Health",
+      "description": "Shirika lililodhibitiwa na jamii ya LGBTIQ+ ambalo hutoa huduma za afya na ustawi kwa jamii mbalimbali za jinsia na jinsia, pamoja na msaada wa HIV na kuzuia, ushauri, na huduma za vurugu za familia."
+    },
+    "fr-FR": {
+      "title": "Thorne Harbour Health",
+      "description": "Une organisation contrôlée par la communauté LGBTIQ+ fournissant des services de santé et de bien-être pour les communautés diverses de sexe, de genre et de sexualité, y compris le soutien et la prévention du VIH, le conseil et les services de lutte contre la violence familiale."
+    },
+    "de-DE": {
+      "title": "Thorne Harbour Gesundheit",
+      "description": "Eine von der LGBTIQ+ Gemeinschaft kontrollierte Organisation, die Gesundheits- und Wohlfahrtsdienstleistungen für sexuell, geschlechtlich und sexuell vielfältige Gemeinschaften anbietet, einschließlich HIV-Unterstützung und -Prävention, Beratung und Dienstleistungen zur Bekämpfung von häuslicher Gewalt."
+    },
+    "vi-VN": {
+      "title": "Thorne Harbour Health",
+      "description": "Một tổ chức do cộng đồng LGBTIQ+ điều hành cung cấp các dịch vụ sức khỏe và hạnh phúc cho các cộng đồng đa dạng về tình dục, giới tính và tình dục, bao gồm hỗ trợ và phòng ngừa HIV, tư vấn, và dịch vụ bạo lực gia đình."
+    },
+    "ja-JP": {
+      "title": "ソーン・ハーバー・ヘルス",
+      "description": "LGBTIQ+ コミュニティがコントロールする健康と福祉サービスを提供する組織で、セックス、ジェンダー、セクシュアリティの多様なコミュニティを含む、HIVのサポートと予防、カウンセリング、家庭内暴力のサービスが含まれます。"
+    },
+    "uk-UA": {
+      "title": "Thorne Harbour Health",
+      "description": "Організація, контрольована спільнотою LGBTIQ+, яка надає послуги з охорони здоров'я та добробуту для різноманітних за статтю, гендером та сексуальністю громад, включаючи підтримку та профілактику ВІЛ, консультування та послуги у сфері сімейного насильства."
+    },
+    "mr-IN": {
+      "title": "Thorne Harbour Health",
+      "description": "लैंगिक, लिंग आणि स्वतंत्रता विविध समुदायांसाठी आरोग्य आणि कल्याण सेवा पुरवणारी एक LGBTIQ+ समुदाय-नियंत्रित संगठन, सह HIV समर्थन आणि रोखण, सल्लागारी, आणि कुटुंब हिंसा सेवा समाविष्ट."
+    },
+    "ru-RU": {
+      "title": "Thorne Harbour Health",
+      "description": "Организация, контролируемая сообществом ЛГБТИК+, предоставляющая услуги в области здоровья и благополучия для сексуально, гендерно и сексуально разнообразных сообществ, включая поддержку и профилактику ВИЧ, консультирование и услуги в области семейного насилия."
+    },
+    "ur-PK": {
+      "title": "ٹھورن ہاربور صحت",
+      "description": "ایک LGBTIQ+ برادری کنٹرول تنظیم جو جنس, لین دین اور جنسیت کی مختلف برادریوں کیلئے صحت و تندرستی کی خدمات فراہم کرتی ہے، جس میں HIV کی تعمیر و تحفظ، مشاورت، اور خاندانی تشدد کی خدمات شامل ہیں."
+    },
+    "hi-IN": {
+      "title": "Thorne Harbour Health",
+      "description": "एक LGBTIQ+ समुदाय नियंत्रित संस्था जो लिंग, यौन और सेक्सुअलिटी की विविधता वाले समुदायों के लिए स्वास्थ्य और कल्याण सेवाएं प्रदान करती है, जिनमें HIV समर्थन और रोकथाम, परामर्श, और परिवारिक हिंसा सेवाएं शामिल हैं।"
+    },
+    "ar-SA": {
+      "title": "ثورن هاربور الصحة",
+      "description": "منظمة تحت سيطرة المجتمع المثلي والمزدوج الجنس والمتحول جنسيًا والمتساوي الجنسين (LGBTIQ+) تقدم خدمات الصحة والرفاهية للمجتمعات المتنوعة الجنس والجنس والجنسية، بما في ذلك دعم الإصابة بالفيروس الإنقاحي المشترك والوقاية منه، والاستشارة، وخدمات العنف الأسري."
+    },
+    "bn-BD": {
+      "title": "Thorne Harbour Health",
+      "description": "একটি LGBTIQ+ সম্প্রদায়-নিয়ন্ত্রিত প্রতিষ্ঠান যা সেক্স, জেন্ডার এবং যৌনতা বৈচিত্র্যময় সম্প্রদায়গুলিকে স্বাস্থ্য এবং সুস্থতা পরিষেবা সরবরাহ করে, যার মধ্যে এইচআইভি সমর্থন এবং প্রতিরোধ, পরামর্শ, এবং পারিবারিক সহিংসতার সেবা অন্তর্ভুক্ত।"
+    },
+    "ta-IN": {
+      "title": "Thorne Harbour Health",
+      "description": "பாலின், பாலியல் மற்றும் இனத்தாற்றல் வேறுபாட்டு சமுதாயங்களுக்கான ஆரோக்கியம் மற்றும் நலன் சேவைகளை வழங்கும் ஒரு LGBTIQ+ சமுதாயத்தால் கட்டுமானமான அமைப்பு, இதில் HIV ஆதரவு மற்றும் தடை, ஆலோசனை, மற்றும் குடும்ப வன்முறை சேவைகள் உள்ளன."
+    },
+    "te-IN": {
+      "title": "Thorne Harbour Health",
+      "description": "సెక్స్, లింగం మరియు సెక్సుయాలిటీ విభిన్న సముదాయాలకు ఆరోగ్య మరియు సౌకర్యపెట్టే సేవలను అందిస్తున్న ఒక LGBTIQ+ సముదాయ నియంత్రిత సంస్థ. ఇది HIV మద్దతు మరియు నివారణ, ఆలోచనా పరామర్శ, మరియు కుటుంబ హింసా సేవలను కలిగి ఉంటుంది."
+    }
+  }
+}

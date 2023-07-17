@@ -1,0 +1,111 @@
+{
+  "id": "4a930816-9948-45d7-9513-393087685a01",
+  "slug": "trans-health-sa",
+  "externalUrl": "https://www.transhealthsa.com/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "SA",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/TransHealthSA",
+    "googleMapsUrl": null,
+    "yelpUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA is a volunteer group that exists to provide information and support for the health needs of trans and gender diverse people in South Australia. It provides lists of respectful practitioners, medical and legal information, information about supportive agencies, organizations, publications, social and support groups, and resources created by the transgender community."
+    },
+    "fr-FR": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA est un groupe de bénévoles qui existe pour fournir des informations et un soutien pour les besoins de santé des personnes transgenres et de diverse genre en Australie du Sud. Il fournit des listes de praticiens respectueux, des informations médicales et juridiques, des informations sur les agences de soutien, les organisations, les publications, les groupes sociaux et de soutien, et les ressources créées par la communauté transgenre."
+    },
+    "es-ES": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA es un grupo de voluntarios que existe para proporcionar información y apoyo para las necesidades de salud de las personas trans y de género diverso en Australia del Sur. Proporciona listas de profesionales respetuosos, información médica y legal, información sobre agencias de apoyo, organizaciones, publicaciones, grupos sociales y de apoyo, y recursos creados por la comunidad transgénero."
+    },
+    "zh-CN": {
+      "title": "南澳Trans健康",
+      "description": "南澳Trans健康是一个志愿者团队，存在的目的是为南澳大利亚的跨性别和性别多元人士提供健康需求的信息和支持。它提供尊重实践者的名单，医疗和法律信息，有关支持机构、组织、出版物、社交和支持团体的信息，以及由跨性别社区创建的资源。"
+    },
+    "de-DE": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA ist eine ehrenamtliche Gruppe, die es sich zur Aufgabe gemacht hat, Informationen und Unterstützung für die Gesundheitsbedürfnisse von trans und geschlechtlich vielfältigen Menschen in Südaustralien zu bieten. Sie bietet Listen von respektvollen Praktikern, medizinische und rechtliche Informationen, Informationen über unterstützende Agenturen, Organisationen, Publikationen, soziale und Unterstützungsgruppen und Ressourcen, die von der Transgender-Gemeinschaft erstellt wurden."
+    },
+    "id-ID": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA adalah sebuah grup sukarelawan yang ada untuk menyediakan informasi dan dukungan terkait kebutuhan kesehatan trans dan orang-orang dengan keanekaragaman gender di South Australia. Ini menyediakan daftar praktisi yang menghargai, informasi medis dan hukum, informasi tentang lembaga-lembaga yang mendukung, organisasi, publikasi, grup sosial dan dukungan, serta sumber daya yang dibuat oleh komunitas transgender."
+    },
+    "ko-KR": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA는 남호주주의 트랜스 및 성 다양성을 가진 사람들의 건강 요구를 위한 정보와 지원을 제공하기 위해 존재하는 자원봉사 그룹입니다. 이는 존중받는 실무자들의 목록, 의학 및 법률 정보, 지원 기관, 조직, 출판물, 사회 및 지원 그룹, 그리고 트랜스젠더 커뮤니티에서 만들어진 자료를 제공합니다."
+    },
+    "tr-TR": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA, Güney Avustralya'daki trans ve cinsiyet çeşitliliği olan insanların sağlık ihtiyaçları için bilgi ve destek sağlamak amacıyla var olan bir gönüllü grubudur. Saygılı uygulayıcılar, tıbbi ve hukuki bilgi, destekleyici kuruluşlar, kurumlar, yayınlar, sosyal ve destek grupları listelerini ve trans topluluğu tarafından oluşturulan kaynakları sağlar."
+    },
+    "sw-KE": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA ni kundi la wajitolea linalopo kutoa taarifa na msaada kwa mahitaji ya afya ya watu wa jinsia mbalimbali na wanaobadilishwa jinsia huko South Australia. Inatoa orodha za wataalm wa kiheshima, taarifa za kiafya na kisheria, taarifa kuhusu mashirika yanayounga mkono, mashirika, machapisho, vikundi vya kijamii na vya msaada, na rasilimali zilizoandaliwa na jamii ya watu wanaobadilisha jinsia."
+    },
+    "vi-VN": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA là một nhóm tình nguyện tồn tại để cung cấp thông tin và hỗ trợ cho nhu cầu sức khỏe của những người thuộc giới tính chuyển đổi và đa dạng về giới tính ở Nam Úc. Nó cung cấp danh sách các người thực hành tôn trọng, thông tin y tế và pháp lý, thông tin về các cơ quan hỗ trợ, tổ chức, ấn phẩm, nhóm xã hội và hỗ trợ, và các nguồn lực được tạo ra bởi cộng đồng người chuyển giới."
+    },
+    "pt-PT": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA é um grupo voluntário que existe para fornecer informações e suporte para as necessidades de saúde de pessoas trans e de gênero diverso no Sul da Austrália. Ele fornece listas de profissionais respeitosos, informações médicas e jurídicas, informações sobre agências de apoio, organizações, publicações, grupos sociais e de apoio, e recursos criados pela comunidade transgênero."
+    },
+    "ru-RU": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA - это волонтерская группа, существующая для предоставления информации и поддержки в вопросах здоровья транс- и гендерно-диверсифицированных людей в Южной Австралии. Она предоставляет списки уважающих практиков, медицинскую и юридическую информацию, информацию о поддерживающих агентствах, организациях, публикациях, социальных и поддерживающих группах, а также ресурсы, созданные трансгендерным обществом."
+    },
+    "ja-JP": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SAは、南オーストラリアのトランスジェンダーやジェンダーダイバーシティに対する健康上のニーズに情報と支援を提供することを目的としたボランティアグループです。それは、敬意を持って対応する医療専門家のリスト、医療および法律の情報、支援を行う機関や組織、出版物、社会的または支援グループ、そしてトランスジェンダーコミュニティによって作られたリソースについての情報を提供します。"
+    },
+    "ar-SA": {
+      "title": "Trans Health SA",
+      "description": "تعتبر Trans Health SA مجموعة تطوعية تعمل على تقديم المعلومات والدعم لاحتياجات الصحة للأشخاص ذوي الهوية الجندرية المختلفة في جنوب أستراليا. تقدم قوائم بالأطباء المحترمين، والمعلومات الطبية والقانونية، ومعلومات عن الوكالات الداعمة، والمنظمات، والمنشورات، والمجموعات الاجتماعية والدعم، والموارد التي أنشأها المجتمع العابر."
+    },
+    "uk-UA": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA - це група волонтерів, яка існує для надання інформації та підтримки здоров'я трансгендерних осіб та людей з різноманіттям статевої належності в Південній Австралії. Вона надає списки поважних спеціалістів, медичну та правову інформацію, інформацію про підтримуючі агентства, організації, публікації, соціальні й підтримуючі групи, а також ресурси, створені трансгендерною спільнотою."
+    },
+    "mr-IN": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA ही एक स्वयंसेवी संघटना आहे जी दक्षिण ऑस्ट्रेलियातील ट्रान्स आणि लिंग-विविध लोकांच्या आरोग्याच्या गरजांसाठी माहिती आणि मदत प्रदान करण्यासाठी अस्तित्वात आहे. ती सन्मानशील प्रविद्यांच्या याद्या, वैद्यकीय आणि कायदेशीर माहिती, सहाय्यक संस्थांची माहिती, संगठने, प्रकाशने, सामाजिक आणि समर्थन समूह आणि ट्रान्सजेंडर समुदायाने तयार केलेले साधने प्रदान करते."
+    },
+    "ur-PK": {
+      "title": "ٹرانس ہیلتھ ایس اے",
+      "description": "ٹرانس ہیلتھ ایس اے ایک رضاکار گروہ ہے جو جنوبی آسٹریلیا میں ٹرانس اور جنسی تنوعت پسند لوگوں کی صحت کی ضروریات کی معلومات اور مدد فراہم کرنے کے لئے موجود ہے۔ یہ محترمہ عملہ کی فہرستیں، طبی اور قانونی معلومات، سپورٹیو ایجنسیوں، تنظیموں، مطبوعات، سماجی اور سپورٹ گروپس اور ٹرانسجینڈر کمیونٹی کے طرف سے تیار کردہ وسائل کے بارے میں معلومات فراہم کرتا ہے۔"
+    },
+    "hi-IN": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA एक स्वयंसेवी समूह है जो दक्षिण ऑस्ट्रेलिया में ट्रांस और लिंग विविधता वाले लोगों की स्वास्थ्य आवश्यकताओं के लिए जानकारी और सहायता प्रदान करने के लिए मौजूद है। यह सम्मानजनक चिकित्सकों, चिकित्सीय और कानूनी जानकारी, समर्थक एजेंसियों, संगठनों, प्रकाशनों, सामाजिक और सहायता समूहों, और ट्रांसजेंडर समुदाय द्वारा बनाए गए संसाधनों की सूची प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "Trans Health SA",
+      "description": "Trans Health SA হল একটি স্বেচ্ছাসেবী গোষ্ঠী যা দক্ষিণ অস্ট্রেলিয়ার ট্রান্স এবং লিঙ্গ বৈচিত্র্যমূলক ব্যক্তিদের স্বাস্থ্য চাহিদা সমর্থন এবং তথ্য প্রদানের জন্য অস্তিত্ব ধারণ করে। এটি সম্ভাব্য চিকিত্সকদের তালিকা, মেডিকেল এবং আইন সম্পর্কিত তথ্য, সমর্থক সংস্থা, সংগঠন, প্রকাশনা, সামাজিক এবং সমর্থন গোষ্ঠী এবং ট্রান্সজেন্ডার সম্প্রদায় দ্বারা তৈরি সম্পদ সম্পর্কে তথ্য প্রদান করে।"
+    },
+    "ta-IN": {
+      "title": "டிரான்ஸ் ஹெல்த் SA",
+      "description": "டிரான்ஸ் ஹெல்த் SA என்பது தெற்கு ஆஸ்திரேலியாவின் மாறுபட்ட பாலினங்கள் மற்றும் பாலினத்தை மாற்றுவோரின் சுகாதார தேவைகளுக்கு ஆதரவு மற்றும் தகவல் வழங்குவதற்காக உள்ள தன்னார்வ குழு. இது மரியாதையுடன் உரிமையாளர்களின் பட்டியல், மருத்துவ மற்றும் சட்ட தகவல், ஆதரவு வழங்கும் தேவைகள், அமைப்புகள், வெளியீடுகள், சமூக மற்றும் ஆதரவு குழுக்கள் மற்றும் டிரான்ஸ்ஜென்டர் சமூகத்தால் உருவாகிய வளங்களை வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్ హెల్త్ ఎస్‌ఏ",
+      "description": "ట్రాన్స్ హెల్త్ ఎస్‌ఏ అనేది దక్షిణ ఆస్ట్రేలియాలోని ట్రాన్స్జెండర్ మరియు జెండర్ వివిధతల వ్యక్తుల ఆరోగ్య అవసరాలను సమర్థించే సమాచారం మరియు మద్దతు అందించే స్వయం సేవా సమూహం. దీనిలో గౌరవానికికి వైద్యుల జాబితా, మెడికల్ మరియు లీగల్ సమాచారం, మద్దతుగా ఉన్న ఏజెన్సీలు, సంస్థలు, ప్రచురణలు, సామాజిక మరియు మద్దతు గుంపులు, ట్రాన్స్జెండర్ సముదాయం సృష్టించిన వనరులను అందిస్తుంది."
+    }
+  }
+}

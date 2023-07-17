@@ -1,0 +1,27 @@
+{
+  "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+  "title": "Seahorse Victoria Club",
+  "description": "Est. 1975, Seahorse Club Victoria provides resources, community service and support for the transgender community. It includes a trans-friendly directory of services and an upcoming online platform for members to connect.",
+  "slug": "seahorse-victoria-club",
+  "externalUrl": "https://seahorsevic.com.au/",
+  "tags": [
+    "support-groups",
+    "community-stories",
+    "friendly-businesses"
+  ],
+  "address": "St Kilda VIC 3182, Australia",
+  "phoneNumber": "0401 455 198",
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "St Kilda",
+  "county": "Port Phillip",
+  "latLng": [
+    -37.864,
+    144.982
+  ],
+  "email": "seahorsevic@gmail.com",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

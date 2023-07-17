@@ -1,0 +1,27 @@
+{
+  "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+  "title": "Queerspace",
+  "description": "Queerspace is an LGBTIQ+ health and wellbeing support service established in 2009 by LGBTIQ+ communities for LGBTIQ+ communities. It has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria. Services include counselling, case management, advocacy, support services, peer support, professional development, training and consulting.",
+  "slug": "queerspace",
+  "externalUrl": "https://www.queerspace.org.au/",
+  "tags": [
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": "100 Drummond St, Carlton VIC 3053, Australia",
+  "phoneNumber": "03 9663 6733",
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "Carlton",
+  "county": "City of Melbourne",
+  "latLng": [-37.8043894, 144.9681606],
+  "email": "enquiries@ds.org.au",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

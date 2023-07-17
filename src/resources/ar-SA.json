@@ -36,6 +36,36 @@
     "description": "مركز سان ماتيو كاونتي للفخر هو منظمة نموذج تعاون ومحطة واحدة لخدمة المجتمع المثلي. نحن نقدم برامج وخدمات قوية لدعم أعضاء المجتمع المثلي من جميع الأعمار، بما في ذلك التعليم، التدريب، الأحداث المجتمعية، مجموعات الدعم النظير، برمجة يومية، العلاج السريري، والإدارة الحالة."
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "كويرسبيس",
+    "description": "كويرسبيس هو خدمة دعم صحة ورفاهية لـ LGBTIQ+ تأسست في عام 2009 من قبل مجتمعات LGBTIQ+ لأجل مجتمعات LGBTIQ+. يركز على العلاقات والأسر والأبوة والأمومة والشباب ويقدم خدمات متجانسة في منطقة فكتوريا الحضرية الشمالية الغربية. تتضمن الخدمات المشاورة وإدارة الحالات والدعم وخدمات الدعم ودعم الأقران والتطوير المهني والتدريب والاستشارة."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "مجتمع اونلاين نابض بالحياة ومركز معرفة للأشخاص المهتمين بالعلاج الهرموني البديل (HRT). موقعهم على الويب مُ dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. سواء كنت تستكشف الأساليب البديلة، أو تبحث عن التوجيه حول الجرعة والإدارة، أو ببساطة تبحث عن التواصل مع الآخرين الذين يشاركون تجارب مماثلة، يقدم DiyHRT.cafe ثروة من الإطلاعات القيمة, قصص شخصية, ونصائح خبير لمساعدتك في اتخاذ قرارات مستنيره بشأن صحتك ورفاهيتك."
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "جمعية DEiFYDEiFYQTIBIPOC الموجودة في نجوناول، ناغوال وناغامبري",
+    "description": "هذا اجتماع جمعي لمجتمع DEiFYQTIBIPOC. سيناقش المجموعة أيضًا مجلة الذكور الكبيرة وقائمة أغانيهم المحددة."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "منصة عبر الإنترنت رائدة تُكرس لتقديم البحوث والتعليم والموارد المستندة إلى الأدلة للمجتمع المتحول وغير الثنائي، مع التركيز بشكلٍ خاص على العلاج بالهرمونات المؤنثة (FHT). تعمل موقعهم على الإنترنت كمركز حيوي للأفراد الذين يبحثون عن معلومات ثابتة ومُحدثة عن الجوانب الطبية والفيزيولوجية والنفسية لـ FHT. من خلال مجموعتهم الشاملة من الدراسات التي تمت مراجعتها من قبل الأقران، ومقالات الخبراء، والدلائل العملية، يُمكِّن موقعهم الأفراد من اتخاذ قرارات مستنيرة بشأن عملية التحول والصحة."
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "ميريديان",
+    "description": "تدافع ميريديان عن المجتمع LGBTIQA+ وتدعمه منذ أكثر من 40 عاماً، وتقدم مجموعة من الخدمات والبرامج في منطقة كانبيرا مثل خدمات HIV، وخدمات الرفاهية، وبرامج التواصل مع عمال الجنس وأكثر من ذلك."
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "المجلس الشمالي للإيدز والتهاب الكبد الدموي Inc.",
+    "description": "استجابة المجتمع للفيروسات المنقولة بالدم في الإقليم الشمالي، بهدف القضاء على انتقالها. يقدم مجموعة من الخدمات مثل دعم المثليين والمزدوجين والمتحولين جنسيا والمشتهرين بالكآبة، وتعزيز التواصل مع العاملين في مجال الجنس، وتقديم التشجيع على الصحة والعيادات الصحية."
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "أخبار ومناقشات حول التشريعات الخاصة بالمتحولين جنسياً والحياة. بواسطة إيرين ريد · أكثر من 38,000 مشترك"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "Trans Health SA",
+    "description": "تعتبر Trans Health SA مجموعة تطوعية تعمل على تقديم المعلومات والدعم لاحتياجات الصحة للأشخاص ذوي الهوية الجندرية المختلفة في جنوب أستراليا. تقدم قوائم بالأطباء المحترمين، والمعلومات الطبية والقانونية، ومعلومات عن الوكالات الداعمة، والمنظمات، والمنشورات، والمجموعات الاجتماعية والدعم، والموارد التي أنشأها المجتمع العابر."
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "منصة عبر الإنترنت مبتكرة تهدف إلى إنشاء مورد شامل ومحدث لحقوق LGBTQ+ العالمية. يوفر موقعهم قاعدة بيانات مركزية للقوانين والسياسات والمواقف المجتمعية تجاه حقوق LGBTQ+ في جميع أنحاء العالم. من خلال رسم البيانات وتصويرها بشكل بصري على الإنصاف والشمولية والحماية القانونية، يقدم EqualDex.com أداة قوية للنشطاء والباحثين والأفراد الذين يسعون لفهم والدعوة إلى حقوق LGBTQ+ على نطاق عالمي. استكشف خرائطهم التفاعلية، وتصفح الملفات الشخصية الخاصة بالبلد، وابق على اطلاع على أحدث التطورات والتحديات التي تواجه مجتمع LGBTQ+ في جميع أنحاء العالم."
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "جدول الجنس",
+    "description": "جدول الجنس يعمل مع ونيابة عن أشخاص الجنس المتداخل ، العابرين والمتنوعين، وأصدقائهم وأسرهم وحلفائهم. من خلال التعليم والدعوة والدعم بين الأقران والشبكات المهنية ، يربط AGA الأشخاص ببعضهم ويبني على التجارب الجماعية. يقدمون العديد من الفعاليات والموارد للمجتمع، بما في ذلك مجموعات الدعم، التدريب، الموارد التعليمية. يقدمون الدعوة وخط المساعدة أثناء الأزمات."
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "تأسس في عام 1973، مركز المحيط الهادئ للنمو البشري هو أقدم مركز لـ LGBTQIA+ في منطقة خليج سان فرانسيسكو، والثالث الأقدم في البلاد، ويدير العيادة النفسية الوحيدة التي تتبع نظام السعر المنزلق لـ LGBTQIA+ و QTBIPOC وعائلاتهم في مقاطعة ألاميدا."
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "ترانزجندر فيكتوريا",
+    "description": "ترانزجندر فيكتوريا هي الجهة الرائدة في فيكتوريا للأشخاص ذوي الهوية الجندرية المختلفة. نعمل على تحقيق العدالة والمساواة والاندماج لمجتمعاتنا وشركائها وعائلاتها وأصدقائها وحلفائها. نقدم مجموعة متنوعة من الموارد والتدريب والدعم والخدمات الموجهة للنتائج الاجتماعية والاقتصادية والصحية والرفاهية والصحة العقلية للمجتمع الترانزجندر."
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "أول مركز خدمة مجتمعية غير ربحي يعود تأسيسه لـ501c3 في لوس أنجلوس، يقبل جميع الأعمار ومن جميع الأطياف، والذي يشمل مجتمع المثليين والمثليات ومزدوجي الجنس. الخدمات المقدمة تشمل مجموعات الدعم، الدعم النفسي، المساعدة السكنية، برنامج الشباب، العيادة القانونية، مستودع الطعام، إلخ. كما يتم إجراء برامج خاصة أيضًا للمثليين والمثليات المسنين وأفراد مجتمع المتحولين جنسيا."
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "الحظيرة ملبورن",
+    "description": "جماعة دعم مقرها ملبورن للأفراد ذات التوجه الجنسي عابر، تقدم العديد من الأحداث والموارد مثل اجتماعات الدعم بين الأقران، أندية الجيم، النوادي الأدبية، الموارد الصحية النفسية، معلومات ودعم العمليات الجراحية و التستوستيرون، برامج الرابطة، وأكثر."
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "منظمة صحية في جنوب أستراليا تقدم الخدمات السريرية، والإرشاد الصحي الجنسي والتعليم والتدريب المتعلق بالصحة الجنسية والإنجابية ومهارات العلاقات. كما يقدم الدعم والخدمات المتضمنة لمجتمع LGBTIQA+. كما أنهم يشاركون في الاحتفال والدعوة إلى حقوق واعتراف مجتمعات الترانسجندر والجنس الآخر على الصعيد الدولي."
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "Zoe Belle Gender Collective",
+    "description": "Zoe Belle Gender Collective هي منظمة تطالب بقيادة الأحاديث المتحولة والمتنوعة جنسياً وتقدم التدريب المهني وورش العمل والدعم للمجتمع LGBTQI+. تقدم الموارد والمساعدة لخدمات المجتمع والعمال والأسر والأصدقاء والأفراد المتحولين والمتنوعين جنسياً. كما أطلقت مؤخرًا Transfemme ، وهي مبادرة وقائية ضد العنف الذي يمارسه الرجال السيسجنديين تجاه النساء المتحولات."
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "التنوع الجنسي",
     "description": "يعمل التنوع الجنسي على تحسين رفاهية الأطفال والبالغين من كافة الهويات والتعبيرات الجنسية من خلال توفير التعليم وزيادة الوعي وتقديم الرؤية حول النطاق الأوسع من التجربة البشرية. كما نقوم بالمساعدة في خلق بيئات داعمة وغير تمييزية في المدارس والفرق الرياضية وأماكن العمل ومقدمي الرعاية الصحية للأفراد من المتحولين جنسيا والذين يتمتعون بتنوع جنسي."
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "خدمة NSW للعلاج والتأهيل للناجين من العذاب والصدمة",
+    "description": "يقدم STARTTS العلاج النفسي ذو الصلة بالثقافة، والتدخلات المجتمعية، والتدريب على الخدمات لمساعدة الأشخاص على الشفاء من جروح العذاب وصدمة اللاجئين. يهدفون إلى خلق بيئة آمنة وداعمة للتنوعات الجنسية، الأجناس، والأجساد بما في ذلك اللاجئين وطالبي اللجوء."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "توفر TransVoiceLessons خدمات السيطرة على الصوت والتحرر ذات الجودة للأفراد المتحولين جنسياً وغير الثنائيين الذين يهدفون إلى البدو بصوت أكثر رجولة أو أنوثة أو عدم تحديد الجنس."
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "العمل على حلها",
+    "description": "العمل على حلها هو خدمة دعم وتعليم الجنسانية والجنس ووضع الشخص الثنائي في تاسمانيا. يقدم دعماً وخدمات الدفاع عن حقوق الأشخاص من الشركة المستهدفة من التصنيفات الجنسية والجنس + في تاسمانيا وبرامج التعليم والتدريب إلى المدارس وأماكن العمل والحكومة والمنظمات غير الحكومية."
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ثورن هاربور الصحة",
+    "description": "منظمة تحت سيطرة المجتمع المثلي والمزدوج الجنس والمتحول جنسيًا والمتساوي الجنسين (LGBTIQ+) تقدم خدمات الصحة والرفاهية للمجتمعات المتنوعة الجنس والجنس والجنسية، بما في ذلك دعم الإصابة بالفيروس الإنقاحي المشترك والوقاية منه، والاستشارة، وخدمات العنف الأسري."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "مركز الجندر إنك.",
     "description": "يقدم مركز الجندر إنك. مجموعة واسعة من الخدمات المتخصصة التي تتيح استكشاف الهوية الجندرية والمساعدة في تخفيف الاضطراب الجنسي. يدعم الأشخاص ذوي التعبير الجندري والمتحولين جنسياً في كل مرحلة من رحلتهم أثناء استكشافهم وعيشهم لمعنى الذات الحقيقي. يقدم الإقامة، إدارة الحالات، التعليم والتدريب، خدمات الإرشاد والصحة النفسية، المجموعات، الأخبار، والموارد."
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "مركز الحرية",
+    "description": "يقدم مركز الحرية مجموعة واسعة من خدمات الدعم للشباب المثليين والمثليين والثنائيين والعابرين والمستقلين والمستقيمين (LGBTIQA+) في ولاية غرب أستراليا، بما في ذلك جلسات الإسقاط، وتنمية المجتمع، والإرشاد والكثير غير ذلك. وهم يسعون نحو جعل جميع الشباب من المثليين والمثليين والثنائيين والعابرين والمستقلين والمستقيمين (LGBTIQA+) يشعرون بالانتماء والاتصال والاحترام. كما أنهم يقدمون تدريبات وإرشادات للوالدين، والمهنيين، والمجتمعات، والمنظمات."
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "استشارات East Bay Trans وQueer",
     "description": "تقدم استشارات East Bay Trans & Queer خدمات بمقياس متزلج تشمل: العلاج الفردي والذي يقع في موقع مركزي في بيركلي، كاليفورنيا. الدعم من خلال استكشاف الجنس والانتقال، رسائل توصية للهرمونات والجراحة، وتدريبات مهنية لمقدمي الرعاية الصحية النفسية، الطلاب، وأصحاب العمل. سام ديفيس هو عامل اجتماعي سريري مرخص ، محول جنسيا ، وهو مختص في العمل مع المراهقين والبالغين الذين يظهرون كمثلي الجنس، المثليين، المحولين جنسيا، والذين لا يحددون جنسهم. لديهم 16 عامًا من الخبرة كمقدم للرعاية الصحية العقلية في East Bay، بما في ذلك تسهيل دعم مجموعات الأقران، والتعليم المجتمعي في المؤتمرات LGBTQI، و9 سنوات من الممارسة السريرية والاستشارة في الأزمات مع الأشخاص المهمشين بشدة لمقاطعة ألاميدا. إنهم مدافع قوي وملتزم لديه تاريخ طويل في التنظيم نيابة عن الأشخاص المهمشين."
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "نادي Seahorse Victoria",
+    "description": "تأسس عام 1975، يوفر نادي Seahorse Victoria الموارد والخدمة المجتمعية والدعم لمجتمع المتحولين جنسياً. ويشمل دليلاً صديقاً للأشخاص المتحولين جنسياً للخدمات ومنصة عبر الإنترنت قادمة لتواصل الأعضاء."
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "خريطة المتحولين جنسيا",
     "description": "موقع Transgendermap.com هو مورد عبر الإنترنت يهدف إلى تقديم معلومات عملية وإرشادات للأشخاص الذين يتساءلون حول هويتهم الجندرية أو الموجودين في أي مكان على طيف المتحولين جنسيا. يتضمن الموقع نطاقًا واسعًا من الموضوعات مثل فهم مصطلحات المتحولين جنسيا، عمليات الانتقال، القضايا القانونية، الرعاية الصحية، والعديد من القصص الشخصية. هدفها هو مساعدة الأفراد على التنقل في رحلاتهم الشخصية من خلال تقديم 'خريطة' أو دليل للعديد من جوانب الهوية الجندرية وتجارب المتحولين جنسيا. يرجى زيارة الموقع الفعلي للحصول على المعلومات الأكثر حداثة ودقة."
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk of WA",
+    "description": "خدمة الدعم بين الأقران للأشخاص المتحولين جنسياً وأحبائهم في غرب أستراليا. تقديم مجموعات عبر الإنترنت والخدمات والموارد الموصى بها، وتنظيم العديد من الأحداث."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

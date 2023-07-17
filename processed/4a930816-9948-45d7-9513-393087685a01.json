@@ -1,0 +1,27 @@
+{
+  "id": "4a930816-9948-45d7-9513-393087685a01",
+  "title": "Trans Health SA",
+  "description": "Trans Health SA is a volunteer group that exists to provide information and support for the health needs of trans and gender diverse people in South Australia. It provides lists of respectful practitioners, medical and legal information, information about supportive agencies, organizations, publications, social and support groups, and resources created by the transgender community.",
+  "slug": "trans-health-sa",
+  "externalUrl": "https://www.transhealthsa.com/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "SA",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/TransHealthSA",
+    "googleMapsUrl": null,
+    "yelpUrl": null
+  }
+}

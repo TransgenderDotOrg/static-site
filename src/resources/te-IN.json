@@ -36,6 +36,36 @@
     "description": "సాన్ మాటెయో కౌంటీ ప్రైడ్ సెంటర్ ఒక సహకార మోడల్ సంస్ధ మరియు LGBTQ+ సముదాయానికి ఒక ఐక్య శాప్. మామూలు పరిశోధనలు, సేవల మరియు పోషకత్వాంశాలు అందిస్తోంది , అన్ని వయసు వర్గాల LGBTQ+ సముదాయ సభ్యులకు పఠన, శిక్షణ, సముదాయ కార్యక్రమాలు, సహపాఠి మద్దతు సమూహాలు, రోజువారీ ప్రోగ్రమింగ్, క్లినికల్ చికిత్స, మరియు కేస్ మేనేజ్మెంట్."
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace అనేది 2009లో LGBTIQ+ సముదాయాల ద్వారా LGBTIQ+ సముదాయాల కోసం ఏర్పాటు చేయబడిన ఆరోగ్య మరియు మంచిదైన మద్దతు సేవ. ఇది సంబంధాలు, కుటుంబాలు, మాతాపితలత్వం, యువత మరియు విక్టోరియా యొక్క ఉత్తర-పశ్చిమ ప్రభుత్వాంగ ప్రాంతాల్లో సామూహికగా ఉన్న సేవలను ముఖ్యంగా పట్టించుకుంటుంది. సేవలు కౌన్సిలింగ్, కేసు నిర్వహణ, అభియోగ, మద్దతు సేవలు, సహజీవన మద్దతు, వృత్తిమార్గ అభివృద్ధి, ప్రశిక్షణ మరియు సలహా అనేవి ఉన్నాయి."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "డూ-ఇట్-యొవర్సెల్ఫ్ హార్మోన్ రిప్లేస్మెంట్ థెరపీ (HRT) పై ఆసక్తి ఉన్న వ్యక్తుల కోసం తెలివైన సముదాయం మరియు జ్ఞాన కేంద్రం ఏదైనా DIYHRT.cafe. వారి వెబ్‌సైట్ స్వయం నిర్వహించే HRTకు సమాచారం, వనరులు, మరియు మద్దతును ఆందోళన చేసే సురక్షిత మరియు సమావేశక స్థలంగా ఉంది. మీరు ప్రత్యామ్నాయ పద్ధతులను అన్వేషిస్తున్నారా, డోసేజీ మరియు నిర్వహణ పై మార్గదర్శనను శోధిస్తున్నారా, లేదా మీకు అనుభవాలు ఉన్నవారితో కనెక్ట్ చేయాలని కోరుకుంటున్నారా, DIYHRT.cafe మీ ఆరోగ్య మరియు సంకల్పాత్మక నిపుణ సలహా, వ్యక్తిగత కథనాలు, మరియు అరుదైన సమాచారాన్ని అందించడానికి సంపన్నం."
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "DEiFYDEiFYQTIBIPOC సమూహం Ngunnawal, Ngunawal మరియు Ngambri దేశంలో ఉంది",
+    "description": "ఇది DEiFYQTIBIPOC సముదాయానికి ఒక సమూహిక సమావేశం. సమూహం Queer Masculinities Zine మరియు వారి ప్రత్యేక ప్లేలిస్ట్ గురించి కూడా చర్చించబోతోంది."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "ఎవిడెన్స్-బేస్డ్ రీసెర్చ్, ఎడ్యుకేషన్, మరియు ట్రాన్స్జెండర్ మరియు నాన్-బైనరీ కమ్మునిటీకు సమర్పించిన సంక్షిప్తమైన ఆన్‌లైన్ వేదిక 'transfemscience.org', ముఖ్యంగా స్త్రీ హార్మోన్ చికిత్స (FHT) పై కేంద్రీకృత గా ఉంది. వారి వెబ్సైట్ సమాచారం, శారీరక మరియు మానసిక అంగాలపై విశ్వసనీయ మరియు తాజా సమాచారాన్ని కోరుతున్న వ్యక్తులకు మైన కేంద్రంగా పని చేస్తుంది. వారి సమగ్ర సపీర్-రివ్యూ పరిశోధనల, నిపుణుల వ్యాసాల, మరియు ప్రయోజనకర గైడ్‌ల సంగ్రహం ద్వారా, వారి సైట్ వ్యక్తులకు వారి మార్పు మరియు ఆరోగ్యం గురించి సమాజ్ఞ తీర్పులను సాధించటానికి అధికారికతని ఇస్తుంది."
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "Meridian",
+    "description": "मेरिडियन 40 సంవత్సరాలుగా LGBTIQA+ సముదాయానికి మద్దతు ఇవ్వడానికి, మరియు  అందుబాటులో ఉండడానికి, మరియు ప్రోగ్రాములను అందిస్తుంది. ఇలాంటివి HIV సేవలు, ఆరోగ్య సేవలు, లైంగిక పనిమనిషి ప్రయాణిక ప్రోగ్రాములు మరియు మరిన్ని ఉదాహరణకు కెనబెరా ప్రాంతం అగ్రగమ్యంగా ఉన్నాయి."
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "నార్తర్న్ టెరిటరీ ఎయిడ్స్ మరియు హెపటైటిస్ కౌన్సిల్ ఇన్క్.",
+    "description": "నార్తర్న్ టెరిటరీలో బ్లడ్ బోర్న్ వైరసీలకి సంఘ స్పందన. వాటి ప్రచారణాన్ని పూర్తిగా అమలు చేపడుటకు ప్రయత్నిస్తోంది. LGBTI లివింగ్‌ను మద్దతు చేయడానికి, సెక్స్ పనిమనిషి ఔట్ రీచ్‌ను ప్రచారించడానికి మరియు ఆరోగ్య ప్రచారము మరియు ఆరోగ్య క్లినిక్స్ అందించడానికి ఒక విధంగా సేవలు అందిస్తుంది."
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "ట్రాన్స్ చట్టపు మరియు జీవనం పై వార్తలు మరియు చర్చ. ఈరిన్ రీడ్ చేత · అధిక 38,000 చందాదారులు"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "ట్రాన్స్ హెల్త్ ఎస్‌ఏ",
+    "description": "ట్రాన్స్ హెల్త్ ఎస్‌ఏ అనేది దక్షిణ ఆస్ట్రేలియాలోని ట్రాన్స్జెండర్ మరియు జెండర్ వివిధతల వ్యక్తుల ఆరోగ్య అవసరాలను సమర్థించే సమాచారం మరియు మద్దతు అందించే స్వయం సేవా సమూహం. దీనిలో గౌరవానికికి వైద్యుల జాబితా, మెడికల్ మరియు లీగల్ సమాచారం, మద్దతుగా ఉన్న ఏజెన్సీలు, సంస్థలు, ప్రచురణలు, సామాజిక మరియు మద్దతు గుంపులు, ట్రాన్స్జెండర్ సముదాయం సృష్టించిన వనరులను అందిస్తుంది."
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "ప్రపంచ వ్యాప్తంగా ఎల్జిబిటిక్యు+ హక్కుల కోసం ఓ వ్యాపకమైన మరియు తాజాగా ఉన్న వనరులను సృష్టించడానికి ముంగిలియు అన్ని విధాలలో ఉన్న ఒక ఆన్‌లైన్ వేదికగా EqualDex.com. వారి వెబ్‌సైట్ ప్రపంచవ్యాప్తంగా ఎల్జిబిటిక్యు+ హక్కుల పై చట్టాలు, విధానాలు, మరియు సమాజ దృష్టికోణాల కేంద్రీకృత డేటాబేస్‌ను అందిస్తుంది. సమానత్వ, సమావేశత, మరియు చట్టానికి ఉన్న రక్షణకు డేటాను మ్యాపింగ్ మరియు కనుగొనడం ద్వారా, EqualDex.com కృతాగ్నులు, పరిశోధకులు, మరియు ఎల్జిబిటిక్యు+ హక్కుల కోసం ప్రపంచ వ్యాపరాన్ని అర్థం చేసే మరియు అభ్యర్థించే వ్యక్తుల కోసం ఒక శక్తివంతమైన పరికరం మరియు ఒక ఉపకరణంగా పనిచేస్తుంది. వారి ప్రత్యేకితనమైన మ్యాప్లను అన్వేషించండి, దేశ ప్రత్యేకానికి ప్రొఫైల్‌లను బ్రౌజ్ చేయండి, మరియు ఎల్జిబిటిక్యు+ సముదాయంపై ఎదురుచూసే తాజా సంఘటనలు మరియు సవాలులు పై తెలివిగా ఉండండి."
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ఒక లింగ అజెండా",
+    "description": "అ లింగ అజెండా అంతర్జనాన, ట్రాన్స్ మరియు లింగ వైవిధ్యత ఉన్న వ్యక్తుల తో, వారి స్నేహితులు, కుటుంబాలు, మరియు మిత్రులు ప్రత్యామ్నాయంగా పని చేస్తుంది. విద్యాశాఖ, హక్కుల గురించి ప్రచారం, సహజాతి మద్దతు, మరియు ప్రొఫెషనల్ నెట్వర్క్స్ ద్వారా, AGA వ్యక్తులను ఒకరి నుండి మరొకరికి కలుగుజేస్తుంది మరియు సమూహ అనుభవాలను పాఠ్యాంశంగా ఉపయోగిస్తుంది. సముదాయ కోసం అనేక సంఘటనలు మరియు వనరులను అందిస్తుంది, అందులో మద్దతు సమూహాలు, శిక్షణ, విద్యా సంపద. అవి హక్కుల గురించి ప్రచారం మరియు సంక్షోభ హెల్ప్ లైన్ అందించనున్నాయి."
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "1973లో స్థాపించిన Pacific Center for Human Growth, బే ఏరియాలో అతి పాత లెస్బియన్లు, గేయ్స్, బై సెక్సుయల్, ట్రాన్స్, అండిఖానీ సెంటర్, దేశంలో మూడవ, మాత్రమే అలమేడా కౌంటీలో లెస్బియన్లు, గేయ్స్, బై సెక్సుయల్, LGBTQIA+ మరియు QTBIPOC ప్రజలు మరియు వారి కుటుంబాలకు మాత్రమే మానసిక ఆరోగ్య క్లినిక్ నిర్వహిస్తోంది."
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "ట్రాన్స్ జెండర్ విక్టోరియా",
+    "description": "TGV విక్టోరియాలోని ట్రాన్స్‌లు మరియు లింగ విభేదాల ఉన్న ప్రజల కోసం ముందును జార్చే సంస్థ. మా కమ్యూనిటీలకు, వారి భార్యభర్తలు, కుటుంభాలు, స్నేహితులు మరియు మిత్రులకు న్యాయం, సమానత్వం మరియు సమావేశం పొందడానికి మేము పనిచేస్తాము. మాకు వివిధ సంపద, శిక్షణ, మనవహక్కుల పరిరక్షణ, మరియు మదదు సేవలు ఉన్నాయి జోకు ట్రాన్స్ జెండర్ కమ్యూనిటీ కోసం సామాజిక, ఆర్థిక, ఆరోగ్య, సౌభాగ్యం, మరియు మానసిక ఆరోగ్య ఫలితాలను లక్ష్యించడానికి."
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "ఓక్లాండ్ యొక్క మొదటి సర్వత్ర ఆఫ్రోఫిట్ 501c3, అన్ని ఆయుస్సుల ప్రజలకు, అన్ని భాగస్వాముల కలిగిన LGBTQ సముదాయ సేవా కేంద్రం. మాతృభాషాసహాయ సమూహాలు, మానసికతత్వశాస్త్ర సమర్థనం, నివాస సహాయం, యువక ప్రోగ్రామ్, చట్టప్రతి క్లినిక్, ఆహార పానీయాల అంగరాఖణ మొదలగునే సేవలు అందించబడుచున్నాయి. LGBTQ+ ముత్యుల ప్రజలు మరియు త్రితీయ లింగి సముదాయ సభ్యుల కోసం ప్రత్యేక ప్రోగ్రాములు కూడా నిర్వహించబడుతున్నాయి."
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "ది షెడ్ మెల్బర్న్",
+    "description": "ట్రాన్స్మాస్క్యులిన్ వ్యక్తులకు ధృవీకరించిన ఒన్నయిన మెల్బర్న్ ఆధారిత మద్దతు సమూహం, సమవాయ మండలి సభలు, బడి క్లబ్లు, పుస్తక క్లబ్లు, మానసిక ఆరోగ్య సంపదలు, శస్త్ర చికిత్స మరియు టెస్టోస్టెరోన్ సమాచారం మరియు మద్దతు, బైండర్ కార్యక్రమాలు, మరింత మరియు."
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "దక్షిణ ఆస్ట్రేలియాలోని ఒక ఆరోగ్య సంస్థ ఇది, యేందు వైద్యుడు సేవలు, జేండర్ ఆరోగ్య సంబంధిత కన్సెలింగ్ మరియు శిక్షణను మరియు సంబంధాలు మరియు సంబంధాలకు సంబంధించిన వికసన ప్రమాణంగా సమర్ధిస్తుంది. ఇది కూడా LGBTIQA+ కమ్యునిటీకి మద్దతు మరియు సమావేశాత్మక సేవలను అందిస్తుంది. అంతర్జాతీయ ట్రాన్స్‌జెండర్ మరియు జెండర్ వైవిధ్యత సముదాయాల హక్కులు మరియు గుర్తింపుల కోసం సెలవులు జరుగుతుంటాయి మరియు అవును అంగీకరిస్తుంది."
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "Zoe Belle లింగ సమూహం",
+    "description": "Zoe Belle లింగ సమూహం అనేది ఒక మారుతున్న మరియు లింగ వివిధత నిర్వహించే అధికార సంస్థ అని, ఇది ప్రొఫెషనల్ శిక్షణ, పనిపాఠాలు మరియు మద్దతుని అందించుతుంది ఎల్జిబిటిక్యోఐ+ సముదాయానికి. ఇది సంఘం సేవలకు, పనివారులకు, కుటుంబ మరియు స్నేహితులకు, మారుతున్న మరియు లింగ వివిధత వ్యక్తులకు సంపన్మూలాలు మరియు సహాయం అందిస్తుంది. ఇటీవలి కాలంలో ఇది Transfemme ని ప్రారంభించింది, ఇది ఒక ముందస్తు ప్రోగ్రామ్ అయిన సిస్ పురుషుల హింస వ్యాప్తిని తప్పించే మార్గంలో పురుషల కు వ్యాప్తి అయ్యే వంతు."
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "లింగ వైవిధ్యత",
     "description": "లింగ వైవిధ్యత అన్ని లింగ గుర్తులు మరియు ప్రకటనల కలలిగిన పిల్లలు మరియు వయోవృద్ధుల సరైనతను మెరుగుపరుచుతుంది. మనం విద్యా అందిస్తున్నాము, అవగాహనను పెంచుతున్నాము, మరియు మానవ అనుభవం యొక్క విస్తృత పరిధిలో అంతర్దృష్టిని అందిస్తున్నాము. మానం సేవించునే లింగ అనిష్ఠిత వ్యక్తుల కోసం పాఠశాలలు, క్రీడా జట్లు, ఉద్యోగ స్థలాలు, మరియు ఆరోగ్య సేవా సంచాలకుల్లో మద్దతిస్తున్నాము, మార్గదర్శించునే మరియు విభేజనాత్మకమైన పరిసరాలను సృష్టించలను."
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "మార్కు మరియు భయෂేకిగా బాధితులపై చికిత్సా మరియు పునరుద్ధారణ సేవలను NSW సేవ అందించుతుంది",
+    "description": "STARTTS సంగతికమైన మానసిక చికిత్సను, సంఘంలో మధ్యలుగుణను, మరియు సేవలకు ప్రశిక్షణను అందిస్తుంది మార్కు మరియు ఆశ్రయ తీవ్రత పీడితుల మనసు ఇటువంటి గాయాలకు మెత్తని కలగించేందుకు. వివిధ లైంగిక ప్రవృత్తులు, లింగాలు, మరియు శరీరాలనుండి బాధితులకు మరియు ఆశ్రయ శరణార్థులకు సురక్షిత మరియు మద్దతు కలిగిన పరిసరాన్ని రూపొందించడానికి వారు లక్ష్యించారు."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons ట్రాన్స్జెండర్ మరియు నాన్-బైనరీ వ్యక్తులకు మరింత పురుషవంతమైన, స్త్రీవంతమైన, లేదా ఆండ్రోజనె౗స్ అని అనిపించడానికి గురించిన గుణవంతమైన స్వర నియంత్రణ మరియు విమోచన సేవలను అందిస్తుంది."
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "దానిని పనిచేయడం",
+    "description": "Working It Out టాస్మానియా యొక్క లైంగికత, లింగం, మరియు అంతర్జాతిస్థితి మద్దతు మరియు విద్యా సేవ. ఇది LGBTIQ+ టాస్మేనియన్ల కోసం మద్దతు మరియు అధ్యక్ష సేవలు, శాలలు, పనిమనిషులు, ప్రభుత్వం, మరియు ప్రభుత్వ ఏకాగ్రత సంస్థలు కోసం విద్యా మరియు ప్రశిక్షణ కార్యక్రమాలను అందిస్తుంది."
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour Health",
+    "description": "సెక్స్, లింగం మరియు సెక్సుయాలిటీ విభిన్న సముదాయాలకు ఆరోగ్య మరియు సౌకర్యపెట్టే సేవలను అందిస్తున్న ఒక LGBTIQ+ సముదాయ నియంత్రిత సంస్థ. ఇది HIV మద్దతు మరియు నివారణ, ఆలోచనా పరామర్శ, మరియు కుటుంబ హింసా సేవలను కలిగి ఉంటుంది."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "The Gender Centre Inc.",
     "description": "జెండర్ సెంటర్ Inc. అనేది జెండర్ ఐడెంటిటీ అన్వేషణ మరియు జెండర్ డిస్ఫోరియాను తగ్గించడానికి సహాయం ఒక విస్తారణా సేవలాన్నింటిని అందిస్తోంది. ఇది తమ యాథార్థిక అనుభూతినే అనుపయోగించి ప్రయాణం చేసే ప్రతి దశలో ట్రాన్స్ మరియు జెండర్ ఆహ్వాన వ్యక్తులను మద్దతుగా ఉంది. ఇది ఆవాస వ్యవస్థ, కేసు నిర్వహణ, విద్యా & ప్రశిక్షణ, కన్సిలింగ్ & మానసిక ఆరోగ్య సేవలు, సమూహాలు, వార్తలు, మరియు సంపన్నాలు అందిస్తుంది."
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "స్వేచ్ఛా కేంద్రం",
+    "description": "స్వేచ్ఛా కేంద్రం WA ఆధారితమైన LGBTIQA+ యువత పైబడి విపులమైన మద్దతు సేవలను అందించుతుంది, దీనిలో డ్రాప్-ఇన్ సెషన్లు, సముదాయ అభివృద్ధి, సంబంధ సమాధానం, మరియు మరెన్నో ఉన్నాయి. వారు అన్ని LGBTIQA+ యువతకు సేర్పుడు, కనెక్షన్, గౌరవానికి ఉండడానికి పని చెందుతున్నారు. వారు మాతృవర్గాలు, వృత్తివంతులు, సముదాయాలు మరియు సంస్థలకు ప్రశిక్షణ మరియు సలహాలు అందించారు."
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "ఈస్ట్ బే ట్రాన్స్ & క్వీర్ కౌన్సిలింగ్",
     "description": "మధ్యమమైన బర్కలీ, CA లో దొరికే వ్యక్తిగత చికిత్సను కలిపిన నమోదు చేసే సేవలు ఈస్ట్ బే ట్రాన్స్ & క్వీర్ కౌన్సిలింగ్ అందిస్తుంది: లింగ అన్వేషణ మరియు మార్పుకు మద్దతు. హార్మోన్స్ మరియు శస్త్రచికిత్స కోసం సిఫారసు లేఖలు. మానసిక ఆరోగ్య సరఫరాదారులు, విద్యార్థులు, ఉద్యోగిస్తుల కోసం ప్రొఫెషనల్ శిక్షలు. సామ్ డేవిస్ ఒక ట్రాన్స్జెండర్, జెండర్క్వీర్ లైసెన్సింగ్ క్లినికల్ సోషల్ వర్కర్ (LCSW) ఆరుటు, ట్రాన్స్, క్వీర్, జెండర్క్వీర్, మరియు జెండర్-నాన్ కంఫార్మింగ్ కిశోరులు మరియు వయోధికమైన వ్యక్తులతో పనిచేసే ప్రత్యేకతతో. ఈస్ట్ బేలో అందుబాటులో మానసిక ఆరోగ్య సరఫరాదారుగా 16 సంవత్సరాల అనుభవం ఉంది, అతనిలో పీర్ మద్దతు సమూహ ప్రేరేణ, LGBTQI సమ్మేళనలలో సముదాయ విద్యానివేతన, ఆలమేడా కౌంటీ కోసం గూడితట్టిన ప్రజలుతో క్లినికల్ చికిత్సా మరియు సంకట కౌన్సిలింగ్తో పాటు 9 సంవత్సరాలు. వేలకు గురుచేతులుగా పనిచే సౌకర్యమైన ప్రత్యేక హక్కుబాధులు."
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Seahorse Victoria Club",
+    "description": "1975 ఏప్రిలికి స్థాపించబడి, Seahorse Club Victoria ట్రాన్స్జెండర్ సముదాయంలోకి సంస్థలు, కమ్మునిటీ సేవలు మరియు మద్దతును అందిస్తుంది. ఇది సేవల యొక్క ట్రాన్స్-అనుకూల డైరెక్టరీను మరియు సభ్యులు మధ్య కనెక్ట్ అవ్వడానికి ఉన్న (ఉండబోతున్న) ఆన్‌లైన్ ప్లాట్‌ఫామ్‌ను అనేకం."
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "ట్రాన్స్‌జెండర్ మ్యాప్",
     "description": "Transgendermap.com అనేది తమ లింగ గుర్తింపును ప్రశ్నించే వారికి లేదా ట్రాన్స్‌జెండర్ అవధిలో ఏదో ఒక్కటిగా ఉండే వారికి అనువర్తనాత్మక సమాచారాన్ని మరియు మార్గదర్శనాన్ని అందించడానికి దృష్టిలో పెట్టుకునే ఆన్‌లైన్ సంసాధనం. ఈ వెబ్‌సైట్‌లో ట్రాన్స్‌జెండర్ నిఘంటువును అర్ధం చేసుకునేందుకు, మారుదలపై ప్రక్రియలు, చట్టపరమైన సమస్యలు, ఆరోగ్య పరేక్షణానికి, మరియు అనేక వ్యక్తిగత కథలు వంటి వివిధ అంశాలు ఉంటాయి. దీని లక్ష్యం 'మ్యాప్' లేదా లింగ గుర్తించుకునే అనేక అంశాలను మార్గదర్శకంగా అందిస్తూ వ్యక్తులు తమ వ్యక్తిగత ప్రయాణాలను నడుపుకోవడానికి సహాయపడడానికి ఉంది. అత్యంత నగదు మరియు ఖచ్చితమైన సమాచారాన్ని కొరకు ఆసలైన సైటును సందర్శించండి."
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk of WA",
+    "description": "పశ్చిమ ఆస్ట్రేలియాలోని ట్రాన్స్జెండర్ వ్యక్తులు మరియు వారికి ప్రియమైన వ్యక్తుల కోసం ఒక సహకార మద్దతు సేవ. ఆన్లైన్ గుంపులు, సిఫార్సు చేసిన సేవలు మరియు వనరులు అందిస్తుంటుంది, మరియు వివిధ సంఘటనలను ఆయోజిస్తుంది."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

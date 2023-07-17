@@ -1,0 +1,24 @@
+{
+  "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+  "title": "Meridian",
+  "description": "Meridian has been advocating for, and supporting, the LGBTIQA+ community for over 40 years, offering a range of services and programs across the Canberra region such as HIV services, wellbeing services, sex worker outreach programs and more.",
+  "slug": "meridian-support",
+  "externalUrl": "https://www.meridianact.org.au/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+  "phoneNumber": "(02) 6257 2855",
+  "country": "AU",
+  "provinceOrState": "ACT",
+  "city": "Turner",
+  "latLng": [
+    -35.2736943,
+    149.1291121
+  ],
+  "email": "contact@meridianact.org.au",
+  "socialMedia": null
+}

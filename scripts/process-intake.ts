@@ -103,11 +103,11 @@ async function processFiles() {
 
       // Ensure we're only processing .json files
       if (path.extname(file) === ".json") {
-        const id = path.basename(file, ".json");
-
         const data = await readFile(filePath, "utf-8");
 
         const jsonObject = JSON.parse(data);
+
+        const id = jsonObject.id ?? path.basename(file, ".json");
 
         // Create translated version
         const translatedJson = await translateJSON(id, jsonObject);

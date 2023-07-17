@@ -1,0 +1,27 @@
+{
+  "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+  "title": "Northern Territory AIDS and Hepatitis Council Inc.",
+  "description": "A community response to Blood Borne Viruses in the Northern Territory, aiming to eliminate their transmission. Offers a range of services such as supporting LGBTI Living, promoting sex worker outreach, and providing health promotion and health clinics.",
+  "slug": "northern-territory-aids-and-hepatitis-council-inc",
+  "externalUrl": "https://www.ntahc.org.au/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "education-awareness"
+  ],
+  "address": "46 Woods St, Darwin City NT 0800, Australia",
+  "phoneNumber": "08 8944 7777",
+  "country": "AU",
+  "provinceOrState": "NT",
+  "city": "Darwin City",
+  "county": "City of Darwin",
+  "latLng": [
+    -12.4602736,
+    130.8432107
+  ],
+  "email": "info@ntahc.org.au",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+  }
+}

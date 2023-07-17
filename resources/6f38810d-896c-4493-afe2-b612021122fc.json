@@ -1,0 +1,110 @@
+{
+  "id": "6f38810d-896c-4493-afe2-b612021122fc",
+  "slug": "the-shed-melbourne",
+  "externalUrl": "https://www.theshedsupport.org.au/",
+  "tags": [
+    "transmasculine",
+    "mental-health",
+    "support-groups",
+    "healthcare",
+    "social-services"
+  ],
+  "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "Brunswick East",
+  "county": "City of Merri-bek",
+  "latLng": [
+    -37.76497579999999,
+    144.9730678
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "The Shed Melbourne",
+      "description": "A Melbourne based support group for transmasculine individuals, offering various events and resources such as peer support meetings, gym clubs, book clubs, mental health resources, surgery and testosterone information and support, binder programmes, and more."
+    },
+    "id-ID": {
+      "title": "The Shed Melbourne",
+      "description": "Sebuah kelompok dukungan berbasis di Melbourne untuk individu transmaskulin, menawarkan berbagai kegiatan dan sumber daya seperti pertemuan dukungan sebaya, klub olahraga, klub buku, sumber daya kesehatan mental, informasi dan dukungan operasi dan testosterone, program binder, dan banyak lagi."
+    },
+    "es-ES": {
+      "title": "The Shed Melbourne",
+      "description": "Un grupo de apoyo con sede en Melbourne para individuos transmasculinos, que ofrece varios eventos y recursos como reuniones de apoyo entre pares, clubes de gimnasia, clubes de lectura, recursos de salud mental, información y apoyo sobre cirugía y testosterona, programas de binder, y más."
+    },
+    "pt-PT": {
+      "title": "The Shed Melbourne",
+      "description": "Um grupo de apoio com sede em Melbourne para indivíduos transmasculinos, oferecendo diversos eventos e recursos como reuniões de apoio de pares, clubes de ginástica, clubes de livros, recursos de saúde mental, informações e apoio sobre cirurgias e testosterona, programas de binders e muito mais."
+    },
+    "tr-TR": {
+      "title": "The Shed Melbourne",
+      "description": "Melbourne merkezli transmaskülen bireyler için bir destek grubu olan The Shed, akran destek toplantıları, spor salonu kulüpleri, kitap kulüpleri, mental sağlık kaynakları, cerrahi ve testosteron bilgi ve destek, baglayıcı programları ve daha fazlası gibi çeşitli etkinlikler ve kaynaklar sunmaktadır."
+    },
+    "de-DE": {
+      "title": "The Shed Melbourne",
+      "description": "Eine in Melbourne ansässige Unterstützungsgruppe für transmaskuline Individuen, die verschiedene Veranstaltungen und Ressourcen anbietet, wie z.B. Peer-Support-Treffen, Fitnessclubs, Buchclubs, Ressourcen für die psychische Gesundheit, Informationen und Unterstützung zu Operationen und Testosteron, Binder-Programme und mehr."
+    },
+    "fr-FR": {
+      "title": "Le Shed Melbourne",
+      "description": "Un groupe de soutien basé à Melbourne pour les individus transmasculins, offrant divers événements et ressources tels que des réunions de soutien par les pairs, des clubs de gym, des clubs de lecture, des ressources en santé mentale, des informations et du soutien sur la chirurgie et la testostérone, des programmes de binder, et plus encore."
+    },
+    "sw-KE": {
+      "title": "The Shed Melbourne",
+      "description": "Kikundi cha msaada kinachotegemea Melbourne kwa watu wanaofanana na wanaume, kikiwa na matukio mbalimbali na rasilimali kama mikutano ya msaada wa rika, vilabu vya mazoezi, vilabu vya vitabu, rasilimali za afya ya akili, upasuaji na taarifa na msaada wa testosterone, mipango ya binder, na zaidi."
+    },
+    "ko-KR": {
+      "title": "The Shed Melbourne",
+      "description": "멜버른 기반의 트랜스마스큘린 개인을 지원하는 그룹으로, 동료 지원 회의, 체육 클럽, 독서 클럽, 정신 건강 자원, 수술 및 테스토스테론 정보 및 지원, 바인더 프로그램 등 다양한 이벤트와 자원을 제공합니다."
+    },
+    "zh-CN": {
+      "title": "墨尔本的小屋",
+      "description": "一个位于墨尔本的为跨性别男性提供支持的团体，提供各种活动和资源，如同伴支持会议，健身俱乐部，书籍俱乐部，心理健康资源，手术和睾酮信息及支持，捆绑带计划等等。"
+    },
+    "ja-JP": {
+      "title": "The Shed Melbourne",
+      "description": "メルボルンを拠点としたトランスマスキュリン（性転換を望む男性）のためのサポートグループで、ピアサポートのミーティング、ジムクラブ、読書クラブ、心の健康リソース、手術やテストステロンに関する情報とサポート、バインダープログラムなど、さまざまなイベントとリソースを提供しています。"
+    },
+    "vi-VN": {
+      "title": "The Shed Melbourne",
+      "description": "Một nhóm hỗ trợ có trụ sở tại Melbourne dành cho những người chuyển giới nam tính, cung cấp các sự kiện và tài nguyên như cuộc họp hỗ trợ bạn bè, câu lạc bộ thể dục, câu lạc bộ sách, tài nguyên về sức khỏe tâm thần, thông tin và hỗ trợ về phẫu thuật và testosterone, chương trình binder, và nhiều hơn nữa."
+    },
+    "ru-RU": {
+      "title": "The Shed Melbourne",
+      "description": "Мельбурнская группа поддержки для трансмаскулинных лиц, предлагающая различные мероприятия и ресурсы, такие как встречи по поддержке сверстников, спортзалы, книжные клубы, ресурсы по психическому здоровью, информация и поддержка по поводу операций и тестостерона, программы для бандажи, и многое другое."
+    },
+    "uk-UA": {
+      "title": "Сарай Мельбурн",
+      "description": "Група підтримки з Мельбурна для трансмаскуліних осіб, що пропонує різні заходи та ресурси, такі як зустрічі груп підтримки, спортивні клуби, книжкові клуби, ресурси з питань психічного здоров'я, інформація та підтримка щодо хірургічного втручання та тестостерону, програми біндерів та багато іншого."
+    },
+    "ur-PK": {
+      "title": "The Shed Melbourne",
+      "description": "ایک ملبورن بیسڈ سپورٹ گروپ ٹرانس میسکولین افراد کے لئے، جو مختلف واقعات اور وسائل میں شامل ہیں، جیسے کہ ہم مرتبہ سپورٹ میٹنگز، جم کلب، بک کلب، مینٹل ہیلتھ ریسورسز، سرجری اور ٹیسٹوسٹیرین کی معلومات اور سپورٹ، بائنڈر پروگرامز، اور زیادہ۔"
+    },
+    "hi-IN": {
+      "title": "द शेड मेलबर्न",
+      "description": "ट्रांसमस्कुलिन व्यक्तियों के लिए मेलबर्न का एक समर्थन समूह, जिसमें विभिन्न कार्यक्रम और संसाधन जैसे कि साथी समर्थन बैठकों, जिम क्लब, बुक क्लब, मानसिक स्वास्थ्य संसाधन, सर्जरी और टेस्टोस्टेरोन की जानकारी और समर्थन, बाइंडर कार्यक्रम और अधिक शामिल हैं।"
+    },
+    "mr-IN": {
+      "title": "द शेड मेलबोर्न",
+      "description": "ट्रान्समास्कुलिन व्यक्तींसाठी मेलबोर्नस्थ आधारित समर्थन गट, पीर समर्थन बैठकीं, जिम क्लब, पुस्तक क्लब, मानसिक आरोग्य स्त्रोत, शल्यक्रिया आणि टेस्टोस्टेरोन माहिती आणि समर्थन, बिंदर कार्यक्रमे, आणि अधिक असे विविध कार्यक्रमे आणि स्त्रोत प्रदान करतो."
+    },
+    "ar-SA": {
+      "title": "الحظيرة ملبورن",
+      "description": "جماعة دعم مقرها ملبورن للأفراد ذات التوجه الجنسي عابر، تقدم العديد من الأحداث والموارد مثل اجتماعات الدعم بين الأقران، أندية الجيم، النوادي الأدبية، الموارد الصحية النفسية، معلومات ودعم العمليات الجراحية و التستوستيرون، برامج الرابطة، وأكثر."
+    },
+    "ta-IN": {
+      "title": "தி ஷெட் மெல்பேர்ன்",
+      "description": "டிரான்ஸ்மாஸ்குலின் தனிப்பட்டவர்களுக்கான ஆதரவு குழுமம், பீர் ஆதரவு சந்திப்புகள், ஜிம் கிளப்கள், புக் கிளப்கள், மனநல சேவை வளங்கள், அறுவை மற்றும் டெஸ்டோஸ்டேரோன் தகவல் மற்றும் ஆதரவு, பைண்டர் திட்டங்கள் மற்றும் மேலும் பல விதமான நிகழ்ச்சிகள் மற்றும் வளங்களை வழங்கும் மெல்பேர் தளம்."
+    },
+    "bn-BD": {
+      "title": "দ্য শেড মেলবোর্ন",
+      "description": "ট্রান্সম্যাসকুলাইন ব্যক্তিদের জন্য একটি মেলবোর্ন ভিত্তিক সহায়তা দল, যা বিভিন্ন ইভেন্ট এবং সম্পদ অফার করে যেমন পীর সমর্থন সভা, জিম ক্লাব, বই ক্লাব, মানসিক স্বাস্থ্য সম্পদ, শাস্ত্রক্রিয়া এবং টেস্টোস্টেরোন তথ্য এবং সমর্থন, বাইন্ডার প্রোগ্রাম, এবং আরও বেশি।"
+    },
+    "te-IN": {
+      "title": "ది షెడ్ మెల్బర్న్",
+      "description": "ట్రాన్స్మాస్క్యులిన్ వ్యక్తులకు ధృవీకరించిన ఒన్నయిన మెల్బర్న్ ఆధారిత మద్దతు సమూహం, సమవాయ మండలి సభలు, బడి క్లబ్లు, పుస్తక క్లబ్లు, మానసిక ఆరోగ్య సంపదలు, శస్త్ర చికిత్స మరియు టెస్టోస్టెరోన్ సమాచారం మరియు మద్దతు, బైండర్ కార్యక్రమాలు, మరింత మరియు."
+    }
+  }
+}

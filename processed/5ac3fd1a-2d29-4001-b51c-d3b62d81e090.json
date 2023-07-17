@@ -1,0 +1,33 @@
+{
+  "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+  "title": "Transgender Victoria",
+  "description": "TGV is Victoria’s leading body for trans and gender diverse people. We work to achieve justice, equity and inclusion for our communities, their partners, families, friends, and allies. We provide various resources, training, advocacy, and support services aimed at the social, economic, health, wellbeing, and mental health outcomes for the transgender community.",
+  "slug": "transgender-victoria",
+  "externalUrl": "https://tgv.org.au/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+    "twitterUrl": "https://twitter.com/transgendervic",
+    "instagramUrl": "https://www.instagram.com/transgendervic/"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+  "slug": "transgender-victoria",
+  "externalUrl": "https://tgv.org.au/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+    "twitterUrl": "https://twitter.com/transgendervic",
+    "instagramUrl": "https://www.instagram.com/transgendervic/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Victoria",
+      "description": "TGV is Victoria’s leading body for trans and gender diverse people. We work to achieve justice, equity and inclusion for our communities, their partners, families, friends, and allies. We provide various resources, training, advocacy, and support services aimed at the social, economic, health, wellbeing, and mental health outcomes for the transgender community."
+    },
+    "tr-TR": {
+      "title": "Transgender Victoria",
+      "description": "TGV, trans ve cinsiyet çeşitliliği olan kişiler için Victoria'nın önde gelen kuruluşudur. Biz, topluluklarımız, eşleri, aileleri, arkadaşları ve müttefikleri için adalet, eşitlik ve dahil olmayı hedefliyoruz. Transgender topluluğunun sosyal, ekonomik, sağlık, refah ve mental sağlık sonuçlarına yönelik çeşitli kaynaklar, eğitim, savunuculuk ve destek hizmetleri sunmaktayız."
+    },
+    "fr-FR": {
+      "title": "Transgender Victoria",
+      "description": "TGV est le principal organisme de Victoria pour les personnes trans et diversifiées au niveau du genre. Nous travaillons à réaliser la justice, l'équité et l'inclusion pour nos communautés, leurs partenaires, les familles, les amis et les alliés. Nous fournissons diverses ressources, formations, plaidoyers et services de soutien visant les résultats sociaux, économiques, sanitaires, de bien-être et de santé mentale pour la communauté transgenre."
+    },
+    "es-ES": {
+      "title": "Transgénero Victoria",
+      "description": "TGV es el organismo líder de Victoria para personas trans y de género diverso. Trabajamos para lograr justicia, equidad e inclusión para nuestras comunidades, sus parejas, familias, amigos y aliados. Proporcionamos diversos recursos, capacitación, defensa y servicios de apoyo dirigidos a los resultados sociales, económicos, de salud, bienestar y salud mental para la comunidad transgénero."
+    },
+    "sw-KE": {
+      "title": "Transgender Victoria",
+      "description": "TGV ni mwili unaoongoza wa watu wa jinsia tofauti na trans huko Victoria. Tunafanya kazi kufikia haki, usawa na kujumuishwa kwa jamii zetu, washirika wao, familia, marafiki, na washirika. Tunatoa rasilimali mbalimbali, mafunzo, utetezi, na huduma za msaada zilizolenga matokeo ya kijamii, kiuchumi, afya, ustawi, na afya ya akili kwa jamii ya watu wanaobadilisha jinsia."
+    },
+    "id-ID": {
+      "title": "Transgender Victoria",
+      "description": "TGV adalah lembaga terdepan di Victoria untuk orang-orang trans dan beragam gender. Kami bekerja untuk mencapai keadilan, kesetaraan dan inklusi untuk komunitas kami, pasangan mereka, keluarga, teman, dan sekutu. Kami menyediakan berbagai sumber daya, pelatihan, advokasi, dan layanan dukungan yang ditujukan untuk hasil sosial, ekonomi, kesehatan, kesejahteraan, dan kesehatan mental bagi komunitas transgender."
+    },
+    "zh-CN": {
+      "title": "维多利亚跨性别者",
+      "description": "TGV 是维多利亚跨性别和性别多元人士的主要机构。我们致力于为我们的社区、他们的伙伴、家人、朋友和盟友实现公正、公平和包容。我们提供各种资源、培训、倡导和支持服务，旨在提高跨性别社区的社会、经济、健康、幸福感和心理健康结果。"
+    },
+    "ru-RU": {
+      "title": "Трансгендеры Виктории",
+      "description": "TGV является ведущим органом Виктории для трансгендерных и гендерно-разнообразных людей. Мы работаем, чтобы добиться справедливости, равенства и включения для наших общин, их партнеров, семей, друзей и союзников. Мы предоставляем различные ресурсы, обучение, защиту и службы поддержки, направленные на социальные, экономические, здоровые, благополучие и психическое здоровье трансгендерного сообщества."
+    },
+    "pt-PT": {
+      "title": "Transgender Victoria",
+      "description": "A TGV é o principal corpo de transgêneros e pessoas com diversidade de gênero em Victoria. Trabalhamos para alcançar justiça, equidade e inclusão para nossas comunidades, seus parceiros, famílias, amigos e aliados. Fornecemos vários recursos, treinamentos, advocacia e serviços de suporte voltados para os resultados sociais, econômicos, de saúde, bem-estar e de saúde mental para a comunidade transgênero."
+    },
+    "de-DE": {
+      "title": "Transgender Victoria",
+      "description": "TGV ist Victorias führende Organisation für trans und geschlechtsvielfältige Menschen. Wir arbeiten daran, Gerechtigkeit, Gleichheit und Inklusion für unsere Gemeinschaften, ihre Partner, Familien, Freunde und Verbündeten zu erreichen. Wir stellen verschiedene Ressourcen bereit, bieten Schulungen, Interessenvertretung und Unterstützungsdienste an, die auf die sozialen, wirtschaftlichen, gesundheitlichen, Wohlbefinden und mentalen Gesundheitsergebnisse für die Transgender-Gemeinschaft abzielen."
+    },
+    "uk-UA": {
+      "title": "Трансгендер Вікторія",
+      "description": "TGV є провідним органом Вікторії для транс та гендерно різноманітних людей. Ми працюємо, щоб досягти справедливості, рівності та включення для наших спільнот, їх партнерів, сімей, друзів та союзників. Ми надаємо різноманітні ресурси, навчання, захист прав та послуги підтримки, спрямовані на соціальні, економічні, охорони здоров'я, благополуччя та психічного здоров'я для трансгендерної спільноти."
+    },
+    "ar-SA": {
+      "title": "ترانزجندر فيكتوريا",
+      "description": "ترانزجندر فيكتوريا هي الجهة الرائدة في فيكتوريا للأشخاص ذوي الهوية الجندرية المختلفة. نعمل على تحقيق العدالة والمساواة والاندماج لمجتمعاتنا وشركائها وعائلاتها وأصدقائها وحلفائها. نقدم مجموعة متنوعة من الموارد والتدريب والدعم والخدمات الموجهة للنتائج الاجتماعية والاقتصادية والصحية والرفاهية والصحة العقلية للمجتمع الترانزجندر."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 빅토리아",
+      "description": "TGV는 빅토리아의 주요 트랜스 젠더 및 다양한 젠더 인구를 위한 주체입니다. 우리는 커뮤니티, 그들의 파트너, 가족, 친구, 동맹자들을 위한 정의, 평등, 포괄을 달성하기 위해 노력합니다. 우리는 트랜스젠더 커뮤니티의 사회적, 경제적, 건강, 안녕, 그리고 정신 건강 결과를 목표로하는 다양한 자원, 교육, 대변, 그리고 지원 서비스를 제공합니다."
+    },
+    "vi-VN": {
+      "title": "Transgender Victoria",
+      "description": "TGV là tổ chức hàng đầu của Victoria cho những người chuyển giới và đa giới tính. Chúng tôi làm việc để đạt được công lý, công bằng và sự bao gồm cho cộng đồng của chúng tôi, đối tác của họ, gia đình, bạn bè và đồng minh. Chúng tôi cung cấp các nguồn lực, đào tạo, ủng hộ, và dịch vụ hỗ trợ nhằm vào kết quả xã hội, kinh tế, sức khỏe, phúc lợi, và sức khỏe tâm thần cho cộng đồng người chuyển giới."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダービクトリア",
+      "description": "TGVは、トランスとジェンダーダイバーシティな人々のためのビクトリア州の主導的な組織です。私たちは、私たちのコミュニティ、そのパートナー、家族、友人、そして同盟者のための正義、均等性、包摂を実現するために働いています。私たちは、トランスジェンダーコミュニティの社会、経済、健康、福祉、心の健康の結果を目指して、さまざまなリソース、トレーニング、擁護、および支援サービスを提供しています。"
+    },
+    "ur-PK": {
+      "title": "ٹرانسجنڈر وکٹوریا",
+      "description": "ٹی جی وی وکٹوریا کے لئے ٹرانس اور جنسی مختلف لوگوں کی سب سے اہم جسم ہے۔ ہم اپنے برادریوں، ان کے شریک حیات، خاندانوں، دوستوں اور حلفیوں کے لئے انصاف، برابری اور شمولیت حاصل کرنے کے لئے کام کرتے ہیں۔ ہم مختلف وسائل، تربیت، تحفظ، اور سماجی، معاشی، صحت، خوشی، اور ٹرانسجنڈر برادری کی ذہنی صحت کے نتائج کے لئے تعاونی خدمات فراہم کرتے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "ट्रान्सजेंडर व्हिक्टोरिया",
+      "description": "TGV हे ट्रान्स आणि लिंग विविधतेच्या लोकांसाठी व्हिक्टोरियाचे मुख्य संघ आहे. आम्ही आपल्या समुदायांसाठी न्याय, समानता आणि सहभागीता साध्य करण्यासाठी काम करतो, त्याचे भागीदार, कुटुंब, मित्र, आणि मित्र. आम्ही वेगवेगळ्या संसाधने, प्रशिक्षण, म्हणजेच, समाजिक, आर्थिक, आरोग्य, कल्याण, आणि ट्रान्सजेंडर समुदायाच्या मानसिक आरोग्य परिणामांसाठी समर्थन सेवा प्रदान करतो."
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर विक्टोरिया",
+      "description": "TGV विक्टोरिया के लिए ट्रांस और जेंडर विविध लोगों का प्रमुख निकाय है। हम हमारे समुदायों, उनके साथियों, परिवारों, दोस्तों, और सहयोगियों के लिए न्याय, समानता और समावेश की प्राप्ति के लिए काम करते हैं। हम ट्रांसजेंडर समुदाय के लिए सामाजिक, आर्थिक, स्वास्थ्य, कल्याण, और मानसिक स्वास्थ्य परिणामों पर लक्षित विभिन्न संसाधन, प्रशिक्षण, वकालत, और सहायता सेवाएं प्रदान करते हैं।"
+    },
+    "ta-IN": {
+      "title": "டிரான்ஸ்ஜெண்டர் விக்டோரியா",
+      "description": "TGV விக்டோரியாவின் முக்கியமான உரிமைக்குழுவோம் மற்றும் பாலின விவிதமான மக்களுக்கான. நாங்கள் நமது சமூகங்களுக்கு, அவர்களின் துணையாளர்களுக்கு, குடும்பங்களுக்கு, நண்பர்களுக்கு, மற்றும் சங்கிகளுக்கு நியாயம், சமமின்மை, அறிவாரணமோக்கு பணியாற்றுகிறோம். நாங்கள் டிரான்சென்டர் சமூகத்திற்கான சமாஜ, பொருள், உடல்நலம், நலமுடைமை, மனசாரிய முடிவுகளை இலக்குவதற்கு பல்வேறு வளங்கள், பயிற்சி, மேலும் ஆதரவு சேவைகளை வழங்குகிறோம்."
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার ভিক্টোরিয়া",
+      "description": "টিজিভি ভিক্টোরিয়ার শীর্ষ বডি হলো ট্রান্স এবং জেন্ডার বৈচিত্র্যময় মানুষের জন্য। আমরা আমাদের সম্প্রদায়গুলির, তাদের অংশীদারদের, পরিবারগুলির, বন্ধুদের এবং অ্যালিগুলির জন্য ন্যায়, সমতা ও অন্তর্ভুক্তি অর্জনের উদ্দেশ্যে কাজ করি। আমরা বিভিন্ন সম্পদ, প্রশিক্ষণ, আদ্বোকেসি এবং সমর্থন পরিষেবা সরবরাহ করি যা ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সামাজিক, অর্থনৈতিক, স্বাস্থ্য, ভাল থাকা, এবং মানসিক স্বাস্থ্য ফলাফলগুলির দিকে ম্যাপ করে।"
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్ జెండర్ విక్టోరియా",
+      "description": "TGV విక్టోరియాలోని ట్రాన్స్‌లు మరియు లింగ విభేదాల ఉన్న ప్రజల కోసం ముందును జార్చే సంస్థ. మా కమ్యూనిటీలకు, వారి భార్యభర్తలు, కుటుంభాలు, స్నేహితులు మరియు మిత్రులకు న్యాయం, సమానత్వం మరియు సమావేశం పొందడానికి మేము పనిచేస్తాము. మాకు వివిధ సంపద, శిక్షణ, మనవహక్కుల పరిరక్షణ, మరియు మదదు సేవలు ఉన్నాయి జోకు ట్రాన్స్ జెండర్ కమ్యూనిటీ కోసం సామాజిక, ఆర్థిక, ఆరోగ్య, సౌభాగ్యం, మరియు మానసిక ఆరోగ్య ఫలితాలను లక్ష్యించడానికి."
+    }
+  }
+}

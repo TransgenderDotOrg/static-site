@@ -1,0 +1,110 @@
+{
+  "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+  "slug": "working-it-out-tasmania",
+  "externalUrl": "https://www.workingitout.org.au/",
+  "tags": [
+    "non-binary",
+    "transmasculine",
+    "transfeminine",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "TAS",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Working It Out",
+      "description": "Working It Out is Tasmania's sexuality, gender, and intersex status support and education service. It provides support and advocacy services for LGBTIQ+ Tasmanians and education and training programmes to schools, workplaces, government, and non-government organizations."
+    },
+    "fr-FR": {
+      "title": "Working It Out",
+      "description": "Working It Out est le service de soutien et d'éducation sur la sexualité, le genre et le statut intersexe de Tasmanie. Il fournit des services de soutien et de défense des droits pour les LGBTIQ+ Tasmaniens et des programmes de formation et d'éducation pour les écoles, les lieux de travail, les gouvernements et les organisations non gouvernementales."
+    },
+    "sw-KE": {
+      "title": "Kufanya Kazi",
+      "description": "Kufanya Kazi ni huduma ya msaada na elimu ya jinsia, jinsia, na hali ya intersex ya Tasmania. Inatoa huduma za msaada na utetezi kwa LGBTIQ+ Tasmanians na mipango ya elimu na mafunzo kwa shule, mahali pa kazi, serikali, na mashirika yasiyo ya serikali."
+    },
+    "es-ES": {
+      "title": "Resolviéndolo",
+      "description": "Working It Out es el servicio de apoyo y educación de Tasmania para la sexualidad, género y estado intersexual. Proporciona servicios de apoyo y defensa para los tasmanios LGBTIQ+ y programas de educación y formación para escuelas, lugares de trabajo, gobierno y organizaciones no gubernamentales."
+    },
+    "id-ID": {
+      "title": "Working It Out",
+      "description": "Working It Out adalah layanan pendidikan dan dukungan status seksualitas, gender, dan interseks di Tasmania. Ini memberikan layanan dukungan dan advokasi untuk orang-orang Tasmania LGBTIQ+ dan program pendidikan dan pelatihan ke sekolah, tempat kerja, pemerintah, dan organisasi non-pemerintah."
+    },
+    "pt-PT": {
+      "title": "Superando Dificuldades",
+      "description": "Superando Dificuldades é o serviço de apoio e educação da Tasmânia para sexualidade, gênero e status intersex. Ele oferece apoio e serviços de advocacia para LGBTIQ+ Tasmanianos e programas de educação e treinamento para escolas, locais de trabalho, governo e organizações não governamentais."
+    },
+    "tr-TR": {
+      "title": "Çözümleme",
+      "description": "Çözümleme, Tasmania'nın cinsellik, cinsiyet ve interseks durumu destek ve eğitim hizmetidir. LGBTIQ+ Tazmanyalılar için destek ve savunma hizmetleri sağlar ve okullara, işyerlerine, hükümete ve hükümet dışı organizasyonlara eğitim ve eğitim programları sunar."
+    },
+    "zh-CN": {
+      "title": "解决问题",
+      "description": "解决问题是塔斯马尼亚的性别、性取向和间性身份支持及教育服务。它为LGBTIQ+塔斯马尼亚人提供了支持和倡导服务，并为学校、工作场所、政府和非政府组织提供教育和培训计划。"
+    },
+    "de-DE": {
+      "title": "Working It Out",
+      "description": "Working It Out ist der Unterstützungs- und Bildungsdienst von Tasmanien für Sexualität, Geschlecht und Intersexualität. Es bietet Unterstützungs- und Fürsprachdienste für LGBTIQ+ Tasmanier und Bildungs- und Trainingsprogramme für Schulen, Arbeitsplätze, Regierung und Nichtregierungsorganisationen."
+    },
+    "ko-KR": {
+      "title": "워킹 잇 아웃",
+      "description": "워킹 잇 아웃은 타스마니아의 성별, 성, 및 성간 성 지원 및 교육 서비스입니다. 이 서비스는 LGBTIQ+ 타스마니아 사람들에게 지원과 옹호 서비스를 제공하고, 학교, 직장, 정부 및 비정부 조직에 교육 및 훈련 프로그램을 제공합니다."
+    },
+    "ja-JP": {
+      "title": "Working It Out",
+      "description": "Working It Outは、タスマニア州の性、ジェンダー、インターセックスのステータスを支援し、教育するサービスです。LGBTIQ+のタスマニア人のためのサポートとアドボカシーサービスを提供し、学校、職場、政府、非政府組織に教育とトレーニングプログラムを提供します。"
+    },
+    "vi-VN": {
+      "title": "Working It Out",
+      "description": "Working It Out là dịch vụ hỗ trợ và giáo dục về tình dục, giới tự nhận và tình trạng giữa nam và nữ của Tasmania. Nó cung cấp dịch vụ hỗ trợ và ủng hộ cho người Tasmania thuộc LGBTIQ+ và các chương trình giáo dục và đào tạo cho trường học, nơi làm việc, chính phủ và tổ chức phi chính phủ."
+    },
+    "ar-SA": {
+      "title": "العمل على حلها",
+      "description": "العمل على حلها هو خدمة دعم وتعليم الجنسانية والجنس ووضع الشخص الثنائي في تاسمانيا. يقدم دعماً وخدمات الدفاع عن حقوق الأشخاص من الشركة المستهدفة من التصنيفات الجنسية والجنس + في تاسمانيا وبرامج التعليم والتدريب إلى المدارس وأماكن العمل والحكومة والمنظمات غير الحكومية."
+    },
+    "ru-RU": {
+      "title": "Разбираемся в этом",
+      "description": "«Разбираемся в этом» - это служба поддержки и образования по вопросам сексуальности, гендера и интерсексуальности в Тасмании. Она предоставляет услуги поддержки и защиты прав для ЛГБТИК+ тасманцев, а также образовательные и тренировочные программы школам, рабочим местам, правительству и неправительственным организациям."
+    },
+    "uk-UA": {
+      "title": "Розробка стратегії",
+      "description": "Розробка стратегії - це служба підтримки та освіти за сексуальністю, гендером та інтерсекс-статусом в Тасманії. Вона надає служби підтримки та захисту для LGBTIQ+ тасманців та освітні та навчальні програми школам, робочим місцям, уряду та недержавним організаціям."
+    },
+    "hi-IN": {
+      "title": "समाधान निकालना",
+      "description": "समाधान निकालना तस्मानिया की यौनता, लिंग, और इंटरसेक्स स्थिति की समर्थन और शिक्षा सेवा है। यह LGBTIQ+ तस्मानियाईयों के लिए समर्थन और वकालत सेवाएँ प्रदान करती है और स्कूलों, कार्यस्थलों, सरकार, और गैर-सरकारी संगठनों के लिए शिक्षा और प्रशिक्षण कार्यक्रम।"
+    },
+    "ur-PK": {
+      "title": "اٹ ھم کام کر رہے ہیں",
+      "description": "اٹ ھم لا کام کر رہے ہیں کے جنسیت، گینڈر، اور خود مختاری حالت کا تسلیم کرنے اور تعلیمی خدمت تسمانیا ہے. یہ LGBTIQ + تسمانیادوں کے لئے تائید اور وکالت خدمات فراہم کرتی ہے اور تعلیمی اور تربیتی پروگراموں کو اسکولوں، کام کی جگہوں، حکومت، اور غیر حکومتی تنظیموں میں مہیا کرتی ہے."
+    },
+    "bn-BD": {
+      "title": "ওয়ার্কিং ইট আউট",
+      "description": "ওয়ার্কিং ইট আউট হল তাসমানিয়ার যৌনতা, লিঙ্গ, এবং ইন্টারসেক্স অবস্থার সমর্থন এবং শিক্ষাদান সেবা। এটি LGBTIQ+ তাসমানিয়ানদের জন্য সমর্থন এবং সমর্থন সেবা প্রদান করে এবং স্কুল, কর্মস্থল, সরকার, এবং গৈর-সরকারি সংস্থায় শিক্ষা এবং প্রশিক্ষণ কার্যক্রম চালায়।"
+    },
+    "mr-IN": {
+      "title": "गोष्टी निघवणे",
+      "description": "गोष्टी निघवणे तासमानियाची लैंगिकता, लिंग आणि इंटरसेक्स स्थितीची मदत आणि शिक्षण सेवा आहे. ती LGBTIQ+ तासमानियन साठी मदत आणि वक्तव्य सेवा प्रदान करते आणि शाळांमध्ये, कामगार संघात, सरकारी आणि असरकारी संघटनांमध्ये शिक्षण आणि प्रशिक्षण कार्यक्रमे सादर करते."
+    },
+    "ta-IN": {
+      "title": "அதை வேலையாக்குதல்",
+      "description": "அதை வேலையாக்குதல் தஸ்மானியாவின் பாலியல், பாலின், மற்றும் இன்றுபால் நிலை ஆதரவு மற்றும் கல்வி சேவையாகும். அது LGBTIQ+ தஸ்மானியான்ஸ் ஆகியோருக்கு ஆதரவு மற்றும் மேல் சொந்த வளர்ச்சிச் சேவைகளை வழங்குகிறது, மேலும் பள்ளிகளுக்கு, வேலைவாய்ப்பு நிறுவனங்களுக்கு, அரசு, மற்றும் அரசாணை மிகவும் அரசாணை இல்லாத அமைப்புகளுக்கு கல்வி மற்றும் பயிற்சி திட்டங்களை வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "దానిని పనిచేయడం",
+      "description": "Working It Out టాస్మానియా యొక్క లైంగికత, లింగం, మరియు అంతర్జాతిస్థితి మద్దతు మరియు విద్యా సేవ. ఇది LGBTIQ+ టాస్మేనియన్ల కోసం మద్దతు మరియు అధ్యక్ష సేవలు, శాలలు, పనిమనిషులు, ప్రభుత్వం, మరియు ప్రభుత్వ ఏకాగ్రత సంస్థలు కోసం విద్యా మరియు ప్రశిక్షణ కార్యక్రమాలను అందిస్తుంది."
+    }
+  }
+}

@@ -36,6 +36,36 @@
     "description": "圣马特奥县骄傲中心是一个协作模式的组织，也是LGBTQ+ 社区的一站式服务站。我们为所有年龄的LGBTQ+社区成员提供强大的计划和服务，包括教育，培训，社区活动，同伴支持小组，每日规划，临床治疗，和案例管理。"
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace是一项由LGBTIQ+社区于2009年为LGBTIQ+社区建立的健康和福利支持服务。它关注的是关系、家庭、教育和年轻人，并在维多利亚州西北部都市区提供联合服务。服务包括咨询、案例管理、倡导、支持服务、同伴支持、专业发展、培训和咨询。"
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "一个活跃的在线社区和知识中心，专为对自我制作激素替代疗法（HRT）感兴趣的个体提供。他们的网站致力于提供一个安全包容的空间，让人们可以获取有关自我管理HRT的信息、资源和支持。无论你是在探索替代疗法，寻求有关剂量和管理的指导，还是仅仅希望与有相似经历的人交流，DIYHRT.cafe都为你提供丰富的有价值的观点，个人故事，和专业建议，以帮助你做出关于你的健康和幸福的明智决定。"
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "居住在Ngunnawal，Ngunawal和Ngambri Country的 DEiFYDEiFYQTIBIPOC集体",
+    "description": "这是DEiFYQTIBIPOC社区的集体会议。该组也将讨论Queer Masculinities Zine和他们的特定播放列表。"
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "这是一个开创性的在线平台，致力于为跨性别和非二元性别社区提供基于证据的研究、教育和资源，特别侧重于女性激素治疗（FHT）。他们的网站作为寻求可靠和最新的FHT医学、生理和心理方面信息的重要中心。通过他们全面的同行评审研究、专家文章和实用指南的收集，他们的网站使个人能够就他们的过渡和健康做出知情的决定。"
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "子午线",
+    "description": "子午线已经为LGBTIQA+社区提倡并提供支持超过40年，提供了在堪培拉地区的一系列服务和计划，如艾滋病服务、福祉服务、性工作者外展计划等等。"
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "北部领地艾滋病和肝炎议会公司",
+    "description": "对北部领地血液传播病毒的社区反应，旨在消除它们的传播。提供各种服务，如支持LGBTI生活，提升性工作者的外展，以及提供健康促进和健康诊所。"
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "关于跨性别立法和生活的新闻和讨论。由艾琳·里德制作 · 超过38,000名订阅者"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "南澳Trans健康",
+    "description": "南澳Trans健康是一个志愿者团队，存在的目的是为南澳大利亚的跨性别和性别多元人士提供健康需求的信息和支持。它提供尊重实践者的名单，医疗和法律信息，有关支持机构、组织、出版物、社交和支持团体的信息，以及由跨性别社区创建的资源。"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "一个创新的在线平台，旨在为全球LGBTQ+权益创建一个全面且最新的资源。他们的网站提供一个集合了法律、政策以及来自世界各地对LGBTQ+权益的社会态度的中央数据库。通过对平等、包容性和法律保护的数据进行映射和可视化，EqualDex.com为活动家、研究人员以及希望理解并倡导全球范围内LGBTQ+权益的个体提供了强大的工具。探索他们的交互式地图，浏览特定国家的概况，以及关注LGBTQ+社区在全球范围内面临的最新进展和挑战。"
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "性别议程",
+    "description": "性别议程为间性人、跨性别人、性别多元人，他们的朋友、家人和盟友服务，也代表他们工作。通过教育、倡导、同伴支持和专业网络，性别议程将人们联系起来，并依据集体经验进行建设。他们为社区提供许多活动和资源，包括支持团体、培训、教育资源。他们提供倡导和危机热线服务。"
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "太平洋人类成长中心成立于1973年，是旧金山湾区最古老的LGBTQIA+中心，全国第三古老，并运营着阿拉米达县唯一为LGBTQIA+和QTBIPOC人群及其家庭提供滑动规模精神健康诊所。"
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "维多利亚跨性别者",
+    "description": "TGV 是维多利亚跨性别和性别多元人士的主要机构。我们致力于为我们的社区、他们的伙伴、家人、朋友和盟友实现公正、公平和包容。我们提供各种资源、培训、倡导和支持服务，旨在提高跨性别社区的社会、经济、健康、幸福感和心理健康结果。"
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "奥克兰首个为所有年龄段、全包容的LGBTQ社区服务中心，属于非营利501c3组织。所提供的服务包括支持团体，心理健康支持，住房援助，青少年计划，法律诊所，食品储藏室等。还为年长的LGBTQ+人群和跨性别社区成员开展了特殊计划。"
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "墨尔本的小屋",
+    "description": "一个位于墨尔本的为跨性别男性提供支持的团体，提供各种活动和资源，如同伴支持会议，健身俱乐部，书籍俱乐部，心理健康资源，手术和睾酮信息及支持，捆绑带计划等等。"
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "一个位于南澳大利亚的健康组织，提供临床服务、性健康咨询以及与性生殖健康和人际关系技能相关的教育和培训。它还为LGBTIQA+社区提供支持和包容的服务。他们还参与庆祝和倡导国际跨性别和性别多元化社区的权利和承认。"
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "佐伊·贝尔性别集体",
+    "description": "佐伊·贝尔性别集体是一个由跨性别和性别多元人士领导的倡导组织，提供专业培训、工作坊和对LGBTQI+社区的支持。它提供资源和帮助，服务于社区服务，工作者，家庭和朋友，以及跨性别和性别多元的个体。最近，它还推出了Transfemme，这是一项旨在防止顺性别男性对跨性别女性的暴力行为的预防性倡议。"
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "性别多样性",
     "description": "性别多样性通过提供教育，提高意识，以及透视更广泛的人类经验，改善了所有性别身份和表达的儿童和成人的福祉。我们还协助创建支持性和非歧视性的环境，为学校，体育队，工作场所和医疗提供者中的跨性别者和性别多元的个体提供帮助。"
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "新南威尔士虐待和创伤幸存者的治疗和康复服务",
+    "description": "STARTTS为人们提供与文化相关的心理治疗、社区干预和服务培训，以帮助人们从创伤和难民创伤的疤痕中康复。他们致力于为包括难民和寻求庇护者在内的多元性别、性取向和身体创造一个安全支持的环境。"
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons为变性人和非二元性别个体提供优质的声音控制和解放服务，旨在使他们的声音更具男性化、女性化或雌雄同体化。"
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "解决问题",
+    "description": "解决问题是塔斯马尼亚的性别、性取向和间性身份支持及教育服务。它为LGBTIQ+塔斯马尼亚人提供了支持和倡导服务，并为学校、工作场所、政府和非政府组织提供教育和培训计划。"
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour 健康",
+    "description": "一个由LGBTIQ+社区管理的组织，为性别，性别和性取向多样性社区提供健康和福祉服务，包括HIV支持和预防，咨询，和家庭暴力服务。"
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "性别中心公司",
     "description": "性别中心公司提供各种专业服务，这些服务帮助人们探索性别认同，缓解性别烦躁症。它支持跨性别者和性别表达者在他们寻求并体验真实自我的过程中的每一个阶段。它提供住宿，案例管理，教育和培训，咨询和心理健康服务，小组，新闻，以及资源。"
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "自由中心",
+    "description": "自由中心为西澳州的LGBTIQA+青年提供广泛的支持服务，包括敞口式会话、社区发展、咨询等更多。他们致力于让所有LGBTIQA+的青年感到被接纳、联系和尊重。他们还为父母、专业人士、社区和组织提供培训和指导。"
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "东湾跨性别与酷儿咨询",
     "description": "东湾跨性别与酷儿咨询提供滑动比例服务，包括：位于伯克利，CA的个人治疗，支持性别探索和过渡，为激素和手术提供推荐信，为心理健康提供者，学生和雇主提供专业培训。Sam Davis 是一位跨性别的，酷儿的持照临床社会工作者(LCSW)，专门为跨性别，酷儿，酷儿，和性别不形式的青少年和成年人提供专业服务。他们有16年作为东湾地区的心理健康提供者的经验，包括促进同行支持小组，LGBTQI大会的社区教育，以及9年为阿拉米达县严重边缘化的人提供临床实践和危机咨询。他们是一位有着长期为边缘化人群组织的坚强而坚定的倡导者。"
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "海马维多利亚俱乐部",
+    "description": "成立于1975年，海马维多利亚俱乐部为跨性别社区提供资源、社区服务和支持。包括一份对跨性别友好的服务目录和一个即将上线的供会员联系的在线平台。"
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "跨性别地图",
     "description": "Transgendermap.com是一个在线资源网站，旨在为正在质疑自己的性别认同或者在跨性别范围内的人们提供实用的信息和指导。网站包括广泛的主题，比如理解跨性别术语、过渡过程、法律问题、医疗保健，以及大量的个人故事。其目标是通过提供一个'地图'或指南，帮助个人导航他们的个人旅程，了解性别认同和跨性别经验的多个方面。请访问实际网站获取最新和最准确的信息。"
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "西澳大利亚州的跨性别者",
+    "description": "为西澳大利亚的跨性别人群及其亲人提供的同侪支持服务。提供在线群组，推荐服务和资源，并举办各种活动。"
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

@@ -1,0 +1,111 @@
+{
+  "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+  "slug": "northern-territory-aids-and-hepatitis-council-inc",
+  "externalUrl": "https://www.ntahc.org.au/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "education-awareness"
+  ],
+  "address": "46 Woods St, Darwin City NT 0800, Australia",
+  "phoneNumber": "08 8944 7777",
+  "country": "AU",
+  "provinceOrState": "NT",
+  "city": "Darwin City",
+  "county": "City of Darwin",
+  "latLng": [
+    -12.4602736,
+    130.8432107
+  ],
+  "email": "info@ntahc.org.au",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Northern Territory AIDS and Hepatitis Council Inc.",
+      "description": "A community response to Blood Borne Viruses in the Northern Territory, aiming to eliminate their transmission. Offers a range of services such as supporting LGBTI Living, promoting sex worker outreach, and providing health promotion and health clinics."
+    },
+    "pt-PT": {
+      "title": "Conselho de AIDS e Hepatite do Território Norte Inc.",
+      "description": "Uma resposta comunitária aos Vírus Transmitidos pelo Sangue no Território Norte, com o objetivo de eliminar sua transmissão. Oferece uma variedade de serviços, como apoio à vida LGBTI, promoção de ações de extensão para trabalhadores do sexo e fornecimento de promoção da saúde e clínicas de saúde."
+    },
+    "de-DE": {
+      "title": "Northern Territory AIDS und Hepatitis Rat e.V.",
+      "description": "Eine Gemeinschaftsinitiative gegen Blutübertragene Viren im Northern Territory, mit dem Ziel deren Übertragung zu eliminieren. Bietet eine Reihe von Dienstleistungen an, wie zum Beispiel Unterstützung für LGBTI-Lebensstile, Förderung der Outreach-Arbeit für Sexarbeiter und Bereitstellung von Gesundheitsförderung und Gesundheitskliniken."
+    },
+    "tr-TR": {
+      "title": "Northern Territory AIDS ve Hepatit Konseyi Inc.",
+      "description": "Northern Territory'deki Kan Yolu Virüslerine karşı bir topluluk tepkisi, onların bulaşmasını ortadan kaldırmayı hedefliyor. LGBTİ yaşamını destekleme, seks işçisi seferberliğini teşvik etme ve sağlık tanıtımı ve sağlık klinikleri sağlama gibi bir dizi hizmet sunar."
+    },
+    "id-ID": {
+      "title": "Northern Territory AIDS and Hepatitis Council Inc.",
+      "description": "Sebuah respons komunitas terhadap Virus yang Dapat Ditularkan melalui Darah di Wilayah Utara, dengan tujuan untuk menghentikan penyebarannya. Menawarkan berbagai layanan seperti mendukung Hidup LGBTI, mempromosikan jangkauan pekerja seks, dan menyediakan promosi kesehatan dan klinik kesehatan."
+    },
+    "es-ES": {
+      "title": "Consejo del Territorio del Norte sobre el SIDA y la Hepatitis Inc.",
+      "description": "Una respuesta comunitaria a los virus transmitidos por la sangre en el Territorio del Norte, con el objetivo de eliminar su transmisión. Ofrece una variedad de servicios como apoyo a la vida LGBTI, promoción de la divulgación a trabajadores sexuales y proporciona promoción de la salud y clínicas de salud."
+    },
+    "fr-FR": {
+      "title": "Conseil du Territoire du Nord sur le SIDA et l'Hépatite Inc.",
+      "description": "Une réponse communautaire aux virus transmis par le sang dans le Territoire du Nord, visant à éliminer leur transmission. Offre une gamme de services tels que le soutien à la vie LGBTI, la promotion de la sensibilisation des travailleurs du sexe, et la fourniture de promotion de la santé et de cliniques de santé."
+    },
+    "zh-CN": {
+      "title": "北部领地艾滋病和肝炎议会公司",
+      "description": "对北部领地血液传播病毒的社区反应，旨在消除它们的传播。提供各种服务，如支持LGBTI生活，提升性工作者的外展，以及提供健康促进和健康诊所。"
+    },
+    "ru-RU": {
+      "title": "Совет Северной территории по СПИДу и гепатиту Инк.",
+      "description": "Сообщественный ответ на кровеносные вирусы в Северной территории, целью которого является исключение их передачи. Предлагает ряд услуг, таких как поддержка жизни ЛГБТИ, продвижение выхода секс-работников, а также предоставление услуг по продвижению здоровья и оздоровительных клиник."
+    },
+    "vi-VN": {
+      "title": "Hội đồng AIDS và viêm gan Bộ phận Bắc",
+      "description": "Phản ứng cộng đồng đối với Vi khuẩn lây lan qua máu tại Bắc Bộ, nhằm loại bỏ việc truyền nhiễm chúng. Cung cấp một loạt các dịch vụ như hỗ trợ cuộc sống LGBTI, khuyến nghị tiếp cận công nhân tình dục và cung cấp sự thúc đẩy sức khỏe và phòng khám sức khỏe."
+    },
+    "sw-KE": {
+      "title": "Bunge la UKIMWI na Hepatitis wa Wilaya ya Kaskazini Inc.",
+      "description": "Jibu la jamii kwa Virusi vinavyoambukizwa na Damu kwenye Wilaya ya Kaskazini, likilenga kuondoa maambukizi yao. Inatoa huduma anuwai kama vile kuunga mkono LGBTI Living, kukuza utawala wa wafanyakazi wa ngono, na kutoa uhamasishaji wa afya na maduka ya afya."
+    },
+    "ko-KR": {
+      "title": "북부지역 에이즈 및 간염 협의회 Inc.",
+      "description": "북부 지역의 혈액을 통한 바이러스에 대한 지역사회의 대응으로, 그들의 전파를 제거하려는 목표를 정하고 있습니다. LGBTI 생활 지원, 성매매 종사자 접근 홍보, 건강 증진 및 건강 클리닉 제공 등 다양한 서비스를 제공합니다."
+    },
+    "uk-UA": {
+      "title": "Рада Північного територію по АІДСу і гепатиту Inc.",
+      "description": "Спільнотна реакція на кровообігові віруси в Північному територію, з метою їх ліквідації. Пропонує ряд послуг, таких як підтримка LGBTI життя, просування вихіду працівників сексуальної індустрії, а також надання служб здоров'я та охорони здоров'я."
+    },
+    "ja-JP": {
+      "title": "ノーザンテリトリーAIDSおよび肝炎対策協議会",
+      "description": "ノーザンテリトリーでの血液感染病に対するコミュニティの対応であり、その伝播を撲滅することを目指しています。LGBTI Livingの支援、セックスワーカーのアウトリーチの推進、健康促進と健康クリニックの提供など、さまざまなサービスを提供しています。"
+    },
+    "ur-PK": {
+      "title": "شمالی علاقہ جات کا ایڈز اور ہیپاٹائٹس کونسل آئنک",
+      "description": "شمالی علاقہ جات میں خون سے پھیلنے والے وائرس کے لئے ایک کمیونٹی کا جواب، جس کا مقصد ان کے منتقلی کو ختم کرنا ہے۔ الیک بی جی ٹی آئی لائیف کی سپورٹ, سیکس ورکر آؤٹ ریچ کو فروغ دینے، اور صحت کی ترویج اور صحت کے کلنک فراہم کرنے والی خدمات کا ایک سلسلہ پیش کرتا ہے۔"
+    },
+    "ar-SA": {
+      "title": "المجلس الشمالي للإيدز والتهاب الكبد الدموي Inc.",
+      "description": "استجابة المجتمع للفيروسات المنقولة بالدم في الإقليم الشمالي، بهدف القضاء على انتقالها. يقدم مجموعة من الخدمات مثل دعم المثليين والمزدوجين والمتحولين جنسيا والمشتهرين بالكآبة، وتعزيز التواصل مع العاملين في مجال الجنس، وتقديم التشجيع على الصحة والعيادات الصحية."
+    },
+    "hi-IN": {
+      "title": "उत्तरी प्रदेश एड्स और हेपेटाइटिस परिषद इंक।",
+      "description": "उत्तरी प्रदेश में रक्त संचारित वायरसों के प्रति समुदायिक प्रतिक्रिया, उनके संचरण को समाप्त करने का उद्देश्य। एलजीबीटीआई जीवन का समर्थन करने, सेक्स कर्मी पहुंच को बढ़ावा देने, और स्वास्थ्य संवर्धन और स्वास्थ्य क्लिनिक प्रदान करने जैसी विभिन्न सेवाओं का प्रदान करता है।"
+    },
+    "mr-IN": {
+      "title": "नॉर्दर्न टेरिटरी एड्स अँड हेपेटायटीस कॉउन्सिल इन्क.",
+      "description": "नॉर्दर्न टेरिटरी मधील रक्त प्राप्त विषाणूंच्या प्रतिसादाचे समुदाय. त्यांच्या संचाराचा निर्मूलन करण्याची ध्येयी धंवनी देत आहे. एलजीबीटीआय जगण्यास मदत करणारी, लैंगिक कामगारी प्रसार कार्य, आरोग्य प्रमोशन आणि आरोग्य क्लिनिक प्रदान करणारी सेवा देते."
+    },
+    "bn-BD": {
+      "title": "উত্তর টেরিটরি এইডস এবং হেপাটাইটিস কাউন্সিল ইন্ক।",
+      "description": "উত্তর টেরিটরিতে রক্তের মাধ্যমে ছড়ানো ভাইরাসের বিরুদ্ধে একটি সম্প্রদায় প্রতিক্রিয়া, যা তাদের সংচারণ তত্পরতা বাতিল করার প্রয়াস করে। এমন কিছু পরিষেবা প্রদান করে, যেমন LGBTI জীবন সমর্থন করা, যৌন কর্মী আউটরিচ প্রচার করা, এবং স্বাস্থ্য প্রচার এবং স্বাস্থ্য ক্লিনিক সরবরাহ করা।"
+    },
+    "ta-IN": {
+      "title": "வடக்கு பிரதேச ஏட்ஸ் மற்றும் ஹெப்பாடைடிஸ் கவுன்சில் இன்க்.",
+      "description": "வடக்கு பிரதேசத்தில் இரத்த போர்ன் வைரஸ்களுக்கு ஒரு சமூக பதில், அவர்கள் பரவல் பலன்கள் செலுத்தும் அல்லது முழுவதும் அழிக்க. LGBTI வாழ்க்கைக்கு ஆதரவைக்க, செக்ஸ் வேலைஞர் ஆலோசனைக்கு வழக்குப்பதிவை, மற்றும் சுகாதார பொதுவாழ்க்கை மற்றும் சுகாதார விதிகளை வழங்குவது ஆகியவற்றையும் வழங்குகின்றன."
+    },
+    "te-IN": {
+      "title": "నార్తర్న్ టెరిటరీ ఎయిడ్స్ మరియు హెపటైటిస్ కౌన్సిల్ ఇన్క్.",
+      "description": "నార్తర్న్ టెరిటరీలో బ్లడ్ బోర్న్ వైరసీలకి సంఘ స్పందన. వాటి ప్రచారణాన్ని పూర్తిగా అమలు చేపడుటకు ప్రయత్నిస్తోంది. LGBTI లివింగ్‌ను మద్దతు చేయడానికి, సెక్స్ పనిమనిషి ఔట్ రీచ్‌ను ప్రచారించడానికి మరియు ఆరోగ్య ప్రచారము మరియు ఆరోగ్య క్లినిక్స్ అందించడానికి ఒక విధంగా సేవలు అందిస్తుంది."
+    }
+  }
+}

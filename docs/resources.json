@@ -36,6 +36,36 @@
     "description": "The San Mateo County Pride Center is a collaboration model organization and one-stop shop for the LGBTQ+ community. We offer robust programs and services to support LGBTQ+ community members of all ages, including education, training, community events, peer support groups, daily programming, clinical therapy, and case management."
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace is an LGBTIQ+ health and wellbeing support service established in 2009 by LGBTIQ+ communities for LGBTIQ+ communities. It has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria. Services include counselling, case management, advocacy, support services, peer support, professional development, training and consulting."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "A vibrant online community and hub of knowledge for individuals interested in do-it-yourself hormone replacement therapy (HRT). Their website is dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. Whether you are exploring alternative methods, seeking guidance on dosage and administration, or simply looking to connect with others who share similar experiences, DIYHRT.cafe offers a wealth of valuable insights, personal stories, and expert advice to help you make informed decisions about your health and well-being."
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "DEiFYDEiFYQTIBIPOC Collective residing on Ngunnawal, Ngunawal and Ngambri Country",
+    "description": "This is a collective meeting for the DEiFYQTIBIPOC community. The group will also discuss the Queer Masculinities Zine and their specific playlist."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "A groundbreaking online platform dedicated to providing evidence-based research, education, and resources for the transgender and non-binary community, with a particular focus on feminizing hormone therapy (FHT). Their website serves as a vital hub for individuals seeking reliable and up-to-date information on the medical, physiological, and psychological aspects of FHT. Through their comprehensive collection of peer-reviewed studies, expert articles, and practical guides, their site empowers individuals to make informed decisions about their transition and health."
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "Meridian",
+    "description": "Meridian has been advocating for, and supporting, the LGBTIQA+ community for over 40 years, offering a range of services and programs across the Canberra region such as HIV services, wellbeing services, sex worker outreach programs and more."
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "Northern Territory AIDS and Hepatitis Council Inc.",
+    "description": "A community response to Blood Borne Viruses in the Northern Territory, aiming to eliminate their transmission. Offers a range of services such as supporting LGBTI Living, promoting sex worker outreach, and providing health promotion and health clinics."
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "News and discussion on trans legislation and life. By Erin Reed · Over 38,000 subscribers"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "Trans Health SA",
+    "description": "Trans Health SA is a volunteer group that exists to provide information and support for the health needs of trans and gender diverse people in South Australia. It provides lists of respectful practitioners, medical and legal information, information about supportive agencies, organizations, publications, social and support groups, and resources created by the transgender community."
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "An innovative online platform that aims to create a comprehensive and up-to-date resource for global LGBTQ+ rights. Their website provides a centralized database of laws, policies, and societal attitudes towards LGBTQ+ rights from around the world. By mapping and visualizing data on equality, inclusivity, and legal protections, EqualDex.com offers a powerful tool for activists, researchers, and individuals seeking to understand and advocate for LGBTQ+ rights on a global scale. Explore their interactive maps, browse country-specific profiles, and stay informed about the latest advancements and challenges facing the LGBTQ+ community worldwide."
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "A Gender Agenda",
+    "description": "A Gender Agenda works with and on behalf of intersex, trans and gender diverse people, their friends, families, and allies. Through education, advocacy, peer support, and professional networks, AGA connects people to each other and builds off the collective experiences. They offer numerous events and resources for the community, including support groups, training, educational resources. They provide advocacy and crisis helpline."
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "Founded in 1973, Pacific Center for Human Growth is the oldest LGBTQIA+ center in the Bay Area, the third oldest in the nation, and operates the only sliding scale mental health clinic for LGBTQIA+ and QTBIPOC people and their families in Alameda County."
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "Transgender Victoria",
+    "description": "TGV is Victoria’s leading body for trans and gender diverse people. We work to achieve justice, equity and inclusion for our communities, their partners, families, friends, and allies. We provide various resources, training, advocacy, and support services aimed at the social, economic, health, wellbeing, and mental health outcomes for the transgender community."
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "Oakland's first ever Non-profit 501c3, all ages, all inclusive LGBTQ community service center. Services offered include support groups, mental health support, housing assistance, youth program, legal clinic, food pantry etc. Special programs are also conducted for aged LGBTQ+ people and transgender community members."
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "The Shed Melbourne",
+    "description": "A Melbourne based support group for transmasculine individuals, offering various events and resources such as peer support meetings, gym clubs, book clubs, mental health resources, surgery and testosterone information and support, binder programmes, and more."
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "A health organization in South Australia that provides clinical services, sexual health counselling and education and training related to sexual and reproductive health and relationship skills. It also gives support and inclusive services for the LGBTIQA+ community. They also participate in celebrating and advocating for international transgender and gender diverse communities rights and recognition."
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "Zoe Belle Gender Collective",
+    "description": "Zoe Belle Gender Collective is a trans and gender diverse led advocacy organisation offering professional training, workshops, and support for the LGBTQI+ community. It provides resources and assistance for community services, workers, families and friends, and trans and gender diverse individuals. It also recently launched Transfemme, a preventative initiative against cis men's violence toward trans women."
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "Gender Diversity",
     "description": "Gender Diversity improves the well-being of children and adults of all gender identities and expression by providing education, increasing awareness, and offering insight into the wider range of human experience. We also assist in creating supportive and non-discriminatory environments in schools, sports teams, workplaces, and healthcare providers for transgender and gender diverse individuals."
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "NSW Service for the Treatment and Rehabilitation of Torture and Trauma Survivors",
+    "description": "STARTTS provides culturally relevant psychological treatment, community interventions, and training to services to help people heal from the scars of torture and refugee trauma. They aim to create a safe and supportive environment for diverse sexualities, genders, and bodies including refugees and asylum seekers."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons offers quality voice control and liberation services for transgender and non-binary individuals aiming to sound more masculine, feminine, or androgynous."
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Working It Out",
+    "description": "Working It Out is Tasmania's sexuality, gender, and intersex status support and education service. It provides support and advocacy services for LGBTIQ+ Tasmanians and education and training programmes to schools, workplaces, government, and non-government organizations."
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour Health",
+    "description": "A LGBTIQ+ community-controlled organisation providing health and wellbeing services for sex, gender and sexuality diverse communities, including HIV support and prevention, counselling, and family violence services."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "The Gender Centre Inc.",
     "description": "The Gender Centre Inc. is providing a broad range of specialised services that enables the exploration of gender identity and assistance with the alleviation of gender dysphoria. It supports trans and gender expressive people at every stage of their journey as they explore and live their authentic sense of self. It offers accommodation, case management, education & training, counseling & mental health services, groups, news, and resources."
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "Freedom Centre",
+    "description": "Freedom Centre provides a broad range of support services for LGBTIQA+ young people around WA, including drop-in sessions, community development, counselling and much more. They work towards making all LGBTIQA+ young people feel included, connected and respected. They also provide training and guidance to parents, professionals, communities and organisations."
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "East Bay Trans & Queer Counseling",
     "description": "East Bay Trans & Queer Counseling offers sliding scale services that include: Individual Therapy centrally located in Berkeley, CA Support through gender exploration and transition Recommendation letters for hormones and surgery Professional trainings for mental health providers, students, and employers. Sam Davis is a transgender, genderqueer Licensed Clinical Social Worker (LCSW) specializing in working with trans, queer, genderqueer, and gender-nonconforming teens and adults. They have 16 years of experience as a mental health provider in the East Bay, including peer support group facilitation, community education at LGBTQI conferences, and 9 years of clinical practice and crisis counseling with severely marginalized people for the County of Alameda. They are a strong and committed advocate with a long history of organizing on behalf of marginalized people."
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Seahorse Victoria Club",
+    "description": "Est. 1975, Seahorse Club Victoria provides resources, community service and support for the transgender community. It includes a trans-friendly directory of services and an upcoming online platform for members to connect."
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "Transgender Map",
     "description": "Transgendermap.com is an online resource aimed at providing practical information and guidance to people who are questioning their gender identity or are somewhere on the transgender spectrum. The website includes a wide range of topics like understanding transgender terminology, transition processes, legal issues, healthcare, and numerous personal stories. Its goal is to help individuals navigate their personal journeys by providing a 'map' or guide to the many aspects of gender identity and transgender experiences. Please visit the actual site for the most current and accurate information."
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk of WA",
+    "description": "A peer support service for transgender people and their loved ones in Western Australia. Offering online groups, recommended services and resources, and hosting various events."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

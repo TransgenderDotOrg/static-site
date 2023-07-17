@@ -36,6 +36,36 @@
     "description": "Trung tâm Tự hào Hạt San Mateo là một tổ chức mô hình hợp tác và là nơi dừng chân cho cộng đồng LGBTQ+. Chúng tôi cung cấp các chương trình và dịch vụ mạnh mẽ để hỗ trợ các thành viên của cộng đồng LGBTQ+ ở mọi lứa tuổi, bao gồm giáo dục, đào tạo, sự kiện cộng đồng, nhóm hỗ trợ bạn bè, lập trình hàng ngày, liệu pháp lâm sàng, và quản lý trường hợp."
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace là một dịch vụ hỗ trợ sức khỏe và phúc lợi cho cộng đồng LGBTIQ+ được thành lập năm 2009 bởi cộng đồng LGBTIQ+ cho cộng đồng LGBTIQ+. Nó tập trung vào các mối quan hệ, gia đình, việc nuôi dạy con và thanh thiếu niên và cung cấp dịch vụ tại nhiều địa điểm trên khu vực đô thị phía tây bắc Victoria. Các dịch vụ bao gồm tư vấn, quản lý trường hợp, biện hộ, dịch vụ hỗ trợ, hỗ trợ từ đồng nghiệp, phát triển chuyên môn, đào tạo và tư vấn."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "Một cộng đồng trực tuyến sôi động và trung tâm kiến thức cho những người quan tâm đến việc tự tạo ra liệu pháp thay thế hormon (HRT). Trang web của họ tập trung vào việc cung cấp một không gian an toàn và bao quát nơi mọi người có thể tiếp cận thông tin, nguồn lực, và hỗ trợ cho việc tự điều khiển HRT. Dù bạn đang khám phá các phương pháp thay thế, tìm kiếm hướng dẫn về liều lượng và quản lý, hay chỉ đơn giản muốn kết nối với những người chia sẻ những trải nghiệm tương tự, DIYHRT.cafe mang đến một nguồn thông tin quý giá, câu chuyện cá nhân, và lời khuyên chuyên môn để giúp bạn ra quyết định thông suốt về sức khỏe và cuộc sống của bạn."
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "Nhóm Collective DEiFYQTIBIPOC cư ngụ tại vùng Ngunnawal, Ngunawal và Ngambri",
+    "description": "Đây là một cuộc họp tập thể cho cộng đồng DEiFYQTIBIPOC. Nhóm cũng sẽ thảo luận về Zine Masculinities Queer và danh sách nhạc riêng của họ."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "Một nền tảng trực tuyến tiên phong dành riêng để cung cấp nghiên cứu, giáo dục và nguồn lực dựa trên bằng chứng cho cộng đồng người chuyển giới và không nhị phân, với một trọng tâm đặc biệt vào liệu pháp hormone nữ hóa (FHT). Trang web của họ phục vụ như một trung tâm quan trọng cho những người đang tìm kiếm thông tin tin cậy và cập nhật về các khía cạnh y khoa, sinh lý học, và tâm lý học của FHT. Thông qua bộ sưu tập toàn diện của họ về các nghiên cứu được xem xét bởi đồng nghiệp, các bài viết của chuyên gia, và các hướng dẫn thực tế, trang web của họ trao quyền cho các cá nhân để đưa ra quyết định thông suốt về quá trình chuyển đổi và sức khỏe của họ."
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "Meridian",
+    "description": "Meridian đã ủng hộ và hỗ trợ cộng đồng LGBTIQA+ trong hơn 40 năm, cung cấp một loạt các dịch vụ và chương trình trên khu vực Canberra như dịch vụ HIV, dịch vụ sức khỏe, chương trình tiếp cận công nhân tình dục và nhiều hơn nữa."
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "Hội đồng AIDS và viêm gan Bộ phận Bắc",
+    "description": "Phản ứng cộng đồng đối với Vi khuẩn lây lan qua máu tại Bắc Bộ, nhằm loại bỏ việc truyền nhiễm chúng. Cung cấp một loạt các dịch vụ như hỗ trợ cuộc sống LGBTI, khuyến nghị tiếp cận công nhân tình dục và cung cấp sự thúc đẩy sức khỏe và phòng khám sức khỏe."
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "Tin tức và thảo luận về các quy định và cuộc sống của người chuyển giới. Bởi Erin Reed · Hơn 38.000 người đăng ký"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "Trans Health SA",
+    "description": "Trans Health SA là một nhóm tình nguyện tồn tại để cung cấp thông tin và hỗ trợ cho nhu cầu sức khỏe của những người thuộc giới tính chuyển đổi và đa dạng về giới tính ở Nam Úc. Nó cung cấp danh sách các người thực hành tôn trọng, thông tin y tế và pháp lý, thông tin về các cơ quan hỗ trợ, tổ chức, ấn phẩm, nhóm xã hội và hỗ trợ, và các nguồn lực được tạo ra bởi cộng đồng người chuyển giới."
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "Một nền tảng trực tuyến đổi mới mà mục tiêu là tạo ra một nguồn tài nguyên toàn diện và cập nhật cho quyền lợi LGBTQ+ toàn cầu. Trang web của họ cung cấp một cơ sở dữ liệu trung tâm về luật pháp, chính sách và thái độ xã hội đối với quyền lợi LGBTQ+ từ khắp nơi trên thế giới. Bằng việc vẽ bản đồ và trực quan hóa dữ liệu về bình đẳng, sự bao trùm, và bảo vệ pháp lý, EqualDex.com cung cấp một công cụ mạnh mẽ cho các nhà hoạt động, nhà nghiên cứu, và cá nhân mong muốn hiểu và đấu tranh cho quyền lợi LGBTQ+ trên phạm vi toàn cầu. Khám phá các bản đồ tương tác của họ, duyệt các thông tin cụ thể của từng quốc gia, và cập nhật thông tin về những tiến bộ và thách thức mới nhất mà cộng đồng LGBTQ+ trên toàn thế giới đang đối mặt."
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Một Chương trình về Giới tính",
+    "description": "Một Chương trình về Giới tính hợp tác với và thay mặt cho những người không rõ giới tính, người chuyển giới và người đa giới tính, bạn bè, gia đình, và đồng minh của họ. Thông qua giáo dục, tuyên truyền, hỗ trợ từ đồng nghiệp, và mạng lưới chuyên nghiệp, AGA kết nối mọi người với nhau và xây dựng dựa trên những kinh nghiệm chung. Họ tổ chức nhiều sự kiện và cung cấp nguồn tài nguyên cho cộng đồng, bao gồm nhóm hỗ trợ, đào tạo, tài nguyên giáo dục. Họ cung cấp tuyên truyền và đường dây nóng hỗ trợ khủng hoảng."
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "Được thành lập vào năm 1973, Trung tâm Phát triển Con người Pacific là trung tâm LGBTQIA+ lâu đời nhất tại Vùng Vịnh, thứ ba lâu đời nhất tại quốc gia, và điều hành phòng khám sức khỏe tâm thần tỷ lệ trượt duy nhất cho người LGBTQIA+ và QTBIPOC và gia đình họ tại Quận Alameda."
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "Transgender Victoria",
+    "description": "TGV là tổ chức hàng đầu của Victoria cho những người chuyển giới và đa giới tính. Chúng tôi làm việc để đạt được công lý, công bằng và sự bao gồm cho cộng đồng của chúng tôi, đối tác của họ, gia đình, bạn bè và đồng minh. Chúng tôi cung cấp các nguồn lực, đào tạo, ủng hộ, và dịch vụ hỗ trợ nhằm vào kết quả xã hội, kinh tế, sức khỏe, phúc lợi, và sức khỏe tâm thần cho cộng đồng người chuyển giới."
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "Trung tâm dịch vụ cộng đồng LGBTQ đầu tiên của Oakland, không vì lợi nhuận, dành cho mọi lứa tuổi và bao quát mọi thành viên. Các dịch vụ được cung cấp bao gồm nhóm hỗ trợ, hỗ trợ sức khỏe tâm thần, hỗ trợ nhà ở, chương trình cho thanh thiếu niên, phòng khám pháp lý, phòng tạp phẩm thực phẩm, v.v. Còn tổ chức các chương trình đặc biệt cho người LGBTQ+ tuổi cao cùng cộng đồng người chuyển giới."
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "The Shed Melbourne",
+    "description": "Một nhóm hỗ trợ có trụ sở tại Melbourne dành cho những người chuyển giới nam tính, cung cấp các sự kiện và tài nguyên như cuộc họp hỗ trợ bạn bè, câu lạc bộ thể dục, câu lạc bộ sách, tài nguyên về sức khỏe tâm thần, thông tin và hỗ trợ về phẫu thuật và testosterone, chương trình binder, và nhiều hơn nữa."
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "Một tổ chức y tế ở Nam Úc cung cấp các dịch vụ lâm sàng, tư vấn về sức khỏe tình dục và giáo dục, đào tạo liên quan đến sức khỏe tình dục và sinh sản và kỹ năng tương tác. Nó cũng cung cấp hỗ trợ và các dịch vụ bao quát cho cộng đồng LGBTIQA+. Họ cũng tham gia vào việc kỷ niệm và ủng hộ cho quyền lợi và sự công nhận của cộng đồng người chuyển giới và đa giới tính quốc tế."
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "Zoe Belle Gender Collective",
+    "description": "Zoe Belle Gender Collective là một tổ chức ủng hộ do cộng đồng người chuyển giới và đa giới tính dẫn dắt, cung cấp đào tạo chuyên nghiệp, các buổi hội thảo và hỗ trợ cho cộng đồng LGBTQI+. Tổ chức này cung cấp nguồn lực và hỗ trợ cho các dịch vụ cộng đồng, người lao động, gia đình và bạn bè, cũng như cá nhân đa giới tính và chuyển giới. Gần đây, nó cũng đã ra mắt Transfemme, một sáng kiến phòng ngừa bạo lực của nam giới cis đối với phụ nữ chuyển giới."
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "Đa dạng giới tính",
     "description": "Đa dạng giới tính cải thiện sự ổn định của trẻ em và người lớn thuộc mọi danh tính và biểu hiện giới tính bằng cách cung cấp giáo dục, nâng cao nhận thức, và đem lại cái nhìn sâu sắc vào phạm vi rộng lớn hơn của trải nghiệm con người. Chúng tôi còn hỗ trợ trong việc tạo ra môi trường hỗ trợ và không phân biệt đối xử tại các trường học, đội thể thao, nơi làm việc, và nhà cung cấp dịch vụ y tế cho các cá nhân chuyển đổi giới tính và đa dạng giới tính."
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "Dịch vụ NSW cho Điều trị và Phục hồi Nạn nhân Hành hạ và Trauma",
+    "description": "STARTTS cung cấp điều trị tâm lý phù hợp với văn hóa, can thiệp cộng đồng và đào tạo cho các dịch vụ để giúp mọi người hồi phục từ những vết thương của hành hạ và nỗi đau người tị nạn. Họ hướng đến việc tạo ra một môi trường an toàn và hỗ trợ cho mọi giới tính, giới tính và hình thể khác nhau, bao gồm người tị nạn và người xin tị nạn."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons cung cấp các dịch vụ kiểm soát và giải phóng chất lượng cho các cá nhân chuyển giới và không nhị phân nhằm hướng tới giọng nói nam tính, nữ tính hơn hoặc trung tính."
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Working It Out",
+    "description": "Working It Out là dịch vụ hỗ trợ và giáo dục về tình dục, giới tự nhận và tình trạng giữa nam và nữ của Tasmania. Nó cung cấp dịch vụ hỗ trợ và ủng hộ cho người Tasmania thuộc LGBTIQ+ và các chương trình giáo dục và đào tạo cho trường học, nơi làm việc, chính phủ và tổ chức phi chính phủ."
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour Health",
+    "description": "Một tổ chức do cộng đồng LGBTIQ+ điều hành cung cấp các dịch vụ sức khỏe và hạnh phúc cho các cộng đồng đa dạng về tình dục, giới tính và tình dục, bao gồm hỗ trợ và phòng ngừa HIV, tư vấn, và dịch vụ bạo lực gia đình."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "Trung tâm Giới tính Inc.",
     "description": "Trung tâm Giới tính Inc. cung cấp một loạt các dịch vụ chuyên biệt giúp khám phá bản sắc giới tính và hỗ trợ giảm nhẹ sự mất ổn định giới tính. Nó hỗ trợ những người chuyển giới và những người thể hiện giới tính tại mọi giai đoạn của hành trình của họ khi họ khám phá và sống với bản sắc thực sự của họ. Nó cung cấp chỗ ở, quản lý hồ sơ, giáo dục & đào tạo, tư vấn & dịch vụ sức khỏe tâm thần, nhóm, tin tức và nguồn lực."
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "Trung tâm Tự do",
+    "description": "Trung tâm Tự do cung cấp một loạt các dịch vụ hỗ trợ rộng rãi cho người trẻ thuộc LGBTIQA+ ở WA, bao gồm các buổi tiếp đãi rơi rớt, phát triển cộng đồng, tư vấn và nhiều hơn nữa. Họ làm việc để làm cho tất cả người trẻ LGBTIQA+ cảm thấy được đưa vào, kết nối và tôn trọng. Họ cũng cung cấp đào tạo và hướng dẫn cho cha mẹ, chuyên gia, cộng đồng và tổ chức."
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "Tư vấn Trans & Queer East Bay",
     "description": "Tư vấn Trans & Queer East Bay cung cấp các dịch vụ theo quy mô trượt bao gồm: Trị liệu cá nhân tọa lạc tại trung tâm Berkeley, CA Hỗ trợ qua việc khám phá giới tính và chuyển đổi Thư giới thiệu cho hormones và phẫu thuật Đào tạo chuyên nghiệp cho các nhà cung cấp sức khỏe tâm thần, sinh viên và nhà tuyển dụng. Sam Davis là một người chuyển giới, giới tính mờ Lisenced Clinical Social Worker (LCSW) chuyên về việc làm việc với các thiếu niên và người lớn trans, queer, giới tính hoà mình và giới tính không tuân thủ. Họ có 16 năm kinh nghiệm là người cung cấp sức khỏe tâm thần tại East Bay, bao gồm việc hỗ trợ nhóm hỗ trợ ngang hàng, giáo dục cộng đồng tại các hội nghị LGBTQI và 9 năm thực hành lâm sàng và tư vấn khủng hoảng cho những người bị cô lập nặng nề tại Quận Alameda. Họ là một người ủng hộ mạnh mẽ và cam kết với lịch sử tổ chức dài hạn đại diện cho những người bị đẩy lề."
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Câu lạc bộ Seahorse Victoria",
+    "description": "Thành lập từ năm 1975, Seahorse Club Victoria cung cấp các tài nguyên, dịch vụ cộng đồng và hỗ trợ cho cộng đồng người chuyển giới. Nó bao gồm một danh mục dịch vụ thân thiện với người chuyển giới và một nền tảng trực tuyến sắp ra mắt để các thành viên kết nối."
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "Bản đồ Transgender",
     "description": "Transgendermap.com là một nguồn tài nguyên trực tuyến nhằm cung cấp thông tin và hướng dẫn thực tế cho những người đang thắc mắc về giới tính của mình hoặc đang nằm ở một đâu đó trên phổ giới tính chuyển đổi. Trang web bao gồm một loạt các chủ đề như hiểu về thuật ngữ transgender, quá trình chuyển đổi, vấn đề pháp lý, chăm sóc sức khỏe và nhiều câu chuyện cá nhân. Mục tiêu của nó là giúp cá nhân điều hướng hành trình cá nhân của mình bằng cách cung cấp một 'bản đồ' hoặc hướng dẫn về nhiều khía cạnh của giới tính và trải nghiệm transgender. Vui lòng truy cập trang web thực sự để nhận thông tin mới nhất và chính xác nhất."
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk của WA",
+    "description": "Một dịch vụ hỗ trợ đồng nghiệp cho những người chuyển giới và người thân yêu của họ tại Tây Úc. Cung cấp các nhóm trực tuyến, dịch vụ và tài nguyên được khuyến nghị, và tổ chức các sự kiện khác nhau."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

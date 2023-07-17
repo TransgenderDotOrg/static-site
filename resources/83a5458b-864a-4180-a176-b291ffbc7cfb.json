@@ -1,0 +1,114 @@
+{
+  "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+  "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+  "externalUrl": "https://www.startts.org.au/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+  "phoneNumber": "+61 (0)2 9646 6700",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Carramar",
+  "county": "City of Fairfield",
+  "latLng": [
+    -33.8801011,
+    150.9654668
+  ],
+  "email": "stts-startts@health.nsw.gov.au",
+  "socialMedia": {
+    "googleMapsUrl": null,
+    "linkedinUrl": null,
+    "facebookUrl": null,
+    "youtubeUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "NSW Service for the Treatment and Rehabilitation of Torture and Trauma Survivors",
+      "description": "STARTTS provides culturally relevant psychological treatment, community interventions, and training to services to help people heal from the scars of torture and refugee trauma. They aim to create a safe and supportive environment for diverse sexualities, genders, and bodies including refugees and asylum seekers."
+    },
+    "de-DE": {
+      "title": "NSW-Dienst für die Behandlung und Rehabilitation von Folter- und Traumaüberlebenden",
+      "description": "STARTTS bietet kulturell relevante psychologische Behandlung, Gemeinschaftsinterventionen und Schulungen für Dienste, um Menschen bei der Heilung von den Narben der Folter und Flüchtlingstraumata zu helfen. Sie zielen darauf ab, eine sichere und unterstützende Umgebung für verschiedene Sexualitäten, Geschlechter und Körper zu schaffen, einschließlich Flüchtlingen und Asylsuchenden."
+    },
+    "pt-PT": {
+      "title": "Serviço NSW para o Tratamento e Reabilitação de Sobreviventes de Tortura e Trauma",
+      "description": "A STARTTS fornece tratamento psicológico culturalmente relevante, intervenções comunitárias e treinamento para serviços para ajudar as pessoas a curarem das cicatrizes da tortura e do trauma de refugiados. Eles visam criar um ambiente seguro e de apoio para diversas sexualidades, gêneros e corpos, incluindo refugiados e solicitantes de asilo."
+    },
+    "id-ID": {
+      "title": "Layanan NSW untuk Pengobatan dan Rehabilitasi Korban Penyiksaan dan Trauma",
+      "description": "STARTTS menyediakan pengobatan psikologis yang relevan dengan budaya, intervensi masyarakat, dan pelatihan kepada layanan untuk membantu orang-orang sembuh dari luka penyiksaan dan trauma pengungsi. Mereka bertujuan untuk menciptakan lingkungan yang aman dan mendukung untuk berbagai seksualitas, gender, dan tubuh termasuk pengungsi dan pencari suaka."
+    },
+    "fr-FR": {
+      "title": "Service NSW pour le Traitement et la Réhabilitation des Survivants de la Torture et du Trauma",
+      "description": "STARTTS fournit un traitement psychologique culturellement pertinent, des interventions communautaires et une formation à des services pour aider les gens à guérir des cicatrices de la torture et du trauma des réfugiés. Ils visent à créer un environnement sûr et soutenant pour les sexualités diverses, les genres et les corps, y compris les réfugiés et les demandeurs d'asile."
+    },
+    "ja-JP": {
+      "title": "トーチャーとトラウマの生存者たちへの治療とリハビリテーションのためのNSWサービス",
+      "description": "STARTTSは、文化に関連した心理治療、コミュニティ介入、トーチャーと難民トラウマの傷から回復するのを助けるサービスへのトレーニングを提供します。彼らの目指すところは、性的少数者や性別、体の多様性を含む難民や亡命求める人々に対する安全で支援的な環境を創造することです。"
+    },
+    "es-ES": {
+      "title": "Servicio de NSW para el Tratamiento y Rehabilitación de Sobrevivientes de Tortura y Trauma",
+      "description": "STARTTS proporciona tratamiento psicológico culturalmente relevante, intervenciones comunitarias y capacitación a servicios para ayudar a las personas a sanar de las cicatrices de la tortura y el trauma de los refugiados. Su objetivo es crear un ambiente seguro y de apoyo para diversas sexualidades, géneros y cuerpos, incluyendo refugiados y solicitantes de asilo."
+    },
+    "sw-KE": {
+      "title": "Huduma ya NSW kwa Matibabu na Urekebishaji wa Waathiriwa wa Mateso na Majeraha",
+      "description": "STARTTS hutoa matibabu ya kisaikolojia yanayohusiana na utamaduni, uingiliaji wa jamii, na mafunzo kwa huduma ili kusaidia watu kupona kutoka kwa makovu ya mateso na majeraha ya wakimbizi. Wanalenga kuunda mazingira salama na ya kusaidia kwa jinsia mbalimbali, jinsia, na miili ikiwa ni pamoja na wakimbizi na waomba hifadhi."
+    },
+    "ko-KR": {
+      "title": "고문 및 트라우마 생존자 치료 및 재활을 위한 NSW 서비스",
+      "description": "STARTTS는 문화적으로 타당한 심리치료, 커뮤니티 개입, 서비스 교육을 제공하여 고문 및 난민 트라우마의 상처에서 사람들이 치유될 수 있도록 돕습니다. 그들의 목표는 다양한 성적 취향, 성별, 몸매를 포함한 난민 및 망명자에게 안전하고 지지적인 환경을 만드는 것입니다."
+    },
+    "ru-RU": {
+      "title": "Служба Нового Южного Уэльса по лечению и реабилитации выживших после пыток и травм",
+      "description": "STARTTS предоставляет культурно соответствующее психологическое лечение, вмешательства на уровне сообщества и обучение для услуг, помогающих людям залечивать раны от пыток и травм беженцев. Они стремятся создать безопасную и поддерживающую среду для различных сексуальностей, гендеров и тел, включая беженцев и искателей убежища."
+    },
+    "vi-VN": {
+      "title": "Dịch vụ NSW cho Điều trị và Phục hồi Nạn nhân Hành hạ và Trauma",
+      "description": "STARTTS cung cấp điều trị tâm lý phù hợp với văn hóa, can thiệp cộng đồng và đào tạo cho các dịch vụ để giúp mọi người hồi phục từ những vết thương của hành hạ và nỗi đau người tị nạn. Họ hướng đến việc tạo ra một môi trường an toàn và hỗ trợ cho mọi giới tính, giới tính và hình thể khác nhau, bao gồm người tị nạn và người xin tị nạn."
+    },
+    "zh-CN": {
+      "title": "新南威尔士虐待和创伤幸存者的治疗和康复服务",
+      "description": "STARTTS为人们提供与文化相关的心理治疗、社区干预和服务培训，以帮助人们从创伤和难民创伤的疤痕中康复。他们致力于为包括难民和寻求庇护者在内的多元性别、性取向和身体创造一个安全支持的环境。"
+    },
+    "tr-TR": {
+      "title": "İşkence ve Travma Kurtulanlarının Tedavi ve Rehabilitasyonu için NSW Servisi",
+      "description": "STARTTS, işkence ve mülteci travmasının yaralarından tedavi olmalarına yardımcı olmak için kültürel olarak ilgili psikolojik tedavi, toplum müdahaleleri ve hizmetlere eğitim sunar. Çeşitli cinsellikler, cinsiyetler, bedenler için güvenli ve destekleyici bir ortam yaratmayı amaçlarlar, bu da mültecileri ve sığınma arayanları içerir."
+    },
+    "uk-UA": {
+      "title": "NSW Служба лікування та реабілітації виживших після тортур та травми",
+      "description": "STARTTS надає культурно релевантний психологічний лікування, втручання спільноти та навчання службам, щоб допомогти людям зцілити рани від тортур та травми біженців. Вони прагнуть створити безпечне та підтримуюче середовище для різноманітних сексуальностей, гендерів та тіл, включаючи біженців та шукачів притулку."
+    },
+    "ar-SA": {
+      "title": "خدمة NSW للعلاج والتأهيل للناجين من العذاب والصدمة",
+      "description": "يقدم STARTTS العلاج النفسي ذو الصلة بالثقافة، والتدخلات المجتمعية، والتدريب على الخدمات لمساعدة الأشخاص على الشفاء من جروح العذاب وصدمة اللاجئين. يهدفون إلى خلق بيئة آمنة وداعمة للتنوعات الجنسية، الأجناس، والأجساد بما في ذلك اللاجئين وطالبي اللجوء."
+    },
+    "ur-PK": {
+      "title": "تشدد اور تکلیف کے زخموں کے صرفہ اور بہتری کیلئے NSW خدمت",
+      "description": "STARTTS کلچری رواج کے مطابق نفسیاتی علاج، کمیونٹی مداخلے، اور خدمات کی تربیت فراہم کرتا ہے تاکہ لوگ تشدد اور پناہ گزین تکلیف کے زخموں سے شفا پا سکیں۔ ان کا مقصد یہ ہے کہ وہ مختلف جنسیتوں، جنسوں، اور جسموں کے لئے ، جن میں پناہ گزینوں اور پناہ خواہوں کو شامل کیا گیا ہو، محفوظ اور تائید کرنے والا ماحول پیدا کریں۔"
+    },
+    "bn-BD": {
+      "title": "যন্ত্রণা এবং অভিযান অভিজ্ঞতা চিকিৎসা এবং পুনর্বাসনের জন্য NSW সেবা",
+      "description": "STARTTS সংস্কৃতি সম্পর্কিত মনের চিকিৎসা, সম্প্রদায় হস্তক্ষেপ, এবং সেবাগুলিতে প্রশিক্ষণ প্রদান করে যাতে মানুষ যন্ত্রণা এবং শরণার্থী অভিযান থেকে চিকিৎসা পেতে পারে। তারা পৃথিবী ব্যাপী যৌনতা, লিঙ্গ, এবং দেহ সহ শরণার্থী এবং আশ্রয় দাবি কারীদের জন্য একটি নিরাপদ এবং সমর্থক পরিবেশ তৈরি করার লক্ষ্যে কাজ করে।"
+    },
+    "hi-IN": {
+      "title": "तृतीयकरण और यातना के अपराधीयों के इलाज और पुनर्वास के लिए NSW सेवा",
+      "description": "STARTTS सांस्कृतिक रूप से प्रासंगिक मनोवैज्ञानिक उपचार, समुदाय हस्तक्षेप, और सेवाओं को प्रशिक्षण प्रदान करता है जो लोगों को यातना और शरणार्थी संकट के निशानों से ठीक होने में मदद करता है। वे विविध यौनिकताओं, लिंगों, और शरीरों के लिए, जिसमें शरणार्थियों और आश्रय खोजने वालों को शामिल किया गया है, एक सुरक्षित और समर्थनात्मक वातावरण बनाने का लक्ष्य रखते हैं।"
+    },
+    "te-IN": {
+      "title": "మార్కు మరియు భయෂేకిగా బాధితులపై చికిత్సా మరియు పునరుద్ధారణ సేవలను NSW సేవ అందించుతుంది",
+      "description": "STARTTS సంగతికమైన మానసిక చికిత్సను, సంఘంలో మధ్యలుగుణను, మరియు సేవలకు ప్రశిక్షణను అందిస్తుంది మార్కు మరియు ఆశ్రయ తీవ్రత పీడితుల మనసు ఇటువంటి గాయాలకు మెత్తని కలగించేందుకు. వివిధ లైంగిక ప్రవృత్తులు, లింగాలు, మరియు శరీరాలనుండి బాధితులకు మరియు ఆశ్రయ శరణార్థులకు సురక్షిత మరియు మద్దతు కలిగిన పరిసరాన్ని రూపొందించడానికి వారు లక్ష్యించారు."
+    },
+    "ta-IN": {
+      "title": "டார்சர் மற்றும் பிராண ஏற்றல் வழிகாட்டியன் சிகிச்சை மற்றும் புனர்வாழ்வு சேவைகளுக்கான NSW சேவை",
+      "description": "STARTTSஆகியவர்கள் பண்பாட்டுப் பொருத்தமான உளவியல் சிகிச்சை, சமூக நடவடிக்கைகள், மற்றும் அழுக்கும் பிராண ஏற்றல் பழக்கவழக்கங்களில் இருந்து மக்கள் மருத்துவமடைய சேவைகளுக்காக பயிற்சி வழங்குகின்றனர். அவர்கள் பல்வேறு காதல்கள், பாலின்கள், மற்றும் உடல்களுக்கான பாதுகாப்பான மற்றும் ஆதரவான சூழலை உருவாக்க நோக்குகின்றனர், இதுவே அகதிகள் மற்றும் இடைநிலை ஆபத்துக்குள்ளவீடு தேடுகின்றனர்."
+    },
+    "mr-IN": {
+      "title": "येथील यंत्रणा आणि अपघातांच्या अनुभवांच्या उपचार आणि पुनर्वास साठी एनऍसडब्ल्यू सेवा",
+      "description": "STARTTS म्हणजे सांस्कृतिक रितीनुसार मानसिक उपचार, समुदाय निर्देशने आणि सेवा साठी प्रशिक्षण प्रदान करते ज्याची उद्दीष्ट यंत्रणा आणि अपघातांच्या अनुभवांमुळे जितके शोधाला आलेले असे तितके लोकांना संपावण्यास मदत करण्यास मदत करण्यास आहे. त्यांचा उद्दिष्ट विविध लैंगिकतेच्या, लिंगांच्या, आणि शरीरांसाठी सुरक्षित आणि समर्थनार्थ वाहतुकीचे वातावरण तयार करण्याचा आहे, त्यातल्या शरणार्थ्यांना आणि आश्रय मागणार्‍यांना समाविष्ट करतात."
+    }
+  }
+}

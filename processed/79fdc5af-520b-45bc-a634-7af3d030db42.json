@@ -1,0 +1,26 @@
+{
+  "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+  "title": "SHINE SA",
+  "description": "A health organization in South Australia that provides clinical services, sexual health counselling and education and training related to sexual and reproductive health and relationship skills. It also gives support and inclusive services for the LGBTIQA+ community. They also participate in celebrating and advocating for international transgender and gender diverse communities rights and recognition.",
+  "slug": "shinesa",
+  "externalUrl": "https://shinesa.org.au/",
+  "tags": [
+    "healthcare",
+    "education-awareness",
+    "mental-health",
+    "social-services",
+    "support-groups"
+  ],
+  "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+  "phoneNumber": "8300 5300",
+  "country": "AU",
+  "provinceOrState": "SA",
+  "city": "Woodville",
+  "latLng": [
+    -34.87943560000001,
+    138.536817
+  ],
+  "email": "info@shinesa.org.au",
+  "socialMedia": null,
+  "county": "Charles Sturt"
+}

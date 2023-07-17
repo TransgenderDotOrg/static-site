@@ -1,0 +1,31 @@
+{
+  "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+  "title": "TransFolk of WA",
+  "description": "A peer support service for transgender people and their loved ones in Western Australia. Offering online groups, recommended services and resources, and hosting various events.",
+  "slug": "transfolk-of-wa",
+  "externalUrl": "https://www.transfolkofwa.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "WA",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

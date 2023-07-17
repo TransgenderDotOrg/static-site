@@ -1,0 +1,116 @@
+{
+  "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+  "slug": "a-gender-agenda",
+  "externalUrl": "https://genderrights.org.au/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "community-stories",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "address": null,
+  "phoneNumber": "(02) 6162 1924",
+  "country": "AU",
+  "provinceOrState": null,
+  "city": "Canberra",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "A Gender Agenda",
+      "description": "A Gender Agenda works with and on behalf of intersex, trans and gender diverse people, their friends, families, and allies. Through education, advocacy, peer support, and professional networks, AGA connects people to each other and builds off the collective experiences. They offer numerous events and resources for the community, including support groups, training, educational resources. They provide advocacy and crisis helpline."
+    },
+    "es-ES": {
+      "title": "Una Agenda de Género",
+      "description": "Una Agenda de Género trabaja con y en nombre de las personas intersexuales, trans y de género diverso, sus amigos, familias y aliados. A través de la educación, la defensa, el apoyo entre pares y las redes profesionales, AGA conecta a las personas entre sí y se basa en las experiencias colectivas. Ofrecen numerosos eventos y recursos para la comunidad, incluyendo grupos de apoyo, capacitación, recursos educativos. Proporcionan defensa y línea de ayuda en crisis."
+    },
+    "id-ID": {
+      "title": "A Gender Agenda",
+      "description": "A Gender Agenda bekerja dengan dan atas nama orang interseks, trans dan beragam gender, teman-teman mereka, keluarga, dan sekutu. Melalui pendidikan, advokasi, dukungan sebaya, dan jaringan profesional, AGA menghubungkan orang-orang satu sama lain dan membangun dari pengalaman kolektif. Mereka menawarkan banyak acara dan sumber daya untuk komunitas, termasuk kelompok dukungan, pelatihan, sumber daya pendidikan. Mereka memberikan advokasi dan hotline krisis."
+    },
+    "pt-PT": {
+      "title": "A Gender Agenda",
+      "description": "A Gender Agenda trabalha com e em nome de pessoas intersexo, trans e de gênero diverso, seus amigos, famílias e aliados. Através da educação, defesa, apoio entre pares e redes profissionais, a AGA conecta as pessoas umas às outras e se baseia nas experiências coletivas. Eles oferecem inúmeros eventos e recursos para a comunidade, incluindo grupos de apoio, treinamento, recursos educacionais. Eles fornecem defesa e linha de ajuda de crise."
+    },
+    "zh-CN": {
+      "title": "性别议程",
+      "description": "性别议程为间性人、跨性别人、性别多元人，他们的朋友、家人和盟友服务，也代表他们工作。通过教育、倡导、同伴支持和专业网络，性别议程将人们联系起来，并依据集体经验进行建设。他们为社区提供许多活动和资源，包括支持团体、培训、教育资源。他们提供倡导和危机热线服务。"
+    },
+    "fr-FR": {
+      "title": "Un Ordre du Jour de Genre",
+      "description": "Un Ordre du Jour de Genre travaille avec et en faveur des personnes intersexuées, trans et de diversité de genre, leurs amis, familles et alliés. Par l'éducation, l'advocacy, le soutien par les pairs et les réseaux professionnels, AGA connecte les gens entre eux et s'appuie sur les expériences collectives. Ils proposent de nombreux événements et ressources pour la communauté, y compris des groupes de soutien, des formations, des ressources éducatives. Ils fournissent une assistance en matière de plaidoyer et une ligne d'urgence en cas de crise."
+    },
+    "de-DE": {
+      "title": "Eine Geschlechteragenda",
+      "description": "Eine Geschlechteragenda arbeitet mit und im Namen von intersexuellen, trans- und geschlechtsdiversen Menschen, ihren Freunden, Familien und Verbündeten. Durch Bildung, Fürsprache, Peer-Support und professionelle Netzwerke verbindet AGA Menschen miteinander und baut auf den kollektiven Erfahrungen auf. Sie bieten zahlreiche Veranstaltungen und Ressourcen für die Gemeinschaft an, einschließlich Unterstützungsgruppen, Trainings, Bildungsressourcen. Sie bieten Fürsprache und Krisen-Helpline."
+    },
+    "sw-KE": {
+      "title": "Ajenda ya Jinsia",
+      "description": "Ajenda ya Jinsia inafanya kazi na kwa niaba ya watu wa jinsia tofauti, trans na intersex, marafiki zao, familia, na washirika. Kupitia elimu, utetezi, msaada wa rika, na mitandao ya kitaaluma, AGA inaunganisha watu na kujenga kutokana na uzoefu wa pamoja. Wao hutoa matukio mengi na rasilimali kwa jamii, ikiwa ni pamoja na makundi ya msaada, mafunzo, rasilimali za elimu. Wao hutoa utetezi na helpline ya mgogoro."
+    },
+    "tr-TR": {
+      "title": "A Gender Ajandası",
+      "description": "A Gender Agenda, interseks, trans ve cinsiyet çeşitliliği olan kişiler, onların arkadaşları, aileleri ve müttefiklerinin yanında ve onlar adına çalışır. Eğitim, savunuculuk, akran desteği ve profesyonel ağlar aracılığıyla, AGA insanları birbirine bağlar ve kolektif deneyimlerden yararlanır. Topluluk için birçok etkinlik ve kaynak sunarlar, bu arada destek grupları, eğitim, eğitici kaynaklar dahil. Savunuculuk ve kriz yardım hattı sağlarlar."
+    },
+    "ko-KR": {
+      "title": "성 별 안건",
+      "description": "성 별 안건은 사회성 별, 트랜스 및 성 별 다양한 사람들과 그들의 친구, 가족, 그리고 동맹과 함께 작업합니다. 교육, 옹호, 동료 지원, 전문 네트워크를 통해 AGA는 사람들을 서로 연결하며 집단 경험을 기반으로 발전시킵니다. 그들은 지원 그룹, 교육, 교육 자료를 포함한 커뮤니티를 위한 다수의 행사와 자원을 제공합니다. 그들은 옹호 및 위기 핫라인 서비스를 제공합니다."
+    },
+    "ja-JP": {
+      "title": "ジェンダーアジェンダ",
+      "description": "ジェンダーアジェンダは、インターセックス、トランス、ジェンダーダイバーシティの人々、彼らの友人、家族、そして協力者のために、そして彼らと一緒に働きます。教育、擁護、ピアサポート、プロフェッショナルネットワークを通じて、AGAは人々を互いにつなぎ、集団の経験を活用します。彼らは、サポートグループ、トレーニング、教育リソースを含むコミュニティのための多くのイベントとリソースを提供します。彼らはアドボカシーと危機ヘルプラインを提供します。"
+    },
+    "ar-SA": {
+      "title": "جدول الجنس",
+      "description": "جدول الجنس يعمل مع ونيابة عن أشخاص الجنس المتداخل ، العابرين والمتنوعين، وأصدقائهم وأسرهم وحلفائهم. من خلال التعليم والدعوة والدعم بين الأقران والشبكات المهنية ، يربط AGA الأشخاص ببعضهم ويبني على التجارب الجماعية. يقدمون العديد من الفعاليات والموارد للمجتمع، بما في ذلك مجموعات الدعم، التدريب، الموارد التعليمية. يقدمون الدعوة وخط المساعدة أثناء الأزمات."
+    },
+    "uk-UA": {
+      "title": "Ідея статевої рівності",
+      "description": "Ідея статевої рівності працює разом і в інтересах інтерсексуалів, трансгендеров і людей з різноманітністю статі, їхніх друзів, сімей та союзників. За допомогою освіти, захисту прав, взаємопідтримки та професійних мереж, AGA з'єднує людей між собою, використовуючи колективний досвід. Вони пропонують багато заходів та ресурсів для громади, включаючи групи підтримки, тренінги, освітні ресурси. Вони надають захист прав та телефон довіри для кризових ситуацій."
+    },
+    "ru-RU": {
+      "title": "План по гендерным вопросам",
+      "description": "План по гендерным вопросам работает с и от имени интерсексуалов, трансгендерных и гендерно-разнообразных людей, их друзей, семей и союзников. Через образование, заступничество, поддержку сверстников и профессиональные сети, AGA связывает людей между собой и развивается на основе коллективного опыта. Они предлагают множество мероприятий и ресурсов для сообщества, включая группы поддержки, обучение, образовательные ресурсы. Они оказывают помощь в защите прав и кризисной службе помощи."
+    },
+    "vi-VN": {
+      "title": "Một Chương trình về Giới tính",
+      "description": "Một Chương trình về Giới tính hợp tác với và thay mặt cho những người không rõ giới tính, người chuyển giới và người đa giới tính, bạn bè, gia đình, và đồng minh của họ. Thông qua giáo dục, tuyên truyền, hỗ trợ từ đồng nghiệp, và mạng lưới chuyên nghiệp, AGA kết nối mọi người với nhau và xây dựng dựa trên những kinh nghiệm chung. Họ tổ chức nhiều sự kiện và cung cấp nguồn tài nguyên cho cộng đồng, bao gồm nhóm hỗ trợ, đào tạo, tài nguyên giáo dục. Họ cung cấp tuyên truyền và đường dây nóng hỗ trợ khủng hoảng."
+    },
+    "ur-PK": {
+      "title": "ایک جنسیتی ایجنڈا",
+      "description": "ایک جنسیتی ایجنڈا خود کے ساتھ اور خود کی بجائے خود مختلف، ٹرانزجینڈر اور خود مختلف لوگوں کے ساتھ کام کرتا ہے، ان کے دوست، خاندان، اور حلیفوں کے ساتھ۔ تعلیم، وکالت، ہم سر ادائیگی، اور پیشہ ورانہ نیٹ ورک کے ذریعے، AGA لوگوں کو ایک دوسرے سے جوڑتا ہے اور مجموعی تجربات سے بنتا ہے۔ وہ کمیونٹی کے لئے متعدد واقعات اور وسائل مہیا کرتے ہیں، جن میں سپورٹ گروپس، تربیتی، تعلیمی وسائل شامل ہیں۔ وہ وکالتگی اور بحرانی ہیلپ لائن فراہم کرتے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "एक लिंग विषयक्रम",
+      "description": "एक लिंग विषयक्रम इंटरसेक्स, ट्रांस आणि लिंग विविध लोकांसह व त्यांच्या मित्र, कुटुंबीयांच्या कडे, आणि मित्रांच्या कडे कार्य करतो. शिक्षण, समर्थन, समुत्साहित मित्रांच्या समर्थनाद्वारे, आणि व्यावसायिक संगठनांद्वारे, AGA लोकांना एकमेकांशी जोडतो आणि सामूहिक अनुभवांवर आधारित असतो. त्यांनी समुदायासाठी अनेक कार्यक्रमांची आणि संसाधनांची सोय दिली आहे, समर्थन समूह, प्रशिक्षण, शैक्षणिक संसाधने सह. त्यांनी समर्थन आणि संकट हेल्पलाईन प्रदान केली आहे."
+    },
+    "hi-IN": {
+      "title": "A Gender Agenda",
+      "description": "A Gender Agenda इंटरसेक्स, ट्रांस और लिंग-विविधता वाले लोगों के साथ और उनकी ओर से काम करती है, उनके दोस्त, परिवार, और सहयोगी। शिक्षा, वकालत, साथी समर्थन, और पेशेवर नेटवर्क्स के माध्यम से, AGA लोगों को एक दूसरे से जोड़ती है और सामूहिक अनुभवों का निर्माण करती है। वे समुदाय के लिए कई घटनाओं और संसाधनों की पेशकश करते हैं, जिसमें सहयोग समूह, प्रशिक्षण, शैक्षिक संसाधन शामिल हैं। वे वकालत और संकट हेल्पलाइन प्रदान करते हैं।"
+    },
+    "bn-BD": {
+      "title": "এ জেন্ডার এজেন্ডা",
+      "description": "এ জেন্ডার এজেন্ডা আন্তর্গত, ট্রান্স এবং জেন্ডার বৈচিত্র্যমূলক লোকদের, তাদের বন্ধুদের, পরিবার এবং সহযোগীদের সাথে এবং তাদের নামে কাজ করে। শিক্ষা, উচ্চারণ, সহপাঠিদের সমর্থন, এবং পেশাদার নেটওয়ার্কের মাধ্যমে, AGA মানুষগুলি একে অপরের সাথে সংযোগ করে এবং সামগ্রিক অভিজ্ঞতার উপর নির্মাণ করে। তারা সম্প্রদায়ের জন্য বিভিন্ন ইভেন্ট এবং সম্পদ সরবরাহ করে, যেমন সমর্থন গ্রুপ, প্রশিক্ষণ, শিক্ষামূলক সম্পদ। তারা উচ্চারণ এবং সংকট হেল্পলাইন সরবরাহ করে।"
+    },
+    "ta-IN": {
+      "title": "ஆ ஜென்டர் அஜெண்டா",
+      "description": "ஆ ஜென்டர் அஜெண்டா, இடைபாலியாக, பல பாலிகளாக மற்றும் பால் வேறுபாட்டுடைய மக்களுடன் மற்றும் அவர்களுக்காக உழைப்பார்கள். கல்வி, மேலுளவாடல், பீர் ஆதரவு, மற்றும் தொழிலுழவு பின்னணிகள் மூலமாக, AGA மக்களை ஒருவருக்கு ஒருவரை இணைக்கின்றன. அவர்களுக்கு அனுபவங்களை வடிவமைக்க ஆதரவாக விளங்குகின்றன. அவர்கள் சமூகத்திற்காக பல நிகழ்வுகளையும், வளங்களையும் வழங்குகின்றன, ஆதரவு குழுக்கள், பயிற்சி, கல்வி வளங்கள். மேலுளவாடலுக்கும் அவசர உதவி கோப்புகளுக்கும் ஆதரவாக விளங்குகின்றன."
+    },
+    "te-IN": {
+      "title": "ఒక లింగ అజెండా",
+      "description": "అ లింగ అజెండా అంతర్జనాన, ట్రాన్స్ మరియు లింగ వైవిధ్యత ఉన్న వ్యక్తుల తో, వారి స్నేహితులు, కుటుంబాలు, మరియు మిత్రులు ప్రత్యామ్నాయంగా పని చేస్తుంది. విద్యాశాఖ, హక్కుల గురించి ప్రచారం, సహజాతి మద్దతు, మరియు ప్రొఫెషనల్ నెట్వర్క్స్ ద్వారా, AGA వ్యక్తులను ఒకరి నుండి మరొకరికి కలుగుజేస్తుంది మరియు సమూహ అనుభవాలను పాఠ్యాంశంగా ఉపయోగిస్తుంది. సముదాయ కోసం అనేక సంఘటనలు మరియు వనరులను అందిస్తుంది, అందులో మద్దతు సమూహాలు, శిక్షణ, విద్యా సంపద. అవి హక్కుల గురించి ప్రచారం మరియు సంక్షోభ హెల్ప్ లైన్ అందించనున్నాయి."
+    }
+  }
+}

@@ -36,6 +36,36 @@
     "description": "San Mateo কাউন্টি প্রাইড সেন্টার হল একটি সহযোগিতামূলক মডেল সংস্থা এবং LGBTQ+ সম্প্রদায়ের জন্য অব্যাহত সেবা কেন্দ্র। আমরা সকল বয়সী LGBTQ+ সদস্যদের সমর্থনে শিক্ষা, প্রশিক্ষণ, সম্প্রদায়ের ইভেন্ট, সহযোগী সমর্থণ গ্রুপ, দৈনিক প্রোগ্রামিং, ক্লিনিকাল থেরাপি, এবং মামলা ব্যবস্থাপনা হিসেবে সক্ষম প্রোগ্রাম এবং সেবা প্রদান করি।"
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace একটি LGBTIQ+ স্বাস্থ্য এবং সুস্থ থাকার সমর্থন পরিষেবা যা 2009 সালে LGBTIQ+ সম্প্রদায়গুলির দ্বারা LGBTIQ+ সম্প্রদায়গুলির জন্য প্রতিষ্ঠিত হয়েছিল। এর ফোকাস রয়েছে সম্পর্ক, পরিবার, অভিভাবকত্ব এবং যুবক-যুবতীদের উপর এবং এটি ভিক্টোরিয়ার উত্তর-পশ্চিম মেট্রোপলিটন অঞ্চলে সুষ্ঠু অবস্থিত পরিষেবা অফার করে। পরিষেবাগুলো অন্তর্গত করে পরামর্শ, মামলা ব্যবস্থাপনা, উদ্যোগ, সমর্থন পরিষেবা, পীর সমর্থন, পেশাদার উন্নয়ন, প্রশিক্ষণ এবং পরামর্শ।"
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "ডু-ইট-ইউরসেলফ হরমোন রিপ্লেসমেন্ট থেরাপি (HRT) এর প্রতি আগ্রহী ব্যক্তিদের জন্য একটি অত্যন্ত সক্রিয় অনলাইন সম্প্রদায় এবং জ্ঞানের হাব। তাদের ওয়েবসাইট একটি নিরাপদ এবং সমাবেশক স্থান প্রদান করতে উদ্যোগী যেখানে মানুষজন স্বয়ং-প্রশাসিত HRT জন্য তথ্য, সম্পদ এবং সমর্থন অ্যাক্সেস করতে পারে। আপনি যদি বিকল্প পদ্ধতিগুলি অন্বেষণ করেন, ডোজ এবং প্রশাসনে নির্দেশ খুঁজছেন, অথবা কেবল অন্যান্যদের সাথে যোগাযোগ করার চেষ্টা করছেন যারা অনুরূপ অভিজ্ঞতা শেয়ার করে, DIYHRT.cafe আপনার স্বাস্থ্য এবং সু-অবস্থার সম্বন্ধে সুজ্ঞান সিদ্ধান্ত গ্রহণে সহায়তা করতে মূল্যবান অন্তর্দৃষ্টি, ব্যক্তিগত গল্প এবং বিশেষজ্ঞদের পরামর্শ সরবরাহ করে।"
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "Ngunnawal, Ngunawal এবং Ngambri দেশে বসবাসকারী DEiFYQTIBIPOC Collective",
+    "description": "এটি একটি DEiFYQTIBIPOC সম্প্রদায়ের জন্য সমন্বয়ী সভা। এই দলটি Queer Masculinities Zine এবং তাদের নির্দিষ্ট প্লেলিস্ট সম্পর্কে আলোচনা করবে।"
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "একটি নবীন অনলাইন প্ল্যাটফর্ম যা প্রমাণভিত্তিক গবেষণা, শিক্ষা, এবং ট্র্যান্সজেন্ডার এবং অবায়ব সম্প্রদায়ের জন্য সংস্থা প্রদান করে, বিশেষ করে নারীরূপ হরমোন চিকিত্সা (FHT) উপর। তাদের ওয়েবসাইট একটি অত্যন্ত গুরুত্বপূর্ণ হাব হিসেবে কার্য করে যা FHT এর মেডিক্যাল, শারীরিক, এবং মানসিক দিকগুলির নির্ভরযোগ্য এবং সাম্প্রতিক তথ্য সন্ধানের জন্য ব্যক্তিদের সহায়তা করে। তাদের পরিপূর্ণ সংগ্রহসহ পিয়ার-রিভিউড স্টাডিজ, বিশেষজ্ঞ নিবন্ধ, এবং ব্যবহারিক গাইডস তাদের সাইট ব্যক্তিদের তাদের স Transitionের এবং স্বাস্থ্যের বিষয়ে তথ্যপূর্ণ সিদ্ধান্ত গ্রহণ করতে অধিকারিত করে।"
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "Meridian",
+    "description": "Meridian বিগত 40 বছর ধরে LGBTIQA+ সম্প্রদায়ের জন্য প্রচারণা এবং সমর্থন করে আসছে, ক্যানবেরা অঞ্চলের বিভিন্ন সেবা এবং কর্মসূচি সহ HIV সেবা, সুস্থতা সেবা, যৌন কর্মী আউটরিচ কর্মসূচি এবং আরও অনেক কিছু অফার করে।"
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "উত্তর টেরিটরি এইডস এবং হেপাটাইটিস কাউন্সিল ইন্ক।",
+    "description": "উত্তর টেরিটরিতে রক্তের মাধ্যমে ছড়ানো ভাইরাসের বিরুদ্ধে একটি সম্প্রদায় প্রতিক্রিয়া, যা তাদের সংচারণ তত্পরতা বাতিল করার প্রয়াস করে। এমন কিছু পরিষেবা প্রদান করে, যেমন LGBTI জীবন সমর্থন করা, যৌন কর্মী আউটরিচ প্রচার করা, এবং স্বাস্থ্য প্রচার এবং স্বাস্থ্য ক্লিনিক সরবরাহ করা।"
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "ট্রান্স আইন এবং জীবন উপর খবর এবং আলোচনা। এরিন রিড দ্বারা · বেশি ৩৮,০০০ সদস্য"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "Trans Health SA",
+    "description": "Trans Health SA হল একটি স্বেচ্ছাসেবী গোষ্ঠী যা দক্ষিণ অস্ট্রেলিয়ার ট্রান্স এবং লিঙ্গ বৈচিত্র্যমূলক ব্যক্তিদের স্বাস্থ্য চাহিদা সমর্থন এবং তথ্য প্রদানের জন্য অস্তিত্ব ধারণ করে। এটি সম্ভাব্য চিকিত্সকদের তালিকা, মেডিকেল এবং আইন সম্পর্কিত তথ্য, সমর্থক সংস্থা, সংগঠন, প্রকাশনা, সামাজিক এবং সমর্থন গোষ্ঠী এবং ট্রান্সজেন্ডার সম্প্রদায় দ্বারা তৈরি সম্পদ সম্পর্কে তথ্য প্রদান করে।"
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "একটি নতুন ধরনের অনলাইন প্ল্যাটফর্ম যা বিশ্বব্যাপী এলজিবিটিকিউ+ অধিকারের জন্য একটি সম্পূর্ণ এবং আধুনিক উপায় সৃষ্টি করার লক্ষ্য ধারণ করে। তাদের ওয়েবসাইট বিশ্বের প্রায় সমস্ত দেশ থেকে এলজিবিটিকিউ+ অধিকার সম্পর্কিত আইন, নীতি এবং সমাজভিত্তিক মনোনীতির একটি কেন্দ্রীভূত ডাটাবেজ প্রদান করে। সমতা, সহভাগিতা এবং আইনগত সুরক্ষা সম্পর্কিত ডাটা মানচিত্রণ এবং চিত্রায়ণ করে, EqualDex.com কর্মী, গবেষক এবং বিশ্ব মাত্রায় এলজিবিটিকিউ+ অধিকারের জন্য অধিকার দাবি করার চেষ্টা করা ব্যক্তিদের জন্য একটি শক্তিশালী সরঞ্জাম অফার করে। তাদের ইন্টারেক্টিভ মানচিত্র অন্বেষণ করুন, দেশভিত্তিক প্রোফাইল ব্রাউজ করুন, এবং বিশ্বব্যাপী এলজিবিটিকিউ+ সম্প্রদায়ের সম্মুখীন সর্বশেষ উন্নতি এবং চ্যালেঞ্জ সম্পর্কে সচেতন থাকুন।"
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "এ জেন্ডার এজেন্ডা",
+    "description": "এ জেন্ডার এজেন্ডা আন্তর্গত, ট্রান্স এবং জেন্ডার বৈচিত্র্যমূলক লোকদের, তাদের বন্ধুদের, পরিবার এবং সহযোগীদের সাথে এবং তাদের নামে কাজ করে। শিক্ষা, উচ্চারণ, সহপাঠিদের সমর্থন, এবং পেশাদার নেটওয়ার্কের মাধ্যমে, AGA মানুষগুলি একে অপরের সাথে সংযোগ করে এবং সামগ্রিক অভিজ্ঞতার উপর নির্মাণ করে। তারা সম্প্রদায়ের জন্য বিভিন্ন ইভেন্ট এবং সম্পদ সরবরাহ করে, যেমন সমর্থন গ্রুপ, প্রশিক্ষণ, শিক্ষামূলক সম্পদ। তারা উচ্চারণ এবং সংকট হেল্পলাইন সরবরাহ করে।"
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "১৯৭৩ সালে প্রতিষ্ঠিত, প্যাসিফিক সেন্টার ফর হিউম্যান গ্রোথ হ'ল বে এরিয়ার সর্বপ্রথম LGBTQIA+ কেন্দ্র, দেশে তৃতীয় সর্বপ্রথম, এবং এলামেডা কাউন্টির LGBTQIA+ এবং QTBIPOC মানুষদের এবং তাদের পরিবারের জন্য একমাত্র স্লাইডিং স্কেল মানসিক স্বাস্থ্য ক্লিনিক চালানো হয়।"
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "ট্রান্সজেন্ডার ভিক্টোরিয়া",
+    "description": "টিজিভি ভিক্টোরিয়ার শীর্ষ বডি হলো ট্রান্স এবং জেন্ডার বৈচিত্র্যময় মানুষের জন্য। আমরা আমাদের সম্প্রদায়গুলির, তাদের অংশীদারদের, পরিবারগুলির, বন্ধুদের এবং অ্যালিগুলির জন্য ন্যায়, সমতা ও অন্তর্ভুক্তি অর্জনের উদ্দেশ্যে কাজ করি। আমরা বিভিন্ন সম্পদ, প্রশিক্ষণ, আদ্বোকেসি এবং সমর্থন পরিষেবা সরবরাহ করি যা ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সামাজিক, অর্থনৈতিক, স্বাস্থ্য, ভাল থাকা, এবং মানসিক স্বাস্থ্য ফলাফলগুলির দিকে ম্যাপ করে।"
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "ওকল্যান্ডের কখনই প্রথম অ-লাভজনক 501c3, সমস্ত বয়সী, সম্পূর্ণ অন্তর্ভুক্তি সম্পন্ন এলজিবিটিকিউ সম্প্রদায় সেবা কেন্দ্র। সেবা অন্তর্গত সমর্থন গোষ্ঠী, মানসিক স্বাস্থ্য সমর্থন, আবাসন সহায়তা, কিশোর কার্যক্রম, আইনজীবী ক্লিনিক, খাদ্য ভাণ্ডার ইত্যাদি রয়েছে। ব্যাগ্ধ এলজিবিটিকিউ + লোকদের এবং ট্রান্সজেন্ডার সম্প্রদায়ের সদস্যদের জন্য বিশেষ কার্যক্রমগুলি ও পরিচালিত করা হয়।"
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "দ্য শেড মেলবোর্ন",
+    "description": "ট্রান্সম্যাসকুলাইন ব্যক্তিদের জন্য একটি মেলবোর্ন ভিত্তিক সহায়তা দল, যা বিভিন্ন ইভেন্ট এবং সম্পদ অফার করে যেমন পীর সমর্থন সভা, জিম ক্লাব, বই ক্লাব, মানসিক স্বাস্থ্য সম্পদ, শাস্ত্রক্রিয়া এবং টেস্টোস্টেরোন তথ্য এবং সমর্থন, বাইন্ডার প্রোগ্রাম, এবং আরও বেশি।"
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "দক্ষিণ অস্ট্রেলিয়ার একটি স্বাস্থ্য প্রতিষ্ঠান যা ক্লিনিকাল সেবা, যৌন স্বাস্থ্য পরামর্শ এবং যৌন এবং প্রজনন স্বাস্থ্য এবং সম্পর্ক দক্ষতা সম্পর্কিত শিক্ষা ও প্রশিক্ষণ প্রদান করে। এটি এছাড়াও LGBTIQA+ সম্প্রদায়ের জন্য সমর্থন এবং অন্তর্ভুক্তিপূর্ণ সেবা প্রদান করে। তারা আন্তর্জাতিক ট্রান্সজেন্ডার এবং লিঙ্গ ভেদভিন্ন সম্প্রদায়ের অধিকার এবং স্বীকৃতির জন্য উদযাপন এবং উত্থানে অংশ নেওয়ার মধ্য দিয়েও অংশ নেয়।"
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "জোয়ি বেল জেন্ডার কালেক্টিভ",
+    "description": "জোয়ি বেল জেন্ডার কালেক্টিভ একটি ট্রান্স এবং জেন্ডার বিভিন্ন নেতৃত্বাধীন সমর্থন সংস্থা যা পেশাদার প্রশিক্ষণ, ওয়ার্কশপ এবং সমর্থন প্রদান করে LGBTQI+ সম্প্রদায়ের জন্য। এটি সম্প্রদায়ের সেবা, কর্মীরা, পরিবার এবং বন্ধুদের এবং ট্রান্স এবং জেন্ডার বিভিন্ন ব্যক্তিদের জন্য সংস্থান এবং সহায়তা সরবরাহ করে। সাম্প্রতিকভাবে এটি ট্রান্সফেমম, যা একটি প্রতিরোধমূলক উদ্যোগ যা সিস পুরুষদের ট্রান্স মহিলাদের প্রতি হিংসার বিপরীতে চালু করে।"
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "লিঙ্গের বৈচিত্র্য",
     "description": "লিঙ্গের বৈচিত্র্য সকল লিঙ্গ পরিচয় এবং প্রকাশের শিশু এবং প্রাপ্তবয়স্কদের সুস্থতা বৃদ্ধি করে শিক্ষা প্রদান করে, সচেতনতা বাড়ায় এবং মানব অভিজ্ঞার প্রশাস্ত পরিসর রচনায় অন্তঃদৃষ্টি অর্পণ করে। আমরা এমনও করি, ট্রান্সজেন্ডার এবং লিঙ্গ বৈচিত্র্যমূলক ব্যক্তিদের জন্য সহায়ক এবং বিভেদমূলক নয় এমন পরিবেশ সৃষ্টি করি স্কুল, ক্রীড়া দল, কর্মস্থল এবং স্বাস্থ্য সেবা প্রদানকারীদের মধ্যে।"
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "যন্ত্রণা এবং অভিযান অভিজ্ঞতা চিকিৎসা এবং পুনর্বাসনের জন্য NSW সেবা",
+    "description": "STARTTS সংস্কৃতি সম্পর্কিত মনের চিকিৎসা, সম্প্রদায় হস্তক্ষেপ, এবং সেবাগুলিতে প্রশিক্ষণ প্রদান করে যাতে মানুষ যন্ত্রণা এবং শরণার্থী অভিযান থেকে চিকিৎসা পেতে পারে। তারা পৃথিবী ব্যাপী যৌনতা, লিঙ্গ, এবং দেহ সহ শরণার্থী এবং আশ্রয় দাবি কারীদের জন্য একটি নিরাপদ এবং সমর্থক পরিবেশ তৈরি করার লক্ষ্যে কাজ করে।"
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons ট্রান্সজেন্ডার এবং নন-বাইনারি ব্যক্তিদের জন্য গুণিজন স্বর নিয়ন্ত্রণ ও মুক্তি পরিষেবা প্রদান করে, যারা আরও পুরুষমূলক, মহিলা বা অ্যান্ড্রোজানাস শব্দ করতে চাই।"
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ওয়ার্কিং ইট আউট",
+    "description": "ওয়ার্কিং ইট আউট হল তাসমানিয়ার যৌনতা, লিঙ্গ, এবং ইন্টারসেক্স অবস্থার সমর্থন এবং শিক্ষাদান সেবা। এটি LGBTIQ+ তাসমানিয়ানদের জন্য সমর্থন এবং সমর্থন সেবা প্রদান করে এবং স্কুল, কর্মস্থল, সরকার, এবং গৈর-সরকারি সংস্থায় শিক্ষা এবং প্রশিক্ষণ কার্যক্রম চালায়।"
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour Health",
+    "description": "একটি LGBTIQ+ সম্প্রদায়-নিয়ন্ত্রিত প্রতিষ্ঠান যা সেক্স, জেন্ডার এবং যৌনতা বৈচিত্র্যময় সম্প্রদায়গুলিকে স্বাস্থ্য এবং সুস্থতা পরিষেবা সরবরাহ করে, যার মধ্যে এইচআইভি সমর্থন এবং প্রতিরোধ, পরামর্শ, এবং পারিবারিক সহিংসতার সেবা অন্তর্ভুক্ত।"
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "দ্য জেন্ডার সেন্টার ইনক.",
     "description": "দ্য জেন্ডার সেন্টার ইনক. যাদের মাধ্যমে জেন্ডার আইডেন্টিটি অনুসন্ধান এবং জেন্ডার ডিসফোরিয়া অবসাদনে সমর্থন প্রদান করার জন্য এক বিস্তৃত সেবা প্রদান করা হচ্ছে। এর সমর্থন প্রদান করা হচ্ছে ত্রাণ এবং জেন্ডার প্রকাশক মানুষদের, যখন তারা তাদের প্রামাণিক আত্ম অনুভূতি অনুসন্ধান এবং বাস্তবায়ন করার প্রতিটি পর্যায়ে। এটি বাসস্থান, মামলা ব্যবস্থাপনা, শিক্ষা ও প্রশিক্ষণ, পরামর্শ ও মানসিক স্বাস্থ্য সেবা, গোষ্ঠী, খবর, এবং সম্পদ প্রদান করে।"
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "ফ্রিডম সেন্টার",
+    "description": "ফ্রিডম সেন্টার এ সরবরাহ করা হয় বিস্তৃত পরিসর সেবা যেমন এলজিবিটিআইকিউএ+ যুবক যুবতীদের জন্যে ড্রপ-ইন সেশন, সম্প্রদায় উন্নয়ন, পরামর্শ এবং আরও অনেক কিছু। তারা সব এলজিবিটিআইকিউএ+ যুবক যুবতীদের অন্তর্গত, সংযুক্ত এবং সম্মানিত অনুভব করার উদ্দেশ্যে কাজ করে। তারা আরও প্রশিক্ষণ এবং নির্দেশনা প্রদান করে মাতা-পিতা, পেশাদার, সম্প্রদায় এবং সংস্থা এর জন্য।"
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "ইস্ট বে ট্রান্স এন্ড কোয়ার কাউন্সেলিং",
     "description": "ইস্ট বে ট্রান্স এন্ড কোয়িয়ার কাউন্সেলিং এ সার্বিকভাবে অনুসারী সেবা অন্তর্ভুক্ত করে: বার্কলেয়, ক্যালিফোর্নিয়ায় কেন্দ্রভূতভাবে ব্যক্তিগত চিকিত্সা জেন্ডার এক্সপ্লোরেশন এবং ট্র্যান্সিশনের মাধ্যমে সহায়তা হরমোন এবং সার্জারীর জন্য সুপারিশপত্র মানসিক স্বাস্থ্য পরিদর্শকদের, ছাত্রদের এবং কর্মচারীদের জন্য পেশাদার প্রশিক্ষণ। স্যাম ডেভিস একজন ট্রান্সজেন্ডার, জেন্ডারকেয়ার লাইসেন্সড ক্লিনিক্যাল সোশ্যাল ওয়ার্কার (LCSW) যারা ট্রান্স, কোয়ার, জেন্ডারকেয়ার এবং জেন্ডার-অ্যানকনফরমিং কিশোর এবং প্রাপ্তবয়স্কদের সাথে কাজ করার মেয়াদি বিশেষজ্ঞ। তাদের ইস্ট বেতে মানসিক স্বাস্থ্য পরিদর্শক হিসেবে 16 বছরের অভিজ্ঞতা রয়েছে, যার মধ্যে পিয়ার সমর্থন গ্রুপ সহায়তা, LGBTQI সম্মেলনে সম্প্রদায়ের শিক্ষা এবং আলামিডা কাউন্টির জন্য প্রাচীনতম মানুষদের সাথে ক্লিনিক্যাল প্র্যাক্টিস এবং সংকট কাউন্সেলিং-এ 9 বছরের পরিচিতি। তারা অব্যাহত প্রতিবাদী এবং সংগঠিত অব্যাহত অভিযানকারী যারা বিপন্ন মানুষের পক্ষে সংগঠন করেছেন।"
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "সিহর্স ভিক্টোরিয়া ক্লাব",
+    "description": "প্রতিষ্ঠিত ১৯৭৫ সালে, সিহর্স ক্লাব ভিক্টোরিয়া ট্রানসজেন্ডার সম্প্রদায়ের জন্য সম্পদ, সম্প্রদায় সেবা এবং সমর্থন প্রদান করে। এটি অন্তর্গত করেছে ট্রানস-বন্ধুত্বপূর্ণ সেবার ডিরেক্টোরি এবং সদস্যদের সংযুক্ত হওয়ার জন্য আসন্ন অনলাইন প্ল্যাটফর্ম।"
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "ট্রান্সজেন্ডার মানচিত্র",
     "description": "Transgendermap.com একটি অনলাইন সুযোগ যা তাদের নিজের লিঙ্গ পরিচয়ের চিন্তা করা বা ট্রান্সজেন্ডার স্পেকট্রামে কোনও স্থানে রয়েছে এমন মানুষদের প্রভাবশালী তথ্য এবং নির্দেশনা প্রদানের একটি চেষ্টা। ওয়েবসাইটটি লিঙ্গ পরিচয় এবং ট্রান্সজেন্ডার অভিজ্ঞতার অনেক দিকে 'মানচিত্র' বা গাইড প্রদান করে ব্যক্তি গুলকে তাদের ব্যক্তিগত যাত্রায় সহায়তা করার মতো একটি লক্ষ্য নিয়ে বিভিন্ন বিষয়ে ব্যাপক তথ্য অন্তর্গত করে, যেমন ট্রান্সজেন্ডার টার্মিনোলজি বোঝা, পরিবর্তন প্রক্রিয়া, আইনি বিষয়, স্বাস্থ্য সেবা এবং অনেক ব্যক্তিগত গল্প। সবচেয়ে সাম্প্রতিক এবং সঠিক তথ্যের জন্য দয়া করে প্রকৃত সাইটটি দেখুন।"
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk of WA",
+    "description": "পশ্চিম অস্ট্রেলিয়ার ট্রান্সজেন্ডার মানুষদের এবং তাদের প্রিয়জনদের জন্য একটি পিয়ার সমর্থন সেবা। অনলাইন গ্রুপ, প্রস্তাবিত সেবাগুলি এবং সম্পদগুলি সরবরাহ করা, এবং বিভিন্ন ইভেন্ট আয়োজন করা।"
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

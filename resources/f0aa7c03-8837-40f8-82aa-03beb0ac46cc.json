@@ -1,0 +1,115 @@
+{
+  "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+  "slug": "transfolk-of-wa",
+  "externalUrl": "https://www.transfolkofwa.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "WA",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "TransFolk of WA",
+      "description": "A peer support service for transgender people and their loved ones in Western Australia. Offering online groups, recommended services and resources, and hosting various events."
+    },
+    "pt-PT": {
+      "title": "TransFolk de WA",
+      "description": "Um serviço de apoio de pares para pessoas transgêneros e seus entes queridos na Austrália Ocidental. Oferecendo grupos online, serviços recomendados e recursos, e organizando vários eventos."
+    },
+    "es-ES": {
+      "title": "TransFolk de WA",
+      "description": "Un servicio de apoyo entre compañeros para personas transgénero y sus seres queridos en Australia Occidental. Ofreciendo grupos en línea, servicios y recursos recomendados, y organizando diversos eventos."
+    },
+    "fr-FR": {
+      "title": "TransFolk de WA",
+      "description": "Un service de soutien par les pairs pour les personnes transgenres et leurs proches en Australie-Occidentale. Offrant des groupes en ligne, des services et des ressources recommandés, et organisant divers événements."
+    },
+    "sw-KE": {
+      "title": "TransFolk wa WA",
+      "description": "Huduma ya msaada wa rika kwa watu walio na jinsia ya kubadilika na wapendwa wao katika Australia Magharibi. Inatoa vikundi mtandaoni, huduma na rasilimali zinazopendekezwa, na kuandaa matukio mbalimbali."
+    },
+    "ko-KR": {
+      "title": "TransFolk of WA",
+      "description": "서부 호주의 트랜스젠더 사람들과 그들의 사랑하는 사람들을 위한 동료 지원 서비스입니다. 온라인 그룹, 추천 서비스 및 자원 제공, 다양한 이벤트 주최 등을 제공합니다."
+    },
+    "id-ID": {
+      "title": "TransFolk of WA",
+      "description": "Sebuah layanan dukungan sebaya untuk orang-orang transgender dan orang-orang yang mereka cintai di Australia Barat. Menawarkan grup online, layanan dan sumber daya yang direkomendasikan, dan mengadakan berbagai acara."
+    },
+    "zh-CN": {
+      "title": "西澳大利亚州的跨性别者",
+      "description": "为西澳大利亚的跨性别人群及其亲人提供的同侪支持服务。提供在线群组，推荐服务和资源，并举办各种活动。"
+    },
+    "vi-VN": {
+      "title": "TransFolk của WA",
+      "description": "Một dịch vụ hỗ trợ đồng nghiệp cho những người chuyển giới và người thân yêu của họ tại Tây Úc. Cung cấp các nhóm trực tuyến, dịch vụ và tài nguyên được khuyến nghị, và tổ chức các sự kiện khác nhau."
+    },
+    "de-DE": {
+      "title": "TransFolk von WA",
+      "description": "Ein Peer-Support-Service für transsexuelle Menschen und deren Angehörige in Westaustralien. Wir bieten Online-Gruppen, empfohlene Dienstleistungen und Ressourcen sowie die Ausrichtung verschiedener Veranstaltungen an."
+    },
+    "ar-SA": {
+      "title": "TransFolk of WA",
+      "description": "خدمة الدعم بين الأقران للأشخاص المتحولين جنسياً وأحبائهم في غرب أستراليا. تقديم مجموعات عبر الإنترنت والخدمات والموارد الموصى بها، وتنظيم العديد من الأحداث."
+    },
+    "tr-TR": {
+      "title": "TransFolk of WA",
+      "description": "Batı Avustralya'daki transseksüel insanlar ve sevdikleri için bir akran destek hizmeti. Çevrimiçi gruplar, önerilen hizmetler ve kaynaklar sunar ve çeşitli etkinlikler düzenler."
+    },
+    "uk-UA": {
+      "title": "TransFolk of WA",
+      "description": "Служба підтримки однолітків для трансгендерних людей та їхніх близьких у Західній Австралії. Вони надають онлайн-групи, рекомендовані послуги та ресурси, а також організовують різноманітні заходи."
+    },
+    "ja-JP": {
+      "title": "TransFolk of WA",
+      "description": "西オーストラリア州のトランスジェンダーの人々とその愛する人々を支援するためのピアサポートサービス。オンライングループ、推奨サービスとリソースを提供し、さまざまなイベントを主催しています。"
+    },
+    "ru-RU": {
+      "title": "TransFolk of WA",
+      "description": "Сервис поддержки для трансгендерных людей и их близких в Западной Австралии. Предлагает онлайн-группы, рекомендуемые услуги и ресурсы, а также организовывает различные мероприятия."
+    },
+    "ur-PK": {
+      "title": "TransFolk of WA",
+      "description": "مغربی آسٹریلیا میں ٹرانسجینڈر لوگوں اور ان کے چاہنے والوں کے لئے ایک ہم مرتبہ سپورٹ سروس۔ آن لائن گروپ، تجویز کردہ خدمات اور وسائل، اور مختلف واقعات میزبانی کرتا ہے۔"
+    },
+    "hi-IN": {
+      "title": "TransFolk of WA",
+      "description": "पश्चिमी ऑस्ट्रेलिया में ट्रांसजेंडर लोगों और उनके प्रियजनों के लिए एक सहकर्मी समर्थन सेवा। ऑनलाइन समूहों, अनुशंसित सेवाओं और संसाधनों की पेशकश करना, और विभिन्न आयोजनों की मेजबानी करना।"
+    },
+    "mr-IN": {
+      "title": "TransFolk of WA",
+      "description": "पश्चिम ऑस्ट्रेलियातील ट्रान्सजेंडर लोकांना आणि त्यांच्या प्रियांना मित्रत्पूर्ण समर्थन सेवा. ऑनलईन गट, शिफारसी सेवा आणि संसाधने पुरवणारे आणि विविध कार्यक्रमांची मेजबानी करणारे."
+    },
+    "ta-IN": {
+      "title": "TransFolk of WA",
+      "description": "மேற்கு ஆஸ்திரேலியாவில் உள்ள மாற்று பாலினத்தைப் பொருத்தப்படுத்திய மக்களுக்கும் அவர்களின் அன்புள்ளவர்களுக்கும் ஆதரவாக உள்ள சேவை.ஆன்லைன் குழுக்கள், பரிந்துரைக்கப்பட்ட சேவைகள் மற்றும் வளங்கள், மற்றும் பல்வேறு நிகழ்வுகளை ஆக்குவது உள்ளது."
+    },
+    "bn-BD": {
+      "title": "TransFolk of WA",
+      "description": "পশ্চিম অস্ট্রেলিয়ার ট্রান্সজেন্ডার মানুষদের এবং তাদের প্রিয়জনদের জন্য একটি পিয়ার সমর্থন সেবা। অনলাইন গ্রুপ, প্রস্তাবিত সেবাগুলি এবং সম্পদগুলি সরবরাহ করা, এবং বিভিন্ন ইভেন্ট আয়োজন করা।"
+    },
+    "te-IN": {
+      "title": "TransFolk of WA",
+      "description": "పశ్చిమ ఆస్ట్రేలియాలోని ట్రాన్స్జెండర్ వ్యక్తులు మరియు వారికి ప్రియమైన వ్యక్తుల కోసం ఒక సహకార మద్దతు సేవ. ఆన్లైన్ గుంపులు, సిఫార్సు చేసిన సేవలు మరియు వనరులు అందిస్తుంటుంది, మరియు వివిధ సంఘటనలను ఆయోజిస్తుంది."
+    }
+  }
+}

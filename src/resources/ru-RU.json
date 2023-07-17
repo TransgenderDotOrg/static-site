@@ -36,6 +36,36 @@
     "description": "Центр гордости округа Сан-Матео является организацией, работающей по модели сотрудничества и представляет собой универсальный центр для сообщества LGBTQ+. Мы предлагаем мощные программы и услуги для поддержки членов сообщества LGBTQ+ всех возрастов, включая образование, тренинги, мероприятия сообщества, группы поддержки, ежедневное планирование, клиническую терапию и управление делами."
   },
   {
+    "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
+    "slug": "queerspace",
+    "externalUrl": "https://www.queerspace.org.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": "100 Drummond St, Carlton VIC 3053, Australia",
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Carlton",
+    "county": "City of Melbourne",
+    "latLng": [
+      -37.8043894,
+      144.9681606
+    ],
+    "email": "enquiries@ds.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Queerspace",
+    "description": "Queerspace - это служба поддержки здоровья и благополучия LGBTIQ+, созданная в 2009 году общинами LGBTIQ+ для общин LGBTIQ+. Фокусируется на отношениях, семьях, родительстве и молодежи, и предлагает совместные услуги по всему северо-западному метрополитенскому региону Виктории. Услуги включают консультирование, управление случаями, адвокацию, службы поддержки, взаимную поддержку, профессиональное развитие, обучение и консультации."
+  },
+  {
     "id": "0db36ba9-b329-4a54-8302-d7810866457a",
     "slug": "diyhrtcafe",
     "externalUrl": "https://diyhrt.cafe",
@@ -48,6 +78,30 @@
     ],
     "title": "DIYHRT.cafe",
     "description": "Яркое онлайн-сообщество и центр знаний для людей, заинтересованных в самостоятельной гормональной заместительной терапии (HRT). Их веб-сайт посвящен предоставлению безопасного и включающего пространства, где люди могут получить информацию, ресурсы и поддержку для самостоятельного HRT. Будь вы в поисках альтернативных методов, ищете руководство по дозировке и администрированию, или просто хотите связаться с другими, кто разделяет похожие опыты, DIYHRT.cafe предлагает множество ценных у insights, личных историй и профессиональных советов, которые помогут вам принять обоснованные решения о вашем здоровье и благополучии."
+  },
+  {
+    "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
+    "slug": "deifydeify-qtibipoc-collective",
+    "externalUrl": "https://linktr.ee/deifycbr",
+    "tags": [
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "QTIBIPOC Canberra Facebook Group"
+    },
+    "title": "Коллектив DEiFYDEiFYQTIBIPOC, проживающий на территории Ngunnawal, Ngunawal и Ngambri",
+    "description": "Это собрание коллектива для сообщества DEiFYQTIBIPOC. Группа также обсудит Queer Masculinities Zine и их специальный плейлист."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -103,6 +157,57 @@
     ],
     "title": "transfemscience.org",
     "description": "Прогрессивная онлайн-платформа, посвященная предоставлению научно-обоснованных исследований, образования и ресурсов для трансгендерного и небинарного сообщества, с особым акцентом на гормональную терапию феминизации (FHT). Их веб-сайт служит важным центром для людей, ищущих надежную и актуальную информацию о медицинских, физиологических и психологических аспектах FHT. Благодаря их обширной коллекции рецензируемых исследований, статей экспертов и практических руководств, их сайт позволяет людям принимать обоснованные решения о своем переходе и здоровье."
+  },
+  {
+    "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
+    "slug": "meridian-support",
+    "externalUrl": "https://www.meridianact.org.au/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
+    "phoneNumber": "(02) 6257 2855",
+    "country": "AU",
+    "provinceOrState": "ACT",
+    "city": "Turner",
+    "latLng": [
+      -35.2736943,
+      149.1291121
+    ],
+    "email": "contact@meridianact.org.au",
+    "socialMedia": null,
+    "title": "Meridian",
+    "description": "Meridian на протяжении более 40 лет поддерживает и защищает сообщество LGBTIQA+, предлагая целый ряд услуг и программ в регионе Канберры, таких как услуги по ВИЧ, услуги по благополучию, программы по работе с секс-работниками и многое другое."
+  },
+  {
+    "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
+    "slug": "northern-territory-aids-and-hepatitis-council-inc",
+    "externalUrl": "https://www.ntahc.org.au/",
+    "tags": [
+      "healthcare",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "46 Woods St, Darwin City NT 0800, Australia",
+    "phoneNumber": "08 8944 7777",
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin City",
+    "county": "City of Darwin",
+    "latLng": [
+      -12.4602736,
+      130.8432107
+    ],
+    "email": "info@ntahc.org.au",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
+    },
+    "title": "Совет Северной территории по СПИДу и гепатиту Инк.",
+    "description": "Сообщественный ответ на кровеносные вирусы в Северной территории, целью которого является исключение их передачи. Предлагает ряд услуг, таких как поддержка жизни ЛГБТИ, продвижение выхода секс-работников, а также предоставление услуг по продвижению здоровья и оздоровительных клиник."
   },
   {
     "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
@@ -289,6 +394,33 @@
     "description": "Новости и дискуссии о законодательстве о трансгендерах и жизни. Автор Эрин Рид · Более 38 000 подписчиков"
   },
   {
+    "id": "4a930816-9948-45d7-9513-393087685a01",
+    "slug": "trans-health-sa",
+    "externalUrl": "https://www.transhealthsa.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransHealthSA",
+      "googleMapsUrl": null,
+      "yelpUrl": null
+    },
+    "title": "Trans Health SA",
+    "description": "Trans Health SA - это волонтерская группа, существующая для предоставления информации и поддержки в вопросах здоровья транс- и гендерно-диверсифицированных людей в Южной Австралии. Она предоставляет списки уважающих практиков, медицинскую и юридическую информацию, информацию о поддерживающих агентствах, организациях, публикациях, социальных и поддерживающих группах, а также ресурсы, созданные трансгендерным обществом."
+  },
+  {
     "id": "4be75e80-8ce1-4f46-90f0-ad307cd1829b",
     "slug": "equaldexcom",
     "externalUrl": "https://EqualDex.com",
@@ -300,6 +432,38 @@
     ],
     "title": "EqualDex.com",
     "description": "Новаторская интернет-платформа, которая стремится создать всеобъемлющий и актуальный ресурс по глобальным правам ЛГБТК+. На их веб-сайте представлена централизованная база данных о законах, политике и общественном отношении к правам ЛГБТК+ по всему миру. Визуализируя данные об равенстве, инклюзивности и правовой защите, EqualDex.com предлагает мощный инструмент для активистов, исследователей и людей, желающих понять и поддержать права ЛГБТК+ на глобальном уровне. Изучайте их интерактивные карты, просматривайте профили специфических для страны и следите за последними достижениями и вызовами, с которыми сталкивается ЛГБТК+ сообщество по всему миру."
+  },
+  {
+    "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
+    "slug": "a-gender-agenda",
+    "externalUrl": "https://genderrights.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": "(02) 6162 1924",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Canberra",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "План по гендерным вопросам",
+    "description": "План по гендерным вопросам работает с и от имени интерсексуалов, трансгендерных и гендерно-разнообразных людей, их друзей, семей и союзников. Через образование, заступничество, поддержку сверстников и профессиональные сети, AGA связывает людей между собой и развивается на основе коллективного опыта. Они предлагают множество мероприятий и ресурсов для сообщества, включая группы поддержки, обучение, образовательные ресурсы. Они оказывают помощь в защите прав и кризисной службе помощи."
   },
   {
     "id": "58738396-e4d7-424a-ba8d-59559e883f06",
@@ -351,6 +515,39 @@
     "description": "Основанный в 1973 году, Тихоокеанский центр человеческого развития является старейшим центром LGBTQIA+ в заливе, третьим старейшим в стране, и единственным действующим ментальным здоровьем клининга для людей LGBTQIA+ и QTBIPOC и их семей в округе Аламеда на системе скользящего масштаба."
   },
   {
+    "id": "5ac3fd1a-2d29-4001-b51c-d3b62d81e090",
+    "slug": "transgender-victoria",
+    "externalUrl": "https://tgv.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
+      "twitterUrl": "https://twitter.com/transgendervic",
+      "instagramUrl": "https://www.instagram.com/transgendervic/"
+    },
+    "title": "Трансгендеры Виктории",
+    "description": "TGV является ведущим органом Виктории для трансгендерных и гендерно-разнообразных людей. Мы работаем, чтобы добиться справедливости, равенства и включения для наших общин, их партнеров, семей, друзей и союзников. Мы предоставляем различные ресурсы, обучение, защиту и службы поддержки, направленные на социальные, экономические, здоровые, благополучие и психическое здоровье трансгендерного сообщества."
+  },
+  {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
     "slug": "oakland-lgbtq-community-center",
     "externalUrl": "https://www.oaklandlgbtqcenter.org/",
@@ -395,6 +592,82 @@
     "description": "Первый в Окленде некоммерческий 501c3, для всех возрастов, всесторонний центр обслуживания сообщества LGBTQ. Предлагаемые услуги включают в себя группы поддержки, поддержку психического здоровья, помощь в поиске жилья, молодежную программу, юридическую клинику, пункт питания и т.д. Также проводятся специальные программы для пожилых людей LGBTQ+ и трансгендерного сообщества."
   },
   {
+    "id": "6f38810d-896c-4493-afe2-b612021122fc",
+    "slug": "the-shed-melbourne",
+    "externalUrl": "https://www.theshedsupport.org.au/",
+    "tags": [
+      "transmasculine",
+      "mental-health",
+      "support-groups",
+      "healthcare",
+      "social-services"
+    ],
+    "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Brunswick East",
+    "county": "City of Merri-bek",
+    "latLng": [
+      -37.76497579999999,
+      144.9730678
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "The Shed Melbourne",
+    "description": "Мельбурнская группа поддержки для трансмаскулинных лиц, предлагающая различные мероприятия и ресурсы, такие как встречи по поддержке сверстников, спортзалы, книжные клубы, ресурсы по психическому здоровью, информация и поддержка по поводу операций и тестостерона, программы для бандажи, и многое другое."
+  },
+  {
+    "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
+    "slug": "shinesa",
+    "externalUrl": "https://shinesa.org.au/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "mental-health",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "64C Woodville Rd, Woodville SA 5011, Australia",
+    "phoneNumber": "8300 5300",
+    "country": "AU",
+    "provinceOrState": "SA",
+    "city": "Woodville",
+    "latLng": [
+      -34.87943560000001,
+      138.536817
+    ],
+    "email": "info@shinesa.org.au",
+    "socialMedia": null,
+    "county": "Charles Sturt",
+    "title": "SHINE SA",
+    "description": "Здравоохранительная организация в Южной Австралии, которая предоставляет клинические услуги, консультации по вопросам сексуального здоровья и обучение, связанное с сексуальным и репродуктивным здоровьем и навыками взаимоотношений. Она также предлагает поддержку и инклюзивные услуги для сообщества LGBTIQA+. Они также участвуют в праздновании и защите прав и признания международных трансгендерных и гендерно-разнообразных сообществ."
+  },
+  {
+    "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
+    "slug": "zoe-belle-gender-collective",
+    "externalUrl": "https://zbgc.org.au/",
+    "tags": [
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "58 Mundy St, Bendigo VIC 3550, Australia",
+    "phoneNumber": "0467 569 635",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "Bendigo",
+    "county": "Greater Bendigo",
+    "latLng": [
+      -36.7605293,
+      144.2860065
+    ],
+    "email": "contact@zbgc.org.au",
+    "socialMedia": null,
+    "title": "Гендерный Коллектив Зои Белл",
+    "description": "Гендерный коллектив Зои Белл - это организация, ведомая трансгендерами и лицами с различной гендерной идентичностью, которая предлагает профессиональное обучение, семинары и поддержку для сообщества LGBTQI+. Она предоставляет ресурсы и помощь для общественных служб, работников, семей и друзей, а также трансгендеров и лиц с различной гендерной идентичностью. Недавно была запущена инициатива Transfemme, направленная на предотвращение насилия со стороны цисгендерных мужчин в отношении трансгендерных женщин."
+  },
+  {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
     "slug": "gender-diversity",
     "externalUrl": "https://genderdiversity.org",
@@ -422,6 +695,36 @@
     "email": "info@genderdiversity.org",
     "title": "Гендерное разнообразие",
     "description": "Гендерное разнообразие улучшает благосостояние детей и взрослых всех гендерных идентичностей и форм самовыражения, предоставляя образование, повышая осведомленность и предлагая взгляд на более широкий спектр человеческого опыта. Мы также помогаем создавать поддерживающую и недискриминационную среду в школах, спортивных командах, на рабочих местах и у поставщиков медицинских услуг для трансгендерных и гендерно-разнообразных людей."
+  },
+  {
+    "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
+    "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "county": "City of Fairfield",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "googleMapsUrl": null,
+      "linkedinUrl": null,
+      "facebookUrl": null,
+      "youtubeUrl": null
+    },
+    "title": "Служба Нового Южного Уэльса по лечению и реабилитации выживших после пыток и травм",
+    "description": "STARTTS предоставляет культурно соответствующее психологическое лечение, вмешательства на уровне сообщества и обучение для услуг, помогающих людям залечивать раны от пыток и травм беженцев. Они стремятся создать безопасную и поддерживающую среду для различных сексуальностей, гендеров и тел, включая беженцев и искателей убежища."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -675,6 +978,55 @@
     "description": "TransVoiceLessons предлагает качественные услуги по контролю голоса и освобождению для трансгендерных и небинарных лиц, старающихся звучать более мужественно, женственно или андрогинно."
   },
   {
+    "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
+    "slug": "working-it-out-tasmania",
+    "externalUrl": "https://www.workingitout.org.au/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "TAS",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Разбираемся в этом",
+    "description": "«Разбираемся в этом» - это служба поддержки и образования по вопросам сексуальности, гендера и интерсексуальности в Тасмании. Она предоставляет услуги поддержки и защиты прав для ЛГБТИК+ тасманцев, а также образовательные и тренировочные программы школам, рабочим местам, правительству и неправительственным организациям."
+  },
+  {
+    "id": "b933717d-90e3-4aff-a61f-bd1fd1f2893b",
+    "slug": "thorne-harbour-health",
+    "externalUrl": "https://thorneharbour.org/",
+    "tags": [
+      "healthcare",
+      "support-groups",
+      "mental-health",
+      "social-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Thorne Harbour Health",
+    "description": "Организация, контролируемая сообществом ЛГБТИК+, предоставляющая услуги в области здоровья и благополучия для сексуально, гендерно и сексуально разнообразных сообществ, включая поддержку и профилактику ВИЧ, консультирование и услуги в области семейного насилия."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -699,6 +1051,33 @@
     "socialMedia": null,
     "title": "Центр гендерных исследований Инк.",
     "description": "Центр гендерных исследований Инк. предоставляет широкий спектр специализированных услуг, которые позволяют изучать гендерную идентичность и помогают в снятии гендерного дискомфорта. Он поддерживает транс-людей и людей, выражающих свой гендер, на каждом этапе их пути, помогая им исследовать и проживать свое подлинное Я. Центр предлагает жилье, управление делами, образование и обучение, психологическое консультирование и услуги в области психического здоровья, общественные группы, новости и ресурсы."
+  },
+  {
+    "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
+    "slug": "freedom-centre-wa",
+    "externalUrl": "https://www.freedom.org.au/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "parent-family-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
+      "instagramUrl": "https://www.instagram.com/freedom_centre/"
+    },
+    "title": "Центр Свободы",
+    "description": "Центр Свободы предоставляет широкий спектр поддержки для молодежи LGBTIQA+ по всей Западной Австралии, включая сессии без записи, развитие сообщества, консультации и многое другое. Они работают над тем, чтобы все молодые люди LGBTIQA+ чувствовали себя вовлеченными, связанными и уважаемыми. Они также предоставляют обучение и руководство родителям, профессионалам, сообществам и организациям."
   },
   {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
@@ -792,6 +1171,33 @@
     },
     "title": "East Bay Trans & Queer Counseling",
     "description": "East Bay Trans & Queer Counseling предлагает услуги по скользящей шкале, которые включают: индивидуальную терапию, расположенную в центре Беркли, штат Калифорния, поддержка в процессе исследования гендерной проблематики и перехода, рекомендательные письма по поводу гормонов и операции, профессиональные тренинги для специалистов по психическому здоровью, студентов и работодателей. Сэм Дэвис - трансгендер, гендерквир, лицензированный клинический социальный работник (LCSW), специализирующийся на работе с трансгендерами, квир, гендерквир и подростками и взрослыми, не соответствующими гендерным стереотипам. У них 16 лет опыта работы в области психического здоровья в East Bay, включая проведение групповых занятий по поддержке сверстников, общественное образование на конференциях ЛГБТКИ и 9 лет клинической практики и кризисного консультирования сильно маргинализированных людей для округа Аламеда. Они являются сильным и преданным защитником с долгой историей организации в интересах маргинализированных людей."
+  },
+  {
+    "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
+    "slug": "seahorse-victoria-club",
+    "externalUrl": "https://seahorsevic.com.au/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "friendly-businesses"
+    ],
+    "address": "St Kilda VIC 3182, Australia",
+    "phoneNumber": "0401 455 198",
+    "country": "AU",
+    "provinceOrState": "VIC",
+    "city": "St Kilda",
+    "county": "Port Phillip",
+    "latLng": [
+      -37.864,
+      144.982
+    ],
+    "email": "seahorsevic@gmail.com",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Клуб «Морской конек Виктория»",
+    "description": "Осн. в 1975 году, Клуб «Морской конек Виктория» предоставляет ресурсы, общественные услуги и поддержку для трансгендерного сообщества. В него входит дружественный к трансгендерам справочник услуг и предстоящая онлайн-платформа для связи членов сообщества."
   },
   {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
@@ -896,6 +1302,37 @@
     ],
     "title": "Карта трансгендеров",
     "description": "Transgendermap.com - это онлайн-ресурс, нацеленный на предоставление практической информации и руководства людям, которые задают вопросы о своей гендерной идентификации или находятся где-то на трансгендерном спектре. Веб-сайт включает в себя широкий спектр тем, таких как понимание терминологии трансгендеров, процессы трансформации, юридические вопросы, здравоохранение и многочисленные личные истории. Его цель - помочь людям ориентироваться в своих личных путешествиях, предоставляя 'карту' или руководство по многим аспектам гендерной идентификации и трансгендерного опыта. Пожалуйста, посетите актуальный сайт для получения самой актуальной и точной информации."
+  },
+  {
+    "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
+    "slug": "transfolk-of-wa",
+    "externalUrl": "https://www.transfolkofwa.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "WA",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransFolk of WA",
+    "description": "Сервис поддержки для трансгендерных людей и их близких в Западной Австралии. Предлагает онлайн-группы, рекомендуемые услуги и ресурсы, а также организовывает различные мероприятия."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

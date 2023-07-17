@@ -1,0 +1,26 @@
+{
+  "id": "6f38810d-896c-4493-afe2-b612021122fc",
+  "title": "The Shed Melbourne",
+  "description": "A Melbourne based support group for transmasculine individuals, offering various events and resources such as peer support meetings, gym clubs, book clubs, mental health resources, surgery and testosterone information and support, binder programmes, and more.",
+  "slug": "the-shed-melbourne",
+  "externalUrl": "https://www.theshedsupport.org.au/",
+  "tags": [
+    "transmasculine",
+    "mental-health",
+    "support-groups",
+    "healthcare",
+    "social-services"
+  ],
+  "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "Brunswick East",
+  "county": "City of Merri-bek",
+  "latLng": [
+    -37.76497579999999,
+    144.9730678
+  ],
+  "email": null,
+  "socialMedia": null
+}
