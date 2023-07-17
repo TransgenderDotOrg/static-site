@@ -12,7 +12,7 @@ import { useTranslation } from "react-i18next";
 import i18n from "../../i18n";
 import tags from "../../../tags.json";
 
-const StyledLink = styled("a")({
+export const StyledLink = styled("a")({
   textDecoration: "none",
   display: "flex",
   flexDirection: "row",
@@ -226,6 +226,10 @@ export const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
   const location = useLocation();
   const navigate = useNavigate();
+
+  React.useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
 
   const navigateToEscapeSite = () => {
     window.location.href = "https://rnewsbite.com";

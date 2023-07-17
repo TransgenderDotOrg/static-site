@@ -20,6 +20,9 @@ import { ResourcePage } from "./pages/resource";
 import { AboutPage } from "./pages/about";
 
 import i18n from "./i18n";
+import { Footer } from "./ui/navigation/footer";
+import { TermsOfServicePage } from "./pages/terms-of-service";
+import { PrivacyPolicyPage } from "./pages/privacy-policy";
 
 export const AppContainer = styled("div")({
   display: "flex",
@@ -126,13 +129,13 @@ export const MenuItem = ({
 const theme = createTheme({
   typography: {
     body1: {
-      fontFamily: "OpenSans, sans-serif",
+      fontFamily: "Catamaran, sans-serif",
       fontSize: "1rem",
       fontWeight: 300,
       lineHeight: 1.5,
     },
     body2: {
-      fontFamily: "OpenSans, sans-serif",
+      fontFamily: "Catamaran, sans-serif",
       fontSize: "1.25rem",
       fontWeight: 300,
       lineHeight: 1.5,
@@ -166,8 +169,11 @@ const App = () => {
             <Route path="/" element={<HomePage />} />
             {/*<Route path="about" element={<AboutPage />} />*/}
             <Route path="resources" element={<ResourcePage />} />
+            <Route path="terms-of-service" element={<TermsOfServicePage />} />
+            <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
             <Route path="*" element={<HomePage />} />
           </Routes>
+          <Footer />
         </BrowserRouter>
       </ThemeProvider>
     </>
