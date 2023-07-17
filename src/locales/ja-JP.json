@@ -33,8 +33,8 @@
   "search.placeholder": "リソースを検索...",
   "resources.results": "結果",
   "resources.description": "あなたの指先に力強い情報 - トランスジェンダーコミュニティを支援、教育、昇華するように設計された豊富なリソースのコレクションを発見、探索、アクセスします。",
-  "tags.spiritual": "\"スピリチュアル\"",
-  "footer.description": "\"リソース、サポート、オープンな協力を通じてトランスジェンダーのコミュニティを強化します。共に働くことで、私たちは変化をもたらすことができます。\"",
   "footer.terms-of-service": "利用規約",
-  "footer.privacy-policy": "プライバシーポリシー"
+  "footer.privacy-policy": "プライバシーポリシー",
+  "tags.spiritual": "スピリチュアル",
+  "footer.description": "リソース、サポート、オープンな協力を通じてトランスジェンダーのコミュニティに権限を与える。共に努力すれば、私たちは違いを生み出すことができます。"
 }

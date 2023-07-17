@@ -33,8 +33,8 @@
   "search.placeholder": "Buscar recursos...",
   "resources.results": "Resultados",
   "resources.description": "Información empoderadora al alcance de tus dedos: descubre, explora y accede a una extensa colección de recursos diseñados para apoyar, educar y elevar a la comunidad transgénero.",
-  "tags.spiritual": "\"Espiritual\"",
-  "footer.description": "\"Empoderando a la comunidad transgénero a través de recursos, apoyo y colaboración abierta. Trabajando juntos, podemos marcar la diferencia.\"",
   "footer.terms-of-service": "Términos de Servicio",
-  "footer.privacy-policy": "Política de Privacidad"
+  "footer.privacy-policy": "Política de Privacidad",
+  "tags.spiritual": "Espiritual",
+  "footer.description": "Empoderando a la comunidad transgénero a través de recursos, apoyo y colaboración abierta. Trabajando juntos, podemos marcar la diferencia."
 }

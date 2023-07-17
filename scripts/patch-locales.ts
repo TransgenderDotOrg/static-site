@@ -59,7 +59,11 @@ async function generateMissingTranslations() {
             text,
           });
 
-          const response = await model.call(input);
+          let response = await model.call(input);
+
+          // remove the possible quotes from the beginning and end of the response
+          response = response.trim().replace(/^"/, "").replace(/"$/, "");
+
           const translatedText = response.trim();
 
           // Add the translated text to this locale
