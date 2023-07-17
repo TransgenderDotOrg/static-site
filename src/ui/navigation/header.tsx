@@ -392,6 +392,9 @@ export const Header = () => {
                 navigate(`/resources?search=${e.currentTarget.value}`);
               }
             }}
+            sx={{
+              marginLeft: "0.5rem",
+            }}
           />
         )}
         <StyledDiscordLink

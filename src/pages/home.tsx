@@ -62,7 +62,7 @@ export const HomePage = () => {
           </Button>
           <Button
             onClick={() => navigate("/resources")}
-            sx={{ marginLeft: "0.5rem" }}
+            sx={{ marginLeft: "0.5rem", marginRight: "0.5rem" }}
           >
             {i18n.t("home.cta.resources-button")}
           </Button>
