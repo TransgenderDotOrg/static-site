@@ -156,6 +156,8 @@ const theme = createTheme({
 });
 
 const App = () => {
+  document.body.dir = i18n.dir();
+
   return (
     <>
       <ThemeProvider theme={theme}>
