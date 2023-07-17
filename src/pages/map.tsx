@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from "react";
 import TextField from "@mui/material/TextField";
 import GoogleMapReact from "google-map-react";
-import { Autocomplete, Box } from "@mui/material";
+import { Autocomplete, Box, Menu, Typography } from "@mui/material";
 import { Resource } from "./resource";
 import i18n from "../i18n";
 import languages from "../../languages.json";
+import { ReactComponent as MarkerIcon } from "../assets/marker.svg";
+import { Link } from "../ui/link";
 
 const mapStyles = {
   width: "100%",
@@ -14,10 +16,110 @@ const mapStyles = {
 export interface MarkerProps {
   lat: number;
   lng: number;
-  text: string;
+  resource: Resource;
 }
 
-export const Marker = (props: MarkerProps) => <div>{props.text}</div>;
+export const Marker = (props: MarkerProps) => {
+  const [anchorEl, setAnchorEl] = React.useState<null | Element>(null);
+
+  return (
+    <div style={{ position: "relative" }}>
+      <MarkerIcon
+        onClick={(e) => setAnchorEl(e.currentTarget)}
+        style={{
+          position: "absolute",
+          bottom: 0,
+          left: "calc(50% - 10px)",
+          cursor: "pointer",
+        }}
+      />
+      <Menu
+        anchorEl={anchorEl}
+        open={Boolean(anchorEl)}
+        onClose={() => setAnchorEl(null)}
+        MenuListProps={{
+          sx: {
+            padding: "0.5rem",
+          },
+        }}
+        slotProps={{
+          root: {
+            sx: {
+              padding: 0,
+            },
+          },
+          paper: {
+            sx: {
+              width: "300px",
+            },
+          },
+        }}
+      >
+        <Typography
+          variant="body1"
+          sx={{ fontSize: "0.65rem" }}
+          fontWeight={500}
+        >
+          {props.resource.externalUrl ? (
+            <Link href={props.resource.externalUrl}>
+              {props.resource.title}
+            </Link>
+          ) : (
+            props.resource.title
+          )}
+        </Typography>
+        <Typography
+          variant="body1"
+          sx={{ fontSize: "0.65rem", marginTop: "0.25rem" }}
+        >
+          {props.resource.description}
+        </Typography>
+        <Typography
+          variant="body1"
+          fontWeight={500}
+          sx={{ fontSize: "0.65rem", marginTop: "0.5rem" }}
+        >
+          Contact
+        </Typography>
+        <Typography
+          variant="body1"
+          sx={{ fontSize: "0.65rem", marginTop: "0.25rem" }}
+        >
+          <div
+            itemProp="address"
+            itemScope
+            itemType="http://schema.org/PostalAddress"
+          >
+            {props.resource.address}
+          </div>
+        </Typography>
+        {props.resource.phoneNumber && (
+          <Typography
+            variant="body1"
+            sx={{ fontSize: "0.65rem", marginTop: "0.25rem" }}
+          >
+            <Link
+              href={`tel:${props.resource.phoneNumber}`}
+              itemProp="telephone"
+            >
+              {props.resource.phoneNumber}
+            </Link>
+          </Typography>
+        )}
+        {props.resource.email && (
+          <Typography
+            variant="body1"
+            sx={{ fontSize: "0.65rem", marginTop: "0.25rem" }}
+          >
+            <Link href={`mailto:${props.resource.email}`} itemProp="email">
+              {props.resource.email}
+            </Link>
+          </Typography>
+        )}
+      </Menu>
+    </div>
+  );
+};
 
 export const MapPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -64,7 +166,7 @@ export const MapPage = () => {
               key={i}
               lat={resource.latLng[0]}
               lng={resource.latLng[1]}
-              text={resource.title}
+              resource={resource}
             />
           ))}
       </GoogleMapReact>

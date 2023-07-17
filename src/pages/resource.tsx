@@ -19,6 +19,9 @@ export interface Resource {
   tags: string[];
   title: string;
   description: string;
+  address: string;
+  phoneNumber?: string;
+  email?: string;
   latLng: [number, number];
 }
 

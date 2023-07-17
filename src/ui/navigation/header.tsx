@@ -369,6 +369,7 @@ export const Header = () => {
               },
             }}
           />
+          <MenuItem title={i18n.t("header.menuitem.map")} href="/map" />
           {/*<MenuItem title="About" href="/about" />*/}
           {/*<MenuItem title="Education" href="/education" />*/}
           <MenuItem
