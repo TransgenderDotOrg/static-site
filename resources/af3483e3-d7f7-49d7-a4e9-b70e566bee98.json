@@ -1,0 +1,109 @@
+{
+  "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
+  "slug": "good-hope-metropolitan-community-church",
+  "externalUrl": "https://www.goodhopemcc.org",
+  "tags": [
+    "spiritual"
+  ],
+  "address": "18 Belmont Rd, Rondebosch, Cape Town, 7700, South Africa",
+  "phoneNumber": null,
+  "country": "ZA",
+  "provinceOrState": "WC",
+  "city": "Cape Town",
+  "county": "City of Cape Town Metropolitan Municipality",
+  "latLng": [
+    -33.9605258,
+    18.474311
+  ],
+  "email": "secretary@goodhopemcc.org",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/goodhopemcc"
+  },
+  "town": "Rondebosch",
+  "i18n": {
+    "en-US": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "A theologically progressive and inclusive Christian community founded on the principles of Jesus Christ that celebrates diversity and provides a safe, non-judgmental space where all are welcome. Part of an inclusive Christian congregation based in Cape Town, South Africa and part of the larger international denomination known as Metropolitan Community Churches (MCC)."
+    },
+    "pt-PT": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "Uma comunidade cristã teologicamente progressista e inclusiva, fundada sobre os princípios de Jesus Cristo, que celebra a diversidade e oferece um espaço seguro e não julgador onde todos são bem-vindos. Parte de uma congregação cristã inclusiva baseada na Cidade do Cabo, África do Sul, e parte da maior denominação internacional conhecida como Metropolitan Community Churches (MCC)."
+    },
+    "de-DE": {
+      "title": "GOOD HOPE Metropolitan Gemeindekirche",
+      "description": "Eine theologisch progressive und inklusive christliche Gemeinschaft, die auf den Prinzipien von Jesus Christus gegründet wurde, Vielfalt feiert und einen sicheren, nicht wertenden Raum bietet, in dem alle willkommen sind. Teil einer inklusiven christlichen Gemeinde in Kapstadt, Südafrika und Teil der größeren internationalen Denomination, bekannt als Metropolitan Community Churches (MCC)."
+    },
+    "sw-KE": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "Jumuiya ya Kikristo inayojumuisha na inayosonga mbele kisoma kimeanzishwa kwenye kanuni za Yesu Kristo ambayo inasherehekea utofauti na hutoa nafasi salama, isiyo na hukumu ambapo wote wanakaribishwa. Sehemu ya kusanyiko la Kikristo linalojumuisha lililoko Cape Town, Afrika Kusini na sehemu ya dhehebu kubwa la kimataifa lijulikanalo kama Metropolitan Community Churches (MCC)."
+    },
+    "zh-CN": {
+      "title": "GOOD HOPE Metropolitan 社区教堂",
+      "description": "这是一个以耶稣基督的原则为基础的理论上进步和包容的基督教社区，它庆祝多样性并提供一个安全，无评判的空间，欢迎所有人。 是南非开普敦基督教包容乡村基地的一部分，也是被称为大都会社区教堂（MCC）的大型国际教派的一部分。"
+    },
+    "tr-TR": {
+      "title": "GOOD HOPE Metropolitan Community Kilisesi",
+      "description": "Çeşitliliği kutlayan ve herkesin hoş geldiği güvenli, yargısız bir alan sağlayan, İsa Mesih'in ilkeleri üzerine kurulmuş teolojik olarak ilerici ve kapsayıcı bir Hristiyan topluluğu. Cape Town, Güney Afrika'da bulunan ve Metropolitan Community Churches (MCC) olarak bilinen daha büyük uluslararası mezhep olan kapsayıcı bir Hristiyan cemaatinin bir parçası."
+    },
+    "es-ES": {
+      "title": "Iglesia Metropolitana de BUENA ESPERANZA",
+      "description": "Una comunidad cristiana inclusiva y teológicamente progresista fundada en los principios de Jesucristo que celebra la diversidad y proporciona un espacio seguro y sin prejuicios donde todos son bienvenidos. Parte de una congregación cristiana inclusiva con sede en Ciudad del Cabo, Sudáfrica y parte de la denominación internacional más grande conocida como Iglesias Metropolitanas de la Comunidad (MCC)."
+    },
+    "fr-FR": {
+      "title": "Église métropolitaine de la BONNE ESPÉRANCE",
+      "description": "Une communauté chrétienne progressiste et inclusive sur le plan théologique fondée sur les principes de Jésus-Christ qui célèbre la diversité et offre un espace sûr et non discriminatoire où tous sont les bienvenus. Faisant partie d'une congrégation chrétienne inclusive basée à Cape Town, en Afrique du Sud et faisant partie de la plus grande dénomination internationale connue sous le nom de Metropolitan Community Churches (MCC)."
+    },
+    "vi-VN": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "Một cộng đồng Kitô giáo tiến bộ về mặt thần học và bao dung, được thành lập trên các nguyên tắc của Chúa Giêsu Kitô, hoan nghênh sự đa dạng và cung cấp một không gian an toàn, không đánh giá mọi người. Là một phần của giáo hội Kitô giáo bao dung có trụ sở tại Cape Town, Nam Phi và là một phần của tôn giáo lớn quốc tế được biết đến với tên gọi Giáo Hội Cộng Đồng Metropolitan (MCC)."
+    },
+    "id-ID": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "Sebuah komunitas Kristen yang teologis progresif dan inklusif yang didirikan atas prinsip-prinsip Yesus Kristus yang merayakan keragaman dan menyediakan ruang yang aman, tanpa penilaian di mana semua orang diterima. Bagian dari kongregasi Kristen inklusif yang berbasis di Cape Town, Afrika Selatan dan bagian dari denominasi internasional yang lebih besar yang dikenal sebagai Metropolitan Community Churches (MCC)."
+    },
+    "ru-RU": {
+      "title": "Метрополитенская церковь GOOD HOPE",
+      "description": "Теологически прогрессивное и инклюзивное христианское сообщество, основанное на принципах Иисуса Христа, которое отмечает разнообразие и предлагает безопасное, неосуждающее пространство, где каждый будет приветствован. Является частью инклюзивной христианской конгрегации, основанной в Кейптауне, Южная Африка, и является частью большего международного община известного как Метрополитенские общины церкви (MCC)."
+    },
+    "ja-JP": {
+      "title": "GOOD HOPE都市共同体教会",
+      "description": "イエス・キリストの原則に基づいて設立された、神学的に進歩的で包括的なキリスト教共同体。多様性を祝い、すべての人々が歓迎される安全で非批判的な空間を提供します。南アフリカ、ケープタウンに拠点を置く包括的なキリスト教会であり、より大きな国際的な信者集団である都市共同体教会 (MCC) の一部です。"
+    },
+    "ko-KR": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "예수 그리스도의 원칙에 기반을 두고 다양성을 축하하며 모든 사람이 환영 받는 안전하고 비판적이지 않은 공간을 제공하는 신학적으로 진보적이고 포괄적인 크리스천 커뮤니티입니다. 이는 남아프리카 공화국 케이프 타운에 기반을 둔 포괄적인 기독교 회중의 일부이며, Metropolitan Community Churches (MCC)라고 알려진 더 큰 국제 종파의 일부입니다."
+    },
+    "ar-SA": {
+      "title": "كنيسة المدينة المستعمرية للأمل الجيد",
+      "description": "مجتمع مسيحي شامل وتقدمي على الصعيد اللاهوتي، تأسس على مبادئ يسوع المسيح يحتفل بالتنوع ويوفر مكانًا آمنًا وغير محكوم عليه حيث يرحب بالجميع. جزء من تجمع مسيحي شامل مقره في كيب تاون، جنوب أفريقيا وجزء من الطائفة الدولية الأكبر المعروفة بكنائس المجتمع المتروبولي (MCC)."
+    },
+    "uk-UA": {
+      "title": "Метрополітенська церква GOOD HOPE",
+      "description": "Теологічно прогресивна та інклюзивна християнська спільнота, заснована на принципах Ісуса Христа, яка святкує різноманітність і забезпечує безпечне, неосудливе місце, де всі вітаються. Частина інклюзивного християнського збору, базованого в Кейптауні, Південна Африка, і є частиною більшого міжнародного деномінації, відомої як Метрополітенські церкви спільноти (MCC)."
+    },
+    "ur-PK": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "یہوا کے بیٹے یسوع مسیح کے اصولوں کی بنیاد پر قائم ایک الہیاتی ترقی پسند اور شامل کنندہ مسیحی برادری جو تنوع کو منانے والی اور ایک محفوظ، غیر ججمنٹل خلا مہیا کرتی ہے جہاں سب خوش آمدید ہیں۔ کیپ ٹاؤن، جنوبی افریقہ میں قائم شامل مسیحی کانگریگیشن کا حصہ اور بڑے بین الاقوامی فرقے یعنی Metropolitan Community Churches (MCC) کا حصہ۔"
+    },
+    "mr-IN": {
+      "title": "GOOD HOPE महानगरीय समुदायी चर्च",
+      "description": "जेशू ख्रिस्ताच्या सिद्धांतांवर अडकलेल्या तत्त्वज्ञानिक प्रगतीशील आणि समावेशक क्रैस्तव समुदाय ज्याने विविधतेची उत्सव मनावे आणि सर्वांसाठी सुरक्षित, निर्दोष अंतराव कहां शकतो. केप टाऊन, दक्षिण आफ्रिकेमधील समावेशक क्रैस्तव मंडळाचा भाग आहे आणि याचा महानगरीय समुदायी चर्च (MCC) म्हणजेच मोठ्या आंतरराष्ट्रीय धर्मविरोधातील भाग."
+    },
+    "hi-IN": {
+      "title": "GOOD HOPE Metropolitan Community Church",
+      "description": "यह एक धार्मिक रूप से प्रगतिशील और समावेशी क्रिस्टियन समुदाय है जो जीसस क्राइस्ट के सिद्धांतों पर स्थापित है, जो विविधता की प्रशंसा करता है और एक सुरक्षित, गैर-निर्णायक स्थल प्रदान करता है जहाँ सभी का स्वागत है। यह केप टाउन, दक्षिण अफ्रीका में स्थित एक समावेशी क्रिस्टियन सभा का हिस्सा है और Metropolitan Community Churches (MCC) के रूप में जाने जाने वाले बड़े अंतरराष्ट्रीय धर्मसंघ का भाग है।"
+    },
+    "bn-BD": {
+      "title": "GOOD HOPE মেট্রোপলিটান কমিউনিটি চার্চ",
+      "description": "যীশু খ্রিষ্টের সিদ্ধান্তগুলিতে ভিত্তি করে সৃষ্টিকৃত একটি থিওলজিক্যালি প্রগতিশীল এবং সমন্বিত খ্রিষ্টান কমিউনিটি যা বৈচিত্র্যময়তাকে উদ্যাপন করে এবং সবাইকে স্বাগত জানানোর একটি নিরাপদ, অ-সমালোচনামূলক স্থান প্রদান করে। এটি দক্ষিণ আফ্রিকার কেপটাউনে অবস্থিত একটি সমন্বিত খ্রিষ্টান কংগ্রিগেশনের অংশ এবং মেট্রোপলিটান কমিউনিটি চার্চেস (MCC) নামে পরিচিত বড় আন্তর্জাতিক ধর্মীয় সম্প্রদায়ের অংশ।"
+    },
+    "ta-IN": {
+      "title": "நல்ல நம்பிக்கை மெட்ரோபாலிட்டன் கம்யூனிட்டி சர்ச்",
+      "description": "இயேசு கிறிஸ்துவின் கொள்கைகளின் மேல் உருவாக்கப்பட்ட, கிட்டத்தட்ட ஜனாதிபதியாக மேம்பட்ட கிறிஸ்துவ ஆழ்ந்த சமூகமாய உள்ளும். இவை வேறுபாட்டைக் கொண்டாடுகின்றன, எல்லாருக்கும் வரவேற்பு அளிக்கும் பாதுகாப்பான, முக்கியமாக மாணவர்களுக்கான இடத்தை வழங்குகின்றன. இது கேப் டவுன், தென்னாப்பிரிக்காவில் செல்லலாகிய கிறிஸ்துவ ஆழ்ந்த சமூகத்தின் ஒரு பகுதியும், மெட்ரோபாலிட்டன் கம்யூனிட்டி சர்ச்சிகள் (MCC) என்ற பெரிய சர்வதேச மதிப்புத்திறனையும் உள்ளது."
+    },
+    "te-IN": {
+      "title": "GOOD HOPE మెట్రోపాలిటన్ కమ్యునిటీ చర్చి",
+      "description": "యేసు క్రీస్తు యొక్క సిద్ధాంతాల మీద స్థాపించబడిన, వివిధతను పండిస్తున్న మరియు అన్నిటికి సమానంగా బృహత్తర అంతర్జాతీయ మేట్రో కమ్యునిటీ చర్చులు (MCC) అంటే పరిచయపడిన అంతర్జాతీయ మతానియమంలో భాగంగా ఉన్న కేప్ టౌన్, దక్షిణ ఆఫ్రికాలోని సమావేశ క్రైస్తవ కమ్యునిటీ. అన్ని వారికీ స్వాగతం చేసే సురక్షిత, ములాకాలు లేని స్థలమే ఇది. ఇది థియోలాజికల్ ప్రగతిశీల మరియు సమావేశత్మక క్రైస్తవ కమ్యునిటీ."
+    }
+  }
+}

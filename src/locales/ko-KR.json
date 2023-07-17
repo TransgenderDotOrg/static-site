@@ -32,5 +32,9 @@
   "header.emergency-exit": "긴급 출구 (ESC)",
   "search.placeholder": "자료 검색...",
   "resources.results": "결과",
-  "resources.description": "손끝에서 권한을 부여하는 정보 - 트랜스젠더 커뮤니티를 지원, 교육, 격려하기 위해 설계된 자원의 광범위한 컬렉션을 발견, 탐색, 접근하세요."
+  "resources.description": "손끝에서 권한을 부여하는 정보 - 트랜스젠더 커뮤니티를 지원, 교육, 격려하기 위해 설계된 자원의 광범위한 컬렉션을 발견, 탐색, 접근하세요.",
+  "tags.spiritual": "\"영적인\"",
+  "footer.description": "\"자원, 지원, 그리고 열린 협업을 통해 트랜스젠더 커뮤니티에 권한을 부여하다. 함께 일하면, 우리는 변화를 만들 수 있습니다.\"",
+  "footer.terms-of-service": "서비스 이용 약관",
+  "footer.privacy-policy": "개인정보 처리방침"
 }

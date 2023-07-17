@@ -1,0 +1,112 @@
+{
+  "id": "e5b7c0b6-7106-4426-9809-7d59ebed9ec6",
+  "slug": "transhub",
+  "externalUrl": "https://www.transhub.org.au/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "health-providers",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "TransHub",
+      "description": "TransHub is a digital information and resource platform for all trans and gender diverse people in NSW, their loved ones, allies and health providers. It provides access to much needed information and resources for a community that may not have had access to such as they grew up or grew towards their authentic selves. Information ranges from medical needs such as hormones, surgeries and doctor lists to social and legal issues."
+    },
+    "id-ID": {
+      "title": "TransHub",
+      "description": "TransHub adalah platform informasi dan sumber daya digital untuk semua orang trans dan beragam gender di NSW, orang-orang yang mereka cintai, sekutu dan penyedia layanan kesehatan. Ini menyediakan akses ke informasi dan sumber daya yang sangat dibutuhkan oleh komunitas yang mungkin tidak memiliki akses seperti saat mereka tumbuh atau berkembang menuju jati diri mereka yang otentik. Informasi berkisar dari kebutuhan medis seperti hormon, operasi, dan daftar dokter hingga masalah sosial dan hukum."
+    },
+    "zh-CN": {
+      "title": "TransHub",
+      "description": "TransHub是新南威尔士州所有跨性别和性别多元人士、他们的亲人、盟友和卫生提供者的数字信息和资源平台。它为已经或逐渐向真实自我发展的社区提供了他们从未曾拥有过的信息和资源的访问途径。信息包括从医疗需求，如荷尔蒙，手术和医生列表，到社会和法律问题等。"
+    },
+    "es-ES": {
+      "title": "TransHub",
+      "description": "TransHub es una plataforma digital de información y recursos para todas las personas trans y de género diverso en NSW, sus seres queridos, aliados y proveedores de salud. Proporciona acceso a información y recursos muy necesarios para una comunidad que puede no haber tenido acceso a estos mientras crecía o se acercaba a su auténtico yo. La información varía desde necesidades médicas como hormonas, cirugías y listas de médicos hasta problemas sociales y legales."
+    },
+    "pt-PT": {
+      "title": "TransHub",
+      "description": "TransHub é uma plataforma digital de informação e recursos para todas as pessoas trans e de gênero diverso em NSW, seus entes queridos, aliados e provedores de saúde. Ele fornece acesso a informações e recursos muito necessários para uma comunidade que pode não ter tido acesso a tais informações à medida que cresceram ou evoluíram para seus autênticos. A informação varia de necessidades médicas como hormônios, cirurgias e listas de médicos a questões sociais e legais."
+    },
+    "de-DE": {
+      "title": "TransHub",
+      "description": "TransHub ist eine digitale Informations- und Ressourcenplattform für alle trans und geschlechtlich vielfältigen Menschen in NSW, ihre Lieben, Verbündeten und Gesundheitsdienstleister. Sie bietet Zugang zu dringend benötigten Informationen und Ressourcen für eine Gemeinschaft, die möglicherweise keinen Zugang dazu hatte, als sie aufwuchs oder zu ihrer authentischen Selbst heranwuchs. Die Informationen reichen von medizinischen Bedürfnissen wie Hormonen, Operationen und Ärztelisten bis hin zu sozialen und rechtlichen Fragen."
+    },
+    "fr-FR": {
+      "title": "TransHub",
+      "description": "TransHub est une plateforme numérique d'information et de ressources pour toutes les personnes trans et de genre diversifié en NSW, leurs proches, alliés et fournisseurs de soins de santé. Il offre un accès à des informations et ressources dont une communauté n'aurait peut-être pas eu accès en grandissant ou en se rapprochant de leur véritable personnalité. Les informations vont des besoins médicaux tels que les hormones, les chirurgies et les listes de médecins, aux questions sociales et juridiques."
+    },
+    "tr-TR": {
+      "title": "TransHub",
+      "description": "TransHub, NSW'deki tüm trans ve cinsiyet çeşitliliği olan kişiler, sevdikleri, müttefikleri ve sağlık sağlayıcıları için dijital bir bilgi ve kaynak platformudur. Kendi otantik benliklerine doğru büyümeyi başaran bu topluluk için çok gereken bilgi ve kaynaklara erişim sağlar. Bilgi, hormonlar, ameliyatlar ve doktor listeleri gibi tıbbi ihtiyaçlardan sosyal ve hukuki meselelere kadar uzanır."
+    },
+    "sw-KE": {
+      "title": "TransHub",
+      "description": "TransHub ni jukwaa la kidijitali la maelezo na rasilimali kwa watu wote wa kijinsia na tofauti ya jinsia huko NSW, wapendwa wao, washirika na watoa huduma za afya. Inatoa ufikiaji wa maelezo na rasilimali zinazohitajika kwa jamii ambayo huenda isingekuwa na ufikiaji wa kama walivyokua au walivyoelekea kuelekea nafsi zao halisi. Maelezo yanatoka kwenye mahitaji ya matibabu kama vile homoni, upasuaji na orodha za madaktari hadi masuala ya kijamii na kisheria."
+    },
+    "vi-VN": {
+      "title": "TransHub",
+      "description": "TransHub là nền tảng thông tin và tài nguyên số cho tất cả mọi người trans và đa dạng giới tính tại NSW, những người thân yêu của họ, đồng minh và nhà cung cấp sức khỏe. Nó cung cấp quyền truy cập vào thông tin và tài nguyên rất cần thiết cho một cộng đồng mà có thể không có quyền truy cập vào như khi họ lớn lên hoặc phát triển hướng tới bản ngã thực sự của mình. Thông tin bao gồm các nhu cầu y tế như hormone, phẫu thuật và danh sách bác sĩ đến các vấn đề xã hội và pháp lý."
+    },
+    "ru-RU": {
+      "title": "TransHub",
+      "description": "TransHub - это цифровая информационная и ресурсная платформа для всех трансгендерных и людей с различной гендерной идентичностью в Новом Южном Уэльсе, их близких, союзников и медицинских работников. Он обеспечивает доступ к необходимой информации и ресурсам для сообщества, которому ранее могло быть сложно получить такой доступ в процессе своего взросления или движения к своему истинному «я». Информация включает в себя медицинские потребности, такие как гормоны, операции и списки врачей, а также социальные и юридические вопросы."
+    },
+    "ko-KR": {
+      "title": "TransHub",
+      "description": "TransHub는 NSW의 모든 트랜스 및 성 다양성 인구, 그들의 사랑하는 사람들, 동맹자 및 건강 제공자를 위한 디지털 정보 및 자원 플랫폼입니다. 이것은 성장하거나 진정한 자신으로 성장함에 따라 이러한 접근을 할 수 없었던 커뮤니티에게 필요한 정보와 자원에 대한 접근성을 제공합니다. 정보는 호르몬, 수술, 의사 목록과 같은 의료 필요성부터 사회적 및 법적 문제에 이르기까지 다양합니다."
+    },
+    "uk-UA": {
+      "title": "TransHub",
+      "description": "TransHub - це цифрова платформа інформації та ресурсів для всіх трансів та людей, котрі відмінні від гендеру, в Новій Південній Уельс, для їхніх близьких, союзників та постачальників охорони здоров'я. Вона надає доступ до необхідної інформації та ресурсів для спільноти, котра, можливо, не мала доступу до такого, коли вони вирощували або прямували до своїх автентичних особистостей. Інформація відтворюється від медичних потреб, таких як гормони, операції та списки лікарів, до соціальних та правових питань."
+    },
+    "ja-JP": {
+      "title": "TransHub",
+      "description": "TransHubは、NSWのすべてのトランスジェンダーや性別多様な人々、彼らの大切な人、協力者、そして健康提供者向けのデジタル情報およびリソースプラットフォームです。本来の自分に向かって成長する過程でこれらにアクセスできなかった可能性があるコミュニティに対して、大いに必要な情報とリソースへのアクセスを提供します。情報は、ホルモン、手術、医師リストといった医療ニーズから社会的および法的な問題に至るまで幅広く対応しています。"
+    },
+    "ar-SA": {
+      "title": "TransHub",
+      "description": "TransHub هو منصة رقمية للمعلومات والموارد لجميع الأشخاص العابرين ومتنوعي الجنس في نيوساوث ويلز، وأحبائهم، وحلفائهم ومقدمي الرعاية الصحية. يوفر الوصول إلى المعلومات والموارد المطلوبة بشدة لمجتمع قد لا يكون لديه الوصول إلى مثل هذه الأمور أثناء نموهم أو أثناء التطور نحو ذواتهم الأصلية. تتراوح المعلومات من الاحتياجات الطبية مثل الهرمونات، الجراحات وقوائم الأطباء إلى القضايا الاجتماعية والقانونية."
+    },
+    "ur-PK": {
+      "title": "TransHub",
+      "description": "ٹرانس ہب ایک ڈیجیٹل معلومات اور وسائل کا پلیٹ فارم ہے جو NSW میں تمام انتقالی اور جنسی تنوع والے لوگوں ، ان کے پیاروں ، حلیفوں اور صحت سے متعلق فراہم کرتی ہے۔ یہ ایک ایسے برادری کے لئے ضروری معلومات اور وسائل تک رسائی فراہم کرتی ہے جنھوں نے شاید اپنی اصل خود کی طرف بڑھتے ہوئے یا بڑھتے ہوئے ایسا نہ کیا ہو۔ معلومات طبی ضروریات جیسے ہارمونز ، سرجریز اور ڈاکٹرز کی فہرستوں سے لے کر سماجی اور قانونی مسائل تک پھیلتی ہیں۔"
+    },
+    "hi-IN": {
+      "title": "TransHub",
+      "description": "TransHub एक डिजिटल सूचना और संसाधन मंच है जो NSW में सभी ट्रांस और लिंग विविधता वाले लोगों, उनके प्यारे व्यक्तियों, सहयोगियों और स्वास्थ्य प्रदाताओं के लिए है। यह उनके संपन्न होने के दौरान या अपने असली आत्मज की ओर बढ़ते समय ऐसी समुदाय के लिए आवश्यक सूचना और संसाधनों तक पहुंच प्रदान करता है, जिन्हें उन्हें शायद ऐसी पहुंच नहीं मिली होगी। सूचना हार्मोन्स, सर्जरी और डॉक्टर की सूचियों से लेकर सामाजिक और कानूनी मुद्दों तक की सीमा तक हो सकती है।"
+    },
+    "bn-BD": {
+      "title": "TransHub",
+      "description": "TransHub হল যেই সব  ট্রান্স এবং লিঙ্গ বৈচিত্র্যপূর্ণ মানুষের, তাদের প্রিয়জনদের, বন্ধুদের এবং স্বাস্থ্য পরিদর্শকদের জন্য একটি ডিজিটাল তথ্য এবং সম্পদ প্ল্যাটফর্ম। এর মাধ্যমে প্রয়োজনীয় তথ্য এবং সম্পদ অ্যাক্সেস করা যায় যা সম্প্রতি একটি সম্প্রদায়ের জন্য উপলব্ধ হতে পারে না যেহেতু তারা বিকাশ অথবা তাদের আসল নিজেকে পেতে গেছেন। তথ্য হরমোন, সার্জারি এবং ডাক্তারের তালিকা থেকে সামাজিক এবং আইনগত বিষয়সমূহ পর্যন্ত ছড়িয়ে পড়ে।"
+    },
+    "mr-IN": {
+      "title": "TransHub",
+      "description": "TransHub हे एक डिजिटल माहिती आणि संसाधन मंच आहे एनएसडब्ल्यूमधील सर्व ट्रान्सांस आणि लिंगविविध लोकांसाठी, त्यांच्या प्रियतमांसाठी, मित्रांसाठी आणि आरोग्य प्रदातांसाठी. हे एक्यूम्युनिटीसाठी गरजेच्या माहिती आणि संसाधनांकडे प्रवेश प्रदान करते ज्यांना त्यांनी वाढत असताना किंवा त्यांच्या मूळ स्वतःच्या तर्फ वाढताना असं उपलब्ध केलेलं नसेल. माहिती हार्मोन्स, शस्त्रक्रिया आणि डॉक्टरांच्या याद्यापासून सामाजिक आणि कायदेशीर मुद्द्यांपर्यंत विस्तृत आहे."
+    },
+    "te-IN": {
+      "title": "TransHub",
+      "description": "TransHub అనేది గెండర్ వివిధతకు విధించిన మరియు ట్రాన్స్ అనే వ్యక్తులకు, వారి ప్రేమికులకు, మిత్రులకు మరియు ఆరోగ్య ప్రదాయకులకు అన్ని డిజిటల్ సమాచారం మరియు వనరుల వేదిక. వాళ్ళ నిజమైన ఆత్మకి మొత్తం ఏర్పడే వరకు, లేదా మొత్తం పెరుగుతున్న వారికి అంతరంగంగా ప్రాప్యమయ్యే సాధనాలను అందిస్తుంది. సమాచారం మెడికల్ అవసరాల నుంచి, హార్మోన్లు, షస్త్రచికిత్సలు మరియు వైద్య జాబితాకు వేయడం వరకు మరియు సామాజిక మరియు చట్టప్రమాణ సమస్యల వరకు చేరుతుంది."
+    },
+    "ta-IN": {
+      "title": "TransHub",
+      "description": "TransHub என்பது NSW மாநிலத்தில் உள்ள எல்லா பாலின மாற்றை அனுபவிப்பவர்களுக்கு, அவர்களின் அன்பில் உள்ளவர்களுக்கு, ஆதரவாளர்களுக்கு மற்றும் சுகாதார வழங்குநர்களுக்கு உள்ள மின்னணுவியல் தகவல் மற்றும் வள மேலாண்மை மேலாய். அது அவர்கள் வளர்நதோ அல்லது அவர்களின் உண்மையான மெல்லிசைகளுக்கு வளர்ந்தபோது அவர்களுக்கு அளிக்கப்படாத தேவைகளுக்கு அணுகுமுறையை வழங்குகிறது. தகவல் மருத்துவ தேவைகளில் இருந்து ஆரம்பித்து ஹார்மோன்கள், அறுவை சிகிச்சைகள் மற்றும் டாக்டர்களின் பட்டியல்கள், சமூக மற்றும் சட்ட பிரச்சினைகள் வரை மிகுந்துவிதமாக உள்ளன."
+    }
+  }
+}

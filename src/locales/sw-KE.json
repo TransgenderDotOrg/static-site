@@ -32,5 +32,9 @@
   "header.emergency-exit": "Toka Haraka (ESC)",
   "search.placeholder": "Tafuta rasilimali...",
   "resources.results": "Matokeo",
-  "resources.description": "Habari za Kuwezesha mikononi mwako - Gundua, tafuta, na ufikie mkusanyiko mkubwa wa rasilimali zilizoundwa kusaidia, kuelimisha, na kuinua jamii ya wanaobadilisha jinsia."
+  "resources.description": "Habari za Kuwezesha mikononi mwako - Gundua, tafuta, na ufikie mkusanyiko mkubwa wa rasilimali zilizoundwa kusaidia, kuelimisha, na kuinua jamii ya wanaobadilisha jinsia.",
+  "tags.spiritual": "\"Kiroho\"",
+  "footer.description": "\"Kuwezesha jamii ya watu wa jinsia mbili kupitia rasilimali, msaada, na ushirikiano wa wazi. Kwa kufanya kazi pamoja, tunaweza kuleta tofauti.\"",
+  "footer.terms-of-service": "Masharti ya Huduma",
+  "footer.privacy-policy": "Sera ya Faragha"
 }

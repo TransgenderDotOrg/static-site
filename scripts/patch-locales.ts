@@ -3,7 +3,13 @@ import path from "path";
 import { promisify } from "util";
 import { PromptTemplate } from "langchain/prompts";
 import { OpenAI } from "langchain/llms/openai";
+import { fileURLToPath } from "url";
+
 import languages from "../languages.json" assert { type: "json" };
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
 
 // Promisify fs methods for async/await usage
 const readdir = promisify(fs.readdir);
