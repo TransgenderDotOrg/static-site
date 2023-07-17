@@ -152,7 +152,11 @@ export const MapPage = () => {
       }}
     >
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyCr3rCOGUpIhLLcmGpWOOhmpVkRWrkqbUQ" }}
+        bootstrapURLKeys={{
+          key:
+            process.env.GOOGLE_MAPS_API_KEY ??
+            "AIzaSyCr3rCOGUpIhLLcmGpWOOhmpVkRWrkqbUQ",
+        }}
         center={{
           lat: 0,
           lng: 0,
