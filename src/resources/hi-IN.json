@@ -2124,6 +2124,32 @@
     "description": "1975 के बाद सीहॉर्स क्लब विक्टोरिया, ट्रांसजेंडर समुदाय के लिए संसाधन, समुदाय सेवा और सहायता प्रदान करता है। इसमें एक ट्रांस-अनुकूल सेवाओं की निर्देशिका और सदस्यों को जोड़ने के लिए एक आगामी ऑनलाइन प्लेटफ़ॉर्म शामिल है।"
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "परिवार की समानता",
+    "description": "परिवार की समानता एक गैर-लाभकारी संगठन है जो LGBTQ+ परिवारों की सुरक्षा और समर्थन करने के लिए समर्पित है। वे कानूनी सुरक्षाओं के लिए लड़ते हैं, संसाधन और शिक्षा प्रदान करते हैं, और सक्रिय रूप से LGBTQ+ अधिकारों के लिए वकालत करते हैं। यह संगठन विभिन्न आयोजन करता है और परिवारों को एक दूसरे और बड़े LGBTQ+ समुदाय से जोड़ने में मदद करता है।"
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

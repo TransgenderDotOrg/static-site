@@ -2124,6 +2124,32 @@
     "description": "Fondé en 1975, Seahorse Club Victoria fournit des ressources, un service communautaire et un soutien pour la communauté transgenre. Il comprend un répertoire de services convivial pour les trans et une plateforme en ligne à venir pour que les membres puissent se connecter."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Égalité Familiale",
+    "description": "Égalité Familiale est une organisation à but non lucratif dédiée à la protection et au soutien des familles LGBTQ+. Ils luttent pour des protections juridiques, fournissent des ressources et de l'éducation, et défendent activement les droits des LGBTQ+. Cette organisation organise divers événements et aide à connecter les familles entre elles et avec la communauté LGBTQ+ plus large."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

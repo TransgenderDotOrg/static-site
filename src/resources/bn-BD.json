@@ -2124,6 +2124,32 @@
     "description": "প্রতিষ্ঠিত ১৯৭৫ সালে, সিহর্স ক্লাব ভিক্টোরিয়া ট্রানসজেন্ডার সম্প্রদায়ের জন্য সম্পদ, সম্প্রদায় সেবা এবং সমর্থন প্রদান করে। এটি অন্তর্গত করেছে ট্রানস-বন্ধুত্বপূর্ণ সেবার ডিরেক্টোরি এবং সদস্যদের সংযুক্ত হওয়ার জন্য আসন্ন অনলাইন প্ল্যাটফর্ম।"
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "পরিবারের সমানতা",
+    "description": "পরিবারের সমানতা হল একটি গৈর-লাভজনক প্রতিষ্ঠান যা LGBTQ+ পরিবারগুলিকে রক্ষা এবং সমর্থন করার জন্য উত্সর্গ করে। তারা আইনি সুরক্ষা যুদ্ধ করে, সমস্যাগুলিকে মোকাবেলা করার জন্য উপাদান এবং শিক্ষা সরবরাহ করে এবং সক্রিয়ভাবে LGBTQ+ অধিকারের জন্য উত্তেজনা দেয়। এই সংগঠনটি বিভিন্ন ইভেন্ট আয়োজন করে এবং পরিবারগুলিকে একে অপরের সাথে এবং প্রশস্ত্রতর এলজিবিটিকিউ+ সম্প্রদায়ের সাথে সংযোগ করে তুলে ধরে।"
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

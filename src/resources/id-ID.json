@@ -2124,6 +2124,32 @@
     "description": "Didirikan pada tahun 1975, Seahorse Club Victoria menyediakan sumber daya, layanan masyarakat dan dukungan untuk komunitas transgender. Ini mencakup direktori layanan yang ramah trans dan platform online yang akan datang untuk anggota terhubung."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Kesetaraan Keluarga",
+    "description": "Kesetaraan Keluarga adalah sebuah organisasi non-profit yang berdedikasi untuk melindungi dan mendukung keluarga LGBTQ+. Mereka berjuang untuk perlindungan hukum, menyediakan sumber daya dan pendidikan, dan secara aktif berjuang untuk hak-hak LGBTQ+. Organisasi ini menyelenggarakan berbagai acara dan membantu menghubungkan keluarga satu sama lain dan komunitas LGBTQ+ yang lebih luas."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

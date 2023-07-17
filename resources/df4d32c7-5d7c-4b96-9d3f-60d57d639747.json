@@ -1,0 +1,110 @@
+{
+  "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+  "slug": "family-equality",
+  "externalUrl": "https://www.familyequality.org/",
+  "tags": [
+    "legal",
+    "education-awareness",
+    "parent-family-resources",
+    "support-groups"
+  ],
+  "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.7454596,
+    -73.98217389999999
+  ],
+  "email": null,
+  "socialMedia": null,
+  "town": "Manhattan",
+  "i18n": {
+    "en-US": {
+      "title": "Family Equality",
+      "description": "Family Equality is a non-profit organization dedicated to protecting and supporting LGBTQ+ families. They fight for legal protections, provide resources and education, and actively advocate for LGBTQ+ rights. This organization hosts various events and helps connect families to each other and the broader LGBTQ+ community."
+    },
+    "es-ES": {
+      "title": "Igualdad Familiar",
+      "description": "Igualdad Familiar es una organización sin fines de lucro dedicada a proteger y apoyar a las familias LGBTQ+. Luchan por protecciones legales, proporcionan recursos y educación, y abogan activamente por los derechos LGBTQ+. Esta organización organiza varios eventos y ayuda a conectar familias entre sí y con la comunidad LGBTQ+ más amplia."
+    },
+    "pt-PT": {
+      "title": "Igualdade Familiar",
+      "description": "A Igualdade Familiar é uma organização sem fins lucrativos dedicada à proteção e apoio às famílias LGBTQ+. Eles lutam por proteções legais, fornecem recursos e educação e defendem ativamente os direitos LGBTQ+. Esta organização promove vários eventos e ajuda a conectar as famílias entre si e com a comunidade LGBTQ+ mais ampla."
+    },
+    "fr-FR": {
+      "title": "Égalité Familiale",
+      "description": "Égalité Familiale est une organisation à but non lucratif dédiée à la protection et au soutien des familles LGBTQ+. Ils luttent pour des protections juridiques, fournissent des ressources et de l'éducation, et défendent activement les droits des LGBTQ+. Cette organisation organise divers événements et aide à connecter les familles entre elles et avec la communauté LGBTQ+ plus large."
+    },
+    "sw-KE": {
+      "title": "Usawa wa Familia",
+      "description": "Usawa wa Familia ni shirika lisilo la kibiashara lililowakilishwa kuwalinda na kuwasaidia familia za LGBTQ+. Wanalenga kwa kulinda haki za kisheria, kutoa rasilimali na elimu, na wanazingatia sana haki za LGBTQ+. Shirika hili linakutisha matukio mbalimbali na linasaidia kuunganisha familia na jamii pana ya LGBTQ+."
+    },
+    "de-DE": {
+      "title": "Familiengleichheit",
+      "description": "Familiengleichheit ist eine gemeinnützige Organisation, die sich dem Schutz und der Unterstützung von LGBTQ+ Familien widmet. Sie kämpfen für rechtlichen Schutz, bieten Ressourcen und Bildung an und setzen sich aktiv für LGBTQ+ Rechte ein. Diese Organisation veranstaltet verschiedene Events und hilft Familien, sich mit einander und der breiteren LGBTQ+ Gemeinschaft zu vernetzen."
+    },
+    "tr-TR": {
+      "title": "Aile Eşitliği",
+      "description": "Aile Eşitliği, LGBTQ+ aileleri korumaya ve desteklemeye adanmış kar amacı gütmeyen bir organizasyondur. Hukuki korumalar için savaşırlar, kaynaklar ve eğitim sağlarlar ve aktif olarak LGBTQ+ hakları için savunuculuk yaparlar. Bu organizasyon çeşitli etkinlikler düzenler ve aileleri birbirine ve daha geniş LGBTQ+ topluluğuna bağlar."
+    },
+    "id-ID": {
+      "title": "Kesetaraan Keluarga",
+      "description": "Kesetaraan Keluarga adalah sebuah organisasi non-profit yang berdedikasi untuk melindungi dan mendukung keluarga LGBTQ+. Mereka berjuang untuk perlindungan hukum, menyediakan sumber daya dan pendidikan, dan secara aktif berjuang untuk hak-hak LGBTQ+. Organisasi ini menyelenggarakan berbagai acara dan membantu menghubungkan keluarga satu sama lain dan komunitas LGBTQ+ yang lebih luas."
+    },
+    "ar-SA": {
+      "title": "مساواة العائلة",
+      "description": "مساواة العائلة هي منظمة غير هادفة للربح مكرسة لحماية ودعم العائلات LGBTQ+. يناضلون من أجل الحماية القانونية، يوفرون الموارد والتعليم، ويدافعون بنشاط عن حقوق LGBTQ+. تستضيف هذه المنظمة أحداثًا مختلفة وتساعد في ربط العائلات ببعضها البعض والمجتمع LGBTQ+ الأوسع."
+    },
+    "ja-JP": {
+      "title": "ファミリー・イコーリティ",
+      "description": "ファミリー・イコーリティは、LGBTQ+の家族を保護しサポートするために専念する非営利団体です。彼らは法的保護を求め、リソースと教育を提供し、積極的にLGBTQ+の権利を主張します。この組織はさまざまなイベントを主催し、家族同士を互いに、そして広範なLGBTQ+コミュニティにつなげる手助けをします。"
+    },
+    "vi-VN": {
+      "title": "Bình đẳng Gia đình",
+      "description": "Bình đẳng Gia đình là một tổ chức phi lợi nhuận dédicated to bảo vệ và hỗ trợ các gia đình LGBTQ+. Họ đấu tranh cho các quyền bảo vệ pháp lý, cung cấp tài nguyên và giáo dục, và tích cực đấu tranh cho quyền lợi LGBTQ+. Tổ chức này tạo ra các sự kiện và giúp kết nối các gia đình với nhau và cộng đồng LGBTQ+ rộng lớn hơn."
+    },
+    "zh-CN": {
+      "title": "家庭平等",
+      "description": "家庭平等是一个致力于保护和支持LGBTQ+家庭的非营利组织。他们为法律保护进行斗争，提供资源和教育，并积极倡导 LGBTQ+的权利。这个组织主办各种活动，帮助家庭与彼此和更广泛的LGBTQ+社区建立联系。"
+    },
+    "uk-UA": {
+      "title": "Рівність у сім’ї",
+      "description": "Рівність у сім’ї - це некомерційна організація, яка присвячена захисту та підтримці сімей LGBTQ+. Вони борються за юридичний захист, надають ресурси та освіту, та активно допомагають правам LGBTQ+. Ця організація проводить різноманітні заходи та допомагає з'єднати сім'ї одна з одною та зі широкою спільнотою LGBTQ+."
+    },
+    "ru-RU": {
+      "title": "Равенство Семьи",
+      "description": "Равенство Семьи - это некоммерческая организация, посвященная защите и поддержке семей ЛГБТК+. Они борются за юридическую защиту, предоставляют ресурсы и образование, а также активно отстаивают права ЛГБТК+. Эта организация проводит различные мероприятия и помогает связывать семьи друг с другом и с более широким сообществом ЛГБТК+."
+    },
+    "ko-KR": {
+      "title": "가족 평등",
+      "description": "가족 평등은 LGBTQ+ 가족을 보호하고 지원하는 비영리 조직입니다. 그들은 법적 보호를 위해 싸우고, 자원과 교육을 제공하며, LGBTQ+ 권리를 적극적으로 옹호합니다. 이 조직은 다양한 이벤트를 주최하고 가족들이 서로 및 더 넓은 LGBTQ+ 커뮤니티와 연결될 수 있도록 돕습니다."
+    },
+    "ur-PK": {
+      "title": "خاندانی مساوات",
+      "description": "خاندانی مساوات ایک غیر منافع بخش تنظیم ہے جو LGBTQ+ خاندانوں کی حمایت اور حفاظت کے لئے وقف ہے۔ وہ قانونی تحفظات کے لئے لڑتے ہیں، وسائل اور تعلیم فراہم کرتے ہیں، اور LGBTQ+ حقوق کے لئے سرگرمی سے کام کرتے ہیں۔ یہ تنظیم مختلف واقعات میزبانی کرتی ہے اور خاندانوں کو آپس میں اور بڑے LGBTQ+ برادری سے رابطہ کرنے میں مدد کرتی ہے۔"
+    },
+    "mr-IN": {
+      "title": "कुटुंब समानता",
+      "description": "कुटुंब समानता हे एक गैर-नफा कसोटी संस्था आहे जी LGBTQ+ कुटुंबीयांची सुरक्षा व संरक्षण करण्यासमर्पित आहे. ते कायद्यानुसार सुरक्षा साठी लढतात, संसाधने आणि शिक्षण प्रदान करतात, आणि सक्रियपणे LGBTQ+ हक्कांसाठी प्रतिनिधित्व करतात. ही संस्था विविध कार्यक्रमे आयोजित करते आणि कुटुंबांना एकमेकांशी आणि अधिक व्यापक LGBTQ+ समुदायाशी कनेक्ट करण्यास मदत करते."
+    },
+    "hi-IN": {
+      "title": "परिवार की समानता",
+      "description": "परिवार की समानता एक गैर-लाभकारी संगठन है जो LGBTQ+ परिवारों की सुरक्षा और समर्थन करने के लिए समर्पित है। वे कानूनी सुरक्षाओं के लिए लड़ते हैं, संसाधन और शिक्षा प्रदान करते हैं, और सक्रिय रूप से LGBTQ+ अधिकारों के लिए वकालत करते हैं। यह संगठन विभिन्न आयोजन करता है और परिवारों को एक दूसरे और बड़े LGBTQ+ समुदाय से जोड़ने में मदद करता है।"
+    },
+    "bn-BD": {
+      "title": "পরিবারের সমানতা",
+      "description": "পরিবারের সমানতা হল একটি গৈর-লাভজনক প্রতিষ্ঠান যা LGBTQ+ পরিবারগুলিকে রক্ষা এবং সমর্থন করার জন্য উত্সর্গ করে। তারা আইনি সুরক্ষা যুদ্ধ করে, সমস্যাগুলিকে মোকাবেলা করার জন্য উপাদান এবং শিক্ষা সরবরাহ করে এবং সক্রিয়ভাবে LGBTQ+ অধিকারের জন্য উত্তেজনা দেয়। এই সংগঠনটি বিভিন্ন ইভেন্ট আয়োজন করে এবং পরিবারগুলিকে একে অপরের সাথে এবং প্রশস্ত্রতর এলজিবিটিকিউ+ সম্প্রদায়ের সাথে সংযোগ করে তুলে ধরে।"
+    },
+    "te-IN": {
+      "title": "కుటుంబ సమానత్వం",
+      "description": "కుటుంబ సమానత్వం అనేది ఒక లాభరహిత సంస్థ మరియు దీని ప్రధాన లక్ష్యం అంటే LGBTQ+ కుటుంబాలను రక్షించి,మద్దతు చేయడమే. వారు చట్టప్రమాణాల కోసం పోరాడి, వనరులు మరియు విద్యానికి అందిస్తారు, మరియు సక్రమంగా LGBTQ+ హక్కుల కోసం పోరాడేస్తారు. ఈ సంస్థ అనేక సంఘటనలను హోస్ట్ చేస్తుంది మరియు కుటుంబాల్ని ఒకరికి మరియు విస్తృత LGBTQ+ సముదాయంతో అనుసంధానం చేస్తుంది."
+    },
+    "ta-IN": {
+      "title": "குடும்ப சமம்",
+      "description": "குடும்ப சமம் என்பது LGBT+ குடும்பங்களை பாதுகாக்க மற்றும் ஆதரவு வழங்கும் ஒரு ஆலோசக அமைப்புக்கு உரியது. அவர்கள் சட்ட பாதுகாப்புகளுக்கு போராடுகின்றனர், வளங்களையும் கல்வியையும் வழங்குகின்றனர் மற்றும் LGBT+ உரிமைகளுக்கு முன்னேற்றப் போரிக்கையிடுகின்றனர். இந்த அமைப்பு விவித நிகழ்வுகளை நடத்துகின்றது மற்றும் குடும்பங்களை ஒன்றுகூட்டி, அதன் மூலம் அவர்களை LGBT+ சமூகத்துடன் இணைக்கின்றது."
+    }
+  }
+}

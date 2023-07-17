@@ -2124,6 +2124,32 @@
     "description": "Thành lập từ năm 1975, Seahorse Club Victoria cung cấp các tài nguyên, dịch vụ cộng đồng và hỗ trợ cho cộng đồng người chuyển giới. Nó bao gồm một danh mục dịch vụ thân thiện với người chuyển giới và một nền tảng trực tuyến sắp ra mắt để các thành viên kết nối."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Bình đẳng Gia đình",
+    "description": "Bình đẳng Gia đình là một tổ chức phi lợi nhuận dédicated to bảo vệ và hỗ trợ các gia đình LGBTQ+. Họ đấu tranh cho các quyền bảo vệ pháp lý, cung cấp tài nguyên và giáo dục, và tích cực đấu tranh cho quyền lợi LGBTQ+. Tổ chức này tạo ra các sự kiện và giúp kết nối các gia đình với nhau và cộng đồng LGBTQ+ rộng lớn hơn."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

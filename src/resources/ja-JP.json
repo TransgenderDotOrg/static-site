@@ -2124,6 +2124,32 @@
     "description": "設立1975年、シーホースクラブビクトリアはトランスジェンダーコミュニティのためのリソース、コミュニティサービス、サポートを提供しています。それにはトランスフレンドリーなサービスディレクトリとメンバーがつながるための今後のオンラインプラットフォームが含まれています。"
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "ファミリー・イコーリティ",
+    "description": "ファミリー・イコーリティは、LGBTQ+の家族を保護しサポートするために専念する非営利団体です。彼らは法的保護を求め、リソースと教育を提供し、積極的にLGBTQ+の権利を主張します。この組織はさまざまなイベントを主催し、家族同士を互いに、そして広範なLGBTQ+コミュニティにつなげる手助けをします。"
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
