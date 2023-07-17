@@ -1,8 +1,15 @@
+import webpack from "webpack";
 import { fileURLToPath } from "url";
 import path from "path";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+
+const EnvironmentPlugin = new webpack.EnvironmentPlugin({
+  NODE_ENV: "development",
+  DEBUG: true,
+  GOOGLE_MAPS_API_KEY: process.env.GOOGLE_MAPS_API_KEY,
+});
 
 export default {
   mode: "development",
@@ -26,6 +33,7 @@ export default {
     hot: true,
     open: true,
   },
+  plugins: [EnvironmentPlugin],
   module: {
     rules: [
       {
