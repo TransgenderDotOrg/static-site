@@ -576,6 +576,28 @@
     "description": "The Trevor Project adalah organisasi nirlaba Amerika yang menyediakan layanan pencegahan bunuh diri untuk pemuda LGBTQ+. Situs ini menyediakan sumber daya berharga bagi komunitas transgender, termasuk intervensi krisis dan garis hidup pencegahan bunuh diri, TrevorChat, dan TrevorText serta bimbingan tentang kesehatan mental, layanan sosial, dan kelompok dukungan."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Ruang Ganti Pronoun",
+    "description": "Ruang Ganti Pronoun menyediakan ruang online di mana individu dapat mencoba dan menjelajahi berbagai set pronoun untuk melihat yang mana yang cocok untuk mereka. Situs web ini memfasilitasi pengambilan keputusan yang lebih mudah dalam pemilihan pronoun untuk komunitas transgender, memungkinkan mereka untuk melihat bagaimana penampilan pronoun yang berbeda dalam konteks yang berbeda."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

@@ -576,6 +576,28 @@
     "description": "The Trevor Project, LGBTQ+ gençlere intihar önleme hizmetleri sağlayan Amerikan kar amacı gütmeyen bir organizasyondur. Site, transgender topluluğu için değerli kaynaklar sağlar, bunlar arasında kriz müdahalesi ve intihar önleme yardım hattı, TrevorChat ve TrevorText bulunur ve ayrıca ruh sağlığı, sosyal hizmetler ve destek grupları hakkında rehberlik sunar."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Zamir Giyinme Odası",
+    "description": "Zamir Giyinme Odası, bireylerin hangi zamirlerin kendileri için doğru olduğunu görmek ve keşfetmek için farklı zamir setlerini deneyebilecekleri çevrimiçi bir alan sağlar. Web sitesi, transgender topluluğu için zamir seçiminde daha kolay karar verilmesini kolaylaştırır, onlara farklı zamirlerin farklı bağlamlarda nasıl görünebileceğini görmelerini sağlar."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

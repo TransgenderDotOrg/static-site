@@ -576,6 +576,28 @@
     "description": "The Trevor Project es una organización sin fines de lucro estadounidense que proporciona servicios de prevención de suicidio a jóvenes LGBTQ+. El sitio proporciona recursos valiosos para la comunidad transgénero, incluyendo intervención en crisis y línea de vida de prevención de suicidio, TrevorChat, y TrevorText, así como orientación sobre salud mental, servicios sociales y grupos de apoyo."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Vestidor de Pronombres",
+    "description": "El Vestidor de Pronombres proporciona un espacio en línea donde las personas pueden probar y explorar diferentes conjuntos de pronombres para ver cuáles se sienten bien para ellos. El sitio web facilita una decisión más fácil en la selección de pronombres para la comunidad transgénero, permitiéndoles ver cómo podrían verse diferentes pronombres en diferentes contextos."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

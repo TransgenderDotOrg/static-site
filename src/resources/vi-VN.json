@@ -576,6 +576,28 @@
     "description": "Dự án Trevor là một tổ chức phi lợi nhuận của Mỹ cung cấp dịch vụ phòng ngừa tự tử cho giới trẻ LGBTQ+. Trang web cung cấp các nguồn lực quý giá cho cộng đồng người chuyển giới, bao gồm can thiệp khủng hoảng và dây đường dây nóng phòng ngừa tự tử, TrevorChat, và TrevorText cũng như tư vấn về sức khỏe tâm thần, dịch vụ xã hội, và nhóm hỗ trợ."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Phòng Thay Đổi Đại Từ",
+    "description": "Phòng Thay Đổi Đại Từ cung cấp một không gian trực tuyến nơi cá nhân có thể thử và khám phá các bộ đại từ khác nhau để xem những cái nào phù hợp với họ. Trang web này giúp cộng đồng người chuyển giới dễ dàng hơn trong việc lựa chọn đại từ, cho phép họ thấy đại từ khác nhau sẽ trông như thế nào trong những ngữ cảnh khác nhau."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

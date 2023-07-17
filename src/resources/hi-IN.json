@@ -576,6 +576,28 @@
     "description": "द ट्रेवर प्रोजेक्ट एक अमेरिकी गैर-लाभकारी संगठन है जो LGBTQ+ युवा के लिए आत्महत्या रोकथाम सेवाएं प्रदान करता है। यह साइट ट्रांसजेंडर समुदाय के लिए मूल्यवान संसाधन प्रदान करती है, जिसमें संकट हस्तक्षेप और आत्महत्या रोकथाम लाइफलाइन, ट्रेवरचाट, और ट्रेवरटेक्स्ट सहित मानसिक स्वास्थ्य, सामाजिक सेवाएं, और समर्थन समूहों पर मार्गदर्शन शामिल है।"
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "सर्वनाम ड्रेसिंग रूम",
+    "description": "सर्वनाम ड्रेसिंग रूम व्यक्तियों को एक ऑनलाइन स्थान प्रदान करता है जहां वे विभिन्न सेट के सर्वनामों का परीक्षण कर सकते हैं और देख सकते हैं कि कौन से सर्वनाम उनके लिए सही अनुभूति करते हैं। वेबसाइट सर्वनाम चयन में आसान फैसला करने की सुविधा प्रदान करती है, ट्रांसजेंडर समुदाय के लिए, उन्हें यह देखने देती है कि विभिन्न सन्दर्भों में अलग-अलग सर्वनाम कैसे दिख सकते हैं।"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

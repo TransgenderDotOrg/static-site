@@ -576,6 +576,28 @@
     "description": "特雷弗项目是一家美国非营利组织，为LGBTQ+青年提供自杀预防服务。该网站为跨性别社区提供了宝贵的资源，包括危机干预和自杀预防热线，特雷弗聊天和特雷弗文本，以及关于心理健康，社会服务和支持团体的指导。"
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "代词更衣室",
+    "description": "代词更衣室为个人提供了一个在线空间，用户可以在其中尝试和探索不同的代词集，以查看哪些对他们来说感觉最舒适。该网站方便了跨性别社区在选择代词时的决策，使他们可以看到在不同情境下使用不同代词可能产生的效果。"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

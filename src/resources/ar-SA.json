@@ -576,6 +576,28 @@
     "description": "مشروع تريفور هو منظمة غير ربحية أمريكية تقدم خدمات الوقاية من الانتحار للشباب LGBTQ+. يقدم الموقع موارد قيمة للمجتمع المتحول جنسيًا، بما في ذلك تدخل الأزمات وخط الوقاية من الانتحار، وتريفور تشات، وتريفور تكست وكذلك الإرشاد حول الصحة العقلية، والخدمات الاجتماعية، وجماعات الدعم."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "غرفة تبديل الضمائر",
+    "description": "توفر غرفة تبديل الضمائر مساحة على الإنترنت حيث يمكن للأفراد اختبار واستكشاف مجموعات مختلفة من الضمائر لرؤية الأفضل لهم. يسهل الموقع اتخاذ القرار بخصوص اختيار الضمير للمجتمع المتحول جنسياً، مما يسمح لهم برؤية كيفية ظهور الضمائر المختلفة في سياقات مختلفة."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

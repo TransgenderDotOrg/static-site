@@ -576,6 +576,28 @@
     "description": "The Trevor Project - це американська неприбуткова організація, яка надає послуги з попередження самогубств для молоді LGBTQ+. Сайт надає цінні ресурси для спільноти трансгендерів, включаючи кризову інтервенцію, телефон лінії попередження самогубств, TrevorChat і TrevorText, а також рекомендації з психічного здоров'я, соціальних послуг і груп підтримки."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Роздягальня займенників",
+    "description": "Роздягальня займенників надає онлайн-простір, де особи можуть протестувати та досліджувати різні набори займенників, щоб побачити, які з них їм більше підходять. Веб-сайт спрощує прийняття рішень щодо вибору займенників для трансгендерної спільноти, дозволяючи їм побачити, як різні займенники можуть виглядати в різних контекстах."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

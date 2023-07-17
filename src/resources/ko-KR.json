@@ -576,6 +576,28 @@
     "description": "The Trevor Project는 LGBTQ+ 청소년을 대상으로 자살 예방 서비스를 제공하는 미국 비영리 단체입니다. 이 사이트는 위기 대응 및 자살 예방 핫라인, TrevorChat, TrevorText 및 정신 건강, 사회 서비스, 지원 그룹에 대한 지침을 포함하여 트랜스젠더 커뮤니티에 가치있는 자료를 제공합니다."
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "대명사 탈의실",
+    "description": "대명사 탈의실은 개인이 다양한 세트의 대명사를 시험하고 탐색할 수 있는 온라인 공간을 제공합니다. 이 웹사이트는 트랜스젠더 커뮤니티가 대명사 선택에서 더 쉽게 결정을 내릴 수 있도록 돕고, 그들이 다른 맥락에서 어떻게 다양한 대명사가 보일지 보게 합니다."
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",

@@ -576,6 +576,28 @@
     "description": "দ্য ট্রেভর প্রজেক্ট একটি আমেরিকান অলাভজনক সংস্থা যা এলজিবিটিকিউ+ যুবকদের কাছে আত্মঘাতী প্রতিষেধক সেবা প্রদান করে। সাইটটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য মূল্যবান সম্পদ প্রদান করে, যেমন সংকট প্রতিকার এবং আত্মঘাতী প্রতিষেধক লাইফলাইন, ট্রেভরচ্যাট, এবং ট্রেভরটেক্সট এবং মানসিক স্বাস্থ্য, সামাজিক সেবা, এবং সমর্থন গোষ্ঠীর উপর নির্দেশনা।"
   },
   {
+    "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+    "slug": "pronoun-dressing-room",
+    "externalUrl": "http://www.pronouns.failedslacker.com/",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "সর্বনাম পরিচয়ক কক্ষ",
+    "description": "সর্বনাম পরিচয়ক কক্ষটি এমন একটি অনলাইন স্থান সরবরাহ করে যেখানে ব্যক্তিগণ বিভিন্ন সেট সর্বনাম পরীক্ষা করে দেখতে এবং তাদের জন্য কোনটি সঠিক মনে হয় তা অন্বেষণ করতে পারে। ওয়েবসাইটটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সর্বনাম নির্বাচনে সহজের সিদ্ধান্ত গ্রহণ করা সহায়তা করে, যারা বিভিন্ন প্রসঙ্গে বিভিন্ন সর্বনামগুলি কেমন দেখতে পারে তা দেখতে পারে।"
+  },
+  {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
     "slug": "a-place-for-marsha",
     "externalUrl": "https://www.aplaceformarshaofficial.org/",
