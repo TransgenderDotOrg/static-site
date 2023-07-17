@@ -1,0 +1,106 @@
+{
+  "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
+  "slug": "pronoun-dressing-room",
+  "externalUrl": "http://www.pronouns.failedslacker.com/",
+  "tags": [
+    "non-binary",
+    "transmasculine",
+    "transfeminine",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Pronoun Dressing Room",
+      "description": "The Pronoun Dressing Room provides an online space where individuals can test out and explore different sets of pronouns to see which ones feel right for them. The website facilitates easier decision making in pronoun selection for the transgender community, allowing them to see how different pronouns might look in different contexts."
+    },
+    "es-ES": {
+      "title": "Vestidor de Pronombres",
+      "description": "El Vestidor de Pronombres proporciona un espacio en línea donde las personas pueden probar y explorar diferentes conjuntos de pronombres para ver cuáles se sienten bien para ellos. El sitio web facilita una decisión más fácil en la selección de pronombres para la comunidad transgénero, permitiéndoles ver cómo podrían verse diferentes pronombres en diferentes contextos."
+    },
+    "de-DE": {
+      "title": "Pronomen Ankleidezimmer",
+      "description": "Das Pronomen Ankleidezimmer bietet einen Online-Raum, in dem Einzelpersonen verschiedene Pronomen-Sets ausprobieren und erkunden können, um zu sehen, welche für sie passend sind. Die Webseite erleichtert die Entscheidungsfindung bei der Auswahl von Pronomen für die Transgender-Gemeinschaft und ermöglicht es ihnen zu sehen, wie verschiedene Pronomen in unterschiedlichen Kontexten aussehen könnten."
+    },
+    "fr-FR": {
+      "title": "Vestiaire des Pronoms",
+      "description": "Le Vestiaire des Pronoms offre un espace en ligne où les individus peuvent tester et explorer différents ensembles de pronoms pour voir ceux qui leur conviennent le mieux. Le site facilite la prise de décision plus facile dans la sélection des pronoms pour la communauté transgenre, leur permettant de voir à quoi différents pronoms pourraient ressembler dans différents contextes."
+    },
+    "id-ID": {
+      "title": "Ruang Ganti Pronoun",
+      "description": "Ruang Ganti Pronoun menyediakan ruang online di mana individu dapat mencoba dan menjelajahi berbagai set pronoun untuk melihat yang mana yang cocok untuk mereka. Situs web ini memfasilitasi pengambilan keputusan yang lebih mudah dalam pemilihan pronoun untuk komunitas transgender, memungkinkan mereka untuk melihat bagaimana penampilan pronoun yang berbeda dalam konteks yang berbeda."
+    },
+    "pt-PT": {
+      "title": "Vestiário de Pronomes",
+      "description": "O Vestiário de Pronomes oferece um espaço online onde as pessoas podem testar e explorar diferentes conjuntos de pronomes para ver quais se sentem corretos para elas. O site facilita a tomada de decisões na seleção de pronomes para a comunidade transgênero, permitindo que eles vejam como diferentes pronomes podem parecer em diferentes contextos."
+    },
+    "tr-TR": {
+      "title": "Zamir Giyinme Odası",
+      "description": "Zamir Giyinme Odası, bireylerin hangi zamirlerin kendileri için doğru olduğunu görmek ve keşfetmek için farklı zamir setlerini deneyebilecekleri çevrimiçi bir alan sağlar. Web sitesi, transgender topluluğu için zamir seçiminde daha kolay karar verilmesini kolaylaştırır, onlara farklı zamirlerin farklı bağlamlarda nasıl görünebileceğini görmelerini sağlar."
+    },
+    "zh-CN": {
+      "title": "代词更衣室",
+      "description": "代词更衣室为个人提供了一个在线空间，用户可以在其中尝试和探索不同的代词集，以查看哪些对他们来说感觉最舒适。该网站方便了跨性别社区在选择代词时的决策，使他们可以看到在不同情境下使用不同代词可能产生的效果。"
+    },
+    "sw-KE": {
+      "title": "Chumba cha Kuvaa Vitenzi Vimilikishi",
+      "description": "Chumba cha Kuvaa Vitenzi Vimilikishi hutoa nafasi ya mkondoni ambapo watu wana uwezo wa kujaribu na kuchunguza aina mbalimbali za vitenzi vimilikishi ili kuona kile kinachowafaa. Tovuti hii inarahisisha uamuzi katika uteuzi wa vitenzi vimilikishi kwa jamii ya watu wanaobadili jinsia, inawaruhusu kuona jinsi vitenzi vimilikishi tofauti vinavyoweza kuonekana katika muktadha tofauti."
+    },
+    "ru-RU": {
+      "title": "Гардероб местоимений",
+      "description": "Гардероб местоимений предлагает онлайн-пространство, где люди могут пробовать и исследовать разные наборы местоимений, чтобы увидеть, какие из них им подходят. Сайт облегчает принятие решений о выборе местоимений для трансгендерного сообщества, позволяя им увидеть, как могут выглядеть разные местоимения в разных контекстах."
+    },
+    "ja-JP": {
+      "title": "代名詞の試着室",
+      "description": "代名詞の試着室は、個々の人々がどのセットの代名詞が自分に合っているかを探求し、試すためのオンラインスペースを提供します。このウェブサイトは、トランスジェンダーのコミュニティが異なる文脈での異なる代名詞がどのように見えるかを見ることにより、代名詞の選択を容易にします。"
+    },
+    "ko-KR": {
+      "title": "대명사 탈의실",
+      "description": "대명사 탈의실은 개인이 다양한 세트의 대명사를 시험하고 탐색할 수 있는 온라인 공간을 제공합니다. 이 웹사이트는 트랜스젠더 커뮤니티가 대명사 선택에서 더 쉽게 결정을 내릴 수 있도록 돕고, 그들이 다른 맥락에서 어떻게 다양한 대명사가 보일지 보게 합니다."
+    },
+    "vi-VN": {
+      "title": "Phòng Thay Đổi Đại Từ",
+      "description": "Phòng Thay Đổi Đại Từ cung cấp một không gian trực tuyến nơi cá nhân có thể thử và khám phá các bộ đại từ khác nhau để xem những cái nào phù hợp với họ. Trang web này giúp cộng đồng người chuyển giới dễ dàng hơn trong việc lựa chọn đại từ, cho phép họ thấy đại từ khác nhau sẽ trông như thế nào trong những ngữ cảnh khác nhau."
+    },
+    "uk-UA": {
+      "title": "Роздягальня займенників",
+      "description": "Роздягальня займенників надає онлайн-простір, де особи можуть протестувати та досліджувати різні набори займенників, щоб побачити, які з них їм більше підходять. Веб-сайт спрощує прийняття рішень щодо вибору займенників для трансгендерної спільноти, дозволяючи їм побачити, як різні займенники можуть виглядати в різних контекстах."
+    },
+    "ar-SA": {
+      "title": "غرفة تبديل الضمائر",
+      "description": "توفر غرفة تبديل الضمائر مساحة على الإنترنت حيث يمكن للأفراد اختبار واستكشاف مجموعات مختلفة من الضمائر لرؤية الأفضل لهم. يسهل الموقع اتخاذ القرار بخصوص اختيار الضمير للمجتمع المتحول جنسياً، مما يسمح لهم برؤية كيفية ظهور الضمائر المختلفة في سياقات مختلفة."
+    },
+    "ur-PK": {
+      "title": "ضمیر تبدیلی کمرہ",
+      "description": "ضمیر تبدیلی کمرہ ایک آن لائن جگہ فراہم کرتا ہے جہاں افراد مختلف سیٹ آف ضمیرات کو چیک کر سکتے ہیں اور دیکھ سکتے ہیں کہ کونسے ان کے لئے صحیح محسوس ہوتے ہیں۔ ویب سائٹ ٹرانسجینڈر کمیونٹی کے لئے ضمیر کا انتخاب کرنے میں آسان فیصلہ سازی کو آسان بناتی ہے، انہیں یہ دیکھنے دیتی ہے کہ مختلف مواقع میں مختلف ضمیرات کیسے لگ سکتے ہیں۔"
+    },
+    "bn-BD": {
+      "title": "সর্বনাম পরিচয়ক কক্ষ",
+      "description": "সর্বনাম পরিচয়ক কক্ষটি এমন একটি অনলাইন স্থান সরবরাহ করে যেখানে ব্যক্তিগণ বিভিন্ন সেট সর্বনাম পরীক্ষা করে দেখতে এবং তাদের জন্য কোনটি সঠিক মনে হয় তা অন্বেষণ করতে পারে। ওয়েবসাইটটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সর্বনাম নির্বাচনে সহজের সিদ্ধান্ত গ্রহণ করা সহায়তা করে, যারা বিভিন্ন প্রসঙ্গে বিভিন্ন সর্বনামগুলি কেমন দেখতে পারে তা দেখতে পারে।"
+    },
+    "mr-IN": {
+      "title": "सर्वनाम ड्रेसिंग रूम",
+      "description": "सर्वनाम ड्रेसिंग रूम हे एक असा ऑनलाइन स्थळ पुरवतो जिथे व्यक्ती वेगवेगळे सेट आजमावू शकतात आणि त्यातील सर्वनामांची शोध घेऊ शकतात, जे त्यांच्यासाठी योग्य असतील. वेबसाइट ही ट्रान्सजेंदर समुदायासाठी सर्वनाम निवडण्यात सोपायी असलेली निर्णय घेण्याची सोय देते, जेणेकरून ते पाहू शकतात की वेगवेगळ्या संदर्भात वेगवेगळे सर्वनाम कसे दिसतील."
+    },
+    "hi-IN": {
+      "title": "सर्वनाम ड्रेसिंग रूम",
+      "description": "सर्वनाम ड्रेसिंग रूम व्यक्तियों को एक ऑनलाइन स्थान प्रदान करता है जहां वे विभिन्न सेट के सर्वनामों का परीक्षण कर सकते हैं और देख सकते हैं कि कौन से सर्वनाम उनके लिए सही अनुभूति करते हैं। वेबसाइट सर्वनाम चयन में आसान फैसला करने की सुविधा प्रदान करती है, ट्रांसजेंडर समुदाय के लिए, उन्हें यह देखने देती है कि विभिन्न सन्दर्भों में अलग-अलग सर्वनाम कैसे दिख सकते हैं।"
+    },
+    "ta-IN": {
+      "title": "பிரதிப்பெறுமின் ஆடைபூடு அறை",
+      "description": "பிரதிப்பெறுமின் ஆடைபூடுஅறை ஆன்லைன்ல் ஒரு இடமாக வழங்குகின்றது, இது நபர்களுக்கு வேற்வேறான பிரதிப்பெறுமிகள் முயற்சி செய்து பார்ப்பதற்கான வாய்ப்பை ஏற்படுத்துகின்றது, இது அவர்களுக்கு ஏதாவது ஒன்று சரியானது என்று உணர்வதற்கான வாய்ப்பை அளிக்கின்றது. இந்த வெப்சைட் பலினசிந்தாக்கள் சமுதாயத்திற்கு பிரதிப்பெறுமின் தேர்வில் எளிதான முடிவெடுப்பை முடுக்கின்றது, அவர்களுக்கு வேறு வேறு சூழல்களில் வேறு வேறு பிரதிப்பெறுமிகள் எப்படி தெரியும் என்று அவர்களைப் பார்க்க அனுமதிக்கின்றது."
+    },
+    "te-IN": {
+      "title": "సర్వనామ దుస్తుల గది",
+      "description": "సర్వనామ దుస్తుల గది వ్యక్తులు వేర్వేరు సర్వనామాల గుంపులను పరీక్షించగాను, అన్వేషించగాను ఆన్లైన్ స్థలాన్ని అందిస్తుంది అంవర్తించే వారికి ఏ వేర్వేరు సర్వనామాలు సరైనవి అనిపిస్తాయో చూడటానికి. త్రాన్స్జెండర్ సముదాయంలో సర్వనామ ఎంపిక తీసుకోవడంలో సులభమైన నిర్ణయాలను తీసుకోవడానికి ఈ వెబ్‌సైట్ సౌకర్యం చేస్తుంది, వారు వేర్వేరు సందర్భాల్లో వేర్వేరు సర్వనామాలు ఎలా కనిపిస్తాయో చూడటానికి అనుమతించుంది."
+    }
+  }
+}
