@@ -50,6 +50,36 @@
     "description": "一个活跃的在线社区和知识中心，专为对自我制作激素替代疗法（HRT）感兴趣的个体提供。他们的网站致力于提供一个安全包容的空间，让人们可以获取有关自我管理HRT的信息、资源和支持。无论你是在探索替代疗法，寻求有关剂量和管理的指导，还是仅仅希望与有相似经历的人交流，DIYHRT.cafe都为你提供丰富的有价值的观点，个人故事，和专业建议，以帮助你做出关于你的健康和幸福的明智决定。"
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "新南威尔士省为酷刑和创伤幸存者提供的治疗和康复服务",
+    "description": "STARTTS是一个专门的非营利组织，为人们提供文化相关的心理治疗、支持和社区干预，帮助人们和社区从酷刑和难民创伤中康复，并在澳大利亚重建生活。他们也支持来自难民和寻求庇护者背景的LGBTQIA+个体。"
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons为变性人和非二元性别个体提供优质的声音控制和解放服务，旨在使他们的声音更具男性化、女性化或雌雄同体化。"
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "性别中心公司",
+    "description": "性别中心公司提供各种专业服务，这些服务帮助人们探索性别认同，缓解性别烦躁症。它支持跨性别者和性别表达者在他们寻求并体验真实自我的过程中的每一个阶段。它提供住宿，案例管理，教育和培训，咨询和心理健康服务，小组，新闻，以及资源。"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub是新南威尔士州所有跨性别和性别多元人士、他们的亲人、盟友和卫生提供者的数字信息和资源平台。它为已经或逐渐向真实自我发展的社区提供了他们从未曾拥有过的信息和资源的访问途径。信息包括从医疗需求，如荷尔蒙，手术和医生列表，到社会和法律问题等。"
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10包括GLCS为新南威尔士州各地认同为同性恋、双性恋、变性人、性别多元、两性人、酷儿、无性恋或正在质疑其身份的年轻人提供各种改变生活的服务。他们的服务包括接纳和转介，住房和案例管理，咨询，社会支持项目，以及LGBTIQA+包容性培训"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

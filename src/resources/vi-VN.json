@@ -50,6 +50,36 @@
     "description": "Một cộng đồng trực tuyến sôi động và trung tâm kiến thức cho những người quan tâm đến việc tự tạo ra liệu pháp thay thế hormon (HRT). Trang web của họ tập trung vào việc cung cấp một không gian an toàn và bao quát nơi mọi người có thể tiếp cận thông tin, nguồn lực, và hỗ trợ cho việc tự điều khiển HRT. Dù bạn đang khám phá các phương pháp thay thế, tìm kiếm hướng dẫn về liều lượng và quản lý, hay chỉ đơn giản muốn kết nối với những người chia sẻ những trải nghiệm tương tự, DIYHRT.cafe mang đến một nguồn thông tin quý giá, câu chuyện cá nhân, và lời khuyên chuyên môn để giúp bạn ra quyết định thông suốt về sức khỏe và cuộc sống của bạn."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "Dịch vụ NSW cho việc điều trị và phục hồi cho Người sống sót sau cảnh tra tấn và tâm lý",
+    "description": "STARTTS là một tổ chức chuyên môn, phi lợi nhuận cung cấp điều trị tâm lý, hỗ trợ và can thiệp cộng đồng phù hợp với văn hóa để giúp mọi người và cộng đồng hồi phục từ nỗi đau tra tấn và sự truy lùng tị nạn và xây dựng lại cuộc sống của họ ở Úc. Họ cũng hỗ trợ cho cá nhân LGBTQIA+ từ nền tảng người tị nạn và người tìm cứu nạn."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons cung cấp các dịch vụ kiểm soát và giải phóng chất lượng cho các cá nhân chuyển giới và không nhị phân nhằm hướng tới giọng nói nam tính, nữ tính hơn hoặc trung tính."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trung tâm Giới tính Inc.",
+    "description": "Trung tâm Giới tính Inc. cung cấp một loạt các dịch vụ chuyên biệt giúp khám phá bản sắc giới tính và hỗ trợ giảm nhẹ sự mất ổn định giới tính. Nó hỗ trợ những người chuyển giới và những người thể hiện giới tính tại mọi giai đoạn của hành trình của họ khi họ khám phá và sống với bản sắc thực sự của họ. Nó cung cấp chỗ ở, quản lý hồ sơ, giáo dục & đào tạo, tư vấn & dịch vụ sức khỏe tâm thần, nhóm, tin tức và nguồn lực."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub là nền tảng thông tin và tài nguyên số cho tất cả mọi người trans và đa dạng giới tính tại NSW, những người thân yêu của họ, đồng minh và nhà cung cấp sức khỏe. Nó cung cấp quyền truy cập vào thông tin và tài nguyên rất cần thiết cho một cộng đồng mà có thể không có quyền truy cập vào như khi họ lớn lên hoặc phát triển hướng tới bản ngã thực sự của mình. Thông tin bao gồm các nhu cầu y tế như hormone, phẫu thuật và danh sách bác sĩ đến các vấn đề xã hội và pháp lý."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10 bao gồm GLCS cung cấp các dịch vụ thay đổi cuộc sống cho các bạn trẻ ở NSW định danh của mình là đồng tính, song tính, chuyển giới hoặc đa giới tính, liệt dị hóa, queer, không dục tính hoặc đang đặt câu hỏi về bản sắc của mình. Các dịch vụ của họ bao gồm tiếp nhận và giới thiệu, nhà ở và quản lý vụ kiện, tư vấn, các chương trình hỗ trợ xã hội, và đào tạo về sự bao dung của LGBTIQA+"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

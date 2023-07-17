@@ -50,6 +50,36 @@
     "description": "Jamii inayochanua mtandaoni na kitovu cha maarifa kwa watu binafsi wanaovutiwa na tiba ya kubadilisha homoni (HRT) kwa kujitegemea. Tovuti yao imejitolea kutoa nafasi salama na jumuishi ambapo watu wanaweza kupata habari, rasilimali, na msaada kwa HRT inayosimamiwa na mtu binafsi. Iwe unachunguza njia mbadala, unatafuta mwongozo kuhusu kipimo na utawala, au unatafuta tu kuungana na wengine ambao wana shiriki uzoefu kama huo, DIYHRT.cafe inatoa mtazamo wa thamani nyingi, hadithi za kibinafsi, na ushauri wa wataalam kusaidia kufanya maamuzi yaliyoarifiwa kuhusu afya yako na ustawi."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "Huduma ya NSW kwa Matibabu na Urekebishaji wa Waathiriwa wa Utesaji na Mshtuko",
+    "description": "STARTTS ni shirika la kitaalamu, lisilo la faida linalotoa matibabu ya kisaikolojia yanayofaa kwa utamaduni, msaada, na hatua za jamii kusaidia watu na jamii kupona kutokana na mateso na mshtuko wa wakimbizi na kujenga upya maisha yao nchini Australia. Pia wanasaidia watu binafsi wa LGBTQIA+ kutoka kwa wakimbizi na asili za watafuta hifadhi."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons inatoa huduma za ubora wa kudhibiti sauti na ukombozi kwa watu wa jinsia ya kupitisha na wasio na binary wanaolenga kusikika kuwa wa kiume zaidi, wa kike, au androgynous."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Gender Centre Inc.",
+    "description": "The Gender Centre Inc. inatoa huduma mbalimbali maalumu ambazo zinaruhusu uchunguzi wa utambulisho wa jinsia na msaada wa kupunguza mzozo wa jinsia. Inasaidia watu trans na waonyeshaji wa jinsia katika kila hatua ya safari yao wanapoanza kuchunguza na kuishi hisia zao halisi za nafsi. Inatoa makazi, usimamizi wa kesi, elimu na mafunzo, ushauri na huduma za afya ya akili, vikundi, habari, na rasilimali."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub ni jukwaa la kidijitali la maelezo na rasilimali kwa watu wote wa kijinsia na tofauti ya jinsia huko NSW, wapendwa wao, washirika na watoa huduma za afya. Inatoa ufikiaji wa maelezo na rasilimali zinazohitajika kwa jamii ambayo huenda isingekuwa na ufikiaji wa kama walivyokua au walivyoelekea kuelekea nafsi zao halisi. Maelezo yanatoka kwenye mahitaji ya matibabu kama vile homoni, upasuaji na orodha za madaktari hadi masuala ya kijamii na kisheria."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10 pamoja na GLCS inatoa huduma mbalimbali za kubadilisha maisha kwa vijana kote NSW ambao wanajitambulisha kama wasagaji, mashoga, wasio na jinsia, wanaobadili jinsia au wenye jinsia tofauti, intersex, queer, asexual au wanaouliza juu ya kitambulisho chao. Huduma zao ni pamoja na kuchukua na kuelekeza, makaazi na usimamizi wa kesi, ushauri, mipango ya msaada wa kijamii, na mafunzo ya kuwajumuisha LGBTIQA+"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

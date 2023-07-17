@@ -50,6 +50,36 @@
     "description": "स्वत:ची हॉर्मोन बदलेली उपचार (HRT) करणार्या व्यक्त्यांसाठी एक उज्जवळ ऑनलाईन समुदाय आणि ज्ञानाचे केंद्र. त्यांची वेबसाईट स्वत:च्या HRT साठी माहिती, संसाधने आणि समर्थन मिळवण्याच्या ठिकाणी सुरक्षित आणि समाविष्ट करणारी जागा प्रदान करण्यासमर्पित आहे. किंवा तुम्ही दोसागी पद्धतींची शोध घेतली आहे, डोसाईजिंग आणि प्रशासनासाठी मार्गदर्शन होऊ द्या किंवा फक्त इतरांशी सांगणारे अनुभव्या, DIYHRT.cafe तुमच्या आरोग्य आणि क्षेमाबद्दल सुचेत संपादनांसाठी तुम्हाला मदत करण्यासाठी मूल्यवान अंतर्दृष्टी, व्यक्तिगत कथा आणि तज्ज्ञ सल्ला प्रदान करते."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "ताप आणि संताप वाऱ्यामुळे जी व्यक्ती जीवन जगते त्या व्यक्तींच्या उपचार व पुनर्वासाच्या सेवा करणारी NSW सर्विस",
+    "description": "STARTTS ही एक विशेषत उपचार, नफा न घेणारी संस्था आहे जी सांस्कृतिक रीतीने मनोवैज्ञानिक उपचार, मदत, आणि समुदाय विदर्भ प्रस्तावित करते, त्यामुळे ताप आणि शरणार्थी संतापातून लोकांना आणि समुदायांना बरे होण्याची आणि ऑस्ट्रेलियात आपले आयुष्य सांगण्याची मदत करते. ते शरणार्थी आणि आश्रय शोधायला यायच्या पाठीशी असलेल्या LGBTQIA+ व्यक्तींसाठीही मदत करतात."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons हे ट्रान्सजेंडर व नॉन-बायनरी व्यक्तींसाठी उच्च गुणवत्तेच्या स्वर नियंत्रण व मुक्ती सेवा पुरवते ज्यांना पुरुषांसमान, स्त्रीसमान किंवा उभयलिंगी असायला इच्छित आहे."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "लिंग केंद्र ईन्क.",
+    "description": "लिंग केंद्र ईन्क. हे लिंग परिचयाची शोध आणि लिंगीय अस्वस्थतेच्या कमीकरणास मदत करणारी विशेषज्ञतेची विविध सेवा प्रदान करत आहे. हे प्रत्येक तपशीली यात्रेच्या प्रत्येक टप्प्यावर तांत्रिक आणि लिंगाचे व्यक्त करणार्‍या लोकांच्या मदतीस आहे ज्यांनी त्यांच्या मूळ आत्मसात्ता स्पष्ट केलेली आहे. त्यातली आहेत वासयात्राची सुविधा, प्रकरण व्यवस्थापन, शिक्षण आणि प्रशिक्षण, मानसिक स्वास्थ्य सेवा आणि समूह., बातम्या आणि संसाधने."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub हे एक डिजिटल माहिती आणि संसाधन मंच आहे एनएसडब्ल्यूमधील सर्व ट्रान्सांस आणि लिंगविविध लोकांसाठी, त्यांच्या प्रियतमांसाठी, मित्रांसाठी आणि आरोग्य प्रदातांसाठी. हे एक्यूम्युनिटीसाठी गरजेच्या माहिती आणि संसाधनांकडे प्रवेश प्रदान करते ज्यांना त्यांनी वाढत असताना किंवा त्यांच्या मूळ स्वतःच्या तर्फ वाढताना असं उपलब्ध केलेलं नसेल. माहिती हार्मोन्स, शस्त्रक्रिया आणि डॉक्टरांच्या याद्यापासून सामाजिक आणि कायदेशीर मुद्द्यांपर्यंत विस्तृत आहे."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10 ज्याचा चुकीचं पर्यायी नाव GLCS आहे, ते NSW येथील तरुणांना विविध आयुष्य बदलकरच्या सेवा देते, ज्यांची ओळख लेस्बियन, गे, बायसेक्सुअल, ट्रांसजेन्डर किंवा जाती विचलित, इंटरसेक्स, क्विअर, अलिंगी किंवा त्यांच्या ओळखीत संदेह असलेल्यांच्या रूपात आहे. त्यांच्या सेवांमध्ये त्राण आणि संदर्भ, निवास आणि प्रकरण व्यवस्थापन, सल्लागारी, सामाजिक सहाय्य कार्यक्रम आणि LGBTIQA+ समावेशकता प्रशिक्षण आहे"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

@@ -50,6 +50,36 @@
     "description": "డూ-ఇట్-యొవర్సెల్ఫ్ హార్మోన్ రిప్లేస్మెంట్ థెరపీ (HRT) పై ఆసక్తి ఉన్న వ్యక్తుల కోసం తెలివైన సముదాయం మరియు జ్ఞాన కేంద్రం ఏదైనా DIYHRT.cafe. వారి వెబ్‌సైట్ స్వయం నిర్వహించే HRTకు సమాచారం, వనరులు, మరియు మద్దతును ఆందోళన చేసే సురక్షిత మరియు సమావేశక స్థలంగా ఉంది. మీరు ప్రత్యామ్నాయ పద్ధతులను అన్వేషిస్తున్నారా, డోసేజీ మరియు నిర్వహణ పై మార్గదర్శనను శోధిస్తున్నారా, లేదా మీకు అనుభవాలు ఉన్నవారితో కనెక్ట్ చేయాలని కోరుకుంటున్నారా, DIYHRT.cafe మీ ఆరోగ్య మరియు సంకల్పాత్మక నిపుణ సలహా, వ్యక్తిగత కథనాలు, మరియు అరుదైన సమాచారాన్ని అందించడానికి సంపన్నం."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "టార్చర్ మరియు ట్రామా సర్వైవర్ల చికిత్స మరియు పునర్వాస కోసం ఎన్‌ఎస్‌డబ్ల్యూ సేవ",
+    "description": "స్టార్ట్స్ ఒక ప్రత్యేక, లాభరహిత సంస్థ అది చర్యలకు తగిన మానసిక చికిత్సను, మద్దతిని, మరియు సంఘ చర్యలను అందిస్తుంది అంటే జనాలు మరియు సంఘాలు టార్చర్ మరియు శరణాధికారి ట్రామా నుండి సర్దుబాటు చేసుకోవాలని, మరియు వారి జీవితాలను ఆస్ట్రేలియాలో పునర్నిర్మించకు సహాయం చేస్తుంది. వారు అలాగే శరణాధికారి మరియు ఆస్యులం వేదిక నుండి వచ్చిన లెస్‌బియన్, గే, బైసెక్సువల్, ట్రాన్స్‌జెండర్, ఇంటర్‌సెక్స్, క్వీర్, ఎయ్‌ప్రూస్టైవ్‌ల్లు ఉన్న వ్యక్తులను మద్దతు చేస్తుంది."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons ట్రాన్స్జెండర్ మరియు నాన్-బైనరీ వ్యక్తులకు మరింత పురుషవంతమైన, స్త్రీవంతమైన, లేదా ఆండ్రోజనె౗స్ అని అనిపించడానికి గురించిన గుణవంతమైన స్వర నియంత్రణ మరియు విమోచన సేవలను అందిస్తుంది."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Gender Centre Inc.",
+    "description": "జెండర్ సెంటర్ Inc. అనేది జెండర్ ఐడెంటిటీ అన్వేషణ మరియు జెండర్ డిస్ఫోరియాను తగ్గించడానికి సహాయం ఒక విస్తారణా సేవలాన్నింటిని అందిస్తోంది. ఇది తమ యాథార్థిక అనుభూతినే అనుపయోగించి ప్రయాణం చేసే ప్రతి దశలో ట్రాన్స్ మరియు జెండర్ ఆహ్వాన వ్యక్తులను మద్దతుగా ఉంది. ఇది ఆవాస వ్యవస్థ, కేసు నిర్వహణ, విద్యా & ప్రశిక్షణ, కన్సిలింగ్ & మానసిక ఆరోగ్య సేవలు, సమూహాలు, వార్తలు, మరియు సంపన్నాలు అందిస్తుంది."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub అనేది గెండర్ వివిధతకు విధించిన మరియు ట్రాన్స్ అనే వ్యక్తులకు, వారి ప్రేమికులకు, మిత్రులకు మరియు ఆరోగ్య ప్రదాయకులకు అన్ని డిజిటల్ సమాచారం మరియు వనరుల వేదిక. వాళ్ళ నిజమైన ఆత్మకి మొత్తం ఏర్పడే వరకు, లేదా మొత్తం పెరుగుతున్న వారికి అంతరంగంగా ప్రాప్యమయ్యే సాధనాలను అందిస్తుంది. సమాచారం మెడికల్ అవసరాల నుంచి, హార్మోన్లు, షస్త్రచికిత్సలు మరియు వైద్య జాబితాకు వేయడం వరకు మరియు సామాజిక మరియు చట్టప్రమాణ సమస్యల వరకు చేరుతుంది."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10 మరియు GLCS వివిధ జీవమార్పణ సేవలను ఆంధ్రప్రదేశదానికి చెందిన యువతరాలకు అందిస్తుంది, వారు లెస్బియన్, గేయ్, బైసెక్సువల్, ట్రాన్స్జెండర్ లేదా జెండర్ డివర్స్, ఇంటర్సెక్స్, క్వియర్, అసెక్షుఅల్ లేదా వారు తమ గురించి ప్రశ్నించవచ్చు. వారి సేవలు ఇన్టేక్ మరియు రిఫెరల్, ఆవాసం మరియు కేసు నిర్వహణ, కౌన్సిలింగ్, సోషల్ మద్దతు కార్యక్రమాలు, మరియు LGBTIQA+ సమావేశత్వ ప్రశిక్షణ ఉన్నాయి"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

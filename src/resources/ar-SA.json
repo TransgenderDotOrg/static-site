@@ -50,6 +50,36 @@
     "description": "مجتمع اونلاين نابض بالحياة ومركز معرفة للأشخاص المهتمين بالعلاج الهرموني البديل (HRT). موقعهم على الويب مُ dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. سواء كنت تستكشف الأساليب البديلة، أو تبحث عن التوجيه حول الجرعة والإدارة، أو ببساطة تبحث عن التواصل مع الآخرين الذين يشاركون تجارب مماثلة، يقدم DiyHRT.cafe ثروة من الإطلاعات القيمة, قصص شخصية, ونصائح خبير لمساعدتك في اتخاذ قرارات مستنيره بشأن صحتك ورفاهيتك."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "خدمة NSW للعلاج والتأهيل لناجين العذاب والصدمة",
+    "description": "تعتبر STARTTS منظمة متخصصة غير ربحية توفر العلاج النفسي ذو الصلة الثقافية والدعم والتدخلات المجتمعية لمساعدة الأشخاص والمجتمعات على الشفاء من العذاب وصدمة اللاجئين وإعادة بناء حياتهم في أستراليا. كما أنها تدعم الأفراد ذوي الهوية LGBTQIA+ من خلفيات اللاجئين وطالبي اللجوء."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "توفر TransVoiceLessons خدمات السيطرة على الصوت والتحرر ذات الجودة للأفراد المتحولين جنسياً وغير الثنائيين الذين يهدفون إلى البدو بصوت أكثر رجولة أو أنوثة أو عدم تحديد الجنس."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "مركز الجندر إنك.",
+    "description": "يقدم مركز الجندر إنك. مجموعة واسعة من الخدمات المتخصصة التي تتيح استكشاف الهوية الجندرية والمساعدة في تخفيف الاضطراب الجنسي. يدعم الأشخاص ذوي التعبير الجندري والمتحولين جنسياً في كل مرحلة من رحلتهم أثناء استكشافهم وعيشهم لمعنى الذات الحقيقي. يقدم الإقامة، إدارة الحالات، التعليم والتدريب، خدمات الإرشاد والصحة النفسية، المجموعات، الأخبار، والموارد."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub هو منصة رقمية للمعلومات والموارد لجميع الأشخاص العابرين ومتنوعي الجنس في نيوساوث ويلز، وأحبائهم، وحلفائهم ومقدمي الرعاية الصحية. يوفر الوصول إلى المعلومات والموارد المطلوبة بشدة لمجتمع قد لا يكون لديه الوصول إلى مثل هذه الأمور أثناء نموهم أو أثناء التطور نحو ذواتهم الأصلية. تتراوح المعلومات من الاحتياجات الطبية مثل الهرمونات، الجراحات وقوائم الأطباء إلى القضايا الاجتماعية والقانونية."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "تقدم Twenty10 بما في ذلك GLCS خدمات متنوعة تغير الحياة للشباب في جميع أنحاء NSW الذين يتعرفون على أنفسهم كمثليين، مثليات، مزدوجي الجنس، متحولين جنسياً أو غير ثابتي الجنس، متغايري الجنس، غير واضحي الميول أو هم يتساءلون عن هويتهم. تشمل خدماتهم القبول والإحالة، الإسكان وإدارة الحالات، المشورة، برامج الدعم الاجتماعي، وتدريب على الشمول فيما يتعلق بمجتمع LGBTIQA+"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

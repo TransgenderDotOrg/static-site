@@ -50,6 +50,36 @@
     "description": "Жвава онлайн спільнота та центр знань для осіб, які цікавляться самостійною замінною гормональною терапією (HRT). Їхній вебсайт призначений для надання безпечного та включного простору, де люди можуть отримувати інформацію, ресурси та підтримку для самостійної HRT. Неважливо, досліджуєте ви альтернативні методи, шукаєте керівництво щодо дозування та адміністрації, або просто хочете зв'язатися з іншими, хто має подібний досвід, DIYHRT.cafe пропонує багатство цінних оглядів, особистих історій та експертних порад, щоб допомогти вам приймати обгрунтовані рішення щодо вашого здоров'я та благополуччя."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "Послуга Нового Південного Уельсу для лікування та реабілітації виживших після тортур та травми",
+    "description": "STARTTS - це спеціалізована некомерційна організація, яка надає культурно-орієнтоване психологічне лікування, підтримку та втручання в громади з метою допомогти людям та громадам вилікуватися від тортур та травми біженців та відновити своє життя в Австралії. Вони також підтримують осіб LGBTQIA+ з біженського та статусу шукача притулку."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons пропонує якісні послуги контролю та звільнення голосу для трансгендерних та небінарних осіб, які прагнуть звучати більш чоловічим, жіночим або андрогіним."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Центр Гендера Інк.",
+    "description": "Центр Гендера Інк. надає широкий спектр спеціалізованих послуг, які допомагають досліджувати гендерну ідентичність та сприяють зменшенню гендерної дисфорії. Центр підтримує транс- та гендерно виразні особи на всіх етапах їхньої подорожі, допомагаючи їм досліджувати та жити відповідно до їхнього справжнього відчуття себе. Він пропонує житло, керування випадками, освіту та навчання, консультації та послуги з психічного здоров'я, групи, новини та ресурси."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub - це цифрова платформа інформації та ресурсів для всіх трансів та людей, котрі відмінні від гендеру, в Новій Південній Уельс, для їхніх близьких, союзників та постачальників охорони здоров'я. Вона надає доступ до необхідної інформації та ресурсів для спільноти, котра, можливо, не мала доступу до такого, коли вони вирощували або прямували до своїх автентичних особистостей. Інформація відтворюється від медичних потреб, таких як гормони, операції та списки лікарів, до соціальних та правових питань."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10, включаючи GLCS, надає різні життєзмінні послуги для молодих людей по всьому Новому Південному Уельсу, які визначають себе як лесбійки, геї, бісексуали, трансгендери або гендерно різноманітні, інтерсексуали, квіри, асексуали або перебувають у стадії запитань щодо своєї ідентичності. Їхні послуги включають прийом та направлення, житло та управління справами, консультування, соціальні підтримувальні програми та навчання з урахуванням інклюзивності ЛГБТІКА+"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

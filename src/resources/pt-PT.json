@@ -50,6 +50,36 @@
     "description": "Uma vibrante comunidade online e centro de conhecimento para indivíduos interessados em terapia de reposição hormonal faça-você-mesmo (HRT). O site deles é dedicado a fornecer um espaço seguro e inclusivo onde as pessoas possam acessar informações, recursos e apoio para a HRT autoadministrada. Seja você está explorando métodos alternativos, buscando orientação sobre dosagem e administração, ou simplesmente procurando se conectar com outros que compartilham experiências semelhantes, o DIYHRT.cafe oferece uma riqueza de insights valiosos, histórias pessoais e conselhos de especialistas para ajudá-lo a tomar decisões informadas sobre sua saúde e bem-estar."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "Serviço NSW para o Tratamento e Reabilitação de Sobreviventes de Tortura e Trauma",
+    "description": "STARTTS é uma organização especialista, sem fins lucrativos, que fornece tratamento psicológico culturalmente relevante, apoio e intervenções comunitárias para ajudar pessoas e comunidades a se recuperarem de tortura e traumas de refugiados e reconstruir suas vidas na Austrália. Eles também apoiam indivíduos LGBTQIA+ de origem de refugiados e solicitantes de asilo."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons oferece serviços de controle e liberação de voz de qualidade para indivíduos transgêneros e não-binários que visam soar mais masculinos, femininos ou andróginos."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Gender Centre Inc.",
+    "description": "The Gender Centre Inc. está fornecendo uma ampla gama de serviços especializados que permitem a exploração da identidade de gênero e assistência com a alleviação da disforia de gênero. Apoia pessoas trans e expressivas de gênero em todas as etapas de sua jornada enquanto exploram e vivem seu autêntico senso de si. Oferece acomodação, gerenciamento de caso, educação e treinamento, serviços de aconselhamento e saúde mental, grupos, notícias e recursos."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub é uma plataforma digital de informação e recursos para todas as pessoas trans e de gênero diverso em NSW, seus entes queridos, aliados e provedores de saúde. Ele fornece acesso a informações e recursos muito necessários para uma comunidade que pode não ter tido acesso a tais informações à medida que cresceram ou evoluíram para seus autênticos. A informação varia de necessidades médicas como hormônios, cirurgias e listas de médicos a questões sociais e legais."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "A Twenty10, incluindo a GLCS, oferece diversos serviços que mudam a vida de jovens em todo o NSW que se identificam como lésbicas, gays, bissexuais, transgêneros ou diversidade de gênero, intersexuais, queer, assexuais ou estão questionando sua identidade. Seus serviços incluem acolhimento e encaminhamento, moradia e gestão de casos, aconselhamento, programas de apoio social e treinamento de inclusividade LGBTIQA+"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

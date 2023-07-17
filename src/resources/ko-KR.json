@@ -50,6 +50,36 @@
     "description": "자기 고체 호르몬 대체 요법에 관심이 있는 개인들을 위한 지식의 중심지이자 열정적인 온라인 커뮤니티입니다. 그들의 웹사이트는 안전하고 포괄적인 공간을 제공하기 위해 헌신하며, 사람들이 자가 투여 HRT에 대한 정보, 리소스, 지원을 접근할 수 있습니다. 대체 방법을 탐색하고 있거나, 복용량과 투여에 대한 지도를 찾고 있거나, 비슷한 경험을 공유하는 다른 사람들과 연결하고 싶은 경우, DIYHRT.cafe는 귀하의 건강과 웰빙에 대한 정보적 결정을 돕기 위한 귀중한 통찰력, 개인적인 이야기, 전문적인 조언을 제공합니다."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "고문 및 트라우마 생존자 치료 및 재활을 위한 NSW 서비스",
+    "description": "STARTTS는 문화적으로 적절한 심리치료, 지원, 커뮤니티 개입을 제공하여 고문 및 난민 트라우마로부터 회복하고 호주에서 삶을 재건하는 데 도움을 주는 전문 비영리 기관입니다. 또한 난민 및 망명자 배경의 LGBTQIA+ 개인을 지원합니다."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons는 보다 남성적이거나, 여성적이거나, 또는 중성적인 소리를 내기를 원하는 트랜스젠더 및 비이진성 개인들을 대상으로 품질 높은 목소리 제어 및 해방 서비스를 제공합니다."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Gender Centre Inc.",
+    "description": "The Gender Centre Inc.는 성 정체성 탐색 및 성 역겹음증 완화를 돕는 다양한 전문 서비스를 제공합니다. 그것은 사람들이 진심으로 스스로를 인지하고 살아갈 수 있도록 여정의 모든 단계에서 트랜스와 성 표현 인물들을 지원합니다. 숙박 시설, 사례 관리, 교육 및 훈련, 상담 및 정신 건강 서비스, 그룹, 뉴스, 자료 등을 제공합니다."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub는 NSW의 모든 트랜스 및 성 다양성 인구, 그들의 사랑하는 사람들, 동맹자 및 건강 제공자를 위한 디지털 정보 및 자원 플랫폼입니다. 이것은 성장하거나 진정한 자신으로 성장함에 따라 이러한 접근을 할 수 없었던 커뮤니티에게 필요한 정보와 자원에 대한 접근성을 제공합니다. 정보는 호르몬, 수술, 의사 목록과 같은 의료 필요성부터 사회적 및 법적 문제에 이르기까지 다양합니다."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10은 GLCS를 포함하여 레즈비언, 게이, 양성애자, 트랜스젠더 또는 성 다양성, 성 중성, 퀴어, 무성애자 또는 자신의 신분을 질문하는 뉴사우스웨일스의 젊은이들에게 다양한 삶을 바꾸는 서비스를 제공합니다. 그들의 서비스에는 인테이크 및 참조, 주거 및 사례 관리, 상담, 사회적 지원 프로그램, 그리고 LGBTIQA+ 포괄성 교육이 포함됩니다"
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",

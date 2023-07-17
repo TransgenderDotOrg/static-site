@@ -50,6 +50,36 @@
     "description": "Kendin yap hormon yerine koyma tedavisi (HRT) ile ilgilenen kişiler için canlı bir online topluluk ve bilgi merkezi. Web siteleri, kendi kendine uygulanan HRT için bilgi, kaynak ve destek erişebilecekleri güvenli ve kapsayıcı bir alan sağlamaya adanmıştır. Alternatif yöntemleri keşfediyor olun, dozaj ve uygulama üzerinde rehberlik arıyor olun, veya benzer deneyimleri paylaşan başkalarıyla bağlantı kurmayı arıyor olun, DIYHRT.cafe sağlık ve esenliğinizle ilgili bilinçli kararlar vermenize yardımcı olacak değerli içgörüler, kişisel hikayeler ve uzman tavsiyeleri sunar."
   },
   {
+    "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
+    "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
+    "externalUrl": "https://www.startts.org.au/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "phoneNumber": "+61 (0)2 9646 6700",
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Carramar",
+    "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
+    "latLng": [
+      -33.8801011,
+      150.9654668
+    ],
+    "email": "stts-startts@health.nsw.gov.au",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/starttsNSW",
+      "facebookUrl": "https://www.facebook.com/STARTTSNSW",
+      "instagramUrl": "https://www.instagram.com/startts_nsw/",
+      "linkedinUrl": "https://www.linkedin.com/company/startts/",
+      "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
+    },
+    "county": "City of Fairfield",
+    "title": "İşkence ve Travma Hayatta Kalanlarının Tedavi ve Rehabilitasyonu için NSW Hizmeti",
+    "description": "STARTTS, kültürel olarak ilgili psikolojik tedavi, destek ve toplum müdahalelerini sağlayan, kar amacı gütmeyen bir uzman kuruluştur. İşkence ve mülteci travmasından iyileşmeye ve hayatlarını Avustralya'da yeniden kurmaya yardımcı olur. Ayrıca mülteci ve sığınmacı arka planından gelen LGBTQIA+ bireylere de destek verirler."
+  },
+  {
     "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
     "slug": "ftmguideorg",
     "externalUrl": "https://FTMGuide.org",
@@ -565,6 +595,32 @@
     "description": "TransVoiceLessons, daha maskülen, feminen veya androjen olmayı hedefleyen transseksüel ve non-binary bireyler için kaliteli ses kontrolü ve özgürleştirme hizmetleri sunar."
   },
   {
+    "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
+    "slug": "gender-centre",
+    "externalUrl": "https://gendercentre.org.au/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": "02 9519 7599",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Gender Centre Inc.",
+    "description": "The Gender Centre Inc., cinsiyet kimliğinin keşfini ve cinsiyet disforisinin hafifletilmesine yardımcı olabilecek çok çeşitli özel hizmetler sunmaktadır. Trans ve cinsiyet ifadesini yaşayan kişilere, kendilerini otantik olarak yaşama ve keşfetme yolculuklarının her aşamasında destek olmaktadır. Konaklama, davetsiz misafir yönetimi, eğitim & eğitim, danışmanlık & ruh sağlığı hizmetleri, gruplar, haberler ve kaynaklar sunmaktadır."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -684,6 +740,33 @@
     "socialMedia": null,
     "title": "TransHub",
     "description": "TransHub, NSW'deki tüm trans ve cinsiyet çeşitliliği olan kişiler, sevdikleri, müttefikleri ve sağlık sağlayıcıları için dijital bir bilgi ve kaynak platformudur. Kendi otantik benliklerine doğru büyümeyi başaran bu topluluk için çok gereken bilgi ve kaynaklara erişim sağlar. Bilgi, hormonlar, ameliyatlar ve doktor listeleri gibi tıbbi ihtiyaçlardan sosyal ve hukuki meselelere kadar uzanır."
+  },
+  {
+    "id": "e7d26256-017c-4d7e-90d2-30de9386cc03",
+    "slug": "twenty10",
+    "externalUrl": "https://twenty10.org.au/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Sydney",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/twenty10glcs/"
+    },
+    "title": "Twenty10",
+    "description": "Twenty10, GLCS'yi de içererek NSW genelinde lezbiyen, gay, biseksüel, transseksüel veya cinsiyet çeşitliliği olan, interseks, queer, aseksüel veya kimliklerini sorgulayan gençlere hayatlarını değiştiren çeşitli hizmetler sunar. Hizmetleri arasında kabul ve yönlendirme, konut ve durum yönetimi, danışmanlık, sosyal destek programları ve LGBTIQA+ kapsayıcılık eğitimi bulunmaktadır."
   },
   {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
