@@ -36,6 +36,29 @@
     "description": "San Mateo County Pride Merkezi, LGBTQ+ topluluğu için işbirlik modeli bir organizasyon ve tek durak yeridir. Tüm yaş gruplarından LGBTQ+ topluluk üyelerini desteklemek için eğitim, eğitim, topluluk etkinlikleri, akran destek grupları, günlük programlama, klinik terapi ve dosya yönetimi dahil olmak üzere sağlam programlar ve hizmetler sunuyoruz."
   },
   {
+    "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
+    "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
+    "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "youth-services",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Çocuklarda ve Ebeveynlerde Transseksüelliği Anlama ve Destekleme",
+    "description": "Bu Alman makalesi, ebeveynlerde veya çocuklarda transseksüellikle ilgilenen aileler için kapsamlı bir rehber sunar. Anlama ve durumu kabul etmeden, ilgili tedavileri sürdürmeye kadar rehberlik eden anahtar prosedürler ve kaynaklar hakkında bilgi sağlar."
+  },
+  {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
     "slug": "queerspace",
     "externalUrl": "https://www.queerspace.org.au/",
@@ -80,6 +103,28 @@
     "description": "Kendin yap hormon yerine koyma tedavisi (HRT) ile ilgilenen kişiler için canlı bir online topluluk ve bilgi merkezi. Web siteleri, kendi kendine uygulanan HRT için bilgi, kaynak ve destek erişebilecekleri güvenli ve kapsayıcı bir alan sağlamaya adanmıştır. Alternatif yöntemleri keşfediyor olun, dozaj ve uygulama üzerinde rehberlik arıyor olun, veya benzer deneyimleri paylaşan başkalarıyla bağlantı kurmayı arıyor olun, DIYHRT.cafe sağlık ve esenliğinizle ilgili bilinçli kararlar vermenize yardımcı olacak değerli içgörüler, kişisel hikayeler ve uzman tavsiyeleri sunar."
   },
   {
+    "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
+    "slug": "stuttgarter-declaration-gender-self-determined",
+    "externalUrl": "https://die-erklaerung.de/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": "BW",
+    "city": "Stuttgart",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Stuttgarter Deklarasyonu: Cinsiyet. Kendi. Belirlenen.",
+    "description": "Stuttgarter Deklarasyonu, transgender ve interseks bireylerin saygılı muamele görmesinin önemini vurgular. Tıbbi, psikoterapötik, danışma ve destek hizmetlerinde insan haklarının önemini alt çizer. Doktorlar, psikoterapistler, insan hakları aktivistleri ve etkilenen bireyler tarafından geliştirilen bu deklarasyon, kendi cinsiyetini belirleme hakkını ve tıbbi tedavilerin bu öz-belirlemeye saygı gösterme zorunluluğunu vurgular."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -102,6 +147,36 @@
     },
     "title": "Ngunnawal, Ngunawal ve Ngambri Ülkesinde oturan DEiFYDEiFYQTIBIPOC Kolektifi",
     "description": "Bu, DEiFYQTIBIPOC topluluğu için bir toplu toplantıdır. Grup ayrıca Queer Maskülinite Zine ve özel çalma listelerini de tartışacak."
+  },
+  {
+    "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+    "slug": "bundesverband-trans",
+    "externalUrl": "https://www.bundesverband-trans.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+    "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+    "country": "DE",
+    "provinceOrState": "BE",
+    "city": "Berlin",
+    "latLng": [
+      52.4890033,
+      13.3333558
+    ],
+    "email": "info@bv-trans.de",
+    "socialMedia": null,
+    "town": "Bezirk Charlottenburg-Wilmersdorf",
+    "title": "Bundesverband Trans* e.V.",
+    "description": "Bundesverband Trans* e.V., Almanya'daki transseksüel, transgender, genderqueer, non-binary ve trans* olarak tanımlanan kişilerin haklarını savunan ulusal bir dernektir. Yasal, politik ve tıbbi reformları hedefleyerek bu topluluk için koşulları iyileştirmeyi hedeflerler. Bu hedefe ulaşmak için atölyeler düzenlerler, danışmanlık hizmetleri sunarlar ve yayınlar çıkarırlar."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -147,6 +222,79 @@
     "description": "Kadından erkeğe (FTM) geçiş yapan bireyleri desteklemeye adanmış kapsamlı bir online platform. Web siteleri, FTM yolculuklarına çıkanlar için bilgi, rehberlik ve topluluk bağlantıları sunan güvenilir bir kaynak olarak hizmet vermektedir. Hormon tedavisi ve cerrahi seçenekler hakkında pratik tavsiyelerden, zihinsel sağlık desteğine ve kişisel hikayelere kadar, FTMGuide.org, bireylerin geçişlerini güven ve açıklıkla yönetmeleri için gereken bilgi ve kaynaklarla donatmayı amaçlamaktadır."
   },
   {
+    "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+    "slug": "black-rainbow",
+    "externalUrl": "https://blackrainbow.org.au/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Darwin NT, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin",
+    "latLng": [
+      -12.4637333,
+      130.8444446
+    ],
+    "email": null,
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/blackrainbowaus/",
+      "twitter": "https://twitter.com/BlkRnBow",
+      "facebook": "https://www.facebook.com/blackrainbowaus/",
+      "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+      "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+    },
+    "title": "Black Rainbow",
+    "description": "Black Rainbow, topluluklarının sağlık ve esenlik üzerine odaklanmış milli bir Aborijin ve Torres Boğazı Adalı LGBQTIA+SB gönüllü sosyal girişimidir. Bu, finansman almadığı halde, bağışlar, hizmet karşılığı ücret ve eğitici materyallerin satışı aracılığıyla hizmetlerini genişletmeye çabalar. Dışa dönük projeler başlatır, sosyal etkinliklere destek verir ve topluluk iyileştirmesi ve sağlık etkileri üzerine araştırma için fon toplar."
+  },
+  {
+    "id": "19d3bf2d-04ed-46e6-ac5b-b2e3c26a7dd1",
+    "slug": "minus-eighteen",
+    "externalUrl": "https://www.minus18.org.au/",
+    "tags": [
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Minus18",
+    "description": "Minus18, LGBTQIA+ gençlerin hayatını iyileştiren Avustralya'nın hayır kurumudur. Gençlerin ait olduğu, kutlandığı ve arkadaş edinebileceği alanlar oluşturarak sosyal izolasyonla mücadele ederler. Ayrıca, ayrımcılıktan uzak bir Avustralya oluşturmayı hedefleyen LGBTQIA+ eğitimleri, kaynaklar ve dijital kampanyalar sunarlar. Amaçları, gençleri değişimi sürüklemenin ön saflarında olmaları için gereken beceriler ve fırsatlarla donatmaktır."
+  },
+  {
+    "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+    "slug": "us-trans-survey",
+    "externalUrl": "https://www.ustranssurvey.org/",
+    "tags": [
+      "education-awareness",
+      "community-stories",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "ustranssurvey@transequality.org",
+    "socialMedia": null,
+    "title": "ABD Trans Anketi",
+    "description": "ABD Trans Anketi, ABD'deki trans kişiler tarafından yapılan en büyük trans anketidir. ABD ve ABD topraklarındaki 16 yaş ve üstü trans ve nonbinary kişilerin yaşamlarını ve deneyimlerini belgeler. Anket ve raporları, renkli kişilerin deneyimlerine ve eyaletlere göre raporlara dair önemli bir kaynak olmuştur, trans sesleri aracılığıyla geleceği şekillendirmeye yardımcı olmaktadır."
+  },
+  {
     "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
     "slug": "transfemscienceorg",
     "externalUrl": "https://transfemscience.org",
@@ -157,6 +305,180 @@
     ],
     "title": "transfemscience.org",
     "description": "Transgender ve non-binary topluluk için kanıta dayalı araştırmalar, eğitim ve kaynaklar sağlamaya adanmış çığır açan bir çevrimiçi platform olan transfemscience.org, özellikle feminize hormon tedavisi (FHT) üzerine yoğunlaşıyor. Web siteleri, FHT'nin tıbbi, fizyolojik ve psikolojik yönleri hakkında güvenilir ve güncel bilgiler arayan bireyler için hayati bir merkez görevi görüyor. Hakemli çalışmalarının, uzman makalelerinin ve pratik rehberlerinin kapsamlı koleksiyonu ile site, bireylerin geçiş ve sağlık hakkında bilinçli kararlar vermelerini sağlar."
+  },
+  {
+    "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+    "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+    "externalUrl": "https://www.nonbinary.ch/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "youtubeUrl": "https://www.youtube.com/channel/",
+      "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+    },
+    "title": "nonbinary.ch - Non-binary Bireyler için Bir Kaynak",
+    "description": "Non-binary cinsiyet kimlikleriyle ilgili bilgi ve kaynaklar sağlayan kapsamlı bir İsviçre web sitesi. Kendi cinsiyet kimliklerini keşfeden bireylerin ya da non-binary bireylerle iletişim kuranların, temel bilgilere kolayca erişebilmesi amacıyla tasarlanmıştır. Site ayrıca bir blog, bir bülten ve kitaplar, filmler ve araştırmalar gibi alakalı dış kaynaklara bağlantılar barındırır."
+  },
+  {
+    "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
+    "slug": "the-pinnacle-foundation",
+    "externalUrl": "https://thepinnaclefoundation.org/",
+    "tags": [
+      "education-awareness",
+      "financial-aid-scholarships",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Pinnacle Foundation",
+    "description": "The Pinnacle Foundation, genç LGBTQIA+ Avustralyalılara burslar, mentorluk ve fırsatlar sağlayan bir Avustralya eğitim hayır kurumudur. Burslar, Avustralya'daki devlet yükseköğretim kurumlarında tam zamanlı eğitim için verilir."
+  },
+  {
+    "id": "2f23a24b-2e9d-4f83-9808-1e69981fba12",
+    "slug": "ftm-portal-net",
+    "externalUrl": "https://ftm-portal.net",
+    "tags": [
+      "transmasculine",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "FTM-Portal.net",
+    "description": "FTM-Portal.net, transmen ve diğer transmaskülinler için çeşitli yaşam durumlarına ilişkin deneyimler ve ipuçları sağlayan en büyük Almanca konuşan bilgi platformudur. Bu kaynak, ilk sınıflandırma ile tamamen veya kısmen özdeşleşmeyen herhangi bir kişi tarafından doğumda kadın olarak atanmış olanlar için yararlıdır. Transmenlerin akrabaları ve diğer ilgili taraflar da kaydolabilir."
+  },
+  {
+    "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+    "slug": "tgns-transgender-network-switzerland",
+    "externalUrl": "https://www.tgns.ch/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/transgenderch",
+      "twitterUrl": "https://twitter.com/tgnsch",
+      "instagramUrl": "https://www.instagram.com/tgns.ch/"
+    },
+    "title": "TGNS Transgender Ağı İsviçre",
+    "description": "TGNS, İsviçre'deki transgender bireyler için bir ağdır. Hukuki savunma sağlarlar, sağlık reformlarına yönelik çalışmalar yürütürler ve transgender topluluğuna ruh sağlığı kaynakları sunarlar. Transmaskülin, transfeminin ve non-binary olarak tanımlanan bireyler için destekleyici ve kapsayıcı bir ortam yaratmayı hedefleyen çeşitli farkındalık ve eğitim programlarında yer alırlar. TGNS'nin ayrıca gençlik hizmetleri, destek grupları ve transgender bireylerin aile ve partnerleri için kaynakları bulunmaktadır."
+  },
+  {
+    "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+    "slug": "medicijnkosten-medication-costs-information",
+    "externalUrl": "https://www.medicijnkosten.nl/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Medicijnkosten - İlaç Maliyetleri Bilgisi",
+    "description": "İlaç maliyetleri hakkında detayları sağlayan bilgilendirici bir platform. İlaçların geri ödemesi ve belirli bir ilaca karşı ödeme yapamayacak bireyler için mevcut alternatifler hakkında veri sunar. Sağlık hizmetlerinin finansal planlaması için önemlidir."
+  },
+  {
+    "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+    "slug": "open-doors-youth-service",
+    "externalUrl": "https://www.opendoors.net.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": null,
+    "county": "South East Queensland",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+    },
+    "title": "Açık Kapılar Gençlik Hizmeti",
+    "description": "Güney Doğu Queensland'da LGBTIQAP+ gençlerine ve ailelerine destek olmaktayız. Mental sağlık danışmanlığı, grup terapi programları, sosyal destekler, temel gıda ve hijyen malzemeleri sağlama, istikrarlı bir iş ve konut bulma, okullar, iş yerleri ve ailelerle eğitim ve öğretim yapma gibi hizmetler sunmaktayız."
+  },
+  {
+    "id": "313cd7c6-1051-437c-a1d1-b1297f4c49a8",
+    "slug": "stonewall-medical-centre-sexual-health-clinic-brisbane",
+    "externalUrl": "https://www.stonewall.com.au/",
+    "tags": [
+      "healthcare",
+      "HIV",
+      "STI",
+      "sex-workers",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "52 Newmarket Rd, Windsor QLD 4030, Australia",
+    "phoneNumber": "07 3857 1222",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Windsor",
+    "county": "Brisbane",
+    "latLng": [
+      -27.4378562,
+      153.0279458
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Stonewall Tıp Merkezi ve Cinsel Sağlık Kliniği – Brisbane",
+    "description": "Stonewall Tıp Merkezi, gururla 1995 yılından beri Brisbane'in lezbiyen, eşcinsel, biseksüel, transseksüel, interseks ve queer / sorgulayan (LGBTQIA+), seks işçileri ve düz / heteroseksüel topluluğun genel sağlık ve cinsel sağlık hizmetlerini sunmaktadır. Klinik, HIV PEP & PrEP, STI testleri, seks işçileri için danışmanlık, transseksüel ve cinsiyet çeşitli bireyler için tıbbi bakım, steroid & imaj geliştirici ilaç izlemesi ve diğerleri arasında yönlendirmeler dahil olmak üzere çeşitli hizmetler sunmaktadır."
   },
   {
     "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
@@ -181,6 +503,104 @@
     "socialMedia": null,
     "title": "Meridyen",
     "description": "Meridyen, 40 yıldan fazla bir süredir LGBTIQA+ topluluğuna destek olmakta ve savunma yapmaktadır. Canberra bölgesi genelinde HIV hizmetleri, refah hizmetleri, seks çalışanlarına yönelik ulaşım programları ve daha fazlası gibi çeşitli hizmetler ve programlar sunmaktadır."
+  },
+  {
+    "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+    "slug": "australian-transgender-support-association-of-queensland",
+    "externalUrl": "https://www.atsaq.org.au/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "community-stories",
+      "social-services"
+    ],
+    "address": "Booval QLD 4304, Australia",
+    "phoneNumber": "(07) 3705 7663",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Booval",
+    "county": "City of Ipswich",
+    "latLng": [
+      -27.614358,
+      152.788861
+    ],
+    "email": "parker@atsaq.org.au",
+    "socialMedia": null,
+    "title": "Queensland Avustralya Transgender Destek Derneği",
+    "description": "1990'dan beri transgender, cinsiyet çeşitliliği olan ve cinsiyetsiz bireyleri temsil eden Queensland'in en üst düzey organıdır. Transgender topluluğuna hizmet etmek üzere destek, savunuculuk, hizmetler sunar ve sosyal etkinlikler düzenler."
+  },
+  {
+    "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
+    "slug": "jim-collins-foundation",
+    "externalUrl": "https://jimcollinsfoundation.org/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": "New York, NY 10150, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7582228,
+      -73.9704871
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Jim Collins Vakfı",
+    "description": "Jim Collins Vakfı (JCF)'nın misyonu, transgender bireylere cinsiyet onaylayıcı ameliyatlar için maddi yardım sağlamaktır. Bu vakıf, iki hibe seçeneği sunar; Cerrahi maliyetlerin %100'ünü karşılayan Kurucular'ın Hibesi ve cerrahi maliyetlerin %50'sini karşılayan Krysallis Anne Hembrough Miras Fonu. Vakfın amacı, bu hayati ameliyatlara erişimi, transgender bireylere karşı yaygın ayrımcılık nedeniyle, bu tür maliyetlerin genellikle karşılanamaz olduğu kişilere sunmaktır."
+  },
+  {
+    "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
+    "slug": "transgender-india-transition-guide",
+    "externalUrl": "https://transgenderindia.com/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "IN",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "enquiry@transgenderindia.com",
+    "socialMedia": null,
+    "title": "Transgender Hindistan: Geçiş Rehberiniz",
+    "description": "Transgender Hindistan, Hindistan'daki transgender topluluğu için kapsamlı kurslar, makaleler ve kaynaklar sağlar. Hormon yerine koyma tedavisi temellerinden, yasal haklar ve korumalara, sosyal geçişlere kadar çeşitli konuları içerir ve kurslar çeşitli alanlardaki uzmanlar tarafından yönetilir."
+  },
+  {
+    "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+    "slug": "queermed-deutschland-directory",
+    "externalUrl": "https://queermed-deutschland.de/",
+    "tags": [
+      "healthcare",
+      "transmasculine",
+      "non-binary",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/queermeddeutschland",
+      "instagramUrl": "https://instagram.com/queermeddeutschland",
+      "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+      "facebookUrl": "https://facebook.com/queermeddeutschland"
+    },
+    "title": "Queermed Deutschland Dizini",
+    "description": "Queermed Deutschland, Almanya'da LGBTQIA+ topluluğu tarafından önerilen doktorlar, terapistler ve uygulamaların bir dizinidir. Amaç, sağlık hizmetleri sistemindeki ayrımcılığı ortadan kaldırmak ve herkese saygılı ve duyarlı bir sağlık hizmeti sağlamaktır. Topluluktaki çeşitli bireylere hizmet vermek amacıyla anonim anketinde çeşitli ek seçenekler içerir."
   },
   {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
@@ -434,6 +854,26 @@
     "description": "Küresel LGBTQ+ hakları için kapsamlı ve güncel bir kaynak oluşturmayı hedefleyen yenilikçi bir çevrimiçi platform. Web siteleri, yasa, politika ve toplumsal tutumlar hakkında merkezi bir veri tabanı sunar ve bu bilgiler dünya çapında LGBTQ+ hakları açısından ele alınır. Eşitlik, kapsayıcılık ve yasal korumalar hakkındaki verileri görselleştirerek ve haritalandırarak, EqualDex.com, aktivistler, araştırmacılar ve LGBTQ+ hakları hakkında bilgi edinmek ve bunları küresel ölçekte savunmak isteyen bireyler için güçlü bir araç sunar. Interaktif haritalarını keşfedin, ülkeye özel profillere göz atın ve LGBTQ+ topluluğunu dünya çapında etkileyen en son ilerlemeler ve zorluklar hakkında bilgi sahibi olun."
   },
   {
+    "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
+    "slug": "gender-affirmative-letter-access-project",
+    "externalUrl": "https://thegalap.org/",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Cinsiyet Onaylama Mektubu Erişim Projesi",
+    "description": "GALAP, cinsiyet onaylama bakımı sağlayan bağımsız klinisyenler için bir platformdur. Terapist dizinleri, cinsiyet onayı için mektup yazma rehberleri ve daha fazlası gibi kaynaklar sunarlar. Lütfen not edin, herhangi bir taahhüt imzacısının yetenekleri veya uzmanlığı GALAP tarafından doğrulanamaz."
+  },
+  {
     "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
     "slug": "a-gender-agenda",
     "externalUrl": "https://genderrights.org.au/",
@@ -592,6 +1032,63 @@
     "description": "Oakland'ın ilk kâr amacı gütmeyen 501c3, her yaştan, kapsayıcı LGBTQ toplum hizmet merkezi. Sunulan hizmetler arasında destek grupları, ruh sağlığı desteği, konut yardımı, gençlik programı, hukuki danışmanlık, gıda bankası vb. bulunmaktadır. Ayrıca yaşlı LGBTQ+ bireyler ve trans topluluk üyeleri için özel programlar düzenlenmektedir."
   },
   {
+    "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+    "slug": "plume-transgender-nonbinary-healthcare",
+    "externalUrl": "https://getplume.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitter": "https://twitter.com/getplume",
+      "instagram": "https://www.instagram.com/getplume/",
+      "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+      "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+      "tiktok": "https://www.tiktok.com/@get.plume"
+    },
+    "title": "Plume",
+    "description": "Trans ve nonbinary topluluğu için en büyük sağlık hizmeti sağlayıcısıdır ve cinsiyet onaylayıcı hormon terapisi ve geçiş desteği dahil olmak üzere bir dizi hizmet sunar. Ayrıca, anksiyete ve depresyon için ilaçlar da vardır. Hizmetler, topluluğun benzersiz sağlık hizmeti ihtiyaçlarına derinden anlayan ve sizi rahat, görülmüş ve bakılmış hissettirmeyi hedefleyen bir trans öncülüğünde bir ekip tarafından sağlanır. Kendi otantik benliğiniz olabileceğiniz ve ihtiyaç duyduğunuz bakımı alabileceğiniz bir yer."
+  },
+  {
+    "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+    "slug": "trans-in-3-steps",
+    "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "johanna4711@zohomail.eu",
+    "socialMedia": {
+      "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+    },
+    "title": "3 Adımda Trans*",
+    "description": "Bir bireyin geçiş sürecine yardımcı olmak için rehberlik eden bir proje. Trans* ile ilgili terminolojiyi, birinin trans* olup olmadığını nasıl anlayacağı üzerine bilgi, psikolojik danışmanlık kaynaklarını, tıbbi prosedürleri, anekdot hikayeleri, isim ve cinsiyet durumunu değiştirme hakkında yasal bilgileri ve çeşitli kaynaklara ve hizmetlere olan bağlantıları içerir."
+  },
+  {
     "id": "6f38810d-896c-4493-afe2-b612021122fc",
     "slug": "the-shed-melbourne",
     "externalUrl": "https://www.theshedsupport.org.au/",
@@ -616,6 +1113,51 @@
     "socialMedia": null,
     "title": "The Shed Melbourne",
     "description": "Melbourne merkezli transmaskülen bireyler için bir destek grubu olan The Shed, akran destek toplantıları, spor salonu kulüpleri, kitap kulüpleri, mental sağlık kaynakları, cerrahi ve testosteron bilgi ve destek, baglayıcı programları ve daha fazlası gibi çeşitli etkinlikler ve kaynaklar sunmaktadır."
+  },
+  {
+    "id": "7510c3ea-47b1-4a60-bfaf-bb98b6f6b5b2",
+    "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
+    "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
+    "tags": [
+      "legal"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ABD Eyalet Meclislerinde LGBTQ Haklarına Yönelik Saldırıların Haritalandırılması",
+    "description": "Son birkaç yıl içinde, özellikle transseksüel gençlere saldıran LGBTQ haklarını hedef alan bir rekor sayıda yasa tasarısı ilerlemiştir. ACLU, bu saldırıları izliyor ve LGBTQ insanlara her yerde destek olmak için ulusal bağlı kuruluşlar ağıyla işbirliği yapıyor. Her yıl daha fazla eyalet, LGBTQ insanları koruma yasalarını geçirmek için çalışırken, eyalet meclisleri transseksüel insanları hedefleyen, yerel korumaları sınırlayan ve dinin ayrımcılık yapmak için kullanılmasına izin veren yasa tasarılarını ilerletiyor. ACLU, bu acımasız saldırılara karşı ulusal çapta konuşmayı durdurmayacak."
+  },
+  {
+    "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+    "slug": "national-queer-trans-therapists-of-color-network",
+    "externalUrl": "https://www.nqttcn.com/",
+    "tags": [
+      "mental-health",
+      "social-services"
+    ],
+    "address": "Baltimore, MD 21211, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MD",
+    "city": "Baltimore",
+    "latLng": [
+      39.3289463,
+      -76.63838319999999
+    ],
+    "email": "info@nqttcn.com",
+    "socialMedia": {
+      "facebookUrl": "Facebook-f",
+      "twitterUrl": "Twitter",
+      "instagramUrl": "Instagram"
+    },
+    "title": "Ulusal Queer & Trans Renkli Terapistler Ağı",
+    "description": "Ulusal Queer & Trans Renkli Terapistler Ağı, queer ve trans renkli insanlar için zihinsel sağlığı dönüştürmeye kendini adamış bir iyileştirme adaleti organizasyonudur. Onlar, sosyal adalet hareketleri ile zihinsel sağlık alanının kesişiminde çalışmaktadırlar."
   },
   {
     "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
@@ -763,6 +1305,63 @@
     "description": "Uluslararası Transgender Eşitliği Merkezi, transgender insanların anlaşılması ve kabul görmesi için politikaların ve toplumsal tutumların değiştirilmesini savunan bir organizasyondur. NCTE, yaşlanma, şiddete karşı olanlar, iş imkanları, aileler, sağlık & HIV, konut & evsizlik ve daha fazlası da dahil olmak üzere Transgender topluluğunu etkileyen konular hakkında bilgi sağlar."
   },
   {
+    "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+    "slug": "transgender-law-center",
+    "externalUrl": "https://transgenderlawcenter.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "Oakland, CA 94612, USA",
+    "phoneNumber": "510-587-9696",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8113159,
+      -122.2682245
+    ],
+    "email": "info@transgenderlawcenter.org",
+    "socialMedia": null,
+    "title": "Transgender Hukuk Merkezi",
+    "description": "Transgender Hukuk Merkezi, tüm insanlar için kendi belirlemeye savunan en büyük ulusal trans öncülüğündeki bir organizasyondur. Güçlü kaynaklar ve yayınlar sürdürerek, Merkez bireyleri, trans bireylerin karşılaştığı yaygın hukuki zorluklar ve sorular konusunda yönlendirir. TLC ayrıca, toplulukları kurtuluş için uzun vadeli, ulusal, trans öncülüğündeki bir harekete yönlendirir."
+  },
+  {
+    "id": "88a19313-994c-4908-a518-c09b531743e9",
+    "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
+    "externalUrl": "https://dgti.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/dgti.eV",
+      "twitterUrl": "https://twitter.com/dgti_eV",
+      "instagramUrl": "https://www.instagram.com/dgti_ev/",
+      "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
+    },
+    "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+    "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti), Almanya'da ulusal bir meslek birliği olup, trans, inter-cinsiyet, non-binary ve agender insanların toplumun her seviyesinde kabul ve eşitliği için savunmada bulunur. Dgti, eşten eşe danışmanlık, hukuki bilgi, haberler sunar ve trans* danışmanları ve tıbbi profesyoneller için çeşitli kaynak programlarına sahiptir."
+  },
+  {
     "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
     "slug": "the-inner-circle",
     "externalUrl": "https://theinnercircle.org.za/",
@@ -811,6 +1410,55 @@
     "description": "Bu web sitesi, Florida'da adlarını veya cinsiyetlerini güncellemek isteyenler için adım adım rehber sunmaktadır. Adımlar, mahkemede dilekçe verme ve Sosyal Güvenlik kartı, sürücü belgesi, pasaport ve doğum belgesini güncelleme işlemlerini içerir."
   },
   {
+    "id": "91296a03-5c7f-4105-9ba7-2aa9e8bf5223",
+    "slug": "parents-of-gender-diverse-children",
+    "externalUrl": "https://www.pgdc.org.au/",
+    "tags": [
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness",
+      "mental-health",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@pgdc.org.au",
+    "socialMedia": {},
+    "title": "Cinsiyet Çeşitliliğine Sahip Çocukların Ebeveynleri",
+    "description": "Cinsiyet Çeşitliliğine Sahip Çocukların Ebeveynleri, Avustralya'daki transgender ve cinsiyet çeşitliliği olan çocukları büyüten ebeveynlere ve bu kişilere destek, bağlantılar ve kaynaklar sunar. Organizasyon, gizli ve yargısız akran desteği, aylık buluşmalar, çevrimiçi bir Ebeveyn Merkezi ve profesyonel gelişim ve konuşmacılar sunmaktadır."
+  },
+  {
+    "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+    "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+    "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": "+31(0)20 444 0542",
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "genderteam-poli@vumc.nl",
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+    },
+    "town": "Amsterdam-Zuid",
+    "title": "Amsterdam UMC - Gender Dysforia Bilgi ve Bakım Merkezi",
+    "description": "Amsterdam UMC'deki Gender Dysforia Bilgi ve Bakım Merkezi, doğum cinsiyeti kimliklerine uymayan hisseden kişilere tıbbi tedavi ve psikolojik destek sağlamada uzmandır. Merkez, bireysel çeşitliliği benimser, hizmetlerini kişisel ihtiyaçlara uyarlar ve cinsiyet uyumsuzluğunu tedavi etmedeki uzmanlığı ile uluslararası alanda tanınır. Ayrıca, transgender bireylerin anlaşılmasını ve tedavisini iyileştirmek için araştırmalar yapar ve yeni sağlık profesyonellerine eğitimler sunar."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -842,6 +1490,28 @@
     },
     "title": "Trans Lifeline",
     "description": "Trans Lifeline, trans bireylerin önderlik ettiği, transgender topluluğuna akran desteği ve kaynaklar sunan bir organizasyondur. Topluluk desteği, mikro hibeler ve bir yardım hattı üzerine odaklanarak, trans bireylerin gelişmeleri için ihtiyaç duydukları bağlantıları ve kaynakları sağlama hedefindedir. Trans Lifeline ayrıca #SafeHotlines gibi girişimler aracılığıyla trans topluluğu için savunma yapmaktadır."
+  },
+  {
+    "id": "a0bc83c3-3566-4529-9560-bf98eb404461",
+    "slug": "transliving-international",
+    "externalUrl": "https://transliving.co.uk/main/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transliving International",
+    "description": "Transliving International, transseksüel topluluğa yönelik bir online dergi, klüp geceleri, etkinlikler ve alışveriş platformu sağlayan küresel bir destek grubudur. Yardım, tavsiye, kişisel hikayeler ve özellikler sunarak tüm cinsiyet çeşitliliğine sahip ve trans-bireylerin sesini yükseltir."
   },
   {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
@@ -877,6 +1547,25 @@
     },
     "title": "The Trevor Project",
     "description": "The Trevor Project, LGBTQ+ gençlere intihar önleme hizmetleri sağlayan Amerikan kar amacı gütmeyen bir organizasyondur. Site, transgender topluluğu için değerli kaynaklar sağlar, bunlar arasında kriz müdahalesi ve intihar önleme yardım hattı, TrevorChat ve TrevorText bulunur ve ayrıca ruh sağlığı, sosyal hizmetler ve destek grupları hakkında rehberlik sunar."
+  },
+  {
+    "id": "a4f258ec-17b7-4477-bd90-a7580ab66086",
+    "slug": "gender-dysphoria-1177-vaardguiden",
+    "externalUrl": "https://www.1177.se/liv--halsa/konsidentitet-och-sexuell-laggning/konsdysfori/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Cinsiyet Dysphoria - 1177 Vårdguiden",
+    "description": "1177 sağlık kılavuzu tarafından sağlanan ve ne olduğunu, nasıl hissettirdiğini, yardım nasıl aranacağını ve çeşitli tedavi seçeneklerini tartışan cinsiyet dysphoria hakkında kapsamlı bir kaynak. Cinsiyet dysphoria yaşayan kişilere detaylı bilgi sağlayarak ve yolculuklarında onları destekleyerek hizmet verir."
   },
   {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
@@ -947,6 +1636,30 @@
     "town": "Rondebosch",
     "title": "GOOD HOPE Metropolitan Community Kilisesi",
     "description": "Çeşitliliği kutlayan ve herkesin hoş geldiği güvenli, yargısız bir alan sağlayan, İsa Mesih'in ilkeleri üzerine kurulmuş teolojik olarak ilerici ve kapsayıcı bir Hristiyan topluluğu. Cape Town, Güney Afrika'da bulunan ve Metropolitan Community Churches (MCC) olarak bilinen daha büyük uluslararası mezhep olan kapsayıcı bir Hristiyan cemaatinin bir parçası."
+  },
+  {
+    "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+    "slug": "transfamily",
+    "externalUrl": "https://www.transfamily.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+    },
+    "title": "Transfamily",
+    "description": "Trans ve cinsiyet çeşitliliği olan bir kişinin ebeveynleri, kardeşleri, geniş aile üyeleri ve arkadaşları için bir akran destek grubudur. Kaynaklar, etkinlikler ve topluluk hikayeleri için bir platform sunar. Ayrıca, transgender topluluğu hakkında yararlı bilgiler ve içgörüler sağlayan bir Transfamily kitabı da sunar."
   },
   {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
@@ -1027,6 +1740,107 @@
     "description": "Cinsiyet, cins ve cinsellik çeşitliliği olan topluluklar için sağlık ve iyilik hizmetleri sunan bir LGBTIQ+ topluluk kontrol organizasyonu, HIV desteği ve önlenmesi, danışmanlık ve aile içi şiddet hizmetleri dahil."
   },
   {
+    "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+    "slug": "queer-lexikon",
+    "externalUrl": "https://queer-lexikon.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "fab fa-twitter",
+      "facebookUrl": "fab fa-facebook",
+      "instagramUrl": "fab fa-instagram",
+      "youtubeUrl": "fab fa-youtube",
+      "patreonUrl": "fab fa-patreon",
+      "tumblrUrl": "fab fa-tumblr",
+      "linkedinUrl": "fab fa-linkedin-in",
+      "emailUrl": "fas fa-envelope"
+    },
+    "title": "Queer Sözlük",
+    "description": "Queer Sözlük, queer topluluğuna geniş bilgi ve destek sağlayan bir online kaynaktır. Cinsel, romantik, cinsiyet çeşitliliğinden zihinsel sağlık ve destek gruplarına kadar değişen konuları kapsar. Eğitim, farkındalık ve topluluk hikayeleri için bir merkezdir."
+  },
+  {
+    "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+    "slug": "transformering-se",
+    "externalUrl": "https://transformering.se/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Stockholm, Sweden",
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": "Stockholm County",
+    "city": "Stockholm",
+    "latLng": [
+      59.32932349999999,
+      18.0685808
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "twitterUrl": "https://twitter.com/rfslungdom",
+      "instagramUrl": "https://www.instagram.com/rfsl_official",
+      "facebookUrl": "http://www.facebook.com/transformering"
+    },
+    "title": "Transformering.se",
+    "description": "RFSL Ungdom ve RFSL tarafından yürütülen ve transseksüellik ve cinsiyet kimliği konularında destek ve bilgi sunan bir İsveç kaynak merkezi. İçerikler arasında haklar, ilişkiler ve cinsiyet onaylamalı bakımın nasıl çalıştığı yer alıyor. Transgender olan bireyler, kişisel trans deneyimi olanlar veya cinsiyet kimliklerini/söylemlerini sorgulayan kişiler, aynı zamanda onları destekleyen yakınları, profesyoneller veya gönüllü çalışanlar için tasarlanmıştır."
+  },
+  {
+    "id": "be017772-af87-4920-ae62-1a3e961d216a",
+    "slug": "transamsterdam",
+    "externalUrl": "https://www.transamsterdam.nl/",
+    "tags": [
+      "artists-creators",
+      "education-awareness"
+    ],
+    "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.35914529999999,
+      4.9263607
+    ],
+    "email": "info@transamsterdam.nl",
+    "socialMedia": {
+      "linktr": "linktr.ee/transamsterdam"
+    },
+    "town": "Amsterdam-Oost",
+    "title": "TransAmsterdam",
+    "description": "TransAmsterdam, Amsterdam'daki sanat, kültür ve yaşam tarzına odaklanmış bir trans organizasyondur. Çeşitli hizmetler aracılığıyla trans topluluğuna destek olmaktadır. Bunlar arasında Trans & Friends kafe, InClusion ve diğer etkinlikler aracılığıyla buluşma fırsatları yaratmak bulunmaktadır. Ayrıca Trans Art School'daki atölye çalışmaları, temalı toplantılar ve tiyatro prodüksiyonları aracılığıyla yetenek geliştirmeyi teşvik eder. Son olarak, transseksüel ve non-binary sanatçılar ve performans sanatçıları için bir sanat ve kültür platformu sunmaktadır."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -1051,6 +1865,31 @@
     "socialMedia": null,
     "title": "The Gender Centre Inc.",
     "description": "The Gender Centre Inc., cinsiyet kimliğinin keşfini ve cinsiyet disforisinin hafifletilmesine yardımcı olabilecek çok çeşitli özel hizmetler sunmaktadır. Trans ve cinsiyet ifadesini yaşayan kişilere, kendilerini otantik olarak yaşama ve keşfetme yolculuklarının her aşamasında destek olmaktadır. Konaklama, davetsiz misafir yönetimi, eğitim & eğitim, danışmanlık & ruh sağlığı hizmetleri, gruplar, haberler ve kaynaklar sunmaktadır."
+  },
+  {
+    "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+    "slug": "learning-with-love-the-2023-pflag-national-convention",
+    "externalUrl": "https://pflag.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories"
+    ],
+    "address": "Washington, DC, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "county": "District of Columbia",
+    "latLng": [
+      38.9071923,
+      -77.0368707
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Sevgiyle Öğrenme: 2023 PFLAG Ulusal Kongresi",
+    "description": "PFLAG tarafından düzenlenen, bağlantı kurma, ağ oluşturma, öğrenme ve deneyim paylaşma imkanı sunan dört günlük bir etkinlik. Kongre, LGBTQ+ bireyler ve onları seven kişiler için adil, adaletli ve onaylayıcı bir dünya oluşturma misyonlarını desteklemek için atölye çalışmaları, paneller ve sunumlar düzenleyecek."
   },
   {
     "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
@@ -1080,6 +1919,46 @@
     "description": "Özgürlük Merkezi, WA çevresindeki LGBTIQA+ gençler için geniş kapsamlı destek hizmetleri sağlar, bunlar arasında düş-in seansları, toplum geliştirme, danışmanlık ve çok daha fazlası bulunur. Tüm LGBTIQA+ gençlerin dahil hissetmesi, bağlanması ve saygı görmesi için çalışırlar. Ayrıca ebeveynlere, profesyonellere, topluluklara ve organizasyonlara eğitim ve rehberlik sağlarlar."
   },
   {
+    "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
+    "slug": "point-of-pride",
+    "externalUrl": "https://www.pointofpride.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Gurur Noktası",
+    "description": "Gurur Noktası, sağlık ve wellness bakımına ihtiyaç duyan trans bireylere mali yardım ve doğrudan destek sağlar. Yardım programları, yıllık transgender cerrahi fonlarından, HRT Erişim fonlarına, elektroliz desteğine ve güvenli bir şekilde bulamayan veya karşılayamayan trans bireylere ücretsiz göğüs bağları ve femme şekillendirici sağlama hizmetlerine kadar çeşitlilik gösterir."
+  },
+  {
+    "id": "c6a77c4c-7aa3-47b3-b385-8573e1ba3a78",
+    "slug": "transmann-ev",
+    "externalUrl": "https://transmann.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": "info@transmann.de",
+    "socialMedia": {},
+    "title": "TransMann e.V.",
+    "description": "TransMann e.V., tüm Almanya çapında tüm Kadından-Erkeğe (FzM/FtM) Trans* ve Inter*-insanlara geniş çapta destek sağlayan gönüllü, kar amacı gütmeyen bir organizasyondur. Hizmetler arasında grup toplantıları, çevrimiçi bilgiler ve kaynaklar, Peer-to-Peer danışmanlık, eğitim materyalleri ve halka açık görünümler bulunur. Ayrıca, trans*-deneyimli doktorlar ve terapistler hakkında ulusal çapta bir veritabanı da bulundururlar. Ana hedef kitleleri FzM-Trans* ve Inter* kişiler olsa da, kaynaklarını ve desteğini aile üyelerine, arkadaşlara, eşlere, eğitim kurumlarına ve işverenlere de genişletirler."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -1092,6 +1971,51 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Dünya çapında zulüm ve şiddetle karşı karşıya kalan LGBTQ+ bireyler için destek olmayı ve yardım etmeyi hedefleyen önemli bir online platform. Sarsılmaz bir taahhütle, web sitesi acil durumda olanları hayat kurtaran kaynaklara, acil yardıma ve güvenli kaçış yollarına bağlar. Yerel organizasyonlarla ve şefkatli destekçilerin bir ağıyla ortaklık yaparak, RainbowRailroad.org, savunuculuk, hukuki yardım ve yer değiştirme desteği sağlamak için durmaksızın çalışır, böylece bireylerin zulümden kaçıp sığınağa ulaşmasına olanak sağlar. İnsan haklarını savunarak, hayatları kurtararak ve daha kapsayıcı bir dünya yaratmayı teşvik ederek, RainbowRailroad.org, güvenlik ve özgürlük arayan LGBTQ+ bireyler için bir umut ve koruma ışığı olmaktadır."
+  },
+  {
+    "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+    "slug": "blaq-aboriginal-corporation",
+    "externalUrl": "https://blaq.org.au/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "Redfern NSW 2016, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Redfern",
+    "county": "City of Sydney",
+    "latLng": [
+      -33.892215,
+      151.205873
+    ],
+    "email": "admin@blaq.org.au",
+    "socialMedia": null,
+    "title": "BlaQ Aboriginal Corporation",
+    "description": "BlaQ Aboriginal Corporation, yenilik, dahil etme, anlayış ve savunuculuk aracılığıyla Aborijin ve Torres Boğazı Adaları LGBTQ+SB topluluğunu desteklemeye ve güçlendirmeye adanmış bir topluluk organizasyonudur."
+  },
+  {
+    "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
+    "slug": "baby-making-for-everybody",
+    "externalUrl": "https://www.babymakingforeverybody.com/",
+    "tags": [
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Herkes İçin Bebek Yapma",
+    "description": "Geleneksel heteroseksüel-nükleer-aile modelinin dışında çeşitli aile yaratma yöntemlerinin nasıl bir rehberi ve kutlaması LGBTQ+ ve solo ebeveynler için. Kitap, adım adım bir rehber sunar ve kişisel anlatılarla birlikte, potansiyel ebeveynlere ailelerini büyütme konusunda bir yol haritası sağlar."
   },
   {
     "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
@@ -1200,6 +2124,29 @@
     "description": "1975'te kurulan Denizatı Kulübü Victoria, trans topluluğu için kaynaklar, toplum hizmeti ve destek sağlar. Trans-dostu bir hizmet dizini ve üyelerin bağlantı kurabileceği yaklaşan bir çevrimiçi platformu içerir."
   },
   {
+    "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
+    "slug": "a-complete-guide-to-transmasculine-reproduction",
+    "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
+    "tags": [
+      "transmasculine",
+      "healthcare",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transmasculine Üremeye Dair Kapsamlı Bir Rehber",
+    "description": "Transmasculine fertilitesi, hamilelik, doğum sonrası, laktasyon ve ebeveynlik hakkında bilgiler sunan kapsamlı bir rehber. Kaynak, trans-onaylayıcı sağlık hizmeti sağlayıcıları, araştırılmış SSS, çeşitli kaynaklar ve transmasculine bireylerin ebeveynlik yolculuklarında eğitim ve destek sunmak için daha fazlasını içerir."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -1304,6 +2251,30 @@
     "description": "Transgendermap.com, cinsiyet kimliği konusunda soruları olan veya transgender spektrumda bir yere sahip olan kişilere pratik bilgi ve rehberlik sağlamayı hedefleyen bir çevrimiçi kaynaktır. Web sitesi, transgender terminolojisini anlama, geçiş süreçleri, hukuki meseleler, sağlık hizmetleri ve sayısız kişisel hikâye gibi çok çeşitli konuları içerir. Amacı, insanların kişisel yolculuklarını, cinsiyet kimliğinin ve transgender deneyimlerinin birçok yönüne bir 'harita' veya rehber sağlayarak yönlendirmesine yardımcı olmaktır. En güncel ve doğru bilgi için lütfen gerçek siteyi ziyaret edin."
   },
   {
+    "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+    "slug": "the-genderaid",
+    "externalUrl": "https://genderaid.org/en",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "info@genderaid.org",
+    "socialMedia": null,
+    "town": "Amsterdam-Zuid",
+    "title": "GenderAid",
+    "description": "GenderAid, genital cinsiyet cerrahisi için bir karar yardımcısıdır, tedavi seçenekleri hakkında tam ve güvenilir bilgi sağlamayı amaçlar. Hollanda sağlık sistemine odaklanır, WPATH kurallarına uygun olarak geliştirilmiştir ve non-binary, genderfluid ve genderqueer bireyler de dahil olmak üzere tüm transgender topluluğu için geliştirilmiştir."
+  },
+  {
     "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
     "slug": "transfolk-of-wa",
     "externalUrl": "https://www.transfolkofwa.org/",
@@ -1333,6 +2304,95 @@
     "socialMedia": null,
     "title": "TransFolk of WA",
     "description": "Batı Avustralya'daki transseksüel insanlar ve sevdikleri için bir akran destek hizmeti. Çevrimiçi gruplar, önerilen hizmetler ve kaynaklar sunar ve çeşitli etkinlikler düzenler."
+  },
+  {
+    "id": "f2625d38-e181-4231-8344-214adb6edf36",
+    "slug": "transcend-australia",
+    "externalUrl": "https://transcend.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transcend Australia",
+    "description": "Transcend Australia’ın amacı, trans ve cinsiyet çeşitliliği olan çocukların ve ailelerinin, bakıcılarının yaşamlarını desteklemek, doğrulamak ve kutlamaktır. Tüm Avustralya'daki ailelere bilgi, destek ve yönlendirmeler sağlarlar ve trans ve cinsiyet çeşitliliği olan çocukları ve gençleri güçlendirmeye çalışırlar."
+  },
+  {
+    "id": "f48634db-fe71-426c-be84-622b3282bad7",
+    "slug": "planned-parenthood",
+    "externalUrl": "https://www.plannedparenthood.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": "1-800-230-7526",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Planlanan Ebeveynlik",
+    "description": "Planlanan Ebeveynlik milyonlarca kişiye dünya genelinde hayati üreme sağlığı hizmeti, cinsel eğitim ve bilgi sağlar. Hizmetler arasında kürtaj, doğum kontrolü, STD testi ve tedavisi, transgender hormon terapisi ve daha fazlası bulunur. Online ve telehealth randevuları mevcuttur."
+  },
+  {
+    "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+    "slug": "rfsl-swedish-federation-lgbtq-rights",
+    "externalUrl": "https://www.rfsl.se/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "RFSL - Lezbiyen, Gay, Biseksüel, Transgender ve Queer Hakları için İsveç Federasyonu",
+    "description": "RFSL, LGBTQ hakları ile ve için çalışan bir İsveç organizasyonudur. Transgender topluluğu için hayati kaynaklar, toplum desteği, eğitim ve farkındalık, hukuki rehberlik, sağlık hizmetleri ve daha fazlasını sağlarlar. RFSL ayrıca uluslararası düzeyde LGBTQ haklarını da desteklemektedir."
+  },
+  {
+    "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+    "slug": "apotheek-all-about-medication",
+    "externalUrl": "https://www.apotheek.nl/",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Apotheek.nl - İlaçlar Hakkında Her Şey",
+    "description": "Çeşitli ilaçlar hakkında güvenilir bilgiler sunan bir kaynak. Site, videolar, sağlıkta güncel konular, aşılama, koronavirüs ve eczane bakımı hakkında bilgiler içerir. Bilgileri Hollanda dilinde sağlar ve Ukrayna mültecileri için 50 anahtar ilacı çevirir."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

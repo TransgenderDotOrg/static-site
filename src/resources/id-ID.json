@@ -36,6 +36,29 @@
     "description": "San Mateo County Pride Center adalah organisasi model kolaborasi dan pusat belanja satu atap untuk komunitas LGBTQ+. Kami menawarkan program dan layanan yang kuat untuk mendukung anggota komunitas LGBTQ+ dari segala usia, termasuk pendidikan, pelatihan, acara komunitas, kelompok dukungan sebaya, program harian, terapi klinis, dan manajemen kasus."
   },
   {
+    "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
+    "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
+    "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "youth-services",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Memahami dan Mendukung Transseksualitas pada Anak dan Orang Tua",
+    "description": "Artikel Jerman ini menawarkan panduan komprehensif bagi keluarga yang berurusan dengan transseksualitas pada orang tua atau anak-anak. Ini memberikan informasi tentang prosedur kunci dan sumber daya, menawarkan bimbingan dari memahami dan menerima situasi hingga mengejar perawatan yang relevan."
+  },
+  {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
     "slug": "queerspace",
     "externalUrl": "https://www.queerspace.org.au/",
@@ -80,6 +103,28 @@
     "description": "Sebuah komunitas online yang dinamis dan pusat pengetahuan untuk individu yang tertarik pada terapi penggantian hormon buatan sendiri (HRT). Situs web mereka didedikasikan untuk menyediakan ruang yang aman dan inklusif di mana orang dapat mengakses informasi, sumber daya, dan dukungan untuk HRT yang diadministrasikan sendiri. Apakah Anda menjelajahi metode alternatif, mencari panduan tentang dosis dan administrasi, atau hanya ingin berhubungan dengan orang-orang yang memiliki pengalaman serupa, DIYHRT.cafe menawarkan banyak wawasan berharga, kisah pribadi, dan nasihat ahli untuk membantu Anda membuat keputusan yang tepat tentang kesehatan dan kesejahteraan Anda."
   },
   {
+    "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
+    "slug": "stuttgarter-declaration-gender-self-determined",
+    "externalUrl": "https://die-erklaerung.de/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": "BW",
+    "city": "Stuttgart",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Deklarasi Stuttgarter: Gender. Diri. Ditentukan.",
+    "description": "Deklarasi Stuttgarter menekankan pentingnya perlakuan yang hormat terhadap orang transgender dan interseks. Ini menekankan pentingnya hak asasi manusia dalam layanan medis, psikoterapi, konsultasi, dan dukungan untuk individu transgender dan interseks. Dikembangkan oleh dokter, psikoterapis, aktivis hak asasi manusia, dan individu yang terkena dampak, menekankan hak untuk menentukan jenis kelamin sendiri dan kewajiban untuk perawatan medis menghormati penentuan diri ini."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -102,6 +147,36 @@
     },
     "title": "Kolektif DEiFYQTIBIPOC yang berada di Ngunnawal, Ngunawal dan Ngambri Country",
     "description": "Ini adalah pertemuan kolektif untuk komunitas DEiFYQTIBIPOC. Kelompok ini juga akan membahas Zine Maskulinitas Queer dan playlist spesifik mereka."
+  },
+  {
+    "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+    "slug": "bundesverband-trans",
+    "externalUrl": "https://www.bundesverband-trans.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+    "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+    "country": "DE",
+    "provinceOrState": "BE",
+    "city": "Berlin",
+    "latLng": [
+      52.4890033,
+      13.3333558
+    ],
+    "email": "info@bv-trans.de",
+    "socialMedia": null,
+    "town": "Bezirk Charlottenburg-Wilmersdorf",
+    "title": "Bundesverband Trans* e.V.",
+    "description": "Bundesverband Trans* e.V. adalah sebuah asosiasi nasional yang membela hak-hak orang trans* di Jerman, termasuk mereka yang mengidentifikasi diri sebagai transseksual, transgender, genderqueer, non-binari, dan trans*. Mereka bertujuan untuk reformasi hukum, politik, dan medis untuk meningkatkan kondisi untuk komunitas ini dengan mengorganisir lokakarya, menawarkan konsultasi, dan merilis publikasi."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -147,6 +222,79 @@
     "description": "Sebuah platform online komprehensif yang didedikasikan untuk mendukung individu yang sedang bertransisi dari wanita menjadi pria (FTM). Situs web mereka berfungsi sebagai sumber daya tepercaya, menawarkan berbagai informasi, bimbingan, dan konektivitas komunitas untuk mereka yang memulai perjalanan FTM mereka. Mulai dari saran praktis tentang terapi hormon dan opsi bedah hingga dukungan kesehatan mental dan cerita pribadi, FTMGuide.org bertujuan untuk memberdayakan individu dengan pengetahuan dan sumber daya yang mereka butuhkan untuk menjalani transisi mereka dengan percaya diri dan kejelasan."
   },
   {
+    "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+    "slug": "black-rainbow",
+    "externalUrl": "https://blackrainbow.org.au/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Darwin NT, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin",
+    "latLng": [
+      -12.4637333,
+      130.8444446
+    ],
+    "email": null,
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/blackrainbowaus/",
+      "twitter": "https://twitter.com/BlkRnBow",
+      "facebook": "https://www.facebook.com/blackrainbowaus/",
+      "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+      "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+    },
+    "title": "Black Rainbow",
+    "description": "Black Rainbow adalah perusahaan sosial sukarelawan LGBQTIA+SB Aborigin dan Torres Strait Islander nasional yang berfokus pada kesehatan dan kesejahteraan komunitas mereka. Ini berusaha untuk memperluas layanannya, meskipun tidak mendapat dana, melalui donasi, biaya untuk layanan dan penjualan materi pendidikan. Mereka memulai proyek layanan keliling, mendukung acara sosial, dan mengumpulkan dana untuk peningkatan komunitas dan penelitian tentang dampak kesehatan."
+  },
+  {
+    "id": "19d3bf2d-04ed-46e6-ac5b-b2e3c26a7dd1",
+    "slug": "minus-eighteen",
+    "externalUrl": "https://www.minus18.org.au/",
+    "tags": [
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Minus18",
+    "description": "Minus18 adalah organisasi amal Australia yang memperbaiki kehidupan kaum muda LGBTQIA+. Mereka menangani isolasi sosial dengan menciptakan ruang di mana orang muda bisa merasa diterima, dirayakan dan dapat berteman. Mereka juga menyelenggarakan pelatihan LGBTQIA+, sumber daya, dan kampanye digital, dengan tujuan menciptakan Australia yang bebas dari diskriminasi. Tujuan mereka adalah memperlengkapi orang muda dengan keterampilan dan peluang yang mereka butuhkan untuk berada di garis depan mendorong perubahan."
+  },
+  {
+    "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+    "slug": "us-trans-survey",
+    "externalUrl": "https://www.ustranssurvey.org/",
+    "tags": [
+      "education-awareness",
+      "community-stories",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "ustranssurvey@transequality.org",
+    "socialMedia": null,
+    "title": "Survei Trans AS",
+    "description": "Survei Trans AS adalah survei terbesar dari orang trans, oleh orang trans, di Amerika Serikat. Ini mendokumentasikan kehidupan dan pengalaman orang trans dan nonbinary berusia 16+ di AS dan wilayah AS. Survei dan laporan-laporannya telah menjadi sumber yang sangat penting, termasuk laporan tentang pengalaman orang-orang berkulit berwarna dan menurut negara bagian, membantu membentuk masa depan melalui suara-suara trans."
+  },
+  {
     "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
     "slug": "transfemscienceorg",
     "externalUrl": "https://transfemscience.org",
@@ -157,6 +305,180 @@
     ],
     "title": "transfemscience.org",
     "description": "Sebuah platform online yang revolusioner yang didedikasikan untuk menyediakan penelitian berbasis bukti, pendidikan, dan sumber daya untuk komunitas transgender dan non-biner, dengan fokus khusus pada terapi hormon feminisasi (FHT). Situs web mereka berfungsi sebagai pusat penting bagi individu yang mencari informasi yang dapat diandalkan dan terbaru tentang aspek medis, fisiologis, dan psikologis dari FHT. Melalui koleksi lengkap mereka dari studi yang ditinjau oleh rekan, artikel ahli, dan panduan praktis, situs mereka memberdayakan individu untuk membuat keputusan yang berdasarkan informasi tentang transisi dan kesehatan mereka."
+  },
+  {
+    "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+    "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+    "externalUrl": "https://www.nonbinary.ch/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "youtubeUrl": "https://www.youtube.com/channel/",
+      "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+    },
+    "title": "nonbinary.ch - Sebuah Sumber untuk Individu Non-binari",
+    "description": "Sebuah website Swiss yang komprehensif yang menyediakan informasi dan sumber daya terkait identitas gender non-binari. Website ini dimaksudkan untuk membantu individu yang sedang mengeksplorasi identitas gender mereka sendiri, atau orang-orang yang berinteraksi dengan individu non-binari, dengan cara memudahkan akses ke pengetahuan dasar. Situs ini juga memiliki blog, buletin, dan tautan ke sumber daya eksternal yang relevan seperti buku, film, dan penelitian."
+  },
+  {
+    "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
+    "slug": "the-pinnacle-foundation",
+    "externalUrl": "https://thepinnaclefoundation.org/",
+    "tags": [
+      "education-awareness",
+      "financial-aid-scholarships",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "The Pinnacle Foundation",
+    "description": "The Pinnacle Foundation adalah yayasan pendidikan Australia yang menyediakan beasiswa, bimbingan, dan kesempatan kepada pemuda LGBTQIA+ Australia. Beasiswa diberikan untuk studi penuh waktu di lembaga pendidikan tinggi umum di Australia."
+  },
+  {
+    "id": "2f23a24b-2e9d-4f83-9808-1e69981fba12",
+    "slug": "ftm-portal-net",
+    "externalUrl": "https://ftm-portal.net",
+    "tags": [
+      "transmasculine",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "FTM-Portal.net",
+    "description": "FTM-Portal.net adalah platform informasi berbahasa Jerman terbesar untuk transmen dan transmaskulinitas lainnya yang menyediakan pengalaman dan tips tentang berbagai situasi hidup. Sumber daya ini bermanfaat bagi setiap orang yang ditetapkan sebagai perempuan saat lahir yang tidak sepenuhnya atau sebagian mengidentifikasi dengan klasifikasi awal ini. Kerabat transmen dan pihak lain yang tertarik juga dapat mendaftar."
+  },
+  {
+    "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+    "slug": "tgns-transgender-network-switzerland",
+    "externalUrl": "https://www.tgns.ch/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/transgenderch",
+      "twitterUrl": "https://twitter.com/tgnsch",
+      "instagramUrl": "https://www.instagram.com/tgns.ch/"
+    },
+    "title": "TGNS Transgender Network Switzerland",
+    "description": "TGNS adalah jaringan untuk orang transgender di Swiss. Mereka menyediakan perwakilan hukum, berjuang untuk reformasi kesehatan, dan menawarkan sumber daya kesehatan mental untuk komunitas transgender. Mereka terlibat dalam berbagai program kesadaran dan pendidikan yang ditujukan untuk menciptakan lingkungan yang mendukung dan inklusif untuk individu yang mengidentifikasi diri sebagai transmaskulin, transfeminin, dan non-biner. TGNS juga memiliki layanan pemuda, kelompok pendukung, dan sumber daya untuk keluarga dan pasangan dari individu transgender."
+  },
+  {
+    "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+    "slug": "medicijnkosten-medication-costs-information",
+    "externalUrl": "https://www.medicijnkosten.nl/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Medicijnkosten - Informasi Biaya Obat",
+    "description": "Sebuah platform informatif yang menyediakan detail tentang biaya obat. Menawarkan data mengenai pembayaran kembali obat dan alternatif yang tersedia untuk individu yang mungkin tidak mampu membeli obat tertentu. Penting untuk perencanaan keuangan dalam bidang kesehatan."
+  },
+  {
+    "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+    "slug": "open-doors-youth-service",
+    "externalUrl": "https://www.opendoors.net.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": null,
+    "county": "South East Queensland",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+    },
+    "title": "Open Doors Youth Service",
+    "description": "Mendukung pemuda LGBTIQAP+ dan keluarganya di Queensland Tenggara. Menyediakan layanan seperti konseling kesehatan mental, program terapi kelompok, dukungan sosial, menyediakan makanan dan item sanitasi yang penting, mengamankan pekerjaan yang stabil dan perumahan, dan melakukan pelatihan dan pendidikan dengan sekolah, tempat kerja, dan keluarga."
+  },
+  {
+    "id": "313cd7c6-1051-437c-a1d1-b1297f4c49a8",
+    "slug": "stonewall-medical-centre-sexual-health-clinic-brisbane",
+    "externalUrl": "https://www.stonewall.com.au/",
+    "tags": [
+      "healthcare",
+      "HIV",
+      "STI",
+      "sex-workers",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "52 Newmarket Rd, Windsor QLD 4030, Australia",
+    "phoneNumber": "07 3857 1222",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Windsor",
+    "county": "Brisbane",
+    "latLng": [
+      -27.4378562,
+      153.0279458
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Stonewall Medical Centre dan Klinik Kesehatan Seksual – Brisbane",
+    "description": "Stonewall Medical Centre telah dengan bangga melayani kesehatan umum dan kesehatan seksual komunitas lesbian, gay, biseksual, transgender, interseks dan queer / bertanya (LGBTQIA+), pekerja seks, dan komunitas straight / heteroseksual di Brisbane sejak tahun 1995. Klinik ini menyediakan berbagai layanan termasuk HIV PEP & PrEP, pengujian STI, konsultasi untuk pekerja seks, perawatan medis untuk individu transgender dan gender yang beragam, pemantauan obat & peningkat citra steroid, dan rujukan di antara lainnya."
   },
   {
     "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
@@ -181,6 +503,104 @@
     "socialMedia": null,
     "title": "Meridian",
     "description": "Meridian telah menganjurkan dan mendukung komunitas LGBTIQA+ selama lebih dari 40 tahun, menawarkan berbagai layanan dan program di wilayah Canberra seperti layanan HIV, layanan kesejahteraan, program penjangkauan pekerja seks dan lainnya."
+  },
+  {
+    "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+    "slug": "australian-transgender-support-association-of-queensland",
+    "externalUrl": "https://www.atsaq.org.au/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "community-stories",
+      "social-services"
+    ],
+    "address": "Booval QLD 4304, Australia",
+    "phoneNumber": "(07) 3705 7663",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Booval",
+    "county": "City of Ipswich",
+    "latLng": [
+      -27.614358,
+      152.788861
+    ],
+    "email": "parker@atsaq.org.au",
+    "socialMedia": null,
+    "title": "Asosiasi Dukungan Transgender Australia dari Queensland",
+    "description": "Badan puncak Queensland yang mewakili individu transgender, beragam jenis kelamin, dan non-biner sejak 1990. Mereka menyediakan dukungan, advokasi, layanan, dan mengorganisir acara sosial untuk melayani komunitas transgender."
+  },
+  {
+    "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
+    "slug": "jim-collins-foundation",
+    "externalUrl": "https://jimcollinsfoundation.org/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": "New York, NY 10150, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7582228,
+      -73.9704871
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Jim Collins Foundation",
+    "description": "Misi dari Jim Collins Foundation (JCF) adalah untuk memberikan bantuan finansial kepada orang-orang transgender untuk operasi peneguhan gender. Yayasan ini menawarkan dua opsi hibah; The Founders' Grant yang menutupi 100% dari biaya operasi dan The Krysallis Anne Hembrough Legacy Fund yang menutupi 50% dari biaya operasi. Yayasan ini bertujuan untuk memberikan akses ke operasi vital ini bagi mereka yang menginginkannya tetapi karena diskriminasi yang merajalela terhadap orang-orang transgender, biaya semacam itu biasanya tidak mungkin dipenuhi."
+  },
+  {
+    "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
+    "slug": "transgender-india-transition-guide",
+    "externalUrl": "https://transgenderindia.com/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "IN",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "enquiry@transgenderindia.com",
+    "socialMedia": null,
+    "title": "Transgender India: Panduan Transisi Anda",
+    "description": "Transgender India menyediakan kursus, artikel dan sumber daya yang komprehensif untuk komunitas transgender di India. Ini mencakup topik mulai dari dasar-dasar terapi penggantian hormon, hak dan perlindungan hukum, hingga transisi sosial, dengan kursus yang dipimpin oleh spesialis dari berbagai bidang."
+  },
+  {
+    "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+    "slug": "queermed-deutschland-directory",
+    "externalUrl": "https://queermed-deutschland.de/",
+    "tags": [
+      "healthcare",
+      "transmasculine",
+      "non-binary",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/queermeddeutschland",
+      "instagramUrl": "https://instagram.com/queermeddeutschland",
+      "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+      "facebookUrl": "https://facebook.com/queermeddeutschland"
+    },
+    "title": "Direktori Queermed Deutschland",
+    "description": "Queermed Deutschland adalah direktori dokter, terapis, dan praktek yang direkomendasikan oleh komunitas LGBTQIA+, di Jerman. Tujuannya adalah untuk melawan diskriminasi dalam sistem perawatan kesehatan, memastikan perawatan kesehatan yang menghargai dan sensitif untuk semua orang. Ini mencakup berbagai opsi tambahan dalam kuesioner anonim untuk melayani berbagai individu dalam komunitas tersebut."
   },
   {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
@@ -434,6 +854,26 @@
     "description": "Sebuah platform online inovatif yang bertujuan untuk menciptakan sumber daya yang komprehensif dan terkini tentang hak LGBTQ+ global. Situs web mereka menyediakan basis data sentralisasi dari undang-undang, kebijakan, dan sikap masyarakat terhadap hak LGBTQ+ dari seluruh dunia. Dengan memetakan dan memvisualisasikan data tentang kesetaraan, inklusivitas, dan perlindungan hukum, EqualDex.com menawarkan alat yang kuat untuk aktivis, peneliti, dan individu yang berusaha memahami dan advokasi untuk hak LGBTQ+ dalam skala global. Jelajahi peta interaktif mereka, telusuri profil negara tertentu, dan tetap terinformasi tentang kemajuan dan tantangan terbaru yang dihadapi komunitas LGBTQ+ di seluruh dunia."
   },
   {
+    "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
+    "slug": "gender-affirmative-letter-access-project",
+    "externalUrl": "https://thegalap.org/",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Proyek Akses Surat Afirmasi Gender",
+    "description": "GALAP adalah platform untuk klinisi independen yang memberikan perawatan afirmasi gender. Mereka menawarkan sumber daya seperti direktori terapis, panduan penulisan surat untuk afirmasi gender dan lainnya. Harap dicatat, keahlian atau keahlian dari penandatangan janji tidak dapat diverifikasi oleh GALAP."
+  },
+  {
     "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
     "slug": "a-gender-agenda",
     "externalUrl": "https://genderrights.org.au/",
@@ -592,6 +1032,63 @@
     "description": "Pertama kali di Oakland, organisasi non-profit 501c3, untuk semua usia, pusat pelayanan komunitas LGBTQ semuanya. Layanan yang ditawarkan meliputi kelompok dukungan, dukungan kesehatan mental, bantuan perumahan, program pemuda, klinik hukum, dapur umum, dll. Program khusus juga diselenggarakan untuk anggota komunitas LGBTQ+ yang berusia lanjut dan anggota komunitas transgender."
   },
   {
+    "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+    "slug": "plume-transgender-nonbinary-healthcare",
+    "externalUrl": "https://getplume.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitter": "https://twitter.com/getplume",
+      "instagram": "https://www.instagram.com/getplume/",
+      "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+      "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+      "tiktok": "https://www.tiktok.com/@get.plume"
+    },
+    "title": "Plume",
+    "description": "Penyedia layanan kesehatan terbesar untuk komunitas trans dan nonbinary menawarkan berbagai layanan termasuk terapi hormon penegasan gender dan dukungan transisi hingga obat-obatan untuk kecemasan dan depresi. Layanan disediakan oleh tim yang dipimpin trans dengan pemahaman mendalam tentang kebutuhan kesehatan unik dari komunitas, bertujuan membuat Anda merasa nyaman, dilihat dan dirawat. Sebuah tempat di mana Anda bisa menjadi diri autentik Anda dan mendapatkan perawatan yang Anda butuhkan."
+  },
+  {
+    "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+    "slug": "trans-in-3-steps",
+    "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "johanna4711@zohomail.eu",
+    "socialMedia": {
+      "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+    },
+    "title": "Trans* dalam 3 Langkah",
+    "description": "Sebuah proyek yang berfungsi sebagai panduan untuk membantu selama transisi individu. Ini mencakup terminologi terkait trans*, informasi tentang cara mengetahui jika seseorang adalah trans*, sumber daya untuk konseling psikologis, prosedur medis, cerita keluar anekdotal, informasi hukum tentang perubahan nama dan status jenis kelamin, serta tautan ke berbagai sumber daya dan layanan."
+  },
+  {
     "id": "6f38810d-896c-4493-afe2-b612021122fc",
     "slug": "the-shed-melbourne",
     "externalUrl": "https://www.theshedsupport.org.au/",
@@ -616,6 +1113,51 @@
     "socialMedia": null,
     "title": "The Shed Melbourne",
     "description": "Sebuah kelompok dukungan berbasis di Melbourne untuk individu transmaskulin, menawarkan berbagai kegiatan dan sumber daya seperti pertemuan dukungan sebaya, klub olahraga, klub buku, sumber daya kesehatan mental, informasi dan dukungan operasi dan testosterone, program binder, dan banyak lagi."
+  },
+  {
+    "id": "7510c3ea-47b1-4a60-bfaf-bb98b6f6b5b2",
+    "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
+    "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
+    "tags": [
+      "legal"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Melacak Serangan terhadap Hak-Hak LGBTQ di Parlemen Negara Bagian AS",
+    "description": "Dalam beberapa tahun terakhir, negara bagian telah memajukan sejumlah besar undang-undang yang menyerang hak-hak LGBTQ, terutama anak muda transgender. ACLU melacak serangan ini dan bekerja sama dengan jaringan afiliasi nasional kami untuk mendukung orang-orang LGBTQ di mana saja. Sementara lebih banyak negara setiap tahunnya berusaha untuk mengesahkan undang-undang yang melindungi orang-orang LGBTQ, parlemen negara bagian memajukan undang-undang yang menargetkan orang-orang transgender, membatasi perlindungan lokal, dan memungkinkan penggunaan agama untuk mendiskriminasi. ACLU tidak akan berhenti mengkritik serangan-serangan kejam ini di seluruh negeri."
+  },
+  {
+    "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+    "slug": "national-queer-trans-therapists-of-color-network",
+    "externalUrl": "https://www.nqttcn.com/",
+    "tags": [
+      "mental-health",
+      "social-services"
+    ],
+    "address": "Baltimore, MD 21211, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MD",
+    "city": "Baltimore",
+    "latLng": [
+      39.3289463,
+      -76.63838319999999
+    ],
+    "email": "info@nqttcn.com",
+    "socialMedia": {
+      "facebookUrl": "Facebook-f",
+      "twitterUrl": "Twitter",
+      "instagramUrl": "Instagram"
+    },
+    "title": "National Queer & Trans Therapists of Color Network",
+    "description": "National Queer & Trans Therapists of Color Network adalah organisasi keadilan penyembuhan yang berkomitmen untuk mengubah kesehatan mental bagi orang-orang queer dan trans berkulit hitam. Mereka bekerja di persimpangan gerakan untuk keadilan sosial dan bidang kesehatan mental."
   },
   {
     "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
@@ -763,6 +1305,63 @@
     "description": "Pusat Nasional untuk Kesetaraan Transgender adalah sebuah organisasi yang berjuang untuk mengubah kebijakan dan sikap masyarakat agar memahami dan menerima orang-orang transgender. NCTE menyediakan informasi tentang berbagai isu yang mempengaruhi komunitas Transgender termasuk penuaan, anti-kekerasan, pekerjaan, keluarga, kesehatan & HIV, perumahan & tunawisma, dan lainnya."
   },
   {
+    "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+    "slug": "transgender-law-center",
+    "externalUrl": "https://transgenderlawcenter.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "Oakland, CA 94612, USA",
+    "phoneNumber": "510-587-9696",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8113159,
+      -122.2682245
+    ],
+    "email": "info@transgenderlawcenter.org",
+    "socialMedia": null,
+    "title": "Transgender Law Center",
+    "description": "Transgender Law Center adalah organisasi nasional terbesar yang dipimpin oleh trans yang menganjurkan penentuan nasib sendiri untuk semua orang. Dengan menjaga sumber daya dan publikasi yang kuat, Pusat ini membimbing individu melalui tantangan hukum umum dan pertanyaan yang sering dihadapi oleh orang transgender. TLC juga memberdayakan komunitas menuju gerakan pembebasan nasional jangka panjang yang dipimpin oleh trans."
+  },
+  {
+    "id": "88a19313-994c-4908-a518-c09b531743e9",
+    "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
+    "externalUrl": "https://dgti.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/dgti.eV",
+      "twitterUrl": "https://twitter.com/dgti_eV",
+      "instagramUrl": "https://www.instagram.com/dgti_ev/",
+      "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
+    },
+    "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+    "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) adalah sebuah organisasi profesional di seluruh Jerman yang memperjuangkan penerimaan dan kesetaraan trans, intergender, non-binary, dan agender di semua lapisan masyarakat. dgti menyediakan konsultasi peer-to-peer, informasi hukum, berita, dan memiliki berbagai program sumber daya untuk konsultan trans* dan profesional medis."
+  },
+  {
     "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
     "slug": "the-inner-circle",
     "externalUrl": "https://theinnercircle.org.za/",
@@ -811,6 +1410,55 @@
     "description": "Situs web ini menyediakan panduan langkah demi langkah untuk mereka yang ingin memperbarui nama atau jenis kelamin mereka di Florida. Langkah-langkah tersebut termasuk mengajukan permohonan di pengadilan, dan memperbarui kartu Jaminan Sosial, lisensi pengemudi, paspor, dan akta kelahiran."
   },
   {
+    "id": "91296a03-5c7f-4105-9ba7-2aa9e8bf5223",
+    "slug": "parents-of-gender-diverse-children",
+    "externalUrl": "https://www.pgdc.org.au/",
+    "tags": [
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness",
+      "mental-health",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@pgdc.org.au",
+    "socialMedia": {},
+    "title": "Orangtua Anak yang Beragam Gender",
+    "description": "Orangtua Anak yang Beragam Gender menyediakan dukungan, konektivitas, dan sumber daya kepada orangtua dan mereka yang membesarkan anak transgender dan beragam gender di Australia. Organisasi ini menawarkan dukungan sebaya yang rahasia dan tidak berprasangka, pertemuan bulanan, Parent Hub online, dan pengembangan profesional dan pembicara."
+  },
+  {
+    "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+    "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+    "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": "+31(0)20 444 0542",
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "genderteam-poli@vumc.nl",
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+    },
+    "town": "Amsterdam-Zuid",
+    "title": "Amsterdam UMC - Pusat Pengetahuan dan Perawatan Gender Dysforia",
+    "description": "Pusat Pengetahuan dan Perawatan untuk Disforia Gender di Amsterdam UMC mengkhususkan diri dalam memberikan perawatan medis dan dukungan psikologis kepada orang-orang yang merasa jenis kelamin mereka saat lahir tidak sesuai dengan identitas mereka. Pusat ini menerima keanekaragaman individu, menyesuaikan layanannya dengan kebutuhan pribadi, dan diakui secara internasional karena keahliannya dalam mengobati inkongruensi gender. Pusat ini juga melakukan penelitian untuk meningkatkan pemahaman dan pengobatan individu transgender dan menawarkan pelatihan kepada profesional kesehatan baru."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -842,6 +1490,28 @@
     },
     "title": "Trans Lifeline",
     "description": "Trans Lifeline adalah organisasi yang dipimpin oleh trans yang menawarkan dukungan sebaya dan sumber daya untuk komunitas transgender. Dengan fokus pada dukungan komunitas, mikrogrant, dan hotline, mereka bertujuan untuk menyediakan orang trans dengan koneksi dan sumber daya yang mereka butuhkan untuk berkembang. Trans Lifeline juga berjuang untuk komunitas trans melalui inisiatif seperti #SafeHotlines."
+  },
+  {
+    "id": "a0bc83c3-3566-4529-9560-bf98eb404461",
+    "slug": "transliving-international",
+    "externalUrl": "https://transliving.co.uk/main/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transliving International",
+    "description": "Transliving International adalah kelompok dukungan global untuk komunitas transgender yang menyediakan majalah online, acara klub malam, acara, dan platform belanja. Ia memperkuat suara semua orang yang beragam gender dan trans-orang dengan menawarkan bantuan, nasihat, cerita pribadi, dan fitur."
   },
   {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
@@ -877,6 +1547,25 @@
     },
     "title": "The Trevor Project",
     "description": "The Trevor Project adalah organisasi nirlaba Amerika yang menyediakan layanan pencegahan bunuh diri untuk pemuda LGBTQ+. Situs ini menyediakan sumber daya berharga bagi komunitas transgender, termasuk intervensi krisis dan garis hidup pencegahan bunuh diri, TrevorChat, dan TrevorText serta bimbingan tentang kesehatan mental, layanan sosial, dan kelompok dukungan."
+  },
+  {
+    "id": "a4f258ec-17b7-4477-bd90-a7580ab66086",
+    "slug": "gender-dysphoria-1177-vaardguiden",
+    "externalUrl": "https://www.1177.se/liv--halsa/konsidentitet-och-sexuell-laggning/konsdysfori/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Disforia Gender - 1177 Vårdguiden",
+    "description": "Sumber informasi yang komprehensif tentang disforia gender yang disediakan oleh panduan kesehatan 1177 di Swedia, membahas apa itu, bagaimana perasaannya, bagaimana mencari bantuan dan berbagai pilihan pengobatan. Ini melayani dengan memberikan informasi detail bagi mereka yang mengalami disforia gender dan mendukung mereka dalam perjalanan mereka."
   },
   {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
@@ -947,6 +1636,30 @@
     "town": "Rondebosch",
     "title": "GOOD HOPE Metropolitan Community Church",
     "description": "Sebuah komunitas Kristen yang teologis progresif dan inklusif yang didirikan atas prinsip-prinsip Yesus Kristus yang merayakan keragaman dan menyediakan ruang yang aman, tanpa penilaian di mana semua orang diterima. Bagian dari kongregasi Kristen inklusif yang berbasis di Cape Town, Afrika Selatan dan bagian dari denominasi internasional yang lebih besar yang dikenal sebagai Metropolitan Community Churches (MCC)."
+  },
+  {
+    "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+    "slug": "transfamily",
+    "externalUrl": "https://www.transfamily.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+    },
+    "title": "Transfamily",
+    "description": "Sebuah grup dukungan sebaya untuk orang tua, saudara kandung, keluarga besar dan teman dari orang yang beragam dalam hal gender dan trans. Grup ini menawarkan sumber daya, acara, dan platform untuk cerita masyarakat. Grup ini juga menawarkan buku Transfamily yang menyediakan informasi dan wawasan yang berguna tentang komunitas transgender."
   },
   {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
@@ -1027,6 +1740,107 @@
     "description": "Sebuah organisasi yang dikendalikan oleh komunitas LGBTIQ+ yang menyediakan layanan kesehatan dan kesejahteraan untuk komunitas yang beragam dalam hal seks, gender dan seksualitas, termasuk dukungan dan pencegahan HIV, konseling, dan layanan kekerasan dalam keluarga."
   },
   {
+    "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+    "slug": "queer-lexikon",
+    "externalUrl": "https://queer-lexikon.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "fab fa-twitter",
+      "facebookUrl": "fab fa-facebook",
+      "instagramUrl": "fab fa-instagram",
+      "youtubeUrl": "fab fa-youtube",
+      "patreonUrl": "fab fa-patreon",
+      "tumblrUrl": "fab fa-tumblr",
+      "linkedinUrl": "fab fa-linkedin-in",
+      "emailUrl": "fas fa-envelope"
+    },
+    "title": "Queer Lexikon",
+    "description": "Queer Lexikon adalah sumber daya online yang menyediakan informasi lengkap dan dukungan untuk komunitas queer. Membahas topik yang bervariasi dari keanekaragaman seksual, romantis, gender hingga kesehatan mental dan kelompok dukungan. Ini adalah pusat untuk pendidikan, kesadaran, dan cerita komunitas."
+  },
+  {
+    "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+    "slug": "transformering-se",
+    "externalUrl": "https://transformering.se/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Stockholm, Sweden",
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": "Stockholm County",
+    "city": "Stockholm",
+    "latLng": [
+      59.32932349999999,
+      18.0685808
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "twitterUrl": "https://twitter.com/rfslungdom",
+      "instagramUrl": "https://www.instagram.com/rfsl_official",
+      "facebookUrl": "http://www.facebook.com/transformering"
+    },
+    "title": "Transformering.se",
+    "description": "Sebuah pusat sumber daya Swedia yang dijalankan oleh RFSL Ungdom dan RFSL yang menawarkan dukungan dan informasi terkait isu-isu identitas gender dan transgender. Konten mencakup hak, hubungan, dan bagaimana perawatan penegasan gender berfungsi. Ini dirancang untuk individu yang transgender, memiliki pengalaman trans pribadi, atau mempertanyakan identitas / ekspresi gender mereka, serta orang yang mereka cintai, profesional, atau pekerja sukarela yang mendukung mereka."
+  },
+  {
+    "id": "be017772-af87-4920-ae62-1a3e961d216a",
+    "slug": "transamsterdam",
+    "externalUrl": "https://www.transamsterdam.nl/",
+    "tags": [
+      "artists-creators",
+      "education-awareness"
+    ],
+    "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.35914529999999,
+      4.9263607
+    ],
+    "email": "info@transamsterdam.nl",
+    "socialMedia": {
+      "linktr": "linktr.ee/transamsterdam"
+    },
+    "town": "Amsterdam-Oost",
+    "title": "TransAmsterdam",
+    "description": "TransAmsterdam adalah organisasi trans yang berfokus pada seni, budaya, dan gaya hidup di Amsterdam. Organisasi ini mendukung komunitas transgender melalui berbagai pilar. Ini termasuk menciptakan peluang untuk bertemu melalui Trans & Friends café, InClusion, dan acara lainnya. Selain itu, organisasi ini juga mempromosikan pengembangan bakat melalui lokakarya, pertemuan bertema, dan produksi teater di Trans Art School. Terakhir, organisasi ini menawarkan platform seni dan budaya untuk dan oleh artis dan pelaku transgender, non-biner."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -1051,6 +1865,31 @@
     "socialMedia": null,
     "title": "The Gender Centre Inc.",
     "description": "The Gender Centre Inc. menyediakan berbagai layanan khusus yang memungkinkan eksplorasi identitas gender dan bantuan untuk mengurangi dysphoria gender. Ini mendukung orang-orang trans dan berpenyuaran gender di setiap tahap perjalanan mereka saat mereka mengeksplorasi dan hidup dengan rasa diri yang otentik. Ini menawarkan akomodasi, manajemen kasus, pendidikan & pelatihan, layanan kesehatan mental & konseling, grup, berita, dan sumber daya."
+  },
+  {
+    "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+    "slug": "learning-with-love-the-2023-pflag-national-convention",
+    "externalUrl": "https://pflag.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories"
+    ],
+    "address": "Washington, DC, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "county": "District of Columbia",
+    "latLng": [
+      38.9071923,
+      -77.0368707
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Belajar Dengan Cinta: Konvensi Nasional PFLAG 2023",
+    "description": "Sebuah acara selama empat hari yang diselenggarakan oleh PFLAG untuk saling terhubung, membangun jaringan, belajar, dan berbagi pengalaman. Konvensi ini akan menyelenggarakan lokakarya, panel, dan presentasi untuk mendukung misi mereka menciptakan dunia yang penuh pengertian, adil, dan menguatkan untuk orang-orang LGBTQ+ dan mereka yang mencintai mereka."
   },
   {
     "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
@@ -1080,6 +1919,46 @@
     "description": "Freedom Centre menyediakan berbagai jenis layanan dukungan untuk pemuda LGBTIQA+ di sekitar WA, termasuk sesi bertemu dan berbicara, pengembangan komunitas, konseling, dan lainnya. Mereka bekerja ke arah membuat semua pemuda LGBTIQA+ merasa dipahami, terhubung, dan dihargai. Mereka juga memberikan pelatihan dan panduan kepada orangtua, profesional, komunitas, dan organisasi."
   },
   {
+    "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
+    "slug": "point-of-pride",
+    "externalUrl": "https://www.pointofpride.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Titik Kebanggaan",
+    "description": "Titik Kebanggaan menyediakan bantuan finansial dan dukungan langsung kepada orang-orang trans yang membutuhkan perawatan kesehatan dan kesejahteraan. Program bantuan berkisar dari dana operasi transgender tahunan, dana akses HRT, dukungan elektrolisis dan penyediaan binder dada gratis dan pakaian pengecil bentuk tubuh wanita kepada orang-orang trans yang tidak mampu atau menemukan mereka dengan aman."
+  },
+  {
+    "id": "c6a77c4c-7aa3-47b3-b385-8573e1ba3a78",
+    "slug": "transmann-ev",
+    "externalUrl": "https://transmann.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": "info@transmann.de",
+    "socialMedia": {},
+    "title": "TransMann e.V.",
+    "description": "TransMann e.V. adalah organisasi sukarela, non-profit yang memberikan berbagai jenis dukungan untuk semua orang Trans* dan Inter* dari Wanita ke Pria (FzM/FtM) di seluruh Jerman. Layanan mereka meliputi pertemuan kelompok, informasi online dan sumber daya, konseling Peer-to-Peer, materi pendidikan dan penampilan publik. Mereka juga mempertahankan database nasional dokter dan terapis yang berpengalaman Trans*. Meskipun audiens utama mereka adalah orang Trans* FzM dan Inter*, mereka juga memperluas sumber daya dan dukungan mereka kepada anggota keluarga, teman, pasangan, institusi pendidikan, dan majikan."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -1092,6 +1971,51 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Sebuah platform online penting yang didedikasikan untuk membantu dan membela individu LGBTQ+ yang menghadapi penganiayaan dan kekerasan di seluruh dunia. Dengan komitmen yang tidak goyah, website ini menghubungkan mereka yang berada dalam bahaya langsung ke sumber daya penyelamatan hidup, bantuan darurat, dan jalur aman ke keamanan. Melalui kemitraan dengan organisasi lokal dan jaringan pendukung yang penuh belas kasih, RainbowRailroad.org bekerja tanpa lelah untuk menyediakan advokasi, bantuan hukum, dan dukungan relokasi, memungkinkan individu untuk kabur dari penganiayaan dan menemukan perlindungan. Dengan memperjuangkan hak asasi manusia, menyelamatkan hidup, dan mendorong dunia yang lebih inklusif, RainbowRailroad.org berfungsi sebagai mercusuar harapan dan perlindungan bagi individu LGBTQ+ yang mencari keamanan dan kebebasan."
+  },
+  {
+    "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+    "slug": "blaq-aboriginal-corporation",
+    "externalUrl": "https://blaq.org.au/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "Redfern NSW 2016, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Redfern",
+    "county": "City of Sydney",
+    "latLng": [
+      -33.892215,
+      151.205873
+    ],
+    "email": "admin@blaq.org.au",
+    "socialMedia": null,
+    "title": "BlaQ Aboriginal Corporation",
+    "description": "BlaQ Aboriginal Corporation adalah sebuah organisasi masyarakat yang didedikasikan untuk mendukung dan memberdayakan komunitas LGBTQ+SB Aborigin dan Torres Strait Islander melalui inovasi, inklusi, pemahaman, dan advokasi."
+  },
+  {
+    "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
+    "slug": "baby-making-for-everybody",
+    "externalUrl": "https://www.babymakingforeverybody.com/",
+    "tags": [
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Pembuatan Bayi untuk Semua Orang",
+    "description": "Panduan bagaimana caranya dan perayaan berbagai metode pembuatan keluarga di luar model keluarga heteroseksual-nuklir tradisional untuk LGBTQ+ dan orangtua solo. Buku ini menyediakan panduan langkah demi langkah di samping narasi pribadi, memberikan calon orangtua sebuah rencana untuk mengembangkan keluarganya."
   },
   {
     "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
@@ -1200,6 +2124,29 @@
     "description": "Didirikan pada tahun 1975, Seahorse Club Victoria menyediakan sumber daya, layanan masyarakat dan dukungan untuk komunitas transgender. Ini mencakup direktori layanan yang ramah trans dan platform online yang akan datang untuk anggota terhubung."
   },
   {
+    "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
+    "slug": "a-complete-guide-to-transmasculine-reproduction",
+    "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
+    "tags": [
+      "transmasculine",
+      "healthcare",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Panduan Lengkap tentang Reproduksi Transmaskulin",
+    "description": "Panduan komprehensif yang menawarkan informasi tentang fertilitas transmaskulin, kehamilan, pascapersalinan, laktasi, dan orangtua. Sumber daya ini mencakup penyedia layanan kesehatan yang mendukung trans, FAQs yang diteliti, berbagai sumber daya dan lebih banyak lagi untuk mendidik dan mendukung individu transmaskulin dalam perjalanan mereka menjadi orangtua."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -1304,6 +2251,30 @@
     "description": "Transgendermap.com adalah sumber daya online yang bertujuan untuk memberikan informasi praktis dan panduan kepada orang yang sedang mempertanyakan identitas gender mereka atau berada di suatu tempat dalam spektrum transgender. Situs web ini mencakup berbagai topik seperti pemahaman terminologi transgender, proses transisi, masalah hukum, kesehatan, dan banyak cerita pribadi. Tujuannya adalah untuk membantu individu menavigasi perjalanan pribadi mereka dengan menyediakan 'peta' atau panduan untuk berbagai aspek identitas gender dan pengalaman transgender. Silakan kunjungi situs aslinya untuk informasi yang paling baru dan akurat."
   },
   {
+    "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+    "slug": "the-genderaid",
+    "externalUrl": "https://genderaid.org/en",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "info@genderaid.org",
+    "socialMedia": null,
+    "town": "Amsterdam-Zuid",
+    "title": "The GenderAid",
+    "description": "The GenderAid adalah alat bantu keputusan untuk operasi jenis kelamin, bertujuan untuk menyediakan informasi lengkap dan dapat diandalkan tentang pilihan perawatan. Ini berfokus pada sistem perawatan kesehatan Belanda, mengikuti pedoman WPATH, dan telah dikembangkan untuk semua bagian dari komunitas transgender, termasuk individu non-binari, genderfluid, dan genderqueer."
+  },
+  {
     "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
     "slug": "transfolk-of-wa",
     "externalUrl": "https://www.transfolkofwa.org/",
@@ -1333,6 +2304,95 @@
     "socialMedia": null,
     "title": "TransFolk of WA",
     "description": "Sebuah layanan dukungan sebaya untuk orang-orang transgender dan orang-orang yang mereka cintai di Australia Barat. Menawarkan grup online, layanan dan sumber daya yang direkomendasikan, dan mengadakan berbagai acara."
+  },
+  {
+    "id": "f2625d38-e181-4231-8344-214adb6edf36",
+    "slug": "transcend-australia",
+    "externalUrl": "https://transcend.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transcend Australia",
+    "description": "Tujuan dari Transcend Australia adalah untuk mendukung, mengakui, dan merayakan kehidupan anak-anak dan keluarga serta pengasuh yang beragam gender dan trans. Mereka menyediakan informasi, dukungan dan rujukan kepada keluarga di seluruh Australia dan bekerja untuk memberdayakan anak-anak dan remaja yang beragam gender dan trans."
+  },
+  {
+    "id": "f48634db-fe71-426c-be84-622b3282bad7",
+    "slug": "planned-parenthood",
+    "externalUrl": "https://www.plannedparenthood.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": "1-800-230-7526",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Planned Parenthood",
+    "description": "Planned Parenthood menyediakan perawatan kesehatan reproduksi yang sangat penting, pendidikan seks, dan informasi kepada jutaan orang di seluruh dunia. Layanan mencakup aborsi, kontrol kelahiran, pengujian dan pengobatan STD, terapi hormon transgender, dan lainnya. Janji temu online dan telehealth tersedia."
+  },
+  {
+    "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+    "slug": "rfsl-swedish-federation-lgbtq-rights",
+    "externalUrl": "https://www.rfsl.se/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "RFSL - Federasi Swedia untuk Hak-Hak Lesbian, Gay, Biseksual, Transgender, dan Queer",
+    "description": "RFSL adalah organisasi Swedia yang bekerja dengan dan untuk hak-hak LGBTQ. Mereka menyediakan sumber daya penting, dukungan komunitas, edukasi & kesadaran, bimbingan hukum, layanan kesehatan, dan lainnya untuk komunitas transgender. RFSL juga mempromosikan hak-hak LGBTQ di tingkat internasional."
+  },
+  {
+    "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+    "slug": "apotheek-all-about-medication",
+    "externalUrl": "https://www.apotheek.nl/",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Apotheek.nl - Semua tentang Obat",
+    "description": "Sebuah sumber yang menawarkan informasi tepercaya tentang berbagai obat-obatan. Situs ini mencakup video, peristiwa terkini dalam kesehatan, informasi tentang vaksinasi, coronavirus, dan perawatan farmasi. Situs ini menyediakan informasi dalam bahasa Belanda dan menerjemahkan 50 obat kunci untuk pengungsi Ukraina."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

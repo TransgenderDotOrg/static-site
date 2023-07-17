@@ -1,0 +1,25 @@
+{
+  "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+  "title": "BlaQ Aboriginal Corporation",
+  "description": "BlaQ Aboriginal Corporation is a community organisation dedicated to supporting and empowering the Aboriginal and Torres Strait Islander LGBTQ+SB community through innovation, inclusion, understanding and advocacy.",
+  "slug": "blaq-aboriginal-corporation",
+  "externalUrl": "https://blaq.org.au/",
+  "tags": [
+    "community-stories",
+    "education-awareness",
+    "social-services",
+    "support-groups"
+  ],
+  "address": "Redfern NSW 2016, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Redfern",
+  "county": "City of Sydney",
+  "latLng": [
+    -33.892215,
+    151.205873
+  ],
+  "email": "admin@blaq.org.au",
+  "socialMedia": null
+}

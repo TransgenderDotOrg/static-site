@@ -1,0 +1,26 @@
+{
+  "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+  "title": "Transgender Law Center",
+  "description": "Transgender Law Center is the largest national trans-led organization advocating self-determination for all people. By maintaining robust resources and publications, the Center guides individuals through common legal challenges and questions transgender people encounter. TLC also empowers communities towards a long-term, national, trans-led movement for liberation.",
+  "slug": "transgender-law-center",
+  "externalUrl": "https://transgenderlawcenter.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "Oakland, CA 94612, USA",
+  "phoneNumber": "510-587-9696",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Oakland",
+  "county": "Alameda County",
+  "latLng": [
+    37.8113159,
+    -122.2682245
+  ],
+  "email": "info@transgenderlawcenter.org",
+  "socialMedia": null
+}

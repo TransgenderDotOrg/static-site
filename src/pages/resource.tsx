@@ -10,6 +10,7 @@ import languages from "../../languages.json";
 import { SearchInput } from "../ui/navigation/header";
 import useSearch from "../hooks/useSearch";
 import i18n from "../i18n";
+import { usePagination } from "../hooks/usePagination";
 
 export interface Resource {
   id: string;
@@ -21,17 +22,70 @@ export interface Resource {
   latLng: [number, number];
 }
 
+export interface PaginatorPageProps {
+  currentPage: number;
+  offset: number;
+  maxPage: number;
+  setPage: (page: number) => void;
+}
+
+export const PaginatorPage = ({
+  currentPage,
+  offset,
+  maxPage,
+  setPage,
+}: PaginatorPageProps) => {
+  const page =
+    currentPage < 3
+      ? currentPage + offset - (currentPage - 1)
+      : currentPage + offset - 2;
+
+  return (
+    <Box
+      onClick={() => {
+        if (page === currentPage || page > maxPage) {
+          return;
+        }
+
+        setPage(page);
+      }}
+      sx={{
+        width: 24,
+        height: 24,
+        display: "flex",
+        alignItems: "center",
+        cursor:
+          page === currentPage
+            ? "not-allowed"
+            : page > maxPage
+            ? "unset"
+            : "pointer",
+      }}
+    >
+      {page <= maxPage && (
+        <Typography
+          variant="body1"
+          sx={{ color: page === currentPage ? "#666666" : "#0D6EFD" }}
+        >
+          {page}
+        </Typography>
+      )}
+    </Box>
+  );
+};
+
 export const ResourcePage = () => {
   const [isLoadingResources, setIsLoadingResources] = React.useState(true);
   const [resources, setResources] = React.useState<Resource[]>([]);
   const [searchParams, setSearchParams] = useSearchParams();
+  const resultsRef = React.useRef<HTMLDivElement>(null);
 
   const queryTags = React.useMemo(
     () =>
       decodeURIComponent(searchParams.get("tags") ?? "")
         .split(",")
         .filter(Boolean) ?? [],
-    [searchParams]
+    [searchParams.get("tags")]
   );
 
   React.useEffect(() => {
@@ -59,13 +113,64 @@ export const ResourcePage = () => {
     keys: ["title", "description", "externalUrl"],
   });
 
-  const resultsWithTagsFiltered = React.useMemo(
+  const filteredResources = React.useMemo(
     () =>
       results.filter((result) =>
         queryTags.every((tag) => result.tags.includes(tag))
       ),
     [results, queryTags]
   );
+
+  const pageString = searchParams.get("page");
+
+  const {
+    canNavigateNext,
+    canNavigatePrev,
+    currentPage,
+    currentPageData,
+    maxPage,
+    nextPage,
+    prevPage,
+    setPage,
+  } = usePagination<Resource>(
+    filteredResources,
+    20,
+    pageString ? parseInt(pageString, 10) : 1
+  );
+
+  React.useEffect(() => {
+    // reset page when search value changes or query tags change
+    setPage(1);
+  }, [searchValue, queryTags]);
+
+  React.useEffect(() => {
+    // update page query param when page changes and not the first page
+    if (currentPage > 1) {
+      searchParams.set("page", currentPage.toString());
+
+      setSearchParams(searchParams);
+    } else {
+      searchParams.delete("page");
+
+      setSearchParams(searchParams);
+    }
+  }, [currentPage]);
+
+  React.useEffect(() => {
+    if (pageString) {
+      const parsedPage = parseInt(pageString, 10);
+
+      setPage(parsedPage);
+    }
+  }, [pageString]);
+
+  const setPageAndScroll = (page: number) => {
+    setPage(page);
+
+    if (resultsRef.current) {
+      resultsRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  };
 
   return (
     <Box sx={{ padding: "2rem" }}>
@@ -148,6 +253,7 @@ export const ResourcePage = () => {
           </Box>
         </Box>
         <Box
+          ref={resultsRef}
           sx={{
             marginLeft: "1.25rem",
             width: "100%",
@@ -173,9 +279,9 @@ export const ResourcePage = () => {
             defaultValue={searchValue}
           />
           <Typography variant="body1" sx={{ marginTop: "1rem" }}>
-            {resultsWithTagsFiltered.length} {i18n.t("resources.results")}
+            {currentPageData.length} {i18n.t("resources.results")}
           </Typography>
-          {resultsWithTagsFiltered.map((result, i) => (
+          {currentPageData.map((result, i) => (
             <Box key={i} sx={{ marginTop: "1rem" }}>
               <Typography
                 variant="body1"
@@ -195,91 +301,83 @@ export const ResourcePage = () => {
               </Typography>
             </Box>
           ))}
-          {/*<Box
+          <Box
             sx={{ display: "flex", flexDirection: "row", marginTop: "1rem" }}
           >
             <Box
+              onClick={() => {
+                if (!canNavigatePrev) return;
+
+                prevPage();
+                resultsRef.current?.scrollIntoView({
+                  behavior: "smooth",
+                  block: "start",
+                });
+              }}
               sx={{
                 width: 24,
                 height: 24,
                 display: "flex",
                 alignItems: "center",
-                cursor: "pointer",
+                cursor: canNavigatePrev ? "pointer" : "not-allowed",
+
+                "& path": {
+                  fill: canNavigatePrev ? "#0D6EFD" : "#666666",
+                },
               }}
             >
               <ResultsLeft />
             </Box>
+            <PaginatorPage
+              currentPage={currentPage}
+              setPage={setPageAndScroll}
+              maxPage={maxPage}
+              offset={0}
+            />
+            <PaginatorPage
+              currentPage={currentPage}
+              setPage={setPageAndScroll}
+              maxPage={maxPage}
+              offset={1}
+            />
+            <PaginatorPage
+              currentPage={currentPage}
+              setPage={setPageAndScroll}
+              maxPage={maxPage}
+              offset={2}
+            />
+            <PaginatorPage
+              currentPage={currentPage}
+              setPage={setPageAndScroll}
+              maxPage={maxPage}
+              offset={3}
+            />
+            <PaginatorPage
+              currentPage={currentPage}
+              setPage={setPageAndScroll}
+              maxPage={maxPage}
+              offset={4}
+            />
             <Box
-              sx={{
-                width: 24,
-                height: 24,
-                display: "flex",
-                alignItems: "center",
+              onClick={() => {
+                if (!canNavigateNext) return;
+
+                nextPage();
+                resultsRef.current?.scrollIntoView({
+                  behavior: "smooth",
+                  block: "start",
+                });
               }}
-            >
-              <Typography variant="body1" sx={{ color: "#666666" }}>
-                1
-              </Typography>
-            </Box>
-            <Box
               sx={{
                 width: 24,
                 height: 24,
                 display: "flex",
                 alignItems: "center",
-                cursor: "pointer",
-              }}
-            >
-              <Typography variant="body1" sx={{ color: "#0D6EFD" }}>
-                2
-              </Typography>
-            </Box>
-            <Box
-              sx={{
-                width: 24,
-                height: 24,
-                display: "flex",
-                alignItems: "center",
-                cursor: "pointer",
-              }}
-            >
-              <Typography variant="body1" sx={{ color: "#0D6EFD" }}>
-                3
-              </Typography>
-            </Box>
-            <Box
-              sx={{
-                width: 24,
-                height: 24,
-                display: "flex",
-                alignItems: "center",
-                cursor: "pointer",
-              }}
-            >
-              <Typography variant="body1" sx={{ color: "#0D6EFD" }}>
-                4
-              </Typography>
-            </Box>
-            <Box
-              sx={{
-                width: 24,
-                height: 24,
-                display: "flex",
-                alignItems: "center",
-                cursor: "pointer",
-              }}
-            >
-              <Typography variant="body1" sx={{ color: "#0D6EFD" }}>
-                5
-              </Typography>
-            </Box>
-            <Box
-              sx={{
-                width: 24,
-                height: 24,
-                display: "flex",
-                alignItems: "center",
-                cursor: "pointer",
+                cursor: canNavigateNext ? "pointer" : "not-allowed",
+
+                "& path": {
+                  fill: canNavigateNext ? "#0D6EFD" : "#666666",
+                },
               }}
             >
               <ResultsRight />
@@ -291,9 +389,11 @@ export const ResourcePage = () => {
                 marginLeft: "1.25rem",
               }}
             >
-              1-20 of 120 Results
+              {(currentPage - 1) * 20 + 1}-
+              {(currentPage - 1) * 20 + currentPageData.length} of{" "}
+              {filteredResources.length}
             </Box>
-            </Box>*/}
+          </Box>
         </Box>
       </Box>
     </Box>

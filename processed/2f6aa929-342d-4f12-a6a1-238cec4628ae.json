@@ -1,0 +1,33 @@
+{
+  "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+  "title": "TGNS Transgender Network Switzerland",
+  "description": "TGNS is a network for transgender people in Switzerland. They provide legal advocacy, work towards healthcare reforms, and offer mental health resources to the transgender community. They engage in a variety of awareness and education programs aimed at creating a supportive and inclusive environment for individuals identifying as transmasculine, transfeminine, and non-binary. TGNS also has youth services, support groups, and resources for family and partners of transgender individuals.",
+  "slug": "tgns-transgender-network-switzerland",
+  "externalUrl": "https://www.tgns.ch/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "CH",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/transgenderch",
+    "twitterUrl": "https://twitter.com/tgnsch",
+    "instagramUrl": "https://www.instagram.com/tgns.ch/"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
+  "slug": "jim-collins-foundation",
+  "externalUrl": "https://jimcollinsfoundation.org/",
+  "tags": [
+    "healthcare",
+    "financial-aid-scholarships"
+  ],
+  "address": "New York, NY 10150, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.7582228,
+    -73.9704871
+  ],
+  "email": null,
+  "socialMedia": null,
+  "town": "Manhattan",
+  "i18n": {
+    "en-US": {
+      "title": "Jim Collins Foundation",
+      "description": "The mission of the Jim Collins Foundation (JCF) is to provide financial assistance to transgender people for gender-affirming surgeries. This foundation offers two grant options; The Founders' Grant which covers 100% of the surgical costs and The Krysallis Anne Hembrough Legacy Fund which covers 50% of surgical costs. The foundation aims to provide access to these vital surgeries for those who want it but due to prevalent discrimination against transgender people, such costs are usually impossible to meet."
+    },
+    "de-DE": {
+      "title": "Jim Collins Stiftung",
+      "description": "Die Mission der Jim Collins Stiftung (JCF) ist es, transgender Menschen finanzielle Unterstützung für geschlechtsbestätigende Operationen zu bieten. Diese Stiftung bietet zwei Zuschussoptionen an; Der Founders' Grant, der 100% der Operationskosten deckt und der Krysallis Anne Hembrough Legacy Fund, der 50% der Operationskosten deckt. Das Ziel der Stiftung ist es, Zugang zu diesen lebenswichtigen Operationen für diejenigen zu ermöglichen, die es möchten, aber aufgrund der weit verbreiteten Diskriminierung von Transgender-Menschen sind solche Kosten normalerweise nicht zu erfüllen."
+    },
+    "pt-PT": {
+      "title": "Fundação Jim Collins",
+      "description": "A missão da Fundação Jim Collins (JCF) é fornecer assistência financeira a pessoas transgênero para cirurgias de afirmação de gênero. Esta fundação oferece duas opções de bolsa; A Bolsa dos Fundadores que cobre 100% dos custos cirúrgicos e O Fundo Legado de Krysallis Anne Hembrough que cobre 50% dos custos cirúrgicos. O objetivo da fundação é fornecer acesso a essas cirurgias vitais para aqueles que as desejam, mas devido à discriminação prevalente contra as pessoas transgênero, tais custos geralmente são impossíveis de serem atendidos."
+    },
+    "id-ID": {
+      "title": "Jim Collins Foundation",
+      "description": "Misi dari Jim Collins Foundation (JCF) adalah untuk memberikan bantuan finansial kepada orang-orang transgender untuk operasi peneguhan gender. Yayasan ini menawarkan dua opsi hibah; The Founders' Grant yang menutupi 100% dari biaya operasi dan The Krysallis Anne Hembrough Legacy Fund yang menutupi 50% dari biaya operasi. Yayasan ini bertujuan untuk memberikan akses ke operasi vital ini bagi mereka yang menginginkannya tetapi karena diskriminasi yang merajalela terhadap orang-orang transgender, biaya semacam itu biasanya tidak mungkin dipenuhi."
+    },
+    "es-ES": {
+      "title": "Fundación Jim Collins",
+      "description": "La misión de la Fundación Jim Collins (JCF) es proporcionar asistencia financiera a personas transgénero para cirugías de afirmación de género. Esta fundación ofrece dos opciones de becas; La Beca de los Fundadores que cubre el 100% de los costos quirúrgicos y El Fondo de Legado de Krysallis Anne Hembrough que cubre el 50% de los costos quirúrgicos. La fundación tiene como objetivo proporcionar acceso a estas cirugías vitales para aquellos que lo desean pero debido a la prevalente discriminación contra las personas transgénero, tales costos suelen ser imposibles de cubrir."
+    },
+    "fr-FR": {
+      "title": "Fondation Jim Collins",
+      "description": "La mission de la Fondation Jim Collins (JCF) est de fournir une aide financière aux personnes transgenres pour les chirurgies d'affirmation de genre. Cette fondation offre deux options de subventions ; La bourse des fondateurs qui couvre 100% des coûts chirurgicaux et le fonds d'héritage Krysallis Anne Hembrough qui couvre 50% des coûts chirurgicaux. La fondation vise à fournir l'accès à ces chirurgies vitales pour ceux qui le souhaitent, mais en raison de la discrimination prévalente contre les personnes transgenres, ces coûts sont généralement impossibles à rencontrer."
+    },
+    "zh-CN": {
+      "title": "吉姆·柯林斯基金会",
+      "description": "吉姆·柯林斯基金会（JCF）的使命是为跨性别者提供性别确认手术的财务援助。该基金会提供两种资助选项；创始人资助计划，可以支付100%的手术费用，和克里萨丽丝·安妮·亨布罗遗产基金，可以支付50%的手术费用。基金会的目标是为那些希望进行但由于对跨性别者的普遍歧视，这些费用通常无法负担的人提供接受这些重要手术的机会。"
+    },
+    "tr-TR": {
+      "title": "Jim Collins Vakfı",
+      "description": "Jim Collins Vakfı (JCF)'nın misyonu, transgender bireylere cinsiyet onaylayıcı ameliyatlar için maddi yardım sağlamaktır. Bu vakıf, iki hibe seçeneği sunar; Cerrahi maliyetlerin %100'ünü karşılayan Kurucular'ın Hibesi ve cerrahi maliyetlerin %50'sini karşılayan Krysallis Anne Hembrough Miras Fonu. Vakfın amacı, bu hayati ameliyatlara erişimi, transgender bireylere karşı yaygın ayrımcılık nedeniyle, bu tür maliyetlerin genellikle karşılanamaz olduğu kişilere sunmaktır."
+    },
+    "ja-JP": {
+      "title": "ジム・コリンズ基金",
+      "description": "ジム・コリンズ基金（JCF）の使命は、トランスジェンダーの人々に性別確認の手術に対する経済的援助を提供することです。この基金は二つの助成金オプションを提供しています。創設者助成金は手術費用の100％をカバーし、クリサリス・アン・ヘンブロウ・レガシーファンドは手術費用の50％をカバーします。この基金は、そのような手術を希望する者全てに利用可能性を提供することを目指しています。しかし、トランスジェンダーに対する広範囲な差別が原因で、そのような費用を滞なく支払うことは通常不可能です。"
+    },
+    "sw-KE": {
+      "title": "Jim Collins Foundation",
+      "description": "Dhima ya Jim Collins Foundation (JCF) ni kutoa msaada wa kifedha kwa watu wa jinsia mbili kwa upasuaji wa kuthibitisha jinsia. Msingi huu unatoa chaguzi mbili za ruzuku; The Founders' Grant ambayo inashughulikia 100% ya gharama za upasuaji na The Krysallis Anne Hembrough Legacy Fund ambayo inashughulikia 50% ya gharama ya upasuaji. Msingi huo unalenga kutoa ufikiaji wa upasuaji muhimu kwa wale wanaotaka lakini kutokana na ubaguzi wa kawaida dhidi ya watu wa jinsia mbili, gharama kama hizo kawaida ni ngumu kuzikidhi."
+    },
+    "ru-RU": {
+      "title": "Фонд Джима Коллинса",
+      "description": "Миссия Фонда Джима Коллинса (JCF) - предоставление финансовой помощи трансгендерным людям для операций по подтверждению гендера. Этот фонд предлагает два варианта грантов; Грант Основателей, который покрывает 100% хирургических расходов и Фонд наследия Кризалис Энн Хембро, который покрывает 50% хирургических расходов. Фонд стремится предоставить доступ к этим жизненно важным операциям для тех, кто хочет их, но из-за распространенной дискриминации против трансгендерных людей, такие расходы обычно невозможно покрыть."
+    },
+    "ko-KR": {
+      "title": "Jim Collins 재단",
+      "description": "Jim Collins 재단(JCF)의 임무는 트랜스젠더 사람들에게 성 정체성을 확인하는 수술에 대한 재정 지원을 제공하는 것입니다. 이 재단은 두 가지 장학금 옵션을 제공합니다. 창립자들의 장학금은 수술 비용의 100%를, Krysallis Anne Hembrough 유산 펀드는 수술 비용의 50%를 지원합니다. 이 재단의 목표는 이와 같은 중요한 수술에 대한 접근성을 제공하는 것이지만, 트랜스젠더 사람들에 대한 일반적인 차별 때문에 이러한 비용을 충족시키는 것은 대개 불가능합니다."
+    },
+    "vi-VN": {
+      "title": "Quỹ Jim Collins",
+      "description": "Sứ mệnh của Quỹ Jim Collins (JCF) là cung cấp hỗ trợ tài chính cho những người chuyển giới để thực hiện phẫu thuật xác nhận giới tính. Quỹ này cung cấp hai lựa chọn hỗ trợ: Quỹ Sáng lập viên, chi trả 100% chi phí phẫu thuật và Quỹ Di sản Krysallis Anne Hembrough, chi trả 50% chi phí phẫu thuật. Quỹ này nhằm cung cấp quyền tiếp cận với những ca phẫu thuật quan trọng cho những ai muốn, nhưng do phân biệt đối xử phổ biến đối với người chuyển giới, những chi phí như vậy thường không thể đáp ứng được."
+    },
+    "uk-UA": {
+      "title": "Фонд Джима Коллінса",
+      "description": "Місія Фонду Джима Коллінса (JCF) - надання фінансової допомоги трансгендерним людям для проведення операцій з підтвердження статі. Цей фонд пропонує два варіанти грантів; Грант засновників, який покриває 100% витрат на операцію та Кризалісс Енн Хембрау Легасі Фанд, який покриває 50% витрат на операцію. Фонд прагне забезпечити доступ до цих життєвих операцій для тих, хто цього бажає, але через поширену дискримінацію трансгендерів, такі витрати зазвичай неможливо забезпечити."
+    },
+    "ar-SA": {
+      "title": "مؤسسة جيم كولينز",
+      "description": "تتمثل مهمة مؤسسة جيم كولينز (JCF) في تقديم المساعدة المالية للأشخاص المتحولين جنسياً للجراحات المؤكدة للجنس. تقدم هذه المؤسسة خيارين للمنح؛ منحة المؤسسين التي تغطي 100% من تكاليف الجراحة وصندوق Krysallis Anne Hembrough Legacy الذي يغطي 50% من تكاليف الجراحة. تهدف المؤسسة إلى توفير الوصول إلى هذه الجراحات الحيوية لأولئك الذين يرغبون في ذلك ولكن بسبب التمييز المنتشر ضد الأشخاص المتحولين جنسياً، فإن هذه التكاليف تكون عادةً مستحيلة الوفاء."
+    },
+    "hi-IN": {
+      "title": "Jim Collins Foundation",
+      "description": "Jim Collins Foundation (JCF) का मिशन ट्रांसजेंडर लोगों को लिंग पुष्टिकरण सर्जरी के लिए वित्तीय सहायता प्रदान करना है। यह foundation दो अनुदान विकल्प प्रदान करती है; संस्थापकों की अनुदान जो सर्जिकल लागत का 100% कवर करती है और Krysallis Anne Hembrough Legacy Fund जो सर्जिकल लागत का 50% कवर करती है। Foundation का उद्देश्य उन लोगों के लिए इन महत्वपूर्ण सर्जरी की पहुँच प्रदान करना है जो इसे चाहते हैं लेकिन ट्रांसजेंडर लोगों के खिलाफ प्रचलित भेदभाव के कारण, ऐसी लागतें आमतौर पर पूरी करना असंभव होता है।"
+    },
+    "ur-PK": {
+      "title": "جم کالنز فاؤنڈیشن",
+      "description": "جم کالنز فاؤنڈیشن (JCF) کا مشن ٹرانسجنڈر لوگوں کو جنسی تصدیقی سرجری کے لئے مالی امداد فراہم کرنا ہے۔ یہ فاؤنڈیشن دو گرانٹ کے اختیارات پیش کرتا ہے؛ فاؤنڈرز گرانٹ، جو سرجری کی تمام خرچے ڈھانپتا ہے اور کریسیلس آن ہیمبرو لیگیسی فنڈ، جو سرجری کے نصف خرچے ڈھانپتا ہے۔ فاؤنڈیشن کا مقصد یہ ہے کہ وہ لوگ جو یہ چاہتے ہیں لیکن ٹرانسجنڈر لوگوں کے خلاف غالب تبصرے کی بنا پر، ایسے خرچے عموماً پورے کرنے میں ناممکن ہوتے ہیں،، ان سرجریوں تک رسائی مہیا کرنے کی کوشش کرتا ہے۔"
+    },
+    "bn-BD": {
+      "title": "জিম কলিন্স ফাউন্ডেশন",
+      "description": "জিম কলিন্স ফাউন্ডেশন (JCF) এর লক্ষ্য হল জেন্ডার-সমর্থিত সার্জারির জন্য ট্রান্সজেন্ডার মানুষদের অর্থনৈতিক সহায়তা প্রদান করা। এই ফাউন্ডেশন দুটি গ্রান্ট অপশন অফার করে; দ্য ফাউন্ডার্স' গ্রান্ট যা সার্জারিক খরচের 100% আচ্ছাদন করে এবং দ্য করাসলিস অ্যান হেম্ব্রো লেগাসি ফান্ড যা সার্জারিক খরচের 50% আচ্ছাদন করে। ফাউন্ডেশন টির লক্ষ্য এই অপরিহার্য সার্জারিগুলির প্রবেশ নিশ্চিত করা যাদের এর প্রয়োজন তবে ট্রান্সজেন্ডার মানুষদের বিরুদ্ধে ছড়িয়ে পড়া বিভেদকর আচরণ কারণে এইরকম খরচ সাধারণত পূরণ করা সম্ভব হয় না।"
+    },
+    "mr-IN": {
+      "title": "जिम कॉलिन्स फाउंडेशन",
+      "description": "जिम कॉलिन्स फाउंडेशन (JCF) चे उद्दीष्ट असलेल्या व्यक्तींना लिंग-प्रतिपादन सर्जरीसाठी आर्थिक मदत करणे आहे. ही फाउंडेशन दोन अनुदान पर्यायंची प्रस्तावना करते; संस्थापकांची अनुदान ज्याच्या मदतीने शल्यक्रियेच्या खर्चा 100% कवर केलेला असतात व ‘क्रिसालिस अन्न हेम्ब्रो वारसा कोष’ ज्याच्या मदतीने शस्त्रक्रियेच्या खर्चांची 50% कवर केलेली असते. फाउंडेशन च्या उद्दीष्टां पैकी एक म्हणजे या महत्वाच्या शस्त्रक्रिया सुलभ तरीते मिळवू आणि ज्यांनी ती इच्छित असेल, असे करण्यासाठी प्रयत्न करण्याचा आहे. प्रांतता येथे लिंगभेद केलेल्या व्यक्तींच्या विरोधात असलेल्या भेदभावामुळेच अस्थंपतित खर्च किंवा सामान्यता कबूल करणे किंवा सक्षमता प्राप्त करणे सामान्यत: अशक्य असतात."
+    },
+    "ta-IN": {
+      "title": "ஜிம் காலின்ஸ் அறக்கட்டளை",
+      "description": "ஜிம் காலின்ஸ் அறக்கட்டளை (JCF)ன் அதிரடி பல்லவி ஆண்டு மாநில முதலிட்டும் முதன்முதனாய் மருத்துவம் வைத்து பரிபாலித்து வருகிறது. இந்த அறக்கட்டளை 2 வகையான துணைகளை வழங்குகிறது, அவையே 'ஆதிசங்கிகள் துணை' என்பது முறைக்கு முறையாக 100% விலையை முழுவதுமாக மற்றும் 'கிரிசாலிஸ் அன்னே ஹெம்பரோ மரபு நிதி' என்பது முறைக்கு முறையாக 50% விலையை முழுவதுமாக மற்றும் டிரான்ஸ்ஜெண்டர் மக்களுக்கு எதிரான வெளிப்படையான வேதிமுறை மூலம் இவ்வாறாக விலைகளை முதலீடு செய்வது பொதுவாக சாத்தியமாகாதது."
+    },
+    "te-IN": {
+      "title": "జిమ్ కాలిన్స్ ఫౌండేషన్",
+      "description": "జిమ్ కాలిన్స్ ఫౌండేషన్ (JCF) యొక్క లక్ష్యం జెండర్-మధ్యస్థత శస్త్ర చికిత్సకు ఆర్థిక సహాయంను ట్రాన్స్జెండర్ వ్యక్తులకు అందించడం. ఈ ఫౌండేషన్ రెండు గ్రాంట్ ఎంపికలను అందిస్తుంది; ది ఫౌండర్స్' గ్రాంట్ అంటే శస్త్ర చికిత్స ఖర్చుల 100%ను కవర్ చేస్తుంది మరియు The Krysallis Anne Hembrough Legacy Fund అంటే శస్త్ర చికిత్స ఖర్చుల యొక్క 50%ను కవర్ చేస్తుంది. ఫౌండేషన్ ఆ అత్యవసర శస్త్ర చికిత్సలను అందరు పొందగలిగేలా చేసేందుకు ప్రయతిస్తోంది, వీటికి అగ్రహంగా ఉన్నవారెవరైనా కానీ, ట్రాన్స్జెండర్ వ్యక్తులపై వ్యాప్తిగా ఉన్న భేదభావం కారణంగా, అలాంటి ఖర్చులు సాధారణంగా పూర్తి చేసేందుకు అసాధ్యమాయే పరిస్థితి."
+    }
+  }
+}

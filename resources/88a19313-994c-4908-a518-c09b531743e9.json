@@ -1,0 +1,115 @@
+{
+  "id": "88a19313-994c-4908-a518-c09b531743e9",
+  "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
+  "externalUrl": "https://dgti.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/dgti.eV",
+    "twitterUrl": "https://twitter.com/dgti_eV",
+    "instagramUrl": "https://www.instagram.com/dgti_ev/",
+    "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "The Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) is a nationwide professional society in Germany that advocates for the acceptance and equality of trans, inter-gender, non-binary, and agender people at all levels of society. The dgti provides peer-to-peer consultation, legal information, news, and has various resource programs for trans* consultants and medical professionals."
+    },
+    "fr-FR": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "La Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) est une société professionnelle à l'échelle nationale en Allemagne qui plaide pour l'acceptation et l'égalité des personnes trans, inter-genre, non-binaires, et agenre à tous les niveaux de la société. La dgti fournit des consultations de pair à pair, des informations juridiques, des actualités et dispose de divers programmes de ressources pour les consultants trans* et les professionnels médicaux."
+    },
+    "es-ES": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "La Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) es una sociedad profesional a nivel nacional en Alemania que aboga por la aceptación y la igualdad de personas trans, intergénero, no binarias y agénero en todos los niveles de la sociedad. La dgti proporciona consulta de igual a igual, información legal, noticias y tiene varios programas de recursos para consultores trans* y profesionales médicos."
+    },
+    "de-DE": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Die Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) ist eine bundesweite Berufsvereinigung in Deutschland, die sich für die Akzeptanz und Gleichstellung von trans*, intergeschlechtlichen, nicht-binären und agender Menschen auf allen Ebenen der Gesellschaft einsetzt. Die dgti bietet Peer-to-Peer-Beratung, rechtliche Informationen, Nachrichten und verfügt über verschiedene Ressourcenprogramme für Trans*-Berater und medizinische Fachleute."
+    },
+    "tr-TR": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti), Almanya'da ulusal bir meslek birliği olup, trans, inter-cinsiyet, non-binary ve agender insanların toplumun her seviyesinde kabul ve eşitliği için savunmada bulunur. Dgti, eşten eşe danışmanlık, hukuki bilgi, haberler sunar ve trans* danışmanları ve tıbbi profesyoneller için çeşitli kaynak programlarına sahiptir."
+    },
+    "id-ID": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) adalah sebuah organisasi profesional di seluruh Jerman yang memperjuangkan penerimaan dan kesetaraan trans, intergender, non-binary, dan agender di semua lapisan masyarakat. dgti menyediakan konsultasi peer-to-peer, informasi hukum, berita, dan memiliki berbagai program sumber daya untuk konsultan trans* dan profesional medis."
+    },
+    "pt-PT": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "A Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) é uma sociedade profissional em todo o país na Alemanha que defende a aceitação e a igualdade de pessoas trans, inter-gênero, não-binárias e agênero em todos os níveis da sociedade. A dgti fornece consulta de pares, informações legais, notícias e possui vários programas de recursos para consultores trans* e profissionais médicos."
+    },
+    "sw-KE": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) ni chama cha kitaalamu cha kitaifa nchini Ujerumani kinachotetea kwa kukubalika na usawa wa watu wa trans, inter-jinsia, wasio na jinsia, na watu wasio na jinsia katika ngazi zote za jamii. Dgti inatoa ushauri wa rika kwa rika, habari ya kisheria, habari, na ina mipango mbalimbali ya rasilimali kwa washauri wa trans* na wataalamu wa matibabu."
+    },
+    "ko-KR": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti)는 트란스, 인터 젠더, 논 바이너리, 무 성별 사람들이 사회의 모든 계층에서 인정받을 수 있도록 옹호하는 독일 전국의 전문 학회입니다. dgti는 동료 간 상담, 법률 정보, 뉴스를 제공하며, 트란스* 상담사와 의료 전문가를 위한 다양한 자원 프로그램을 가지고 있습니다."
+    },
+    "vi-VN": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) là một tổ chức chuyên nghiệp toàn quốc tại Đức, ủng hộ sự chấp nhận và bình đẳng cho người chuyển giới, giới tính liên tục, người không nhị phân và người không giới tính ở tất cả các cấp độ của xã hội. Dgti cung cấp tư vấn từ người này sang người khác, thông tin pháp lý, tin tức và có chương trình tài nguyên đa dạng cho các tư vấn viên chuyển giới và các chuyên gia y tế."
+    },
+    "zh-CN": {
+      "title": "德国跨性别与双性别社会",
+      "description": "德国跨性别与双性别社会(dgti)是一个全国性的德国专业社团，倡导在社会的各个层面接受和平等对待跨性别、互性、非二元性别和无性别人群。dgti提供同伴之间的咨询，法律信息，新闻，以及为跨性别*顾问和医疗专业人员提供各种资源计划。"
+    },
+    "ru-RU": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) - это общенациональная профессиональная ассоциация в Германии, которая выступает за признание и равенство трансгендерных, интерсексуальных, небинарных и агендерных людей на всех уровнях общества. Dgti предлагает консультации на равных, юридическую информацию, новости и имеет различные программы ресурсов для консультантов по вопросам транс* и медицинских специалистов."
+    },
+    "ja-JP": {
+      "title": "ドイツトランスジェンダー及びインターセクシャル協会",
+      "description": "ドイツトランスジェンダー及びインターセクシャル協会（dgti）は、ドイツ全土で活動する専門団体で、すべての社会階層におけるトランス、インタージェンダー、ノンバイナリー、ジェンダーレスの人々の受容と平等を訴えています。 dgtiは、対等な相談、法的情報、ニュースを提供し、トランス*のコンサルタントや医療専門家向けのさまざまなリソースプログラムを持っています。"
+    },
+    "uk-UA": {
+      "title": "Дойче Гезелшафт фюр Трансидентитат унд Інтерсексуалітат",
+      "description": "Дойче Гезелшафт фюр Трансидентитат унд Інтерсексуалітат (dgti) - це загальнонаціональна професійна спільнота в Німеччині, яка домагається прийняття та рівності трансгендерних, інтергендерних, небінарних та агендерних людей на всіх рівнях суспільства. Dgti надає консультації від однолітків до однолітків, юридичну інформацію, новини та різні програми ресурсів для консультантів та медичних фахівців у галузі трансгендерних відносин."
+    },
+    "ar-SA": {
+      "title": "جمعية الهوية الجنسية والتحول الجنسي الألمانية",
+      "description": "جمعية الهوية الجنسية والتحول الجنسي الألمانية (dgti) هي جمعية مهنية على مستوى الوطن في ألمانيا تدافع عن القبول والمساواة للأشخاص ذوي الهوية الجنسية المتغيرة، الأشخاص بين الجنسين، الأشخاص غير الثنائيين، والأشخاص غير الجنسين في جميع مستويات المجتمع. تقدم الـ dgti استشارات زميل لزميل، معلومات قانونية، أخبار، ولديها برامج موارد مختلفة للمستشارين المتحولين جنسياً والمحترفين الطبيين."
+    },
+    "ur-PK": {
+      "title": "ڈچ ٹرانس اور انٹرسیکشوئلتی ایسوسی ایشن",
+      "description": "ڈچ ٹرانس اور انٹرسیکشوئلتی ایسوسی ایشن (dgti) جرمنی میں قومی پیمانے پر ایک پیشہ ورانہ انجمن ہے جو تمام سطحوں پر ٹرانس، انٹر جنس، غیر بائنری اور بلا جنس لوگوں کی قبولیت اور برابری کے حق میں کام کرتی ہے۔ ڈیجی ٹی آئی کی ترگیب پر مشاورت، قانونی معلومات، خبریں دیتی ہے، اور ٹرانس * مشورہ دہندگان اور طبی ماہرین کے لئے مختلف وسائل کے پروگرام ہوتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "डोयचे गेसलशाफ्ट फर ट्रांसिडेंटिटी उंद इंटरसेक्सुअलिटी",
+      "description": "डोयचे गेसलशाफ्ट फर ट्रांसाइडेंटिटी उंद इंटरसेक्सुअलिटी (dgti) जर्मनी में एक देशव्यापी पेशेवर समाज है जो समाज के सभी स्तरों पर ट्रांस, इंटर-जेंडर, गैर-बाइनरी, और अगैंडर व्यक्तियों की स्वीकृति और समानता के लिए समर्थन करता है। dgti सहकर्मी के लिए परामर्श प्रदान करता है, कानूनी जानकारी, समाचार, और ट्रांस* सलाहकारों और चिकित्सीय पेशेवरों के लिए विभिन्न संसाधन कार्यक्रम हैं।"
+    },
+    "mr-IN": {
+      "title": "जर्मन सोसायटी फॉर ट्रान्सआयडेंटिटी आणि इंटरसेक्स्युअलिटी",
+      "description": "डोयचे गेसेल्शाफ्ट फूर ट्रान्सआयदेंटिटी उंद इंटरसेक्सुअलिटी (dgti) ही जर्मनीतील एक राष्ट्रीय व्यावसायिक संस्था आहे जी त्रांस, इंटर-जेंडर, नॉन-बाइनरी आणि एजेंडर व्यक्तींच्या स्वीकारणे आणि समानतेच्या वचनास त्याने प्रतिष्ठान केलेले आहे. dgti मित्र-च्या-मित्रची सल्लाग्रहण, कायदेशीर खात्री, बातम्या, आणि ट्रान्स* सल्लागार आणि वैद्यकीय तज्ज्ञांसाठी विविध संसाधन कार्यक्रमे पुरवते."
+    },
+    "bn-BD": {
+      "title": "ডয়চে গেসেলশাফট ফুর ট্রান্সিডেনটিটাট উন্ড ইন্টারসেক্সুয়ালিটাট",
+      "description": "ডয়চে গেসেলশাফট ফুর ট্রান্সিডেনটিটাট উন্ড ইন্টারসেক্সুয়ালিটাট (dgti) হল জার্মানিতে একটি জাতীয় পেশাদার সমাজ, যা সমাজের সকল স্তরে ট্রান্স, ইন্টার-জেন্ডার, নন-বাইনারি এবং এজেন্ডার ব্যক্তিদের গ্রহণযোগ্যতা এবং সমানতার পক্ষে সংগীতময় করে। dgti পিয়ার-টু-পিয়ার পরামর্শ, আইনি তথ্য, খবর প্রদান করে এবং ট্রান্স* পরামর্শকারী এবং মেডিকেল পেশাদারদের জন্য বিভিন্ন সম্পদ প্রোগ্রাম আছে।"
+    },
+    "te-IN": {
+      "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+      "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) అనేది జర్మనీలోని దేశవ్యాప్త వృత్తి సంస్థ మరియు సమాజం అన్ని స్థాయుల్లో ట్రాన్స్*, ఇంటర్-జెండర్, నాన్-బైనరీ, మరియు అగెండర్ ప్రజల స్వీకారణ మరియు సమానత్వానికి మేరకు మేలు చేసేది. dgti సహపరిశీలన, చట్ట సమాచారం, వార్తలు అందిస్తుంది, మరియు ట్రాన్స్* కన్సల్టెంట్స్ మరియు వైద్య ప్రావిన్యుల కోసం వివిధ వనరుల కార్యక్రమాలను కలిగి ఉంటుంది."
+    },
+    "ta-IN": {
+      "title": "டெயுச்சே கெசெல்சாப்ட் போர் டிரான்ஸிடென்டிடாட் உண்ட் இன்டெர்ஸெக்ஷுவலிடாட்",
+      "description": "டெயுச்சே கெசெல்சாப்ட் போர் டிரான்ஸிடென்டிடாட் உண்ட் இன்டெர்ஸெக்ஷுவலிடாட் (dgti) என்பது ஜெர்மனியில் தேசிய அளவிலான தொழிற்சங்கத்தைக் குறிக்கின்றது, அது அனைத்து சமூக அளவுகளிலும் டிரான்ஸ், இன்டெர்-ஜென்டர், நான்-பைனரி, மற்றும் அஜெண்டர் மக்களின் ஏற்றுரைக்கையும், சமமானமாக முழு ஏற்றுப்பாட்டையும் எதிர்கொள்ளும். dgti பீர்டுபீர் ஆலோசனை, சட்டத்தின் தகவல், செய்திகள், மற்றும் டிரான்ஸ்* ஆலோசகர்கள் மற்றும் மருத்துவ நிபுணர்களுக்கான பல வளங்களுமான திட்டங்களை வழங்குகின்றது."
+    }
+  }
+}

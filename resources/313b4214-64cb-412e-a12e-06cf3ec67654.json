@@ -1,0 +1,110 @@
+{
+  "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+  "slug": "open-doors-youth-service",
+  "externalUrl": "https://www.opendoors.net.au/",
+  "tags": [
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "QLD",
+  "city": null,
+  "county": "South East Queensland",
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Open Doors Youth Service",
+      "description": "Supporting LGBTIQAP+ youth and their families in South East Queensland. Providing services like mental health counselling, group therapy programs, social supports, providing essential food & sanitary items, securing stable employment and housing, and conducting training & education with schools, workplaces, and families."
+    },
+    "zh-CN": {
+      "title": "开放门青年服务",
+      "description": "在昆士兰州东南部支持LGBTIQAP+ 青年及其家人。提供如心理健康咨询、团体心理疗法项目、社会支持、提供必需的食品和卫生用品、安定就业和住房，以及与学校、工作场所和家庭进行培训和教育等服务。"
+    },
+    "tr-TR": {
+      "title": "Açık Kapılar Gençlik Hizmeti",
+      "description": "Güney Doğu Queensland'da LGBTIQAP+ gençlerine ve ailelerine destek olmaktayız. Mental sağlık danışmanlığı, grup terapi programları, sosyal destekler, temel gıda ve hijyen malzemeleri sağlama, istikrarlı bir iş ve konut bulma, okullar, iş yerleri ve ailelerle eğitim ve öğretim yapma gibi hizmetler sunmaktayız."
+    },
+    "id-ID": {
+      "title": "Open Doors Youth Service",
+      "description": "Mendukung pemuda LGBTIQAP+ dan keluarganya di Queensland Tenggara. Menyediakan layanan seperti konseling kesehatan mental, program terapi kelompok, dukungan sosial, menyediakan makanan dan item sanitasi yang penting, mengamankan pekerjaan yang stabil dan perumahan, dan melakukan pelatihan dan pendidikan dengan sekolah, tempat kerja, dan keluarga."
+    },
+    "pt-PT": {
+      "title": "Serviço de Juventude de Portas Abertas",
+      "description": "Apoio à juventude LGBTIQAP+ e às suas famílias no Sudeste de Queensland. Fornecimento de serviços como aconselhamento em saúde mental, programas de terapia de grupo, suportes sociais, fornecimento de alimentos e itens sanitários essenciais, garantia de emprego e moradia estáveis, e condução de formação e educação com escolas, locais de trabalho e famílias."
+    },
+    "es-ES": {
+      "title": "Open Doors Youth Service",
+      "description": "Apoyando a los jóvenes LGBTIQAP+ y a sus familias en el Sureste de Queensland. Proporcionando servicios como asesoramiento para la salud mental, programas de terapia grupal, apoyo social, proporcionando alimentos esenciales y artículos de higiene, asegurando un empleo estable y vivienda, y realizando formación y educación con escuelas, lugares de trabajo y familias."
+    },
+    "de-DE": {
+      "title": "Open Doors Youth Service",
+      "description": "Unterstützt LGBTIQAP+ Jugendliche und ihre Familien in Südost-Queensland. Bereitstellung von Dienstleistungen wie psychologische Beratung, Gruppentherapieprogramme, soziale Unterstützung, Bereitstellung von lebensnotwendigen Lebensmitteln & Hygieneartikeln, Sicherung stetiger Beschäftigung und Wohnraum und Durchführung von Schulungen & Bildungsmaßnahmen mit Schulen, Arbeitsplätzen und Familien."
+    },
+    "fr-FR": {
+      "title": "Service Jeunesse Portes Ouvertes",
+      "description": "Soutenir les jeunes LGBTIQAP+ et leurs familles dans le sud-est du Queensland. Fournir des services tels que des conseils en santé mentale, des programmes de thérapie de groupe, des supports sociaux, fournir des produits alimentaires et sanitaires essentiels, garantir un emploi stable et un logement, et effectuer des formations et de l'éducation avec des écoles, des lieux de travail et des familles."
+    },
+    "sw-KE": {
+      "title": "Huduma ya Vijana ya Open Doors",
+      "description": "Kuunga mkono vijana wa LGBTIQAP+ na familia zao huko South East Queensland. Kutoa huduma kama ushauri wa afya ya akili, programu za tiba za kikundi, msaada wa kijamii, kutoa chakula muhimu & vitu vya usafi, kuhakikisha ajira imara na makazi, na kufanya mafunzo & elimu na shule, sehemu za kazi, na familia."
+    },
+    "vi-VN": {
+      "title": "Dịch Vụ Giới Trẻ Open Doors",
+      "description": "Hỗ trợ thanh thiếu niên LGBTIQAP+ và gia đình họ ở South East Queensland. Cung cấp các dịch vụ như tư vấn sức khỏe tâm thần, chương trình liệu pháp nhóm, hỗ trợ xã hội, cung cấp thực phẩm & vật phẩm vệ sinh cần thiết, đảm bảo việc làm ổn định và nhà ở, và tiến hành đào tạo & giáo dục với các trường học, nơi làm việc, và gia đình."
+    },
+    "ko-KR": {
+      "title": "Open Doors Youth Service",
+      "description": "남동쪽 퀸즈랜드에서 LGBTIQAP+ 청소년과 그들의 가족을 지원합니다. 정신 건강 상담, 집단 치료 프로그램, 사회적 지원, 필수 식품 및 위생품 제공, 안정적인 직장과 주택 확보, 학교, 직장, 가족과 함께 교육 및 훈련을 실시하는 등의 서비스를 제공합니다."
+    },
+    "ja-JP": {
+      "title": "オープンドアーズ・ユースサービス",
+      "description": "南東クイーンズランド地域でLGBTIQAP+の若者とその家族をサポート。メンタルヘルスカウンセリング、グループ療法プログラム、ソーシャルサポート、必要な食糧・衛生用品の提供、安定した雇用と住む場所の確保、学校、職場、家族との教育・研修を実施。"
+    },
+    "ar-SA": {
+      "title": "خدمة فتح الأبواب للشباب",
+      "description": "دعم الشباب من مجتمع LGBTIQAP+ وعائلاتهم في جنوب شرق كوينزلاند. تقديم خدمات مثل الاستشارات النفسية، برامج العلاج الجماعي، الدعم الاجتماعي، توفير الطعام والأغراض الصحية الأساسية، تأمين العمل المستقر والإسكان، وإجراء التدريب والتعليم مع المدارس، أماكن العمل، والعائلات."
+    },
+    "uk-UA": {
+      "title": "Молодіжна служба Відкриті Двері",
+      "description": "Підтримка молоді LGBTIQAP+ та їхніх сімей в Південно-Східному Квінсленді. Надання послуг, таких як консультування з питань психічного здоров'я, програми групової терапії, соціальна підтримка, надання необхідних продуктів харчування та санітарних виробів, забезпечення стабільного працевлаштування та житла, проведення навчальних та освітніх програм у школах, на робочих місцях та в сім'ях."
+    },
+    "ru-RU": {
+      "title": "Служба Молодёжи Open Doors",
+      "description": "Поддержка молодёжи LGBTIQAP+ и их семей в Юго-Восточном Квинсленде. Предоставление услуг, таких как психологическое консультирование по вопросам психического здоровья, программы групповой терапии, социальная поддержка, предоставление основных продуктов питания и санитарных принадлежностей, обеспечение стабильной занятости и жилья, а также проведение тренингов и обучения в школах, на рабочих местах и в семьях."
+    },
+    "ur-PK": {
+      "title": "اوپن ڈورز یوتھ سروس",
+      "description": "جنوب مشرقی کوئینزلینڈ میں LGBTIQAP+ نوجوانوں اور ان کے خاندانوں کی مدد کرنا۔ زہنی صحت کی کونسلنگ، گروپ تھراپی پروگرام، سوشل سپورٹس، بنیادی خوراک اور صفائی کی آئٹمز فراہم کرنا، مستحکم روزگار اور مکان کو محفوظ کرنا، اور اسکولوں، کام کی جگہوں اور خاندانوں کے ساتھ تربیت اور تعلیم کا آغاز کرنا۔"
+    },
+    "hi-IN": {
+      "title": "ओपन डोर्स यूथ सर्विस",
+      "description": "दक्षिण पूर्व क्वींसलैंड में LGBTIQAP+ युवा और उनके परिवारों का समर्थन करना। मानसिक स्वास्थ्य परामर्श, समूह चिकित्सा कार्यक्रम, सामाजिक सहयोग, आवश्यक भोजन और स्वच्छता सामग्री प्रदान, स्थायी रोजगार और आवास सुविधाओं का निर्माण, और स्कूल, कार्यस्थल और परिवारों के साथ प्रशिक्षण और शिक्षा आयोजित करना।"
+    },
+    "mr-IN": {
+      "title": "उघड्या दारवाजांची युवक सेवा",
+      "description": "दक्षिण पूर्व क्वींसलँडमधील LGBTIQAP+ युवकांचे आणि त्यांच्या कुटुंबीयांचे समर्थन करणारे. मानसिक आरोग्य सल्लागारी, गट थेरपी कार्यक्रमे, सामाजिक संथ उपलब्ध करणारी सेवा, मूळभूत अन्न & स्वच्छता साहित्य पुरवठा करणे, स्थिर रोजगार आणि हाउसिंग सुरक्षित करणे, आणि शाळेत, कामगार संस्थेत आणि कुटुंबीयांसोबत प्रशिक्षण आणि शिक्षण कार्यक्रमे चालवणे."
+    },
+    "te-IN": {
+      "title": "Open Doors Youth Service",
+      "description": "దక్షిణ పురీతిపట్టణాలలో ఉన్న LGBTIQAP+ యువత మరియు వారి కుటుంబాలను మద్దతు చేయు. మానసిక ఆరోగ్య కన్సెలింగ్, సమూహ చికిత్సా కార్యక్రమాలు, సామాజిక మద్దతులు, అవసరమైన ఆహార & సంప్రదాయ పదార్ధాలను అందిస్తున్న, స్థిరమైన ఉద్యోగం మరియు నివాసం సిక్కువ చేస్తున్న, స్కూలులు, పనిచేరువు స్థలాలు, మరియు కుటుంబాలతో శిక్షణ & ప్రజ్ఞను నిర్వహిస్తుంది."
+    },
+    "ta-IN": {
+      "title": "திறந்த கதவுகள் இளைஞர் சேவை",
+      "description": "தென் கிழக்கு குயின்ஸ்லாந்தில் LGBTIQAP+ இளைஞர்களையும், அவர்களுக்குக் குடும்பத்தையிருந்து உதவியும். மாநகராசூழல் ஆரோக்கிய ஆலோசனை, குழு ஆலோசனை நிகழ்வுகள், சமூக ஆதரவுகள், அவசியமான உணவு & சுத்தமற்ற பொருள்களை வழங்குவது, நிலையான வேலை மற்றும் வீடுகளுக்கு டி பெறுவது, பள்ளிகளுக்கும், வேலையிடங்களுக்கும் மற்றும் குடும்பங்களுக்கும் பயிற்சி மற்றும் கல்வி நடைமுறைகளை நடத்துவது."
+    },
+    "bn-BD": {
+      "title": "ওপেন ডোর্স ইউথ সার্ভিস",
+      "description": "দক্ষিণ পূর্ব কোয়েন্সল্যান্ডের LGBTIQAP+ যুবকদের এবং তাদের পরিবারগুলিকে সমর্থন করা। মানসিক স্বাস্থ্য পরামর্শ, গ্রুপ চিকিৎসা প্রোগ্রামগুলি, সামাজিক সহায়তা, প্রয়োজনীয় খাবার ও স্বাস্থ্য পরিষেবা প্রদান, স্থিতিশীল চাকরি ও আবাসন নিশ্চিত করা, এবং স্কুল, কর্মস্থল, এবং পরিবারগুলির সাথে প্রশিক্ষণ এবং শিক্ষা পরিচালনা করা।"
+    }
+  }
+}

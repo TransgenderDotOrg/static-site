@@ -1,0 +1,105 @@
+{
+  "id": "f48634db-fe71-426c-be84-622b3282bad7",
+  "slug": "planned-parenthood",
+  "externalUrl": "https://www.plannedparenthood.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": "1-800-230-7526",
+  "country": "US",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood provides vital reproductive health care, sex education, and information to millions of people worldwide. Services include abortion, birth control, STD testing and treatment, transgender hormone therapy, and more. Online and telehealth appointments available."
+    },
+    "es-ES": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood proporciona atención de salud reproductiva vital, educación sexual e información a millones de personas en todo el mundo. Los servicios incluyen aborto, control de natalidad, pruebas y tratamiento de ETS, terapia de hormonas transgénero y más. Citas en línea y telemedicina disponibles."
+    },
+    "id-ID": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood menyediakan perawatan kesehatan reproduksi yang sangat penting, pendidikan seks, dan informasi kepada jutaan orang di seluruh dunia. Layanan mencakup aborsi, kontrol kelahiran, pengujian dan pengobatan STD, terapi hormon transgender, dan lainnya. Janji temu online dan telehealth tersedia."
+    },
+    "pt-PT": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood oferece cuidados essenciais de saúde reprodutiva, educação sexual e informações a milhões de pessoas em todo o mundo. Os serviços incluem aborto, controle de natalidade, testes e tratamento de DST, terapia hormonal para transgêneros e mais. Consultas online e de telemedicina disponíveis."
+    },
+    "sw-KE": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood hutoa huduma muhimu za afya ya uzazi, elimu ya ngono, na habari kwa mamilioni ya watu duniani kote. Huduma zinajumuisha utoaji mimba, udhibiti wa uzazi, upimaji na matibabu ya magonjwa ya zinaa, tiba ya homoni ya jinsia ya kubadilika, na zaidi. Miadi ya mtandaoni na ya telehealth inapatikana."
+    },
+    "tr-TR": {
+      "title": "Planlanan Ebeveynlik",
+      "description": "Planlanan Ebeveynlik milyonlarca kişiye dünya genelinde hayati üreme sağlığı hizmeti, cinsel eğitim ve bilgi sağlar. Hizmetler arasında kürtaj, doğum kontrolü, STD testi ve tedavisi, transgender hormon terapisi ve daha fazlası bulunur. Online ve telehealth randevuları mevcuttur."
+    },
+    "ja-JP": {
+      "title": "プPlanned Parenthood",
+      "description": "プPlanned Parenthoodは、世界中の何百万人もの人々に生殖健康管理、性教育、情報を提供します。サービスには、中絶、避妊、性感染症の検査と治療、トランスジェンダーのホルモン療法などが含まれます。オンラインおよびテレヘルスの予約が利用可能です。"
+    },
+    "zh-CN": {
+      "title": "计划生育",
+      "description": "计划生育为全球数百万人提供至关重要的生殖健康护理、性教育和信息。服务包括流产、避孕、性病测试和治疗、跨性别荷尔蒙治疗等等。提供在线和远程健康预约。"
+    },
+    "fr-FR": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood offre des soins de santé reproductive essentiels, de l'éducation sexuelle et de l'information à des millions de personnes dans le monde. Les services comprennent l'avortement, le contrôle des naissances, les tests et traitements des MST, la thérapie hormonale pour les personnes transgenres, et plus encore. Des rendez-vous en ligne et de télésanté sont disponibles."
+    },
+    "ru-RU": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood предоставляет жизненно важные услуги по репродуктивному здоровью, сексуальному образованию и информацию миллионам людей по всему миру. Услуги включают аборт, контрацепцию, тестирование и лечение венерических болезней, гормональную терапию для трансгендеров и многое другое. Доступны онлайн-приемы и телемедицинские консультации."
+    },
+    "de-DE": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood bietet lebenswichtige reproduktive Gesundheitsversorgung, Sexualerziehung und Informationen für Millionen von Menschen weltweit. Dienstleistungen beinhalten Abtreibung, Geburtenkontrolle, STD-Tests und Behandlung, Transgender-Hormontherapie und mehr. Online- und Telemedizin-Termine verfügbar."
+    },
+    "vi-VN": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood cung cấp chăm sóc sức khỏe sinh sản quan trọng, giáo dục tình dục, và thông tin cho hàng triệu người trên toàn thế giới. Các dịch vụ bao gồm phá thai, kiểm soát sinh đẻ, kiểm tra và điều trị bệnh lây truyền qua đường tình dục, liệu pháp hormone người chuyển giới, và nhiều hơn nữa. Có các cuộc hẹn trực tuyến và qua telehealth."
+    },
+    "ko-KR": {
+      "title": "플래닌드 페어런트후드",
+      "description": "플래닌드 페어런트후드는 성인들의 생식 건강을 중요시하며, 성 교육과 정보를 전 세계 수백만 명에게 제공합니다. 서비스에는 낙태, 피임, 성병 검사 및 치료, 트랜스젠더 호르몬 요법 등이 포함됩니다. 온라인 및 원격 건강 상담이 가능합니다."
+    },
+    "ar-SA": {
+      "title": "التخطيط للأبوة",
+      "description": "يوفر التخطيط للأبوة الرعاية الصحية الإنجابية الحيوية ، والتثقيف الجنسي ، والمعلومات لملايين الأشخاص حول العالم. تشمل الخدمات الإجهاض ، ومنع الحمل ، والفحص والعلاج للأمراض المنقولة جنسيا ، والعلاج بالهرمونات للمتحولين جنسيا ، وأكثر من ذلك. مواعيد عبر الإنترنت والرعاية الصحية عن بعد متاحة."
+    },
+    "uk-UA": {
+      "title": "Плановане Батьківство",
+      "description": "Плановане Батьківство надає життєво важливу репродуктивну та сексуальну освіту та інформацію мільйонам людей по всьому світу. Послуги включають аборт, контроль над народженням, тестування та лікування СНІДу, трансгендерну гормональну терапію та багато іншого. Доступні онлайн та телемедичні прийоми."
+    },
+    "ur-PK": {
+      "title": "منصوبہ بند ماں بننے کی تربیت",
+      "description": "منصوبہ بند ماں بننے کی تربیت کروڑوں لوگوں کو زندگی کی بنیادی صحت کی خدمات، جنسی تعلیم اور معلومات فراہم کرتی ہے. خدمات میں شامل ہیں اسقاط حمل، پیدائش کا کنٹرول، جنسی بیماریوں کا امتحان اور علاج، ٹرانسجینڈر ہارمون تھیراپی، اور مزید. آن لائن اور ٹیلی حیثیت کی ملاقاتیں دستیاب ہیں."
+    },
+    "mr-IN": {
+      "title": "नियोजित पालकत्व",
+      "description": "नियोजित पालकत्व मिलियनांच्या तुलनेत कोणत्याही व्यक्तीला महत्वाची प्रजनन आरोग्य सेवा, लैंगिक शिक्षण, व माहिती प्रदान करते. सेवा म्हणजे गर्भपात, गर्भनिरोधक, STD चाचणी आणि उपचार, गल्ली हार्मोन थेरेपी, व अधिक. ऑनलाइन आणि टेलीहेल्थ अॅपॉईंटमेंट उपलब्ध आहेत."
+    },
+    "hi-IN": {
+      "title": "नियोजित पेरेंटहुड",
+      "description": "नियोजित पेरेंटहुड वैश्विक स्तर पर करोड़ों लोगों को महत्वपूर्ण प्रजनन स्वास्थ्य देखभाल, यौन शिक्षा, और जानकारी प्रदान करता है। सेवाएं गर्भपात, जन्म नियंत्रण, यौन रोग परीक्षण और उपचार, ट्रांसजेंडर हार्मोन थेरेपी, और अधिक शामिल हैं। ऑनलाइन और टेलीहेल्थ की नियुक्तियां उपलब्ध हैं।"
+    },
+    "bn-BD": {
+      "title": "Planned Parenthood",
+      "description": "Planned Parenthood বিশ্বব্যাপী লক্ষ লক্ষ মানুষের জন্য গুরুত্বপূর্ণ প্রজনন স্বাস্থ্য সেবা, যৌন শিক্ষা এবং তথ্য সরবরাহ করে। সেবাগুলো অন্তর্গত বিপদ-সংকেত, জন্ম নিয়ন্ত্রণ, STD পরীক্ষা এবং চিকিত্সা, ট্রান্সজেন্ডার হরমোন থেরাপি, এবং আরও অনেক কিছু। অনলাইন এবং টেলিহেলথ অ্যাপয়েন্টমেন্টগুলি উপলব্ধ।"
+    },
+    "ta-IN": {
+      "title": "திட்டமிடப்பட்ட பெற்றோர்",
+      "description": "திட்டமிடப்பட்ட பெற்றோர் ஆண்களுக்கு லட்சக்கணக்கான மக்களுக்கு அவசியமான மீண்டுவளவு சுகாதார பராமரிப்பு, பாலின் விளக்கம், மற்றும் தகவல்களை வழங்குகின்றது. சேவைகளுக்கு கருவிழைப்பு, பிறப்பு கட்டுப்பாடு, STD பரிசோதனை மற்றும் சிகிச்சை, மாற்றுநிலை ஹார்மோன் சிகிச்சை, மற்றும் அதிகிற்கும் உள்ளன. ஆன்லைன் மற்றும் தொலைசுகாதார அப்பாயின்ட்மென்ட்கள் கிடைக்கும்."
+    },
+    "te-IN": {
+      "title": "ప్లాన్నెడ్ పేరెంట్హుడ్",
+      "description": "ప్లాన్నెడ్ పేరెంట్హుడ్ ప్రపంచవ్యాప్తంగా కోట్లాది ప్రజలకు అత్యవసర ప్రజనన ఆరోగ్య సేవలు, సెక్స్ విద్య, మరియు సమాచారాన్ని అందిస్తుంది. సేవలు గర్భం రోకణ, జనన నియంత్రణ, STD పరీక్షలు మరియు చికిత్స, ట్రాన్స్జెండర్ హாర్మோన్ చికిత్స, మరియు మరింత సేవలు ఉన్నాయి. ఆన్లైన్ మరియు టెలీహెల్త్ నియామక అందించబడుతున్నాయి."
+    }
+  }
+}

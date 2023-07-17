@@ -1,0 +1,107 @@
+{
+  "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
+  "slug": "a-complete-guide-to-transmasculine-reproduction",
+  "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
+  "tags": [
+    "transmasculine",
+    "healthcare",
+    "education-awareness",
+    "parent-family-resources",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "A Complete Guide to Transmasculine Reproduction",
+      "description": "A comprehensive guide offering information on transmasculine fertility, pregnancy, postpartum, lactation, and parenthood. The resource includes trans-affirming health care providers, researched FAQs, various resources and more for educating and supporting transmasculine individuals on their parenting journey."
+    },
+    "es-ES": {
+      "title": "Una guía completa sobre la reproducción transmasculina",
+      "description": "Una guía completa que ofrece información sobre la fertilidad transmasculina, el embarazo, el posparto, la lactancia y la paternidad. El recurso incluye proveedores de atención médica que afirman la transición, preguntas frecuentes investigadas, varios recursos y más para educar y apoyar a las personas transmasculinas en su viaje hacia la paternidad."
+    },
+    "id-ID": {
+      "title": "Panduan Lengkap tentang Reproduksi Transmaskulin",
+      "description": "Panduan komprehensif yang menawarkan informasi tentang fertilitas transmaskulin, kehamilan, pascapersalinan, laktasi, dan orangtua. Sumber daya ini mencakup penyedia layanan kesehatan yang mendukung trans, FAQs yang diteliti, berbagai sumber daya dan lebih banyak lagi untuk mendidik dan mendukung individu transmaskulin dalam perjalanan mereka menjadi orangtua."
+    },
+    "fr-FR": {
+      "title": "Guide complet sur la reproduction transmasculine",
+      "description": "Un guide complet offrant des informations sur la fertilité transmasculine, la grossesse, le post-partum, la lactation et la parentalité. La ressource comprend des prestataires de soins de santé affirmant le trans, des FAQs recherchées, diverses ressources et plus encore pour éduquer et soutenir les individus transmasculins dans leur parcours parental."
+    },
+    "pt-PT": {
+      "title": "Guia Completo sobre Reprodução Transmasculina",
+      "description": "Um guia abrangente que oferece informações sobre fertilidade transmasculina, gravidez, pós-parto, lactação e paternidade. O recurso inclui prestadores de saúde que afirmam a trans, FAQs pesquisadas, vários recursos e muito mais para educar e apoiar indivíduos transmasculinos em sua jornada de paternidade."
+    },
+    "tr-TR": {
+      "title": "Transmasculine Üremeye Dair Kapsamlı Bir Rehber",
+      "description": "Transmasculine fertilitesi, hamilelik, doğum sonrası, laktasyon ve ebeveynlik hakkında bilgiler sunan kapsamlı bir rehber. Kaynak, trans-onaylayıcı sağlık hizmeti sağlayıcıları, araştırılmış SSS, çeşitli kaynaklar ve transmasculine bireylerin ebeveynlik yolculuklarında eğitim ve destek sunmak için daha fazlasını içerir."
+    },
+    "ko-KR": {
+      "title": "트랜스마스큘린 재생산에 대한 완전한 가이드",
+      "description": "트랜스마스큘린의 생식력, 임신, 출산 후, 수유, 그리고 부모가 되는 것에 대한 정보를 제공하는 종합 가이드입니다. 이 자료에는 트랜스를 긍정적으로 대하는 건강 관리 제공자, 연구된 FAQ, 다양한 리소스 등이 포함되어 있어 트랜스마스큘린 개인들이 부모가 되는 여정에서 교육받고 지원받을 수 있습니다."
+    },
+    "zh-CN": {
+      "title": "完全指南：跨性别男子生殖",
+      "description": "这是一本全面的指南，提供关于跨性别男子的生育、妊娠、产后、哺乳和育儿的信息。资源包括肯定跨性别的医疗保健提供者，研究过的常见问题，各种资源等，用于教育和支持跨性别男子在育儿旅程中的个人。"
+    },
+    "de-DE": {
+      "title": "Ein vollständiger Leitfaden zur transmaskulinen Reproduktion",
+      "description": "Ein umfassender Leitfaden, der Informationen über transmaskuline Fruchtbarkeit, Schwangerschaft, postpartale Periode, Stillen und Elternschaft bietet. Die Ressource beinhaltet trans-befürwortende Gesundheitsdienstleister, erforschte FAQs, verschiedene Ressourcen und mehr, um transmaskuline Individuen auf ihrer Elternschaftsreise zu erziehen und zu unterstützen."
+    },
+    "sw-KE": {
+      "title": "Mwongozo Kamili wa Uzazi wa Kiume",
+      "description": "Mwongozo kamili unaojumuisha habari kuhusu uzazi wa kiume, ujauzito, baada ya kuzaa, kunyonyesha, na uzazi wa kiume. Rasilimali inajumuisha watoaji huduma za afya wenye kuthibitisha kiume, maswali yanayoulizwa mara kwa mara yaliyofanyiwa utafiti, rasilimali mbalimbali na zaidi kwa ajili ya kuwaelimisha na kuwasaidia watu wa kiume kwenye safari yao ya ulezi."
+    },
+    "uk-UA": {
+      "title": "Повний посібник по трансмаскулінному розмноженню",
+      "description": "Повний посібник, який пропонує інформацію про трансмаскулінну фертильність, вагітність, постпартум, лактацію та батьківство. Ресурс включає постачальників медичних послуг, які підтримують трансідентичність, досліджені ЧАП, різні ресурси та багато іншого для освіти та підтримки трансмаскуліних осіб у їхньому батьківському шляху."
+    },
+    "ar-SA": {
+      "title": "دليل كامل للإنجاب عند الأفراد الذين ينتقلون إلى الذكورة",
+      "description": "دليل شامل يقدم معلومات عن الخصوبة والحمل وما بعد الولادة والرضاعة والأمومة بالنسبة للأفراد الذين ينتقلون إلى الذكورة. يتضمن المصدر مقدمي الرعاية الصحية الذين يؤكدون التحول الجنسي، وأسئلة متكررة مبحوثة، وموارد متنوعة وأكثر من ذلك لتثقيف ودعم الأفراد الذين ينتقلون إلى الذكورة في رحلتهم نحو الأبوة."
+    },
+    "ru-RU": {
+      "title": "Полное руководство по репродукции трансмаскулин",
+      "description": "Обстоятельное руководство, предлагающее информацию о фертильности, беременности, послеродовом периоде, лактации и родительстве трансмаскулин. В ресурс включены утверждающие здоровье транс-людей, исследованные Часто Задаваемые Вопросы, различные ресурсы и многое другое для образования и поддержки трансмаскулин в их родительском пути."
+    },
+    "ja-JP": {
+      "title": "トランスマスキュリンの生殖に関する完全ガイド",
+      "description": "トランスマスキュリンの生殖機能、妊娠、産後、授乳、親権に関する包括的な情報を提供するガイドです。このリソースには、トランスを肯定的に支える医療提供者、調査に基づいたFAQ、さまざまなリソースや、トランスマスキュリン個人の親としての旅を教育しサポートするためのその他の情報が含まれています。"
+    },
+    "ur-PK": {
+      "title": "ٹرانس میل جنس کے افراد کے لیے مکمل گائیڈ برائے تولید",
+      "description": "ایک جامع گائیڈ جو ٹرانس میل بازورگوں کی بنجھ پن, حاملہ ہونے, پیدائش کے بعد, دودھ پیدا کرنے, اور والدین کی سفر کی معلومات فراہم کرتی ہے۔ اس وسائل میں ترانس کو تصدیق دینے والے صحت کے فراہم کنندگان, تحقیق شدہ اکثر مطلوبہ سوالات, مختلف وسائل شامل ہیں اور ان کی تربیت اور ترانس میل افراد کی والدین کی سفر میں ان کی حمایت کے لئے مزید."
+    },
+    "vi-VN": {
+      "title": "Hướng dẫn đầy đủ về sinh sản chuyển đổi nam tính",
+      "description": "Hướng dẫn toàn diện cung cấp thông tin về tình dục học, mang thai, sau sinh, tiết sữa và làm cha mẹ đối với những người chuyển đổi giới tính thành nam. Tài nguyên bao gồm các nhà cung cấp chăm sóc sức khỏe xác nhận chuyển giới, các câu hỏi thường gặp đã được nghiên cứu, các tài nguyên khác nhau và nhiều hơn nữa để giáo dục và hỗ trợ các cá nhân chuyển đổi giới tính thành nam trong hành trình làm cha mẹ của họ."
+    },
+    "mr-IN": {
+      "title": "ट्रान्समॅस्क्युलिने प्रजननाची संपूर्ण मार्गदर्शिका",
+      "description": "ट्रान्समॅस्क्युलिने संतती, गर्भावस्था, प्रसूती काळ, स्तनपान, आणि पालकत्वावर माहिती देणाऱ्या व्यापक मार्गदर्शिका. या संसाधनात ट्रांस-समर्थक आरोग्य सेवा प्रदाते, संशोधित वारंवार विचारलेल्या प्रश्नांचा समावेश असलेल्या विविध संसाधने आणि आपल्या पालन क्षेत्री ट्रान्समस्क्युलिने व्यक्तींचे शिक्षण आणि समर्थन केलेली अधिक."
+    },
+    "hi-IN": {
+      "title": "ट्रांसमस्कुलिन प्रजनन के लिए पूर्ण मार्गदर्शिका",
+      "description": "ट्रांसमस्कुलिन फर्टिलिटी, गर्भावस्था, पोस्टपार्टम, स्तनपान, और माता-पिता की सूचना प्रदान करने वाली एक व्यापक मार्गदर्शिका। संसाधन में ट्रांस-समर्थन स्वास्थ्य देखभाल प्रदाताओं, शोधित पूछे गए प्रश्नों, विभिन्न संसाधनों और अधिक शामिल हैं, जो ट्रांसमस्कुलिन व्यक्तियों को उनके पेरेंटिंग यात्रा पर शिक्षित करने और समर्थन देने के लिए।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্সম্যাসকুলিন প্রজনন সম্পর্কিত সম্পূর্ণ গাইড",
+      "description": "একটি বিস্তৃত গাইড যা ট্রান্সম্যাসকুলিন ফার্টিলিটি, গর্ভধারণ, পোস্টপার্টাম, ল্যাক্টেশন এবং অভিভাবকত্ব সম্পর্কে তথ্য উপলব্ধ করায়। এই সম্পদটি অন্তর্গত ট্রান্স-সমর্থনকারী স্বাস্থ্যসেবা সরবরাহকারীরা, গবেষণা-ভিত্তিক প্রশ্নোত্তর, বিভিন্ন সম্পদ এবং অন্যান্য সহ তাদের অভিভাবকত্বের যাত্রায় ট্রান্সম্যাসকুলিন ব্যক্তিদের শিক্ষাদান এবং সমর্থন করার জন্য।"
+    },
+    "ta-IN": {
+      "title": "டிரான்ஸ்மஸ்குலீன் பிரஜனனத்தில் முழுமையான வழிகாட்டி",
+      "description": "டிரான்ஸ்மஸ்குலீன் மாற்றுத்திறன், கர்ப்பம், பிரசவ பின்போடு, பாலூட்டுதல் மற்றும் பேதைக்கிணப்பித்தல் பற்றிய விவரங்களை வழங்கும் முழுமையான வழிகாட்டி. இந்த வளங்களில் டிரான்ஸாப்பிரமிங் சுகாதார விரவலான்கள், ஆராய்ச்சி செய்யப்பட்ட கேள்விகள், பல்வேறு வளங்கள் மற்றும் மேலும் கல்விப்புக்காக மற்றும் டிரான்ஸ்மஸ்குலீன் நபர்களுக்கான பேதைப்பு பாதையில் ஆதரவு வழங்கும்."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్‌మాస్కులిన్‌ ప్రజననం యొక్క సమ్పూర్ణ మార్గదర్శకం",
+      "description": "ట్రాన్స్‌మాస్కులిన్‌ సంపూర్ణత, గర్భం, పోస్ట్‌పార్టం, పాలచేయుట, మరియు మాతృత్వం పై సమాచారం అందించే వ్యాపక మార్గదర్శకం. ఈ వనరులో ట్రాన్స్-ఆఫర్మింగ్ ఆరోగ్య పరాచారకులు, పక్కవీతిలో పరిశోధిత ప్రశ్నలను, వివిధ వనరులను, మరియు మరింత సమాచారాన్ని ఆవిష్కరించడానికి మరియు ట్రాన్స్‌మాస్కులిన్‌ వ్యక్తులను మాతృత్వ ప్రయాణంలో మద్దతు చేయడానికి ఉన్నాయి."
+    }
+  }
+}

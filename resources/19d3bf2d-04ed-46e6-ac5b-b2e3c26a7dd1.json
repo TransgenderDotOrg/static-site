@@ -1,0 +1,104 @@
+{
+  "id": "19d3bf2d-04ed-46e6-ac5b-b2e3c26a7dd1",
+  "slug": "minus-eighteen",
+  "externalUrl": "https://www.minus18.org.au/",
+  "tags": [
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Minus18",
+      "description": "Minus18 is Australia's charity improving the lives of LGBTQIA+ youth. They tackle social isolation by creating spaces where young people belong, are celebrated and can make friends. They also deliver LGBTQIA+ training, resources, and digital campaigns, aiming to create an Australia free from discrimination. Their aim is to equip young people with the skills and opportunities they need to be at the forefront of driving change."
+    },
+    "es-ES": {
+      "title": "Minus18",
+      "description": "Minus18 es una organización benéfica de Australia que mejora la vida de los jóvenes LGBTQIA+. Combaten el aislamiento social creando espacios donde los jóvenes pertenecen, son celebrados y pueden hacer amigos. También ofrecen capacitación LGBTQIA+, recursos y campañas digitales, con el objetivo de crear una Australia libre de discriminación. Su objetivo es dotar a los jóvenes de las habilidades y oportunidades que necesitan para estar a la vanguardia del cambio."
+    },
+    "pt-PT": {
+      "title": "Minus18",
+      "description": "Minus18 é uma organização beneficente australiana dedicada a melhorar a vida dos jovens LGBTQIA+. Eles combatem o isolamento social criando espaços onde os jovens pertencem, são celebrados e podem fazer amigos. Eles também oferecem treinamento, recursos e campanhas digitais LGBTQIA+, com o objetivo de criar uma Austrália livre de discriminação. Seu objetivo é equipar os jovens com as habilidades e oportunidades necessárias para estarem na vanguarda da condução da mudança."
+    },
+    "de-DE": {
+      "title": "Minus18",
+      "description": "Minus18 ist eine australische Wohltätigkeitsorganisation, die das Leben von LGBTQIA+ Jugendlichen verbessert. Sie bekämpfen soziale Isolation, indem sie Räume schaffen, in denen junge Menschen dazugehören, gefeiert werden und Freunde finden können. Sie bieten auch LGBTQIA+ Training, Ressourcen und digitale Kampagnen an, mit dem Ziel, ein Australien frei von Diskriminierung zu schaffen. Ihr Ziel ist es, junge Menschen mit den Fähigkeiten und Möglichkeiten auszustatten, die sie benötigen, um an der Spitze des Wandels zu stehen."
+    },
+    "id-ID": {
+      "title": "Minus18",
+      "description": "Minus18 adalah organisasi amal Australia yang memperbaiki kehidupan kaum muda LGBTQIA+. Mereka menangani isolasi sosial dengan menciptakan ruang di mana orang muda bisa merasa diterima, dirayakan dan dapat berteman. Mereka juga menyelenggarakan pelatihan LGBTQIA+, sumber daya, dan kampanye digital, dengan tujuan menciptakan Australia yang bebas dari diskriminasi. Tujuan mereka adalah memperlengkapi orang muda dengan keterampilan dan peluang yang mereka butuhkan untuk berada di garis depan mendorong perubahan."
+    },
+    "ko-KR": {
+      "title": "Minus18",
+      "description": "Minus18은 LGBTQIA+ 청소년의 삶을 개선하는 호주의 자선 단체입니다. 그들은 젊은이들이 속하고, 축하 받으며 친구를 만들 수 있는 공간을 만들어 사회적 고립을 해소합니다. 또한 LGBTQIA+ 교육, 자료, 디지털 캠페인을 제공하며 차별 없는 호주를 만들기 위해 노력합니다. 그들의 목표는 젊은이들이 변화를 주도하는 최전선에 서 있기 위해 필요한 기술과 기회를 갖추는 것입니다."
+    },
+    "sw-KE": {
+      "title": "Minus18",
+      "description": "Minus18 ni hisani ya Australia inayoboresha maisha ya vijana wa LGBTQIA+. Wanashughulikia upweke wa kijamii kwa kuunda maeneo ambapo vijana wanastahili, wanasherehekewa na wanaweza kupata marafiki. Pia wanatoa mafunzo, rasilimali, na kampeni za dijitali za LGBTQIA+, wakilenga kuunda Australia isiyo na ubaguzi. Lengo lao ni kuwapa vijana ujuzi na fursa wanazohitaji kuwa mstari wa mbele wa kuendesha mabadiliko."
+    },
+    "tr-TR": {
+      "title": "Minus18",
+      "description": "Minus18, LGBTQIA+ gençlerin hayatını iyileştiren Avustralya'nın hayır kurumudur. Gençlerin ait olduğu, kutlandığı ve arkadaş edinebileceği alanlar oluşturarak sosyal izolasyonla mücadele ederler. Ayrıca, ayrımcılıktan uzak bir Avustralya oluşturmayı hedefleyen LGBTQIA+ eğitimleri, kaynaklar ve dijital kampanyalar sunarlar. Amaçları, gençleri değişimi sürüklemenin ön saflarında olmaları için gereken beceriler ve fırsatlarla donatmaktır."
+    },
+    "vi-VN": {
+      "title": "Minus18",
+      "description": "Minus18 là tổ chức từ thiện của Úc nhằm cải thiện cuộc sống của giới trẻ LGBTQIA+. Họ giải quyết vấn đề cô lập xã hội bằng cách tạo ra không gian mà các bạn trẻ có thể thuộc về, được tôn vinh và kết bạn. Họ cũng cung cấp đào tạo, tài nguyên và chiến dịch kỹ thuật số LGBTQIA+, với mục tiêu tạo ra một Úc không phân biệt đối xử. Mục tiêu của họ là trang bị cho các bạn trẻ những kỹ năng và cơ hội cần thiết để đứng đầu trong việc thúc đẩy thay đổi."
+    },
+    "ja-JP": {
+      "title": "Minus18",
+      "description": "Minus18は、LGBTQIA+の若者の生活を向上させるオーストラリアの慈善団体です。彼らは社会的孤立を解消するために、若者たちが属し、称賛され、友達を作ることができる空間を創造します。また、LGBTQIA+のトレーニング、リソース、デジタルキャンペーンを提供し、差別のないオーストラリアを創造することを目指しています。彼らの目標は、若者たちが変革を推進する最前線に立つためのスキルと機会を提供することです。"
+    },
+    "fr-FR": {
+      "title": "Minus18",
+      "description": "Minus18 est une organisation caritative australienne qui améliore la vie des jeunes LGBTQIA+. Ils luttent contre l'isolement social en créant des espaces où les jeunes peuvent se sentir chez eux, être célébrés et se faire des amis. Ils offrent également des formations, des ressources et des campagnes numériques LGBTQIA+, dans le but de créer une Australie exempte de discrimination. Leur but est de doter les jeunes des compétences et des opportunités dont ils ont besoin pour être à l'avant-garde du changement."
+    },
+    "ru-RU": {
+      "title": "Minus18",
+      "description": "Minus18 - это австралийская благотворительная организация, улучшающая жизнь молодежи LGBTQIA+. Они борются с социальной изоляцией, создавая пространства, где молодые люди чувствуют себя нужными, где их ценят и где они могут завести друзей. Они также проводят обучение LGBTQIA+, предоставляют ресурсы и цифровые кампании, стремясь создать Австралию, свободную от дискриминации. Их цель - оснастить молодых людей навыками и возможностями, которые им нужны, чтобы быть в авангарде изменений."
+    },
+    "uk-UA": {
+      "title": "Minus18",
+      "description": "Minus18 - це благодійна організація в Австралії, яка покращує життя молоді LGBTQIA+. Вони борються з соціальною ізоляцією, створюючи простори, де молоді люди належать, їх відзначають і де вони можуть знайти друзів. Вони також пропонують навчання LGBTQIA+, ресурси та цифрові кампанії, метою яких є створення Австралії, вільної від дискримінації. Їхня мета - оснастити молодь навичками та можливостями, які їм потрібні, щоб бути на передовій змін."
+    },
+    "ar-SA": {
+      "title": "Minus18",
+      "description": "Minus18 هي منظمة خيرية في أستراليا تعمل على تحسين حياة الشباب من المجتمع LGBTQIA+. وهي تتعامل مع العزلة الاجتماعية من خلال إنشاء مساحات حيث ينتمي الشباب، ويتم الاحتفاء بهم ويمكنهم تكوين صداقات. كما أنهم يقدمون تدريبات LGBTQIA+، وموارد، وحملات رقمية، بهدف إنشاء أستراليا خالية من التمييز. هدفهم هو تجهيز الشباب بالمهارات والفرص التي يحتاجونها ليكونوا في طليعة قيادة التغيير."
+    },
+    "zh-CN": {
+      "title": "Minus18",
+      "description": "Minus18是澳大利亚的一家慈善机构，致力于改善LGBTQIA+青少年的生活。他们通过创造让年轻人感到归属、被欢庆和能够交朋友的空间来对抗社会孤立。他们还提供LGBTQIA+的培训、资源和数字化活动，旨在创造一个没有歧视的澳大利亚。他们的目标是为年轻人提供他们需要的技能和机会，使他们能够站在推动变革的前沿。"
+    },
+    "ur-PK": {
+      "title": "Minus18",
+      "description": "Minus18 آسٹریلیا کی وہ خیراتی تنظیم ہے جو LGBTQIA+ نوجوانوں کی زندگی کو بہتر بنانے میں مدد کرتی ہے۔ وہ سوشل الیگیشن کے خلاف لڑتے ہیں اور ایسے محفل پیدا کرتے ہیں جہاں نوجوان لوگ خوشی سے رہتے ہیں، خوشی مناتے ہیں اور دوست بنا سکتے ہیں۔ انہوں نے LGBTQIA+ کی تربیت، وسائل، اور ڈیجیڈل مہم جاری کی ہیں، جس کا مقصد ایک آسٹریلیا خالی ہونا ہے منصفانہ سلوک سے۔ ان کا مقصد نوجوانوں کو ان مہارتوں اور مواقع سے لیس کرنا ہے جن کی انہیں ضرورت ہوتی ہے تاکہ وہ تبدیلی کے اگوائی میں سب سے آگے ہوں۔"
+    },
+    "hi-IN": {
+      "title": "Minus18",
+      "description": "Minus18 ऑस्ट्रेलिया की एक चैरिटी है जो LGBTQIA+ युवाओं के जीवन को बेहतर बनाने का काम कर रही है। वे सामाजिक अलगाव से निपटने के लिए ऐसे स्थान बनाते हैं जहाँ युवाओं को स्वीकृति मिलती है, यहाँ उनकी प्रशंसा की जाती है और वे दोस्त बना सकते हैं। वे LGBTQIA+ प्रशिक्षण, साधन, और डिजिटल अभियान भी चलाते हैं, जिसका उद्देश्य भेदभाव मुक्त ऑस्ट्रेलिया बनाना है। उनका लक्ष्य युवाओं को उनकी क्षमताओं और अवसरों के साथ सुसज्जित करना है ताकि वे परिवर्तन को आगे बढ़ाने में अग्रणी बन सकें।"
+    },
+    "mr-IN": {
+      "title": "Minus18",
+      "description": "Minus18 ही ऑस्ट्रेलियाची लबाड मुद्दांसाठी काम करणारी संस्था आहे. त्यांनी या सामाजिक वेगळ्यातच्या युवांना त्यांची स्वतःची जगा और दोस्ती करण्याची जागा तयार करून ही समस्या सोडवण्याचा प्रयत्न केलेला आहे. त्यांनी LGBTQIA+ प्रशिक्षण, साधने, आणि डिजिटल अभियानांचा आयोजन केलेला आहे, असा ऑस्ट्रेलिया तयार करण्याची उद्दीश्त आहे ज्यामधे भेदभाव नसेल. त्यांच्या लक्ष्यात बदल घडविण्यासाठी आघाडीत असण्याच्या क्षमता आणि संधी मिळवून युवांना सुसज्ज करणे आहे."
+    },
+    "bn-BD": {
+      "title": "Minus18",
+      "description": "Minus18 হলো অস্ট্রেলিয়ার একটি পুন্যবোধী প্রতিষ্ঠান যা LGBTQIA+ যৌবনের জীবন উন্নত করায় নিজেদের জীবন উত্সর্গ করে। তারা সামাজিক আইসোলেশন সমাধান করে এমন জায়গা গড়ে তোলে যেখানে যুবকযুবতীরা অধিকার পান, উদযাপন করা হয় এবং বন্ধু তৈরি করা যায়। তারা আরও LGBTQIA+ প্রশিক্ষণ, সম্পদ, এবং ডিজিটাল প্রচারণা প্রদান করে, যা বিভেদবাদ মুক্ত একটি অস্ট্রেলিয়া গড়ে তোলার লক্ষ্যে। তাদের লক্ষ্য হলো তরুণদের ক্ষমতা প্রদান করা যাতে তারা পরিবর্তন চালিয়ে যেতে পারে।"
+    },
+    "ta-IN": {
+      "title": "Minus18",
+      "description": "Minus18 ஆஸ்திரேலியாவின் LGBTQIA+ இளைஞர்களின் வாழ்க்கையை மேம்படுத்தும் அறக்கட்டளை. அவர்கள் சமூக மீதமானதை மக்கள் சேர்க்கும், சுவாரஸ்யமாக இருக்கும் மற்றும் நண்பர்கள் இருக்க முடியும் இடங்களை உருவாக்குவதையும் எதிர்கொள்ளுகின்றனர். அவர்கள் மேலும் LGBTQIA+ பயிலும், வளங்கள், மற்றும் மின்னணு பிரச்சினைகளை அளிக்கின்றனர், விலக்கு இல்லாத ஆஸ்திரேலியாவை உருவாக்க நோக்குவதை நோக்கி. அவர்களின் நோக்கம் மாற்றத்தை தனியார்ந்த முன்கையில் இருக்க வேண்டிய திறன்களையும், வாய்ப்புகளையும் இளைஞர்களுக்கு கொடுக்கும்."
+    },
+    "te-IN": {
+      "title": "Minus18",
+      "description": "Minus18 ఆస్ట్రేలియాలోని LGBTQIA+ యువతిపై ప్రాణం మెరిగించే చరిటీ సంస్థ. వారు సోషల్ ఇసొలేషన్ ను తక్కువ చేసేందుకు, యువజనాలు చెందిన, అభినందన చేయబడిన, మరియు స్నేహితలు చేసుకోవచే స్థలాలను సృష్టిస్తారు. వారు కూడా LGBTQIA+ శిక్షణ, వనరులు, మరియు డిజిటల్ ప్రచారణలను అందిస్తారు, భేదభావం లేకుండా ఆస్ట్రేలియాను సృష్టించేందుకు ప్రయత్నించేదే లక్ష్యం. వారి లక్ష్యం మార్పును నడిపించడానికి ముందుగా ఉన్న యువజనాలకు అవసరాలు మరియు నైపుణ్యాలను అందించడం లక్ష్యం."
+    }
+  }
+}

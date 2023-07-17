@@ -1,0 +1,109 @@
+{
+  "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+  "slug": "learning-with-love-the-2023-pflag-national-convention",
+  "externalUrl": "https://pflag.org/",
+  "tags": [
+    "education-awareness",
+    "support-groups",
+    "parent-family-resources",
+    "community-stories"
+  ],
+  "address": "Washington, DC, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Washington",
+  "county": "District of Columbia",
+  "latLng": [
+    38.9071923,
+    -77.0368707
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Learning With Love: The 2023 PFLAG National Convention",
+      "description": "A four-day event organized by PFLAG for connecting, networking, learning, and sharing experiences. The convention will host workshops, panels, and presentations to support their mission of creating a caring, just, and affirming world for LGBTQ+ people and those who love them."
+    },
+    "pt-PT": {
+      "title": "Aprendendo com Amor: A Convenção Nacional PFLAG 2023",
+      "description": "Um evento de quatro dias organizado pela PFLAG para conectar, fazer networking, aprender e compartilhar experiências. A convenção terá oficinas, painéis e apresentações para apoiar sua missão de criar um mundo cuidadoso, justo e afirmativo para pessoas LGBTQ+ e aqueles que os amam."
+    },
+    "fr-FR": {
+      "title": "Apprendre avec amour : la convention nationale de PFLAG 2023",
+      "description": "Un événement de quatre jours organisé par PFLAG pour se connecter, réseauter, apprendre et partager des expériences. La convention organisera des ateliers, des panels et des présentations pour soutenir leur mission de création d'un monde bienveillant, juste et affirmé pour les personnes LGBTQ+ et ceux qui les aiment."
+    },
+    "zh-CN": {
+      "title": "充满爱的学习：2023年PFLAG全国年会",
+      "description": "这是由PFLAG组织的为期四天的活动，旨在连接、建立关系、学习和分享经验。这次年会将举办工作坊、讨论会和演讲，以支持他们创造一个对LGBTQ+人士及其爱人充满关怀、公正和肯定的世界的使命。"
+    },
+    "de-DE": {
+      "title": "Lernen mit Liebe: Die 2023 PFLAG National Convention",
+      "description": "Eine vier Tage dauernde Veranstaltung, die von PFLAG organisiert wird, um Verbindungen zu schaffen, zu vernetzen, zu lernen und Erfahrungen zu teilen. Die Konvention wird Workshops, Panels und Präsentationen veranstalten, um ihre Mission zu unterstützen, eine fürsorgliche, gerechte und bestätigende Welt für LGBTQ+ Menschen und diejenigen, die sie lieben, zu schaffen."
+    },
+    "es-ES": {
+      "title": "Aprendiendo con Amor: La Convención Nacional PFLAG 2023",
+      "description": "Un evento de cuatro días organizado por PFLAG para conectar, crear redes, aprender y compartir experiencias. La convención albergará talleres, paneles y presentaciones para apoyar su misión de crear un mundo solidario, justo y afirmativo para las personas LGBTQ+ y aquellos que los aman."
+    },
+    "id-ID": {
+      "title": "Belajar Dengan Cinta: Konvensi Nasional PFLAG 2023",
+      "description": "Sebuah acara selama empat hari yang diselenggarakan oleh PFLAG untuk saling terhubung, membangun jaringan, belajar, dan berbagi pengalaman. Konvensi ini akan menyelenggarakan lokakarya, panel, dan presentasi untuk mendukung misi mereka menciptakan dunia yang penuh pengertian, adil, dan menguatkan untuk orang-orang LGBTQ+ dan mereka yang mencintai mereka."
+    },
+    "tr-TR": {
+      "title": "Sevgiyle Öğrenme: 2023 PFLAG Ulusal Kongresi",
+      "description": "PFLAG tarafından düzenlenen, bağlantı kurma, ağ oluşturma, öğrenme ve deneyim paylaşma imkanı sunan dört günlük bir etkinlik. Kongre, LGBTQ+ bireyler ve onları seven kişiler için adil, adaletli ve onaylayıcı bir dünya oluşturma misyonlarını desteklemek için atölye çalışmaları, paneller ve sunumlar düzenleyecek."
+    },
+    "sw-KE": {
+      "title": "Kujifunza Kwa Upendo: Mkutano Mkuu wa PFLAG 2023",
+      "description": "Tukio la siku nne lilioandaliwa na PFLAG kwa ajili ya kuunganisha, kujenga mtandao, kujifunza, na kushiriki uzoefu. Mkutano utakuwa na warsha, vikao, na maonyesho ya kuunga mkono lengo lao la kuunda dunia ya upendo, haki, na kuthamini kwa watu wa LGBTQ+ na wale wanaowapenda."
+    },
+    "ru-RU": {
+      "title": "Учиться с любовью: Национальная конвенция PFLAG 2023",
+      "description": "Четырехдневное мероприятие, организованное PFLAG для общения, налаживания контактов, обучения и обмена опытом. Конвенция будет проводить семинары, панели и презентации, чтобы поддержать их миссию по созданию заботливого, справедливого и признающего мир для людей LGBTQ+ и тех, кто их любит."
+    },
+    "ko-KR": {
+      "title": "사랑으로 배우기: 2023 PFLAG 전국 콘벤션",
+      "description": "PFLAG가 연결, 네트워킹, 학습 및 경험 공유를 위해 개최하는 4일간의 이벤트입니다. 콘벤션은 LGBTQ+ 사람들과 그들을 사랑하는 이들을 위한 사랑하는, 공정하며 긍정적인 세상을 만드는 데 이바지하기 위한 워크숍, 패널, 프리젠테이션을 개최할 것입니다."
+    },
+    "ja-JP": {
+      "title": "愛とともに学ぶ：2023年PFLAG全国大会",
+      "description": "PFLAGが主催する4日間のイベントで、接続、ネットワーキング、学習、および経験の共有を目指しています。この大会では、LGBTQ+の人々と彼らを愛する人々のために、思いやりのある、公正な、肯定的な世界を創造するというミッションをサポートするためのワークショップ、パネル、およびプレゼンテーションが開催されます。"
+    },
+    "vi-VN": {
+      "title": "Học Hỏi Với Tình Yêu: Đại Hội Quốc Gia PFLAG Năm 2023",
+      "description": "Một sự kiện kéo dài bốn ngày được tổ chức bởi PFLAG để kết nối, mạng lưới, học hỏi, và chia sẻ kinh nghiệm. Đại hội sẽ tổ chức các buổi hội thảo, bảng điều khiển, và các bài trình bày để hỗ trợ sứ mệnh của họ về việc tạo nên một thế giới quan tâm, công bằng, và thừa nhận cho người thuộc LGBTQ+ và những người yêu thương họ."
+    },
+    "ar-SA": {
+      "title": "التعلم بحب: مؤتمر PFLAG الوطني 2023",
+      "description": "حدث مدته أربعة أيام ينظمه PFLAG للتواصل، والتوصل، والتعلم، ومشاركة التجارب. ستستضيف المؤتمر ورش العمل، واللوحات، والعروض التقديمية لدعم مهمتهم في خلق عالم محب، عادل، ومؤكد لأشخاص LGBTQ+ وأولئك الذين يحبونهم."
+    },
+    "uk-UA": {
+      "title": "Учіння з любов'ю: Освітня Конвенція PFLAG 2023",
+      "description": "Чотириденна подія, організована PFLAG для зв'язків, комунікації, навчання та обміну досвідом. Конвенція буде приймати семінари, панелі та презентації, щоб підтримати їх місію створення турботливого, справедливого та підтримуючого світу для людей LGBTQ+ і тих, хто їх любить."
+    },
+    "ur-PK": {
+      "title": "محبت سے سیکھنے: 2023 پی فلیگ قومی کانونشن",
+      "description": "پی فلیگ نے آپس میں رابطہ، نیٹ ورکنگ، سیکھنے، اور تجربات کا اشتراک کرنے کیلئے چار روزہ تقریب منظم کی ہے۔ کانونشن میں ورکشاپ، پینل، اور پیشکشیں ہوں گی تاکہ وہ اپنے مشن کی حمایت کرسکیں جو LGBTQ+ لوگوں اور انہیں محبت کرنے والوں کے لئے ایک خیالی، عادلانہ، اور تصدیق کرنے والی دنیا بنانے کا ہے۔"
+    },
+    "mr-IN": {
+      "title": "प्रेमाने शिकणे: 2023 पीएफएलएजी राष्ट्रीय संमेलन",
+      "description": "पीएफएलएजीने संघटित केलेला एक चार दिवसांचा कार्यक्रम, कनेक्ट करण्यास, नेटवर्किंगसाठी, शिकण्यासाठी आणि अनुभव सामायिक करण्यासाठी. संमेलनात एलजीबीटीक्यू + लोकांसाठी आणि त्यांना प्रेम करणार्‍या लोकांसाठी एक स्नेही, न्यायस्पष्ट आणि स्वीकारलेली जग तयार करण्याच्या त्यांच्या मिशनच्या समर्थनार्थ कार्यशाळा, पॅनल आणि प्रस्तुतिका आयोजित केल्या जातील."
+    },
+    "hi-IN": {
+      "title": "प्यार के साथ सीखना: 2023 PFLAG राष्ट्रीय सम्मेलन",
+      "description": "PFLAG द्वारा संगठित चार दिवसीय इवेंट, संपर्क स्थापित करने, नेटवर्किंग, सीखने, और अनुभव साझा करने के लिए। सम्मेलन में कार्यशालाएं, पैनल, और प्रस्‍तुतियां होंगी जो उनके मिशन का समर्थन करेंगी, जो LGBTQ+ लोगों और उन्हें प्यार करने वालों के लिए एक देखभाल करने, उचित, और सत्यापित दुनिया बनाने का है।"
+    },
+    "bn-BD": {
+      "title": "ভালবাসা দিয়ে শিখছি : 2023 পি.এফ.এল.এ.জি ন্যাশনাল কনভেনশন",
+      "description": "পি.এফ.এল.এ.জি দ্বারা আয়োজিত চার দিনের একটি ইভেন্ট, যা সংযোগ, নেটওয়ার্কিং, শেখা, এবং অভিজ্ঞতা শেয়ার করার জন্য। কনভেনশনটি ওয়ার্কশপ্‌স, প্যানেল, এবং প্রেজেন্টেশন আয়োজন করবে তাদের লক্ষ্য পূরণের, যা এল.জি.বি.টি.কিউ.+ জন এবং তাদেরকে ভালবাসা যারা, একটি সহায়তা, ন্যায়বিচারী, এবং নিশ্চিত বিশ্ব তৈরি করতে।"
+    },
+    "te-IN": {
+      "title": "ప్రేమతో నేర్చుకోవడం: 2023 పిఎఫ్‌లాగ్ జాతీయ సమావేశం",
+      "description": "కనెక్ట్ చేసేందుకు, నెట్వర్కింగ్ చేసేందుకు, నేర్చుకోవడానికి, మరియు అనుభవాలను పంచుకోవడానికి PFLAG అనేవారు ఏర్పాటు చేసిన నాలుగు రోజుల ఈవెంట్. సమావేశంలో పనిచేసేందుకు, LGBTQ+ ప్రజలు మరియు వారిని ప్రేమించే వారికి ఒక ప్రేమ, న్యాయపరచిన మరియు గుణవంత ప్రపంచాన్ని సృష్టించే ఆయమాన్ని మద్దతు చేయడానికి పని శాలలు, పానెల్లు, ప్రస్తుతీకరణలను హోస్ట్ చేస్తుంది."
+    },
+    "ta-IN": {
+      "title": "அன்புடன் கற்றல்: 2023 பிஎஃப்எலஏகி தேசிய மாநாடு",
+      "description": "இணையவலையில், தலைமையில், கற்றுக்கொள்வதில், மற்றும் அனுபவங்களைப் பகிர்வதில் பிஎஃப்எலஏகி மூலமாக அமைக்கப்பட்ட நாலு நாள் நிகழ்வு. மாநாடுகள், குழுக்கூட்டுகள் மற்றும் வழங்கல்களை நிகழ்வாக்கும் அவர்களின் நிலைத்துவ பேணியாக, சமூகத்தை புரிந்துணர்வு, சலிப்பு மற்றும் அவர்களை அன்புடன் ஏற்றுகொள்ளும்  இயல்பு, நிகழ்வான பேரிடத்தை உருவாக்குவதில் உதவும்."
+    }
+  }
+}

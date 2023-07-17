@@ -1,0 +1,25 @@
+{
+  "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+  "title": "nonbinary.ch - A Resource for Non-binary Individuals",
+  "description": "A comprehensive Swiss website providing information and resources related to non-binary gender identities. It's meant to help individuals exploring their own gender identity, or those who interact with non-binary individuals, by making foundational knowledge easily accessible. The site also hosts a blog, a newsletter, and links to relevant external resources like books, films, and research.",
+  "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+  "externalUrl": "https://www.nonbinary.ch/",
+  "tags": [
+    "non-binary",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "CH",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "youtubeUrl": "https://www.youtube.com/channel/",
+    "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+  }
+}

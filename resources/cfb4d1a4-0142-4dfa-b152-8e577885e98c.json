@@ -1,0 +1,109 @@
+{
+  "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+  "slug": "blaq-aboriginal-corporation",
+  "externalUrl": "https://blaq.org.au/",
+  "tags": [
+    "community-stories",
+    "education-awareness",
+    "social-services",
+    "support-groups"
+  ],
+  "address": "Redfern NSW 2016, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Redfern",
+  "county": "City of Sydney",
+  "latLng": [
+    -33.892215,
+    151.205873
+  ],
+  "email": "admin@blaq.org.au",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation is a community organisation dedicated to supporting and empowering the Aboriginal and Torres Strait Islander LGBTQ+SB community through innovation, inclusion, understanding and advocacy."
+    },
+    "fr-FR": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation est une organisation communautaire dédiée à soutenir et à autonomiser la communauté LGBTQ+SB autochtone et des îles du détroit de Torres grâce à l'innovation, l'inclusion, la compréhension et le plaidoyer."
+    },
+    "pt-PT": {
+      "title": "Corporação Aborígene BlaQ",
+      "description": "A Corporação Aborígene BlaQ é uma organização comunitária dedicada a apoiar e capacitar a comunidade LGBTQ+SB aborígene e das Ilhas do Estreito de Torres através de inovação, inclusão, compreensão e defesa."
+    },
+    "tr-TR": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation, yenilik, dahil etme, anlayış ve savunuculuk aracılığıyla Aborijin ve Torres Boğazı Adaları LGBTQ+SB topluluğunu desteklemeye ve güçlendirmeye adanmış bir topluluk organizasyonudur."
+    },
+    "de-DE": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "Die BlaQ Aboriginal Corporation ist eine Gemeinschaftsorganisation, die sich der Unterstützung und Stärkung der LGBTQ+SB-Gemeinschaft der Aborigines und Torres-Strait-Insulaner durch Innovation, Inklusion, Verständnis und Fürsprache widmet."
+    },
+    "id-ID": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation adalah sebuah organisasi masyarakat yang didedikasikan untuk mendukung dan memberdayakan komunitas LGBTQ+SB Aborigin dan Torres Strait Islander melalui inovasi, inklusi, pemahaman, dan advokasi."
+    },
+    "zh-CN": {
+      "title": "BlaQ原住民公司",
+      "description": "BlaQ原住民公司是一个社区组织，通过创新，包容，理解和倡导，致力于支持和赋权澳大利亚土著和托雷斯海峡岛民LGBTQ+SB社区。"
+    },
+    "sw-KE": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation ni shirika la jamii linalojitolea kusaidia na kuwawezesha jamii ya LGBTQ+SB ya Aboriginal na Torres Strait Islander kupitia ubunifu, ujumuishaji, uelewa na utetezi."
+    },
+    "es-ES": {
+      "title": "Corporación Aborigen BlaQ",
+      "description": "La Corporación Aborigen BlaQ es una organización comunitaria dedicada a apoyar y empoderar a la comunidad LGBTQ+SB aborigen e isleña del Estrecho de Torres a través de la innovación, inclusión, comprensión y defensa."
+    },
+    "ur-PK": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation ایک کمیونٹی تنظیم ہے جو نواں, شاملیت, تفہیم اور وکالت کے ذریعے Aboriginal اور Torres Strait Islander LGBTQ+SB کمیونٹی کی حمایت اور تقویت کی تقریب کرتی ہے۔"
+    },
+    "vi-VN": {
+      "title": "Tổ chức BlaQ Aboriginal",
+      "description": "Tổ chức BlaQ Aboriginal là một tổ chức cộng đồng dành cho việc hỗ trợ và trao quyền cho cộng đồng LGBTQ+SB người bản địa và đảo Torres Strait thông qua sự đổi mới, bao gồm, hiểu biết và ủng hộ."
+    },
+    "ja-JP": {
+      "title": "BlaQアボリジニ団体",
+      "description": "BlaQアボリジニ団体は、革新、包括性、理解、および擁護を通じてアボリジニとトレス海峡諸島のLGBTQ+SBコミュニティを支援し、力を付けることに専念しているコミュニティ組織です。"
+    },
+    "uk-UA": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation - це громадська організація, яка присвячена підтримці та заохоченню громади аборигенів та острів'ян Торрес-Стрейт LGBTQ+SB за допомогою інновацій, включення, розуміння та заступництва."
+    },
+    "ko-KR": {
+      "title": "블랙 어보리지널 기업",
+      "description": "BlaQ 어보리지널 기업은 혁신, 포괄성, 이해력 및 옹호를 통해 원주민과 토레스 해협 섬 주민 LGBTQ+SB 커뮤니티를 지원하고 강화하는 데 헌신하는 커뮤니티 조직입니다."
+    },
+    "ar-SA": {
+      "title": "مؤسسة BlaQ الأصلية",
+      "description": "مؤسسة BlaQ الأبوّريجيُنيّة هو مُنظّمة مُجتمعية مُكرّسة لدعم وتمكين المُجتمع الأبوّريجيُنيّ ومُجتمع LGBTQ+SB في جزيرة استرايت وتوريس، من خلال الابتكار، والشمول، والفهم والدعم."
+    },
+    "ru-RU": {
+      "title": "Блак Абориген Корпорация",
+      "description": "Блак Абориген Корпорация - это общественная организация, которая посвящена поддержке и укреплению сообщества ЛГБТК+СБ среди аборигенов и жителей островов Торрес-Стрейт при помощи инновации, инклюзии, понимания и защиты прав."
+    },
+    "mr-IN": {
+      "title": "BlaQ मूलवासी कॉर्पोरेशन",
+      "description": "BlaQ मूलवासी कॉर्पोरेशन ही एक समुदाय संगठन आहे, ज्याचे अभिप्रेत करणे आणि मूलवासी आणि तोरेस स्ट्रेट द्वीपवासी LGBTQ+SB समुदायाची सक्षमता वाढवणे आणि त्यांच्यासाठी समावेश, समज, अभिप्रेत आणि प्रतिनिधित्वाच्या माध्यमातून."
+    },
+    "hi-IN": {
+      "title": "BlaQ आदिवासी कॉर्पोरेशन",
+      "description": "BlaQ आदिवासी कॉर्पोरेशन एक समुदाय संगठन है जो अभिनव प्रक्रिया, समावेशन, समझ और अधिवक्ता के माध्यम से आदिवासी और टोरेस स्ट्रेट द्वीपवासी LGBTQ+SB समुदाय का समर्थन और सशक्तिकरण करने के लिए समर्पित है।"
+    },
+    "bn-BD": {
+      "title": "BlaQ Aboriginal Corporation",
+      "description": "BlaQ Aboriginal Corporation একটি সম্প্রদায় সংস্থা যা নবোদ্যম, অন্তর্ভুক্তি, বোধগম্যতা এবং উদ্যোগের মাধ্যমে Aboriginal এবং Torres Strait Islander LGBTQ+SB সম্প্রদায়ের সমর্থন এবং ক্ষমতা বৃদ্ধি করায় নিবেদিত।"
+    },
+    "ta-IN": {
+      "title": "BlaQ ஆபோரிஜினல் சங்கம்",
+      "description": "BlaQ ஆபோரிஜினல் சங்கம் அத்தியாயம், புதுமை, சேர்க்கை, அறிவிப்பு மற்றும் மேலாண்மை மூலம் ஆபோரிஜினல் மற்றும் டோரஸ் ஸ்ட்ரைட் தீவினர் LGBTQ+SB சமூகத்தை ஆதரிக்க மற்றும் மேலேற்றுவதற்கு முன்னோக்கிய கம்யூனிட்டி அமைப்பாகும்."
+    },
+    "te-IN": {
+      "title": "BlaQ అభోరిజినల్ సంస్థ",
+      "description": "BlaQ అభోరిజినల్ కార్పోరేషన్ అనేది ఒక కమ్యూనిటీ సంస్థ జో ఇనోవేషన్, ఇన్క్లూషన్, అర్థం చేసుకోవడం మరియు మార్గదర్శక ద్వారా అభోరిజినల్ మరియు టోరేస్ స్ట్రేట్ ఐలాండర్ LGBTQ+SB సముదాయాన్ని మద్దతు చేయడానికి మరియు ప్రతిపదీరించడానికి మీడ పడుది."
+    }
+  }
+}

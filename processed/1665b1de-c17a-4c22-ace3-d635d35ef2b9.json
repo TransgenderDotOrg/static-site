@@ -1,0 +1,30 @@
+{
+  "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+  "title": "Bundesverband Trans* e.V.",
+  "description": "Bundesverband Trans* e.V. is a national association that advocates for the rights of trans* persons in Germany, including those identifying as transsexual, transgender, genderqueer, non-binary, and trans*. They aim for the legal, political, and medical reform to improve the conditions for this community by organizing workshops, offering consultation, and releasing publications.",
+  "slug": "bundesverband-trans",
+  "externalUrl": "https://www.bundesverband-trans.de/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+  "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+  "country": "DE",
+  "provinceOrState": "BE",
+  "city": "Berlin",
+  "latLng": [
+    52.4890033,
+    13.3333558
+  ],
+  "email": "info@bv-trans.de",
+  "socialMedia": null,
+  "town": "Bezirk Charlottenburg-Wilmersdorf"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+  "slug": "bundesverband-trans",
+  "externalUrl": "https://www.bundesverband-trans.de/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+  "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+  "country": "DE",
+  "provinceOrState": "BE",
+  "city": "Berlin",
+  "latLng": [
+    52.4890033,
+    13.3333558
+  ],
+  "email": "info@bv-trans.de",
+  "socialMedia": null,
+  "town": "Bezirk Charlottenburg-Wilmersdorf",
+  "i18n": {
+    "en-US": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. is a national association that advocates for the rights of trans* persons in Germany, including those identifying as transsexual, transgender, genderqueer, non-binary, and trans*. They aim for the legal, political, and medical reform to improve the conditions for this community by organizing workshops, offering consultation, and releasing publications."
+    },
+    "id-ID": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. adalah sebuah asosiasi nasional yang membela hak-hak orang trans* di Jerman, termasuk mereka yang mengidentifikasi diri sebagai transseksual, transgender, genderqueer, non-binari, dan trans*. Mereka bertujuan untuk reformasi hukum, politik, dan medis untuk meningkatkan kondisi untuk komunitas ini dengan mengorganisir lokakarya, menawarkan konsultasi, dan merilis publikasi."
+    },
+    "es-ES": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. es una asociación nacional que aboga por los derechos de las personas trans* en Alemania, incluyendo a aquellos que se identifican como transexuales, transgénero, género queer, no binarios y trans*. Su objetivo es la reforma legal, política y médica para mejorar las condiciones de esta comunidad mediante la organización de talleres, ofreciendo consultas y publicando publicaciones."
+    },
+    "fr-FR": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. est une association nationale qui défend les droits des personnes trans* en Allemagne, y compris celles qui s'identifient comme transsexuelles, transgenres, genderqueer, non-binaires et trans*. Ils visent à la réforme légale, politique et médicale pour améliorer les conditions pour cette communauté en organisant des ateliers, en offrant des consultations et en publiant des publications."
+    },
+    "de-DE": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Der Bundesverband Trans* e.V. ist ein nationaler Verband, der sich für die Rechte von Trans*-Personen in Deutschland einsetzt, einschließlich derer, die sich als transsexuell, transgender, genderqueer, nicht-binär und trans* identifizieren. Sie zielen auf die rechtliche, politische und medizinische Reform ab, um die Bedingungen für diese Gemeinschaft zu verbessern, indem sie Workshops organisieren, Beratungen anbieten und Publikationen veröffentlichen."
+    },
+    "pt-PT": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. é uma associação nacional que defende os direitos das pessoas trans* na Alemanha, incluindo aqueles que se identificam como transexuais, transgêneros, genderqueer, não-binários e trans*. Eles visam a reforma legal, política e médica para melhorar as condições para esta comunidade, organizando oficinas, oferecendo consultoria e lançando publicações."
+    },
+    "sw-KE": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. ni chama cha kitaifa kinachotetea haki za watu wa trans* nchini Ujerumani, ikiwa ni pamoja na wale wanaojitambulisha kama transsexual, transgender, genderqueer, non-binary, na trans*. Wanajihusisha na marekebisho ya kisheria, kisiasa, na matibabu ili kuboresha hali kwa jamii hii kwa kuandaa warsha, kutoa ushauri, na kutoa machapisho."
+    },
+    "tr-TR": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V., Almanya'daki transseksüel, transgender, genderqueer, non-binary ve trans* olarak tanımlanan kişilerin haklarını savunan ulusal bir dernektir. Yasal, politik ve tıbbi reformları hedefleyerek bu topluluk için koşulları iyileştirmeyi hedeflerler. Bu hedefe ulaşmak için atölyeler düzenlerler, danışmanlık hizmetleri sunarlar ve yayınlar çıkarırlar."
+    },
+    "zh-CN": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V.是一个全国性的协会，它倡导德国转*人士的权益，包括自我认同为跨性别、跨性别、性别酷儿、非二元性别以及转*的人士。他们的目标是通过组织工作坊、提供咨询和出版物，推动法律、政策和医疗改革，以改善这个社区的条件。"
+    },
+    "ar-SA": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. هو جمعية وطنية تدافع عن حقوق الأشخاص المتحولين جنسياً* في ألمانيا، بما في ذلك الذين يتم تحديدهم كمتحولين جنسيا، عبر الجندر، غير ثنائي الجنس، ومتحول جنسياً*. يهدفون إلى الإصلاح القانوني والسياسي والطبي لتحسين الظروف لهذه المجتمع من خلال تنظيم ورش عمل، وتقديم الاستشارات، وإصدار المنشورات."
+    },
+    "ru-RU": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. - это национальная ассоциация, которая отстаивает права транс* лиц в Германии, включая идентифицирующих себя как транссексуалы, трансгендеры, гендерквир, небинарные и транс*. Они стремятся к законодательной, политической и медицинской реформе для улучшения условий для этого сообщества, организуя семинары, предлагая консультации и публикуя публикации."
+    },
+    "ko-KR": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V.는 독일에서 트랜스섹슈얼, 트랜스젠더, 젠더퀴어, 비이진, 트랜스* 등으로 자신을 규정하는 트랜스* 인사들의 권리를 대변하는 국가협회입니다. 이들은 워크숍을 개최하고 컨설팅을 제공하며 출판물을 발행함으로써 이 커뮤니티를 위한 법적, 정치적, 의료적 개혁을 통해 환경을 개선하기 위해 노력합니다."
+    },
+    "vi-VN": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. là một hội quốc gia đấu tranh cho quyền lợi của những người trans* tại Đức, bao gồm những người tự xác định là chuyển giới, chuyển giới, giới tính không rõ ràng, không nhị phân và trans*. Họ nhằm mục tiêu cải cách pháp lý, chính trị và y tế để cải thiện điều kiện cho cộng đồng này bằng cách tổ chức các buổi học, cung cấp tư vấn và xuất bản."
+    },
+    "ja-JP": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V.は、トランスセクシャル、トランスジェンダー、ジェンダークィア、ノンバイナリ、トランス*などと自己識別する人々を含む、ドイツのトランス*の人々の権利を擁護する全国協会です。彼らはワークショップを開催し、相談を提供し、出版物を発行することにより、このコミュニティのための法的、政治的、医療的な改革を目指します。"
+    },
+    "ur-PK": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. ایک قومی تنظیم ہے جو جرمنی میں ٹرانز* افراد کے حقوق کے لئے مبارزہ کرتی ہے، جن میں ٹرانزسیکشوئل، ٹرانزجینڈر، جنسیٹیڈکار، نان بائنری، اور ٹرانز* شامل ہیں۔ وہ قانونی، سیاسی، اور طبی اصلاح کی رہائش پر اجتماعات منظم کر کے، مشاورت فراہم کرنے، اور مطبوعات جاری کرنے سے اس کمیونٹی کے لئے حالات بہتر بنانے کی کوشش کرتے ہیں۔"
+    },
+    "uk-UA": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. - це національна асоціація, що займається захистом прав людей-транс* в Німеччині, включаючи осіб, що ідентифікують себе як трансексуали, трансгендери, гендерквіри, небінарні та транс*. Вони прагнуть до юридичної, політичної та медичної реформи з метою поліпшення умов для цієї спільноти, організовуючи семінари, надаючи консультації та випускаючи публікації."
+    },
+    "bn-BD": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. হলো একটি জাতীয় সমিতি যা জার্মানিতে ট্রান্স* ব্যক্তিদের অধিকারের জন্য একগুচ্ছ গঠন করে, যাতে অন্তর্গত ট্রানসেকসুয়াল, ট্রান্সজেন্ডার, জেন্ডারকিউয়ার, নন-বাইনারি, এবং ট্রান্স*। তারা আইন, রাজনীতি, এবং মেডিকেল সংশোধনের মাধ্যমে এই সম্প্রদায়ের জন্য অবস্থার উন্নতির জন্য প্রয়াস করে ওয়ার্কশপ আয়োজন করে, পরামর্শ দেয় এবং প্রকাশনা প্রকাশ করে।"
+    },
+    "hi-IN": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. एक राष्ट्रीय संघ है जो जर्मनी में ट्रांस* व्यक्तियों के अधिकारों के लिए समर्थन करती है, जिनमें ट्रांससेक्सुअल, ट्रांसजेंडर, जेंडरक्वियर, नॉन-बाइनरी, और ट्रांस* की तरह पहचान करने वाले शामिल हैं। वे इस समुदाय के लिए स्थितियों को बेहतर बनाने के लिए कानूनी, राजनीतिक, और चिकित्सा सुधार के लिए लक्ष्यबद्ध हैं, वर्कशॉप आयोजित करने, परामर्श प्रदान करने, और प्रकाशन जारी करने के द्वारा।"
+    },
+    "mr-IN": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. ही जर्मनीतील ट्रान्स* व्यक्तींच्या हक्कांसाठी संघटनेची एक राष्ट्रीय संस्था आहे, त्यातले ट्रान्ससेक्सुअल, ट्रान्सजेंडर, जेंडरक्विर, नॉन-बायनरी आणि ट्रान्स* म्हणजेच त्यांच्या ओळखीं साठीचे. त्यांचे ध्येय या समुदायासाठीच्या परिस्थितीच्या सुधारणासाठी कायदेशीर, राजकीय आणि वैद्यकीय सुधारणे करणे आहे जे या समुदायाच्या सल्ल्यांसाठी कार्यशाळांचे आयोजन करून, सल्ला देऊन आणि प्रकाशने सार्वजनिक करून मिळवलेले आहे."
+    },
+    "te-IN": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. అనేది జర్మనీలో ట్రాన్స్* వ్యక్తుల హక్కుల కోసం పోరాడే జాతీయ సంఘం, దాదాపు ట్రాన్సెక్సుఅల్, ట్రాన్స్జెండర్, జెండర్క్వీర్, నాన్-బైనరీ, మరియు ట్రాన్స్* గా గుర్తించే వ్యక్తులను కలిగి ఉంటుంది. ఈ సంఘం ఈ సముదాయానికి పరిస్థితులను మెరుగుపరచడానికి కనును, రాజకీయ మరియు వైద్య సుధారణను ఉద్దేశించి, వర్క్షాప్లను ఏర్పాటు చేసి, సలహా అందించడం మరియు ప్రచురణలను విడుదల చేస్తుంది."
+    },
+    "ta-IN": {
+      "title": "Bundesverband Trans* e.V.",
+      "description": "Bundesverband Trans* e.V. ஆகும் அது ஜெர்மனியில் திருநங்கைகளாக அடையாளம் காட்டுவதையும் அவர்களுக்குரிய உரிமைகளுக்குக் குவார் செய்வதையும் நாடு மட்டத்தில் சங்க அமைப்பு. இது திருநங்கையினரது, பாலினப் படிமம் மாறுவது, பாலினம் அலங்காரங்கள், முந்திரி வகையான, மற்றும் கூடுதல் ஆகியவற்றைக் கொண்டவர்களையேக் குறிக்கின்றது. அவர்கள் இந்த சமூகத்தின் நிலையானவற்றை மேம்படுத்துவதற்கான சட்ட, அரசியல், மற்றும் மருத்துவ மாற்றத்தை நோக்கிக் கொண்டு பயிற்சிகளைக் கட்டமைக்கின்றனர், ஆலோசனைகளை வழங்குகின்றனர், மற்றும் புத்தகங்களை வெளியிடுகின்றனர்."
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+  "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+  "externalUrl": "https://www.nonbinary.ch/",
+  "tags": [
+    "non-binary",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "CH",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "youtubeUrl": "https://www.youtube.com/channel/",
+    "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "nonbinary.ch - A Resource for Non-binary Individuals",
+      "description": "A comprehensive Swiss website providing information and resources related to non-binary gender identities. It's meant to help individuals exploring their own gender identity, or those who interact with non-binary individuals, by making foundational knowledge easily accessible. The site also hosts a blog, a newsletter, and links to relevant external resources like books, films, and research."
+    },
+    "de-DE": {
+      "title": "nonbinary.ch - Eine Ressource für nicht-binäre Personen",
+      "description": "Eine umfassende schweizerische Website mit Informationen und Ressourcen zu nicht-binären Geschlechtsidentitäten. Sie soll Personen helfen, die ihre eigene Geschlechtsidentität erforschen, oder solche, die mit nicht-binären Personen interagieren, indem sie grundlegendes Wissen leicht zugänglich macht. Die Seite beherbergt auch einen Blog, einen Newsletter und Links zu relevanten externen Ressourcen wie Büchern, Filmen und Forschungsarbeiten."
+    },
+    "id-ID": {
+      "title": "nonbinary.ch - Sebuah Sumber untuk Individu Non-binari",
+      "description": "Sebuah website Swiss yang komprehensif yang menyediakan informasi dan sumber daya terkait identitas gender non-binari. Website ini dimaksudkan untuk membantu individu yang sedang mengeksplorasi identitas gender mereka sendiri, atau orang-orang yang berinteraksi dengan individu non-binari, dengan cara memudahkan akses ke pengetahuan dasar. Situs ini juga memiliki blog, buletin, dan tautan ke sumber daya eksternal yang relevan seperti buku, film, dan penelitian."
+    },
+    "es-ES": {
+      "title": "nonbinary.ch - Un Recurso para Individuos No Binarios",
+      "description": "Un sitio web suizo exhaustivo que proporciona información y recursos relacionados con las identidades de género no binarias. Está destinado a ayudar a las personas que exploran su propia identidad de género, o a aquellas que interactúan con individuos no binarios, al hacer que el conocimiento fundamental sea fácilmente accesible. El sitio también alberga un blog, un boletín informativo y enlaces a recursos externos relevantes como libros, películas e investigaciones."
+    },
+    "pt-PT": {
+      "title": "nonbinary.ch - Um Recurso para Indivíduos Não-binários",
+      "description": "Um site suíço abrangente que fornece informações e recursos relacionados a identidades de gênero não-binárias. Destina-se a ajudar pessoas que exploram sua própria identidade de gênero, ou aqueles que convivem com indivíduos não-binários, tornando o conhecimento básico facilmente acessível. O site também hospeda um blog, um boletim informativo e links para recursos externos relevantes, como livros, filmes e pesquisas."
+    },
+    "zh-CN": {
+      "title": "nonbinary.ch - 非二元性别个体的资源",
+      "description": "这是一个全面的瑞士网站，提供与非二元性别身份相关的信息和资源。它旨在帮助探索自己性别身份的个体，或者与非二元性别个体交互的人，通过让基础知识容易获取。该网站还设有博客，新闻通讯，并链接到相关的外部资源，如书籍，电影和研究。"
+    },
+    "sw-KE": {
+      "title": "nonbinary.ch - Rasilimali kwa Watu wasio na Jinsia Maalum",
+      "description": "Tovuti kamili ya Uswisi inayotoa habari na rasilimali zinazohusiana na utambulisho wa jinsia zisizo na jinsia maalum. Inakusudiwa kuwasaidia watu kutafakari utambulisho wao wa jinsia, au wale ambao hushirikiana na watu wasio na jinsia maalum, kwa kuifanya maarifa ya msingi kuwa rahisi kupatikana. Tovuti pia ina blogu, jarida, na viungo kwa rasilimali za nje kama vile vitabu, filamu, na utafiti."
+    },
+    "ko-KR": {
+      "title": "nonbinary.ch - Non-binary 개인을 위한 리소스",
+      "description": "Non-binary 성 정체성과 관련한 정보와 리소스를 제공하는 종합적인 스위스 웹사이트입니다. 이는 개인의 성 정체성 탐색을 돕거나 Non-binary 개인과 상호작용하는 사람들에게 기본적인 지식을 쉽게 접근할 수 있게 돕습니다. 또한 사이트는 블로그, 뉴스레터, 그리고 책, 영화, 연구와 같은 관련 외부 리소스에 대한 링크를 호스팅합니다."
+    },
+    "fr-FR": {
+      "title": "nonbinary.ch - Une ressource pour les individus non binaires",
+      "description": "Un site web suisse complet fournissant des informations et des ressources liées aux identités de genre non binaires. Il est destiné à aider les individus à explorer leur propre identité de genre, ou ceux qui interagissent avec des individus non binaires, en rendant les connaissances de base facilement accessibles. Le site héberge également un blog, une newsletter et des liens vers des ressources externes pertinentes comme des livres, des films et des recherches."
+    },
+    "tr-TR": {
+      "title": "nonbinary.ch - Non-binary Bireyler için Bir Kaynak",
+      "description": "Non-binary cinsiyet kimlikleriyle ilgili bilgi ve kaynaklar sağlayan kapsamlı bir İsviçre web sitesi. Kendi cinsiyet kimliklerini keşfeden bireylerin ya da non-binary bireylerle iletişim kuranların, temel bilgilere kolayca erişebilmesi amacıyla tasarlanmıştır. Site ayrıca bir blog, bir bülten ve kitaplar, filmler ve araştırmalar gibi alakalı dış kaynaklara bağlantılar barındırır."
+    },
+    "uk-UA": {
+      "title": "nonbinary.ch - Ресурс для людей, що не вписуються в бінарну систему статевої ідентичності",
+      "description": "Цей швейцарський сайт надає інформацію та ресурси, пов'язані з не-бінарними статевими ідентичностями. Він призначений для того, щоб допомогти особам, що досліджують власну статеву ідентичність, або тим, хто взаємодіє з не-бінарними особами, роблячи базові знання легкодоступними. На сайті також розміщено блог, розсилку новин та посилання на актуальні зовнішні ресурси, такі як книги, фільми та дослідження."
+    },
+    "ar-SA": {
+      "title": "nonbinary.ch - مورد للأشخاص غير الثنائيين",
+      "description": "موقع سويسري شامل يقدم معلومات وموارد تتعلق بالهويات الجندرية غير الثنائية. يُقصد به مساعدة الأشخاص الذين يستكشفون هوية الجنس الخاصة بهم، أو أولئك الذين يتفاعلون مع الأشخاص غير الثنائيين، من خلال توفير المعرفة الأساسية بطريقة سهلة الوصول إليها. يستضيف الموقع أيضًا مدونة، ونشرة إخبارية، وروابط لموارد خارجية ذات صلة مثل الكتب والأفلام والأبحاث."
+    },
+    "vi-VN": {
+      "title": "nonbinary.ch - Một nguồn tài nguyên cho những người không nhị phân",
+      "description": "Một trang web Thụy Sĩ toàn diện cung cấp thông tin và tài nguyên liên quan đến giới tính không nhị phân. Nó được dự định để giúp những người đang khám phá giới tính của bản thân, hoặc những người tương tác với những người không nhị phân, bằng cách làm cho kiến thức cơ bản dễ dàng tiếp cận. Trang web cũng là nơi chứa blog, bản tin và liên kết đến các nguồn tài nguyên bên ngoài liên quan như sách, phim và nghiên cứu."
+    },
+    "ru-RU": {
+      "title": "nonbinary.ch - Ресурс для лиц, не принадлежащих к бинарному гендеру",
+      "description": "Подробный швейцарский сайт, предоставляющий информацию и ресурсы, связанные с не бинарными гендерными идентичностями. Он создан для помощи лицам, изучающим собственную гендерную идентичность, или тем, кто взаимодействует с не бинарными личностями, делая базовые знания легкодоступными. Сайт также содержит блог, информационный бюллетень и ссылки на соответствующие внешние ресурсы, такие как книги, фильмы и исследования."
+    },
+    "ja-JP": {
+      "title": "nonbinary.ch - ノンバイナリーな個々人のためのリソース",
+      "description": "ノンバイナリー性別アイデンティティに関連する情報とリソースを提供する包括的なスイスのウェブサイトです。それは、自身の性別アイデンティティを探求している個々人、またはノンバイナリーな個々人と交流している人々を支援することを目的としており、基礎的な知識を容易に利用可能にしています。このサイトでは、ブログ、ニュースレター、書籍、映画、研究などの関連する外部リソースへのリンクもホストしています。"
+    },
+    "mr-IN": {
+      "title": "nonbinary.ch - नॉन-बायनरी व्यक्तींसाठीचे संसाधन",
+      "description": "नॉन-बायनरी लिंग पोहच्या संबंधित माहिती आणि संसाधने प्रदान करणारी एक संपूर्ण स्विस वेबसाईट. हे त्यांच्या स्वत:च्या लिंग पोहच्याची शोध घेणार्या व्यक्तींना, किंवा नॉन-बायनरी व्यक्तींशी संपर्क साधत असलेल्या व्यक्तींना मूळभूत ज्ञान सहजपणे उपलब्ध करण्यासाठी मदत करते. साईटवर एक ब्लॉग, न्यूजलेटर आणि पुस्तके, चित्रपटे आणि संशोधनासारख्या संबंधित बाह्य संसाधनांच्या दुव्यांची मेजवाणीही आहे."
+    },
+    "ur-PK": {
+      "title": "nonbinary.ch - نان بائنری افراد کے لئے ایک وسیلہ",
+      "description": "ایک جامع سوئس ویب سائٹ ، جو نان بائنری جنسی شناختوں سے متعلق معلومات اور وسائل فراہم کرتی ہے۔ یہ ان افراد کی مدد کرنے کا ارادہ رکھتا ہے جو اپنی جنسی شناخت کا تجزیہ کر رہے ہوں ، یا ان لوگوں کے ساتھ جو نان بائنری افراد کے ساتھ تعامل کرتے ہیں ، تاکہ بنیادی علم آسانی سے دستیاب ہو۔ اس سائٹ پر ایک بلاگ ، ایک نیوز لیٹر بھی میزبانی کی جاتی ہے ، اور کتابوں ، فلموں ، اور تحقیقات جیسے متعلقہ خارجی وسائل کی جانب ربط بھی ہیں۔"
+    },
+    "hi-IN": {
+      "title": "nonbinary.ch - नॉन-बाइनरी व्यक्तियों के लिए एक संसाधन",
+      "description": "एक व्यापक स्विस वेबसाइट जो नॉन-बाइनरी लिंग पहचानों से संबंधित जानकारी और संसाधन प्रदान करती है। यह उन व्यक्तियों की सहायता करने के लिए है जो अपनी लिंग पहचान का अन्वेषण कर रहे हैं, या जो नॉन-बाइनरी व्यक्तियों के साथ संपर्क में हैं, ताकि मूलभूत ज्ञान आसानी से सुलभ हो जाए। साईट एक ब्लॉग, एक न्यूजलेटर भी मेजबानी करती है, और पुस्तकों, फिल्मों, और अनुसंधान के बाहरी संसाधनों के लिए संबंधित लिंक्स प्रदान करती है।"
+    },
+    "bn-BD": {
+      "title": "nonbinary.ch - নন-বাইনারি ব্যক্তিদের জন্য একটি উস্কানি",
+      "description": "নন-বাইনারি জেন্ডার পরিচয় সম্পর্কিত তথ্য এবং সম্পদ প্রদানকারী একটি সম্পূর্ণ সুইস ওয়েবসাইট। এর মানে হলো যারা নিজেদের জেন্ডার পরিচয় অন্বেষণ করছেন বা যারা নন-বাইনারি ব্যক্তিদের সাথে যোগাযোগ রাখছেন, তাদের জন্য মৌলিক জ্ঞান সহজলভ্য করে তোলা। সাইটটি একটি ব্লগ, একটি নিউজলেটার এবং বই, চলচ্চিত্র এবং গবেষণা মতো প্রাসঙ্গিক বাইরের সম্পদের লিঙ্ক দখল করে।"
+    },
+    "ta-IN": {
+      "title": "nonbinary.ch - நான்-இருமைப்பாலினர்களுக்கான ஒரு வளம்",
+      "description": "நான்-இருமைப்பாலினர்களுக்கான சமிழாக்கப்பட்ட தகவல்களையும், வளம் வழங்கியும் ஒரு ஐக்கிய ஸ்விஸ் வலைத்தளம். இது தனது பாலிநடை அடையாளத்தைக் கண்டறியும் நபர்களுக்கு, அல்லது முன்னரே பாலிநடை ஆணுதல்களைப் புரிந்துணரும் நபர்களுக்கு உதவுவதற்காகவே ஏற்பாடு செய்யப்பட்டுள்ளது. அது அடித்தள அறிவை எளிதாக ஏற்பாடு செய்ய உதவுகிறது. இதுவேற்கும் அல்லாவின் ஆய்வு, புத்தக, திரைப்பட முதன்முதன்மாக உள்ள வெளி வளங்களுக்கு இணைப்புகளையும் தத்துவமாக வைத்திருக்கின்றது."
+    },
+    "te-IN": {
+      "title": "nonbinary.ch - నాన్-బైనరీ వ్యక్తులకు ఒక సంపద",
+      "description": "నాన్-బైనరీ లింగ గుర్తులకు సంబంధించిన సమగ్ర స్విస్ వెబ్సైటు సమాచారం మరియు వనరులను అందిస్తుంది. దీని ఉద్దేశ్యం వ్యక్తుల స్వంత లింగ గుర్తును అన్వేషిస్తున్నవారికి, లేదా నాన్-బైనరీ వ్యక్తులతో సంప్రదించే వారికి అవసరమైన జ్ఞానాన్ని సులభంగా అందించడం. ఈ సైటు కూడా ఒక బ్లాగ్, న్యూస్లెటర్, మరియు పుస్తకాలు, సినిమాలు, మరియు పవర్చలో సంబంధిత బహిరంగ వనరుల లింక్లను హోస్ట్ చేస్తుంది."
+    }
+  }
+}

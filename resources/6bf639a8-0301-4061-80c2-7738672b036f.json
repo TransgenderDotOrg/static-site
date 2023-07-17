@@ -1,0 +1,112 @@
+{
+  "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+  "slug": "trans-in-3-steps",
+  "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "voice-training"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "johanna4711@zohomail.eu",
+  "socialMedia": {
+    "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Trans* in 3 Steps",
+      "description": "A project that serves as a guide to help during the transition of an individual. It includes terminology related to trans*, information on how to know if one is trans*, resources for psychological counseling, medical procedures, anecdotal coming out stories, legal information on changing names and gender status, as well as links to various resources and services."
+    },
+    "es-ES": {
+      "title": "Trans* en 3 Pasos",
+      "description": "Un proyecto que sirve como guía para ayudar durante la transición de un individuo. Incluye terminología relacionada con trans*, información sobre cómo saber si uno es trans*, recursos para asesoramiento psicológico, procedimientos médicos, historias anecdóticas de coming out, información legal sobre el cambio de nombres y estado de género, así como enlaces a varios recursos y servicios."
+    },
+    "pt-PT": {
+      "title": "Trans* em 3 Passos",
+      "description": "Um projeto que serve como um guia para ajudar durante a transição de um indivíduo. Inclui terminologia relacionada a trans*, informações sobre como saber se alguém é trans*, recursos para aconselhamento psicológico, procedimentos médicos, histórias anedóticas de coming out, informações legais sobre mudança de nome e status de gênero, bem como links para vários recursos e serviços."
+    },
+    "fr-FR": {
+      "title": "Trans* en 3 étapes",
+      "description": "Un projet qui sert de guide pour aider lors de la transition d'un individu. Il comprend la terminologie liée à trans*, des informations sur comment savoir si on est trans*, des ressources pour des conseils psychologiques, des procédures médicales, des histoires anecdotiques de coming out, des informations légales sur le changement de noms et de statut de genre, ainsi que des liens vers diverses ressources et services."
+    },
+    "sw-KE": {
+      "title": "Trans* kwa Hatua 3",
+      "description": "Mradi unaotumika kama mwongozo wa kusaidia wakati wa kubadilika kwa mtu binafsi. Unajumuisha istilahi zinazohusiana na trans*, habari jinsi ya kujua kama mtu ni trans*, rasilimali za ushauri wa kisaikolojia, taratibu za matibabu, hadithi za kutoka nje, habari za kisheria kuhusu kubadilisha majina na hali ya jinsia, pamoja na viungo kwa rasilimali mbalimbali na huduma."
+    },
+    "ko-KR": {
+      "title": "3단계에서 Trans*",
+      "description": "개인의 전환 도중 도움이 될 가이드로서의 역할을 하는 프로젝트입니다. 이것은 trans*와 관련된 용어, trans*인지 어떻게 알 수 있는지에 대한 정보, 심리 치료 자료, 의료 절차, 일화적인 커밍아웃 스토리, 이름과 성별 상태 변경에 대한 법적 정보, 그리고 다양한 자원과 서비스로의 링크를 포함하고 있습니다."
+    },
+    "de-DE": {
+      "title": "Trans* in 3 Schritten",
+      "description": "Ein Projekt, das als Leitfaden dient, um bei der Transition einer Person zu helfen. Es enthält Terminologie im Zusammenhang mit Trans*, Informationen darüber, wie man weiß, ob man trans* ist, Ressourcen für psychologische Beratung, medizinische Verfahren, anekdotische Coming-Out-Geschichten, rechtliche Informationen zur Änderung von Namen und Geschlechtsstatus sowie Links zu verschiedenen Ressourcen und Diensten."
+    },
+    "tr-TR": {
+      "title": "3 Adımda Trans*",
+      "description": "Bir bireyin geçiş sürecine yardımcı olmak için rehberlik eden bir proje. Trans* ile ilgili terminolojiyi, birinin trans* olup olmadığını nasıl anlayacağı üzerine bilgi, psikolojik danışmanlık kaynaklarını, tıbbi prosedürleri, anekdot hikayeleri, isim ve cinsiyet durumunu değiştirme hakkında yasal bilgileri ve çeşitli kaynaklara ve hizmetlere olan bağlantıları içerir."
+    },
+    "id-ID": {
+      "title": "Trans* dalam 3 Langkah",
+      "description": "Sebuah proyek yang berfungsi sebagai panduan untuk membantu selama transisi individu. Ini mencakup terminologi terkait trans*, informasi tentang cara mengetahui jika seseorang adalah trans*, sumber daya untuk konseling psikologis, prosedur medis, cerita keluar anekdotal, informasi hukum tentang perubahan nama dan status jenis kelamin, serta tautan ke berbagai sumber daya dan layanan."
+    },
+    "vi-VN": {
+      "title": "Trans* trong 3 Bước",
+      "description": "Một dự án hoạt động như một hướng dẫn giúp trong quá trình chuyển đổi của một cá nhân. Nó bao gồm thuật ngữ liên quan đến trans*, thông tin về cách để biết một người có phải là trans* hay không, nguồn lực cho tư vấn tâm lý, các quy trình y tế, câu chuyện kể lại về việc coming out, thông tin pháp lý về việc thay đổi tên và giới tính, cũng như các liên kết đến các nguồn lực và dịch vụ khác nhau."
+    },
+    "zh-CN": {
+      "title": "Trans* 的三个步骤",
+      "description": "这是一个项目，作为指南帮助个体在过渡期间。它包括与 trans* 相关的术语，如何判断一个人是否为 trans* 的信息，心理咨询资源，医疗程序，轶事出柜故事，更改名字和性别状态的法律信息，以及链接到各种资源和服务的链接。"
+    },
+    "ja-JP": {
+      "title": "3ステップで理解するトランス*",
+      "description": "個々のトランジションを支援するためのガイドとなるプロジェクト。トランス*に関連する用語、自分がトランス*であるかどうかを知る方法、心理カウンセリングのリソース、医療手続き、実体験に基づくカミングアウトのストーリー、名前とジェンダーのステータスを法的に変更するための情報、さまざまなリソースとサービスへのリンクを含む。"
+    },
+    "ru-RU": {
+      "title": "Транс* в 3 шагах",
+      "description": "Проект, служащий в качестве руководства для помощи во время трансформации индивидуума. Он включает в себя терминологию, связанную с транс*, информацию о том, как узнать, являетесь ли вы транс*, ресурсы для психологического консультирования, медицинские процедуры, анекдотические истории о выходе из «шкафа», юридическую информацию об изменении имен и полового статуса, а также ссылки на различные ресурсы и услуги."
+    },
+    "ar-SA": {
+      "title": "التحول إلى* في 3 خطوات",
+      "description": "هذا المشروع يعمل كدليل للمساعدة خلال عملية التحول للفرد. يتضمن المصطلحات المتعلقة بالتحول إلى*, المعلومات عن كيفية معرفة إذا كان الشخص ينتمي لـ *, موارد للاستشارات النفسية, الإجراءات الطبية, قصص تعبيرية حول الكشف عن الهوية, المعلومات القانونية حول تغيير الأسماء والوضع الجندري, ووصلات لموارد وخدمات مختلفة."
+    },
+    "hi-IN": {
+      "title": "तीन कदमों में ट्रांस*",
+      "description": "एक प्रोजेक्ट जो किसी व्यक्ति के संक्रमण के दौरान सहायता के लिए एक मार्गदर्शक के रूप में काम करता है। इसमें ट्रांस* से संबंधित शब्दावली, यह जानने के तरीके कि क्या कोई ट्रांस* है, मनोवैज्ञानिक परामर्श के लिए संसाधन, चिकित्सीय प्रक्रियाएं, कथानक आउट की कहानियाँ, नाम और लिंग स्थिति बदलने की कानूनी जानकारी, साथ ही विभिन्न संसाधनों और सेवाओं के लिंक शामिल हैं।"
+    },
+    "ur-PK": {
+      "title": "3 منزلوں میں Trans*",
+      "description": "ایک منصوبہ جو ایک فرد کے تبدیلی کے دوران مدد کرنے کے لئے ایک ہدایت کا کام کرتا ہے. اس میں Trans* سے متعلقہ اصطلاحات شامل ہیں، ایک شخص کو یہ جاننے کے لئے معلومات کہ وہ Trans* ہے یا نہیں، نفسیاتی مشاورت کے لئے وسائل، طبی طریقہ کار، واقعاتی کہانیاں آمد، ناموں اور جنسی حیثیت تبدیل کرنے کے قانونی معلومات، اور مختلف وسائل اور خدمات کے لنکس بھی شامل ہیں."
+    },
+    "mr-IN": {
+      "title": "त्रान्स*मधील 3 पायरी",
+      "description": "या प्रकल्पाचा मुख्य उद्दिष्ट एका व्यक्तीच्या परिवर्तनादरम्यान मदत करणारा मार्गदर्शक म्हणून काम करणे आहे. यात त्रान्स*संबंधी शब्दसंग्रह, त्रान्स*असल्याची कशी ओळख मिळवायची माहिती, मनोवैज्ञानिक सल्लागारीसाठी संसाधने, वैद्यकीय प्रक्रिया, मुखेदर्शक कथांमधील आपल्या किंवा मुलीच्या किंवा मुलांच्या लिंग परिवर्तनाच्या कथा, नाव आणि लिंग स्थिती बदलण्यासाठीची कायदेशीर माहिती आणि विविध संसाधने आणि सेवांच्या लिंकसह असलेली माहिती समाविष्ट केली आहे."
+    },
+    "bn-BD": {
+      "title": "তিন ধাপে ট্রান্স*",
+      "description": "একটি প্রকল্প যা একজন ব্যক্তির পরিবর্তন এর সময় সহায়তা করার হরত্তে গাইড হিসেবে কাজ করে। এটিতে ট্রান্স* সম্পর্কীয় শব্দাবলি, কিভাবে জানতে হবে যে কেউ ট্রান্স* কিনা, মানসিক পরামর্শের জন্য সম্পদ, চিকিত্সা পদ্ধতি, উত্সপের গল্প, নাম এবং লিঙ্গ অবস্থা পরিবর্তনের আইনি তথ্য, এবং বিভিন্ন সম্পদ এবং সেবাগুলিতে লিঙ্ক অন্তর্ভুক্ত করা হয়েছে।"
+    },
+    "ta-IN": {
+      "title": "3 படிகளில் Trans* ",
+      "description": "ஒரு மக்களின் மாற்றுத்திறனை உதவும் வழிகாட்டுக்காக ஒரு திட்டத்தை சேவை செய்தல். இது trans* உள்ளாட்சி, ஒருவன் trans* ஆக இருப்பது எப்படி அறிய வகையாக, மனநேர்வு ஆலோசனைக்கான வளங்கள், மருத்துவ செயல்முறைகள், அநேகபேரின் கதைகள், பெயர்களையும் பாலின் நிலையையும் மாற்றும் சட்டத்தை விவரமாகவும் வேறு வளங்களுக்கான இணைப்புகளையும் உள்ளடக்கியுள்ளது."
+    },
+    "te-IN": {
+      "title": "3 దశలలో Trans*",
+      "description": "ఒక వ్యక్తిని మార్పిడి యొక్క ప్రక్రియలో సహాయపడడానికి ఒక మార్గదర్శకంగా పని చేసే ప్రాజెక్ట్. ఇది trans*కు సంబంధించిన టర్మినోలజీని ఉంచి, ఒకరు trans* అయితే ఎలా తెలుసుకోవాలో సమాచారాన్ని, మానసిక సలహాదానికి వనరులను, వైద్య ప్రక్రియలు, వ్యక్తిగత రాక వచ్చిన కథలను, పేరు మరియు లింగ స్థితిని మార్చడానికి చట్టబద్ధ సమాచారాన్ని ఉంచేయడాగును పలు సమ్పద మరియు సేవలకు లింకులను."
+    },
+    "uk-UA": {
+      "title": "Транс* у 3 кроках",
+      "description": "Проект, що є допоміжним посібником під час переходу особи. Він включає термінологію, пов'язану з транс*, інформацію про те, як зрозуміти, чи ви є транс*, ресурси для психологічного консультування, медичні процедури, анекдотичні історії про \"coming out\", юридичну інформацію про зміну імені та гендерного статусу, а також посилання на різноманітні ресурси та послуги."
+    }
+  }
+}

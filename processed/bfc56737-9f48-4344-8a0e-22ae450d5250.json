@@ -1,0 +1,25 @@
+{
+  "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+  "title": "Learning With Love: The 2023 PFLAG National Convention",
+  "description": "A four-day event organized by PFLAG for connecting, networking, learning, and sharing experiences. The convention will host workshops, panels, and presentations to support their mission of creating a caring, just, and affirming world for LGBTQ+ people and those who love them.",
+  "slug": "learning-with-love-the-2023-pflag-national-convention",
+  "externalUrl": "https://pflag.org/",
+  "tags": [
+    "education-awareness",
+    "support-groups",
+    "parent-family-resources",
+    "community-stories"
+  ],
+  "address": "Washington, DC, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Washington",
+  "county": "District of Columbia",
+  "latLng": [
+    38.9071923,
+    -77.0368707
+  ],
+  "email": null,
+  "socialMedia": null
+}

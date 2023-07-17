@@ -1,0 +1,27 @@
+{
+  "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+  "title": "RFSL - The Swedish Federation for Lesbian, Gay, Bisexual, Transgender and Queer Rights",
+  "description": "RFSL is a Swedish organization that works with and for LGBTQ rights. They provide crucial resources, community support, education & awareness, legal guidance, health services, and more for the transgender community. RFSL also promotes LGBTQ rights on an international level.",
+  "slug": "rfsl-swedish-federation-lgbtq-rights",
+  "externalUrl": "https://www.rfsl.se/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "SE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {}
+}

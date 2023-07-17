@@ -1,0 +1,104 @@
+{
+  "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
+  "slug": "gender-affirmative-letter-access-project",
+  "externalUrl": "https://thegalap.org/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "The Gender Affirmative Letter Access Project",
+      "description": "The GALAP is a platform for independent clinicians providing gender affirming care. They offer resources such as therapist directories, letter writing guides for gender affirmation and more. Please note, the skills or expertise of any pledge signer cannot be verified by GALAP."
+    },
+    "zh-CN": {
+      "title": "性别确认信件获取项目",
+      "description": "GALAP是一个为提供性别肯定护理的独立临床医生提供平台。他们提供的资源包括治疗师目录、性别确认的信件编写指南等等。请注意，GALAP不能验证任何承诺签名者的技能或专业知识。"
+    },
+    "fr-FR": {
+      "title": "Le projet d'accès à la lettre d'affirmation de genre",
+      "description": "Le GALAP est une plateforme pour les cliniciens indépendants fournissant des soins d'affirmation de genre. Ils proposent des ressources telles que des annuaires de thérapeutes, des guides de rédaction de lettres pour l'affirmation de genre et plus encore. Veuillez noter, les compétences ou l'expertise de tout signataire de pledge ne peuvent pas être vérifiées par GALAP."
+    },
+    "id-ID": {
+      "title": "Proyek Akses Surat Afirmasi Gender",
+      "description": "GALAP adalah platform untuk klinisi independen yang memberikan perawatan afirmasi gender. Mereka menawarkan sumber daya seperti direktori terapis, panduan penulisan surat untuk afirmasi gender dan lainnya. Harap dicatat, keahlian atau keahlian dari penandatangan janji tidak dapat diverifikasi oleh GALAP."
+    },
+    "pt-PT": {
+      "title": "O Projeto de Acesso à Carta de Afirmação de Gênero",
+      "description": "O GALAP é uma plataforma para clínicos independentes que fornecem cuidados de afirmação de gênero. Eles oferecem recursos como diretórios de terapeutas, guias de redação de cartas para afirmação de gênero e muito mais. Por favor, note que a habilidade ou expertise de qualquer signatário do compromisso não pode ser verificada pelo GALAP."
+    },
+    "es-ES": {
+      "title": "El Proyecto de Acceso a la Carta Afirmativa de Género",
+      "description": "El GALAP es una plataforma para clínicos independientes que proporcionan atención afirmativa de género. Ofrecen recursos como directorios de terapeutas, guías de escritura de cartas para la afirmación de género y más. Por favor, tenga en cuenta que las habilidades o la experiencia de cualquier firmante de la promesa no pueden ser verificadas por GALAP."
+    },
+    "de-DE": {
+      "title": "Das Geschlechtsbestätigende Schreiben Zugangsprojekt",
+      "description": "GALAP ist eine Plattform für unabhängige Kliniker, die geschlechtsbestätigende Versorgung bieten. Sie bieten Ressourcen wie Therapeutenverzeichnisse, Schreibführer für Geschlechtsbestätigung und mehr. Bitte beachten Sie, dass die Fähigkeiten oder Fachkenntnisse eines Unterzeichners eines Versprechens von GALAP nicht überprüft werden können."
+    },
+    "ko-KR": {
+      "title": "성 정체성 확증 사안에 대한 서신 접근 프로젝트",
+      "description": "GALAP은 성 정체성을 확인하는 치료를 제공하는 독립 클리니션을 위한 플랫폼입니다. 그들은 치료사 목록, 성 정체성 확인을 위한 서신 작성 가이드 등의 자원을 제공합니다. 참고로, 어떤 서명자의 스킬이나 전문성은 GALAP에 의해 확인되지 않을 수 있음을 유의하시기 바랍니다."
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Onaylama Mektubu Erişim Projesi",
+      "description": "GALAP, cinsiyet onaylama bakımı sağlayan bağımsız klinisyenler için bir platformdur. Terapist dizinleri, cinsiyet onayı için mektup yazma rehberleri ve daha fazlası gibi kaynaklar sunarlar. Lütfen not edin, herhangi bir taahhüt imzacısının yetenekleri veya uzmanlığı GALAP tarafından doğrulanamaz."
+    },
+    "sw-KE": {
+      "title": "Mradi wa Upatikanaji wa Barua ya Kuthibitisha Jinsia",
+      "description": "GALAP ni jukwaa la wataalam binafsi wanaotoa huduma za kuthibitisha jinsia. Wanatoa rasilimali kama saraka za mtaalam wa ushauri, miongozo ya uandishi wa barua kwa uthibitisho wa jinsia na zaidi. Tafadhali kumbuka, ujuzi au utaalam wa mtia saini wa ahadi yoyote haiwezi kuthibitishwa na GALAP."
+    },
+    "ja-JP": {
+      "title": "ジェンダーアフィマティブレターアクセスプロジェクト",
+      "description": "GALAPは、性別を肯定するケアを提供する独立した臨床医のためのプラットフォームです。彼らは、セラピストのディレクトリ、性別確認のためのレター作成ガイドなどのリソースを提供しています。なお、誓約署名者の技能または専門知識はGALAPによって確認できないことにご注意ください。"
+    },
+    "vi-VN": {
+      "title": "Dự án Truy cập Thư khẳng định Giới tính",
+      "description": "GALAP là một nền tảng dành cho các nhà lâm sàng độc lập cung cấp chăm sóc khẳng định giới tính. Họ cung cấp các nguồn lực như danh bạ nhà trị liệu, hướng dẫn viết thư để khẳng định giới tính và nhiều hơn nữa. Xin lưu ý, kỹ năng hay chuyên môn của bất kỳ người ký cam kết nào cũng không thể được xác thực bởi GALAP."
+    },
+    "ru-RU": {
+      "title": "Проект о предоставлении доступа к письмам о подтверждении гендерной принадлежности",
+      "description": "GALAP - это платформа для независимых врачей, предоставляющих гендерно-утвердительную помощь. Они предлагают такие ресурсы как справочники терапевтов, руководства по написанию писем для подтверждения гендерной принадлежности и многое другое. Обратите внимание, что навыки или квалификация любого подписанта обязательства не могут быть подтверждены GALAP."
+    },
+    "uk-UA": {
+      "title": "Проєкт доступу до підтверджуючих статеву належність листів",
+      "description": "GALAP - це платформа для незалежних лікарів, які надають підтверджуючу статеву належність догляд. Вони пропонують такі ресурси, як довідники терапевтів, посібники з написання листів для підтвердження статевої належності та багато іншого. Будь ласка, зверніть увагу, що навички або кваліфікацію будь-якого підписанта зобов'язань неможливо перевірити за допомогою GALAP."
+    },
+    "ar-SA": {
+      "title": "مشروع الحصول على الرسالة التأكيدية للجنس",
+      "description": "يعد GALAP منصة لأطباء العيادات الخاصة الذين يقدمون الرعاية التأكيدية للجنس. يقدمون موارد مثل دلائل المعالجين، دلائل كتابة الرسائل لتأكيد الجنس وأكثر من ذلك. يرجى ملاحظة أنه لا يمكن التحقق من المهارات أو الخبرة لأي موقع التعهد الذي تم توقيعه بواسطة GALAP."
+    },
+    "ur-PK": {
+      "title": "جنسی توثیق کا خط رسائی منصوبہ",
+      "description": "GALAP گینڈر توثیق کے خیال کی فراہمی کے لئے آزاد کلینیشنز کا ایک پلیٹ فارم ہے. وہ تھرپسٹ ڈائریکٹریز ، جنسی تصدیق کے لئے خط لکھنے کی رہنمائیں اور زیادہ میں ریسورسز فراہم کرتے ہیں. براہ کرم نوٹ کریں، GALAP کسی بھی قسم کے وعدہ کرنے والے کی مہارت یا تجربہ کی تصدیق نہیں کرسکتا ہے."
+    },
+    "hi-IN": {
+      "title": "लिंग स्थापन पत्र पहुंच परियोजना",
+      "description": "GALAP एक मंच है जो स्वतंत्र चिकित्सकों के लिए लिंग पुष्टि देखभाल प्रदान करता है। वे संसाधन जैसे कि चिकित्सक निर्देशिकाएं, लिंग पुष्टि के लिए पत्र लेखन मार्गदर्शिका और अधिक प्रदान करते हैं। कृपया ध्यान दें, GALAP द्वारा किसी भी प्रतिज्ञा हस्ताक्षरकर्ता की कौशल या विशेषज्ञता की पुष्टि नहीं की जा सकती है।"
+    },
+    "mr-IN": {
+      "title": "लिंग संबंधीत पत्र प्रवेश प्रकल्प",
+      "description": "जी.ए.एल.ए.पी. हे लिंगांनुसार स्वीकार मिळवणार्‍या स्वतंत्र उपचारकांसाठी एक प्लॅटफॉर्म आहे. ते उपचारक सूची, लिंग पुष्टीसाठी पत्र लेखन मार्गदर्शक इत्यादी साधनांची सुविधा पुरवतात. कृपया लक्षात ठेवा, कोणत्याही प्रतिज्ञापत्राच्या सहीकरणाची कुशलता किंवा तज्ञता जीएएलएपीने पडताळणी करता येत नाही."
+    },
+    "bn-BD": {
+      "title": "জেন্ডার আফার্মেটিভ লেটার এক্সেস প্রকল্প",
+      "description": "GALAP হল জেন্ডার আফার্মিং কেয়ার প্রদানকারী স্বাধীন ক্লিনিকিয়ানদের জন্য একটি প্ল্যাটফর্ম। তারা থেরাপিস্ট ডিরেক্টরিস, জেন্ডার আফারমেশনের জন্য চিঠি লেখার নির্দেশিকা এবং আরও বেশী সুযোগ প্রদান করেন। দয়া করে লক্ষ্য করুন, GALAP দ্বারা কোন অঙ্গীকারকারীর দক্ষতা বা বিশেষজ্ঞতা যাচাই করা যাবে না।"
+    },
+    "ta-IN": {
+      "title": "பாலின் சார்ந்த கடிதம் அணுகும் முயற்சியின் திட்டம்",
+      "description": "GALAP முதன்மொழி சிகிச்சையாளர்கள் வழங்கும் பாலியல் சேர்ந்த பராமரிப்புக்கு மேடையாகும். அவர்கள் ஆலோசகர் அடைவுகள், பாலின் சார்ந்த கடிதத்துக்கு வழிகாட்டியாக எழுதும் வழிமுறைகள் மற்றும் மேலும் வித விதமான வளங்கள் வழங்குகின்றனர். தயவுகூர்ந்து குறிப்பிடவும், GALAP மூலம் ஏதேனும் ஒப்பந்த கையொப்பதாரரின் திறமை அல்லது மாண்பாடு சரிபார்க்க முடியாது."
+    },
+    "te-IN": {
+      "title": "జెండర్ ఆఫర్మేటివ్ లెటర్ యాక్సెస్ ప్రాజెక్ట్",
+      "description": "గలాప్ అనేది జెండర్ ఆఫర్మేటివ్ కేర్ను అందించే స్వతంత్ర చిలినికాల కోసం ఒక వేదిక. వారు సామాజిక సేవకుల డైరెక్టరీలు, జెండర్ ఆఫర్మేటివ్ కోసం లెటర్ రాయడానికి మార్గదర్శకాలు మరియు మరిన్ని సంస్థలను అందిస్తుంది. మీరు గమనించవలసిన విషయం గలాప్ ద్వారా ఏ ప్రతిజ్ఞా సైనర్ యొక్క నైపుణ్యాలు లేదా పరిణతిని తనిఖీ చేయలేము."
+    }
+  }
+}

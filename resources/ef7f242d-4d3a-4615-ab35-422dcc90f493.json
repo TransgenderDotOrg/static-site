@@ -1,0 +1,108 @@
+{
+  "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+  "slug": "the-genderaid",
+  "externalUrl": "https://genderaid.org/en",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": "NH",
+  "city": "Amsterdam",
+  "county": "Amsterdam",
+  "latLng": [
+    52.3346104,
+    4.8598083
+  ],
+  "email": "info@genderaid.org",
+  "socialMedia": null,
+  "town": "Amsterdam-Zuid",
+  "i18n": {
+    "en-US": {
+      "title": "The GenderAid",
+      "description": "The GenderAid is a decision aid for genital gender surgery, aiming to provide complete and reliable information about the treatment options. It focuses on the Dutch health care system, adhering to the guidelines of the WPATH, and has been developed for all parts of the transgender community, including non-binary, genderfluid, and genderqueer individuals."
+    },
+    "pt-PT": {
+      "title": "O GenderAid",
+      "description": "O GenderAid é um auxílio à decisão para cirurgia de gênero genital, visando fornecer informações completas e confiáveis sobre as opções de tratamento. Concentra-se no sistema de saúde holandês, aderindo às diretrizes da WPATH, e foi desenvolvido para todas as partes da comunidade transgênero, incluindo indivíduos não binários, de gênero fluido e de gênero queer."
+    },
+    "id-ID": {
+      "title": "The GenderAid",
+      "description": "The GenderAid adalah alat bantu keputusan untuk operasi jenis kelamin, bertujuan untuk menyediakan informasi lengkap dan dapat diandalkan tentang pilihan perawatan. Ini berfokus pada sistem perawatan kesehatan Belanda, mengikuti pedoman WPATH, dan telah dikembangkan untuk semua bagian dari komunitas transgender, termasuk individu non-binari, genderfluid, dan genderqueer."
+    },
+    "de-DE": {
+      "title": "Die GenderAid",
+      "description": "Die GenderAid ist eine Entscheidungshilfe für genitale Geschlechtsoperationen, die darauf abzielt, vollständige und zuverlässige Informationen über die Behandlungsoptionen zu liefern. Sie konzentriert sich auf das niederländische Gesundheitssystem, hält sich an die Richtlinien der WPATH und wurde für alle Teile der Transgender-Gemeinschaft entwickelt, einschließlich nicht-binärer, geschlechtsfluider und genderqueerer Personen."
+    },
+    "sw-KE": {
+      "title": "The GenderAid",
+      "description": "The GenderAid ni msaidizi wa maamuzi kwa upasuaji wa jinsia ya sehemu za siri, yenye lengo la kutoa habari kamili na za kuaminika kuhusu chaguo za matibabu. Inazingatia mfumo wa huduma za afya za Kiholanzi, inafungamana na mwongozo wa WPATH, na imeundwa kwa sehemu zote za jamii ya transgender, ikiwa ni pamoja na watu wasio na jinsia, wenye jinsia tofauti, na watu wa jinsia tofauti."
+    },
+    "tr-TR": {
+      "title": "GenderAid",
+      "description": "GenderAid, genital cinsiyet cerrahisi için bir karar yardımcısıdır, tedavi seçenekleri hakkında tam ve güvenilir bilgi sağlamayı amaçlar. Hollanda sağlık sistemine odaklanır, WPATH kurallarına uygun olarak geliştirilmiştir ve non-binary, genderfluid ve genderqueer bireyler de dahil olmak üzere tüm transgender topluluğu için geliştirilmiştir."
+    },
+    "zh-CN": {
+      "title": "GenderAid性别援助",
+      "description": "GenderAid是一个有关生殖器性别手术的决策援助器，旨在提供关于治疗选项的完整和可靠的信息。它侧重于荷兰的卫生保健系统，遵循WPATH的指导方针，并且已经为包括非二元性别、性别流动和性别酷儿等所有部分的跨性别社区进行开发。"
+    },
+    "ja-JP": {
+      "title": "The GenderAid",
+      "description": "The GenderAidは、性別適合手術の決定支援で、治療オプションに関する完全で信頼性のある情報提供を目指しています。それはオランダの保健医療システムに焦点を当て、WPATHのガイドラインに従い、トランスジェンダーコミュニティー全体、非バイナリ、ジェンダーフルイド、そしてジェンダーキュア個体を含むすべての部分に対して開発されました。"
+    },
+    "es-ES": {
+      "title": "El GenderAid",
+      "description": "El GenderAid es una herramienta de decisión para la cirugía de género genital, con el objetivo de proporcionar información completa y confiable sobre las opciones de tratamiento. Se centra en el sistema de atención médica holandés, adhiriéndose a las pautas de la WPATH, y ha sido desarrollado para todas las partes de la comunidad transgénero, incluyendo personas no binarias, de género fluido y género queer."
+    },
+    "fr-FR": {
+      "title": "Le GenderAid",
+      "description": "Le GenderAid est un outil d'aide à la décision pour la chirurgie de genre génitale, visant à fournir des informations complètes et fiables sur les options de traitement. Il se concentre sur le système de santé néerlandais, adhérant aux directives de la WPATH, et a été développé pour toutes les parties de la communauté transgenre, y compris les individus non-binaires, genderfluid et genderqueer."
+    },
+    "vi-VN": {
+      "title": "The GenderAid",
+      "description": "The GenderAid là một công cụ hỗ trợ quyết định cho việc phẫu thuật giới tính sinh dục, nhằm cung cấp thông tin đầy đủ và đáng tin cậy về các lựa chọn điều trị. Nó tập trung vào hệ thống y tế của Hà Lan, tuân thủ các nguyên tắc của WPATH, và đã được phát triển cho tất cả các phần của cộng đồng chuyển giới, bao gồm cả những người không rõ giới tính, chuyển đổi giới tính và những người không xác định giới tính."
+    },
+    "ar-SA": {
+      "title": "The GenderAid",
+      "description": "يعد The GenderAid أداة مساعدة في القرار بشأن جراحة الجنس التناسلي، ويهدف إلى تقديم معلومات كاملة وموثوقة حول خيارات العلاج. يركز على نظام الرعاية الصحية الهولندي، ملتزمًا بالإرشادات الصادرة عن WPATH، وقد تم تطويره لجميع أجزاء المجتمع المتحول جنسيًا، بما في ذلك الأفراد غير الثنائيين، والجنسين المائلين، والجنسين الغريبين."
+    },
+    "ko-KR": {
+      "title": "The GenderAid",
+      "description": "The GenderAid는 성별 전환 수술을 위한 의사결정 도움을 제공하는 것을 목표로 하며, 치료 옵션에 대한 완벽하고 신뢰할 수 있는 정보를 제공합니다. 이는 WPATH의 가이드라인을 준수하는 네덜란드 건강 관리 시스템에 초점을 맞추고 있으며, non-binary, genderfluid, 그리고 genderqueer 개인을 포함한 모든 트랜스젠더 커뮤니티를 위해 개발되었습니다."
+    },
+    "ru-RU": {
+      "title": "The GenderAid",
+      "description": "The GenderAid - это помощник в принятии решений по поводу операций по изменению пола, цель которого - предоставить полную и надежную информацию о вариантах лечения. Он сосредоточен на голландской системе здравоохранения, следуя руководствам WPATH, и был разработан для всех частей трансгендерного сообщества, включая людей, не относящие себя ни к мужскому, ни к женскому полу, людей с изменяющимся гендером и людей, не признающих бинарность пола."
+    },
+    "ur-PK": {
+      "title": "جنس اید",
+      "description": "جنس اید ایک فیصلہ ساز مدد ہے ؛ لنگک  جنس سرجری کے لئے، جس کا مقصد پوری اور قابل اعتماد معلومات فراہم کرنا ہے جو علاج کے اختیارات کے بارے میں ہیں۔ یہ ڈچ صحت کی نگہداشت کے سسٹم پر توجہ مرکوز کرتی ہے، جو WPATH کے ہدایت کو مانتی ہے اور یہ ہے تمام ترانسجندر کمیونٹی کے حصوں کے لئے تیار کی گئی ہے، جس میں نان بائنری، جندر فلویڈ، اور جندر کوہر افراد شامل ہیں۔"
+    },
+    "uk-UA": {
+      "title": "GenderAid",
+      "description": "GenderAid - це допоможний засіб прийняття рішень для генітальної гендерної хірургії, який має на меті надавати повну та надійну інформацію про варіанти лікування. Він зосереджений на голландській системі охорони здоров'я, дотримуючись керівництва WPATH, і був розроблений для всіх частин трансгендерної спільноти, включаючи небінарних, гендер-варіативних та гендерквірських осіб."
+    },
+    "hi-IN": {
+      "title": "द जेंडरएड",
+      "description": "द जेंडरएड एक निर्णय सहायक है जननांग लैंगिक शल्यक्रिया के लिए, उसका लक्ष्य पूरी और विश्वसनीय जानकारी प्रदान करना है उपचार विकल्पों के बारे में। यह नीदरलैंड्स के स्वास्थ्य देखभाल प्रणाली पर ध्यान केंद्रित करता है, WPATH के दिशानिर्देशों का पालन करता है, और इसे ट्रांसजेंडर समुदाय के सभी हिस्सों, जिनमें गैर-बाइनरी, जेंडरफ्लुइड, और जेंडरक्विअर व्यक्तियों के लिए विकसित किया गया है।"
+    },
+    "mr-IN": {
+      "title": "The GenderAid",
+      "description": "The GenderAid हे लैंगिक लिंग सर्जरीसाठीच्या निर्णयाच्या मदतीसाठी वापरलेले एक साधन आहे, याचा उद्देश उपचारांच्या पर्यायांविषयी संपूर्ण व विश्वसनीय माहिती पुरविण्याच्या आहे. तो हॉलंडच्या आरोग्य सेवा प्रणालीवर केंद्रित आहे, WPATH च्या मार्गदर्शन निर्देशांशी सामंजस्य साधतो, व त्याचा विकास ट्रान्सजेंडर समुदायाच्या सर्व भागांसाठी झालेला आहे, त्यामध्ये अविभाज्य, लिंगप्रवाही, व लिंगविचित्र व्यक्ती असलेले आहेत."
+    },
+    "bn-BD": {
+      "title": "দ্য জেন্ডারএইড",
+      "description": "দ্য জেন্ডারএইড হ'ল যনন লিঙ্গ সার্জারির জন্য একটি সিদ্ধান্ত সহায়ক যা চিকিত্সার বিকল্প সম্পর্কে সম্পূর্ণ এবং বিশ্বস্ত তথ্য প্রদান করার লক্ষ্যে তৈরি হয়েছে। এটি ডাচ স্বাস্থ্য যত্ন পদ্ধতির উপর মনোনিবেশ করে, WPATH এর নির্দেশনামালা মেনে চলে এবং ট্রান্সজেন্ডার সম্প্রদায়ের সমস্ত অংশের জন্য তৈরি করা হয়েছে, যা অনৈক্যবাদী, জেন্ডার দ্রব্যময়, এবং জেন্ডারকুয়ার ব্যক্তিদের অন্তর্ভুক্ত করে।"
+    },
+    "ta-IN": {
+      "title": "ஜென்டர்ஏட்",
+      "description": "ஜென்டர்ஏட் பாலின அழகு சிகிச்சைக்கான முடிவு செயலி, சிகிச்சை விருப்பங்கள் பற்றிய முழுமையான மற்றும் நம்பிக்கையான தகவல்களை வழங்க இலக்கு கொள்கிறது. இது டச்ச் சுகாதார அமைப்பை குறிக்கும், WPATH அலுவலகத்தின் வழிகாட்டுதல்களை பின்பற்றுகிறது, மற்றும் அது முழு இனம் மாறிய சமுதாயத்தின் அனைத்து பகுதிகளுக்கும் அதன் உள்ளமைவு, உடல்நிலை மாற்றுதல், மற்றும் பால்திரவிய நிலையான நபர்களை இணைத்து."
+    },
+    "te-IN": {
+      "title": "ది జెండరేడ్",
+      "description": "ది జెండరేడ్ ఒక యౌన సామర్జనీ శస్త్ర చికిత్స కోసం నిర్ణయ సహాయక పరికరము, చికిత్స ఎంపికల గురించి పూర్తి మరియు విశ్వసనీయ సమాచారాన్ని అందించడానికి ప్రయత్నిస్తుంది. ఇది డచ్ ఆరోగ్య పరిచర్య వ్యవస్థపై ఫోకస్ చేస్తుంది, WPATH మార్గసూచులను అనుసరిస్తుంది, మరియు ఇది ప్రతి భాగంలోని ట్రాన్స్జెండర్ కమ్యూనిటీ, నాన్-బైనరీ, జెండర్ఫ్లుయిడ్, మరియు జెండర్క్వీర్ వ్యక్తులకు అభివృద్ధి చేయబడింది."
+    }
+  }
+}

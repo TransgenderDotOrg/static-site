@@ -1,0 +1,110 @@
+{
+  "id": "be017772-af87-4920-ae62-1a3e961d216a",
+  "slug": "transamsterdam",
+  "externalUrl": "https://www.transamsterdam.nl/",
+  "tags": [
+    "artists-creators",
+    "education-awareness"
+  ],
+  "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": "NH",
+  "city": "Amsterdam",
+  "county": "Amsterdam",
+  "latLng": [
+    52.35914529999999,
+    4.9263607
+  ],
+  "email": "info@transamsterdam.nl",
+  "socialMedia": {
+    "linktr": "linktr.ee/transamsterdam"
+  },
+  "town": "Amsterdam-Oost",
+  "i18n": {
+    "en-US": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam is a trans organization focused on art, culture, and lifestyle in Amsterdam. It supports the transgender community through various pillars. These include creating opportunities to meet via Trans & Friends café, InClusion, and other events. It also promotes talent development through workshops, themed meetings, and theater productions at Trans Art School. Finally, it offers an art and culture platform for and by transgender, non-binary artists, and performers."
+    },
+    "pt-PT": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam é uma organização trans focada em arte, cultura e estilo de vida em Amsterdam. Apoia a comunidade transgênero através de várias vertentes. Estas incluem a criação de oportunidades de encontro através do café Trans & Amigos, InClusion e outros eventos. Também promove o desenvolvimento de talentos através de workshops, reuniões temáticas e produções teatrais na Trans Art School. Finalmente, oferece uma plataforma de arte e cultura para e por artistas e performers transgêneros, não-binários."
+    },
+    "id-ID": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam adalah organisasi trans yang berfokus pada seni, budaya, dan gaya hidup di Amsterdam. Organisasi ini mendukung komunitas transgender melalui berbagai pilar. Ini termasuk menciptakan peluang untuk bertemu melalui Trans & Friends café, InClusion, dan acara lainnya. Selain itu, organisasi ini juga mempromosikan pengembangan bakat melalui lokakarya, pertemuan bertema, dan produksi teater di Trans Art School. Terakhir, organisasi ini menawarkan platform seni dan budaya untuk dan oleh artis dan pelaku transgender, non-biner."
+    },
+    "fr-FR": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam est une organisation trans axée sur l'art, la culture et le mode de vie à Amsterdam. Elle soutient la communauté transgenre à travers divers piliers. Ceux-ci incluent la création d'opportunités de rencontres via Trans & Friends café, InClusion, et d'autres événements. Elle favorise également le développement de talents par le biais d'ateliers, de réunions thématiques et de productions théâtrales à la Trans Art School. Enfin, elle offre une plateforme d'art et de culture pour et par des artistes et interprètes transgenres et non binaires."
+    },
+    "es-ES": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam es una organización trans enfocada en el arte, la cultura y el estilo de vida en Ámsterdam. Apoya a la comunidad transgénero a través de varios pilares. Estos incluyen la creación de oportunidades para conocerse a través de Trans & Friends café, InClusion y otros eventos. También promueve el desarrollo del talento a través de talleres, reuniones temáticas y producciones teatrales en Trans Art School. Finalmente, ofrece una plataforma de arte y cultura para y por artistas y intérpretes transgénero y no binarios."
+    },
+    "de-DE": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam ist eine Trans-Organisation, die sich auf Kunst, Kultur und Lebensstil in Amsterdam konzentriert. Sie unterstützt die Transgender-Gemeinschaft durch verschiedene Säulen. Dazu gehören die Schaffung von Möglichkeiten zur Begegnung über das Trans & Friends-Café, InClusion und andere Veranstaltungen. Es fördert auch die Talententwicklung durch Workshops, thematische Treffen und Theaterproduktionen in der Trans Art School. Schließlich bietet es eine Kunst- und Kulturplattform für und von Transgender-, nicht-binären Künstlern und Performern."
+    },
+    "zh-CN": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam 是一个侧重于阿姆斯特丹的艺术、文化和生活方式的跨性别组织。它通过各种支柱支持跨性别社区。其中包括通过 Trans & Friends 咖啡馆，InClusion，以及其他事件创建相互见面的机会。它还通过于 Trans Art School 的工作坊，主题会议和剧场制作来促进才能发展。最后，它为跨性别，非二元性别艺术家和表演者提供一个艺术和文化平台。"
+    },
+    "tr-TR": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam, Amsterdam'daki sanat, kültür ve yaşam tarzına odaklanmış bir trans organizasyondur. Çeşitli hizmetler aracılığıyla trans topluluğuna destek olmaktadır. Bunlar arasında Trans & Friends kafe, InClusion ve diğer etkinlikler aracılığıyla buluşma fırsatları yaratmak bulunmaktadır. Ayrıca Trans Art School'daki atölye çalışmaları, temalı toplantılar ve tiyatro prodüksiyonları aracılığıyla yetenek geliştirmeyi teşvik eder. Son olarak, transseksüel ve non-binary sanatçılar ve performans sanatçıları için bir sanat ve kültür platformu sunmaktadır."
+    },
+    "ja-JP": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdamはアムステルダムでのアート、カルチャー、ライフスタイルに焦点を当てたトランス組織です。これは、Trans＆Friendsカフェ、InClusion、その他のイベントを通じて出会う機会を作ることを含む様々な柱を通じてトランスジェンダーのコミュニティを支援します。また、ワークショップ、テーマミーティング、Trans Art Schoolでの演劇制作を通じて才能の開発を促進します。最後に、トランスジェンダー、ノンバイナリーのアーティストやパフォーマーによるアートとカルチャーのプラットフォームを提供します。"
+    },
+    "ru-RU": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam - это транс-организация, сосредоточенная на искусстве, культуре и образе жизни в Амстердаме. Она поддерживает трансгендерное сообщество через различные столпы. Сюда входят создание возможностей для встреч через Trans & Friends café, InClusion и другие мероприятия. Она также способствует развитию талантов через семинары, тематические встречи и театральные постановки в Trans Art School. Наконец, она предлагает платформу для искусства и культуры для и от трансгендерных, небинарных артистов и исполнителей."
+    },
+    "ko-KR": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam은 암스테르담의 예술, 문화, 라이프스타일에 초점을 맞춘 트랜스 조직입니다. 이 조직은 다양한 기둥을 통해 트랜스젠더 커뮤니티를 지원합니다. 이러한 기둥에는 Trans & Friends 카페, InClusion 및 기타 이벤트를 통해 만날 기회를 만드는 것이 포함됩니다. 또한, Trans Art School에서의 워크숍, 테마 모임, 극장 제작을 통해 재능 개발을 촉진합니다. 마지막으로, 트랜스젠더, 비이진 아티스트 및 퍼포머들에 의한 및 그들을 위한 예술과 문화 플랫폼을 제공합니다."
+    },
+    "uk-UA": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam - це транс-організація, котра розглядає мистецтво, культуру та стиль життя в Амстердамі. Допомагає трансгендерній спільноті через різні направлення. Це включає створення можливостей для знайомства через кафе Trans & Friends, InClusion та інші події. Вона також сприяє розвитку талантів через семінари, тематичні зустрічі і театральні постановки в Trans Art School. Наостанку, вона пропонує платформу мистецтва та культури для та від трансгендерів, небінарних художників і виконавців."
+    },
+    "sw-KE": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam ni shirika la trans linalolenga sanaa, utamaduni, na maisha ya kila siku huko Amsterdam. Inasaidia jamii ya watu walio na jinsia tofauti kupitia nguzo mbalimbali. Hizi ni pamoja na kuunda fursa za kukutana kupitia Trans & Friends café, InClusion, na matukio mengine. Inaendeleza pia maendeleo ya talanta kupitia warsha, mikutano yenye mada Maalum, na maonyesho ya michezo ya kuigiza katika Shule ya Sanaa ya Trans. Mwisho, inatoa jukwaa la sanaa na utamaduni kwa na kwa watu walio na jinsia tofauti, wasanii wasio na jinsia, na watekelezaji."
+    },
+    "vi-VN": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam là một tổ chức chuyển giới tập trung vào nghệ thuật, văn hóa và lối sống tại Amsterdam. Nó hỗ trợ cộng đồng chuyển giới thông qua nhiều cột mốc khác nhau. Những điều này bao gồm việc tạo cơ hội gặp gỡ thông qua Trans & Friends café, InClusion, và các sự kiện khác. Nó cũng thúc đẩy phát triển tài năng thông qua các hội thảo, buổi họp chủ đề và các sản xuất kịch tại Trường Nghệ thuật Trans. Cuối cùng, nó cung cấp một nền tảng nghệ thuật và văn hóa cho và bởi các nghệ sĩ và nghệ sĩ biểu diễn chuyển giới, không nhị phân."
+    },
+    "ar-SA": {
+      "title": "TransAmsterdam",
+      "description": "ترانس أمستردام هي منظمة ثنائية الجنس تركز على الفن والثقافة ونمط الحياة في أمستردام. تدعم هذه المنظمة مجتمع المتحولين جنسيًا من خلال أعمدة مختلفة. تشمل هذه المبادرات توفير الفرص للالتقاء في Trans & Friends café، InClusion، والعديد من الأحداث الأخرى. كما تعزز التنمية المهنية من خلال ورش العمل، والاجتماعات الموضوعية، وإنتاجات المسرح في Trans Art School. وأخيرًا، توفر منصة فنية وثقافية للفنانين والمؤدين من ذوي الهوية الجنسية غير التقليدية."
+    },
+    "hi-IN": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam एक ट्रांस संगठन है, जो आर्ट, संस्कृति और आस्टर्डैम में जीवनशैली पर केंद्रित है। यह विभिन्न स्तंभों के माध्यम से ट्रांसजेंडर समुदाय का समर्थन करता है। इनमें ट्रांस और फ्रेंड्स कैफे, InClusion, और अन्य घटनाओं के माध्यम से मिलने के अवसर बनाना शामिल है। यह वर्कशॉप, थीम मीटिंग्स, और Trans Art School पर थिएटर उत्पादन के माध्यम से प्रतिभा विकास को बढ़ावा देता है। अंत में, यह ट्रांसजेंडर, गैर-बाइनरी कला और संस्कृति के लिए और उनके द्वारा एक मंच प्रदान करता है, कला और प्रदर्शनकारी।"
+    },
+    "mr-IN": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam ही एक ट्रान्स संगठना आहे जी आम्स्टरडॅममधील कला, संस्कृती आणि जीवनशैलीवर केंद्रित आहे. ती विविध स्तंभांद्वारे ट्रान्सजेंडर समुदायाला समर्थन देते. यात Trans & Friends कॅफे, InClusion आणि इतर कार्यक्रमांद्वारे भेटीची संधी तयार करणे असलेले आहे. तसेच workshops, विषयवस्तु बैठकी, आणि Trans Art School येथे थिएटर निर्मितीद्वारे प्रतिभा विकासाची प्रोत्साहन देते. शेवटी, ती ट्रान्सजेंडर, अबायनरी कलाकारांसाठी आणि त्यांनी कला आणि सांस्कृतिक प्लॅटफॉर्म प्रदान करते."
+    },
+    "ur-PK": {
+      "title": "ٹرانس ایمسٹرڈیم",
+      "description": "ٹرانس ایمسٹرڈیم ایک ٹرانس آرگنائزیشن ہے جو ایمسٹرڈیم میں فن، ثقافت اور زندگی کے انداز پر توجہ مرکوز ہے۔ یہ مختلف ستونوں کے ذریعے ٹرانسجینڈر کمیونٹی کی مدد کرتی ہے۔ ان میں ٹرانس اینڈ فرینڈز کیفے، انکلوژن؛ اور دیگر تقریبات کے ذریعے ملاقات کے مواقع پیدا کرنا شامل ہے۔ یہ ورکشاپ، موضوعاتی ملاقاتوں، اور ٹرانس آرٹ سکول پر  تھیٹر پروڈکشن کے ذریعے ٹیلنٹ ڈویلپمنٹ کو بھی فروغ دیتی ہے۔ آخر میں، یہ ٹرانسجینڈر، غیر-بائنری آرٹسٹس، اور پرفارمرز کیلئے فن و ثقافت کی پلیٹ فارم کی پیشکش کرتی ہے۔"
+    },
+    "bn-BD": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam এমস্টারড্যামে শিল্প, সংস্কৃতি এবং জীবনধারার উপর মনোনিবেশ করা একটি ট্র্যান্স সংস্থা। এটি ভিন্নভিন্ন স্তম্ভের মাধ্যমে ট্রান্সজেন্ডার সম্প্রদায়ের সমর্থন করে। এগুলি অন্তর্গত ট্রান্স এবং বন্ধুদের ক্যাফে, InClusion এবং অন্যান্য ইভেন্টের মাধ্যমে দেখা দেখির সুযোগ তৈরি করা। এটি ওয়ার্কশপ, থিম সংস্থাপন, এবং Trans Art School এ থিয়েটার প্রযোজনার মাধ্যমে প্রতিভা উন্নয়নও প্রচার করে। অবশেষে, এটি শিল্প এবং সাংস্কৃতিক প্ল্যাটফর্ম প্রদান করে ট্রান্সজেন্ডার, অবাধ্য শিল্পী, এবং অভিনেতাদের জন্য এবং তাদের দ্বারা।"
+    },
+    "ta-IN": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdamஆம்ஸ்டர்டம் உள்ள கலை, பண்பாடு மற்றும் வாழ்க்கைமுறையை குறித்து கூட்டணி அமைப்பு. அது வெவ்வேறு அடிப்படைகள் மூலம் மாற்று பாலின சமூகத்தின் ஆதரவு மூலம். இவை மாற்று & நண்பர்கள் கஃபே, InClusion, மற்றும் பிற நிகழ்வுகள் மூலம் சந்திக்க வாய்ப்புகளை உருவாக்குதல் அடங்கும். இதுவும், Trans Art School இல் பயிற்சிகள், தேமாத்திரப்பான கூட்டங்கள், மற்றும் திரைப்பட உற்பத்திகள் மூலம் திறன் அபிவிருத்தியை ஊக்குவிக்கும். கடைசியாக, அது மாற்று பாலின, அல்லது binary கலைஞர்கள், மற்றும் அற்பகடிகொண்டவர்களின் கலை மற்றும் பண்பாட்டு மேடையைப் பதிவு செய்கின்றது."
+    },
+    "te-IN": {
+      "title": "TransAmsterdam",
+      "description": "TransAmsterdam అనేది ఆర్ట్, సంస్కృతి, మరియు అమ్స్టర్డామ్ లైఫ్ స్టైల్పై దృష్టిపెట్టిన ఒక ట్రాన్స్ సంస్థ. ఇది ట్రాన్స్జెండర్ సముదాయాన్ని వివిధ స్తంభాల ద్వారా మద్దతు చేస్తుంది. వీటిలో Trans & Friends కఫే, InClusion, మరియు ఇతర ఇవెంట్స్ ద్వారా ముంచేందుకోవాల్సిన అవసరాలు సృష్టించడం ఉంటుంది. అదేవిధంగా, ఇది వర్క్షాప్స్, అంశసూచీ సభలు, మరియు Trans Art School లో థియేటర్ నిర్మాణాల ద్వారా ప్రతిభా అభివృద్ధిని ప్రోత్సహిస్తుంది. చటువటికి, అది ట్రాన్స్జెండర్, నాన్-బైనరీ కళాకారులు, మరియు ప్రత్యక్ష కళాబృందాల కోసం కళ మరియు సంస్కృతి ప్లాట్ఫారమ్ను అందిస్తుంది."
+    }
+  }
+}

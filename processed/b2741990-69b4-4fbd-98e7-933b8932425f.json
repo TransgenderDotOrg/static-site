@@ -1,0 +1,24 @@
+{
+  "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+  "title": "Transfamily",
+  "description": "A peer support group for parents, siblings, extended family and friends of a trans and gender diverse person. It offers resources, events, and a platform for community stories. It also offers a Transfamily book that provides useful information and insights about the transgender community.",
+  "slug": "transfamily",
+  "externalUrl": "https://www.transfamily.org.au/",
+  "tags": [
+    "support-groups",
+    "parent-family-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+  }
+}

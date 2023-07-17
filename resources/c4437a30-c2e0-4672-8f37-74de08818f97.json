@@ -1,0 +1,107 @@
+{
+  "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
+  "slug": "point-of-pride",
+  "externalUrl": "https://www.pointofpride.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "financial-aid-scholarships"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Point of Pride",
+      "description": "Point of Pride provides financial aid and direct support to trans folks who are in need of health and wellness care. The aid programs range from annual transgender surgery funds, HRT Access funds, electrolysis support and free chest binders and femme shapewear provision to trans people who can't afford or find them safely."
+    },
+    "es-ES": {
+      "title": "Punto de Orgullo",
+      "description": "Punto de Orgullo ofrece ayuda financiera y apoyo directo a las personas trans que necesitan atención de salud y bienestar. Los programas de ayuda varían desde fondos anuales para cirugías transgénero, fondos de acceso a HRT, apoyo a la electrólisis y provision de fajas de pecho gratuitas y ropa interior femenina a personas trans que no pueden pagarlas o encontrarlas de manera segura."
+    },
+    "id-ID": {
+      "title": "Titik Kebanggaan",
+      "description": "Titik Kebanggaan menyediakan bantuan finansial dan dukungan langsung kepada orang-orang trans yang membutuhkan perawatan kesehatan dan kesejahteraan. Program bantuan berkisar dari dana operasi transgender tahunan, dana akses HRT, dukungan elektrolisis dan penyediaan binder dada gratis dan pakaian pengecil bentuk tubuh wanita kepada orang-orang trans yang tidak mampu atau menemukan mereka dengan aman."
+    },
+    "de-DE": {
+      "title": "Stolzpunkt",
+      "description": "Stolzpunkt bietet finanzielle Hilfe und direkte Unterstützung für Trans-Personen, die einen Bedarf an Gesundheits- und Wellnessversorgung haben. Die Hilfsprogramme reichen von jährlichen Fonds für Transgender-Operationen, HRT-Zugangsfonds, Elektrolyseunterstützung und kostenloser Bereitstellung von Brustbindern und femininer Figurformung für Trans-Personen, die sich diese nicht leisten können oder sie sicher finden können."
+    },
+    "fr-FR": {
+      "title": "Point of Pride",
+      "description": "Point of Pride fournit une aide financière et un soutien direct aux personnes trans qui ont besoin de soins de santé et de bien-être. Les programmes d'aide varient de fonds annuels pour la chirurgie transsexuelle, des fonds d'accès aux THS, un soutien à l'électrolyse et la fourniture gratuite de binders de poitrine et de vêtements modelants pour femmes aux personnes trans qui ne peuvent pas se les procurer ou les trouver en toute sécurité."
+    },
+    "zh-CN": {
+      "title": "自豪之点",
+      "description": "自豪之点为需要健康和保健服务的跨性别者提供财政援助和直接支持。这些援助项目涵盖了从年度跨性别手术基金，HRT（荷尔蒙替换疗法）获取资金，电解支持，以及给予无法承担或安全寻找胸部束带和女性塑身衣的跨性别者的免费提供。"
+    },
+    "pt-PT": {
+      "title": "Point of Pride",
+      "description": "A Point of Pride fornece auxílio financeiro e suporte direto a pessoas trans que precisam de cuidados de saúde e bem-estar. Os programas de ajuda variam desde fundos anuais para cirurgia de transgêneros, fundos de acesso HRT, suporte à eletrólise e fornecimento gratuito de coletes de compressão torácica e modeladores femininos para pessoas trans que não podem pagar ou encontrá-los com segurança."
+    },
+    "sw-KE": {
+      "title": "Point of Pride",
+      "description": "Point of Pride hutoa msaada wa kifedha na msaada wa moja kwa moja kwa watu wa jinsia moja ambao wanahitaji huduma za afya na ustawi. Programu za misaada zinatoka kwenye fedha za upasuaji wa jinsia kwa mwaka, fedha za ufikiaji wa HRT, msaada wa electrolysis na utoaji wa wapiga kifua na nguo za kike kwa watu wa jinsia moja ambao hawawezi kumudu au kuwatafuta kwa usalama."
+    },
+    "tr-TR": {
+      "title": "Gurur Noktası",
+      "description": "Gurur Noktası, sağlık ve wellness bakımına ihtiyaç duyan trans bireylere mali yardım ve doğrudan destek sağlar. Yardım programları, yıllık transgender cerrahi fonlarından, HRT Erişim fonlarına, elektroliz desteğine ve güvenli bir şekilde bulamayan veya karşılayamayan trans bireylere ücretsiz göğüs bağları ve femme şekillendirici sağlama hizmetlerine kadar çeşitlilik gösterir."
+    },
+    "ja-JP": {
+      "title": "Point of Pride（プライドの点）",
+      "description": "Point of Prideは、健康とウェルネスケアを必要とするトランスの人々に経済的援助と直接的な支援を提供します。援助プログラムは、年間トランスジェンダーの手術資金、HRTアクセス資金、電気脱毛サポート、そして、それらを安全に見つけることができないまたは買うことができないトランスの人々への無料のチェストバインダーとフェムシェイプウェアの提供に至るまでの範囲です。"
+    },
+    "ru-RU": {
+      "title": "Point of Pride",
+      "description": "Point of Pride предоставляет финансовую помощь и прямую поддержку трансгендерным людям, которые нуждаются в медицинском обслуживании и уходе за здоровьем. Программы помощи включают ежегодные фонды на операции по смене пола, фонды доступа к HRT, поддержку электролиза и бесплатное предоставление бандажей для груди и женского корректирующего белья трансгендерным людям, которые не могут их позволить или безопасно найти."
+    },
+    "vi-VN": {
+      "title": "Niềm tự hào",
+      "description": "Niềm tự hào cung cấp hỗ trợ tài chính và hỗ trợ trực tiếp cho những người chuyển giới đang cần chăm sóc sức khỏe và sức khỏe tâm lý. Các chương trình viện trợ đa dạng từ quỹ phẫu thuật chuyển đổi giới tính hàng năm, quỹ truy cập HRT, hỗ trợ điện di, và cung cấp miễn phí các sản phẩm tạo kiểu ngực và quần áo tạo dáng nữ giới cho những người chuyển giới không thể mua sắm hoặc tìm kiếm chúng một cách an toàn."
+    },
+    "ar-SA": {
+      "title": "نقطة الفخر",
+      "description": "تقدم نقطة الفخر المساعدة المالية والدعم المباشر للأشخاص المتحولين جنسيًا الذين يحتاجون إلى الرعاية الصحية والعافية. تتنوع برامج المساعدة من صناديق الجراحة التحويلية السنوية، وصناديق الوصول إلى العلاج الهرموني لتحويل الجنس، والدعم التكميلي لإزالة الشعر بالكهرباء وتوفير مشدات الصدر المجانية وملابس تشكيل الجسم الأنثوية للأشخاص المتحولين جنسيًا الذين لا يستطيعون تحمل تكاليفها أو العثور عليها بأمان."
+    },
+    "ko-KR": {
+      "title": "자부심의 중심지",
+      "description": "Point of Pride는 건강과 웰니스 치료를 필요로 하는 트랜스 인물들에게 재정 지원과 직접 지원을 제공합니다. 이러한 지원 프로그램은 연간 트랜스젠더 수술 자금, HRT 접근 자금, 전기 분해 지원 및 가슴 바인더 및 페미닌 쉐이프웨어를 감당하거나 안전하게 찾을 수 없는 트랜스 인물들에게 무료로 제공이 이루어집니다."
+    },
+    "uk-UA": {
+      "title": "Point of Pride",
+      "description": "Point of Pride надає фінансову допомогу та пряму підтримку трансгендерам, які потребують допомоги в охороні здоров'я та догляді за собою. Програми допомоги включають щорічні фонди хірургічних операцій для трансгендерів, фонди доступу до ГРТ, підтримку електролізу та безкоштовну надання бюстгальтерів для стягування грудей та жіночого белья трансгендерам, які не можуть їх купити або знайти в безпечний спосіб."
+    },
+    "ur-PK": {
+      "title": "فخر کا نقطہ",
+      "description": "فخر کا نقطہ خصوصی مالی مدد اور براہ راست سپورٹ فراہم کرتا ہے جو ٹرانس لوگوں کو صحت و خوبصورتی کے خیال کی ضرورت ہوتی ہے. امدادی پروگرامز ٹرانسجینڈر سرجری کے سالانہ فنڈز، HRT رسائی فنڈز، الیکٹرالائسس سپورٹ اور بالکل مفت چٹی بائنڈرز اور فیم شیپ ویئر کی فراہمی تک پھیلتے ہیں جو ٹرانس لوگ اپنی سلامتی کے لئے خریدنے یا تلاش کرنے کی خریداری کرنے سے قاصر ہیں."
+    },
+    "mr-IN": {
+      "title": "गर्वाचा बिंदू",
+      "description": "गर्वाचा बिंदू आरोग्य आणि कल्याणाच्या काळजीला आवश्यक असलेल्या ट्रान्स लोकांना आर्थिक मदत आणि प्रत्यक्ष सहाय्य प्रदान करते. मदतीच्या कार्यक्रमांमध्ये वार्षिक ट्रान्सजेंडर सर्जरी फंड्स, HRT ऍक्सेस फंड्स, इलेक्ट्रोलिसिस सहाय्य आणि मोफत छाती बाइंडर्स आणि फेम शेपवेअर प्रविष्टीचा प्रविष्टी आहे ज्या ट्रान्स लोकांना सुरक्षितपणे सापडत नाही किंवा त्यांची किंमत भरता येत नाही."
+    },
+    "hi-IN": {
+      "title": "गर्व का बिंदु",
+      "description": "गर्व का बिंदु उन ट्रांस लोगों को वित्तीय सहायता और प्रत्यक्ष समर्थन प्रदान करता है जो स्वास्थ्य और कल्याण की देखभाल की आवश्यकता में हैं। सहायता कार्यक्रम वार्षिक ट्रांसजेंडर सर्जरी फंड, HRT एक्सेस फंड, इलेक्ट्रोलिसिस समर्थन और मुफ्त छाती बाइंडर्स और महिला शेपवियर प्रदान से लेकर शुरू होते हैं, जो ट्रांस लोगों को सुरक्षित रूप से पा नहीं सकते या उनकी खरीद नहीं कर सकते हैं।"
+    },
+    "bn-BD": {
+      "title": "গর্বের বিন্দু",
+      "description": "গর্বের বিন্দু স্বাস্থ্য এবং সুস্থতা যত্নের প্রয়োজনীয়তায় জর্জরিত ট্রান্স লোকদের অর্থনৈতিক সাহায্য এবং সরাসরি সমর্থন প্রদান করে। সাহায্য প্রকল্পগুলি বছরে একবার ট্রান্সজেন্ডার সার্জারি তহবিল, এইচআরটি অ্যাক্সেস তহবিল, ইলেক্ট্রোলাইসিস সমর্থন এবং উন্মুক্ত বুক বাইন্ডার এবং ফেম শেপওয়্যার সরবরাহকরণ থেকে শুরু হয়, যা নিরাপদে পেতে অক্ষম বা ট্রান্স মানুষগুলি পরিশোধ করতে পারে না।"
+    },
+    "ta-IN": {
+      "title": "பெருமையின் முக்கியம்",
+      "description": "பெருமையின் முக்கியம் மிகவும் உள்ள ஆரோக்கிய ஊக்கத்தை ஏற்படுத்துவதற்காக முதன்முதலில் நிதிய உதவியையும், நேரடிய ஆதரவையும் வழங்குகிறது. உதவி திட்டங்கள் வருடாந்திர மாறுபாடு சுரகலை திட்டத்திலிருந்து, ஹார்மோன் மாற்றம் உதவி திட்டங்கள், எலக்ட்ரோலைசிஸ் ஆதரவு, முதன்முதலில் எதிரைக்கு இதனை பெற முடியாது அல்லது பாதுகாக்கப்பட்டு இதனை வழங்க முதன்முதலில் அலவார முறை சீட்டு வழங்குவதும் ஆகிவருகின்றன."
+    },
+    "te-IN": {
+      "title": "గర్వ ప్రదేశం",
+      "description": "గర్వ ప్రదేశం ఆరోగ్య మరియు సౌకర్య పరిచర్యకి అవసరమైన ట్రాన్స్ జనతకు ఆర్థిక సహాయం మరియు ప్రత్యక్ష మద్దతు అందిస్తుంది. సహాయా కార్యక్రమాలు వార్షిక ట్రాన్స్జెండర్ శస్త్రచికిత్స నిధులు, HRT ప్రవేశ నిధులు, ఎలక్ట్రోలిసిస్ మద్దతు మరియు ఉచిత ఛాతి బైండర్లు మరియు ఫెమ్ షేప్‌వేర్ అందాజు నిధిలతో సంప్రదింపబడతాయి, దీన్ని ట్రాన్స్ ప్రజలు అన్నిటిని సురక్షితంగా కనుగొనలేకపోతారు లేదా అది సాగించలేరు."
+    }
+  }
+}

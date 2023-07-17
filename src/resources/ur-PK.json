@@ -36,6 +36,29 @@
     "description": "سان ماتیو کاؤنٹی پرائڈ سینٹر ایک تعاونی ماڈل تنظیم اور LGBTQ+ برادری کے لئے ون سٹاپ شاپ ہے. ہم تمام عمر کے LGBTQ+ برادری کے رکنوں کی حمایت کے لئے مضبوط پروگرامز اور خدمات پیش کرتے ہیں، جس میں تعلیم، تربیت، کمیونٹی کے واقعات، ہمسر برادری کے گروہ، روزمرہ کی پروگرامنگ، کلینیکی تربیت، اور کیس مینجمنٹ شامل ہیں."
   },
   {
+    "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
+    "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
+    "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "youth-services",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "بچوں اور والدین میں خود جنس تبدیلی کو سمجھنے اور سپورٹ کرنے کی فہم",
+    "description": "یہ جرمن مضمون خود جنس تبدیلی کو سمجھنے اور اس کا سامنا کرنے والے خاندانوں کے لئے ایک جامع ہدایت نامہ پیش کرتا ہے۔ یہ مشہور طریقہ کاروں اور وسائل کے بارے میں معلومات فراہم کرتا ہے، حالات کو سمجھنے اور قبول کرنے سے لے کر متعلقہ علاجوں کی تلاش تک رہنمائی فراہم کرتا ہے۔"
+  },
+  {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
     "slug": "queerspace",
     "externalUrl": "https://www.queerspace.org.au/",
@@ -80,6 +103,28 @@
     "description": "خود کر کے ہارمون رپلیسمنٹ تھریپی (HRT) میں دلچسپی رکھنے والے افراد کے لیے علم کا ہب اور آن لائن کمیونٹی ہے۔ ان کی ویب سائٹ خود کو محفوظ اور شامل کرنے والی جگہ مہیا کرنے کے لئے وقف کی گئی ہے جہاں لوگ معلومات، وسائل اور خود کو خود میں مہارت رکھنے کے لئے مدد حاصل کر سکتے ہیں۔ چاہے آپ متبادل طریقوں کا تجزیہ کر رہے ہوں، خوراک اور انتظام کے بارے میں رہنمائی تلاش کر رہے ہوں، یا صرف ایسے لوگوں سے رابطہ کرنے کی تلاش میں ہوں جو ایک جیسے تجربات شریک کرتے ہیں، DIYHRT.cafe آپکو اپنی صحت اور خوشحالی کے بارے میں آگاہ فیصلے کرنے میں مددگار ہونے والی قیمتی بصیرت، ذاتی کہانیوں، اور ماہرانہ مشورے پیش کرتا ہے۔"
   },
   {
+    "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
+    "slug": "stuttgarter-declaration-gender-self-determined",
+    "externalUrl": "https://die-erklaerung.de/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": "BW",
+    "city": "Stuttgart",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "شٹگارٹ ڈیکلیریشن: جنس. خود. طے کرنے والا.",
+    "description": "شٹگارٹ ڈیکلیریشن میں ٹرانسجنڈر اور انٹرسیکس افراد کے ادب سے سلوک کی اہمیت کو زور دیتا ہے۔ اس میں انسانی حقوق کے اہمیت کو میڈیکل، سائیکوتھیراپیکٹک، مشورتی، اور ٹرانسجینڈر اور انٹرسیکس افراد کے لیے مدد کی خدمات میں زور دیا گیا ہے۔ طبیبوں، سائیکوتھیراپسٹس، انسانی حقوق کے کارکنوں اور متاثرہ افراد کی جانب سے تیار کردہ، اس میں ایک شخص کا اپنا جنس طے کرنے کا حق اور طبی علاج کا فرض بیان کیا گیا ہے کہ وہ اس خود مقررہ کا احترام کریں۔"
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -102,6 +147,36 @@
     },
     "title": "DEiFYDEiFYQTIBIPOC کالیکٹو جو Ngunnawal، Ngunawal اور Ngambri ملک میں رہتی ہے",
     "description": "یہ DEiFYQTIBIPOC کمیونٹی کے لئے ایک مشترکہ اجتماع ہے۔ گروپ میں 'Queer Masculinities Zine' اور ان کی خاص پلے لسٹ پر بھی بات چیت کی جائے گی۔"
+  },
+  {
+    "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+    "slug": "bundesverband-trans",
+    "externalUrl": "https://www.bundesverband-trans.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+    "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+    "country": "DE",
+    "provinceOrState": "BE",
+    "city": "Berlin",
+    "latLng": [
+      52.4890033,
+      13.3333558
+    ],
+    "email": "info@bv-trans.de",
+    "socialMedia": null,
+    "town": "Bezirk Charlottenburg-Wilmersdorf",
+    "title": "Bundesverband Trans* e.V.",
+    "description": "Bundesverband Trans* e.V. ایک قومی تنظیم ہے جو جرمنی میں ٹرانز* افراد کے حقوق کے لئے مبارزہ کرتی ہے، جن میں ٹرانزسیکشوئل، ٹرانزجینڈر، جنسیٹیڈکار، نان بائنری، اور ٹرانز* شامل ہیں۔ وہ قانونی، سیاسی، اور طبی اصلاح کی رہائش پر اجتماعات منظم کر کے، مشاورت فراہم کرنے، اور مطبوعات جاری کرنے سے اس کمیونٹی کے لئے حالات بہتر بنانے کی کوشش کرتے ہیں۔"
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -147,6 +222,79 @@
     "description": "یہ ایک جامع آن لائن پلیٹ فارم ہے جو خواتین سے مردوں کی طرف گزرنے والے افراد کی مدد کرتا ہے (FTM). ان کی ویب سائٹ ایک معتبر وسیلہ کے طور پر کام کرتی ہے، جو معلومات، ہدایت اور کمیونٹی کے تعلقات کی بھرپور معلومات فراہم کرتی ہے جو اپنے FTM سفر پر نکلنے والے ہیں۔ ہارمون تھیراپی اور سرجری کے اختیارات پر عملی مشورے سے لے کر ذہنی صحت کی مدد اور ذاتی کہانیوں تک، FTMGuide.org افراد کو قدرت اور وسائل مہیا کرنے کا مقصد رکھتا ہے تاکہ وہ اپنے گزرنے کو پوری طرح سے سمجھ سکیں۔"
   },
   {
+    "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+    "slug": "black-rainbow",
+    "externalUrl": "https://blackrainbow.org.au/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Darwin NT, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin",
+    "latLng": [
+      -12.4637333,
+      130.8444446
+    ],
+    "email": null,
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/blackrainbowaus/",
+      "twitter": "https://twitter.com/BlkRnBow",
+      "facebook": "https://www.facebook.com/blackrainbowaus/",
+      "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+      "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+    },
+    "title": "بلیک رینبو",
+    "description": "بلیک رینبو ایک قومی ایبوریجینی اور توریس سٹریٹ آئلینڈر LGBQTIA+SB رضاکار سماجی انٹرپرائز ہے جو اپنے کمیونٹی کی صحت اور خوشحالی پر فوکس کرتا ہے۔ یہ کوشش کرتا ہے کہ یہ اپنی خدمات کو بھی چاہے وہ غیر مالیتی ہوں، عطیات، خدمات کے لئے فیس اور تعلیمی مواد کی فروخت کے ذریعے پھیلائے۔ وہ آؤٹ ریچ پروجیکٹس کا آغاز کرتے ہیں، سماجی واقعات کی سپورٹ کرتے ہیں، اور کمیونٹی کی بہتری اور صحت کے اثرات پر تحقیق کے لئے فنڈز جمع کرتے ہیں۔"
+  },
+  {
+    "id": "19d3bf2d-04ed-46e6-ac5b-b2e3c26a7dd1",
+    "slug": "minus-eighteen",
+    "externalUrl": "https://www.minus18.org.au/",
+    "tags": [
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Minus18",
+    "description": "Minus18 آسٹریلیا کی وہ خیراتی تنظیم ہے جو LGBTQIA+ نوجوانوں کی زندگی کو بہتر بنانے میں مدد کرتی ہے۔ وہ سوشل الیگیشن کے خلاف لڑتے ہیں اور ایسے محفل پیدا کرتے ہیں جہاں نوجوان لوگ خوشی سے رہتے ہیں، خوشی مناتے ہیں اور دوست بنا سکتے ہیں۔ انہوں نے LGBTQIA+ کی تربیت، وسائل، اور ڈیجیڈل مہم جاری کی ہیں، جس کا مقصد ایک آسٹریلیا خالی ہونا ہے منصفانہ سلوک سے۔ ان کا مقصد نوجوانوں کو ان مہارتوں اور مواقع سے لیس کرنا ہے جن کی انہیں ضرورت ہوتی ہے تاکہ وہ تبدیلی کے اگوائی میں سب سے آگے ہوں۔"
+  },
+  {
+    "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+    "slug": "us-trans-survey",
+    "externalUrl": "https://www.ustranssurvey.org/",
+    "tags": [
+      "education-awareness",
+      "community-stories",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "ustranssurvey@transequality.org",
+    "socialMedia": null,
+    "title": "یو ایس ٹرانس سرور",
+    "description": "یو ایس ٹرانس سروے امریکہ میں ٹرانس لوگوں کا سب سے بڑا سروے ہے، جو ٹرانس لوگوں نے خود کیا ہے۔ یہ سروے یو ایس اور امریکی زمینوں میں 16 سال سے زیادہ عمر کے ٹرانس اور نان بائنری لوگوں کی زندگی اور تجربات کو دستاویزی شکل دیتا ہے۔ سروے اور اس کی رپورٹیں ایک نہایت مؤثر ذریعہ سے ثابت ہوئی ہیں، جس میں رنگین لوگوں کے تجربات کی رپورٹیں اور ریاست کی حسب زمینوں پر مساعدت کی گئی ہے، ٹرانس آوازوں کے ذریعہ مستقبل کا شکل دینے میں مدد کرتی ہیں۔"
+  },
+  {
     "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
     "slug": "transfemscienceorg",
     "externalUrl": "https://transfemscience.org",
@@ -157,6 +305,180 @@
     ],
     "title": "transfemscience.org",
     "description": "ایک قیام کنندہ آن لائن پلیٹ فارم جو ثبوت بنیادی تحقیقات، تعلیم، اور تراجنر اور غیر بائنری کمیونٹی کے لئے وسائل فراہم کرتا ہے، خاص کر فیمائنائزنگ ہارمون تھیراپی (FHT) پر خاص توجہ ہے۔ ان کی ویب سائٹ ان افراد کے لئے اہم ہب ہوتی ہے جو میڈیکل، فیزیولوجیکل، اور نفسیاتی پہلووں پر FHT کی معتبر اور تازہ ترین معلومات تلاش کر رہے ہوتے ہیں۔ ان کی وسیع مجموعے کے ذریعہ جو پیئر ریویو شدہ مطالعات، ماہرین کے مضامین، اور عملی رہنماؤں کا شامل ہیں، ان کی سائٹ افراد کو اپنے گزر و حافظہ اور صحت کے بارے میں آگاہ فیصلہ سازی کرنے میں قوت دیتی ہے۔"
+  },
+  {
+    "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+    "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+    "externalUrl": "https://www.nonbinary.ch/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "youtubeUrl": "https://www.youtube.com/channel/",
+      "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+    },
+    "title": "nonbinary.ch - نان بائنری افراد کے لئے ایک وسیلہ",
+    "description": "ایک جامع سوئس ویب سائٹ ، جو نان بائنری جنسی شناختوں سے متعلق معلومات اور وسائل فراہم کرتی ہے۔ یہ ان افراد کی مدد کرنے کا ارادہ رکھتا ہے جو اپنی جنسی شناخت کا تجزیہ کر رہے ہوں ، یا ان لوگوں کے ساتھ جو نان بائنری افراد کے ساتھ تعامل کرتے ہیں ، تاکہ بنیادی علم آسانی سے دستیاب ہو۔ اس سائٹ پر ایک بلاگ ، ایک نیوز لیٹر بھی میزبانی کی جاتی ہے ، اور کتابوں ، فلموں ، اور تحقیقات جیسے متعلقہ خارجی وسائل کی جانب ربط بھی ہیں۔"
+  },
+  {
+    "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
+    "slug": "the-pinnacle-foundation",
+    "externalUrl": "https://thepinnaclefoundation.org/",
+    "tags": [
+      "education-awareness",
+      "financial-aid-scholarships",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "دی پیناکل فاؤنڈیشن",
+    "description": "دی پیناکل فاؤنڈیشن ایک آسٹریلوی تعلیمی خیراتی ادارہ ہے جو نوجوان LGBTQIA+ آسٹریلویوں کو اسکالر شپس، منٹرنگ اور مواقع فراہم کرتا ہے۔ ان اسکالر شپس کو آسٹریلیا میں تعلیم کے بلند ہدایات کے عام اداروں میں پورے وقت کے مطالعے کے لئے دیا جاتا ہے۔"
+  },
+  {
+    "id": "2f23a24b-2e9d-4f83-9808-1e69981fba12",
+    "slug": "ftm-portal-net",
+    "externalUrl": "https://ftm-portal.net",
+    "tags": [
+      "transmasculine",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "FTM-Portal.net",
+    "description": "FTM-Portal.net ایک بڑا جرمن بولنے والے معلوماتی پلیٹ فارم ہے جو ترانسمینز اور دیگر ٹرانسمصولنٹیوں کے لیے تجربات اور مختلف زندگی کی صورتحالوں پر ٹپس فراہم کرتا ہے. یہ وسیلہ کسی بھی شخص کے لیے مددگار ہے جسے پیدائش کے وقت خاتون قرار دیا گیا ہو اور وہ اس ابتدائی درجے کی شناخت سے مکمل یا جزوی طور پر اتفاق نہیں کرتا. ترانسمینز کے رشتہ داروں اور دیگر دلچسپی رکھنے والے افراد بھی رجسٹر کر سکتے ہیں."
+  },
+  {
+    "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+    "slug": "tgns-transgender-network-switzerland",
+    "externalUrl": "https://www.tgns.ch/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/transgenderch",
+      "twitterUrl": "https://twitter.com/tgnsch",
+      "instagramUrl": "https://www.instagram.com/tgns.ch/"
+    },
+    "title": "TGNS ٹرانسجینڈر نیٹ ورک سوئٹزر لینڈ",
+    "description": "TGNS سوئٹزرلینڈ میں ٹرانسجینڈر لوگوں کے لیے ایک نیٹ ورک ہے۔ وہ قانونی حمایت فراہم کرتے ہیں، صحت کی اصلاحات کی طرف کام کرتے ہیں، اور ٹرانسجینڈر برادری کے لیے ذہنی صحت کے وسائل مہیا کرتے ہیں۔ وہ ایسے مختلف شعور اور تعلیمی پروگراموں میں شامل ہوتے ہیں جو ترانس میسکولائن، ترانسفامینائن، اور نان بائنری کے طور پر شناخت کرنے والے افراد کے لیے ایک حمایتی اور شامل ماحول بنانے کی ہدف ہوتے ہیں۔ TGNS کے پاس یوتھ سروسز، سپورٹ گروپس، اور ٹرانسجینڈر افراد کے خاندان اور شریک حیات کے لیے وسائل بھی ہیں۔"
+  },
+  {
+    "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+    "slug": "medicijnkosten-medication-costs-information",
+    "externalUrl": "https://www.medicijnkosten.nl/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "میڈی سین کا خرچ - دوائوں کے خرچ کی معلومات",
+    "description": "ایک معلوماتی پلیٹ فارم جو دوائوں کے خرچ کے بارے میں تفصیلات فراہم کرتا ہے. یہ ڈیٹا فراہم کرتا ہے جو دوائوں کی واپسی اور ان افراد کے لئے دستیاب متبادلات کے بارے میں ہے جو معین دوا کی خریداری نہیں کر سکتے. صحت کی خرچ کی مالی تخطیط کے لئے اہم ہے۔"
+  },
+  {
+    "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+    "slug": "open-doors-youth-service",
+    "externalUrl": "https://www.opendoors.net.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": null,
+    "county": "South East Queensland",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+    },
+    "title": "اوپن ڈورز یوتھ سروس",
+    "description": "جنوب مشرقی کوئینزلینڈ میں LGBTIQAP+ نوجوانوں اور ان کے خاندانوں کی مدد کرنا۔ زہنی صحت کی کونسلنگ، گروپ تھراپی پروگرام، سوشل سپورٹس، بنیادی خوراک اور صفائی کی آئٹمز فراہم کرنا، مستحکم روزگار اور مکان کو محفوظ کرنا، اور اسکولوں، کام کی جگہوں اور خاندانوں کے ساتھ تربیت اور تعلیم کا آغاز کرنا۔"
+  },
+  {
+    "id": "313cd7c6-1051-437c-a1d1-b1297f4c49a8",
+    "slug": "stonewall-medical-centre-sexual-health-clinic-brisbane",
+    "externalUrl": "https://www.stonewall.com.au/",
+    "tags": [
+      "healthcare",
+      "HIV",
+      "STI",
+      "sex-workers",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "52 Newmarket Rd, Windsor QLD 4030, Australia",
+    "phoneNumber": "07 3857 1222",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Windsor",
+    "county": "Brisbane",
+    "latLng": [
+      -27.4378562,
+      153.0279458
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "ستونوال میڈیکل سنٹر اور جنسی صحت کلینک - برسبین",
+    "description": "ستونوال میڈیکل سنٹر فخر سے برسبین کے لیزبیئن، گے، بايسیکشوئل، ٹرانزجنڈر، انٹرسیکس اور کویر / سوال کرنے والے (LGBTQIA+)، سیکس ورکرز اور استقیام / ہیٹروسیکشویل کمیونٹی کی عمومی صحت اور جنسی صحت کی خدمت کر رہا ہے 1995 سے۔ کلینک میں HIV PEP و PrEP، STI ٹیسٹنگ، سیکس ورکرز کے لئے مشاورت، ٹرانزجنڈر اور جنس متفرق افراد کی طبی خیال، اسٹیرائیڈ اور تصویر بہتر بنانے والے دوا کی نگرانی، اور حوالے جات وغیرہ شامل ہیں۔"
   },
   {
     "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
@@ -181,6 +503,104 @@
     "socialMedia": null,
     "title": "میریڈیان",
     "description": "میریدیان نے 40 سال سے زیادہ عرصے سے لگاتار LGBTIQA+ برادری کی حمایت اور ترغیب دیتا رہا ہے، کینبرا علاقے میں HIV کی خدمات، خوشی کی خدمات، جنسی مزدوروں کے آؤٹ ریچ پروگراموں اور دیگر خدماتوں کی ایک رینج پیش کرتا ہے۔"
+  },
+  {
+    "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+    "slug": "australian-transgender-support-association-of-queensland",
+    "externalUrl": "https://www.atsaq.org.au/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "community-stories",
+      "social-services"
+    ],
+    "address": "Booval QLD 4304, Australia",
+    "phoneNumber": "(07) 3705 7663",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Booval",
+    "county": "City of Ipswich",
+    "latLng": [
+      -27.614358,
+      152.788861
+    ],
+    "email": "parker@atsaq.org.au",
+    "socialMedia": null,
+    "title": "کوئینز لینڈ کی آسٹریلوی ترانس جینڈر سپورٹ ایسوسی ایشن",
+    "description": "1990 کے بعد سے ترانس جینڈر، جنسی تنوع ، اور ترانس جینڈر افراد کی نمائندگی کرنے والے کوئینز لینڈ کے عروج پر ۔ وہ سپورٹ، ترقی، خدمات فراہم کرتے ہیں اور ترانس جینڈر کمیونٹی کی خدمت میں سماجی تقریبات منظم کرتے ہیں۔"
+  },
+  {
+    "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
+    "slug": "jim-collins-foundation",
+    "externalUrl": "https://jimcollinsfoundation.org/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": "New York, NY 10150, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7582228,
+      -73.9704871
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "جم کالنز فاؤنڈیشن",
+    "description": "جم کالنز فاؤنڈیشن (JCF) کا مشن ٹرانسجنڈر لوگوں کو جنسی تصدیقی سرجری کے لئے مالی امداد فراہم کرنا ہے۔ یہ فاؤنڈیشن دو گرانٹ کے اختیارات پیش کرتا ہے؛ فاؤنڈرز گرانٹ، جو سرجری کی تمام خرچے ڈھانپتا ہے اور کریسیلس آن ہیمبرو لیگیسی فنڈ، جو سرجری کے نصف خرچے ڈھانپتا ہے۔ فاؤنڈیشن کا مقصد یہ ہے کہ وہ لوگ جو یہ چاہتے ہیں لیکن ٹرانسجنڈر لوگوں کے خلاف غالب تبصرے کی بنا پر، ایسے خرچے عموماً پورے کرنے میں ناممکن ہوتے ہیں،، ان سرجریوں تک رسائی مہیا کرنے کی کوشش کرتا ہے۔"
+  },
+  {
+    "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
+    "slug": "transgender-india-transition-guide",
+    "externalUrl": "https://transgenderindia.com/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "IN",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "enquiry@transgenderindia.com",
+    "socialMedia": null,
+    "title": "ٹرانسجینڈر انڈیا: آپکی انتقال کی رہنمائی",
+    "description": "ٹرانسجینڈر انڈیا ، ہارمون تبدیلی تھریپی کی بنیادی باتوں، قانونی حقوق و تحفظ، سوشل تبدیلیوں تک، مختلف شعبوں کے ماہرین کے زیر اہتمام کورسز سمیت، انڈیا میں ٹرانسجینڈر برادری کے لیے جامع کورسز ، مضامین اور وسائل فراہم کرتا ہے۔"
+  },
+  {
+    "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+    "slug": "queermed-deutschland-directory",
+    "externalUrl": "https://queermed-deutschland.de/",
+    "tags": [
+      "healthcare",
+      "transmasculine",
+      "non-binary",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/queermeddeutschland",
+      "instagramUrl": "https://instagram.com/queermeddeutschland",
+      "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+      "facebookUrl": "https://facebook.com/queermeddeutschland"
+    },
+    "title": "کوائرمیڈ جرمنی ڈائریکٹری",
+    "description": "کوائرمیڈ جرمنی ڈاکٹرز، تھراپسٹس اور عملیات کی ایک ڈائریکٹری ہے جو جرمنی میں LGBTQIA+ کمیونٹی کی سفارش کرتی ہے۔ اس کا مقصد صحت کے نظام میں تبصرہ کرنا ہے، ہر کے لئے احترام والی اور حساس سہولتیں یقینی بناتے ہیں۔ اس میں گمنام سوال نامہ میں مختلف اضافی اختیارات شامل ہیں جو کمیونٹی کے اندر متنوع افراد کی خدمت کرتے ہیں۔"
   },
   {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
@@ -434,6 +854,26 @@
     "description": "یہ ایک نوعیاتی آن لائن پلیٹ فارم ہے جو عالمگیر LGBTQ+ حقوق کے لئے ایک جامع اور تازہ ترین وسائل پیدا کرنے کا مقصد رکھتا ہے۔ ان کی ویب سائٹ دنیا بھر سے LGBTQ+ حقوق کے قوانین، پالیسیوں، اور معاشرتی رویوں کے مرکزی ڈیٹابیس فراہم کرتی ہے۔ برابری، شمولیت، اور قانونی تحفظات پر ڈیٹا کو نقشے بناکر اور بصری ہونے والا ڈیٹا، EqualDex.com نے کارکنان، تحقیق کرنے والوں، اور افراد کے لئے ایک طاقتور اوزار فراہم کیا ہے جو عالمگیر پیمانے پر LGBTQ+ حقوق کو سمجھنے اور ان کی حمایت کرنے کی کوشش کر رہے ہیں۔ ان کے تفریحی نقشوں کا جائزہ لیں، ملک خاص پروفائل براؤز کریں، اور LGBTQ+ برادری کو عالمگیر پیمانے پر سامنے آنے والی ترقیوں اور چیلنجز کے بارے میں مطلع رہیں۔"
   },
   {
+    "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
+    "slug": "gender-affirmative-letter-access-project",
+    "externalUrl": "https://thegalap.org/",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "جنسی توثیق کا خط رسائی منصوبہ",
+    "description": "GALAP گینڈر توثیق کے خیال کی فراہمی کے لئے آزاد کلینیشنز کا ایک پلیٹ فارم ہے. وہ تھرپسٹ ڈائریکٹریز ، جنسی تصدیق کے لئے خط لکھنے کی رہنمائیں اور زیادہ میں ریسورسز فراہم کرتے ہیں. براہ کرم نوٹ کریں، GALAP کسی بھی قسم کے وعدہ کرنے والے کی مہارت یا تجربہ کی تصدیق نہیں کرسکتا ہے."
+  },
+  {
     "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
     "slug": "a-gender-agenda",
     "externalUrl": "https://genderrights.org.au/",
@@ -592,6 +1032,63 @@
     "description": "اوکلینڈ کی پہلی نا منافع 501c3، تمام سنوں ، تمام شامل LGBTQ برادری خدمت مرکز۔ فراہم کی گئی خدمات میں سپورٹ گروپ، ذہنی صحت کا سپورٹ، رہائشی مدد، نوجوانان کا پروگرام، قانونی کلینک، فوڈ پینٹری وغیرہ شامل ہیں۔ خاص پروگرامات بھی LGBTQ+ لوگوں کی عمر کے لئے اور خود کا انتخاب کرنے والے برادری کے اراکین کے لئے بھی منعقد کیے جاتے ہیں۔"
   },
   {
+    "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+    "slug": "plume-transgender-nonbinary-healthcare",
+    "externalUrl": "https://getplume.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitter": "https://twitter.com/getplume",
+      "instagram": "https://www.instagram.com/getplume/",
+      "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+      "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+      "tiktok": "https://www.tiktok.com/@get.plume"
+    },
+    "title": "Plume",
+    "description": "ٹرانس اور غیر ثنائی کمیونٹی کے لئے سب سے بڑے صحت کی فراہمی کرنے والے میں سے ایک، جس میں جنس کی توثیقی ہارمون تھیراپی اور ترقی پزیر تحول تک کے خدمات شامل ہیں میرے گبھراہٹ اور ڈپریشن کے لئے دوائوں کے ساتھ. خدمات کو ٹرانس لڈ ٹیم کی طرف سے فراہم کیا جاتا ہے جو کمیونٹی کے منفرد صحت کی ضروریات کو سمجھنے کی پیچیدگی کی آمیختہ ادائیگی کرتی ہے، تاکہ آپ خود کو آرام دہ، دیکھا گیا اور دیکھ بھال کیا گیا محسوس کریں. ایک جگہ جہاں آپ اپنے اصلی آپ بن سکتے ہیں اور آپ کو ضرورت ہے خیال رکھیں."
+  },
+  {
+    "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+    "slug": "trans-in-3-steps",
+    "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "johanna4711@zohomail.eu",
+    "socialMedia": {
+      "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+    },
+    "title": "3 منزلوں میں Trans*",
+    "description": "ایک منصوبہ جو ایک فرد کے تبدیلی کے دوران مدد کرنے کے لئے ایک ہدایت کا کام کرتا ہے. اس میں Trans* سے متعلقہ اصطلاحات شامل ہیں، ایک شخص کو یہ جاننے کے لئے معلومات کہ وہ Trans* ہے یا نہیں، نفسیاتی مشاورت کے لئے وسائل، طبی طریقہ کار، واقعاتی کہانیاں آمد، ناموں اور جنسی حیثیت تبدیل کرنے کے قانونی معلومات، اور مختلف وسائل اور خدمات کے لنکس بھی شامل ہیں."
+  },
+  {
     "id": "6f38810d-896c-4493-afe2-b612021122fc",
     "slug": "the-shed-melbourne",
     "externalUrl": "https://www.theshedsupport.org.au/",
@@ -616,6 +1113,51 @@
     "socialMedia": null,
     "title": "The Shed Melbourne",
     "description": "ایک ملبورن بیسڈ سپورٹ گروپ ٹرانس میسکولین افراد کے لئے، جو مختلف واقعات اور وسائل میں شامل ہیں، جیسے کہ ہم مرتبہ سپورٹ میٹنگز، جم کلب، بک کلب، مینٹل ہیلتھ ریسورسز، سرجری اور ٹیسٹوسٹیرین کی معلومات اور سپورٹ، بائنڈر پروگرامز، اور زیادہ۔"
+  },
+  {
+    "id": "7510c3ea-47b1-4a60-bfaf-bb98b6f6b5b2",
+    "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
+    "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
+    "tags": [
+      "legal"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "امریکی ریاستی لیجسلیچرز میں LGBTQ حقوق پر حملوں کی نقشہ بندی",
+    "description": "گزشتہ کچھ سالوں میں ، ریاستوں نے LGBTQ حقوق، خاص طور پر ٹرانسجینڈر نوجوانوں پر حملہ کرنے کے لئے ریکارڈ تعداد میں بلز پیش کیا ہیں۔ ACLU ان حملوں کی ٹریکنگ کر رہا ہے اور اپنے قومی نیٹ ورک کے ہوبوہو لوگوں کی مدد کر رہا ہے تاکہ ہر جگہ LGBTQ لوگوں کی مدد کی جا سکے۔ جبکہ ہر سال مزید ریاستیں LGBTQ لوگوں کی حفاظت کے لئے قوانین پاس کرنے کے لئے کام کرتی ہیں، ریاستی لیجسلیچر ٹرانسجینڈر لوگوں کو ٹارگٹ کرنے والے بلز کو آگے بڑھا رہے ہیں، مقامی حفاظتوں کی حد مقرر کرتے ہیں، اور مذہب کا استعمال امتیاز کرنے کی اجازت دیتے ہیں۔ ACLU ان جفاکارانہ حملوں کے خلاف قومی سطح پر بولنے کو روکنے کا اراده نہیں کرے گا۔"
+  },
+  {
+    "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+    "slug": "national-queer-trans-therapists-of-color-network",
+    "externalUrl": "https://www.nqttcn.com/",
+    "tags": [
+      "mental-health",
+      "social-services"
+    ],
+    "address": "Baltimore, MD 21211, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MD",
+    "city": "Baltimore",
+    "latLng": [
+      39.3289463,
+      -76.63838319999999
+    ],
+    "email": "info@nqttcn.com",
+    "socialMedia": {
+      "facebookUrl": "Facebook-f",
+      "twitterUrl": "Twitter",
+      "instagramUrl": "Instagram"
+    },
+    "title": "قومی کوئر اور ٹرانس رنگین فصیل کے طبیبان کا نیٹ ورک",
+    "description": "قومی کوئر اور ٹرانس رنگین فصیل کے طبیبان کا نیٹ ورک ایک ہیلنگ انصاف تنظم ہے جو کوئر و ٹرانز رنگین فصیل کے لوگوں کی روحانی صحت میں روپ تبدیل کرنے کے لئے پرعزم ہے۔ وہ سوشل انصاف کی تحریکوں اور ذہنی صحت کے میدان کے مرکزی نقطہ پر کام کرتے ہیں۔"
   },
   {
     "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
@@ -763,6 +1305,63 @@
     "description": "قومی مرکز برائے ٹرانسجینڈر برابری ایک ادارہ ہے جو ٹرانسجینڈر لوگوں کی بہتر تفہیم اور قبولیت کے لئے پالیسیوں اور معاشرتی رویوں میں تبدیلی کی ترقی کر رہا ہے۔ نیشنل سینٹر فار ٹرانسجینڈر ایکواٹی (NCTE) بڑھتی ہوئی عمر، خلاف تشدد، روزگار، خاندان، صحت اور ایچ آئی وی، ہاؤسنگ اور بے گھری اور اور بھی عناصر جو ٹرانسجینڈر کمیونٹی کو متاثر کرتی ہیں، کے بارے میں معلومات فراہم کرتا ہے۔"
   },
   {
+    "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+    "slug": "transgender-law-center",
+    "externalUrl": "https://transgenderlawcenter.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "Oakland, CA 94612, USA",
+    "phoneNumber": "510-587-9696",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8113159,
+      -122.2682245
+    ],
+    "email": "info@transgenderlawcenter.org",
+    "socialMedia": null,
+    "title": "چینجینگر لا سینٹر",
+    "description": "چینجینگر لا سینٹر سب سے بڑی قومی ٹرانز لیڈ تنظیم ہے جو تمام لوگوں کے لئے خود کا فیصلہ کرنے کی حمایت کرتی ہے۔ مضبوط وسائل اور اشاعتوں کو برقرار رکھتے ہوئے، سینٹر عام قانونی تحدیدوں اور سوالات کے ذریعے فردوں کو رہنمائی کرتا ہے جن کا سامنا ٹرانزجینڈر لوگ کرتے ہیں۔ TLC نے بھی کمیونٹیوں کو طویل مدتی، قومی، ٹرانز لیڈ تحریک کے لئے آزادی کی طرف تحریک دیتا ہے۔"
+  },
+  {
+    "id": "88a19313-994c-4908-a518-c09b531743e9",
+    "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
+    "externalUrl": "https://dgti.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/dgti.eV",
+      "twitterUrl": "https://twitter.com/dgti_eV",
+      "instagramUrl": "https://www.instagram.com/dgti_ev/",
+      "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
+    },
+    "title": "ڈچ ٹرانس اور انٹرسیکشوئلتی ایسوسی ایشن",
+    "description": "ڈچ ٹرانس اور انٹرسیکشوئلتی ایسوسی ایشن (dgti) جرمنی میں قومی پیمانے پر ایک پیشہ ورانہ انجمن ہے جو تمام سطحوں پر ٹرانس، انٹر جنس، غیر بائنری اور بلا جنس لوگوں کی قبولیت اور برابری کے حق میں کام کرتی ہے۔ ڈیجی ٹی آئی کی ترگیب پر مشاورت، قانونی معلومات، خبریں دیتی ہے، اور ٹرانس * مشورہ دہندگان اور طبی ماہرین کے لئے مختلف وسائل کے پروگرام ہوتے ہیں۔"
+  },
+  {
     "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
     "slug": "the-inner-circle",
     "externalUrl": "https://theinnercircle.org.za/",
@@ -811,6 +1410,55 @@
     "description": "یہ ویب سائٹ فلوریڈا میں اپنا نام یا جنس تبدیل کرنے والوں کے لئے مرحلہ وار ہدایت فراہم کرتی ہے۔ ان مراحل میں عدالت میں درخواست دائر کرنا، اور سوشل سیکیورٹی کارڈ، ڈرائیونگ لائسنس، پاسپورٹ اور پیدائشی سرٹیفیکیٹ کو تبدیل کرنا شامل ہے۔"
   },
   {
+    "id": "91296a03-5c7f-4105-9ba7-2aa9e8bf5223",
+    "slug": "parents-of-gender-diverse-children",
+    "externalUrl": "https://www.pgdc.org.au/",
+    "tags": [
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness",
+      "mental-health",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@pgdc.org.au",
+    "socialMedia": {},
+    "title": "جندر مختلف بچوں کے والدین",
+    "description": "جندر مختلف بچوں کے والدین آسٹریلیا میں ٹرانس جینڈر اور جندر مختلف بچوں کو پرورش کرنے والوں اور والدین کو سپورٹ, ارتباطات, اور وسائل فراہم کرتے ہیں۔ تنظیم محرمانہ اور غیر-تنقیدی ہمسر ایجاد کرتی ہے، ماہانہ ملاقاتیں، آن لائن والدین ہب، اور پیشہ ورانہ ترقی اور تقریبات کی پیشکش کرتی ہے۔"
+  },
+  {
+    "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+    "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+    "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": "+31(0)20 444 0542",
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "genderteam-poli@vumc.nl",
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+    },
+    "town": "Amsterdam-Zuid",
+    "title": "آمسٹرڈم UMC - جنسی بے اطمینانی کے لئے علم و دیکھ بھال مرکز",
+    "description": "آمسٹرڈم UMC میں جنسی بے اطمینانی برائے علم و دیکھ بھال مرکز اپنی پیدائشی جنس سے مطابقت نہ پاتے ہوئے لوگوں کو طبی علاج اور نفسیاتی حمایت فراہم کرنے میں مہرت رکھتا ہے۔ مرکز میں افراد کی تنوع کو قبول کیا جاتا ہے، اس کی خدمات کو ذاتی ضروریات کے مطابق ڈھالا جاتا ہے، اور یہ عالمی سطح پر جنسی نااطمینانی کے علاج میں اپنی مہارت کے لئے معترف ہے۔ یہ ترانسجنڈر افراد کی تفہیم اور علاج میں بہتری کے لئے تحقیق بھی کرتا ہے اور نئے صحت کے پیشہ وران کو تربیت بھی دیتا ہے."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -842,6 +1490,28 @@
     },
     "title": "ٹرانس لائف لائن",
     "description": "ٹرانس لائف لائن ایک ٹرانز لیڈ تنظیم ہے جو ٹرانزجینڈر کمیونٹی کے لئے ہم-راہ دوستوں اور وسائل کی فراہمی کر رہی ہے۔ کمیونٹی سپورٹ، مائیکروگرانٹس اور ہاٹ لائن پر توجہ مرکوز کرتے ہوئے، ان کا مقصد ٹرانس لوگوں کو انہیں زندگی بھرنے کے لئے ضروری تعلقات اور وسائل فراہم کرنا ہے۔ ٹرانس لائف لائن مزید ٹرانس کمیونٹی کی حمایت کرتی ہے ایسی مہمات کے ذریعے جیسے #SafeHotlines."
+  },
+  {
+    "id": "a0bc83c3-3566-4529-9560-bf98eb404461",
+    "slug": "transliving-international",
+    "externalUrl": "https://transliving.co.uk/main/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ٹرانسلیونگ انٹرنیشنل",
+    "description": "ٹرانسلیونگ انٹرنیشنل ایک عالمگیر سپورٹ گروپ ہے جو ٹرانسجینڈر کمیونٹی کے لئے آن لائن میگزین, کلب راتیں, واقعات, اور خریداری کا پلیٹ فارم فراہم کرتی ہے۔ یہ تمام جنسی تنوع والے اور ٹرانس-افراد کی آواز کو بڑھاوا دیتی ہے بذریعہ مدد, مشاورت, ذاتی کہانیاں, اور خصوصیات پیش کرنے۔"
   },
   {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
@@ -877,6 +1547,25 @@
     },
     "title": "ٹریور پروجیکٹ",
     "description": "ٹریور پروجیکٹ ایک امریکی غیر مفید تنظیم ہے جو LGBTQ+ نوجوانوں کو خودکشی روک تھام کی خدمات فراہم کرتی ہے۔ سائٹ ٹرانسجینڈر کمیونٹی کے لئے قیمتی وسائل فراہم کرتی ہے، جن میں کرائزس انتزاع اور خودکشی روک تھام لائف لائن، ٹریور چیٹ، اور ٹریور ٹیکسٹ شامل ہیں جس میں زہنی صحت، سماجی خدمات، اور سپورٹ گروپوں پر رہنمائی بھی شامل ہے۔"
+  },
+  {
+    "id": "a4f258ec-17b7-4477-bd90-a7580ab66086",
+    "slug": "gender-dysphoria-1177-vaardguiden",
+    "externalUrl": "https://www.1177.se/liv--halsa/konsidentitet-och-sexuell-laggning/konsdysfori/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "جندر دسفوریہ - 1177 Vårdguiden",
+    "description": "1177 ہیلتھ کیئر گائیڈ کی جانب سے جندر دسفوریہ پر مکمل ریسورس ، اس بارے میں بحث کرتے ہوئے کہ یہ کیا ہے ، اس کا کیسا محسوس ہوتا ہے ، مدد کیسے تلاش کریں اور مختلف علاج کے اختیارات. یہ ان افراد کی معاونت کرتا ہے جو جندر دسفوریہ کا تجربہ کرتے ہیں اور ان کے سفر میں ان کی مدد کرتا ہے."
   },
   {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
@@ -947,6 +1636,30 @@
     "town": "Rondebosch",
     "title": "GOOD HOPE Metropolitan Community Church",
     "description": "یہوا کے بیٹے یسوع مسیح کے اصولوں کی بنیاد پر قائم ایک الہیاتی ترقی پسند اور شامل کنندہ مسیحی برادری جو تنوع کو منانے والی اور ایک محفوظ، غیر ججمنٹل خلا مہیا کرتی ہے جہاں سب خوش آمدید ہیں۔ کیپ ٹاؤن، جنوبی افریقہ میں قائم شامل مسیحی کانگریگیشن کا حصہ اور بڑے بین الاقوامی فرقے یعنی Metropolitan Community Churches (MCC) کا حصہ۔"
+  },
+  {
+    "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+    "slug": "transfamily",
+    "externalUrl": "https://www.transfamily.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+    },
+    "title": "ٹرانسفیملی",
+    "description": "یہ ایک ہمسفر سپورٹ گروپ ہے جو والدین، بہن بھائی، بڑے خاندان اور ٹرانس اور جنسی مختلف شخص کے دوستوں کے لئے مخصوص ہے۔ یہ وسائل,  واقعات, اور کمیونٹی کہانیوں کے لیے ایک پلیٹ فارم مہیا کرتا ہے۔ یہ ایک ٹرانسفیملی کتاب بھی پیش کرتا ہے جو ٹرانسجنڈر کمیونٹی کے بارے میں مفید معلومات اور بصیرت فراہم کرتی ہے۔"
   },
   {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
@@ -1027,6 +1740,107 @@
     "description": "ایک LGBTIQ+ برادری کنٹرول تنظیم جو جنس, لین دین اور جنسیت کی مختلف برادریوں کیلئے صحت و تندرستی کی خدمات فراہم کرتی ہے، جس میں HIV کی تعمیر و تحفظ، مشاورت، اور خاندانی تشدد کی خدمات شامل ہیں."
   },
   {
+    "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+    "slug": "queer-lexikon",
+    "externalUrl": "https://queer-lexikon.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "fab fa-twitter",
+      "facebookUrl": "fab fa-facebook",
+      "instagramUrl": "fab fa-instagram",
+      "youtubeUrl": "fab fa-youtube",
+      "patreonUrl": "fab fa-patreon",
+      "tumblrUrl": "fab fa-tumblr",
+      "linkedinUrl": "fab fa-linkedin-in",
+      "emailUrl": "fas fa-envelope"
+    },
+    "title": "Queer Lexikon",
+    "description": "Queer Lexikon ایک آن لائن وسیلہ ہے جو قویر کمیونٹی کے لیے وسیع معلومات اور سپورٹ فراہم کرتی ہے۔ جنسی، رومانی، جنسی تنوع سے لے کر زہنی صحت اور سپورٹ گروپوں تک مختلف موضوعات پر چرچا کرتا ہے۔ یہ تعلیم، شعور اور کمیونٹی کی کہانیوں کا مرکز ہے۔"
+  },
+  {
+    "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+    "slug": "transformering-se",
+    "externalUrl": "https://transformering.se/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Stockholm, Sweden",
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": "Stockholm County",
+    "city": "Stockholm",
+    "latLng": [
+      59.32932349999999,
+      18.0685808
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "twitterUrl": "https://twitter.com/rfslungdom",
+      "instagramUrl": "https://www.instagram.com/rfsl_official",
+      "facebookUrl": "http://www.facebook.com/transformering"
+    },
+    "title": "Transformering.se",
+    "description": "ایک سویڈش وسائل کا مرکز جو RFSL انگڈم اور RFSL کے زیر انتظام چلایا جاتا ہے اور جو ترجنسندر اور جنسیت کی شناخت سے متعلق تعمیراتی اور معلومات فراہم کرتا ہے۔ مواد میں حقوق، تعلقات اور جنسیت کی تصدیق سے متعلق خیالات شامل ہیں۔ یہ شخصیتوں کے لئے تیار کی گئی ہیں جو ترانسجینڈر ہیں، شخصی روپ میں ترانس کا تجربہ ہے، یا ان کی جنسیت کی شناخت / اظہار کا سوال کر رہے ہیں، اور ان کے چاہنے والے، ماہرین، یا خود مختار کامکارجو ان کی مدد کرتے ہیں۔"
+  },
+  {
+    "id": "be017772-af87-4920-ae62-1a3e961d216a",
+    "slug": "transamsterdam",
+    "externalUrl": "https://www.transamsterdam.nl/",
+    "tags": [
+      "artists-creators",
+      "education-awareness"
+    ],
+    "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.35914529999999,
+      4.9263607
+    ],
+    "email": "info@transamsterdam.nl",
+    "socialMedia": {
+      "linktr": "linktr.ee/transamsterdam"
+    },
+    "town": "Amsterdam-Oost",
+    "title": "ٹرانس ایمسٹرڈیم",
+    "description": "ٹرانس ایمسٹرڈیم ایک ٹرانس آرگنائزیشن ہے جو ایمسٹرڈیم میں فن، ثقافت اور زندگی کے انداز پر توجہ مرکوز ہے۔ یہ مختلف ستونوں کے ذریعے ٹرانسجینڈر کمیونٹی کی مدد کرتی ہے۔ ان میں ٹرانس اینڈ فرینڈز کیفے، انکلوژن؛ اور دیگر تقریبات کے ذریعے ملاقات کے مواقع پیدا کرنا شامل ہے۔ یہ ورکشاپ، موضوعاتی ملاقاتوں، اور ٹرانس آرٹ سکول پر  تھیٹر پروڈکشن کے ذریعے ٹیلنٹ ڈویلپمنٹ کو بھی فروغ دیتی ہے۔ آخر میں، یہ ٹرانسجینڈر، غیر-بائنری آرٹسٹس، اور پرفارمرز کیلئے فن و ثقافت کی پلیٹ فارم کی پیشکش کرتی ہے۔"
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -1051,6 +1865,31 @@
     "socialMedia": null,
     "title": "The Gender Centre Inc.",
     "description": "The Gender Centre Inc. جنسیتی شناخت کی تلاش اور جنسیتی ناارامی کی کمی کی مدد کرنے کے لئے وسیع خدمات فراہم کر رہا ہے. یہ ہر مرحلے پر خود کو جنسیتی جاتی نما اور خود کو اصلی لگنے والے لوگوں کی حمایت کرتا ہے جبکہ وہ اپنی اصلی خود کی تلاش اور زندگی گزارتے ہیں. اس میں رہایش، مقدمہ کی منظم کرنے، تعلیم و تربیت، مشاورت و ذہنی صحت کی خدمات، گروہ، خبریں، اور وسائل شامل ہیں."
+  },
+  {
+    "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+    "slug": "learning-with-love-the-2023-pflag-national-convention",
+    "externalUrl": "https://pflag.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories"
+    ],
+    "address": "Washington, DC, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "county": "District of Columbia",
+    "latLng": [
+      38.9071923,
+      -77.0368707
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "محبت سے سیکھنے: 2023 پی فلیگ قومی کانونشن",
+    "description": "پی فلیگ نے آپس میں رابطہ، نیٹ ورکنگ، سیکھنے، اور تجربات کا اشتراک کرنے کیلئے چار روزہ تقریب منظم کی ہے۔ کانونشن میں ورکشاپ، پینل، اور پیشکشیں ہوں گی تاکہ وہ اپنے مشن کی حمایت کرسکیں جو LGBTQ+ لوگوں اور انہیں محبت کرنے والوں کے لئے ایک خیالی، عادلانہ، اور تصدیق کرنے والی دنیا بنانے کا ہے۔"
   },
   {
     "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
@@ -1080,6 +1919,46 @@
     "description": "آزادی مرکز LGBTIQA+ کے نوجوانوں کے لئے کشیدگی خدمات کا ایک بڑا دایرہ فراہم کرتا ہے، جو پاکستان بھر میں شامل ہے، جیسے آن لائن سیشن، کمیونٹی ڈیولپمنٹ، مشاورت اور بہت کچھ اور. وہ تمام LGBTIQA+ نوجوانوں کو یہ احساس دلاتے ہیں کہ وہ شامل ہیں، منسلک ہیں اور محترم ہیں. وہ ماں باپ، پیشہ ورانہ، کمیونٹیز اور تنظیموں کو تربیت اور رہنمائی بھی فراہم کرتے ہیں."
   },
   {
+    "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
+    "slug": "point-of-pride",
+    "externalUrl": "https://www.pointofpride.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "فخر کا نقطہ",
+    "description": "فخر کا نقطہ خصوصی مالی مدد اور براہ راست سپورٹ فراہم کرتا ہے جو ٹرانس لوگوں کو صحت و خوبصورتی کے خیال کی ضرورت ہوتی ہے. امدادی پروگرامز ٹرانسجینڈر سرجری کے سالانہ فنڈز، HRT رسائی فنڈز، الیکٹرالائسس سپورٹ اور بالکل مفت چٹی بائنڈرز اور فیم شیپ ویئر کی فراہمی تک پھیلتے ہیں جو ٹرانس لوگ اپنی سلامتی کے لئے خریدنے یا تلاش کرنے کی خریداری کرنے سے قاصر ہیں."
+  },
+  {
+    "id": "c6a77c4c-7aa3-47b3-b385-8573e1ba3a78",
+    "slug": "transmann-ev",
+    "externalUrl": "https://transmann.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": "info@transmann.de",
+    "socialMedia": {},
+    "title": "TransMann e.V.",
+    "description": "TransMann e.V. رضاکارانہ، غیر منفعت بخش تنظیم ہے جو جرمنی بھر میں تمام خواتین سے مرد (FzM/FtM) ٹرانس* اور انٹر*- لوگوں کی وسیع حد تک مدد فراہم کرتی ہے۔ خدمات میں گروہ کی میٹنگیں، آن لائن معلومات اور وسائل، ساتھی کو ساتھی مشاورت، تعلیمی مواد اور عوامی مظاہرات شامل ہیں۔ وہ ٹرانس*-تجربہ کار ڈاکٹرز اور تھراپسٹ کی قومی پیمانے پر ڈیٹابیس کو بھی برقرار رکھتے ہیں۔ اگرچہ ان کا بنیادی آڈینس FzM-ٹرانس* اور انٹر* لوگ ہیں، وہ اپنے وسائل اور مدد کو خاندان کے افراد، دوستوں، ہمسر, تعلیمی اداروں، اور ملازمین تک بھی بڑھاتے ہیں۔"
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -1092,6 +1971,51 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "ایک اہم آن لائن پلیٹ فارم جو دنیا بھر میں تشدد اور تعزیر سے دوچار LGBTQ+ افراد کی مدد اور تحفظ کیلیے خصوصی طور پر مختص ہے. بغیر کسی لچک کے، یہ ویبسائٹ معاشی مدد، زندگی بچانے والے وسائل اور سیکوریٹی کا راستہ دیکھاکر فوری خطرے میں مبتلا افراد سے رابطہ کرتی ہے. مقامی تنظیموں کے ساتھ شراکت داری اور ہمدرد سپورٹرز کے نیٹ ورک کے ذریعے، RainbowRailroad.org بلا تھکن تحفظ، قانونی مدد، اور منتقلی کی سپورٹ فراہم کرنے کے لیے کام کرتا ہے، جو افراد کو تعزیر سے بچاکر پناہ گاہ تلاش کرنے میں مددگار ثابت ہوتی ہے. انسانی حقوق کی ترجیح، زندگیوں کی حفاظت، اور ایک زیادہ شامل کنندہ دنیا کو فروغ دینے کے ذریعہ، RainbowRailroad.org LGBTQ+ افراد کے لیے امن و آزادی کے تلاش میں امید اور تحفظ کا منارہ کا کام کرتا ہے."
+  },
+  {
+    "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+    "slug": "blaq-aboriginal-corporation",
+    "externalUrl": "https://blaq.org.au/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "Redfern NSW 2016, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Redfern",
+    "county": "City of Sydney",
+    "latLng": [
+      -33.892215,
+      151.205873
+    ],
+    "email": "admin@blaq.org.au",
+    "socialMedia": null,
+    "title": "BlaQ Aboriginal Corporation",
+    "description": "BlaQ Aboriginal Corporation ایک کمیونٹی تنظیم ہے جو نواں, شاملیت, تفہیم اور وکالت کے ذریعے Aboriginal اور Torres Strait Islander LGBTQ+SB کمیونٹی کی حمایت اور تقویت کی تقریب کرتی ہے۔"
+  },
+  {
+    "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
+    "slug": "baby-making-for-everybody",
+    "externalUrl": "https://www.babymakingforeverybody.com/",
+    "tags": [
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ہر شخص کے لئے بچہ پیدا کرنے",
+    "description": "ایک ہدایت نامہ اور خوشی کی تقریب ہم جنس پرستی ، ٹرینس جینڈر ، پیارے  لوگوں اور انفرادی والدین کے لئے روایتی معاشرتی-نوکلیئر-خاندانی ماڈل کے باہر مختلف خاندانی تخلیقی طریقے. کتاب ہدایت نامے اور شخصی خاکے کے ساتھ ایک قدم بہ قدم ہدایت فراہم کرتی ہے ، جو ممکنہ والدین کو اپنے خاندان کو بڑھانے کے لئے ایک نقشہ فراہم کرتی ہے."
   },
   {
     "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
@@ -1200,6 +2124,29 @@
     "description": "1975ء میں قائم ہونے والا، سی ہارس کلب وکٹوریہ ٹرانسجینڈر کمیونٹی کے لئے وسائل، کمیونٹی سروس اور مدد فراہم کرتا ہے۔ اس میں ایک ٹرانس فرینڈلی ڈائریکٹری اور جو خدمات ہیں اور ایک آنے والے آن لائن پلیٹ فارم شامل ہے جس کے ذریعے ممبرز آپس میں رابطہ کر سکتے ہیں۔"
   },
   {
+    "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
+    "slug": "a-complete-guide-to-transmasculine-reproduction",
+    "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
+    "tags": [
+      "transmasculine",
+      "healthcare",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ٹرانس میل جنس کے افراد کے لیے مکمل گائیڈ برائے تولید",
+    "description": "ایک جامع گائیڈ جو ٹرانس میل بازورگوں کی بنجھ پن, حاملہ ہونے, پیدائش کے بعد, دودھ پیدا کرنے, اور والدین کی سفر کی معلومات فراہم کرتی ہے۔ اس وسائل میں ترانس کو تصدیق دینے والے صحت کے فراہم کنندگان, تحقیق شدہ اکثر مطلوبہ سوالات, مختلف وسائل شامل ہیں اور ان کی تربیت اور ترانس میل افراد کی والدین کی سفر میں ان کی حمایت کے لئے مزید."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -1304,6 +2251,30 @@
     "description": "ٹرانس جنڈرمیپ کام ایک آن لائن وسیلہ ہے جو ان لوگوں کو عملی معلومات اور ہدایت فراہم کرنے کا مقصد رکھتا ہے جو اپنی جنسیتی شناخت سے سوال کر رہے ہیں یا وہ ٹرانس جنڈر سپیکٹرم پر کہیں نہ کہیں موجود ہیں. ویب سائٹ میں ٹرانس جنڈر اصطلاحات کی تفہیم ، ٹرانزیشن عملیات ، قانونی مسائل ، صحت کی دیکھ بھال ، اور بہت ساری ذاتی کہانیاں جیسے کئی موضوعات شامل ہیں. اس کا مقصد یہ ہے کہ وہ فردوں کی مدد کرے جو اپنے ذاتی سفر کو نیگیٹ کر رہے ہیں جنسیتی شناخت اور ٹرانس جنڈر تجربات کے بہت سے پہلوؤں کی رہنمائی کی ایک 'نقشہ' یا گائیڈ فراہم کرکے. براہ کرم تازہ ترین اور درست معلومات کے لئے اصل سائٹ کا دورہ کریں."
   },
   {
+    "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+    "slug": "the-genderaid",
+    "externalUrl": "https://genderaid.org/en",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "info@genderaid.org",
+    "socialMedia": null,
+    "town": "Amsterdam-Zuid",
+    "title": "جنس اید",
+    "description": "جنس اید ایک فیصلہ ساز مدد ہے ؛ لنگک  جنس سرجری کے لئے، جس کا مقصد پوری اور قابل اعتماد معلومات فراہم کرنا ہے جو علاج کے اختیارات کے بارے میں ہیں۔ یہ ڈچ صحت کی نگہداشت کے سسٹم پر توجہ مرکوز کرتی ہے، جو WPATH کے ہدایت کو مانتی ہے اور یہ ہے تمام ترانسجندر کمیونٹی کے حصوں کے لئے تیار کی گئی ہے، جس میں نان بائنری، جندر فلویڈ، اور جندر کوہر افراد شامل ہیں۔"
+  },
+  {
     "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
     "slug": "transfolk-of-wa",
     "externalUrl": "https://www.transfolkofwa.org/",
@@ -1333,6 +2304,95 @@
     "socialMedia": null,
     "title": "TransFolk of WA",
     "description": "مغربی آسٹریلیا میں ٹرانسجینڈر لوگوں اور ان کے چاہنے والوں کے لئے ایک ہم مرتبہ سپورٹ سروس۔ آن لائن گروپ، تجویز کردہ خدمات اور وسائل، اور مختلف واقعات میزبانی کرتا ہے۔"
+  },
+  {
+    "id": "f2625d38-e181-4231-8344-214adb6edf36",
+    "slug": "transcend-australia",
+    "externalUrl": "https://transcend.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ٹرانسسینڈ آسٹریلیا",
+    "description": "ٹرانسسینڈ آسٹریلیا کا مقصد ٹرانس اور جندر کی مختلف بچوں اور ان کے خاندانوں اور خیالات کو سپورٹ کرنا ، تسلیم کرنا اور  جشن منانا ہے۔ وہ خاندانوں کو آسٹریلیا میں معلومات ، سپورٹ اور حوالہ جات فراہم کرتے ہیں اور ٹرانس اور جندر کے مختلف بچوں اور نوجوانوں کو قوت دینے کے لئے کام کرتے ہیں."
+  },
+  {
+    "id": "f48634db-fe71-426c-be84-622b3282bad7",
+    "slug": "planned-parenthood",
+    "externalUrl": "https://www.plannedparenthood.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": "1-800-230-7526",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "منصوبہ بند ماں بننے کی تربیت",
+    "description": "منصوبہ بند ماں بننے کی تربیت کروڑوں لوگوں کو زندگی کی بنیادی صحت کی خدمات، جنسی تعلیم اور معلومات فراہم کرتی ہے. خدمات میں شامل ہیں اسقاط حمل، پیدائش کا کنٹرول، جنسی بیماریوں کا امتحان اور علاج، ٹرانسجینڈر ہارمون تھیراپی، اور مزید. آن لائن اور ٹیلی حیثیت کی ملاقاتیں دستیاب ہیں."
+  },
+  {
+    "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+    "slug": "rfsl-swedish-federation-lgbtq-rights",
+    "externalUrl": "https://www.rfsl.se/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "RFSL - لیسبیئن، گے، بائسیکشوئل، خود جنس پسند اور قویر حقوق کے لئے سویڈش فیڈریشن",
+    "description": "RFSL ایک سویڈش تنظیم ہے جو LGBTQ حقوق کے ساتھ اور ان کے لئے کام کرتی ہے۔ وہ ناگزیر وسائل، کمیونٹی سپورٹ، تعلیم و آگاہی، قانونی رہنمائی، صحت کی خدمات، اور خود جنس پسند کمیونٹی کے لئے مزید فراہم کرتے ہیں۔ RFSL نے بین الاقوامی سطح پر LGBTQ حقوق کا ترویج بھی کیا ہے۔"
+  },
+  {
+    "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+    "slug": "apotheek-all-about-medication",
+    "externalUrl": "https://www.apotheek.nl/",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Apotheek.nl - دوا کے بارے میں تمام",
+    "description": "ایک وسیلہ جو مختلف دواؤں کے بارے میں قابل اعتماد معلومات فراہم کرتا ہے۔ اس سائٹ میں ویڈیوز ، صحت کے موجودہ امور ، ویکسینیشن ، کورونا وائرس ، اور فارمیسی کی دیکھ بھال پر معلومات شامل ہیں۔ یہ ہالینڈی میں معلومات فراہم کرتا ہے اور 50 مرکزی دواؤں کا اردو میں ترجمہ کرتا ہے ."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

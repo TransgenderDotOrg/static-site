@@ -1,0 +1,23 @@
+{
+  "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+  "title": "U.S. Trans Survey",
+  "description": "The U.S. Trans Survey is the largest survey of trans people, by trans people, in the United States. It documents the lives and experiences of trans and nonbinary people aged 16+ in the U.S. and U.S. territories. The survey and its reports have been a vital resource, including reports on the experiences of people of color and by state, helping to shape the future through trans voices.",
+  "slug": "us-trans-survey",
+  "externalUrl": "https://www.ustranssurvey.org/",
+  "tags": [
+    "education-awareness",
+    "community-stories",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "ustranssurvey@transequality.org",
+  "socialMedia": null
+}

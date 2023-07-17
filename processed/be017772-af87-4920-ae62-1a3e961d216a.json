@@ -1,0 +1,26 @@
+{
+  "id": "be017772-af87-4920-ae62-1a3e961d216a",
+  "title": "TransAmsterdam",
+  "description": "TransAmsterdam is a trans organization focused on art, culture, and lifestyle in Amsterdam. It supports the transgender community through various pillars. These include creating opportunities to meet via Trans & Friends café, InClusion, and other events. It also promotes talent development through workshops, themed meetings, and theater productions at Trans Art School. Finally, it offers an art and culture platform for and by transgender, non-binary artists, and performers.",
+  "slug": "transamsterdam",
+  "externalUrl": "https://www.transamsterdam.nl/",
+  "tags": [
+    "artists-creators",
+    "education-awareness"
+  ],
+  "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": "NH",
+  "city": "Amsterdam",
+  "county": "Amsterdam",
+  "latLng": [
+    52.35914529999999,
+    4.9263607
+  ],
+  "email": "info@transamsterdam.nl",
+  "socialMedia": {
+    "linktr": "linktr.ee/transamsterdam"
+  },
+  "town": "Amsterdam-Oost"
+}

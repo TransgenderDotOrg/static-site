@@ -1,0 +1,105 @@
+{
+  "id": "f2625d38-e181-4231-8344-214adb6edf36",
+  "slug": "transcend-australia",
+  "externalUrl": "https://transcend.org.au/",
+  "tags": [
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Transcend Australia",
+      "description": "Transcend Australia’s purpose is to support, affirm and celebrate the lives of trans and gender diverse children and their families and carers. They provide information, support and referrals to families across Australia and work to empower trans and gender diverse children and young people."
+    },
+    "es-ES": {
+      "title": "Transcend Australia",
+      "description": "El propósito de Transcend Australia es apoyar, afirmar y celebrar las vidas de los niños trans y de género diverso y sus familias y cuidadores. Proporcionan información, apoyo y referencias a familias en toda Australia y trabajan para empoderar a los niños y jóvenes trans y de género diverso."
+    },
+    "id-ID": {
+      "title": "Transcend Australia",
+      "description": "Tujuan dari Transcend Australia adalah untuk mendukung, mengakui, dan merayakan kehidupan anak-anak dan keluarga serta pengasuh yang beragam gender dan trans. Mereka menyediakan informasi, dukungan dan rujukan kepada keluarga di seluruh Australia dan bekerja untuk memberdayakan anak-anak dan remaja yang beragam gender dan trans."
+    },
+    "de-DE": {
+      "title": "Transcend Australien",
+      "description": "Der Zweck von Transcend Australien besteht darin, das Leben von trans- und geschlechtsvielfältigen Kindern und ihren Familien und Pflegepersonen zu unterstützen, zu bekräftigen und zu feiern. Sie bieten Informationen, Unterstützung und Überweisungen für Familien in ganz Australien an und arbeiten daran, trans- und geschlechtsvielfältige Kinder und junge Menschen zu stärken."
+    },
+    "vi-VN": {
+      "title": "Transcend Australia",
+      "description": "Mục đích của Transcend Australia là hỗ trợ, khẳng định và kỷ niệm cuộc sống của trẻ em chuyển giới và đa dạng giới tính cùng với gia đình và người chăm sóc họ. Họ cung cấp thông tin, hỗ trợ và giới thiệu cho các gia đình trên toàn Australia và làm việc để trao quyền cho trẻ em và thanh niên chuyển giới và đa dạng giới tính."
+    },
+    "zh-CN": {
+      "title": "Transcend澳大利亚",
+      "description": "Transcend澳大利亚的目的是支持、确认并庆祝跨性别和性别多元儿童以及他们的家庭和照顾者的生活。他们为澳大利亚各地的家庭提供信息、支持和转介，并努力赋予跨性别和性别多元儿童和年轻人权力。"
+    },
+    "sw-KE": {
+      "title": "Transcend Australia",
+      "description": "Lengo la Transcend Australia ni kusaidia, kuthibitisha na kusherehekea maisha ya watoto wa jinsia ya trans na tofauti na familia zao na walezi. Wao hutoa taarifa, usaidizi na marejeleo kwa familia kote Australia na kufanya kazi ya kuwawezesha watoto na vijana wa jinsia ya trans na tofauti."
+    },
+    "tr-TR": {
+      "title": "Transcend Australia",
+      "description": "Transcend Australia’ın amacı, trans ve cinsiyet çeşitliliği olan çocukların ve ailelerinin, bakıcılarının yaşamlarını desteklemek, doğrulamak ve kutlamaktır. Tüm Avustralya'daki ailelere bilgi, destek ve yönlendirmeler sağlarlar ve trans ve cinsiyet çeşitliliği olan çocukları ve gençleri güçlendirmeye çalışırlar."
+    },
+    "pt-PT": {
+      "title": "Transcend Australia",
+      "description": "O objetivo da Transcend Australia é apoiar, afirmar e celebrar as vidas de crianças trans e de gênero diverso e suas famílias e cuidadores. Eles fornecem informações, apoio e referências a famílias em toda a Austrália e trabalham para capacitar crianças e jovens trans e de gênero diverso."
+    },
+    "fr-FR": {
+      "title": "Transcend Australia",
+      "description": "Le but de Transcend Australia est de soutenir, affirmer et célébrer la vie des enfants transgenres et diversifiés sur le plan du genre ainsi que leurs familles et soignants. Ils fournissent des informations, du soutien et des références aux familles à travers l'Australie et travaillent à autonomiser les enfants et les jeunes transgenres et diversifiés sur le plan du genre."
+    },
+    "ko-KR": {
+      "title": "Transcend Australia",
+      "description": "Transcend Australia의 목적은 남녀 공유 아동 및 그들의 가족 및 보호자의 삶을 지원하고, 확인하고, 축하하는 것입니다. 그들은 전국의 가족들에게 정보, 지원 및 참조를 제공하고 남녀 공유 아동 및 청소년을 능력있게 만드는 작업을 합니다."
+    },
+    "ru-RU": {
+      "title": "Transcend Австралия",
+      "description": "Цель Transcend Австралии - поддерживать, подтверждать и праздновать жизнь трансгендерных и гендерно-разнообразных детей и их семей и опекунов. Они предоставляют информацию, поддержку и рефералы семьям по всей Австралии и работают над эмповерментом трансгендерных и гендерно-разнообразных детей и молодежи."
+    },
+    "ja-JP": {
+      "title": "トランスセンド・オーストラリア",
+      "description": "トランスセンド・オーストラリアの目的は、トランスジェンダーやジェンダー多様性を持つ子供たちとその家族や介護者の生活を支持し、肯定し、祝うことです。彼らはオーストラリア全域の家族に情報、サポート、紹介を提供し、トランスジェンダーおよびジェンダー多様性を持つ子供や若者を支援するための活動を行っています。"
+    },
+    "uk-UA": {
+      "title": "Transcend Australia",
+      "description": "Мета Transcend Australia - підтримувати, засвідчувати та відзначити життя дітей-трансгендерів та гендерно-різноманітних та їх сім'ї та опікуни. Вони надають інформацію, підтримку та посилання сім'ям по всій Австралії та працюють над тим, щоб зробити дітей та молодь трансгендерних та гендерно різноманітних людей більш дієздатними."
+    },
+    "ar-SA": {
+      "title": "تجاوز أستراليا",
+      "description": "الهدف من تجاوز أستراليا هو دعم وتأكيد والاحتفال بحياة الأطفال المتحولين جنسيا والأطفال ذوي التنوع الجنسي وعائلاتهم ومقدمي الرعاية. يوفرون المعلومات والدعم والإحالات إلى العائلات في جميع أنحاء أستراليا ويعملون على تمكين الأطفال والشباب المتحولين جنسيا وذوي التنوع الجنسي."
+    },
+    "hi-IN": {
+      "title": "Transcend Australia",
+      "description": "Transcend Australia का उद्देश्य ट्रांस और लिंग विविध बच्चों और उनके परिवारों और संरक्षकों का समर्थन, पुष्टि और जश्न मनाना है। वे ऑस्ट्रेलिया भर के परिवारों को जानकारी, समर्थन और रेफरल प्रदान करते हैं और ट्रांस और लिंग विविध बच्चों और युवाओं को सशक्त बनाने का काम करते हैं।"
+    },
+    "ur-PK": {
+      "title": "ٹرانسسینڈ آسٹریلیا",
+      "description": "ٹرانسسینڈ آسٹریلیا کا مقصد ٹرانس اور جندر کی مختلف بچوں اور ان کے خاندانوں اور خیالات کو سپورٹ کرنا ، تسلیم کرنا اور  جشن منانا ہے۔ وہ خاندانوں کو آسٹریلیا میں معلومات ، سپورٹ اور حوالہ جات فراہم کرتے ہیں اور ٹرانس اور جندر کے مختلف بچوں اور نوجوانوں کو قوت دینے کے لئے کام کرتے ہیں."
+    },
+    "mr-IN": {
+      "title": "Transcend Australia",
+      "description": "Transcend Australia च्या उद्देशाची मदत करण्याची, स्वीकारण देण्याची आणि विविध लिंगी बाल आणि त्यांच्या कुटुंबीयांची आणि त्यांच्या संरक्षकांची आणखीन जीवन प्रस्थापन करण्याची आहे. ते ऑस्ट्रेलिया भरतील कुटुंबांना माहिती, मदत आणि संदर्भांची पुरवठा करतात आणि विविध लिंगी बाल आणि तरुणांना सशक्त करण्याचे काम करतात."
+    },
+    "bn-BD": {
+      "title": "Transcend Australia",
+      "description": "Transcend Australia-র উদ্দেশ্য হল ট্রান্স এবং লিঙ্গ বৈচিত্র্যময় শিশুদের এবং তাদের পরিবার এবং যত্নদাতাদের জীবনকে সমর্থন, নিশ্চিত এবং উদ্যাপন করা। তারা অস্ট্রেলিয়া জুড়ে পরিবারগুলির জন্য তথ্য, সহায়তা এবং রেফারেন্স প্রদান করে এবং ট্রান্স এবং লিঙ্গ বৈচিত্র্যময় শিশু এবং যুবকদের ক্ষমতা বৃদ্ধির জন্য কাজ করে।"
+    },
+    "ta-IN": {
+      "title": "Transcend ஆஸ்திரேலியா",
+      "description": "Transcend ஆஸ்திரேலியாவின் நோக்கம் ஆஸ்திரேலியாவின் முழுவதுமாக குடும்பத்தைத் தாண்டி, தன்மை வேற்றுமையான குழந்தைகளோடு இருக்கும் பெலாணிகளோடு வாழ்வை ஆதரித்து, உறுதி செய்யும் மற்றும் செலசேர்ந்து கொண்டாடும் போன்றவற்றை சார்ந்து. அவர்கள் தகவல்களை வழங்குகின்றனர், ஆதரவு மற்றும் கண்காணிப்புகளை வழங்குகின்றனர் மற்றும் தன்மை வேற்றுமையான சிறுவர்கள் மற்றும் இளம் பெரும் மக்களை முன்னேற்றுவதில் உதவுகின்றனர்."
+    },
+    "te-IN": {
+      "title": "ట్రాన్సెండ్ ఆస్ట్రేలియా",
+      "description": "ట్రాన్సెండ్ ఆస్ట్రేలియాయు మారుపు మరియు జెండర్ వైవిధ్యత కలిగి ఉన్న పిల్లల మరియు వారి కుటుంబాల మరియు తనిఖీదారులను మద్దతు చేయడానికి, సమర్ధించడానికి మరియు వేదించడానికి ఉద్దేశించింది. వారు ఆస్ట్రేలియా అంతటా కుటుంబాలకు సమాచారం, మద్దతు మరియు రిఫరల్లను అందిస్తున్నారు మరియు మారుపు మరియు జెండర్ వైవిధ్యత కలిగి ఉన్న పిల్లల మరియు యువ వ్యక్తులను అధికారవంతులుగా మార్చి పనిచేస్తున్నారు."
+    }
+  }
+}

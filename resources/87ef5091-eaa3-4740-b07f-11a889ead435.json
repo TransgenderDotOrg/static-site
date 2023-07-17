@@ -1,0 +1,110 @@
+{
+  "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+  "slug": "transgender-law-center",
+  "externalUrl": "https://transgenderlawcenter.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "Oakland, CA 94612, USA",
+  "phoneNumber": "510-587-9696",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Oakland",
+  "county": "Alameda County",
+  "latLng": [
+    37.8113159,
+    -122.2682245
+  ],
+  "email": "info@transgenderlawcenter.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Law Center",
+      "description": "Transgender Law Center is the largest national trans-led organization advocating self-determination for all people. By maintaining robust resources and publications, the Center guides individuals through common legal challenges and questions transgender people encounter. TLC also empowers communities towards a long-term, national, trans-led movement for liberation."
+    },
+    "id-ID": {
+      "title": "Transgender Law Center",
+      "description": "Transgender Law Center adalah organisasi nasional terbesar yang dipimpin oleh trans yang menganjurkan penentuan nasib sendiri untuk semua orang. Dengan menjaga sumber daya dan publikasi yang kuat, Pusat ini membimbing individu melalui tantangan hukum umum dan pertanyaan yang sering dihadapi oleh orang transgender. TLC juga memberdayakan komunitas menuju gerakan pembebasan nasional jangka panjang yang dipimpin oleh trans."
+    },
+    "pt-PT": {
+      "title": "Centro de Direito Transgênero",
+      "description": "O Centro de Direito Transgênero é a maior organização nacional liderada por trans que defende a autodeterminação para todas as pessoas. Ao manter recursos e publicações robustas, o Centro orienta os indivíduos através de desafios e perguntas legais comuns que as pessoas transgênero enfrentam. O TLC também capacita as comunidades para um movimento de libertação nacional, trans-led, a longo prazo."
+    },
+    "fr-FR": {
+      "title": "Transgender Law Center",
+      "description": "Le Transgender Law Center est la plus grande organisation nationale dirigée par des trans qui plaide pour l'autodétermination de toutes les personnes. En maintenant des ressources et des publications robustes, le Centre guide les individus à travers les défis juridiques communs et les questions que rencontrent les personnes transgenres. TLC favorise aussi l'autonomisation des communautés vers un mouvement de libération national et à long terme, dirigé par des trans."
+    },
+    "de-DE": {
+      "title": "Transgender-Rechtszentrum",
+      "description": "Das Transgender-Rechtszentrum ist die größte landesweite transgeführte Organisation, die für Selbstbestimmung aller Menschen eintritt. Durch den Einsatz umfangreicher Ressourcen und Publikationen leitet das Zentrum Einzelpersonen durch gängige rechtliche Herausforderungen und Fragen, mit denen Transgender-Menschen konfrontiert sind. TLC ermächtigt auch Gemeinschaften in Richtung einer langfristigen, landesweiten, transgeführten Bewegung zur Befreiung."
+    },
+    "zh-CN": {
+      "title": "跨性别法律中心",
+      "description": "跨性别法律中心是全国最大的由跨性别者领导的组织，主张所有人的自决权。该中心通过维持丰富的资源和出版物，指导个体应对跨性别者常遇到的法律挑战和问题。TLC还赋予社区以实现长期的、全国性的、由跨性别者领导的解放运动。"
+    },
+    "es-ES": {
+      "title": "Transgender Law Center",
+      "description": "Transgender Law Center es la organización nacional más grande liderada por personas trans que aboga por la autodeterminación para todas las personas. Mediante el mantenimiento de sólidos recursos y publicaciones, el Centro guía a las individuos a través de los desafíos y preguntas legales comunes que enfrentan las personas transgénero. TLC también empodera a las comunidades hacia un movimiento de liberación nacional a largo plazo liderado por personas trans."
+    },
+    "ko-KR": {
+      "title": "Transgender Law Center",
+      "description": "Transgender Law Center는 모든 사람들이 자기 결정권을 옹호하는 가장 큰 국가적인 trans-led 조직입니다. 풍부한 자원과 출판물을 유지함으로써, 이 센터는 트랜스젠더 사람들이 마주하는 일반적인 법적 도전과 질문을 통해 개개인을 안내합니다. 또한 TLC는 장기적이며 국가적인 trans-led의 해방 운동을 위해 커뮤니티를 강화합니다."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダー法センター",
+      "description": "トランスジェンダー法センターは、全ての人々の自己決定を擁護する国内最大のトランス主導の組織です。豊富なリソースと出版物を維持することで、センターは個々人をトランスジェンダーの人々が遭遇する一般的な法的課題と質問を通じてガイドします。TLCはまた、長期的な、国家的な、トランス主導の解放運動に向けてコミュニティを力づけます。"
+    },
+    "tr-TR": {
+      "title": "Transgender Hukuk Merkezi",
+      "description": "Transgender Hukuk Merkezi, tüm insanlar için kendi belirlemeye savunan en büyük ulusal trans öncülüğündeki bir organizasyondur. Güçlü kaynaklar ve yayınlar sürdürerek, Merkez bireyleri, trans bireylerin karşılaştığı yaygın hukuki zorluklar ve sorular konusunda yönlendirir. TLC ayrıca, toplulukları kurtuluş için uzun vadeli, ulusal, trans öncülüğündeki bir harekete yönlendirir."
+    },
+    "ru-RU": {
+      "title": "Центр Трансгендерного Права",
+      "description": "Центр Трансгендерного Права является крупнейшей национальной организацией, руководствуемой трансгендерами, которая отстаивает самоопределение всех людей. Обеспечивая мощные ресурсы и публикации, Центр помогает людям справляться с типичными юридическими трудностями и вопросами, с которыми сталкиваются трансгендеры. TLC также вдохновляет общества на долгосрочное национальное движение, руководствуемое трансгендерами, за освобождение."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Sheria za Transgender",
+      "description": "Kituo cha Sheria za Transgender ni shirika kubwa la kitaifa linaloongozwa na trans linalotetea kujiamulia mwenyewe kwa watu wote. Kwa kudumisha rasilimali na machapisho makubwa, Kituo kinawaongoza watu kupitia changamoto na maswali ya kisheria ambayo watu wa jinsia ya trans wanakutana nayo. TLC pia inaimarisha jamii kuelekea harakati ya kitaifa, ya muda mrefu, inayoongozwa na trans kwa ukombozi."
+    },
+    "vi-VN": {
+      "title": "Trung Tâm Luật Transgender",
+      "description": "Trung Tâm Luật Transgender là tổ chức quốc gia lớn nhất được dẫn dắt bởi cộng đồng trans, ủng hộ quyền tự quyết cho tất cả mọi người. Bằng cách duy trì tài nguyên và công trình xuất bản phong phú, Trung tâm hướng dẫn cá nhân vượt qua những thách thức pháp lý thường gặp và những câu hỏi mà người thuộc giới transgender thường gặp phải. TLC cũng truyền cảm hứng cho cộng đồng hướng tới một phong trào giải phóng dẫn dắt bởi cộng đồng trans quốc gia lâu dài."
+    },
+    "uk-UA": {
+      "title": "Центр прав трансгендерів",
+      "description": "Центр прав трансгендерів є найбільшою національною організацією, яку очолюють трансгендери, і яка заступає право на самовизначення всіх людей. Через утримання великої кількості ресурсів і публікацій, центр допомагає особам вирішувати загальні юридичні виклики та питання, з якими стикаються трансгендери. TLC також сприяє зміцненню спільнот в напрямку довготривалого національного руху трансгендерів за звільнення."
+    },
+    "ar-SA": {
+      "title": "مركز قانون المتحولين جنسيًا",
+      "description": "مركز قانون المتحولين جنسيًا هو أكبر منظمة وطنية تقودها المتحولين جنسيًا وتدعو إلى تقرير المصير للجميع. من خلال الحفاظ على موارد ومنشورات قوية ، يقود المركز الأفراد من خلال التحديات القانونية الشائعة والأسئلة التي يواجهها الأشخاص المتحولون جنسيًا. كما يمكن TLC المجتمعات نحو حركة طويلة الأمد، وطنية، يقودها المتحولون جنسيًا للتحرير."
+    },
+    "ur-PK": {
+      "title": "چینجینگر لا سینٹر",
+      "description": "چینجینگر لا سینٹر سب سے بڑی قومی ٹرانز لیڈ تنظیم ہے جو تمام لوگوں کے لئے خود کا فیصلہ کرنے کی حمایت کرتی ہے۔ مضبوط وسائل اور اشاعتوں کو برقرار رکھتے ہوئے، سینٹر عام قانونی تحدیدوں اور سوالات کے ذریعے فردوں کو رہنمائی کرتا ہے جن کا سامنا ٹرانزجینڈر لوگ کرتے ہیں۔ TLC نے بھی کمیونٹیوں کو طویل مدتی، قومی، ٹرانز لیڈ تحریک کے لئے آزادی کی طرف تحریک دیتا ہے۔"
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर कानून केंद्र",
+      "description": "ट्रांसजेंडर कानून केंद्र सभी लोगों के लिए आत्म-निर्णय की पक्षधर करने वाला सबसे बड़ा राष्ट्रीय ट्रांस-नेतृत्व वाला संगठन है। उच्च स्तर के संसाधनों और प्रकाशनों को बनाए रखकर, केंद्र व्यक्तियों को ट्रांसजेंडर लोगों की आम कानूनी चुनौतियों और प्रश्नों के माध्यम से मार्गदर्शित करता है। TLC लंबे समय तक, राष्ट्रीय, ट्रांस-नेतृत्व वाले आंदोलन के लिए समुदायों को सशक्त भी करता है।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার লॉ সেন্টার",
+      "description": "ট্রান্সজেন্ডার লॉ সেন্টার হল সবচেয়ে বড় জাতীয় ট্রান্স-নেতৃত্বাধীন সংস্থা যা সমস্ত মানুষের নিজস্ব সিদ্ধান্তক্ষমতা প্রতিপাদনের জন্য সমর্থন করে। অদ্ভুত সম্পদ এবং প্রকাশনা বজায় রেখে, সেন্টারটি ব্যক্তিদের ট্রান্সজেন্ডার ব্যক্তিদের সচরাচর মোকাবিলা করার সাধারণ আইনগত চ্যালেঞ্জ এবং প্রশ্ন গাইড করে। টিএলসি এছাড়াও দীর্ঘমেয়াদী, জাতীয়, ট্রান্স-নেতৃত্বাধীন মুক্তির আন্দোলনের দিকে সম্প্রদায়ের উদ্দীপনা করে।"
+    },
+    "mr-IN": {
+      "title": "ट्रान्सजेंडर कायदा केंद्र",
+      "description": "ट्रान्सजेंडर कायदा केंद्र ही सर्व लोकांसाठी आत्मनिर्भरतेसाठी सर्वात मोठी राष्ट्रीय ट्रान्स-संचालित संघटना आहे. या केंद्राने समृद्ध संसाधने आणि प्रकाशने ठेवत राहल्याने, केंद्र म्हणजे व्यक्तींना इतर जेंडर मान्य लोकांच्या सामान्य कायदेशीर आव्हानांचे आणि प्रश्नांचे समाधान करतात. TLC म्हणजेच ट्रान्सजेंडर कायदा केंद्र दीर्घकालीन, राष्ट्रीय, ट्रान्स-संचालित आंदोलनाकडे समुदायाला सक्ती देते."
+    },
+    "ta-IN": {
+      "title": "டிரான்ஸ்ஜென்டர் சட்ட மையம்",
+      "description": "டிரான்ஸ்ஜென்டர் சட்ட மையம் அனைத்து மக்களுக்கும் சுய தீர்மானத்திற்கேற்ப ஆதரவு தரும் தேசிய அளவில் வைர டிரான்ஸ்-வழியான அமைப்பின் பெரியது. வளமான ஆதாரங்கள் மற்றும் பதிப்புகளை பராமரித்து, மையம் டிரான்ஸ்ஜென்டர் மக்கள் எதிர்கொள்ளும் சாதாரண சட்ட சவால்களுக்கும் கேள்விகளுக்கும் தனிநபர்களின் வழிகாட்டலை இயக்குகிறது. டிடிசி விடுதலைக்கு பல வருட, தேசிய, டிரான்ஸ்-வழியான இயக்கத்திற்கு சமூகங்களை ஆதரிக்கின்றது."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్‌జెండర్ లా సెంటర్",
+      "description": "ట్రాన్స్‌జెండర్ లా సెంటర్ అనేది అన్ని వ్యక్తుల స్వేచ్ఛా నిర్ణయాన్ని ప్రోత్సహించే దేశీయ సొంతం సంఘం లో అతిపెద్దది. శక్తివంతమైన సమరధనలు మరియు ప్రచురణలను నిర్వహిస్తూ, సెంటర్ బహుళమైన తిరుగుదుదలు మరియు ప్రశ్నలను ఎదుర్కోనే ట్రాన్స్‌జెండర్ వ్యక్తులను మార్గదర్శిస్తుంది. టిఎల్‌సి కూడా దీర్ఘకాలిక, దేశీయ, ట్రాన్స్‌జెండర్‌లేదా స్వతంత్రత కోసం చలించే చట్టాలయోను పౌరులను సామర్థ్యం కల్పిస్తుంది."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+  "title": "Medicijnkosten - Medication Costs Information",
+  "description": "An informative platform that provides details about medication costs. It offers data regarding the reimbursement of medications and alternatives available for individuals who may not afford certain medication. Important for financial planning of healthcare.",
+  "slug": "medicijnkosten-medication-costs-information",
+  "externalUrl": "https://www.medicijnkosten.nl/",
+  "tags": [
+    "healthcare",
+    "financial-aid-scholarships"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

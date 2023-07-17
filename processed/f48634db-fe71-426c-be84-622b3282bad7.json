@@ -1,0 +1,21 @@
+{
+  "id": "f48634db-fe71-426c-be84-622b3282bad7",
+  "title": "Planned Parenthood",
+  "description": "Planned Parenthood provides vital reproductive health care, sex education, and information to millions of people worldwide. Services include abortion, birth control, STD testing and treatment, transgender hormone therapy, and more. Online and telehealth appointments available.",
+  "slug": "planned-parenthood",
+  "externalUrl": "https://www.plannedparenthood.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": "1-800-230-7526",
+  "country": "US",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

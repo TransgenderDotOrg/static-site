@@ -1,0 +1,27 @@
+{
+  "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+  "title": "Queermed Deutschland Directory",
+  "description": "Queermed Deutschland is a directory of doctors, therapists and practices recommended by the LGBTQIA+ community, in Germany. The aim is to combat discrimination in the healthcare system, ensuring a respectful and sensitive healthcare for all. It includes various additional options in the anonymous questionnaire to cater to diverse individuals within the community.",
+  "slug": "queermed-deutschland-directory",
+  "externalUrl": "https://queermed-deutschland.de/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/queermeddeutschland",
+    "instagramUrl": "https://instagram.com/queermeddeutschland",
+    "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+    "facebookUrl": "https://facebook.com/queermeddeutschland"
+  }
+}

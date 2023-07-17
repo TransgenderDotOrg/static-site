@@ -1,0 +1,107 @@
+{
+  "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
+  "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
+  "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "youth-services",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Understanding and Supporting Transsexuality in Children and Parents",
+      "description": "This German article offers a comprehensive guide for families dealing with transsexuality in parents or children. It provides information about key procedures and resources, offering guidance from understanding and accepting the situation to pursuing relevant treatments."
+    },
+    "es-ES": {
+      "title": "Comprendiendo y Apoyando la Transexualidad en Niños y Padres",
+      "description": "Este artículo alemán ofrece una guía completa para familias que lidiar con la transexualidad en padres o niños. Proporciona información sobre procedimientos y recursos clave, ofreciendo orientación desde la comprensión y aceptación de la situación hasta la búsqueda de tratamientos relevantes."
+    },
+    "pt-PT": {
+      "title": "Compreendendo e Apoiando a Transexualidade em Crianças e Pais",
+      "description": "Este artigo alemão oferece um guia abrangente para famílias lidando com transexualidade em pais ou crianças. Ele fornece informações sobre procedimentos chave e recursos, oferecendo orientação desde a compreensão e aceitação da situação até a busca por tratamentos relevantes."
+    },
+    "fr-FR": {
+      "title": "Comprendre et soutenir la transsexualité chez les enfants et les parents",
+      "description": "Cet article allemand offre un guide complet pour les familles confrontées à la transsexualité chez les parents ou les enfants. Il fournit des informations sur les procédures clés et les ressources, offrant des conseils pour comprendre et accepter la situation jusqu'à suivre les traitements pertinents."
+    },
+    "zh-CN": {
+      "title": "理解并支持儿童和父母的跨性别身份",
+      "description": "这篇德国文章为正在面临父母或儿童跨性别身份问题的家庭提供了全面的指南。它提供了关于关键流程和资源的信息，从理解和接受这种情况到寻求相关治疗提供了指导。"
+    },
+    "de-DE": {
+      "title": "Verständnis und Unterstützung für Transsexualität bei Kindern und Eltern",
+      "description": "Dieser deutsche Artikel bietet einen umfassenden Leitfaden für Familien, die mit Transsexualität bei Eltern oder Kindern konfrontiert sind. Er bietet Informationen über wichtige Vorgänge und Ressourcen, von der Verständigung und Akzeptanz der Situation bis hin zur Suche nach relevanten Behandlungen."
+    },
+    "id-ID": {
+      "title": "Memahami dan Mendukung Transseksualitas pada Anak dan Orang Tua",
+      "description": "Artikel Jerman ini menawarkan panduan komprehensif bagi keluarga yang berurusan dengan transseksualitas pada orang tua atau anak-anak. Ini memberikan informasi tentang prosedur kunci dan sumber daya, menawarkan bimbingan dari memahami dan menerima situasi hingga mengejar perawatan yang relevan."
+    },
+    "ko-KR": {
+      "title": "어린이와 부모의 트랜스섹슈얼리티 이해와 지원",
+      "description": "이 독일의 기사는 부모나 자녀의 트랜스섹슈얼리티를 다루는 가족들을 위한 종합적인 가이드를 제공합니다. 주요 절차와 리소스에 대한 정보를 제공하고 상황을 이해하고 받아들이는 것부터 관련 치료를 진행하는 것에 대한 지침을 제공합니다."
+    },
+    "sw-KE": {
+      "title": "Kuelewa na kusaidia ushoga katika watoto na wazazi",
+      "description": "Makala hii ya Kijerumani inatoa mwongozo kwa familia zinazoshughulika na ushoga kwa wazazi au watoto. Inatoa taarifa kuhusu taratibu na rasilimali muhimu, kutoa mwongozo kutoka kuelewa na kukubali hali hadi kufuatilia matibabu husika."
+    },
+    "tr-TR": {
+      "title": "Çocuklarda ve Ebeveynlerde Transseksüelliği Anlama ve Destekleme",
+      "description": "Bu Alman makalesi, ebeveynlerde veya çocuklarda transseksüellikle ilgilenen aileler için kapsamlı bir rehber sunar. Anlama ve durumu kabul etmeden, ilgili tedavileri sürdürmeye kadar rehberlik eden anahtar prosedürler ve kaynaklar hakkında bilgi sağlar."
+    },
+    "ja-JP": {
+      "title": "子供や親のトランスセクシャリティを理解し支える",
+      "description": "このドイツの記事では、親や子供のトランスセクシャリティに直面する家族に向けて包括的なガイドを提供しています。重要な手続きやリソースについての情報を提供し、状況を理解し受け入れることから関連する治療に進むまでのガイダンスを提供しています。"
+    },
+    "uk-UA": {
+      "title": "Розуміння та підтримка транссексуальності у дітей та батьків",
+      "description": "Ця німецька стаття пропонує всеосяжний посібник для сімей, які стикаються з транссексуальністю у батьків або дітей. Вона надає інформацію про ключові процедури та ресурси, пропонуючи настанови від розуміння та прийняття ситуації до переслідування відповідних лікувань."
+    },
+    "vi-VN": {
+      "title": "Hiểu và Hỗ trợ Chuyển giới ở Trẻ em và Cha Mẹ",
+      "description": "Bài viết tiếng Đức này cung cấp một hướng dẫn toàn diện cho các gia đình đang đối mặt với việc chuyển giới ở cha mẹ hoặc trẻ em. Nó cung cấp thông tin về các quy trình và nguồn lực chính, cung cấp hướng dẫn từ việc hiểu và chấp nhận tình hình đến việc theo đuổi các phương pháp điều trị liên quan."
+    },
+    "ru-RU": {
+      "title": "Понимание и поддержка транссексуальности у детей и родителей",
+      "description": "Эта немецкая статья предлагает исчерпывающее руководство для семей, столкнувшихся с транссексуальностью у родителей или детей. Она предоставляет информацию о ключевых процедурах и ресурсах, предлагая руководство от понимания и принятия ситуации до прохождения соответствующего лечения."
+    },
+    "ar-SA": {
+      "title": "فهم ودعم التحول الجنسي في الأطفال والآباء",
+      "description": "يقدم هذا المقال الألماني دليلًا شاملاً للعائلات التي تتعامل مع التحول الجنسي في الأباء أو الأطفال. يوفر معلومات حول الإجراءات والموارد الرئيسية، ويقدم إرشادات من فهم وقبول الوضع إلى متابعة العلاجات ذات الصلة."
+    },
+    "ur-PK": {
+      "title": "بچوں اور والدین میں خود جنس تبدیلی کو سمجھنے اور سپورٹ کرنے کی فہم",
+      "description": "یہ جرمن مضمون خود جنس تبدیلی کو سمجھنے اور اس کا سامنا کرنے والے خاندانوں کے لئے ایک جامع ہدایت نامہ پیش کرتا ہے۔ یہ مشہور طریقہ کاروں اور وسائل کے بارے میں معلومات فراہم کرتا ہے، حالات کو سمجھنے اور قبول کرنے سے لے کر متعلقہ علاجوں کی تلاش تک رہنمائی فراہم کرتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "मुलांच्या आणि पालकांच्या पुलंगलिंगत्वाची समज आणि समर्थन",
+      "description": "ही जर्मन लेख मुलांच्या किंवा पालकांच्या पुलंगलिंगत्वासाठी कुटुंबीयांना व्यापक मार्गदर्शिका देते. त्यात महत्त्वाच्या क्रियाकलापांची आणि संसाधनांची माहिती दिली आहे, स्थितीची समज आणि स्वीकारणे पासून सुरु होते ते संबंधित उपचारांची मागणी करण्यासाठी मार्गदर्शन देते."
+    },
+    "hi-IN": {
+      "title": "बच्चों और माता-पिता में ट्रांससेक्सुअलिटी को समझना और समर्थन करना",
+      "description": "यह जर्मन लेख परिवारों को देता है जो माता-पिता या बच्चों में ट्रांससेक्सुअलिटी के साथ सामना कर रहे हैं, एक व्यापक मार्गदर्शिका। यह मुख्य प्रक्रियाओं और संसाधनों के बारे में जानकारी प्रदान करता है, स्थिति को समझने और स्वीकार करने से लेकर संबंधित उपचारों की पीछा करने तक मार्गदर्शन देता है।"
+    },
+    "bn-BD": {
+      "title": "শিশু এবং মাতা-পিতাদের ট্রান্সসেক্সুয়ালিটি বোঝা এবং সমর্থন করা",
+      "description": "এই জার্মান নিবন্ধটি মাতা-পিতা অথবা শিশুদের ট্রান্সসেক্সুয়ালিটির সাথে মোকাবিলা করা পরিবারের জন্য একটি সম্পূর্ণ গাইড প্রদান করে। এটি মূল পদ্ধতি এবং সম্পদের সম্পর্কে তথ্য সরবরাহ করে, বোঝা এবং পরিস্থিতিটি গ্রহণ করা থেকে প্রাসঙ্গিক চিকিৎসার পরিকল্পনার পরামর্শ দেয়।"
+    },
+    "ta-IN": {
+      "title": "மக்கள் மற்றும் பெற்றோர்களில் பாலின மாற்றத்தை புரிந்துகொள்ளும் மற்றும் அதனை ஆதரிக்கும் போது",
+      "description": "இந்த ஜெர்மன் கட்டுரை பாலிந்த மாற்ற தேவைப்படும் குடும்பங்களுக்கு ஒரு முழுமையான வழிகாட்டி வழங்குகிறது. முக்கிய செயலாக்கங்கள் மற்றும் வளங்களைப் பற்றி தகவல்களை வழங்கி, சூழலை புரிதல் மற்றும் ஏற்றுக்கொள்வதிலிருந்து சார்பான சிகிச்சைகளை தேடுவது வரையான வழிகாட்டலை வழங்குகின்றன."
+    },
+    "te-IN": {
+      "title": "పిల్లలు మరియు తల్లిదండ్రుల్లో ట్రాన్సెక్స్యుయాలిటీని అర్ధం చేసుకోవడం మరియు మద్దతు ఇవ్వడం",
+      "description": "ఈ జర్మన్ వ్యాసం తల్లిదండ్రులో లేదా పిల్లల్లో ట్రాన్సెక్స్యుయాలిటీతో ముగిసే కుటుంబాలకు సమగ్రమైన మార్గదర్శకంగా ఉంది. ఇది ప్రధాన వాయిదాలు మరియు వనరులు గురించి సమాచారం అందిస్తుంది, అర్ధం చేసుకోవడం మరియు సంస్థానాన్ని అంగీకరించటం నుండి సంబంధిత చికిత్సలు మేలుకోవడానికి మార్గదర్శనం అందిస్తుంది."
+    }
+  }
+}

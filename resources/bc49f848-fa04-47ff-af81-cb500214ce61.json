@@ -1,0 +1,123 @@
+{
+  "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+  "slug": "transformering-se",
+  "externalUrl": "https://transformering.se/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "Stockholm, Sweden",
+  "phoneNumber": null,
+  "country": "SE",
+  "provinceOrState": "Stockholm County",
+  "city": "Stockholm",
+  "latLng": [
+    59.32932349999999,
+    18.0685808
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "twitterUrl": "https://twitter.com/rfslungdom",
+    "instagramUrl": "https://www.instagram.com/rfsl_official",
+    "facebookUrl": "http://www.facebook.com/transformering"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Transformering.se",
+      "description": "A Swedish resource hub run by RFSL Ungdom and RFSL that offers support and information related to transgender and gender identity issues. Contents include rights, relationships, and how gender-affirming care works. It is designed for individuals who are transgender, have personal trans experience, or are questioning their gender identity/expression, as well as their loved ones, professionals, or voluntary workers who support them."
+    },
+    "es-ES": {
+      "title": "Transformering.se",
+      "description": "Un centro de recursos sueco administrado por RFSL Ungdom y RFSL que ofrece apoyo e información relacionada con problemas de identidad de género y transgénero. Los contenidos incluyen derechos, relaciones y cómo funciona la atención que confirma el género. Está diseñado para personas que son transgénero, tienen experiencia trans personal, o están cuestionando su identidad/expresión de género, así como sus seres queridos, profesionales o trabajadores voluntarios que los apoyan."
+    },
+    "fr-FR": {
+      "title": "Transformering.se",
+      "description": "Un centre de ressources suédois géré par RFSL Ungdom et RFSL qui offre du soutien et des informations liées aux questions de transgenre et d'identité de genre. Les contenus incluent les droits, les relations et le fonctionnement des soins affirmant le genre. Il est conçu pour les personnes qui sont transgenres, ont une expérience trans personnelle, ou remettent en question leur identité / expression de genre, ainsi que leurs proches, professionnels, ou travailleurs volontaires qui les soutiennent."
+    },
+    "id-ID": {
+      "title": "Transformering.se",
+      "description": "Sebuah pusat sumber daya Swedia yang dijalankan oleh RFSL Ungdom dan RFSL yang menawarkan dukungan dan informasi terkait isu-isu identitas gender dan transgender. Konten mencakup hak, hubungan, dan bagaimana perawatan penegasan gender berfungsi. Ini dirancang untuk individu yang transgender, memiliki pengalaman trans pribadi, atau mempertanyakan identitas / ekspresi gender mereka, serta orang yang mereka cintai, profesional, atau pekerja sukarela yang mendukung mereka."
+    },
+    "pt-PT": {
+      "title": "Transformering.se",
+      "description": "Um centro de recursos sueco administrado por RFSL Ungdom e RFSL que oferece suporte e informação relacionados a questões de identidade de gênero e transgênero. O conteúdo inclui direitos, relacionamentos e como funciona o cuidado de afirmação de gênero. É projetado para indivíduos que são transgêneros, têm experiência pessoal trans ou estão questionando sua identidade/expressão de gênero, bem como seus entes queridos, profissionais ou trabalhadores voluntários que os apoiam."
+    },
+    "de-DE": {
+      "title": "Transformering.se",
+      "description": "Eine schwedische Ressourcenplattform, betrieben von RFSL Ungdom und RFSL, die Unterstützung und Informationen zu Transgender- und Geschlechtsidentitätsfragen bietet. Die Inhalte umfassen Rechte, Beziehungen und die Funktionsweise von geschlechtsbestätigender Pflege. Sie ist für Personen konzipiert, die transgender sind, persönliche Trans-Erfahrungen haben oder ihre Geschlechtsidentität/-ausdruck hinterfragen, sowie für ihre Angehörigen, Fachleute oder Ehrenamtliche, die sie unterstützen."
+    },
+    "zh-CN": {
+      "title": "Transformering.se",
+      "description": "由RFSL Ungdom和RFSL运营的瑞典资源中心，提供与跨性别和性别认同问题相关的支持和信息。内容包括权利，关系，以及性别确认护理如何运作。它是为跨性别者、有个人跨性别经验的人，或者正在质疑他们的性别认同/表达的人，以及他们的亲人，专业人士，或支持他们的志愿者设计的。"
+    },
+    "sw-KE": {
+      "title": "Transformering.se",
+      "description": "Kituo cha rasilimali cha Sweden kinachoendeshwa na RFSL Ungdom na RFSL kinachotoa msaada na habari zinazohusiana na maswala ya jinsia ya transgender na utambulisho wa jinsia. Yaliyomo ni pamoja na haki, mahusiano, na jinsi huduma ya kuthibitisha jinsia inavyofanya kazi. Imeundwa kwa watu ambao ni transgender, wana uzoefu wa kibinafsi wa trans, au wanajiuliza utambulisho wao wa jinsia/maonyesho, pamoja na wapendwa wao, wataalamu, au wafanyikazi wa hiari wanaowasaidia."
+    },
+    "ko-KR": {
+      "title": "Transformering.se",
+      "description": "RFSL Ungdom 및 RFSL이 운영하는 스웨덴 리소스 허브로서, 트랜스젠더 및 성 정체성 문제에 관련된 지원 및 정보를 제공합니다. 내용에는 권리, 관계, 성 확증 치료가 어떻게 작동하는지 등이 포함되어 있습니다. 이것은 트랜스젠더인 개인, 개인적인 트랜스 경험이 있거나 성 정체성 / 표현에 의문을 가진 사람들, 그리고 그들을 지원하는 가족, 전문가 또는 자원 봉사자를 위해 설계되었습니다."
+    },
+    "ja-JP": {
+      "title": "Transformering.se",
+      "description": "RFSL UngdomとRFSLが運営するスウェーデンのリソースハブで、トランスジェンダーや性別認識に関連する支援と情報を提供しています。内容には、権利、関係、性別確認ケアの仕組みが含まれています。これは、トランスジェンダーである人、個人的なトランス経験を持つ人、または自己の性別認識/表現に疑問を持つ人、およびそれを支援する家族、専門家、またはボランティアワーカーのために設計されています。"
+    },
+    "tr-TR": {
+      "title": "Transformering.se",
+      "description": "RFSL Ungdom ve RFSL tarafından yürütülen ve transseksüellik ve cinsiyet kimliği konularında destek ve bilgi sunan bir İsveç kaynak merkezi. İçerikler arasında haklar, ilişkiler ve cinsiyet onaylamalı bakımın nasıl çalıştığı yer alıyor. Transgender olan bireyler, kişisel trans deneyimi olanlar veya cinsiyet kimliklerini/söylemlerini sorgulayan kişiler, aynı zamanda onları destekleyen yakınları, profesyoneller veya gönüllü çalışanlar için tasarlanmıştır."
+    },
+    "ru-RU": {
+      "title": "Transformering.se",
+      "description": "Шведский информационный центр, управляемый RFSL Ungdom и RFSL, который предлагает поддержку и информацию, связанную с трансгендерностью и вопросами гендерной идентичности. Контент включает в себя права, отношения и факты о том, как работает подтверждение гендера. Он предназначен для лиц, которые являются трансгендерами, имеют личный трансгендерный опыт или задают вопросы о своей гендерной идентичности/выражении, а также для их близких, профессионалов или добровольцев, которые их поддерживают."
+    },
+    "vi-VN": {
+      "title": "Transformering.se",
+      "description": "Một trung tâm tài nguyên Thụy Điển do RFSL Ungdom và RFSL điều hành cung cấp hỗ trợ và thông tin liên quan đến các vấn đề về chuyển đổi giới tính và nhận dạng giới tính. Nội dung bao gồm quyền, mối quan hệ và cách hoạt động của sự chăm sóc xác nhận giới tính. Nó được thiết kế cho những người chuyển giới, có kinh nghiệm cá nhân về chuyển giới hoặc đang thắc mắc về danh tính/nhận dạng giới tính của mình, cũng như người thân yêu của họ, các chuyên gia hoặc nhân viên tình nguyện hỗ trợ họ."
+    },
+    "uk-UA": {
+      "title": "Transformering.se",
+      "description": "Шведський ресурсний центр, що керується RFSL Ungdom і RFSL, який пропонує підтримку та інформацію, пов'язану з трансгендерними та гендерними питаннями ідентичності. Вміст включає права, відносини та як працює підтримка статевого підтвердження. Він призначений для осіб, які є трансгендерами, мають особистий транс-досвід або перебувають в процесі запитань щодо своєї гендерної ідентичності / вираження, а також для їх близьких, фахівців або волонтерів, які їх підтримують."
+    },
+    "ar-SA": {
+      "title": "Transformering.se",
+      "description": "محور موارد سويدي يديره RFSL Ungdom و RFSL يقدم الدعم والمعلومات المتعلقة بقضايا الهوية الجندرية والجنسانية. تتضمن المحتويات الحقوق، والعلاقات، وكيفية عمل الرعاية الجندرية المؤكدة. تم تصميمه للأفراد الذين يعانون من تحول الجنس، او لديهم تجربة شخصية مع الهوية الجندرية، أو الذين يتساءلون عن هويتهم /تعبيرهم الجندري، بالإضافة إلى أحبائهم، المحترفين، أو العاملين التطوعيين الذين يدعمونهم."
+    },
+    "hi-IN": {
+      "title": "Transformering.se",
+      "description": "एक स्वीडिश संसाधन हब जिसे RFSL Ungdom और RFSL द्वारा संचालित किया जाता है और जो ट्रांसजेंडर और लिंग पहचान सम्बंधी मुद्दों से संबंधित समर्थन और जानकारी प्रदान करता है। सामग्री में अधिकार, संबंध, और लिंग पुष्टिकरण देखभाल कैसे काम करती है, शामिल हैं। यह उन व्यक्तियों के लिए डिजाइन किया गया है जो ट्रांसजेंडर हैं, व्यक्तिगत ट्रांस अनुभव है, या अपनी लिंग पहचान/अभिव्यक्ति पर सवाल उठाते हैं, साथ ही उनके प्रियजन, पेशेवर, या स्वैच्छिक कर्मचारी जो उनका समर्थन करते हैं।"
+    },
+    "bn-BD": {
+      "title": "Transformering.se",
+      "description": "RFSL উঙ্গম এবং RFSL দ্বারা চালিত একটি সুইডিশ সম্পদ হাব যা ট্রান্সজেন্ডার এবং লিঙ্গ পরিচয় সম্পর্কিত সমর্থন এবং তথ্য প্রদান করে। এর মধ্যে অন্তর্ভুক্ত আছে অধিকার, সম্পর্ক, এবং লিঙ্গ-স্বীকারক যত্ন কিভাবে কাজ করে। এটি তৈরি করা হয়েছে যাঁরা ট্রান্সজেন্ডার, যাঁরা ব্যক্তিগত ট্রান্স অভিজ্ঞতা রয়েছে, অথবা তাদের লিঙ্গ পরিচয় / প্রকাশনা নিয়ে প্রশ্ন করছেন, এবং তাদের প্রিয়জন, পেশাদার, অথবা স্বেচ্ছাসেবক কর্মী যাঁরা তাদের সমর্থন করেন।"
+    },
+    "mr-IN": {
+      "title": "Transformering.se",
+      "description": "RFSL Ungdom आणि RFSL द्वारे संचालित स्वीडिश संसाधन हब ज्यामध्ये लिंग परिवर्तन आणि लिंग परिचयाशी संबंधित माहिती आणि समर्थन दिलेली आहे. आशयात हक्क, संबंध, आणि लिंग पुष्टीकरण देखभाल कसे काम करते यासह आहे. इतकी म्हणता येईल की लिंग परिवर्तन करणारे, वैयक्तिक लिंग अनुभव असणारे, किंवा त्यांचे लिंग परिचय / व्यक्तिमत्व चाचणी करणारे, तसेच त्यांचे प्रियांसाठी, प्रामाणिक, किंवा अभ्यासकर्त्यांसाठी तयार केलेले आहे ज्यांनी त्यांला समर्थन दिलेले आहे."
+    },
+    "ur-PK": {
+      "title": "Transformering.se",
+      "description": "ایک سویڈش وسائل کا مرکز جو RFSL انگڈم اور RFSL کے زیر انتظام چلایا جاتا ہے اور جو ترجنسندر اور جنسیت کی شناخت سے متعلق تعمیراتی اور معلومات فراہم کرتا ہے۔ مواد میں حقوق، تعلقات اور جنسیت کی تصدیق سے متعلق خیالات شامل ہیں۔ یہ شخصیتوں کے لئے تیار کی گئی ہیں جو ترانسجینڈر ہیں، شخصی روپ میں ترانس کا تجربہ ہے، یا ان کی جنسیت کی شناخت / اظہار کا سوال کر رہے ہیں، اور ان کے چاہنے والے، ماہرین، یا خود مختار کامکارجو ان کی مدد کرتے ہیں۔"
+    },
+    "ta-IN": {
+      "title": "Transformering.se",
+      "description": "RFSL Ungdom மற்றும் RFSL ஆல் இயக்கப்படும் ஸ்வீடிஷ் வள மையம் ஆகும், இது பாலினப்ப் பெயர்கள் மற்றும் பாலினிய அடையாளத்திருப்பு பிரச்சனைகளுக்கு தொடர்பான ஆதரவு மற்றும் தகவல்களை வழங்குகிறது. உள்ளடக்கங்கள் உரிமைகள், உறவுகள், மற்றும் பாலினிய உறுதிப்படுத்தும் பராமரிப்பு எப்படி செயல்படுகின்றது ஆகியவற்றை உள்ளடக்கியுள்ளன. இது பாலினப்ப் பெயர்கள் உள்ளவர்கள், தனது பாலினப் பெயர்க்குரிய அனுபவங்கள் உள்ளவர்கள், அல்லது தமது பாலினிய அடையாளத்தை / கற்பித்தலை கேள்வி படுத்தும் ஆலோசகர்கள், அவர்களின் அன்புவாழ்க்கை உறவினர்கள், வழிவகுத்த தொழிலாளர்கள் அல்லது தன்னாக்க பணியாளர்களுக்கு வரவுடன் வடிவமைக்கப்படுவதாகும்."
+    },
+    "te-IN": {
+      "title": "Transformering.se",
+      "description": "RFSL యువత మరియు RFSL పరిచాలించే స్వీడిష్ సభ్య కేంద్రము ఏదైనా సేవ మరియు సమాచారం ఇస్తుంది అది ట్రాన్స్జెండర్ మరియు లింగ గుర్తి సమస్యలకు సంబంధించి. అంతస్తులను హక్కులు, సంబంధాలు, మరియు లింగనిర్ధారణ గుర్తి పరైన పరేక్ష ఎలా పనిచేస్తుందో కలిగి ఉంటుంది. ఇది వ్యక్తులు ట్రాన్స్జెండర్గా ఉన్నారు, వ్యక్తిగతంగా మార్పు అనుభవం ఉంది, లేదా వారు వారి లింగ గుర్తి / వ్యక్తీకరణను ప్రశ్నిస్తున్నారని, మరియు వారిని మద్దతు చేసే అభిమానులు, వృత్తివంతులు, లేదా స్వచ్ఛంద పనిచేయువారు గురించి రూపొందించబడింది."
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+  "slug": "australian-transgender-support-association-of-queensland",
+  "externalUrl": "https://www.atsaq.org.au/",
+  "tags": [
+    "non-binary",
+    "support-groups",
+    "community-stories",
+    "social-services"
+  ],
+  "address": "Booval QLD 4304, Australia",
+  "phoneNumber": "(07) 3705 7663",
+  "country": "AU",
+  "provinceOrState": "QLD",
+  "city": "Booval",
+  "county": "City of Ipswich",
+  "latLng": [
+    -27.614358,
+    152.788861
+  ],
+  "email": "parker@atsaq.org.au",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Australian Transgender Support Association of Queensland",
+      "description": "Queensland's peak body representing transgender, gender diverse, and non-binary individuals since 1990. They provide support, advocacy, services and organize social events to serve the transgender community."
+    },
+    "es-ES": {
+      "title": "Asociación de Apoyo Transgénero Australiana de Queensland",
+      "description": "El organismo principal de Queensland que representa a individuos transgénero, de diversidad de género y no binarios desde 1990. Proporcionan apoyo, defensa, servicios y organizan eventos sociales para servir a la comunidad transgénero."
+    },
+    "fr-FR": {
+      "title": "Association de soutien transgenre australienne du Queensland",
+      "description": "L'organisme de référence du Queensland représentant les personnes transgenres, de diversité de genre et non-binaires depuis 1990. Ils fournissent du soutien, de la défense, des services et organisent des événements sociaux pour servir la communauté transgenre."
+    },
+    "id-ID": {
+      "title": "Asosiasi Dukungan Transgender Australia dari Queensland",
+      "description": "Badan puncak Queensland yang mewakili individu transgender, beragam jenis kelamin, dan non-biner sejak 1990. Mereka menyediakan dukungan, advokasi, layanan, dan mengorganisir acara sosial untuk melayani komunitas transgender."
+    },
+    "pt-PT": {
+      "title": "Associação de Apoio à Transgênero da Austrália em Queensland",
+      "description": "Órgão máximo de Queensland representando indivíduos transgêneros, diversidade de gêneros e não-binários desde 1990. Eles fornecem apoio, advocacia, serviços e organizam eventos sociais para servir à comunidade transgênero."
+    },
+    "sw-KE": {
+      "title": "Chama cha Msaada wa Jinsia ya Tatu cha Australia nchini Queensland",
+      "description": "Mwili wa kilele wa Queensland unaowakilisha watu wa jinsia ya tatu, watu wenye jinsia tofauti, na watu wasio na jinsia tangu 1990. Wanatoa msaada, utetezi, huduma na kuandaa matukio ya kijamii kuhudumia jamii ya jinsia ya tatu."
+    },
+    "zh-CN": {
+      "title": "昆士兰州澳洲跨性别支持协会",
+      "description": "自1990年以来，昆士兰州的首要机构，代表跨性别者、性别多元化和非二元性别的个体。他们为跨性别社区提供支持，倡导，服务，并组织社交活动。"
+    },
+    "de-DE": {
+      "title": "Australische Transgender-Unterstützungsvereinigung von Queensland",
+      "description": "Queenslands Spitzenorganisation, die Transgender, geschlechtlich vielfältige und nicht-binäre Personen seit 1990 vertritt. Sie bieten Unterstützung, Fürsprache, Dienstleistungen und organisieren soziale Veranstaltungen, um der Transgender-Gemeinschaft zu dienen."
+    },
+    "tr-TR": {
+      "title": "Queensland Avustralya Transgender Destek Derneği",
+      "description": "1990'dan beri transgender, cinsiyet çeşitliliği olan ve cinsiyetsiz bireyleri temsil eden Queensland'in en üst düzey organıdır. Transgender topluluğuna hizmet etmek üzere destek, savunuculuk, hizmetler sunar ve sosyal etkinlikler düzenler."
+    },
+    "ko-KR": {
+      "title": "퀸즈랜드 호주 트랜스젠더 지원 협회",
+      "description": "1990년부터 트랜스젠더, 다양한 성별, 그리고 논바이너리 개인을 대표하는 퀸즈랜드의 최고 기관입니다. 그들은 트랜스젠더 커뮤니티를 위해 지원, 옹호, 서비스를 제공하고 사회 행사를 조직합니다."
+    },
+    "ja-JP": {
+      "title": "クイーンズランドオーストラリアトランスジェンダーサポート協会",
+      "description": "1990年以来、トランスジェンダー、ジェンダーダイバーシティ、ノンバイナリーの個々を代表するクイーンズランドの最高機関。彼らはトランスジェンダーコミュニティに役立つように、サポート、擁護、サービスを提供し、社会イベントを組織します。"
+    },
+    "vi-VN": {
+      "title": "Hiệp hội Hỗ trợ Chuyển giới của Queensland, Úc",
+      "description": "Tổ chức đại diện hàng đầu Queensland cho những cá nhân chuyển giới, đa dạng giới tính, và non-binary từ năm 1990. Họ cung cấp hỗ trợ, biện hộ, dịch vụ và tổ chức các sự kiện xã hội để phục vụ cộng đồng chuyển giới."
+    },
+    "ru-RU": {
+      "title": "Австралийская ассоциация поддержки трансгендеров Квинсленда",
+      "description": "Ведущая организация Квинсленда, представляющая трансгендеров, людей с разнообразной гендерной идентичностью и небинарных индивидов с 1990 года. Они оказывают поддержку, занимаются защитой прав, предоставляют услуги и организуют общественные мероприятия для служения трансгендерному сообществу."
+    },
+    "ar-SA": {
+      "title": "جمعية الدعم الأسترالية للمتحولين جنسيا في كوينزلاند",
+      "description": "هي الهيئة القصوى في كوينزلاند التي تمثل الأشخاص المتحولين جنسيا، والأشخاص ذوي الهوية الجندرية المتنوعة، والأشخاص غير الثنائيين منذ عام 1990. تقدم هذه الجمعية الدعم والدعوة والخدمات وتنظم الفعاليات الاجتماعية لخدمة المجتمع المتحول جنسيا."
+    },
+    "ur-PK": {
+      "title": "کوئینز لینڈ کی آسٹریلوی ترانس جینڈر سپورٹ ایسوسی ایشن",
+      "description": "1990 کے بعد سے ترانس جینڈر، جنسی تنوع ، اور ترانس جینڈر افراد کی نمائندگی کرنے والے کوئینز لینڈ کے عروج پر ۔ وہ سپورٹ، ترقی، خدمات فراہم کرتے ہیں اور ترانس جینڈر کمیونٹی کی خدمت میں سماجی تقریبات منظم کرتے ہیں۔"
+    },
+    "uk-UA": {
+      "title": "Австралійська асоціація підтримки трансгендерів Квінсленду",
+      "description": "Головне представництво Квінсленду, яке представляє трансгендерів, людей з різноманітним гендерним самовизначенням та небінарних осіб з 1990 року. Вони надають підтримку, заступництво, послуги та організовують соціальні заходи для трансгендерної спільноти."
+    },
+    "hi-IN": {
+      "title": "क्वींजलैंड की ऑस्ट्रेलियन ट्रांसजेंडर सपोर्ट एसोसिएशन",
+      "description": "1990 से क्वींजलैंड की चरम निकाय जो ट्रांसजेंडर, लिंग विविधता, और गैर-बाइनरी व्यक्तियों का प्रतिनिधित्व करती है। वे सहायता, वकालत, सेवाएं प्रदान करते हैं और सामाजिक कार्यक्रमों का आयोजन करते हैं ट्रांसजेंडर समुदाय की सेवा करने के लिए।"
+    },
+    "mr-IN": {
+      "title": "ऑस्ट्रेलियन ट्रान्सजेंडर सपोर्ट असोसिएशन ऑफ क्वीन्सलैंड",
+      "description": "1990 पासून क्वीन्सलैंडचे प्रमुख संघ ट्रान्सजेंडर, लिंग विविधता, आणि नॉन-बायनरी व्यक्तींचा प्रतिनिधित्व करणारे. त्यांनी ट्रान्सजेंडर समुदायास आधार, समर्थन, सेवा प्रदान केलेली आहेत आणि सामाजिक कार्यक्रमे व्यवस्थित केलेली आहेत."
+    },
+    "bn-BD": {
+      "title": "কুইন্সল্যান্ডের অস্ট্রেলীয় ট্রান্সজেন্ডার সমর্থন সংঘ",
+      "description": "1990 সাল থেকে ট্রান্সজেন্ডার, লিঙ্গ ভিন্ন, এবং বাইনারী নন-ব্যক্তি প্রতিনিধিত্ব করে কুইন্সল্যান্ডের শীর্ষ সংস্থা। তারা ট্রান্সজেন্ডার সম্প্রদায়কে সেবা দেওয়ার জন্য সমর্থন, অভিযোগ, সেবা এবং সামাজিক ইভেন্ট আয়োজন করেন।"
+    },
+    "ta-IN": {
+      "title": "ஆஸ்திரேலிய டிரான்ஸ்ஜெண்டர் ஆதரவு சங்கம் குயின்ஸ்லாந்து",
+      "description": "1990ம் ஆண்டு முதல் டிரான்ஸ்ஜெண்டர், பாலின வேறுபாட்டுடைய, மற்றும் பின்னால பாலின ஆதரவு தேவைக்குப் பொருந்தாத ஆதாயமான குயின்ஸ்லாந்து உயர்நிலை சேர்ந்துள்ளனர். அவர்கள் ஆதரவு, மேலாளங்களுக்கான முழக்கங்கள், சேவைகள் மற்றும் டிரான்ஸ்ஜெண்டர் சமூகத்தை சேவல்படுத்துவதற்கான சமூகிய நிகழ்வுகளை ஒழுங்கமைப்பார்கள்."
+    },
+    "te-IN": {
+      "title": "ఆస్ట్రేలియ ట్రాన్స్‌జెండర్ మద్దతు సంఘం, కీలకేంద్రం",
+      "description": "1990 నుండి ట్రాన్స్‌జెండర్, జెండర్ వైపరీత్యం, మరియు నాను-బైనరీ వ్యక్తులను ప్రతినిధించే క్వీన్స్‌లాండ్ పరమ సమస్థ. వారు మద్దతు, ప్రతిపాదన, సేవలు అందిస్తారు మరియు ట్రాన్స్‌జెండర్ సముదాయానికి సేవ చేయడానికి సామాజిక సంఘటనలను ఏర్పాటు చేస్తారు."
+    }
+  }
+}

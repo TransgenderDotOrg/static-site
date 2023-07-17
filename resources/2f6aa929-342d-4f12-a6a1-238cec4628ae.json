@@ -1,0 +1,117 @@
+{
+  "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+  "slug": "tgns-transgender-network-switzerland",
+  "externalUrl": "https://www.tgns.ch/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "CH",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/transgenderch",
+    "twitterUrl": "https://twitter.com/tgnsch",
+    "instagramUrl": "https://www.instagram.com/tgns.ch/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "TGNS Transgender Network Switzerland",
+      "description": "TGNS is a network for transgender people in Switzerland. They provide legal advocacy, work towards healthcare reforms, and offer mental health resources to the transgender community. They engage in a variety of awareness and education programs aimed at creating a supportive and inclusive environment for individuals identifying as transmasculine, transfeminine, and non-binary. TGNS also has youth services, support groups, and resources for family and partners of transgender individuals."
+    },
+    "pt-PT": {
+      "title": "TGNS Transgender Network Switzerland",
+      "description": "TGNS é uma rede para pessoas transgênero na Suíça. Eles fornecem advocacia legal, trabalham em direção a reformas na saúde e oferecem recursos de saúde mental para a comunidade transgênero. Eles participam de uma variedade de programas de conscientização e educação voltados para a criação de um ambiente de apoio e inclusivo para indivíduos que se identificam como transmasculinos, transfemininos e não binários. A TGNS também possui serviços juvenis, grupos de apoio e recursos para familiares e parceiros de indivíduos transgêneros."
+    },
+    "fr-FR": {
+      "title": "TGNS Transgender Network Suisse",
+      "description": "TGNS est un réseau pour les personnes transgenres en Suisse. Ils fournissent une défense juridique, travaillent en faveur de réformes de santé, et offrent des ressources de santé mentale à la communauté transgenre. Ils participent à une variété de programmes de sensibilisation et d'éducation visant à créer un environnement de soutien et inclusif pour les individus qui s'identifient comme transmasculins, transféminines, et non-binaires. TGNS a également des services pour les jeunes, des groupes de soutien, et des ressources pour les familles et partenaires des personnes transgenres."
+    },
+    "de-DE": {
+      "title": "TGNS Transgender Netzwerk Schweiz",
+      "description": "TGNS ist ein Netzwerk für transgeschlechtliche Menschen in der Schweiz. Sie bieten rechtliche Beratung an, setzen sich für Gesundheitsreformen ein und bieten psychische Gesundheitsressourcen für die transgeschlechtliche Gemeinschaft an. Sie beteiligen sich an einer Vielzahl von Sensibilisierungs- und Bildungsprogrammen, die darauf abzielen, eine unterstützende und inklusive Umgebung für transmasculine, transfeminine und nicht-binäre Individuen zu schaffen. TGNS bietet auch Jugenddienste, Unterstützungsgruppen und Ressourcen für Familie und Partner von transgeschlechtlichen Individuen an."
+    },
+    "id-ID": {
+      "title": "TGNS Transgender Network Switzerland",
+      "description": "TGNS adalah jaringan untuk orang transgender di Swiss. Mereka menyediakan perwakilan hukum, berjuang untuk reformasi kesehatan, dan menawarkan sumber daya kesehatan mental untuk komunitas transgender. Mereka terlibat dalam berbagai program kesadaran dan pendidikan yang ditujukan untuk menciptakan lingkungan yang mendukung dan inklusif untuk individu yang mengidentifikasi diri sebagai transmaskulin, transfeminin, dan non-biner. TGNS juga memiliki layanan pemuda, kelompok pendukung, dan sumber daya untuk keluarga dan pasangan dari individu transgender."
+    },
+    "zh-CN": {
+      "title": "TGNS 瑞士跨性别网络",
+      "description": "TGNS 是瑞士跨性别人群的一个网络。他们提供法律倡导，致力于医疗改革，并向跨性别社区提供精神健康资源。他们参与各种意识和教育项目，旨在为认同为跨性别男性、跨性别女性和非二元性别的个体创造一个支持和包容的环境。TGNS 还有青少年服务，支持团体，以及为跨性别个体的家人和伙伴提供的资源。"
+    },
+    "es-ES": {
+      "title": "TGNS Transgender Network Suiza",
+      "description": "TGNS es una red para personas transgénero en Suiza. Proporcionan defensa legal, trabajan hacia las reformas de salud y ofrecen recursos de salud mental a la comunidad transgénero. Se involucran en una variedad de programas de concientización y educación destinados a crear un ambiente de apoyo e inclusivo para las personas que se identifican como transmasculinas, transfemininas y no binarias. TGNS también tiene servicios juveniles, grupos de apoyo y recursos para la familia y los socios de las personas transgénero."
+    },
+    "tr-TR": {
+      "title": "TGNS Transgender Ağı İsviçre",
+      "description": "TGNS, İsviçre'deki transgender bireyler için bir ağdır. Hukuki savunma sağlarlar, sağlık reformlarına yönelik çalışmalar yürütürler ve transgender topluluğuna ruh sağlığı kaynakları sunarlar. Transmaskülin, transfeminin ve non-binary olarak tanımlanan bireyler için destekleyici ve kapsayıcı bir ortam yaratmayı hedefleyen çeşitli farkındalık ve eğitim programlarında yer alırlar. TGNS'nin ayrıca gençlik hizmetleri, destek grupları ve transgender bireylerin aile ve partnerleri için kaynakları bulunmaktadır."
+    },
+    "ja-JP": {
+      "title": "TGNS トランスジェンダーネットワークスイス",
+      "description": "TGNSは、スイスのトランスジェンダーの人々のためのネットワークです。彼らは法的支援を提供し、保健改革を推進し、トランスジェンダーコミュニティに精神保健リソースを提供します。彼らは、トランスマスキュリン、トランスフェミニン、およびノンバイナリーとして自己認識する個人を対象とした包括的で支援的な環境を作り出すことを目指したさまざまな啓発活動と教育プログラムに取り組んでいます。 TGNSには若者向けのサービス、サポートグループ、トランスジェンダーの個人の家族やパートナーのためのリソースもあります。"
+    },
+    "sw-KE": {
+      "title": "TGNS Transgender Network Switzerland",
+      "description": "TGNS ni mtandao wa watu wa jinsia mbalimbali nchini Uswisi. Wao hutoa utetezi wa kisheria, hufanya kazi kuelekea marekebisho ya huduma za afya, na hutoa rasilimali za afya ya akili kwa jamii ya watu wa jinsia mbalimbali. Wao hushiriki katika aina mbalimbali za mipango ya uelewa na elimu inayolenga kuunda mazingira yanayounga mkono na kujumuisha kwa watu wanaotambulika kama wanaume, wanawake, na wasio na jinsia. TGNS pia ina huduma za vijana, makundi ya msaada, na rasilimali kwa familia na washirika wa watu wa jinsia mbalimbali."
+    },
+    "ko-KR": {
+      "title": "TGNS 트랜스젠더 네트워크 스위스",
+      "description": "TGNS는 스위스의 트랜스젠더 사람들을 위한 네트워크입니다. 그들은 법적 지원을 제공하고, 건강 관련 개혁을 추진하며, 트랜스젠더 커뮤니티에 정신 건강 자원을 제공합니다. 그들은 transmasculine, transfeminine, 그리고 non-binary로 자신을 규정하는 개인들을 위한 지원적이고 포괄적인 환경을 창출하기 위해 다양한 인식 증진 및 교육 프로그램에 참여합니다. TGNS는 또한 청소년 서비스, 지원 그룹, 그리고 트랜스젠더 개인의 가족과 파트너들을 위한 자원도 제공합니다."
+    },
+    "ar-SA": {
+      "title": "TGNS شبكة الجندر الثالث سويسرا",
+      "description": "TGNS هي شبكة للأشخاص المتحولين جنسيا في سويسرا. تقدم الدعم القانوني وتعمل على إصلاحات الرعاية الصحية وتقدم موارد للصحة النفسية لمجتمع الجندر الثالث. يشاركون في مجموعة متنوعة من برامج التوعية والتعليم الموجهة نحو خلق بيئة مساندة وشاملة للأشخاص الذين يتم تحديد هويتهم كترانزماسكيولين، ترانسفيمينين، وغير ثنائيي الجنس. لدى TGNS أيضا خدمات للشباب، ومجموعات دعم، وموارد للعائلات والشركاء من الأشخاص المتحولين جنسيا."
+    },
+    "ru-RU": {
+      "title": "TGNS Трансгендерная сеть Швейцарии",
+      "description": "TGNS - это сеть для трансгендерных людей в Швейцарии. Они предоставляют юридическую поддержку, работают над реформами в области здравоохранения и предлагают ресурсы для психического здоровья трансгендерного сообщества. Они участвуют в различных программах по повышению осведомленности и образованию, направленных на создание поддерживающей и включающей среды для людей, определяющих себя как трансмужчины, трансженщины и небинарные люди. TGNS также имеет услуги для молодежи, группы поддержки и ресурсы для семей и партнеров трансгендерных людей."
+    },
+    "vi-VN": {
+      "title": "TGNS Mạng lưới Transgender Thụy Sĩ",
+      "description": "TGNS là một mạng lưới dành cho những người chuyển giới ở Thụy Sĩ. Họ cung cấp các hỗ trợ pháp lý, làm việc để cải cách chăm sóc sức khỏe và cung cấp các nguồn lực về sức khỏe tâm thần cho cộng đồng người chuyển giới. Họ tham gia vào nhiều chương trình nâng cao nhận thức và giáo dục nhằm tạo ra một môi trường hỗ trợ và bao bọc cho các cá nhân xác định bản thân là nam giới chuyển giống, nữ giới chuyển giới và không phân biệt giới tính. TGNS cũng có các dịch vụ cho giới trẻ, các nhóm hỗ trợ, và nguồn lực cho gia đình và đối tác của các cá nhân chuyển giới."
+    },
+    "uk-UA": {
+      "title": "TGNS Трансгендерна мережа Швейцарії",
+      "description": "TGNS - це мережа для трансгендерних людей в Швейцарії. Вони забезпечують правову підтримку, прямують до реформ у сфері охорони здоров'я та пропонують ресурси для психічного здоров'я трансгендерній спільноті. Вони проводять різноманітні програми з підвищення обізнаності і освіти, спрямовані на створення підтримуючого та включного середовища для осіб, які ідентифікують себе як трансмаскулінні, трансфемінінні та небінарні. TGNS також має послуги для молоді, групи підтримки та ресурси для сім'ї та партнерів трансгендерних осіб."
+    },
+    "hi-IN": {
+      "title": "TGNS ट्रांसजेंडर नेटवर्क स्विट्जरलैंड",
+      "description": "TGNS स्विट्जरलैंड में ट्रांसजेंडर लोगों के लिए एक नेटवर्क है। वे कानूनी वकालत प्रदान करते हैं, स्वास्थ्य सुधार की ओर काम करते हैं, और ट्रांसजेंडर समुदाय के लिए मानसिक स्वास्थ्य संसाधनों की पेशकश करते हैं। वे ट्रांसमेसक्युलिन, ट्रांसफीमिनिन, और गैर-द्विमैत के रूप में पहचानने वाले व्यक्तियों के लिए सहायक और समावेशी वातावरण बनाने के लिए एक सीरीज़ अवगति और शिक्षा कार्यक्रमों में सक्रिय रहते हैं। TGNS में युवा सेवायें, समर्थन समूह, और ट्रांसजेंडर व्यक्तियों के परिवार और साथियों के लिए संसाधन भी हैं।"
+    },
+    "ur-PK": {
+      "title": "TGNS ٹرانسجینڈر نیٹ ورک سوئٹزر لینڈ",
+      "description": "TGNS سوئٹزرلینڈ میں ٹرانسجینڈر لوگوں کے لیے ایک نیٹ ورک ہے۔ وہ قانونی حمایت فراہم کرتے ہیں، صحت کی اصلاحات کی طرف کام کرتے ہیں، اور ٹرانسجینڈر برادری کے لیے ذہنی صحت کے وسائل مہیا کرتے ہیں۔ وہ ایسے مختلف شعور اور تعلیمی پروگراموں میں شامل ہوتے ہیں جو ترانس میسکولائن، ترانسفامینائن، اور نان بائنری کے طور پر شناخت کرنے والے افراد کے لیے ایک حمایتی اور شامل ماحول بنانے کی ہدف ہوتے ہیں۔ TGNS کے پاس یوتھ سروسز، سپورٹ گروپس، اور ٹرانسجینڈر افراد کے خاندان اور شریک حیات کے لیے وسائل بھی ہیں۔"
+    },
+    "mr-IN": {
+      "title": "TGNS ट्रान्सजेंडर नेटवर्क स्वित्झर्लंड",
+      "description": "TGNS ही स्वित्झर्लंडमधील ट्रान्सजेंडर व्यक्तींसाठीची नेटवर्क आहे. ते कायदेशीर समर्थन पुरवतात, आरोग्यसेवा सुधारण्याकडे काम करतात, आणि ट्रान्सजेंडर समुदायासाठी मानसिक आरोग्य संसाधने पुरवतात. त्यांची ही एक विविध जागरूकता आणि शिक्षण कार्यक्रमे असतात ज्यांच्या उद्दिष्टाने व्यक्तींच्या डोक्यात ट्रान्समॅस्क्युलिन, ट्रान्सफेमिनिन, व नॉन-बायनरी असलेल्या व्यक्तींसाठी सहाय्यक आणि समाविष्टानुकूल वातावरण तयार करण्याच्या प्रयत्नांत ते सक्रीय आहेत. TGNSमध्ये तरुण सेवा, सहाय्य गट, आणि ट्रान्सजेंडर व्यक्तींच्या कुटुंबीयांसाठीचे संसाधनही आहेत."
+    },
+    "ta-IN": {
+      "title": "TGNS திருநங்கை வலையமைப்பு சுவிட்சர்லாந்து",
+      "description": "TGNS சுவிட்சர்லாந்தில் உள்ள திருநங்கைகளுக்கான ஒரு வலையமைப்புக் கூட்டம். அவர்கள் சட்டக் கால்பாடை, சுகாதார மாற்றங்களுக்குப் பேணிக் கிடைக்கின்றது, மற்றும் திருநங்கை சமூகத்திற்கு மனநல வளங்களை வழங்குகின்றனர். அவர்கள் வித்யாபூர்வ மற்றும் கல்வி திட்டங்கள் திருநங்கைக்களை, அல்லது அவற்றுக்கு அழைப்பை அடிப்படையாக கொண்டுபோன்ற விவித செயல்பாடுகளை ஆரம்பித்து, ஆதரவான மற்றும் சேர்க்கையான சூழலை உருவாக்க முயற்சிக்கின்றன. TGNS-இன் இளைஞர் சேவைகளும், ஆதரவு குழுக்களும், திருநங்கை நபர்களின் குடும்பத்தினர் மற்றும் கூட்டாளிகளுக்கான வளங்களும் உள்ளன."
+    },
+    "bn-BD": {
+      "title": "TGNS ট্রান্সজেন্ডার নেটওয়ার্ক সুইজারল্যান্ড",
+      "description": "TGNS হ'ল সুইজারল্যান্ডে ট্রান্সজেন্ডার লোকদের জন্য একটি নেটওয়ার্ক। তারা আইনগত উপদেষ্টা প্রদান করে, স্বাস্থ্যসেবা সংশোধনের দিকে কাজ করে এবং ট্রান্সজেন্ডার সম্প্রদায়ের জন্য মানসিক স্বাস্থ্য সম্পদ অফার করে। তারা ট্রান্স মাসকুলাইন, ট্রান্স ফেমিনাইন এবং নন-বাইনারি হিসেবে পরিচয় দেওয়া ব্যক্তিদের জন্য সহায়ক এবং সম্বন্ধ প্রসারক পরিবেশ তৈরি করার লক্ষ্যে এক ধরণের সচেতনতা এবং শিক্ষা কর্মসূচি সম্পাদন করে। TGNS-এর কিশোর সেবা, সমর্থন গ্রুপ এবং ট্রান্সজেন্ডার ব্যক্তিদের পরিবার এবং অংশীদারদের জন্য সম্পদ রয়েছে।"
+    },
+    "te-IN": {
+      "title": "TGNS ట్రాన్స్జెండర్ నెట్వర్క్ స్విట్జర్లాండ్",
+      "description": "TGNS ట్రాన్స్జెండర్ వ్యక్తులకు స్విట్జర్లాండ్‌లో ఒక నెట్వర్క్. వారు చట్టపట్టాల హోదాలు అందిస్తున్నారు, చికిత్సా సుధారణలకు పనిచేస్తున్నారు, ట్రాన్స్జెండర్ సముదాయానికి మానసిక అంగసౌఖ్యం వనరులను అందిస్తున్నారు. వారు ట్రాన్స్మస్కులిన్, ట్రాన్స్ఫెమినిన్, మరియు నాన్-బైనరీగా గుర్తించే వ్యక్తులకు మద్దతును మరియు సమావేశత్వాన్ని సృష్టించేలా స్థాయిలోకి లక్ష్యించే అనేక ప్రజ్ఞా మరియు విద్యా కార్యక్రమాల్లో పాల్గొనుస్తున్నారు. TGNS కీలక సేవలు, మద్దతు గుంపులు, మరియు ట్రాన్స్జెండర్ వ్యక్తుల కుటుంబ మరియు భాగస్వాములకు వనరులను కూడా అందిస్తుంది."
+    }
+  }
+}

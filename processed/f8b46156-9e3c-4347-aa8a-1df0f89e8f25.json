@@ -1,0 +1,20 @@
+{
+  "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+  "title": "Apotheek.nl - All about Medication",
+  "description": "A resource offering reliable information about various medications. The site includes videos, current affairs in health, information on vaccination, coronavirus, and pharmacy care. It provides information in Dutch and translates 50 key medications for Ukrainian refugees.",
+  "slug": "apotheek-all-about-medication",
+  "externalUrl": "https://www.apotheek.nl/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

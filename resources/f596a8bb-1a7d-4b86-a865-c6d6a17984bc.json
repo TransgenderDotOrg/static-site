@@ -1,0 +1,111 @@
+{
+  "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+  "slug": "rfsl-swedish-federation-lgbtq-rights",
+  "externalUrl": "https://www.rfsl.se/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "SE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {},
+  "i18n": {
+    "en-US": {
+      "title": "RFSL - The Swedish Federation for Lesbian, Gay, Bisexual, Transgender and Queer Rights",
+      "description": "RFSL is a Swedish organization that works with and for LGBTQ rights. They provide crucial resources, community support, education & awareness, legal guidance, health services, and more for the transgender community. RFSL also promotes LGBTQ rights on an international level."
+    },
+    "pt-PT": {
+      "title": "RFSL - Federação Sueca pelos Direitos de Lésbicas, Gays, Bissexuais, Transgêneros e Queer",
+      "description": "A RFSL é uma organização sueca que trabalha com e para os direitos LGBTQ. Eles fornecem recursos cruciais, apoio à comunidade, educação e sensibilização, orientação jurídica, serviços de saúde e muito mais para a comunidade transgênero. A RFSL também promove os direitos LGBTQ a nível internacional."
+    },
+    "de-DE": {
+      "title": "RFSL - Der schwedische Verband für lesbische, schwule, bisexuelle, transgender und queere Rechte",
+      "description": "RFSL ist eine schwedische Organisation, die mit und für LGBTQ-Rechte arbeitet. Sie bietet entscheidende Ressourcen, Gemeinschaftsunterstützung, Bildung & Bewusstseinsbildung, rechtliche Beratung, Gesundheitsdienste und mehr für die Transgender-Gemeinschaft an. RFSL setzt sich auch auf internationaler Ebene für LGBTQ-Rechte ein."
+    },
+    "es-ES": {
+      "title": "RFSL - La Federación Sueca para los Derechos de Lesbianas, Gays, Bisexuales, Transgénero y Queer",
+      "description": "RFSL es una organización sueca que trabaja con y para los derechos LGBTQ. Proporcionan recursos esenciales, apoyo comunitario, educación y concientización, orientación jurídica, servicios de salud y más para la comunidad transgénero. RFSL también promueve los derechos LGBTQ a nivel internacional."
+    },
+    "zh-CN": {
+      "title": "RFSL-瑞典同性恋、双性恋、跨性别者和酷儿权益联盟",
+      "description": "RFSL是一个在瑞典为LGBTQ权益工作的机构。他们为跨性别群体提供关键资源、社区支持、教育与意识提升、法律指导、健康服务等。RFSL还在国际层面上推广LGBTQ的权益。"
+    },
+    "id-ID": {
+      "title": "RFSL - Federasi Swedia untuk Hak-Hak Lesbian, Gay, Biseksual, Transgender, dan Queer",
+      "description": "RFSL adalah organisasi Swedia yang bekerja dengan dan untuk hak-hak LGBTQ. Mereka menyediakan sumber daya penting, dukungan komunitas, edukasi & kesadaran, bimbingan hukum, layanan kesehatan, dan lainnya untuk komunitas transgender. RFSL juga mempromosikan hak-hak LGBTQ di tingkat internasional."
+    },
+    "fr-FR": {
+      "title": "RFSL - La Fédération suédoise pour les droits des personnes lesbiennes, gays, bisexuelles, transgenres et queer",
+      "description": "La RFSL est une organisation suédoise qui travaille avec et pour les droits LGBTQ. Ils fournissent des ressources essentielles, du soutien communautaire, de l'éducation et de la sensibilisation, des conseils juridiques, des services de santé, et plus encore à la communauté transgenre. La RFSL promeut également les droits LGBTQ à l'échelle internationale."
+    },
+    "sw-KE": {
+      "title": "RFSL - Shirikisho la Sweden kwa Haki za Mashoga, Wasagaji, Wapenzi wa Jinsia zote, Watransgender na Wachaguaji Waumeke",
+      "description": "RFSL ni shirika la Sweden linalofanya kazi na na kwa haki za LGBTQ. Wana provide rasilimali muhimu, msaada wa jumuiya, elimu na uelewa, mwongozo wa kisheria, huduma za afya, na zaidi kwa jamii ya watu watransgender. RFSL pia inakuza haki za LGBTQ kwenye ngazi ya kimataifa."
+    },
+    "ja-JP": {
+      "title": "RFSL - レズビアン、ゲイ、バイセクシャル、トランスジェンダー、クィアの権利のためのスウェーデン連盟",
+      "description": "RFSLは、LGBTQの権利に関連する仕事を行うスウェーデンの組織です。彼らはトランスジェンダーコミュニティに対して重要なリソース、コミュニティのサポート、教育と意識向上、法律の指導、健康サービスなどを提供します。また、RFSLは国際レベルでLGBTQの権利を推進しています。"
+    },
+    "ko-KR": {
+      "title": "RFSL - 레즈비언, 게이, 양성애자, 트랜스젠더 및 퀴어 권리를 위한 스웨덴 연맹",
+      "description": "RFSL은 LGBTQ 권리를 위해 노력하는 스웨덴 조직입니다. 그들은 트랜스젠더 커뮤니티를 위해 중요한 자원, 커뮤니티 지원, 교육 및 인식, 법률 지도, 건강 서비스 등을 제공합니다. RFSL은 국제적인 수준에서 LGBTQ 권리를 촉진합니다."
+    },
+    "ar-SA": {
+      "title": "RFSL - الاتحاد السويدي لحقوق الشوذين والمثليين وصغار السن والمتحولين والمثنيين.",
+      "description": "تعمل RFSL كمنظمة سويدية مع ولصالح حقوق LGBTQ. يقدمون الموارد الضرورية، والدعم المجتمعي، التعليم والتوعية، التوجيه القانوني، الخدمات الصحية وغيرها للمجتمع المتحول. تروج RFSL لحقوق LGBTQ على المستوى الدولي."
+    },
+    "tr-TR": {
+      "title": "RFSL - Lezbiyen, Gay, Biseksüel, Transgender ve Queer Hakları için İsveç Federasyonu",
+      "description": "RFSL, LGBTQ hakları ile ve için çalışan bir İsveç organizasyonudur. Transgender topluluğu için hayati kaynaklar, toplum desteği, eğitim ve farkındalık, hukuki rehberlik, sağlık hizmetleri ve daha fazlasını sağlarlar. RFSL ayrıca uluslararası düzeyde LGBTQ haklarını da desteklemektedir."
+    },
+    "vi-VN": {
+      "title": "RFSL - Liên đoàn Thụy Điển về Quyền của Người Đồng tính, Song tính, Chuyển giới và Queer",
+      "description": "RFSL là một tổ chức Thụy Điển hoạt động với và vì quyền lợi của cộng đồng LGBTQ. Họ cung cấp các nguồn lực quan trọng, hỗ trợ cộng đồng, giáo dục & nâng cao nhận thức, hướng dẫn pháp lý, dịch vụ chăm sóc sức khỏe và nhiều hơn nữa cho cộng đồng chuyển giới. RFSL cũng thúc đẩy quyền lợi LGBTQ ở mức độ quốc tế."
+    },
+    "ru-RU": {
+      "title": "RFSL - Шведская Федерация прав лесбиянок, геев, бисексуалов, трансгендеров и квир-людей",
+      "description": "RFSL - это шведская организация, которая работает в интересах прав ЛГБТК-сообщества и с ними. Они предоставляют ключевые ресурсы, поддержку сообщества, образование и информирование, правовое руководство, услуги в области здравоохранения и многое другое для трансгендерного сообщества. RFSL также продвигает права ЛГБТК на международном уровне."
+    },
+    "uk-UA": {
+      "title": "RFSL - Шведська федерація прав лесбійок, геїв, бісексуалів, трансгендерів та квірів",
+      "description": "RFSL - це шведська організація, яка працює з правами LGBTQ та за них. Вони надають критично важливі ресурси, підтримку спільноти, освіту та просвіту, правову допомогу, медичні послуги та багато іншого для трансгендерної спільноти. RFSL також просуває права LGBTQ на міжнародному рівні."
+    },
+    "ur-PK": {
+      "title": "RFSL - لیسبیئن، گے، بائسیکشوئل، خود جنس پسند اور قویر حقوق کے لئے سویڈش فیڈریشن",
+      "description": "RFSL ایک سویڈش تنظیم ہے جو LGBTQ حقوق کے ساتھ اور ان کے لئے کام کرتی ہے۔ وہ ناگزیر وسائل، کمیونٹی سپورٹ، تعلیم و آگاہی، قانونی رہنمائی، صحت کی خدمات، اور خود جنس پسند کمیونٹی کے لئے مزید فراہم کرتے ہیں۔ RFSL نے بین الاقوامی سطح پر LGBTQ حقوق کا ترویج بھی کیا ہے۔"
+    },
+    "hi-IN": {
+      "title": "RFSL - समलैंगिक, समलैंगिक, द्विलैंगिक, ट्रांसजेंडर और क्वीयर अधिकारों के लिए स्वीडिश संघ",
+      "description": "RFSL एक स्वीडिश संगठन है जो एलजीबीटीक्यू अधिकारों के साथ और उनके लिए काम करता है। वे महत्वपूर्ण संसाधन, सामुदायिक समर्थन, शिक्षा और जागरूकता, कानूनी मार्गदर्शन, स्वास्थ्य सेवाएं, और ट्रांसजेंडर समुदाय के लिए अधिक प्रदान करते हैं। RFSL अंतर्राष्ट्रीय स्तर पर एलजीबीटीक्यू अधिकारों का समर्थन भी करता है।"
+    },
+    "bn-BD": {
+      "title": "RFSL - লেসবিয়ান, গে, বাইসেক্সুয়াল, ট্রান্সজেন্ডার এবং কুয়ার অধিকারের জন্য সুইডিশ ফেডারেশন",
+      "description": "RFSL হলেন একটি সুইডিশ সংগঠন যা এইচিএফবিইকিউ অধিকারের সাথে এবং এইচিএফবিইকিউ অধিকারের জন্য কাজ করে। তারা ট্রান্সজেন্ডার সম্প্রদায়ের জন্য অপরিহার্য সম্পদ, সম্প্রদায় সমর্থন, শিক্ষা ও সচেতনতা, আইনগত পরামর্শ, স্বাস্থ্য সেবা, এবং আরও অনেক কিছু সরবরাহ করে। RFSL আন্তর্জাতিক স্তরে এলজিবিটিকিউ অধিকার প্রচার করে।"
+    },
+    "mr-IN": {
+      "title": "RFSL - समलैंगिक, समलैंगी, द्वैलिंगी, लैंगिक विद्यमान क्षेत्रातील आणि क्विअर अधिकारांसाठी स्वीडिश संघटना",
+      "description": "RFSL ही स्वीडनी संघटना असून, ती LGBTQ अधिकारांसाठी काम करते. त्यांनी लैंगिक विद्यमान क्षेत्रातील समुदायासाठी महत्त्वाच्या संसाधने, समुदाय समर्थन, शिक्षण आणि जागरूकता, कायदेशीर मार्गदर्शन, आरोग्य सेवा, आणि अधिक प्रदान केलेली आहेत. RFSL म्हणजेच LGBTQ अधिकार अंतरराष्ट्रीय पातळीवर संवर्धन करते."
+    },
+    "ta-IN": {
+      "title": "RFSL - லெஸ்பியன், கேய், பைசெக்ஸுவல், டிரான்ஸ்ஜெண்டர் மற்றும் கிவீர் உரிமைகளுக்கான ஸ்வீடியின் சங்கம்",
+      "description": "RFSL ஒரு ஸ்வீடிய அமைப்புத் தான், அது LGBTQ உரிமைகளுடன் மற்றும் அவற்றுக்கு ஈடுபடுகிறது. அவர்கள் மிகுந்த அவசியத்துவமான வளங்களை, சமுதாய ஆதரவை, கல்வி & விழிப்புணர்வை, சட்ட வழிகாட்டியை, சுகாதார சேவைகளை, மேலும் பலவற்றையும் டிரான்ஸ்ஜெண்டர் சமுதாயத்திற்கு வழங்குகின்றனர். RFSL, அதிக அளவில் LGBTQ உரிமைகளையும் பராமரிக்கின்றது."
+    },
+    "te-IN": {
+      "title": "RFSL - లెస్బియన్, గే, బైసెక్సుయాల్, ట్రాన్స్జెండర్ మరియు క్యూయర్ హక్కుల కోసం స్వీడిష్ సంఘం",
+      "description": "RFSL అనేది ఒక స్వీడిష్ సంస్థ అది ఎల్బిజిటిక్యు హక్కులతో మరియు వాటి కోసం పనిచేస్తుంది. వారు అత్యవసరమైన వనరులు, సముదాయ మద్దతు, విద్య, ప్రజ్ఞ పెరిగించే పద్ధతులు, చట్టబద్ధ మార్గదర్శన, ఆరోగ్య సేవలు మరియు ఇంకా ఎన్నెన్నో ట్రాన్స్జెండర్ సముదాయకు అందించబడతాయి. RFSL అలాగే అంతర్జాతీయ స్థాయిలో ఎల్బిజిటిక్యు హక్కుల ప్రచారాన్ని పరిపోషిస్తుంది."
+    }
+  }
+}

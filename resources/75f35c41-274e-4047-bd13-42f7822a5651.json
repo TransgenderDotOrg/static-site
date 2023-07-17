@@ -1,0 +1,110 @@
+{
+  "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+  "slug": "national-queer-trans-therapists-of-color-network",
+  "externalUrl": "https://www.nqttcn.com/",
+  "tags": [
+    "mental-health",
+    "social-services"
+  ],
+  "address": "Baltimore, MD 21211, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MD",
+  "city": "Baltimore",
+  "latLng": [
+    39.3289463,
+    -76.63838319999999
+  ],
+  "email": "info@nqttcn.com",
+  "socialMedia": {
+    "facebookUrl": "Facebook-f",
+    "twitterUrl": "Twitter",
+    "instagramUrl": "Instagram"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "National Queer & Trans Therapists of Color Network",
+      "description": "The National Queer & Trans Therapists of Color Network is a healing justice organization committed to transforming mental health for queer and trans people of color. They work at the intersection of movements for social justice and the field of mental health."
+    },
+    "pt-PT": {
+      "title": "Rede Nacional de Terapeutas Queer & Trans de Cor",
+      "description": "A Rede Nacional de Terapeutas Queer & Trans de Cor é uma organização de justiça de cura comprometida com a transformação da saúde mental para pessoas queer e trans de cor. Eles trabalham na interseção de movimentos por justiça social e o campo da saúde mental."
+    },
+    "fr-FR": {
+      "title": "Réseau National des Thérapeutes Queer & Trans de Couleur",
+      "description": "Le Réseau National des Thérapeutes Queer & Trans de Couleur est une organisation de justice thérapeutique engagée à transformer la santé mentale pour les personnes queer et trans de couleur. Ils travaillent à l'intersection des mouvements pour la justice sociale et le domaine de la santé mentale."
+    },
+    "es-ES": {
+      "title": "Red Nacional de Terapeutas Queer y Trans de Color",
+      "description": "La Red Nacional de Terapeutas Queer y Trans de Color es una organización de justicia de sanación comprometida con la transformación de la salud mental para las personas queer y trans de color. Trabajan en la intersección de los movimientos por la justicia social y el campo de la salud mental."
+    },
+    "tr-TR": {
+      "title": "Ulusal Queer & Trans Renkli Terapistler Ağı",
+      "description": "Ulusal Queer & Trans Renkli Terapistler Ağı, queer ve trans renkli insanlar için zihinsel sağlığı dönüştürmeye kendini adamış bir iyileştirme adaleti organizasyonudur. Onlar, sosyal adalet hareketleri ile zihinsel sağlık alanının kesişiminde çalışmaktadırlar."
+    },
+    "id-ID": {
+      "title": "National Queer & Trans Therapists of Color Network",
+      "description": "National Queer & Trans Therapists of Color Network adalah organisasi keadilan penyembuhan yang berkomitmen untuk mengubah kesehatan mental bagi orang-orang queer dan trans berkulit hitam. Mereka bekerja di persimpangan gerakan untuk keadilan sosial dan bidang kesehatan mental."
+    },
+    "sw-KE": {
+      "title": "Mtandao wa Kitaifa wa Wataalamu wa Queer & Trans wa Rangi",
+      "description": "Mtandao wa Kitaifa wa Wataalamu wa Queer & Trans wa Rangi ni shirika la haki ya uponyaji linalojitolea katika kubadilisha afya ya akili kwa watu wa queer na trans wa rangi. Wao hufanya kazi kwenye kizuizi cha harakati za haki ya kijamii na uwanja wa afya ya akili."
+    },
+    "ko-KR": {
+      "title": "국가 퀴어 및 트랜스 칼라 치료사 네트워크",
+      "description": "국가 퀴어 및 트랜스 칼라 치료사 네트워크는 퀴어 및 트랜스 컬러 인구를 위한 정신 건강 변혁에 헌신한 치유 정의 조직입니다. 그들은 사회 정의 운동과 정신 건강 분야의 교차점에서 작업합니다."
+    },
+    "vi-VN": {
+      "title": "Mạng lưới Người điều trị Queer & Trans Màu quốc gia",
+      "description": "Mạng lưới Người điều trị Queer & Trans Màu quốc gia là một tổ chức công lý chữa lành cam kết biến đổi sức khỏe tâm thần cho người queer và trans màu da. Họ hoạt động tại giao điểm của các phong trào cho công lý xã hội và lĩnh vực sức khỏe tâm thần."
+    },
+    "de-DE": {
+      "title": "National Queer & Trans Therapists of Color Network",
+      "description": "Das National Queer & Trans Therapists of Color Network ist eine Heilungs-Justizorganisation, die sich dem Wandel der psychischen Gesundheit für Queer- und Trans-Personen of Color verschrieben hat. Sie arbeiten an der Schnittstelle von Bewegungen für soziale Gerechtigkeit und dem Bereich der geistigen Gesundheit."
+    },
+    "zh-CN": {
+      "title": "全国酷儿与跨性别有色人种治疗师网络",
+      "description": "全国酷儿与跨性别有色人种治疗师网络是一个致力于改变酷儿和有色人种跨性别人群心理健康的治疗公正组织。他们在社会公正运动和心理健康领域的交叉路口进行工作。"
+    },
+    "ru-RU": {
+      "title": "Национальная сеть терапевтов-цветных людей, относящихся к LGBTQ+",
+      "description": "Национальная сеть терапевтов-цветных людей, принадлежащих к LGBTQ+, является организацией, занимающейся вопросами здравоохранения и справедливости, и нацеленной на изменение подхода к психическому здоровью цветных людей, относящихся к LGBTQ+. Они работают на пересечении движений за социальную справедливость и сферы психического здоровья."
+    },
+    "ja-JP": {
+      "title": "ナショナルクウィア & トランスセラピストオブカラーネットワーク",
+      "description": "ナショナルクイア&トランスセラピストオブカラーネットワークは、人種的マイノリティのクイアおよびトランスの人々の精神保健を変革するためにコミットしたヒーリングジャスティス組織です。彼らは、社会正義の運動と精神保健の領域の交差点で働いています。"
+    },
+    "ar-SA": {
+      "title": "الشبكة الوطنية للمعالجين المثليين و المتحولين جنسياً من الألوان",
+      "description": "الشبكة الوطنية للمعالجين المثليين و المتحولين جنسياً من الألوان هي منظمة للعدالة الشافية ملتزمة بتحويل الصحة العقلية للأشخاص المثليين والمتحولين جنسياً من الألوان. يعملون على تقاطع الحركات من أجل العدالة الاجتماعية ومجال الصحة العقلية."
+    },
+    "uk-UA": {
+      "title": "Національна мережа терапевтів кольорових людей, квір та транс",
+      "description": "Національна мережа терапевтів квір та транс кольорових людей - це організація, що стоїть на чолі руху за справедливість в галузі охорони здоров'я, яка прагне змінити підхід до психічного здоров'я квір та транс людей кольору. Вони працюют на перехресті рухів за соціальну справедливість та сфери психічного здоров'я."
+    },
+    "ur-PK": {
+      "title": "قومی کوئر اور ٹرانس رنگین فصیل کے طبیبان کا نیٹ ورک",
+      "description": "قومی کوئر اور ٹرانس رنگین فصیل کے طبیبان کا نیٹ ورک ایک ہیلنگ انصاف تنظم ہے جو کوئر و ٹرانز رنگین فصیل کے لوگوں کی روحانی صحت میں روپ تبدیل کرنے کے لئے پرعزم ہے۔ وہ سوشل انصاف کی تحریکوں اور ذہنی صحت کے میدان کے مرکزی نقطہ پر کام کرتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "राष्ट्रीय क्वीर और ट्रांस थेरपिस्ट्स ऑफ कलर नेटवर्क",
+      "description": "राष्ट्रीय क्वीर और ट्रांस थेरपिस्ट्स ऑफ कलर नेटवर्क एक हीलिंग न्याय संगठन है जो क्वीर और ट्रांस लोगों के लिए मानसिक स्वास्थ्य को बदलने के प्रति कटिबद्ध है। वे सामाजिक न्याय के आन्दोलनों और मानसिक स्वास्थ्य के क्षेत्र के चौराहे पर काम करते हैं।"
+    },
+    "bn-BD": {
+      "title": "ন্যাশনাল কীয়ার এবং ট্রান্স থেরাপিস্ট অব কালার নেটওয়ার্ক",
+      "description": "ন্যাশনাল কীয়ার এবং ট্রান্স থেরাপিস্ট অব কালার নেটওয়ার্ক একটি হিলিং জাস্টিস প্রতিষ্ঠান যা কী এবং ট্রান্স মানুষের মানসিক স্বাস্থ্য পরিবর্তনের জন্য উদ্যোগী। তারা সামাজিক ন্যায়ের আন্দোলন এবং মানসিক স্বাস্থ্য ক্ষেত্রের ছেদটি পরিচালনা করে।"
+    },
+    "mr-IN": {
+      "title": "राष्ट्रीय क्विअर आणि ट्रान्स रंगभेदी  चिकित्सक संघ",
+      "description": "राष्ट्रीय क्विअर आणि ट्रान्स रंगभेदी  चिकित्सक संघ हा एक चिकित्सक न्याय संघटना आहे ज्याच्या ध्यासाने क्विअर आणि ट्रान्स रंगभेदी लोकांसठी मानसिक आरोग्याचे रूपांतर केले आहे. ते सामाजिक न्यायाच्या आंदोलनांच्या मध्यभागी होत असताना मानसिक आरोग्य क्षेत्रामध्ये काम करतात."
+    },
+    "ta-IN": {
+      "title": "தேசிய அல்யோசியம் & டிரான்ஸ் தெராபிஸ்ட்களின் நிற வலைவாரம்",
+      "description": "தேசிய அல்யோசியம் & டிரான்ஸ் தெராபிஸ்ட்களின் நிற வலைவாரம் ஒரு சரியான நீதி நிறுவனமாக உள்ளது, அது அல்யோசியாவும் மாறிவரும் நிறம் மக்களுக்கான மனநலம் மாற்றுவதில் உள்ளது. அவர்கள் சமூக நீதி பொருள்களின் பொதுவான சந்திப்புக்கும் மற்றும் மனநல துறைக்கும் இடையேயான பணியாற்றுகின்றனர்."
+    },
+    "te-IN": {
+      "title": "జాతీయ క్వియర్ & ట్రాన్స్ థెరాపిస్ట్స్ యొక్క రంగు నెట్వర్క్",
+      "description": "జాతీయ క్వియర్ & ట్రాన్స్ థెరాపిస్ట్స్ యొక్క రంగు నెట్వర్క్ ఒక హీలింగ్ జస్టిస్ సంస్థ అని పక్కన ఉంది దీనికి కేటాయించినది క్వియర్ మరియు ట్రాన్స్ ప్రజలు యొక్క మెంటల్ హెల్త్ను మార్చడానికి. వారు సామాజిక న్యాయం కొరకు ఉన్న కలహాల మధ్య పని చేస్తున్నారు మరియు మెంటల్ హెల్త్ యొక్క రంగానికి."
+    }
+  }
+}

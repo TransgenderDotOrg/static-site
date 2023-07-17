@@ -1,0 +1,114 @@
+{
+  "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+  "slug": "black-rainbow",
+  "externalUrl": "https://blackrainbow.org.au/",
+  "tags": [
+    "mental-health",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "Darwin NT, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NT",
+  "city": "Darwin",
+  "latLng": [
+    -12.4637333,
+    130.8444446
+  ],
+  "email": null,
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/blackrainbowaus/",
+    "twitter": "https://twitter.com/BlkRnBow",
+    "facebook": "https://www.facebook.com/blackrainbowaus/",
+    "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+    "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Black Rainbow",
+      "description": "Black Rainbow is a national Aboriginal and Torres Strait Islander LGBQTIA+SB volunteer social enterprise focused on the health and wellbeing of their community. This strives to extend its services, despite being unfunded, through donations, fee for service and sales of educational materials. They initiate outreach projects, support social events, and gather funds for community enhancement and research on health impacts."
+    },
+    "fr-FR": {
+      "title": "Arc-en-ciel noir",
+      "description": "Arc-en-ciel noir est une entreprise sociale bénévole nationale Aborigène et des Îles du Détroit de Torres LGBQTIA+SB qui se concentre sur la santé et le bien-être de leur communauté. Malgré le manque de fonds, elle s'efforce d'étendre ses services par des dons, des frais pour services et des ventes de matériel éducatif. Ils initient des projets de sensibilisation, soutiennent des événements sociaux et recueillent des fonds pour l'amélioration de la communauté et la recherche sur les impacts sur la santé."
+    },
+    "es-ES": {
+      "title": "Arco Iris Negro",
+      "description": "Arco Iris Negro es una empresa social voluntaria aborigen y de las Islas del Estrecho de Torres LGBQTIA+SB a nivel nacional centrada en la salud y el bienestar de su comunidad. Esta se esfuerza por extender sus servicios, a pesar de no tener financiación, a través de donaciones, pago por servicio y ventas de materiales educativos. Inician proyectos de alcance, apoyan eventos sociales y reúnen fondos para el mejoramiento de la comunidad y la investigación sobre los impactos en la salud."
+    },
+    "pt-PT": {
+      "title": "Arco-íris Negro",
+      "description": "Arco-íris Negro é uma empresa social voluntária nacional aborígine e das ilhas do Estreito de Torres LGBQTIA+SB focada na saúde e bem-estar de sua comunidade. Esta se esforça para expandir seus serviços, apesar de não ser financiada, por meio de doações, pagamento por serviço e venda de materiais educacionais. Eles iniciam projetos de alcance, apoiam eventos sociais e arrecadam fundos para melhorias na comunidade e pesquisas sobre impactos na saúde."
+    },
+    "de-DE": {
+      "title": "Schwarzer Regenbogen",
+      "description": "Schwarzer Regenbogen ist ein nationales, ehrenamtliches soziales Unternehmen der Aboriginal und Torres Strait Islander LGBQTIA+SB, das sich auf die Gesundheit und das Wohlbefinden ihrer Gemeinschaft konzentriert. Dieses bemüht sich, seine Dienstleistungen trotz fehlender Finanzierung durch Spenden, Gebühren für die Dienstleistung und den Verkauf von Bildungsmaterialien auszuweiten. Sie initiieren Outreach-Projekte, unterstützen gesellschaftliche Veranstaltungen und sammeln Gelder für die Verbesserung der Gemeinschaft und Forschung über Gesundheitsauswirkungen."
+    },
+    "sw-KE": {
+      "title": "Black Rainbow",
+      "description": "Black Rainbow ni shirika la hiari la kitaifa la wazawa wa Aboriginal na Torres Strait Islander LGBQTIA+SB linalolenga afya na ustawi wa jamii yao. Shirika hili linajitahidi kupanua huduma zake, licha ya kutopata ufadhili, kupitia mchango, malipo kwa huduma na mauzo ya vifaa vya elimu. Wanaanzisha miradi ya msaada, wanaimarisha matukio ya kijamii, na kukusanya fedha kwa ajili ya kuinua jamii na utafiti kuhusu athari za kiafya."
+    },
+    "zh-CN": {
+      "title": "黑色彩虹",
+      "description": "黑色彩虹是一个全国性的澳大利亚土著和托雷斯海峡岛民LGBQTIA+SB志愿者社会企业，专注于他们社区的健康和福祉。尽管没有资金，这个企业还是致力于通过接受捐款、提供服务收费和销售教育材料等方式扩展其服务。他们发起外展项目，支持社交活动，并筹集资金用于社区提升和对健康影响的研究。"
+    },
+    "id-ID": {
+      "title": "Black Rainbow",
+      "description": "Black Rainbow adalah perusahaan sosial sukarelawan LGBQTIA+SB Aborigin dan Torres Strait Islander nasional yang berfokus pada kesehatan dan kesejahteraan komunitas mereka. Ini berusaha untuk memperluas layanannya, meskipun tidak mendapat dana, melalui donasi, biaya untuk layanan dan penjualan materi pendidikan. Mereka memulai proyek layanan keliling, mendukung acara sosial, dan mengumpulkan dana untuk peningkatan komunitas dan penelitian tentang dampak kesehatan."
+    },
+    "vi-VN": {
+      "title": "Cầu vồng Đen",
+      "description": "Cầu vồng Đen là một doanh nghiệp xã hội tình nguyện quốc gia của người Aboriginal và đảo Torres Strait LGBQTIA+SB tập trung vào sức khỏe và phúc lợi của cộng đồng của họ. Doanh nghiệp này cố gắng mở rộng dịch vụ của mình, mặc dù không được tài trợ, thông qua quyên góp, dịch vụ trả phí và bán tài liệu giáo dục. Họ khởi xướng các dự án tiếp cận, hỗ trợ các sự kiện xã hội và gom kinh phí cho việc nâng cao cộng đồng và nghiên cứu về ảnh hưởng sức khỏe."
+    },
+    "tr-TR": {
+      "title": "Black Rainbow",
+      "description": "Black Rainbow, topluluklarının sağlık ve esenlik üzerine odaklanmış milli bir Aborijin ve Torres Boğazı Adalı LGBQTIA+SB gönüllü sosyal girişimidir. Bu, finansman almadığı halde, bağışlar, hizmet karşılığı ücret ve eğitici materyallerin satışı aracılığıyla hizmetlerini genişletmeye çabalar. Dışa dönük projeler başlatır, sosyal etkinliklere destek verir ve topluluk iyileştirmesi ve sağlık etkileri üzerine araştırma için fon toplar."
+    },
+    "ar-SA": {
+      "title": "قوس قزح أسود",
+      "description": "قوس قزح أسود هو مشروع تطوعي اجتماعي للمؤسسة الوطنية الأبوية وتوريس سترايت الجزر الاسترالية LGBQTIA+SB والذي يركز على صحة ورفاهية مجتمعهم. يسعى هذا المشروع لتوسيع خدماته، على الرغم من عدم تمويله، من خلال التبرعات، الرسوم مقابل الخدمة ومبيعات المواد التعليمية. يبدأون المشاريع التوعوية، يدعمون الأحداث الاجتماعية، ويجمعون الأموال لتحسين المجتمع والبحث عن الأثر الصحي."
+    },
+    "ja-JP": {
+      "title": "ブラック・レインボー",
+      "description": "ブラック・レインボーは、アボリジニおよびトレス・ストレイト・アイランダーのLGBQTIA+SBボランティア社会企業で、コミュニティの健康と福祉に焦点を当てています。彼らは、寄付、サービス料、教育資料の販売を通じて、資金がないにもかかわらず、サービスを拡大しようと努めています。彼らはアウトリーチプロジェクトを開始し、社会イベントをサポートし、コミュニティの向上と健康影響に関する研究のための資金を集めます。"
+    },
+    "ru-RU": {
+      "title": "Черная радуга",
+      "description": "Черная радуга - это национальное предприятие волонтеров из числа аборигенов и жителей острова Торрес-Стрейт, представляющее LGBQTIA+SB сообщество, чья работа направлена на заботу о здоровье и благополучии своего сообщества. Несмотря на отсутствие финансирования, организация стремится расширить свои услуги за счет пожертвований, платных услуг и продажи образовательных материалов. Они занимаются организацией просветительских акций, поддерживают социальные мероприятия и собирают средства на развитие сообщества и исследование влияния на здоровье."
+    },
+    "uk-UA": {
+      "title": "Чорна веселка",
+      "description": "«Чорна веселка» - це національне добровільне соціальне підприємство в Аборигенів та острів'ян Торресового проливу LGBQTIA+SB, яке спрямоване на здоров'я та благополуччя їхньої спільноти. Воно прагне розширювати свої послуги, попри відсутність фінансування, за допомогою пожертв, осплати послуг та продажу навчальних матеріалів. Вони заохочують вихідні проекти, підтримують соціальні заходи і збирають кошти на поліпшення спільноти та дослідження впливу на здоров'я."
+    },
+    "ko-KR": {
+      "title": "블랙 레인보우",
+      "description": "블랙 레인보우는 원주민 및 토레스 해협 섬 주민 LGBQTIA+SB 자원봉사 사회 기업으로, 그들의 커뮤니티 건강과 복지에 초점을 맞추고 있습니다. 이 기업은 재정 지원이 없음에도 불구하고, 기부금, 서비스 이용료, 교육 자료 판매를 통해 서비스를 확장하려고 노력합니다. 그들은 아웃리치 프로젝트를 시작하고, 사회 행사를 지원하며, 커뮤니티 향상 및 건강 영향에 대한 연구를 위한 자금을 모읍니다."
+    },
+    "ur-PK": {
+      "title": "بلیک رینبو",
+      "description": "بلیک رینبو ایک قومی ایبوریجینی اور توریس سٹریٹ آئلینڈر LGBQTIA+SB رضاکار سماجی انٹرپرائز ہے جو اپنے کمیونٹی کی صحت اور خوشحالی پر فوکس کرتا ہے۔ یہ کوشش کرتا ہے کہ یہ اپنی خدمات کو بھی چاہے وہ غیر مالیتی ہوں، عطیات، خدمات کے لئے فیس اور تعلیمی مواد کی فروخت کے ذریعے پھیلائے۔ وہ آؤٹ ریچ پروجیکٹس کا آغاز کرتے ہیں، سماجی واقعات کی سپورٹ کرتے ہیں، اور کمیونٹی کی بہتری اور صحت کے اثرات پر تحقیق کے لئے فنڈز جمع کرتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "काली इंद्रधनुष",
+      "description": "काली इंद्रधनुष एक राष्ट्रीय आदिवासी और टॉरेस स्ट्रेट द्वीपवासी LGBQTIA+SB स्वयंसेवी सामाजिक उद्यम है, जो अपने समुदाय के स्वास्थ्य और कल्याण पर केंद्रित है। इसका प्रयास होता है कि यह अपनी सेवाएं विस्तारित करे, फिर भी अनधारित होने के बावजूद, दान, सेवा के लिए शुल्क और शैक्षिक सामग्री की बिक्री के माध्यम से। वे आउट्रीच परियोजनाओं की पहल करते हैं, सामाजिक घटनाओं का समर्थन करते हैं, और समुदाय को बेहतर बनाने और स्वास्थ्य प्रभावों पर अनुसंधान के लिए धन संग्रहित करते हैं।"
+    },
+    "bn-BD": {
+      "title": "কালো রামধনু",
+      "description": "কালো রামধনু একটি জাতীয় অ্যাবোরিজিনাল এবং টরেস স্ট্রেট আইল্যান্ডার LGBQTIA+SB স্বেচ্ছাসেবী সামাজিক প্রতিষ্ঠান যা তাদের সম্প্রদায়ের স্বাস্থ্য এবং কল্যাণের উপর মনোনিবেশ করে। এটি অর্থায়নের বিনা তার সেবা সম্প্রসার করার চেষ্টা করে, দান, সেবার জন্য ফি এবং শিক্ষাগত উপাদানের বিক্রয়ের মাধ্যমে। তারা আউটরিচ প্রকল্প আরম্ভ করে, সামাজিক ইভেন্ট সমর্থন করে, এবং সম্প্রদায় উন্নয়ন এবং স্বাস্থ্য প্রভাবের উপর গবেষণা জন্য অর্থ সংগ্রহ করে।"
+    },
+    "mr-IN": {
+      "title": "ब्लॅक रेनबो",
+      "description": "ब्लॅक रेनबो हे राष्ट्रीय अबॉरिजनी आणि टारेस स्ट्रैट आयलॅंडर LGBQTIA+SB स्वयंसेवी सामाजिक उद्योग आहे, ज्याचे आपल्या समुदायाच्या आरोग्य आणि कल्याणावर केंद्रीभूत आहे. हे त्याच्या सेवांचा विस्तार करण्याची कठीण प्रयत्न करते, जी मुद्रांकन नसलेली असताना, दान, सेवेची शुल्क आणि शैक्षणिक साहित्याची विक्रीद्वारे. ते आधारपात्री प्रकल्पांची सुरुवात करतात, सामाजिक कार्यक्रमांना समर्थन देतात आणि समुदाय सुधारणा आणि आरोग्य परिणामांवर संशोधन करण्यासाठी धन एकत्र करतात."
+    },
+    "te-IN": {
+      "title": "బ్లాక్ రెయిన్బో",
+      "description": "బ్లాక్ రెయిన్బో ఒక జాతీయ ఆబ్రిజినల్ మరియు టోరెస్ స్ట్రైట్ ఐలాండర్ LGBQTIA+SB వాలంటీర్ సమాజక మహిళా ఆహారానికి సంబంధించి దృష్టిపేట్టింది. ఇది, నిధులు లేకపోవడం పారాలోకికం, కానీ, వితనం, సేవా రేటు, మరియు విద్యా సామగ్రి లక్షణాల అమ్మకాల ద్వారా సేవలను విస్తరించాలని ప్రయత్నించింది. వారు ఊహించిన ప్రాజెక్టులను ప్రారంభించారు, సామాజిక ఈవెంట్లను మద్దతు చేస్తారు, మరియు ఆరోగ్య ప్రభావాలపై అధ్యయనం కోసం సముదాయ మేరకు నిధులను సేకరిస్తారు."
+    },
+    "ta-IN": {
+      "title": "கருப்பு இரும்பு வளைவு",
+      "description": "கருப்பு இரும்பு வளைவு ஒரு தேசிய ஆபோரிஜினி மற்றும் டோர்ரெஸ் ஸ்ட்ரைட் ஐஸ்லாண்டர் எல்ஜிபிகியுடியா+எஸ்பி சமூக முயற்சி தனது சமூகத்தின் ஆரோக்யம் மற்றும் நலனுக்கு முன்னோக்கி செல்கின்றது. இது அதன் சேவைகளை நிதியாதாரமில்லாமல் பகிரங்கப் பெறுதல், சேவைக்கு கட்டணம் மற்றும் கல்வி வளங்களின் விற்பனையின் மூலம் நீடிக்க முயற்சிக்கின்றது. அவர்கள் வெளியேயே சேவைகள் தொடக்க, சமூக நிகழ்வுகளை ஆதரிக்க, சமூக மேம்பாட்டுக்குக் காசுகளை சேகரிக்கவும், ஆரோக்கிய பாதிப்புகள் மீது ஆய்வுகளை மேற்கொள்ளவும் துவக்கியுள்ளன."
+    }
+  }
+}

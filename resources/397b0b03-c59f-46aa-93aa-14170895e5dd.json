@@ -1,0 +1,106 @@
+{
+  "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
+  "slug": "transgender-india-transition-guide",
+  "externalUrl": "https://transgenderindia.com/",
+  "tags": [
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "IN",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "enquiry@transgenderindia.com",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Transgender India: Your Transition Guide",
+      "description": "Transgender India provides comprehensive courses, articles and resources for the transgender community in India. It includes topics ranging from hormone replacement therapy basics, legal rights and protections, to social transitions, with courses led by specialists from various fields."
+    },
+    "pt-PT": {
+      "title": "Transgender India: Seu Guia de Transição",
+      "description": "Transgender India fornece cursos abrangentes, artigos e recursos para a comunidade transgênero na Índia. Inclui tópicos que variam desde os fundamentos da terapia de reposição hormonal, direitos legais e proteções, até transições sociais, com cursos ministrados por especialistas de várias áreas."
+    },
+    "fr-FR": {
+      "title": "Transgenre Inde: Votre Guide de Transition",
+      "description": "Transgenre Inde propose des cours complets, des articles et des ressources pour la communauté transgenre en Inde. Il comprend des sujets allant des bases de la thérapie de remplacement hormonal, des droits et protections juridiques, aux transitions sociales, avec des cours dirigés par des spécialistes de divers domaines."
+    },
+    "es-ES": {
+      "title": "India Transgénero: Tu Guía de Transición",
+      "description": "India Transgénero ofrece cursos completos, artículos y recursos para la comunidad transgénero en India. Incluye temas que van desde los fundamentos de la terapia de reemplazo hormonal, derechos legales y protecciones, hasta transiciones sociales, con cursos dirigidos por especialistas de varios campos."
+    },
+    "id-ID": {
+      "title": "Transgender India: Panduan Transisi Anda",
+      "description": "Transgender India menyediakan kursus, artikel dan sumber daya yang komprehensif untuk komunitas transgender di India. Ini mencakup topik mulai dari dasar-dasar terapi penggantian hormon, hak dan perlindungan hukum, hingga transisi sosial, dengan kursus yang dipimpin oleh spesialis dari berbagai bidang."
+    },
+    "de-DE": {
+      "title": "Transgender Indien: Ihr Übergangsführer",
+      "description": "Transgender Indien bietet umfassende Kurse, Artikel und Ressourcen für die transgender Gemeinschaft in Indien. Es umfasst Themen, die von den Grundlagen der Hormonersatztherapie, über rechtliche Rechte und Schutzmaßnahmen, bis hin zu sozialen Übergängen reichen, wobei die Kurse von Spezialisten aus verschiedenen Bereichen geleitet werden."
+    },
+    "tr-TR": {
+      "title": "Transgender Hindistan: Geçiş Rehberiniz",
+      "description": "Transgender Hindistan, Hindistan'daki transgender topluluğu için kapsamlı kurslar, makaleler ve kaynaklar sağlar. Hormon yerine koyma tedavisi temellerinden, yasal haklar ve korumalara, sosyal geçişlere kadar çeşitli konuları içerir ve kurslar çeşitli alanlardaki uzmanlar tarafından yönetilir."
+    },
+    "sw-KE": {
+      "title": "Transgender India: Mwongozo wa Mpito wako",
+      "description": "Transgender India inatoa kozi, makala na rasilimali kamili kwa jamii ya transgender nchini India. Inajumuisha mada mbalimbali kuanzia msingi wa tiba mbadala ya homoni, haki za kisheria na ulinzi, hadi mipito ya kijamii, na kozi zinaongozwa na wataalam kutoka maeneo mbalimbali."
+    },
+    "zh-CN": {
+      "title": "跨性别印度：您的过渡指南",
+      "description": "跨性别印度为印度的跨性别社区提供全面的课程、文章和资源。其内容涵盖从激素替代疗法基础，法律权利和保护，到社会过渡，课程由来自各个领域的专家主导。"
+    },
+    "ja-JP": {
+      "title": "トランスジェンダー・インド：あなたの移行ガイド",
+      "description": "トランスジェンダー・インドは、インドのトランスジェンダーコミュニティ向けに包括的なコース、記事、リソースを提供しています。ホルモン補充療法の基本から、法的権利と保護、社会的な遷移までのトピックを幅広く取り扱い、各分野の専門家によるコースを提供しています。"
+    },
+    "ar-SA": {
+      "title": "الهند الترانس: دليل انتقالك",
+      "description": "تقدم الهند الترانس دورات شاملة ومقالات وموارد للمجتمع الترانس في الهند. وهو يشمل مواضيع تتراوح من أساسيات العلاج بتعويض الهرمونات، حقوق وحمايات قانونية، إلى الانتقالات الاجتماعية، بقيادة متخصصين من مجالات مختلفة."
+    },
+    "vi-VN": {
+      "title": "Ấn Độ Chuyển Giới: Hướng Dẫn Chuyển Đổi Của Bạn",
+      "description": "Ấn Độ Chuyển Giới cung cấp các khóa học, bài viết và nguồn tài nguyên toàn diện cho cộng đồng chuyển giới ở Ấn Độ. Nó bao gồm các chủ đề từ căn bản về liệu pháp thay thế hormone, quyền hợp pháp và bảo vệ, đến chuyển đổi xã hội, với các khóa học do các chuyên gia từ nhiều lĩnh vực dẫn dắt."
+    },
+    "ur-PK": {
+      "title": "ٹرانسجینڈر انڈیا: آپکی انتقال کی رہنمائی",
+      "description": "ٹرانسجینڈر انڈیا ، ہارمون تبدیلی تھریپی کی بنیادی باتوں، قانونی حقوق و تحفظ، سوشل تبدیلیوں تک، مختلف شعبوں کے ماہرین کے زیر اہتمام کورسز سمیت، انڈیا میں ٹرانسجینڈر برادری کے لیے جامع کورسز ، مضامین اور وسائل فراہم کرتا ہے۔"
+    },
+    "uk-UA": {
+      "title": "Трансгендерна Індія: Ваш посібник щодо переходу",
+      "description": "Трансгендерна Індія надає всеосяжні курси, статті та ресурси для трансгендерної спільноти в Індії. Він включає теми, що варіюються від основ заміни гормонів, юридичних прав та захисту до соціальних переходів, з курсами, які проводяться спеціалістами з різних галузей."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 인도: 당신의 전환 가이드",
+      "description": "트랜스젠더 인도는 인도의 트랜스젠더 커뮤니티를 위한 종합적인 코스, 기사 및 자료를 제공합니다. 그것은 호르몬 대체 치료의 기본부터 법적 권리와 보호, 사회적 전환에 이르기까지 다양한 주제를 포함하고 있으며, 각종 분야의 전문가들이 주도하는 코스가 마련되어 있습니다."
+    },
+    "ru-RU": {
+      "title": "Трансгендерная Индия: ваше руководство по переходу",
+      "description": "Трансгендерная Индия предоставляет всеобъемлющие курсы, статьи и ресурсы для трансгендерного сообщества в Индии. Оно включает темы, которые варьируются от основ гормональной заместительной терапии, законодательных прав и защиты, до социальных переходов, с курсами, проводимыми специалистами из различных областей."
+    },
+    "mr-IN": {
+      "title": "संवेदनशील भारत: तुमची स्थलांतर गाईड",
+      "description": "संवेदनशील भारत म्हणजे भारतीय संवेदनशील समुदायांसाठी विस्तृत अभ्यासक्रमे, लेख आणि संसाधने प्रदान करते. हे हॉर्मोन प्रतिस्थापन उपचाराच्या मूलभूतांपासून, कायदी हक्क आणि संरक्षण, सामाजिक स्थलांतरणांपर्यंतचे विषय आहेत, ज्या विविध क्षेत्रांतील तज्ज्ञांनी अभ्यासक्रमे नेमलेली आहेत."
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर इंडिया: आपका परिवर्तन गाइड",
+      "description": "ट्रांसजेंडर इंडिया भारत में ट्रांसजेंडर समुदाय के लिए व्यापक पाठ्यक्रम, लेख और संसाधन प्रदान करता है। इसमें हार्मोन रिप्लेसमेंट थेरेपी के मूल बातें, कानूनी अधिकार और सुरक्षा, सामाजिक परिवर्तनों तक के विषय शामिल हैं, जिन्हें विभिन्न क्षेत्रों के विशेषज्ञों द्वारा नेतृत्व किया गया है।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার ইন্ডিয়া: আপনার ট্র্যান্সিশন গাইড",
+      "description": "ট্রান্সজেন্ডার ইন্ডিয়া ভারতীয় ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সম্পূর্ণ কোর্স, নিবন্ধ এবং সম্পদ প্রদান করে। এটি হরমোন প্রতিস্থাপন চিকিৎসা মূলনীতি, আইনি অধিকার এবং সুরক্ষা, সামাজিক ট্র্যান্সিশন পর্যন্ত বিষয় অন্তর্গত করে, যা বিভিন্ন ক্ষেত্রের বিশেষজ্ঞদের নেতৃত্বে কোর্স চালানো হয়।"
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్జెండర్ ఇండియా: మీ మార్పు మార్గదర్శకం",
+      "description": "ట్రాన్స్జెండర్ ఇండియా భారతదేశంలోని ట్రాన్స్జెందర్ సముదాయానికి సమగ్ర కోర్సులు, వ్యాసాలు మరియు వనరులను అందిస్తుంది. దీనిలో హార్మోన్ రిప్లేస్మెంట్ చికిత్సా ప్రాథమికతలు, చట్టాధికారాలు మరియు రక్షణలు, సామాజిక మార్పులకు, వివిధ రంగాల ప్రత్యేకతల ద్వారా నడిచే కోర్సులు ఉన్నాయి."
+    },
+    "ta-IN": {
+      "title": "தமிழ் மாறியமைவாத இந்தியா: உங்கள் மாற்றம் வழிகாட்டி",
+      "description": "தமிழ் மாறியமைவாத இந்தியா தமிழி மாறியமைவாத சமுதாயத்திற்கு விரிவான படிப்புகள், கட்டுரைகள் மற்றும் வளங்களை வழங்குகிறது. இதற்கு ஆணிவக்குறைந்த இலவச மருத்துவ வழிகாட்டல்கள், சட்டசார்பான உரிமைகள் மற்றும் பாதுகாப்புகள், சமூக மாற்றங்கள் ஆகியவற்றுக்கு வரையான தலைப்புகளை அடங்குகின்றது, பல்வேறு துறைகளில் சிறப்பியலுடையவர்களால் நடத்தப்படும் படிப்புகளுடன்."
+    }
+  }
+}

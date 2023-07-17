@@ -1,0 +1,105 @@
+{
+  "id": "2f23a24b-2e9d-4f83-9808-1e69981fba12",
+  "slug": "ftm-portal-net",
+  "externalUrl": "https://ftm-portal.net",
+  "tags": [
+    "transmasculine",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net is the largest German-speaking information platform for transmen and other transmasculinities providing experiences and tips on various living situations. This resource is helpful for any person assigned female at birth who does not fully or partially identify with this initial classification. Relatives of transmen and other interested parties may also register."
+    },
+    "es-ES": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net es la plataforma de información de habla alemana más grande para hombres trans y otras transmasculinidades que proporciona experiencias y consejos sobre diversas situaciones de vida. Este recurso es útil para cualquier persona asignada como mujer al nacer que no se identifica completamente o parcialmente con esta clasificación inicial. Los familiares de hombres trans y otras partes interesadas también pueden registrarse."
+    },
+    "fr-FR": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net est la plus grande plateforme d'information germanophone pour les hommes trans et autres transmasculinités, offrant des expériences et des conseils sur diverses situations de vie. Cette ressource est utile pour toute personne à laquelle on a attribué le sexe féminin à la naissance et qui ne s'identifie pas totalement ou partiellement à cette classification initiale. Les proches des hommes trans et d'autres parties intéressées peuvent également s'inscrire."
+    },
+    "id-ID": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net adalah platform informasi berbahasa Jerman terbesar untuk transmen dan transmaskulinitas lainnya yang menyediakan pengalaman dan tips tentang berbagai situasi hidup. Sumber daya ini bermanfaat bagi setiap orang yang ditetapkan sebagai perempuan saat lahir yang tidak sepenuhnya atau sebagian mengidentifikasi dengan klasifikasi awal ini. Kerabat transmen dan pihak lain yang tertarik juga dapat mendaftar."
+    },
+    "zh-CN": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net是最大的德语信息平台，为跨性别男性和其他跨性别男性提供各种生活情况的经验和提示。这个资源对于任何在出生时被指定为女性但并不完全或部分认同这个初始分类的人都有帮助。跨性别男性的亲属和其他感兴趣的人也可以注册。"
+    },
+    "de-DE": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net ist die größte deutschsprachige Informationsplattform für Transmänner und andere transmaskuline Personen, die Erfahrungen und Tipps zu verschiedenen Lebenssituationen bietet. Diese Ressource ist hilfreich für jede Person, die bei der Geburt als weiblich eingestuft wurde, sich aber nicht vollständig oder teilweise mit dieser ursprünglichen Klassifizierung identifiziert. Auch Angehörige von Transmännern und andere interessierte Parteien können sich registrieren."
+    },
+    "pt-PT": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net é a maior plataforma de informação em língua alemã para homens trans e outras transmasculinidades, fornecendo experiências e dicas sobre diversas situações de vida. Este recurso é útil para qualquer pessoa designada como mulher ao nascer que não se identifique totalmente ou parcialmente com esta classificação inicial. Parentes de homens trans e outras partes interessadas também podem se registrar."
+    },
+    "sw-KE": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net ni jukwaa kubwa zaidi la Kijerumani linalotoa habari kwa wanaume trans na transmasculinities zingine na uzoefu na vidokezo kuhusu hali mbalimbali za maisha. Rasilimali hii ni muhimu kwa mtu yeyote aliyepewa kike wakati wa kuzaliwa ambaye hajatambuliwa kikamilifu au sehemu na uainishaji huu wa mwanzo. Ndugu wa wanaume trans na vyama vingine vinavyovutiwa vinaweza pia kusajili."
+    },
+    "tr-TR": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net, transmen ve diğer transmaskülinler için çeşitli yaşam durumlarına ilişkin deneyimler ve ipuçları sağlayan en büyük Almanca konuşan bilgi platformudur. Bu kaynak, ilk sınıflandırma ile tamamen veya kısmen özdeşleşmeyen herhangi bir kişi tarafından doğumda kadın olarak atanmış olanlar için yararlıdır. Transmenlerin akrabaları ve diğer ilgili taraflar da kaydolabilir."
+    },
+    "ja-JP": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.netは、トランスメンや他のトランスマスキュリニティに関する最大のドイツ語情報プラットフォームであり、さまざまな生活状況についての経験やアドバイスを提供しています。このリソースは出生時に女性とされたが、その初期分類と完全にまたは部分的に一致していない人にとって有益です。トランスメンの親族や他の関心のある人々も登録できます。"
+    },
+    "ko-KR": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net은 트랜스맨과 다른 트랜스 마스큘리니티들에 대한 가장 큰 독일어 정보 플랫폼으로, 다양한 생활 상황에 대한 경험과 팁을 제공합니다. 이 자원은 출생 시 여성으로 지정된 사람 중 이 초기 분류를 완전히 또는 부분적으로 식별하지 않는 모든 사람에게 유용합니다. 트랜스맨의 친척이나 다른 관심있는 사람들도 등록할 수 있습니다."
+    },
+    "ru-RU": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net - это крупнейшая немецкоязычная информационная платформа для трансгендерных мужчин и других трансмаскулинных личностей, предоставляющая опыт и советы по различным жизненным ситуациям. Этот ресурс полезен для любого человека, которому при рождении был присвоен женский пол, но который полностью или частично не идентифицируется с этой первоначальной классификацией. Родственники трансгендерных мужчин и другие заинтересованные стороны также могут зарегистрироваться."
+    },
+    "ar-SA": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net هي أكبر منصة معلومات باللغة الألمانية للرجال المتحولين جنسياً وغيرهم من المستقيمين عبر الجنس، وتقدم تجارب ونصائح عن مختلف الأوضاع الحياتية. هذا المورد مفيد لأي شخص وُلدت له أو عينت له الإناثة عند الولادة ولا يتماهى بشكل كامل أو جزئي مع هذا التصنيف الأولي. يمكن أيضاً لأقارب الرجال المتحولين جنسياً وغيرهم من الأطراف المهتمة التسجيل."
+    },
+    "uk-UA": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net є найбільшою німецькомовною інформаційною платформою для трансчоловіків та інших трансмаскулінностей, що надає досвід та поради стосовно різних життєвих ситуацій. Цей ресурс є корисним для будь-якої особи, яку при народженні класифікували як жінку, але не повністю або частково не ідентифікує себе з цією початковою класифікацією. Родичі трансчоловіків та інші зацікавлені сторони також можуть реєструватися."
+    },
+    "vi-VN": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net là nền tảng thông tin tiếng Đức lớn nhất dành cho nam giới chuyển giới và các đặc tính chuyển giới khác, cung cấp trải nghiệm và lời khuyên về các tình huống sống đa dạng. Nguồn nguyên liệu này hữu ích cho bất kỳ ai được gán giới tính nữ khi sinh nhưng không hoàn toàn hoặc một phần tự nhận dạng với phân loại ban đầu này. Người thân của nam giới chuyển giới và các bên quan tâm khác cũng có thể đăng ký."
+    },
+    "mr-IN": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net ही जर्मन भाषेतील सर्वात मोठी माहिती प्लॅटफॉर्म आहे ज्यामुळे ट्रांसमन आणि इतर ट्रान्समेसकुलिनिटीज्सला विविध जीवन स्थितींवरील अनुभव आणि सल्लेच्या मिळतात. हा संसाधन जे कोणतीही व्यक्ती ज्याला जन्मावेळी स्त्री असल्याचे केलेले वांधळलेले वर्गीकरण याशी पूर्णकिंवा अर्धवटता ओळखत नाही अशी असेल तिच्यासाठी उपयुक्त आहे. ट्रान्समन यांच्या नातेवाईकांनी आणि इतर सर्वांनी नोंदवडी करण्याची सुविधा असेल."
+    },
+    "ta-IN": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net மிகப்பெரிய ஜெர்மன் மொழி தகவல் தளமாகும், இது விவித வாழ்க்கை சூழல்களில் அனுபவம் மற்றும் உதவிக்குறிப்புகளை வழங்குகிறது. இந்த வளாகம், பெண்ணாக வரைவிக்கப்பட்ட ஏதாவது நபருக்கு ஏற்கனவே முழுமையாக அல்லது ஒரு பகுதியாக அதன் ஆரம்ப வகைப்பாட்டில் அடையாளம் காணாத போது உதவியாக இருக்கும். மற்றவைகள் ஆகியவர்களையும், மற்ற ஆர்வத்துக் குழுவினரையும் பதிவு செய்யலாம்."
+    },
+    "te-IN": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net ట్రాన్స్‌మేన్లు మరియు ఇతర ట్రాన్స్‌మాస్కులినిటీల కోసం అతిపెద్ద జర్మన్ భాషలో ప్రయోజనాన్ని అందించే వేదిక. ఈ వనరు ఎవరేనా మహిళేగా జననాన్ని తొడ్పడిన వ్యక్తి మొత్తం లేదా పార్షిల్లుగా ఈ ప్రారంభ వర్గీకరణతో అభిప్రతిపదించదు. ట్రాన్స్‌మేన్ల బంధువులు మరియు ఇతర ఆసక్త పక్షాలు కూడా నమోదు చేసే ఛాంస్ ఉంది."
+    },
+    "ur-PK": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net ایک بڑا جرمن بولنے والے معلوماتی پلیٹ فارم ہے جو ترانسمینز اور دیگر ٹرانسمصولنٹیوں کے لیے تجربات اور مختلف زندگی کی صورتحالوں پر ٹپس فراہم کرتا ہے. یہ وسیلہ کسی بھی شخص کے لیے مددگار ہے جسے پیدائش کے وقت خاتون قرار دیا گیا ہو اور وہ اس ابتدائی درجے کی شناخت سے مکمل یا جزوی طور پر اتفاق نہیں کرتا. ترانسمینز کے رشتہ داروں اور دیگر دلچسپی رکھنے والے افراد بھی رجسٹر کر سکتے ہیں."
+    },
+    "bn-BD": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net হলো জার্মান ভাষাভাষী ট্রান্সমেন এবং অন্যান্য ট্রান্সমাসক্যুলিনিটিগুলির জন্য তথ্য প্ল্যাটফর্মের সবচেয়ে বড়। এখানে বিভিন্ন জীবনের অবস্থানগুলিতে অভিজ্ঞতা এবং টিপস প্রদান করা হয়। এই সংস্থানটি উপকারী যে কোনও ব্যক্তির জন্য যারা জন্মের পরে মহিলা হিসাবে নিয়মিত হয়ে ওঠে এবং এর সাথে সম্পূর্ণ বা আংশিক ভাবে সংযুক্ত হতে চান না। ট্রান্সমেনের আত্মীয়দের এবং অন্যান্য আগ্রহী পার্টিগণ এখানে নিবন্ধন করতে পারেন।"
+    },
+    "hi-IN": {
+      "title": "FTM-Portal.net",
+      "description": "FTM-Portal.net सबसे बड़ा जर्मन भाषा वाला जानकारी मंच है ट्रांसमेन और अन्य ट्रांसमस्कुलिनिटीज के लिए जो विभिन्न जीवन संदर्भों पर अनुभव और सुझाव प्रदान करता है। यह संसाधन उपयोगी है किसी भी व्यक्ति के लिए जिसे जन्म के समय महिला के रूप में अभिप्रेत किया गया था जो इस प्रारंभिक वर्गीकरण के साथ पूरी तरह या आंशिक रूप से पहचानता नहीं है। ट्रांसमेन के सम्बंधियों और अन्य रुचिपूर्ण पक्ष भी पंजीकरण कर सकते हैं।"
+    }
+  }
+}

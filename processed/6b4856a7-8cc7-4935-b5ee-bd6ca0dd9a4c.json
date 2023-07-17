@@ -1,0 +1,29 @@
+{
+  "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+  "title": "Plume",
+  "description": "The largest healthcare provider for the trans and nonbinary community offering a range of services including gender-affirming hormone therapy and transition support to medications for anxiety and depression. Services are provided by a trans-led team with a deep understanding of the unique healthcare needs of the community, aimed at making you feel comfortable, seen and cared for. A place where you can be your authentic self and get the care you need.",
+  "slug": "plume-transgender-nonbinary-healthcare",
+  "externalUrl": "https://getplume.co/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitter": "https://twitter.com/getplume",
+    "instagram": "https://www.instagram.com/getplume/",
+    "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+    "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+    "tiktok": "https://www.tiktok.com/@get.plume"
+  }
+}

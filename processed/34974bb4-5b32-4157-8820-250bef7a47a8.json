@@ -1,0 +1,25 @@
+{
+  "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+  "title": "Australian Transgender Support Association of Queensland",
+  "description": "Queensland's peak body representing transgender, gender diverse, and non-binary individuals since 1990. They provide support, advocacy, services and organize social events to serve the transgender community.",
+  "slug": "australian-transgender-support-association-of-queensland",
+  "externalUrl": "https://www.atsaq.org.au/",
+  "tags": [
+    "non-binary",
+    "support-groups",
+    "community-stories",
+    "social-services"
+  ],
+  "address": "Booval QLD 4304, Australia",
+  "phoneNumber": "(07) 3705 7663",
+  "country": "AU",
+  "provinceOrState": "QLD",
+  "city": "Booval",
+  "county": "City of Ipswich",
+  "latLng": [
+    -27.614358,
+    152.788861
+  ],
+  "email": "parker@atsaq.org.au",
+  "socialMedia": null
+}

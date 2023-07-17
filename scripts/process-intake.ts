@@ -50,13 +50,22 @@ async function translateJSON(id: string, jsonObject: any) {
         json: JSON.stringify({ title, description }, null, 2),
       });
 
-      const response = await model.call(input);
-
-      // match the json defined by the curly braces
-      let translatedJson = response.match(/\{.*\}/s)?.[0]?.trim();
+      let translatedJson: string | undefined;
       let translatedJsonObject: any;
+      let response: string | undefined;
 
-      if (!translatedJson) {
+      try  {
+        response = await model.call(input);
+
+        // match the json defined by the curly braces
+        translatedJson = response.match(/\{.*\}/s)?.[0]?.trim();
+      } catch (err) {
+        console.error(
+          `${id} - ${language.language}: Could not translate JSON: ${input}`
+        );
+      }
+
+      if (response && !translatedJson) {
         try {
           translatedJsonObject = JSON.parse(response.trim());
         } catch (err) {
@@ -64,7 +73,7 @@ async function translateJSON(id: string, jsonObject: any) {
             `${id} - ${language.language}: Could not extract translated JSON from response: ${response}`
           );
         }
-      } else {
+      } else if (translatedJson) {
         try {
           translatedJsonObject = JSON.parse(translatedJson);
         } catch (err) {
@@ -109,6 +118,8 @@ async function processFiles() {
 
         const id = jsonObject.id ?? path.basename(file, ".json");
 
+        console.log(`Processing ${id}...`);
+
         // Create translated version
         const translatedJson = await translateJSON(id, jsonObject);
 
@@ -126,6 +137,8 @@ async function processFiles() {
 
         // remove the original file from the "/intake" directory
         await unlink(filePath);
+
+        console.log(`Finished processing ${id}!`);
       }
     }
   } catch (err) {

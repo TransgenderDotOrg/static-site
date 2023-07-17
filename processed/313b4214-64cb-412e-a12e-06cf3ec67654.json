@@ -1,0 +1,26 @@
+{
+  "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+  "title": "Open Doors Youth Service",
+  "description": "Supporting LGBTIQAP+ youth and their families in South East Queensland. Providing services like mental health counselling, group therapy programs, social supports, providing essential food & sanitary items, securing stable employment and housing, and conducting training & education with schools, workplaces, and families.",
+  "slug": "open-doors-youth-service",
+  "externalUrl": "https://www.opendoors.net.au/",
+  "tags": [
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "QLD",
+  "city": null,
+  "county": "South East Queensland",
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+  }
+}

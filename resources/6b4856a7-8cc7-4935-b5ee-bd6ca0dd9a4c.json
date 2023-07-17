@@ -1,0 +1,113 @@
+{
+  "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+  "slug": "plume-transgender-nonbinary-healthcare",
+  "externalUrl": "https://getplume.co/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitter": "https://twitter.com/getplume",
+    "instagram": "https://www.instagram.com/getplume/",
+    "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+    "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+    "tiktok": "https://www.tiktok.com/@get.plume"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Plume",
+      "description": "The largest healthcare provider for the trans and nonbinary community offering a range of services including gender-affirming hormone therapy and transition support to medications for anxiety and depression. Services are provided by a trans-led team with a deep understanding of the unique healthcare needs of the community, aimed at making you feel comfortable, seen and cared for. A place where you can be your authentic self and get the care you need."
+    },
+    "pt-PT": {
+      "title": "Plume",
+      "description": "O maior provedor de saúde para a comunidade trans e não binária oferecendo uma gama de serviços, incluindo terapia hormonal de afirmação de gênero e suporte à transição para medicamentos para ansiedade e depressão. Os serviços são fornecidos por uma equipe liderada por transgêneros com um profundo entendimento das necessidades de saúde únicas da comunidade, com o objetivo de fazer você se sentir confortável, visto e cuidado. Um lugar onde você pode ser seu autêntico eu e obter o cuidado que precisa."
+    },
+    "sw-KE": {
+      "title": "Plume",
+      "description": "Mtoaji mkubwa wa huduma za afya kwa jamii ya trans na nonbinary anayetoa huduma anuwai ikiwa ni pamoja na tiba ya homoni inayosisitiza jinsia na msaada wa mpito kwa dawa za wasiwasi na unyogovu. Huduma zinatolewa na timu inayoongozwa na trans na uelewa mkubwa wa mahitaji ya huduma ya kipekee ya kiafya ya jamii, yanalenga kukufanya ujisikie starehe, unaonekana na unajaliwa. Sehemu ambapo unaweza kuwa binafsi yako halisi na kupata huduma unayohitaji."
+    },
+    "id-ID": {
+      "title": "Plume",
+      "description": "Penyedia layanan kesehatan terbesar untuk komunitas trans dan nonbinary menawarkan berbagai layanan termasuk terapi hormon penegasan gender dan dukungan transisi hingga obat-obatan untuk kecemasan dan depresi. Layanan disediakan oleh tim yang dipimpin trans dengan pemahaman mendalam tentang kebutuhan kesehatan unik dari komunitas, bertujuan membuat Anda merasa nyaman, dilihat dan dirawat. Sebuah tempat di mana Anda bisa menjadi diri autentik Anda dan mendapatkan perawatan yang Anda butuhkan."
+    },
+    "de-DE": {
+      "title": "Plume",
+      "description": "Der größte Gesundheitsdienstleister für die Trans- und nicht-binäre Gemeinschaft, der eine Reihe von Dienstleistungen anbietet, einschließlich geschlechtsbestätigender Hormontherapie und Übergangsunterstützung bis hin zu Medikamenten für Angst und Depression. Die Dienstleistungen werden von einem Trans-geführten Team mit tiefem Verständnis für die besonderen Gesundheitsbedürfnisse der Gemeinschaft angeboten, mit dem Ziel, dass Sie sich wohl, gesehen und gepflegt fühlen. Ein Ort, an dem Sie Ihr authentisches Selbst sein und die Pflege erhalten können, die Sie benötigen."
+    },
+    "fr-FR": {
+      "title": "Plume",
+      "description": "Le plus grand prestataire de soins de santé pour la communauté trans et non binaire offrant une gamme de services incluant la thérapie hormonale affirmant le genre et le soutien à la transition vers des médicaments pour l'anxiété et la dépression. Les services sont fournis par une équipe dirigée par des transgenres qui ont une compréhension profonde des besoins de soins de santé uniques de la communauté, visant à vous faire sentir à l'aise, vu et soigné. Un endroit où vous pouvez être votre moi authentique et recevoir les soins dont vous avez besoin."
+    },
+    "tr-TR": {
+      "title": "Plume",
+      "description": "Trans ve nonbinary topluluğu için en büyük sağlık hizmeti sağlayıcısıdır ve cinsiyet onaylayıcı hormon terapisi ve geçiş desteği dahil olmak üzere bir dizi hizmet sunar. Ayrıca, anksiyete ve depresyon için ilaçlar da vardır. Hizmetler, topluluğun benzersiz sağlık hizmeti ihtiyaçlarına derinden anlayan ve sizi rahat, görülmüş ve bakılmış hissettirmeyi hedefleyen bir trans öncülüğünde bir ekip tarafından sağlanır. Kendi otantik benliğiniz olabileceğiniz ve ihtiyaç duyduğunuz bakımı alabileceğiniz bir yer."
+    },
+    "es-ES": {
+      "title": "Plume",
+      "description": "El mayor proveedor de atención médica para la comunidad trans y no binaria que ofrece una gama de servicios que incluyen terapia hormonal afirmativa de género y apoyo para la transición a medicamentos para la ansiedad y la depresión. Los servicios son proporcionados por un equipo liderado por trans, con una profunda comprensión de las necesidades únicas de atención médica de la comunidad, con el objetivo de hacerte sentir cómodo, visto y cuidado. Un lugar donde puedes ser tu auténtico yo y obtener la atención que necesitas."
+    },
+    "ja-JP": {
+      "title": "Plume",
+      "description": "トランスとノンバイナリーコミュニティに最大規模のヘルスケアを提供しているプルームは、ジェンダー確認のホルモン療法からトランジションサポート、不安とうつ病の薬まで、幅広いサービスを提供しています。サービスは、コミュニティの独自のヘルスケアニーズを深く理解したトランス主導のチームによって提供され、あなたが快適で、見えて、世話されていると感じることを目指しています。あなたが本当の自分でいられ、必要なケアを得ることができる場所です。"
+    },
+    "zh-CN": {
+      "title": "Plume",
+      "description": "为跨性别和非二元性别社区提供最大规模的医疗服务，提供一系列服务，包括确认性别的荷尔蒙治疗和过渡支持，以及用于焦虑和抑郁的药物。服务由拥有深入理解社区独特医疗需求的跨性别领导团队提供，旨在使您感到舒适、被看见和被关怀。这是一个您可以做自己，得到需要的照顾的地方。"
+    },
+    "vi-VN": {
+      "title": "Plume",
+      "description": "Nhà cung cấp dịch vụ chăm sóc sức khỏe lớn nhất cho cộng đồng trans và nonbinary, cung cấp một loạt dịch vụ bao gồm liệu pháp nội tiết cân đối giới tính và hỗ trợ chuyển đổi đến thuốc cho lo âu và trầm cảm. Các dịch vụ được cung cấp bởi một nhóm dẫn dắt bởi trans với sự hiểu biết sâu sắc về những nhu cầu chăm sóc sức khỏe độc đáo của cộng đồng, nhằm khiến bạn cảm thấy thoải mái, được nhìn thấy và quan tâm. Một nơi mà bạn có thể là chính mình và nhận được sự chăm sóc mà bạn cần."
+    },
+    "ar-SA": {
+      "title": "Plume",
+      "description": "أكبر مقدم خدمات صحية للمجتمع العابر جنسيا وغير الثنائي ويقدم مجموعة من الخدمات تتضمن العلاج الهرموني المؤكد للجنس ودعم الانتقال إلى أدوية للقلق والاكتئاب. تتم تقديم الخدمات من قبل فريق موجه بناءً على التحول الجنسي له بفهم عميق لاحتياجات الرعاية الصحية الفريدة للمجتمع، بهدف جعلك تشعر بالراحة و أنك مرئي و معتنى به. مكان حيث يمكنك أن تكون نفسك الحقيقية وتحصل على الرعاية التي تحتاجها."
+    },
+    "uk-UA": {
+      "title": "Plume",
+      "description": "Найбільший постачальник медичних послуг для трансгендерної та не-бінарної спільноти, який пропонує широкий спектр послуг, включаючи гормональну терапію підтвердження статі та підтримку переходу до ліків для тривоги та депресії. Послуги надаються командою, яка складається з трансгендерів і має глибоке розуміння унікальних медичних потреб спільноти, спрямованих на те, щоб ви почувалися комфортно, поміченими та піклувалися. Місце, де ви можете бути своїм справжнім 'я' і отримати необхідний догляд."
+    },
+    "ru-RU": {
+      "title": "Plume",
+      "description": "Крупнейший поставщик медицинских услуг для трансгендерного и небинарного сообщества, предлагающий широкий спектр услуг, включая гормональную терапию, подтверждающую гендерную принадлежность, и поддержку в переходный период, а также лекарства от тревоги и депрессии. Услуги предоставляются командой, состоящей из трансгендеров, которая имеет глубокое понимание уникальных медицинских потребностей сообщества, и направлены на то, чтобы вы чувствовали себя комфортно, видимым и заботимым. Место, где вы можете быть собой и получить необходимую помощь."
+    },
+    "ko-KR": {
+      "title": "Plume",
+      "description": "트랜스와 논바이너리 커뮤니티를 위한 가장 큰 헬스케어 공급자로서, 성 정체성을 확정하는 호르몬 치료와 전환 지원부터 불안 및 우울증 약물까지 다양한 서비스를 제공합니다. 서비스는 커뮤니티의 독특한 헬스케어 필요성에 대해 깊은 이해를 가진 트랜스 주도 팀이 제공하며, 여러분이 편안하게 느낄 수 있고, 인정받고, 돌봄을 받을 수 있도록 목표를 두고 있습니다. 여러분이 진정한 자신을 표현하고 필요한 돌봄을 받을 수 있는 곳입니다."
+    },
+    "hi-IN": {
+      "title": "Plume",
+      "description": "ट्रांस और नॉनबाइनरी समुदाय के लिए सबसे बड़ा स्वास्थ्य सेवा प्रदाता, जिसमें लिंग पुष्टिकर हार्मोन थेरेपी और ट्रांजिशन समर्थन से लेकर चिंता और उदासी की दवाओं तक की श्रृंखला शामिल होती है। सेवाएं एक ट्रांस-आगे दल द्वारा प्रदान की जाती हैं, जिसमें समुदाय की अद्वितीय स्वास्थ्य सेवा की आवश्यकताओं की गहरी समझ होती है, जिसका उद्देश्य आपको आरामदायक, देखा जाना और देखभाल किया जाना है। एक ऐसी जगह जहां आप अपने विशुद्ध रूप में हो सकते हैं और आपको जो देखभाल की आवश्यकता हो वह प्राप्त कर सकते हैं।"
+    },
+    "ur-PK": {
+      "title": "Plume",
+      "description": "ٹرانس اور غیر ثنائی کمیونٹی کے لئے سب سے بڑے صحت کی فراہمی کرنے والے میں سے ایک، جس میں جنس کی توثیقی ہارمون تھیراپی اور ترقی پزیر تحول تک کے خدمات شامل ہیں میرے گبھراہٹ اور ڈپریشن کے لئے دوائوں کے ساتھ. خدمات کو ٹرانس لڈ ٹیم کی طرف سے فراہم کیا جاتا ہے جو کمیونٹی کے منفرد صحت کی ضروریات کو سمجھنے کی پیچیدگی کی آمیختہ ادائیگی کرتی ہے، تاکہ آپ خود کو آرام دہ، دیکھا گیا اور دیکھ بھال کیا گیا محسوس کریں. ایک جگہ جہاں آپ اپنے اصلی آپ بن سکتے ہیں اور آپ کو ضرورت ہے خیال رکھیں."
+    },
+    "mr-IN": {
+      "title": "Plume",
+      "description": "ट्रान्स आणि नॉनबायनरी समुदायासाठी सर्वात मोठा आरोग्य सेवा प्रदाता, ज्यामध्ये लिंग पुष्टी हॉर्मोन चिकित्सा आणि संक्रमण सहाय्यासह चिंता आणि उदासीनता साठीच्या औषधांची विविध सेवा दिली जाते. ट्रान्स-वयस्कांच्या एक टीमने सेवा प्रदान केली आहे, ज्यामध्ये समुदायाच्या अद्वितीय आरोग्यसेवा आवश्यकतांची सामग्री समजली आहे, ज्याच्या उद्दीष्टाने तुम्हाला सुखकर, दृष्टीघेतली आणि देखील केली जाऊ शके. तुम्ही तुमची मूळ स्वतःम्हणून असू शकता आणि तुम्हाला आवश्यक असलेली काळजी घ्यायला एक ठिकाण."
+    },
+    "bn-BD": {
+      "title": "Plume",
+      "description": "ট্রান্স এবং ননবাইনারি সম্প্রদায়ের জন্য সর্ববৃহৎ স্বাস্থ্যসেবা প্রদানকারী যা লিঙ্গ-সমর্থনশীল হরমোন থেরাপি এবং পরিবর্তনের সমর্থন থেকে চিন্তাঝ্বাল এবং বিষন্নতার জন্য ঔষধ সরবরাহ করে। সেবা সরবরাহ করে এমন একটি ট্রান্স-নেতৃত্বাধীন দল যারা সম্প্রদায়ের অনন্য স্বাস্থ্য যত্নের চাহিদা সম্পর্কে গভীর ধারণা রাখে, আপনাকে সুবিধাজনক, দৃষ্টিগোচর এবং যত্নিত অনুভব করার লক্ষ্যে। যেখানে আপনি আপনার সত্যিকারের আত্মা হিসেবে থাকতে এবং আপনার প্রয়োজনীয় যত্ন পেতে পারেন।"
+    },
+    "ta-IN": {
+      "title": "Plume",
+      "description": "மாற்றின் மற்றும் ஆண் அல்லாத சமூகத்துக்கு அதிகமான சுகாதார வழங்குபவர் வகைப்பாட்டு சேவைகளைத் தொகுத்தது, ஆணை உறுதிப்படுத்தி ஹார்மோன் சிகிச்சையையும், மாற்றுதல் ஆதரவையும், அழுக்கடைப்பு மற்றும் மன மேலாண்மைக்கு மருந்துகளையும் வழங்குகின்றது. சேவைகள் ஒரு மாற்றுதலைவியால் அமைந்த குழுவால் வழங்கப்படுகின்றன, சமூகத்தின் தனிப்பட்ட சுகாதார துறைகளின் ஆழமான அறிவுடன், உங்களுக்கு ஆராய்ச்சி, கண்காணப்பட்டு மற்றும் பராமரிக்கப்பட்டு உள்ளீர்கள் என்று உண்மையில் உண்டாக்குவதைக் குறிக்கும். உங்கள் உண்மையான சுவையை வெளிப்படுத்தும் மற்றும் உங்களுக்கு தேவையான பராமரிப்பை பெறும் இடம்."
+    },
+    "te-IN": {
+      "title": "Plume",
+      "description": "మారుపు మరియు అసంప్రదాయ సముదాయానికి అతిపెద్ద ఆరోగ్య పొందని అందిస్తున్నది, అది అంగీకారమైన హార్మోన్ చికిత్సను మొదలుపెట్టి, ఆంగ్లియ మరియు మందస్థితికి మందుల వరకూ ప్రయాణ మద్దతు విధానాలను అందిస్తుంది. సముదాయం యొక్క అద్వితీయ ఆరోగ్య అవసరాలను ఆళించే లోతైన అందమైన అరివితో సేవలు అందిస్తాయి, మీను ఆనుకూలమైనది, దృష్టిస్తారు మరియు ప్రేమతో ఆదుకుంటారు. మీరు మీ అంతర్ముఖ స్వభావాన్ని ఏర్పడగలిగే ప్రదేశం మరియు మీకు అవసరమైన చికిత్సను పొందగలిగే చోటు."
+    }
+  }
+}

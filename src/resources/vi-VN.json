@@ -36,6 +36,29 @@
     "description": "Trung tâm Tự hào Hạt San Mateo là một tổ chức mô hình hợp tác và là nơi dừng chân cho cộng đồng LGBTQ+. Chúng tôi cung cấp các chương trình và dịch vụ mạnh mẽ để hỗ trợ các thành viên của cộng đồng LGBTQ+ ở mọi lứa tuổi, bao gồm giáo dục, đào tạo, sự kiện cộng đồng, nhóm hỗ trợ bạn bè, lập trình hàng ngày, liệu pháp lâm sàng, và quản lý trường hợp."
   },
   {
+    "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
+    "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
+    "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "youth-services",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Hiểu và Hỗ trợ Chuyển giới ở Trẻ em và Cha Mẹ",
+    "description": "Bài viết tiếng Đức này cung cấp một hướng dẫn toàn diện cho các gia đình đang đối mặt với việc chuyển giới ở cha mẹ hoặc trẻ em. Nó cung cấp thông tin về các quy trình và nguồn lực chính, cung cấp hướng dẫn từ việc hiểu và chấp nhận tình hình đến việc theo đuổi các phương pháp điều trị liên quan."
+  },
+  {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
     "slug": "queerspace",
     "externalUrl": "https://www.queerspace.org.au/",
@@ -80,6 +103,28 @@
     "description": "Một cộng đồng trực tuyến sôi động và trung tâm kiến thức cho những người quan tâm đến việc tự tạo ra liệu pháp thay thế hormon (HRT). Trang web của họ tập trung vào việc cung cấp một không gian an toàn và bao quát nơi mọi người có thể tiếp cận thông tin, nguồn lực, và hỗ trợ cho việc tự điều khiển HRT. Dù bạn đang khám phá các phương pháp thay thế, tìm kiếm hướng dẫn về liều lượng và quản lý, hay chỉ đơn giản muốn kết nối với những người chia sẻ những trải nghiệm tương tự, DIYHRT.cafe mang đến một nguồn thông tin quý giá, câu chuyện cá nhân, và lời khuyên chuyên môn để giúp bạn ra quyết định thông suốt về sức khỏe và cuộc sống của bạn."
   },
   {
+    "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
+    "slug": "stuttgarter-declaration-gender-self-determined",
+    "externalUrl": "https://die-erklaerung.de/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": "BW",
+    "city": "Stuttgart",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Tuyên bố Stuttgarter: Giới tính. Tự quyết định.",
+    "description": "Tuyên bố Stuttgarter nhấn mạnh sự quan trọng của việc tôn trọng người chuyển giới và người song tính. Nó nhấn mạnh ý nghĩa của quyền con người trong lĩnh vực y tế, tâm lý trị liệu, tư vấn, và dịch vụ hỗ trợ cho người chuyển giới và người song tính. Được phát triển bởi các bác sĩ, nhà tâm lý trị liệu, nhà hoạt động quyền con người và các cá nhân bị ảnh hưởng, nó nhấn mạnh quyền tự quyết định giới tính của mình và nghĩa vụ của các phương pháp điều trị y tế phải tôn trọng sự tự quyết này."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -102,6 +147,36 @@
     },
     "title": "Nhóm Collective DEiFYQTIBIPOC cư ngụ tại vùng Ngunnawal, Ngunawal và Ngambri",
     "description": "Đây là một cuộc họp tập thể cho cộng đồng DEiFYQTIBIPOC. Nhóm cũng sẽ thảo luận về Zine Masculinities Queer và danh sách nhạc riêng của họ."
+  },
+  {
+    "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+    "slug": "bundesverband-trans",
+    "externalUrl": "https://www.bundesverband-trans.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+    "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+    "country": "DE",
+    "provinceOrState": "BE",
+    "city": "Berlin",
+    "latLng": [
+      52.4890033,
+      13.3333558
+    ],
+    "email": "info@bv-trans.de",
+    "socialMedia": null,
+    "town": "Bezirk Charlottenburg-Wilmersdorf",
+    "title": "Bundesverband Trans* e.V.",
+    "description": "Bundesverband Trans* e.V. là một hội quốc gia đấu tranh cho quyền lợi của những người trans* tại Đức, bao gồm những người tự xác định là chuyển giới, chuyển giới, giới tính không rõ ràng, không nhị phân và trans*. Họ nhằm mục tiêu cải cách pháp lý, chính trị và y tế để cải thiện điều kiện cho cộng đồng này bằng cách tổ chức các buổi học, cung cấp tư vấn và xuất bản."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -147,6 +222,79 @@
     "description": "Một nền tảng trực tuyến toàn diện dành cho những người đang chuyển đổi từ nữ sang nam (FTM). Trang web của họ phục vụ như một nguồn tài nguyên đáng tin cậy, cung cấp một lượng lớn thông tin, hướng dẫn và kết nối cộng đồng cho những người đang bắt đầu hành trình FTM của mình. Từ lời khuyên thực tế về liệu pháp hormone và tùy chọn phẫu thuật đến hỗ trợ sức khỏe tâm thần và câu chuyện cá nhân, FTMGuide.org nhằm trao quyền cho các cá nhân bằng kiến thức và tài nguyên họ cần để điều hướng quá trình chuyển đổi của mình với sự tự tin và rõ ràng."
   },
   {
+    "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+    "slug": "black-rainbow",
+    "externalUrl": "https://blackrainbow.org.au/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Darwin NT, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin",
+    "latLng": [
+      -12.4637333,
+      130.8444446
+    ],
+    "email": null,
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/blackrainbowaus/",
+      "twitter": "https://twitter.com/BlkRnBow",
+      "facebook": "https://www.facebook.com/blackrainbowaus/",
+      "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+      "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+    },
+    "title": "Cầu vồng Đen",
+    "description": "Cầu vồng Đen là một doanh nghiệp xã hội tình nguyện quốc gia của người Aboriginal và đảo Torres Strait LGBQTIA+SB tập trung vào sức khỏe và phúc lợi của cộng đồng của họ. Doanh nghiệp này cố gắng mở rộng dịch vụ của mình, mặc dù không được tài trợ, thông qua quyên góp, dịch vụ trả phí và bán tài liệu giáo dục. Họ khởi xướng các dự án tiếp cận, hỗ trợ các sự kiện xã hội và gom kinh phí cho việc nâng cao cộng đồng và nghiên cứu về ảnh hưởng sức khỏe."
+  },
+  {
+    "id": "19d3bf2d-04ed-46e6-ac5b-b2e3c26a7dd1",
+    "slug": "minus-eighteen",
+    "externalUrl": "https://www.minus18.org.au/",
+    "tags": [
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Minus18",
+    "description": "Minus18 là tổ chức từ thiện của Úc nhằm cải thiện cuộc sống của giới trẻ LGBTQIA+. Họ giải quyết vấn đề cô lập xã hội bằng cách tạo ra không gian mà các bạn trẻ có thể thuộc về, được tôn vinh và kết bạn. Họ cũng cung cấp đào tạo, tài nguyên và chiến dịch kỹ thuật số LGBTQIA+, với mục tiêu tạo ra một Úc không phân biệt đối xử. Mục tiêu của họ là trang bị cho các bạn trẻ những kỹ năng và cơ hội cần thiết để đứng đầu trong việc thúc đẩy thay đổi."
+  },
+  {
+    "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+    "slug": "us-trans-survey",
+    "externalUrl": "https://www.ustranssurvey.org/",
+    "tags": [
+      "education-awareness",
+      "community-stories",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "ustranssurvey@transequality.org",
+    "socialMedia": null,
+    "title": "Khảo sát U.S. Trans",
+    "description": "Khảo sát U.S. Trans là khảo sát lớn nhất về người chuyển giới, do người chuyển giới thực hiện, tại Hoa Kỳ. Nó ghi lại cuộc sống và trải nghiệm của các người chuyển giới và không nhị phân từ 16 tuổi trở lên tại Hoa Kỳ và các lãnh thổ của Hoa Kỳ. Khảo sát và các báo cáo của nó đã là một nguồn tài nguyên quan trọng, bao gồm các báo cáo về trải nghiệm của người da màu và theo bang, giúp định hình tương lai thông qua giọng nói của người chuyển giới."
+  },
+  {
     "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
     "slug": "transfemscienceorg",
     "externalUrl": "https://transfemscience.org",
@@ -157,6 +305,180 @@
     ],
     "title": "transfemscience.org",
     "description": "Một nền tảng trực tuyến tiên phong dành riêng để cung cấp nghiên cứu, giáo dục và nguồn lực dựa trên bằng chứng cho cộng đồng người chuyển giới và không nhị phân, với một trọng tâm đặc biệt vào liệu pháp hormone nữ hóa (FHT). Trang web của họ phục vụ như một trung tâm quan trọng cho những người đang tìm kiếm thông tin tin cậy và cập nhật về các khía cạnh y khoa, sinh lý học, và tâm lý học của FHT. Thông qua bộ sưu tập toàn diện của họ về các nghiên cứu được xem xét bởi đồng nghiệp, các bài viết của chuyên gia, và các hướng dẫn thực tế, trang web của họ trao quyền cho các cá nhân để đưa ra quyết định thông suốt về quá trình chuyển đổi và sức khỏe của họ."
+  },
+  {
+    "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+    "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+    "externalUrl": "https://www.nonbinary.ch/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "youtubeUrl": "https://www.youtube.com/channel/",
+      "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+    },
+    "title": "nonbinary.ch - Một nguồn tài nguyên cho những người không nhị phân",
+    "description": "Một trang web Thụy Sĩ toàn diện cung cấp thông tin và tài nguyên liên quan đến giới tính không nhị phân. Nó được dự định để giúp những người đang khám phá giới tính của bản thân, hoặc những người tương tác với những người không nhị phân, bằng cách làm cho kiến thức cơ bản dễ dàng tiếp cận. Trang web cũng là nơi chứa blog, bản tin và liên kết đến các nguồn tài nguyên bên ngoài liên quan như sách, phim và nghiên cứu."
+  },
+  {
+    "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
+    "slug": "the-pinnacle-foundation",
+    "externalUrl": "https://thepinnaclefoundation.org/",
+    "tags": [
+      "education-awareness",
+      "financial-aid-scholarships",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Quỹ Pinnacle",
+    "description": "Quỹ Pinnacle là một tổ chức từ thiện giáo dục của Úc cung cấp học bổng, hướng dẫn và cơ hội cho các thanh niên LGBTQIA+ Úc. Học bổng được trao cho việc học fulltime tại các cơ sở giáo dục đại học công lập tại Úc."
+  },
+  {
+    "id": "2f23a24b-2e9d-4f83-9808-1e69981fba12",
+    "slug": "ftm-portal-net",
+    "externalUrl": "https://ftm-portal.net",
+    "tags": [
+      "transmasculine",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "FTM-Portal.net",
+    "description": "FTM-Portal.net là nền tảng thông tin tiếng Đức lớn nhất dành cho nam giới chuyển giới và các đặc tính chuyển giới khác, cung cấp trải nghiệm và lời khuyên về các tình huống sống đa dạng. Nguồn nguyên liệu này hữu ích cho bất kỳ ai được gán giới tính nữ khi sinh nhưng không hoàn toàn hoặc một phần tự nhận dạng với phân loại ban đầu này. Người thân của nam giới chuyển giới và các bên quan tâm khác cũng có thể đăng ký."
+  },
+  {
+    "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+    "slug": "tgns-transgender-network-switzerland",
+    "externalUrl": "https://www.tgns.ch/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/transgenderch",
+      "twitterUrl": "https://twitter.com/tgnsch",
+      "instagramUrl": "https://www.instagram.com/tgns.ch/"
+    },
+    "title": "TGNS Mạng lưới Transgender Thụy Sĩ",
+    "description": "TGNS là một mạng lưới dành cho những người chuyển giới ở Thụy Sĩ. Họ cung cấp các hỗ trợ pháp lý, làm việc để cải cách chăm sóc sức khỏe và cung cấp các nguồn lực về sức khỏe tâm thần cho cộng đồng người chuyển giới. Họ tham gia vào nhiều chương trình nâng cao nhận thức và giáo dục nhằm tạo ra một môi trường hỗ trợ và bao bọc cho các cá nhân xác định bản thân là nam giới chuyển giống, nữ giới chuyển giới và không phân biệt giới tính. TGNS cũng có các dịch vụ cho giới trẻ, các nhóm hỗ trợ, và nguồn lực cho gia đình và đối tác của các cá nhân chuyển giới."
+  },
+  {
+    "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+    "slug": "medicijnkosten-medication-costs-information",
+    "externalUrl": "https://www.medicijnkosten.nl/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Medicijnkosten - Thông tin về Chi phí Dược phẩm",
+    "description": "Một nền tảng thông tin cung cấp chi tiết về chi phí dược phẩm. Nó cung cấp dữ liệu về việc hoàn lại chi phí cho các loại thuốc và các lựa chọn thay thế dành cho những người có thể không chi trả được cho một số loại thuốc. Điều này quan trọng cho việc lập kế hoạch tài chính cho chăm sóc sức khỏe."
+  },
+  {
+    "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+    "slug": "open-doors-youth-service",
+    "externalUrl": "https://www.opendoors.net.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": null,
+    "county": "South East Queensland",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+    },
+    "title": "Dịch Vụ Giới Trẻ Open Doors",
+    "description": "Hỗ trợ thanh thiếu niên LGBTIQAP+ và gia đình họ ở South East Queensland. Cung cấp các dịch vụ như tư vấn sức khỏe tâm thần, chương trình liệu pháp nhóm, hỗ trợ xã hội, cung cấp thực phẩm & vật phẩm vệ sinh cần thiết, đảm bảo việc làm ổn định và nhà ở, và tiến hành đào tạo & giáo dục với các trường học, nơi làm việc, và gia đình."
+  },
+  {
+    "id": "313cd7c6-1051-437c-a1d1-b1297f4c49a8",
+    "slug": "stonewall-medical-centre-sexual-health-clinic-brisbane",
+    "externalUrl": "https://www.stonewall.com.au/",
+    "tags": [
+      "healthcare",
+      "HIV",
+      "STI",
+      "sex-workers",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "52 Newmarket Rd, Windsor QLD 4030, Australia",
+    "phoneNumber": "07 3857 1222",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Windsor",
+    "county": "Brisbane",
+    "latLng": [
+      -27.4378562,
+      153.0279458
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Trung tâm Y tế Stonewall và Phòng Khám Sức khỏe Tình dục – Brisbane",
+    "description": "Trung tâm Y tế Stonewall tự hào phục vụ sức khỏe tổng quát và sức khỏe tình dục của cộng đồng lesbian, gay, người đồng tính hai giới, người chuyển giới, người đa giới tính và người đang còn hoài nghi / cảm thấy khác biệt (LGBTQIA+), nhân viên làm công việc tình dục và cộng đồng người đồng tính / giới tính khác từ năm 1995. Phòng khám cung cấp nhiều dịch vụ bao gồm HIV PEP & PrEP, kiểm tra STI, tư vấn cho nhân viên làm công việc tình dục, chăm sóc y tế cho người chuyển giới và người đa giới tính, theo dõi chất kích thích & thuốc tăng cường hình ảnh, và giới thiệu nguồn tài nguyên khác."
   },
   {
     "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
@@ -181,6 +503,104 @@
     "socialMedia": null,
     "title": "Meridian",
     "description": "Meridian đã ủng hộ và hỗ trợ cộng đồng LGBTIQA+ trong hơn 40 năm, cung cấp một loạt các dịch vụ và chương trình trên khu vực Canberra như dịch vụ HIV, dịch vụ sức khỏe, chương trình tiếp cận công nhân tình dục và nhiều hơn nữa."
+  },
+  {
+    "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+    "slug": "australian-transgender-support-association-of-queensland",
+    "externalUrl": "https://www.atsaq.org.au/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "community-stories",
+      "social-services"
+    ],
+    "address": "Booval QLD 4304, Australia",
+    "phoneNumber": "(07) 3705 7663",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Booval",
+    "county": "City of Ipswich",
+    "latLng": [
+      -27.614358,
+      152.788861
+    ],
+    "email": "parker@atsaq.org.au",
+    "socialMedia": null,
+    "title": "Hiệp hội Hỗ trợ Chuyển giới của Queensland, Úc",
+    "description": "Tổ chức đại diện hàng đầu Queensland cho những cá nhân chuyển giới, đa dạng giới tính, và non-binary từ năm 1990. Họ cung cấp hỗ trợ, biện hộ, dịch vụ và tổ chức các sự kiện xã hội để phục vụ cộng đồng chuyển giới."
+  },
+  {
+    "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
+    "slug": "jim-collins-foundation",
+    "externalUrl": "https://jimcollinsfoundation.org/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": "New York, NY 10150, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7582228,
+      -73.9704871
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Quỹ Jim Collins",
+    "description": "Sứ mệnh của Quỹ Jim Collins (JCF) là cung cấp hỗ trợ tài chính cho những người chuyển giới để thực hiện phẫu thuật xác nhận giới tính. Quỹ này cung cấp hai lựa chọn hỗ trợ: Quỹ Sáng lập viên, chi trả 100% chi phí phẫu thuật và Quỹ Di sản Krysallis Anne Hembrough, chi trả 50% chi phí phẫu thuật. Quỹ này nhằm cung cấp quyền tiếp cận với những ca phẫu thuật quan trọng cho những ai muốn, nhưng do phân biệt đối xử phổ biến đối với người chuyển giới, những chi phí như vậy thường không thể đáp ứng được."
+  },
+  {
+    "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
+    "slug": "transgender-india-transition-guide",
+    "externalUrl": "https://transgenderindia.com/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "IN",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "enquiry@transgenderindia.com",
+    "socialMedia": null,
+    "title": "Ấn Độ Chuyển Giới: Hướng Dẫn Chuyển Đổi Của Bạn",
+    "description": "Ấn Độ Chuyển Giới cung cấp các khóa học, bài viết và nguồn tài nguyên toàn diện cho cộng đồng chuyển giới ở Ấn Độ. Nó bao gồm các chủ đề từ căn bản về liệu pháp thay thế hormone, quyền hợp pháp và bảo vệ, đến chuyển đổi xã hội, với các khóa học do các chuyên gia từ nhiều lĩnh vực dẫn dắt."
+  },
+  {
+    "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+    "slug": "queermed-deutschland-directory",
+    "externalUrl": "https://queermed-deutschland.de/",
+    "tags": [
+      "healthcare",
+      "transmasculine",
+      "non-binary",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/queermeddeutschland",
+      "instagramUrl": "https://instagram.com/queermeddeutschland",
+      "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+      "facebookUrl": "https://facebook.com/queermeddeutschland"
+    },
+    "title": "Danh bạ Queermed Đức",
+    "description": "Queermed Deutschland là một danh bạ các bác sĩ, nhà trị liệu và phòng khám được cộng đồng LGBTQIA+ ở Đức giới thiệu. Mục tiêu là chống lại sự phân biệt đối xử trong hệ thống y tế, đảm bảo sự chăm sóc sức khỏe tôn trọng và nhạy cảm cho tất cả. Nó bao gồm các tùy chọn bổ sung khác nhau trong phiếu khảo sát ẩn danh để phù hợp với các cá nhân đa dạng trong cộng đồng."
   },
   {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
@@ -434,6 +854,26 @@
     "description": "Một nền tảng trực tuyến đổi mới mà mục tiêu là tạo ra một nguồn tài nguyên toàn diện và cập nhật cho quyền lợi LGBTQ+ toàn cầu. Trang web của họ cung cấp một cơ sở dữ liệu trung tâm về luật pháp, chính sách và thái độ xã hội đối với quyền lợi LGBTQ+ từ khắp nơi trên thế giới. Bằng việc vẽ bản đồ và trực quan hóa dữ liệu về bình đẳng, sự bao trùm, và bảo vệ pháp lý, EqualDex.com cung cấp một công cụ mạnh mẽ cho các nhà hoạt động, nhà nghiên cứu, và cá nhân mong muốn hiểu và đấu tranh cho quyền lợi LGBTQ+ trên phạm vi toàn cầu. Khám phá các bản đồ tương tác của họ, duyệt các thông tin cụ thể của từng quốc gia, và cập nhật thông tin về những tiến bộ và thách thức mới nhất mà cộng đồng LGBTQ+ trên toàn thế giới đang đối mặt."
   },
   {
+    "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
+    "slug": "gender-affirmative-letter-access-project",
+    "externalUrl": "https://thegalap.org/",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Dự án Truy cập Thư khẳng định Giới tính",
+    "description": "GALAP là một nền tảng dành cho các nhà lâm sàng độc lập cung cấp chăm sóc khẳng định giới tính. Họ cung cấp các nguồn lực như danh bạ nhà trị liệu, hướng dẫn viết thư để khẳng định giới tính và nhiều hơn nữa. Xin lưu ý, kỹ năng hay chuyên môn của bất kỳ người ký cam kết nào cũng không thể được xác thực bởi GALAP."
+  },
+  {
     "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
     "slug": "a-gender-agenda",
     "externalUrl": "https://genderrights.org.au/",
@@ -592,6 +1032,63 @@
     "description": "Trung tâm dịch vụ cộng đồng LGBTQ đầu tiên của Oakland, không vì lợi nhuận, dành cho mọi lứa tuổi và bao quát mọi thành viên. Các dịch vụ được cung cấp bao gồm nhóm hỗ trợ, hỗ trợ sức khỏe tâm thần, hỗ trợ nhà ở, chương trình cho thanh thiếu niên, phòng khám pháp lý, phòng tạp phẩm thực phẩm, v.v. Còn tổ chức các chương trình đặc biệt cho người LGBTQ+ tuổi cao cùng cộng đồng người chuyển giới."
   },
   {
+    "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+    "slug": "plume-transgender-nonbinary-healthcare",
+    "externalUrl": "https://getplume.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitter": "https://twitter.com/getplume",
+      "instagram": "https://www.instagram.com/getplume/",
+      "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+      "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+      "tiktok": "https://www.tiktok.com/@get.plume"
+    },
+    "title": "Plume",
+    "description": "Nhà cung cấp dịch vụ chăm sóc sức khỏe lớn nhất cho cộng đồng trans và nonbinary, cung cấp một loạt dịch vụ bao gồm liệu pháp nội tiết cân đối giới tính và hỗ trợ chuyển đổi đến thuốc cho lo âu và trầm cảm. Các dịch vụ được cung cấp bởi một nhóm dẫn dắt bởi trans với sự hiểu biết sâu sắc về những nhu cầu chăm sóc sức khỏe độc đáo của cộng đồng, nhằm khiến bạn cảm thấy thoải mái, được nhìn thấy và quan tâm. Một nơi mà bạn có thể là chính mình và nhận được sự chăm sóc mà bạn cần."
+  },
+  {
+    "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+    "slug": "trans-in-3-steps",
+    "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "johanna4711@zohomail.eu",
+    "socialMedia": {
+      "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+    },
+    "title": "Trans* trong 3 Bước",
+    "description": "Một dự án hoạt động như một hướng dẫn giúp trong quá trình chuyển đổi của một cá nhân. Nó bao gồm thuật ngữ liên quan đến trans*, thông tin về cách để biết một người có phải là trans* hay không, nguồn lực cho tư vấn tâm lý, các quy trình y tế, câu chuyện kể lại về việc coming out, thông tin pháp lý về việc thay đổi tên và giới tính, cũng như các liên kết đến các nguồn lực và dịch vụ khác nhau."
+  },
+  {
     "id": "6f38810d-896c-4493-afe2-b612021122fc",
     "slug": "the-shed-melbourne",
     "externalUrl": "https://www.theshedsupport.org.au/",
@@ -616,6 +1113,51 @@
     "socialMedia": null,
     "title": "The Shed Melbourne",
     "description": "Một nhóm hỗ trợ có trụ sở tại Melbourne dành cho những người chuyển giới nam tính, cung cấp các sự kiện và tài nguyên như cuộc họp hỗ trợ bạn bè, câu lạc bộ thể dục, câu lạc bộ sách, tài nguyên về sức khỏe tâm thần, thông tin và hỗ trợ về phẫu thuật và testosterone, chương trình binder, và nhiều hơn nữa."
+  },
+  {
+    "id": "7510c3ea-47b1-4a60-bfaf-bb98b6f6b5b2",
+    "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
+    "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
+    "tags": [
+      "legal"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Lập bản đồ những cuộc tấn công vào quyền của LGBTQ tại các Nghị viện tiểu bang Hoa Kỳ",
+    "description": "Trong những năm gần đây, các tiểu bang đã thúc đẩy một số lượng kỷ lục của những dự luật tấn công vào quyền của LGBTQ, đặc biệt là giới trẻ chuyển giới. ACLU đang theo dõi những cuộc tấn công này và hợp tác với mạng lưới các chi nhánh toàn quốc của chúng tôi để hỗ trợ mọi người LGBTQ ở mọi nơi. Trong khi nhiều tiểu bang hằng năm đang làm việc để thông qua các luật bảo vệ người LGBTQ, các nghị viện tiểu bang đang thúc đẩy những dự luật nhắm vào người chuyển giới, hạn chế bảo vệ địa phương và cho phép sử dụng tôn giáo để phân biệt đối xử. ACLU sẽ không ngừng lên tiếng chống lại những cuộc tấn công độc ác này trên toàn quốc."
+  },
+  {
+    "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+    "slug": "national-queer-trans-therapists-of-color-network",
+    "externalUrl": "https://www.nqttcn.com/",
+    "tags": [
+      "mental-health",
+      "social-services"
+    ],
+    "address": "Baltimore, MD 21211, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MD",
+    "city": "Baltimore",
+    "latLng": [
+      39.3289463,
+      -76.63838319999999
+    ],
+    "email": "info@nqttcn.com",
+    "socialMedia": {
+      "facebookUrl": "Facebook-f",
+      "twitterUrl": "Twitter",
+      "instagramUrl": "Instagram"
+    },
+    "title": "Mạng lưới Người điều trị Queer & Trans Màu quốc gia",
+    "description": "Mạng lưới Người điều trị Queer & Trans Màu quốc gia là một tổ chức công lý chữa lành cam kết biến đổi sức khỏe tâm thần cho người queer và trans màu da. Họ hoạt động tại giao điểm của các phong trào cho công lý xã hội và lĩnh vực sức khỏe tâm thần."
   },
   {
     "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
@@ -763,6 +1305,63 @@
     "description": "Trung tâm quốc gia về Bình đẳng Transgender là một tổ chức đấu tranh để thay đổi chính sách và thái độ của xã hội nhằm tăng sự hiểu biết và chấp nhận người Transgender. NCTE cung cấp thông tin về các vấn đề ảnh hưởng đến cộng đồng Transgender bao gồm lão hóa, chống bạo lực, việc làm, gia đình, sức khỏe & HIV, nhà ở & người vô gia cư, và nhiều hơn nữa."
   },
   {
+    "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+    "slug": "transgender-law-center",
+    "externalUrl": "https://transgenderlawcenter.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "Oakland, CA 94612, USA",
+    "phoneNumber": "510-587-9696",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8113159,
+      -122.2682245
+    ],
+    "email": "info@transgenderlawcenter.org",
+    "socialMedia": null,
+    "title": "Trung Tâm Luật Transgender",
+    "description": "Trung Tâm Luật Transgender là tổ chức quốc gia lớn nhất được dẫn dắt bởi cộng đồng trans, ủng hộ quyền tự quyết cho tất cả mọi người. Bằng cách duy trì tài nguyên và công trình xuất bản phong phú, Trung tâm hướng dẫn cá nhân vượt qua những thách thức pháp lý thường gặp và những câu hỏi mà người thuộc giới transgender thường gặp phải. TLC cũng truyền cảm hứng cho cộng đồng hướng tới một phong trào giải phóng dẫn dắt bởi cộng đồng trans quốc gia lâu dài."
+  },
+  {
+    "id": "88a19313-994c-4908-a518-c09b531743e9",
+    "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
+    "externalUrl": "https://dgti.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/dgti.eV",
+      "twitterUrl": "https://twitter.com/dgti_eV",
+      "instagramUrl": "https://www.instagram.com/dgti_ev/",
+      "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
+    },
+    "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+    "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) là một tổ chức chuyên nghiệp toàn quốc tại Đức, ủng hộ sự chấp nhận và bình đẳng cho người chuyển giới, giới tính liên tục, người không nhị phân và người không giới tính ở tất cả các cấp độ của xã hội. Dgti cung cấp tư vấn từ người này sang người khác, thông tin pháp lý, tin tức và có chương trình tài nguyên đa dạng cho các tư vấn viên chuyển giới và các chuyên gia y tế."
+  },
+  {
     "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
     "slug": "the-inner-circle",
     "externalUrl": "https://theinnercircle.org.za/",
@@ -811,6 +1410,55 @@
     "description": "Trang web này cung cấp hướng dẫn từng bước cho những người muốn cập nhật tên hoặc giới tính của mình tại Florida. Các bước bao gồm nộp đơn kiện tại tòa án và cập nhật thẻ Bảo hiểm Xã hội, giấy phép lái xe, hộ chiếu và giấy khai sinh."
   },
   {
+    "id": "91296a03-5c7f-4105-9ba7-2aa9e8bf5223",
+    "slug": "parents-of-gender-diverse-children",
+    "externalUrl": "https://www.pgdc.org.au/",
+    "tags": [
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness",
+      "mental-health",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@pgdc.org.au",
+    "socialMedia": {},
+    "title": "Cha mẹ của Trẻ em Đa giới tính",
+    "description": "Cha mẹ của Trẻ em Đa giới tính cung cấp sự hỗ trợ, kết nối và nguồn lực cho cha mẹ và những người đang nuôi dạy trẻ em chuyển giới và đa giới tính ở Úc. Tổ chức này cung cấp sự hỗ trợ từ đồng nghiệp với tinh thần không phê phán và đảm bảo tính riêng tư, các cuộc họp hàng tháng, một Trung tâm cha mẹ trực tuyến, và đào tạo chuyên môn và các diễn giả."
+  },
+  {
+    "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+    "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+    "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": "+31(0)20 444 0542",
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "genderteam-poli@vumc.nl",
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+    },
+    "town": "Amsterdam-Zuid",
+    "title": "Amsterdam UMC - Trung tâm Kiến thức và Chăm sóc về Rối loạn Giới tính",
+    "description": "Trung tâm Kiến thức và Chăm sóc về Rối loạn Giới tính tại Amsterdam UMC chuyên cung cấp điều trị y tế và hỗ trợ tâm lý cho những người cảm thấy giới tính từ khi sinh ra không phù hợp với bản sắc của họ. Trung tâm tôn trọng sự đa dạng cá nhân, điều chỉnh các dịch vụ theo nhu cầu cá nhân, và được công nhận quốc tế về chuyên môn trong việc điều trị bất ổn về giới tính. Nó cũng tiến hành nghiên cứu để cải thiện sự hiểu biết và điều trị với những người chuyển đổi giới tính và cung cấp đào tạo cho các chuyên gia y tế mới."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -842,6 +1490,28 @@
     },
     "title": "Trans Lifeline",
     "description": "Trans Lifeline là một tổ chức do người chuyển giới lãnh đạo cung cấp sự hỗ trợ đồng nghiệp và tài nguyên cho cộng đồng chuyển giới. Với trọng tâm là hỗ trợ cộng đồng, cấp vốn nhỏ và đường dây nóng, họ nhằm cung cấp cho người chuyển giới những kết nối và tài nguyên họ cần để phát triển. Trans Lifeline cũng đấu tranh cho cộng đồng chuyển giới thông qua các sáng kiến như #SafeHotlines."
+  },
+  {
+    "id": "a0bc83c3-3566-4529-9560-bf98eb404461",
+    "slug": "transliving-international",
+    "externalUrl": "https://transliving.co.uk/main/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transliving International",
+    "description": "Transliving International là một nhóm hỗ trợ toàn cầu dành cho cộng đồng người chuyển giới, cung cấp một tạp chí trực tuyến, đêm hội câu lạc bộ, sự kiện, và nền tảng mua sắm. Nó nâng cao tiếng nói của tất cả những người đa giới tính và người chuyển giới bằng cách cung cấp sự giúp đỡ, lời khuyên, câu chuyện cá nhân, và đặc trưng."
   },
   {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
@@ -877,6 +1547,25 @@
     },
     "title": "Dự án Trevor",
     "description": "Dự án Trevor là một tổ chức phi lợi nhuận của Mỹ cung cấp dịch vụ phòng ngừa tự tử cho giới trẻ LGBTQ+. Trang web cung cấp các nguồn lực quý giá cho cộng đồng người chuyển giới, bao gồm can thiệp khủng hoảng và dây đường dây nóng phòng ngừa tự tử, TrevorChat, và TrevorText cũng như tư vấn về sức khỏe tâm thần, dịch vụ xã hội, và nhóm hỗ trợ."
+  },
+  {
+    "id": "a4f258ec-17b7-4477-bd90-a7580ab66086",
+    "slug": "gender-dysphoria-1177-vaardguiden",
+    "externalUrl": "https://www.1177.se/liv--halsa/konsidentitet-och-sexuell-laggning/konsdysfori/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Rối loạn giới tính - 1177 Hướng dẫn chăm sóc sức khỏe Vårdguiden",
+    "description": "Một nguồn thông tin toàn diện về rối loạn giới tính được cung cấp bởi hướng dẫn chăm sóc sức khỏe 1177 tại Thụy Điển, thảo luận về nó là gì, cảm thấy như thế nào, cách tìm kiếm sự giúp đỡ và các lựa chọn điều trị khác nhau. Nó phục vụ bằng cách cung cấp thông tin chi tiết cho những người đang trải qua rối loạn giới tính và hỗ trợ họ trong hành trình của mình."
   },
   {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
@@ -947,6 +1636,30 @@
     "town": "Rondebosch",
     "title": "GOOD HOPE Metropolitan Community Church",
     "description": "Một cộng đồng Kitô giáo tiến bộ về mặt thần học và bao dung, được thành lập trên các nguyên tắc của Chúa Giêsu Kitô, hoan nghênh sự đa dạng và cung cấp một không gian an toàn, không đánh giá mọi người. Là một phần của giáo hội Kitô giáo bao dung có trụ sở tại Cape Town, Nam Phi và là một phần của tôn giáo lớn quốc tế được biết đến với tên gọi Giáo Hội Cộng Đồng Metropolitan (MCC)."
+  },
+  {
+    "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+    "slug": "transfamily",
+    "externalUrl": "https://www.transfamily.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+    },
+    "title": "Transfamily",
+    "description": "Một nhóm hỗ trợ đồng đẳng cho cha mẹ, anh chị em, gia đình mở rộng và bạn bè của một người đa dạng về giới tính và chuyển đổi giới tính. Nó cung cấp các nguồn lực, sự kiện, và một nền tảng cho các câu chuyện cộng đồng. Nó cũng cung cấp một quyển sách Transfamily cung cấp thông tin hữu ích và cái nhìn sâu sắc về cộng đồng người chuyển giới."
   },
   {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
@@ -1027,6 +1740,107 @@
     "description": "Một tổ chức do cộng đồng LGBTIQ+ điều hành cung cấp các dịch vụ sức khỏe và hạnh phúc cho các cộng đồng đa dạng về tình dục, giới tính và tình dục, bao gồm hỗ trợ và phòng ngừa HIV, tư vấn, và dịch vụ bạo lực gia đình."
   },
   {
+    "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+    "slug": "queer-lexikon",
+    "externalUrl": "https://queer-lexikon.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "fab fa-twitter",
+      "facebookUrl": "fab fa-facebook",
+      "instagramUrl": "fab fa-instagram",
+      "youtubeUrl": "fab fa-youtube",
+      "patreonUrl": "fab fa-patreon",
+      "tumblrUrl": "fab fa-tumblr",
+      "linkedinUrl": "fab fa-linkedin-in",
+      "emailUrl": "fas fa-envelope"
+    },
+    "title": "Queer Lexikon",
+    "description": "Queer Lexikon là một nguồn thông tin trực tuyến cung cấp thông tin rộng rãi và hỗ trợ cho cộng đồng queer. Bao gồm các chủ đề phong phú từ sự đa dạng về tình dục, tình cảm, giới tính đến sức khỏe tinh thần và nhóm hỗ trợ. Đây là một trung tâm cho giáo dục, nâng cao nhận thức và câu chuyện cộng đồng."
+  },
+  {
+    "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+    "slug": "transformering-se",
+    "externalUrl": "https://transformering.se/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Stockholm, Sweden",
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": "Stockholm County",
+    "city": "Stockholm",
+    "latLng": [
+      59.32932349999999,
+      18.0685808
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "twitterUrl": "https://twitter.com/rfslungdom",
+      "instagramUrl": "https://www.instagram.com/rfsl_official",
+      "facebookUrl": "http://www.facebook.com/transformering"
+    },
+    "title": "Transformering.se",
+    "description": "Một trung tâm tài nguyên Thụy Điển do RFSL Ungdom và RFSL điều hành cung cấp hỗ trợ và thông tin liên quan đến các vấn đề về chuyển đổi giới tính và nhận dạng giới tính. Nội dung bao gồm quyền, mối quan hệ và cách hoạt động của sự chăm sóc xác nhận giới tính. Nó được thiết kế cho những người chuyển giới, có kinh nghiệm cá nhân về chuyển giới hoặc đang thắc mắc về danh tính/nhận dạng giới tính của mình, cũng như người thân yêu của họ, các chuyên gia hoặc nhân viên tình nguyện hỗ trợ họ."
+  },
+  {
+    "id": "be017772-af87-4920-ae62-1a3e961d216a",
+    "slug": "transamsterdam",
+    "externalUrl": "https://www.transamsterdam.nl/",
+    "tags": [
+      "artists-creators",
+      "education-awareness"
+    ],
+    "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.35914529999999,
+      4.9263607
+    ],
+    "email": "info@transamsterdam.nl",
+    "socialMedia": {
+      "linktr": "linktr.ee/transamsterdam"
+    },
+    "town": "Amsterdam-Oost",
+    "title": "TransAmsterdam",
+    "description": "TransAmsterdam là một tổ chức chuyển giới tập trung vào nghệ thuật, văn hóa và lối sống tại Amsterdam. Nó hỗ trợ cộng đồng chuyển giới thông qua nhiều cột mốc khác nhau. Những điều này bao gồm việc tạo cơ hội gặp gỡ thông qua Trans & Friends café, InClusion, và các sự kiện khác. Nó cũng thúc đẩy phát triển tài năng thông qua các hội thảo, buổi họp chủ đề và các sản xuất kịch tại Trường Nghệ thuật Trans. Cuối cùng, nó cung cấp một nền tảng nghệ thuật và văn hóa cho và bởi các nghệ sĩ và nghệ sĩ biểu diễn chuyển giới, không nhị phân."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -1051,6 +1865,31 @@
     "socialMedia": null,
     "title": "Trung tâm Giới tính Inc.",
     "description": "Trung tâm Giới tính Inc. cung cấp một loạt các dịch vụ chuyên biệt giúp khám phá bản sắc giới tính và hỗ trợ giảm nhẹ sự mất ổn định giới tính. Nó hỗ trợ những người chuyển giới và những người thể hiện giới tính tại mọi giai đoạn của hành trình của họ khi họ khám phá và sống với bản sắc thực sự của họ. Nó cung cấp chỗ ở, quản lý hồ sơ, giáo dục & đào tạo, tư vấn & dịch vụ sức khỏe tâm thần, nhóm, tin tức và nguồn lực."
+  },
+  {
+    "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+    "slug": "learning-with-love-the-2023-pflag-national-convention",
+    "externalUrl": "https://pflag.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories"
+    ],
+    "address": "Washington, DC, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "county": "District of Columbia",
+    "latLng": [
+      38.9071923,
+      -77.0368707
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Học Hỏi Với Tình Yêu: Đại Hội Quốc Gia PFLAG Năm 2023",
+    "description": "Một sự kiện kéo dài bốn ngày được tổ chức bởi PFLAG để kết nối, mạng lưới, học hỏi, và chia sẻ kinh nghiệm. Đại hội sẽ tổ chức các buổi hội thảo, bảng điều khiển, và các bài trình bày để hỗ trợ sứ mệnh của họ về việc tạo nên một thế giới quan tâm, công bằng, và thừa nhận cho người thuộc LGBTQ+ và những người yêu thương họ."
   },
   {
     "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
@@ -1080,6 +1919,46 @@
     "description": "Trung tâm Tự do cung cấp một loạt các dịch vụ hỗ trợ rộng rãi cho người trẻ thuộc LGBTIQA+ ở WA, bao gồm các buổi tiếp đãi rơi rớt, phát triển cộng đồng, tư vấn và nhiều hơn nữa. Họ làm việc để làm cho tất cả người trẻ LGBTIQA+ cảm thấy được đưa vào, kết nối và tôn trọng. Họ cũng cung cấp đào tạo và hướng dẫn cho cha mẹ, chuyên gia, cộng đồng và tổ chức."
   },
   {
+    "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
+    "slug": "point-of-pride",
+    "externalUrl": "https://www.pointofpride.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Niềm tự hào",
+    "description": "Niềm tự hào cung cấp hỗ trợ tài chính và hỗ trợ trực tiếp cho những người chuyển giới đang cần chăm sóc sức khỏe và sức khỏe tâm lý. Các chương trình viện trợ đa dạng từ quỹ phẫu thuật chuyển đổi giới tính hàng năm, quỹ truy cập HRT, hỗ trợ điện di, và cung cấp miễn phí các sản phẩm tạo kiểu ngực và quần áo tạo dáng nữ giới cho những người chuyển giới không thể mua sắm hoặc tìm kiếm chúng một cách an toàn."
+  },
+  {
+    "id": "c6a77c4c-7aa3-47b3-b385-8573e1ba3a78",
+    "slug": "transmann-ev",
+    "externalUrl": "https://transmann.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": "info@transmann.de",
+    "socialMedia": {},
+    "title": "TransMann e.V.",
+    "description": "TransMann e.V. là một tổ chức tình nguyện, phi lợi nhuận cung cấp sự hỗ trợ toàn diện cho tất cả những người chuyển giới từ Nữ sang Nam (FzM/FtM), Trans* và Inter*-people trên khắp Đức. Dịch vụ bao gồm các cuộc họp nhóm, thông tin và tài nguyên trực tuyến, tư vấn từ người đồng nghiệp, tài liệu giáo dục và xuất hiện công khai. Họ cũng duy trì một cơ sở dữ liệu quốc gia về các bác sĩ và nhà trị liệu có kinh nghiệm với Trans*. Mặc dù đối tượng chính của họ là những người Trans* biến đổi từ nữ sang nam và Inter* people, họ cũng mở rộng tài nguyên và sự hỗ trợ của mình cho thành viên gia đình, bạn bè, đối tác, cơ sở giáo dục và nhà tuyển dụng."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -1092,6 +1971,51 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Một nền tảng trực tuyến quan trọng dédicateddicated to aứng trợ và bảo vệ cho các cá nhân LGBTQ+ đang đối mặt với sự bách hại và bạo lực trên toàn thế giới. Với sự cam kết không lay chuyển, trang web kết nối những người đang trong tình trạng nguy hiểm cấp bách đến những nguồn lực cứu mạng, sự cứu trợ khẩn cấp, và những con đường an toàn. Thông qua các đối tác với tổ chức địa phương và một mạng lưới người hỗ trợ đồng cảm, RainbowRailroad.org không ngừng nghỉ làm việc để cung cấp sự bảo vệ, sự giúp đỡ pháp lý, và hỗ trợ di dời, giúp mọi người thoát khỏi cuộc bách hại và tìm nơi trú ẩn. Bằng cách vận động cho quyền của con người, cứu mạng, và khuyến khích một thế giới mang tính bao dung hơn, RainbowRailroad.org đóng vai trò như một ngọn hải đăng hy vọng và bảo vệ cho các cá nhân LGBTQ+ đang tìm kiếm sự an toàn và tự do."
+  },
+  {
+    "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+    "slug": "blaq-aboriginal-corporation",
+    "externalUrl": "https://blaq.org.au/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "Redfern NSW 2016, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Redfern",
+    "county": "City of Sydney",
+    "latLng": [
+      -33.892215,
+      151.205873
+    ],
+    "email": "admin@blaq.org.au",
+    "socialMedia": null,
+    "title": "Tổ chức BlaQ Aboriginal",
+    "description": "Tổ chức BlaQ Aboriginal là một tổ chức cộng đồng dành cho việc hỗ trợ và trao quyền cho cộng đồng LGBTQ+SB người bản địa và đảo Torres Strait thông qua sự đổi mới, bao gồm, hiểu biết và ủng hộ."
+  },
+  {
+    "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
+    "slug": "baby-making-for-everybody",
+    "externalUrl": "https://www.babymakingforeverybody.com/",
+    "tags": [
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Cách Sản Sinh Trẻ em Cho Mọi Người",
+    "description": "Hướng dẫn và chúc mừng về các phương pháp tạo dựng gia đình khác ngoài mô hình gia đình hạt nhân truyền thống cho LGBTQ+ và cha mẹ đơn thân. Cuốn sách cung cấp hướng dẫn từng bước cùng với các câu chuyện cá nhân, cung cấp cho cha mẹ tiềm năng một bản vẽ để phát triển gia đình của họ."
   },
   {
     "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
@@ -1200,6 +2124,29 @@
     "description": "Thành lập từ năm 1975, Seahorse Club Victoria cung cấp các tài nguyên, dịch vụ cộng đồng và hỗ trợ cho cộng đồng người chuyển giới. Nó bao gồm một danh mục dịch vụ thân thiện với người chuyển giới và một nền tảng trực tuyến sắp ra mắt để các thành viên kết nối."
   },
   {
+    "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
+    "slug": "a-complete-guide-to-transmasculine-reproduction",
+    "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
+    "tags": [
+      "transmasculine",
+      "healthcare",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Hướng dẫn đầy đủ về sinh sản chuyển đổi nam tính",
+    "description": "Hướng dẫn toàn diện cung cấp thông tin về tình dục học, mang thai, sau sinh, tiết sữa và làm cha mẹ đối với những người chuyển đổi giới tính thành nam. Tài nguyên bao gồm các nhà cung cấp chăm sóc sức khỏe xác nhận chuyển giới, các câu hỏi thường gặp đã được nghiên cứu, các tài nguyên khác nhau và nhiều hơn nữa để giáo dục và hỗ trợ các cá nhân chuyển đổi giới tính thành nam trong hành trình làm cha mẹ của họ."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -1304,6 +2251,30 @@
     "description": "Transgendermap.com là một nguồn tài nguyên trực tuyến nhằm cung cấp thông tin và hướng dẫn thực tế cho những người đang thắc mắc về giới tính của mình hoặc đang nằm ở một đâu đó trên phổ giới tính chuyển đổi. Trang web bao gồm một loạt các chủ đề như hiểu về thuật ngữ transgender, quá trình chuyển đổi, vấn đề pháp lý, chăm sóc sức khỏe và nhiều câu chuyện cá nhân. Mục tiêu của nó là giúp cá nhân điều hướng hành trình cá nhân của mình bằng cách cung cấp một 'bản đồ' hoặc hướng dẫn về nhiều khía cạnh của giới tính và trải nghiệm transgender. Vui lòng truy cập trang web thực sự để nhận thông tin mới nhất và chính xác nhất."
   },
   {
+    "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+    "slug": "the-genderaid",
+    "externalUrl": "https://genderaid.org/en",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "info@genderaid.org",
+    "socialMedia": null,
+    "town": "Amsterdam-Zuid",
+    "title": "The GenderAid",
+    "description": "The GenderAid là một công cụ hỗ trợ quyết định cho việc phẫu thuật giới tính sinh dục, nhằm cung cấp thông tin đầy đủ và đáng tin cậy về các lựa chọn điều trị. Nó tập trung vào hệ thống y tế của Hà Lan, tuân thủ các nguyên tắc của WPATH, và đã được phát triển cho tất cả các phần của cộng đồng chuyển giới, bao gồm cả những người không rõ giới tính, chuyển đổi giới tính và những người không xác định giới tính."
+  },
+  {
     "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
     "slug": "transfolk-of-wa",
     "externalUrl": "https://www.transfolkofwa.org/",
@@ -1333,6 +2304,95 @@
     "socialMedia": null,
     "title": "TransFolk của WA",
     "description": "Một dịch vụ hỗ trợ đồng nghiệp cho những người chuyển giới và người thân yêu của họ tại Tây Úc. Cung cấp các nhóm trực tuyến, dịch vụ và tài nguyên được khuyến nghị, và tổ chức các sự kiện khác nhau."
+  },
+  {
+    "id": "f2625d38-e181-4231-8344-214adb6edf36",
+    "slug": "transcend-australia",
+    "externalUrl": "https://transcend.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transcend Australia",
+    "description": "Mục đích của Transcend Australia là hỗ trợ, khẳng định và kỷ niệm cuộc sống của trẻ em chuyển giới và đa dạng giới tính cùng với gia đình và người chăm sóc họ. Họ cung cấp thông tin, hỗ trợ và giới thiệu cho các gia đình trên toàn Australia và làm việc để trao quyền cho trẻ em và thanh niên chuyển giới và đa dạng giới tính."
+  },
+  {
+    "id": "f48634db-fe71-426c-be84-622b3282bad7",
+    "slug": "planned-parenthood",
+    "externalUrl": "https://www.plannedparenthood.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": "1-800-230-7526",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Planned Parenthood",
+    "description": "Planned Parenthood cung cấp chăm sóc sức khỏe sinh sản quan trọng, giáo dục tình dục, và thông tin cho hàng triệu người trên toàn thế giới. Các dịch vụ bao gồm phá thai, kiểm soát sinh đẻ, kiểm tra và điều trị bệnh lây truyền qua đường tình dục, liệu pháp hormone người chuyển giới, và nhiều hơn nữa. Có các cuộc hẹn trực tuyến và qua telehealth."
+  },
+  {
+    "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+    "slug": "rfsl-swedish-federation-lgbtq-rights",
+    "externalUrl": "https://www.rfsl.se/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "RFSL - Liên đoàn Thụy Điển về Quyền của Người Đồng tính, Song tính, Chuyển giới và Queer",
+    "description": "RFSL là một tổ chức Thụy Điển hoạt động với và vì quyền lợi của cộng đồng LGBTQ. Họ cung cấp các nguồn lực quan trọng, hỗ trợ cộng đồng, giáo dục & nâng cao nhận thức, hướng dẫn pháp lý, dịch vụ chăm sóc sức khỏe và nhiều hơn nữa cho cộng đồng chuyển giới. RFSL cũng thúc đẩy quyền lợi LGBTQ ở mức độ quốc tế."
+  },
+  {
+    "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+    "slug": "apotheek-all-about-medication",
+    "externalUrl": "https://www.apotheek.nl/",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Apotheek.nl - Tất cả về Thuốc",
+    "description": "Một nguồn thông tin đáng tin cậy  về các loại thuốc khác nhau. Trang web bao gồm video, các sự kiện mạng hiện hành về sức khỏe, thông tin về tiêm chủng, coronavirus và dịch vụ chăm sóc tại hiệu thuốc. Nó cung cấp thông tin bằng tiếng Hà Lan và dịch 50 loại thuốc quan trọng cho người tị nạn Ukraine."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

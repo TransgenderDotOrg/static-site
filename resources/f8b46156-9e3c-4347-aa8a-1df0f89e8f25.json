@@ -1,0 +1,104 @@
+{
+  "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+  "slug": "apotheek-all-about-medication",
+  "externalUrl": "https://www.apotheek.nl/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Apotheek.nl - All about Medication",
+      "description": "A resource offering reliable information about various medications. The site includes videos, current affairs in health, information on vaccination, coronavirus, and pharmacy care. It provides information in Dutch and translates 50 key medications for Ukrainian refugees."
+    },
+    "es-ES": {
+      "title": "Apotheek.nl - Todo sobre Medicamentos",
+      "description": "Un recurso que ofrece información confiable sobre varios medicamentos. El sitio incluye videos, actualidad en salud, información sobre vacunación, coronavirus y atención farmacéutica. Proporciona información en neerlandés y traduce 50 medicamentos clave para refugiados ucranianos."
+    },
+    "fr-FR": {
+      "title": "Apotheek.nl - Tout sur les médicaments",
+      "description": "Une ressource offrant des informations fiables sur divers médicaments. Le site comprend des vidéos, des actualités en matière de santé, des informations sur la vaccination, le coronavirus, et les soins en pharmacie. Il fournit des informations en néerlandais et traduit 50 médicaments clés pour les réfugiés ukrainiens."
+    },
+    "sw-KE": {
+      "title": "Apotheek.nl - Yote kuhusu Dawa",
+      "description": "Rasilimali inayotoa habari za kuaminika kuhusu dawa mbalimbali. Tovuti hii inajumuisha video, mambo ya sasa ya afya, habari kuhusu chanjo, coronavirus, na huduma ya dawa. Inatoa habari kwa Kiholanzi na inatafsiri dawa 50 muhimu kwa wakimbizi wa Ukraine."
+    },
+    "pt-PT": {
+      "title": "Apotheek.nl - Tudo sobre Medicamentos",
+      "description": "Um recurso que oferece informações confiáveis sobre vários medicamentos. O site inclui vídeos, assuntos atuais em saúde, informações sobre vacinação, coronavírus e cuidados na farmácia. Ele fornece informações em holandês e traduz 50 medicamentos-chave para refugiados ucranianos."
+    },
+    "zh-CN": {
+      "title": "Apotheek.nl - 所有药物的信息",
+      "description": "这是一个提供各种药物可靠信息的资源。该网站包括视频，健康领域的时事，关于疫苗接种，冠状病毒和药店护理的信息。它以荷兰语提供信息并为乌克兰难民翻译50种关键药物。"
+    },
+    "id-ID": {
+      "title": "Apotheek.nl - Semua tentang Obat",
+      "description": "Sebuah sumber yang menawarkan informasi tepercaya tentang berbagai obat-obatan. Situs ini mencakup video, peristiwa terkini dalam kesehatan, informasi tentang vaksinasi, coronavirus, dan perawatan farmasi. Situs ini menyediakan informasi dalam bahasa Belanda dan menerjemahkan 50 obat kunci untuk pengungsi Ukraina."
+    },
+    "ru-RU": {
+      "title": "Apotheek.nl - Все о лекарствах",
+      "description": "Ресурс, предлагающий надежную информацию о различных лекарствах. Сайт включает видео, актуальные события в области здравоохранения, информацию о вакцинации, коронавирусе и фармацевтической помощи. Предоставляет информацию на голландском языке и переводит 50 ключевых лекарств для украинских беженцев."
+    },
+    "de-DE": {
+      "title": "Apotheek.nl - Alles über Medikamente",
+      "description": "Eine Ressource, die zuverlässige Informationen über verschiedene Medikamente bietet. Die Seite umfasst Videos, aktuelle Angelegenheiten in der Gesundheit, Informationen zu Impfungen, Coronavirus und Apothekenpflege. Sie bietet Informationen auf Niederländisch und übersetzt 50 Schlüsselmedikamente für ukrainische Flüchtlinge."
+    },
+    "tr-TR": {
+      "title": "Apotheek.nl - İlaçlar Hakkında Her Şey",
+      "description": "Çeşitli ilaçlar hakkında güvenilir bilgiler sunan bir kaynak. Site, videolar, sağlıkta güncel konular, aşılama, koronavirüs ve eczane bakımı hakkında bilgiler içerir. Bilgileri Hollanda dilinde sağlar ve Ukrayna mültecileri için 50 anahtar ilacı çevirir."
+    },
+    "ja-JP": {
+      "title": "Apotheek.nl - 薬に関する全て",
+      "description": "さまざまな薬に関する信頼性のある情報を提供するリソース。このサイトにはビデオ、健康に関する最新ニュース、ワクチン、コロナウイルス、薬局のケアに関する情報が含まれています。オランダ語の情報を提供し、ウクライナの難民向けに50種類の主要な薬の情報を翻訳しています。"
+    },
+    "ko-KR": {
+      "title": "Apotheek.nl - 모든 의약품에 대해",
+      "description": "다양한 의약품에 대한 신뢰할 수 있는 정보를 제공하는 자원입니다. 이 사이트에는 동영상, 건강에 대한 현재의 이슈, 백신, 코로나바이러스, 약국 치료에 대한 정보가 포함되어 있습니다. 네덜란드어로 정보를 제공하며, 우크라이나 난민을 위한 50개 주요 의약품을 번역합니다."
+    },
+    "uk-UA": {
+      "title": "Apotheek.nl - все про ліки",
+      "description": "Ресурс, що надає надійну інформацію про різноманітні медикаменти. Сайт включає відео, актуальні новини у сфері здоров'я, інформацію про вакцинацію, коронавірус та аптечний догляд. Він надає інформацію голландською мовою та перекладає 50 ключових медикаментів для українських біженців."
+    },
+    "vi-VN": {
+      "title": "Apotheek.nl - Tất cả về Thuốc",
+      "description": "Một nguồn thông tin đáng tin cậy  về các loại thuốc khác nhau. Trang web bao gồm video, các sự kiện mạng hiện hành về sức khỏe, thông tin về tiêm chủng, coronavirus và dịch vụ chăm sóc tại hiệu thuốc. Nó cung cấp thông tin bằng tiếng Hà Lan và dịch 50 loại thuốc quan trọng cho người tị nạn Ukraine."
+    },
+    "ar-SA": {
+      "title": "Apotheek.nl - كل شيء عن الأدوية",
+      "description": "مورد يوفر معلومات موثوقة حول الأدوية المختلفة. الموقع يتضمن مقاطع فيديو، وأحدث الأخبار في مجال الصحة، ومعلومات عن التطعيم، وفيروس كورونا، ورعاية الصيدلة. يقدم الموقع المعلومات باللغة الهولندية ويترجم 50 دواء رئيسي للاجئين الأوكرانيين."
+    },
+    "ur-PK": {
+      "title": "Apotheek.nl - دوا کے بارے میں تمام",
+      "description": "ایک وسیلہ جو مختلف دواؤں کے بارے میں قابل اعتماد معلومات فراہم کرتا ہے۔ اس سائٹ میں ویڈیوز ، صحت کے موجودہ امور ، ویکسینیشن ، کورونا وائرس ، اور فارمیسی کی دیکھ بھال پر معلومات شامل ہیں۔ یہ ہالینڈی میں معلومات فراہم کرتا ہے اور 50 مرکزی دواؤں کا اردو میں ترجمہ کرتا ہے ."
+    },
+    "hi-IN": {
+      "title": "Apotheek.nl - दवाओं के बारे में सब कुछ",
+      "description": "विभिन्न दवाओं के बारे में विश्वसनीय जानकारी प्रदान करने वाला संसाधन। इस साइट में वीडियो, स्वास्थ्य में वर्तमान मामलों, टीकाकरण, कोरोनावायरस, और फार्मेसी केयर की जानकारी शामिल है। यह डच भाषा में जानकारी प्रदान करता है और यूक्रेनी शरणार्थियों के लिए 50 मुख्य दवाओं का अनुवाद करता है।"
+    },
+    "mr-IN": {
+      "title": "Apotheek.nl - सर्व मेडिकेशन विषयी",
+      "description": "विविध औषधांबद्दल विश्वसनीय माहिती प्रदान करणार्या संसाधनांची सायट. या साइटमध्ये व्हिडिओ, आरोग्य संचालनातील चालू घडामोडी, लसीकरण, कोरोनाव्हायरस, आणि फार्मेसी केअर यांची माहिती असते. ती डच भाषेत माहिती देते आणि युक्रेनियन शरणार्थ्यांसाठी 50 मुख्य औषधांचे भाषांतर करते."
+    },
+    "bn-BD": {
+      "title": "Apotheek.nl - ঔষধ সম্পর্কে সম্পূর্ণ তথ্য",
+      "description": "বিভিন্ন ঔষধ সম্পর্কে নির্ভরযোগ্য তথ্য প্রদানকারী একটি সম্পদ। সাইটটিতে ভিডিও, স্বাস্থ্য ক্ষেত্রের বর্তমান বিষয়বস্তু, টিকা নিয়ে তথ্য, করোনাভাইরাস, এবং ফার্মেসি কেয়ার সম্পর্কে তথ্য অন্তর্ভুক্ত। এটি ডাচ ভাষায় তথ্য প্রদান করে এবং ইউক্রেনীয় শরণার্থীদের জন্য ৫০টি মূল ঔষধের অনুবাদ প্রদান করে।"
+    },
+    "ta-IN": {
+      "title": "Apotheek.nl - மருந்துகளை பற்றிய அனைத்தும்",
+      "description": "பல்வேறு மருந்துகளை பற்றிய நம்பிக்கையான தகவல்களை ஆதரிக்கும் வளகம். இந்த தளம் வீடியோக்களை, சுகாதார தற்போதைய நிகழ்வுகளை, தடுப்பூசி, கொரோனா வைரஸ், மருந்தகம் பராமரிப்பு பற்றிய தகவல்களை உள்ளடக்கி உள்ளது. அது டச்சில் மொழியில் தகவல்களை வழங்குகிறது மற்றும் உக்ரைனா மிகுந்தேரள் க்காகத் தகவல்களை மொழிபெயர்ப்பு செய்கிறது."
+    },
+    "te-IN": {
+      "title": "Apotheek.nl - ఔషధాల గురించి అన్నీ",
+      "description": "వివిధ మందుల గురించి విశ్వసనీయ సమాచారాన్ని అందించే ఒక సంపన్న వనరు. ఈ సైట్ లో వీడియోలు, ఆరోగ్య లో ప్రస్తుత విచారాలు, టీకా పెట్టించుట మరియు కరోనా వైరస్, ఫార్మసీ కేర్ పై సమాచారం ఉంటుంది. దానిని డచ్ భాషలో అందిస్తుంది మరియు ఉక్రెయిన్ ఆశ్రయార్థుల కోసం 50 కీ మందులను అనువదిస్తుంది."
+    }
+  }
+}

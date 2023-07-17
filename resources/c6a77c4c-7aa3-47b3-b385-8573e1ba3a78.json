@@ -1,0 +1,101 @@
+{
+  "id": "c6a77c4c-7aa3-47b3-b385-8573e1ba3a78",
+  "slug": "transmann-ev",
+  "externalUrl": "https://transmann.de/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "email": "info@transmann.de",
+  "socialMedia": {},
+  "i18n": {
+    "en-US": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. is a voluntary, non-profit organization that provides wide-range support for all Female-to-Male (FzM/FtM) Trans* and Inter*-people across Germany. The services include group meetings, online information and resources, Peer-to-Peer counseling, educational materials and public appearances. They also maintain a nationwide database of Trans*-experienced doctors and therapists. Though their primary audience is FzM-Trans* and Inter* people, they also extend their resources and support to family members, friends, partners, educational institutions, and employers."
+    },
+    "pt-PT": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. é uma organização voluntária sem fins lucrativos que oferece amplo apoio a todas as pessoas Trans* e Inter* femininas-para-masculinas (FzM/FtM) em toda a Alemanha. Os serviços incluem reuniões de grupo, informações e recursos online, aconselhamento de peer-to-peer, materiais educacionais e aparições públicas. Eles também mantêm um banco de dados nacional de médicos e terapeutas experientes em Trans*. Embora seu público principal sejam pessoas FzM-Trans* e Inter*, eles também estendem seus recursos e apoio a familiares, amigos, parceiros, instituições educacionais e empregadores."
+    },
+    "de-DE": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. ist eine freiwillige, gemeinnützige Organisation, die umfassende Unterstützung für alle Female-to-Male (FzM/FtM) Trans* und Inter*-Personen in ganz Deutschland bietet. Die Dienstleistungen umfassen Gruppentreffen, Online-Informationen und -Ressourcen, Peer-to-Peer-Beratung, Bildungsmaterialien und öffentliche Auftritte. Sie pflegen auch eine bundesweite Datenbank von Trans*-erfahrenen Ärzten und Therapeuten. Obwohl ihre primäre Zielgruppe FzM-Trans* und Inter*-Personen sind, erweitern sie ihre Ressourcen und Unterstützung auch auf Familienmitglieder, Freunde, Partner, Bildungseinrichtungen und Arbeitgeber."
+    },
+    "es-ES": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. es una organización voluntaria, sin fines de lucro que proporciona un amplio rango de apoyo para todas las personas Trans* e Inter* de Mujer-a-Hombre (FzM/FtM) en toda Alemania. Los servicios incluyen reuniones grupales, información y recursos en línea, asesoramiento de Par-a-Par, materiales educativos y apariciones públicas. También mantienen una base de datos a nivel nacional de médicos y terapeutas con experiencia en Trans*. Aunque su público principal son las personas FzM-Trans* e Inter*, también extienden sus recursos y apoyo a familiares, amigos, parejas, instituciones educativas y empleadores."
+    },
+    "fr-FR": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. est une organisation bénévole à but non lucratif qui fournit un large éventail de soutiens à toutes les personnes Trans* et Inter* de femme à homme (FzM/FtM) à travers l'Allemagne. Les services comprennent des réunions de groupe, des informations et des ressources en ligne, des conseils de pair à pair, des matériels éducatifs et des apparitions publiques. Ils maintiennent également une base de données nationale de médecins et de thérapeutes expérimentés en Trans*. Bien que leur public principal soit les personnes Trans* FzM et Inter*, ils étendent également leurs ressources et leur soutien aux membres de la famille, aux amis, aux partenaires, aux établissements éducatifs et aux employeurs."
+    },
+    "sw-KE": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. ni shirika la hiari, lisilo la faida linalotoa msaada wa aina anuwai kwa watu wote wa Kike-kwa-Kiume (FzM/FtM) Trans* na Inter*-wote kote Ujerumani. Huduma zinajumuisha mikutano ya kikundi, habari na rasilimali mtandaoni, ushauri wa Kikundi-kwa-Kikundi, vifaa vya kielimu na maonekano ya umma. Pia wanadumisha hifadhidata ya kitaifa ya madaktari na wataalamu wa Trans*-wenye uzoefu. Ingawa hadhira yao kuu ni watu wa FzM-Trans* na Inter*, pia wanapanua rasilimali zao na msaada kwa wanafamilia, marafiki, washirika, taasisi za elimu, na waajiri."
+    },
+    "zh-CN": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. 是一个自愿的，非营利组织，为德国境内所有的女转男（FzM/FtM）跨性别*和中性*人士提供广泛的支持。服务包括团体会议，在线信息和资源，同伴之间的咨询，教育材料以及公开露面。他们还维护了一个全国性的跨性别*经验丰富的医生和治疗师的数据库。尽管他们的主要受众是女转男的跨性别* 和中性*人，他们也将资源和支持扩展到家庭成员，朋友，伙伴，教育机构，和雇主。"
+    },
+    "id-ID": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. adalah organisasi sukarela, non-profit yang memberikan berbagai jenis dukungan untuk semua orang Trans* dan Inter* dari Wanita ke Pria (FzM/FtM) di seluruh Jerman. Layanan mereka meliputi pertemuan kelompok, informasi online dan sumber daya, konseling Peer-to-Peer, materi pendidikan dan penampilan publik. Mereka juga mempertahankan database nasional dokter dan terapis yang berpengalaman Trans*. Meskipun audiens utama mereka adalah orang Trans* FzM dan Inter*, mereka juga memperluas sumber daya dan dukungan mereka kepada anggota keluarga, teman, pasangan, institusi pendidikan, dan majikan."
+    },
+    "ru-RU": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. - это добровольная организация без прибыли, которая предлагает широкий спектр поддержки всем транс- и интерсексуальным людям FzM / FtM по всей Германии. Услуги включают групповые встречи, онлайн-информацию и ресурсы, консультации на равных, учебные материалы и выступления перед общественностью. Они также поддерживают общенациональную базу данных врачей и терапевтов со знанием проблематики трансгендерности. Хотя их основная аудитория - это FzM-Tранс* и Inter*-люди, они также предоставляют свои ресурсы и поддержку членам семьи, друзьям, партнерам, образовательным учреждениям и работодателям."
+    },
+    "ja-JP": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V.は、ドイツ全域で女性から男性への（FzM / FtM）トランス*及びInter*の人々を対象に幅広いサポートを提供するボランティア、非営利団体です。サービス内容は、グループミーティング、オンライン情報とリソース、ペア・トゥ・ペアカウンセリング、教育資料、公の場での出演などが含まれています。また、トランス*-経験者の医師やセラピストの全国データベースを維持しています。主にFzM-トランス*とInter*の人々を対象としているが、家族、友人、パートナー、教育機関、雇用者へのリソースとサポートも提供しています。"
+    },
+    "tr-TR": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V., tüm Almanya çapında tüm Kadından-Erkeğe (FzM/FtM) Trans* ve Inter*-insanlara geniş çapta destek sağlayan gönüllü, kar amacı gütmeyen bir organizasyondur. Hizmetler arasında grup toplantıları, çevrimiçi bilgiler ve kaynaklar, Peer-to-Peer danışmanlık, eğitim materyalleri ve halka açık görünümler bulunur. Ayrıca, trans*-deneyimli doktorlar ve terapistler hakkında ulusal çapta bir veritabanı da bulundururlar. Ana hedef kitleleri FzM-Trans* ve Inter* kişiler olsa da, kaynaklarını ve desteğini aile üyelerine, arkadaşlara, eşlere, eğitim kurumlarına ve işverenlere de genişletirler."
+    },
+    "ko-KR": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V.는 독일 전역의 모든 여성에서 남성(FzM/FtM) 트랜스* 및 인터* 인들을 위한 광범위한 지원을 제공하는 자원봉사, 비영리 기구입니다. 서비스는 그룹 모임, 온라인 정보 및 자료, 나와 같은 상황(파이어 투 파이어) 상담, 교육 자료 및 공개 행사를 포함합니다. 또한 트랜스*에 대한 경험을 가진 의사 및 치료사의 전국 데이터베이스를 유지합니다. 주요 대상이 FzM-트랜스* 및 인터* 사람들이지만 가족, 친구, 파트너, 교육 기관, 고용주에게도 자원과 지원을 확대합니다."
+    },
+    "vi-VN": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. là một tổ chức tình nguyện, phi lợi nhuận cung cấp sự hỗ trợ toàn diện cho tất cả những người chuyển giới từ Nữ sang Nam (FzM/FtM), Trans* và Inter*-people trên khắp Đức. Dịch vụ bao gồm các cuộc họp nhóm, thông tin và tài nguyên trực tuyến, tư vấn từ người đồng nghiệp, tài liệu giáo dục và xuất hiện công khai. Họ cũng duy trì một cơ sở dữ liệu quốc gia về các bác sĩ và nhà trị liệu có kinh nghiệm với Trans*. Mặc dù đối tượng chính của họ là những người Trans* biến đổi từ nữ sang nam và Inter* people, họ cũng mở rộng tài nguyên và sự hỗ trợ của mình cho thành viên gia đình, bạn bè, đối tác, cơ sở giáo dục và nhà tuyển dụng."
+    },
+    "ar-SA": {
+      "title": "TransMann e.V.",
+      "description": "تعد TransMann e.V. هي منظمة طوعية غير ربحية تقدم دعمًا شاملاً لجميع الأشخاص الانتقاليين من الأنثى إلى الذكر (FzM/FtM) والأشخاص الانتر* في جميع أنحاء ألمانيا. تشمل الخدمات اجتماعات المجموعة، المعلومات والموارد على الإنترنت، الإرشاد من الند للند، المواد التعليمية والظهور العام. كما يحافظون على قاعدة بيانات على مستوى الدولة من الأطباء والمعالجين ذوي الخبرة في Trans*. على الرغم من أن جمهورهم الأساسي هم الأشخاص المتحولين جنسياً من الأنثى إلى الذكر والأشخاص الانتر*، إلا أنهم يمتدون أيضًا مواردهم ودعمهم لأفراد العائلات، والأصدقاء، والشركاء، والمؤسسات التعليمية، وأرباب العمل."
+    },
+    "ur-PK": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. رضاکارانہ، غیر منفعت بخش تنظیم ہے جو جرمنی بھر میں تمام خواتین سے مرد (FzM/FtM) ٹرانس* اور انٹر*- لوگوں کی وسیع حد تک مدد فراہم کرتی ہے۔ خدمات میں گروہ کی میٹنگیں، آن لائن معلومات اور وسائل، ساتھی کو ساتھی مشاورت، تعلیمی مواد اور عوامی مظاہرات شامل ہیں۔ وہ ٹرانس*-تجربہ کار ڈاکٹرز اور تھراپسٹ کی قومی پیمانے پر ڈیٹابیس کو بھی برقرار رکھتے ہیں۔ اگرچہ ان کا بنیادی آڈینس FzM-ٹرانس* اور انٹر* لوگ ہیں، وہ اپنے وسائل اور مدد کو خاندان کے افراد، دوستوں، ہمسر, تعلیمی اداروں، اور ملازمین تک بھی بڑھاتے ہیں۔"
+    },
+    "uk-UA": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. - це добровільна, некомерційна організація, яка забезпечує широкий спектр підтримки всіх трансгендерних та інтерсекс осіб (FzM/FtM) у всій Німеччині. Послуги включають групові зустрічі, онлайн-інформацію та ресурси, консультування однолітків, освітні матеріали та публічні виступи. Вони також підтримують всеукраїнську базу даних лікарів і терапевтів, які мають досвід роботи з трансгендерними особами. Хоча їх основна аудиторія - це трансгендерні та інтерсекс особи (FzM), вони також розширюють свої ресурси і підтримку для членів сім'ї, друзів, партнерів, освітніх установ та роботодавців."
+    },
+    "mr-IN": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. म्हणजेच एक स्वयंसेवी, नफाच्या संघटना आहे जी सर्व स्त्री-पुरुष (FzM/FtM) Trans* आणि Inter*-लोकांसाठी जर्मनीतील व्यापक मदत केली आहे. सेवांमध्ये समुह बैठकी, संगणकवरील माहिती आणि संसाधने, समरस ते समरस सल्लागार, शैक्षणिक साहित्य आणि सार्वजनिक उपस्थिती असे. ते Trans*-अनुभवी डॉक्टर आणि उपचारांची राष्ट्रव्यापी डेटाबेसही ठेवतात. त्यांची प्रमुख वाचक वर्ग म्हणजेच FzM-Trans* आणि Inter* लोक असे, परंतु ते कुटुंबीय, मित्र, साथीदार, शैक्षणिक संस्था, आणि नियोजकांला त्यांचे संसाधन आणि मदत प्राप्त करण्यास म्हणजेच ते समर्पीत आहेत."
+    },
+    "hi-IN": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. एक स्वैच्छिक, गैर-लाभकारी संगठन है, जो पूरी जर्मनी में सभी महिला-से-पुरुष (FzM/FtM) Trans* और Inter*-लोगों के लिए व्यापक समर्थन प्रदान करता है। सेवाओं में समूह सभाएं, ऑनलाइन जानकारी और संसाधन, सहकर्मी-के-प्रति परामर्श, शिक्षात्मक सामग्री और सार्वजनिक उपस्थितियाँ शामिल हैं। वे एक देशव्यापी डेटाबेस भी बनाए रखते हैं जिसमें Trans*-अनुभवी चिकित्सकों और चिकित्सकों की सूची होती है। हालांकि उनका मुख्य दर्शक वर्ग FzM-Trans* और Inter* लोग ही होते हैं, फिर भी वे अपने संसाधनों और समर्थन को परिवार के सदस्यों, दोस्तों, सहचरों, शैक्षिक संस्थानों, और नियोक्ताओं तक भी विस्तारित करते हैं।"
+    },
+    "bn-BD": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. হল একটি স্বেচ্ছাসেবী, অলাভজনক সংস্থা যা জার্মানিতে সমস্ত Female-to-Male (FzM/FtM) Trans* এবং Inter*- মানুষদের জন্য বিস্তৃত সমর্থন প্রদান করে। সেবাগুলির মধ্যে গোষ্ঠী সভাগুলি, অনলাইন তথ্য এবং সম্পদ, Peer-to-Peer পরামর্শ, শিক্ষামূলক উপাদান এবং পাবলিক পরিত্যাক রয়েছে। তারা জাতীয় স্তরে Trans* অভিজ্ঞ ডাক্তার এবং চিকিৎসকদের একটি ডাটাবেস রক্ষণ করে। যদিও তাদের প্রাথমিক দর্শকরা FzM-Trans* এবং Inter* লোকেরা, তারা তাদের সম্পদ এবং সমর্থনও পরিবারের সদস্যদের, বন্ধুদের, সঙ্গীদের, শিক্ষাপ্রতিষ্ঠানগুলির এবং নিয়োগকারীদের জন্য প্রসারিত করে।"
+    },
+    "te-IN": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. అనేది స్వేచ్ఛా, లాభరహిత సంస్థ అని  ఆసుపత్రి. ఇది జర్మనీ నాడీలోని అన్ని మహిళా-పురుషుల (FzM/FtM) Trans* మరియు Inter*-మందికీ విస్తృత మద్దతు అందిస్తుంది. విభాగాలు సమూహ సభలు, అన్లైన్ సమాచారం మరియు వనరులు, సరిసాటి-సరిసాటి కన్సెలింగ్, పూర్ణమయ్యే పొడుగు వాణిజ్యాలు మరియు బహిరంగ ప్రదర్శనలను అదనపుగా ఉంచుతుంది. వారు Trans*-అనుభవానికి డాక్టర్లు మరియు థెరపిస్ట్ల యొక్క జాతీయ డేటాబేస్ను కూడా నిర్వహిస్తుంది. అందువల్ల, వారు FzM-Trans* మరియు Inter* ప్రజలకు ముఖ్యంగా ప్రజాలైన ప్రేక్షకులు. వారు కూడా కుటుంబ సభ్యుల, స్నేహితుల, ప్రేమికులు, విద్యా సంస్థలు, మరియు ఉద్యోగదాతల కు మద్దతును పొడిగించారు."
+    },
+    "ta-IN": {
+      "title": "TransMann e.V.",
+      "description": "TransMann e.V. ஒரு சுயாதேசி, லாபக்குறை, அல்லது சமுதாய நிறுவனமாகும், அது முழுவதுமாக பெண்களிடத்தில் ஆண்களுக்கான (FzM/FtM) Trans* மற்றும் Inter*-மக்களை ஆதரிக்கும். சேவைகள் குழு கூட்டங்கள், ஆன்லைன் விபரம் மற்றும் வளங்கள், பீர்டு-பீர் ஆலோசனை, கல்வி வளங்கள் மற்றும் பொது வெளிப்பாடுகளை உள்ளடக்கியது . அவர்கள் மேலும் Trans*-அனுபவமான மருத்துவர்கள் மற்றும் ஆலோசனை செய்யும் மருத்துவர்களின் கூட்டாதிகாரப் பட்டியலை பராமரிக்கின்றனர். அவர்களின் முதன்முதலான உரிமையாளர்கள் FzM-Trans* மற்றும் Inter* மக்களாகவே இருப்பினும், அவர்கள் குடும்பத்தையும், நண்பர்களையும், தொழில்முனைவோரையும், கல்வி நிறுவனங்களையும், மற்றும் ஊழியர்களையும் ஆதரிக்க அவர்களின் வளங்களை மற்றும் ஆதரவை நீட்டிக்கின்றனர்."
+    }
+  }
+}

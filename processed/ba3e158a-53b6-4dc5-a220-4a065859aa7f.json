@@ -1,0 +1,36 @@
+{
+  "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+  "title": "Queer Lexikon",
+  "description": "Queer Lexikon is an online resource providing extensive information and support for the queer community. Covering topics varying from sexual, romantic, gender diversity to mental health and support groups. It's a hub for education, awareness, and community stories.",
+  "slug": "queer-lexikon",
+  "externalUrl": "https://queer-lexikon.net/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "fab fa-twitter",
+    "facebookUrl": "fab fa-facebook",
+    "instagramUrl": "fab fa-instagram",
+    "youtubeUrl": "fab fa-youtube",
+    "patreonUrl": "fab fa-patreon",
+    "tumblrUrl": "fab fa-tumblr",
+    "linkedinUrl": "fab fa-linkedin-in",
+    "emailUrl": "fas fa-envelope"
+  }
+}

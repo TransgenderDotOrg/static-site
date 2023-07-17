@@ -1,0 +1,107 @@
+{
+  "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+  "slug": "us-trans-survey",
+  "externalUrl": "https://www.ustranssurvey.org/",
+  "tags": [
+    "education-awareness",
+    "community-stories",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "ustranssurvey@transequality.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "U.S. Trans Survey",
+      "description": "The U.S. Trans Survey is the largest survey of trans people, by trans people, in the United States. It documents the lives and experiences of trans and nonbinary people aged 16+ in the U.S. and U.S. territories. The survey and its reports have been a vital resource, including reports on the experiences of people of color and by state, helping to shape the future through trans voices."
+    },
+    "zh-CN": {
+      "title": "美国跨性别调查",
+      "description": "美国跨性别调查是由跨性别人群自我调查的美国最大的调查。它记录了16岁以上的跨性别和非二元性别人群在美国及其领土的生活和经历。这项调查及其报告已成为重要的资源，包括对有色人种经历和按州分类的报告，通过跨性别者的声音帮助塑造未来。"
+    },
+    "fr-FR": {
+      "title": "Enquête Trans U.S.",
+      "description": "L'Enquête Trans U.S. est la plus grande enquête sur les personnes trans, par les personnes trans, aux États-Unis. Elle documente les vies et expériences des personnes trans et non-binaires âgées de 16 ans et plus aux États-Unis et dans les territoires américains. L'enquête et ses rapports ont été une ressource vitale, incluant des rapports sur les expériences des personnes de couleur et par état, aidant à façonner l'avenir à travers les voix trans."
+    },
+    "tr-TR": {
+      "title": "ABD Trans Anketi",
+      "description": "ABD Trans Anketi, ABD'deki trans kişiler tarafından yapılan en büyük trans anketidir. ABD ve ABD topraklarındaki 16 yaş ve üstü trans ve nonbinary kişilerin yaşamlarını ve deneyimlerini belgeler. Anket ve raporları, renkli kişilerin deneyimlerine ve eyaletlere göre raporlara dair önemli bir kaynak olmuştur, trans sesleri aracılığıyla geleceği şekillendirmeye yardımcı olmaktadır."
+    },
+    "sw-KE": {
+      "title": "Utafiti wa Trans U.S.",
+      "description": "Utafiti wa Trans U.S. ni utafiti mkubwa zaidi wa watu wa trans, na watu wa trans, nchini Marekani. Inarekodi maisha na uzoefu wa watu wa trans na wasio wa kawaida wenye umri wa miaka 16+ nchini U.S. na maeneo ya U.S. Utafiti na ripoti zake zimekuwa rasilimali muhimu, pamoja na ripoti juu ya uzoefu wa watu wa rangi na kwa hali, kusaidia kuunda siku zijazo kupitia sauti za trans."
+    },
+    "pt-PT": {
+      "title": "Pesquisa Trans dos EUA",
+      "description": "A Pesquisa Trans dos EUA é a maior pesquisa de pessoas trans, feita por pessoas trans, nos Estados Unidos. Documenta as vidas e experiências de pessoas trans e não binárias com 16+ anos de idade nos EUA e nos territórios dos EUA. A pesquisa e seus relatórios têm sido um recurso vital, incluindo relatórios sobre as experiências de pessoas de cor e por estado, ajudando a moldar o futuro por meio de vozes trans."
+    },
+    "ru-RU": {
+      "title": "Транс-опрос в США",
+      "description": "Транс-опрос в США - это крупнейший опрос трансгендерных людей, проведенный трансгендерами, в Соединенных Штатах. Он документирует жизнь и опыт транс и небинарных людей старше 16 лет в США и территориях США. Опрос и его отчеты являются важным ресурсом, включая отчеты об опыте людей цвета и по штатам, помогающие формировать будущее трансголосами."
+    },
+    "es-ES": {
+      "title": "Encuesta Trans de EE. UU.",
+      "description": "La Encuesta Trans de EE. UU. es la encuesta más grande de personas trans, realizada por personas trans, en los Estados Unidos. Documenta las vidas y experiencias de personas trans y no binarias de 16 años o más en los EE. UU. y los territorios de EE. UU. La encuesta y sus informes han sido un recurso vital, incluyendo informes sobre las experiencias de personas de color y por estado, ayudando a dar forma al futuro a través de las voces trans."
+    },
+    "id-ID": {
+      "title": "Survei Trans AS",
+      "description": "Survei Trans AS adalah survei terbesar dari orang trans, oleh orang trans, di Amerika Serikat. Ini mendokumentasikan kehidupan dan pengalaman orang trans dan nonbinary berusia 16+ di AS dan wilayah AS. Survei dan laporan-laporannya telah menjadi sumber yang sangat penting, termasuk laporan tentang pengalaman orang-orang berkulit berwarna dan menurut negara bagian, membantu membentuk masa depan melalui suara-suara trans."
+    },
+    "de-DE": {
+      "title": "U.S. Trans-Umfrage",
+      "description": "Die US-Trans-Umfrage ist die größte Umfrage von Trans-Personen, für Trans-Personen, in den Vereinigten Staaten. Sie dokumentiert das Leben und die Erfahrungen von Trans- und Nonbinary-Personen im Alter von 16+ in den USA und den US-Territorien. Die Umfrage und ihre Berichte sind eine wichtige Ressource, einschließlich Berichte über die Erfahrungen von People of Color und nach Bundesstaat, die dazu beitragen, die Zukunft durch Trans-Stimmen zu gestalten."
+    },
+    "ja-JP": {
+      "title": "U.S.トランス調査",
+      "description": "U.S.トランス調査は、アメリカで最も大規模なトランスジェンダーの人々による調査です。これは、アメリカとアメリカ領土で16歳以上のトランスジェンダーやノンバイナリーの人々の生活や経験を記録しています。この調査とその報告書は、カラーの人々の経験と州ごとの報告書を含む、重要な資源であり、トランスジェンダーの声を通じて未来を形成する助けとなっています。"
+    },
+    "ko-KR": {
+      "title": "미국 트랜스 설문 조사",
+      "description": "미국 트랜스 설문 조사는 미국에서 가장 큰 트랜스 인구 조사로, 트랜스 인구에 의해 이루어진다. 이 조사는 미국과 미국 영토에서 16세 이상의 트랜스와 비이성자 인구의 삶과 경험을 기록한다. 이 설문 조사와 그 보고서는 사람들의 색상 경험과 주별로 보고서를 포함한 중대한 자료였으며, 트랜스 목소리를 통해 미래를 형성하는데 도움이 되었다."
+    },
+    "uk-UA": {
+      "title": "Опитування транс-людей в США",
+      "description": "Опитування транс-людей в США є найбільшим опитуванням транс-людей, проведеним транс-людьми, в Сполучених Штатах. Воно документує життя та досвід транс і небінарних осіб у віці 16 років і старше в США та територіях США. Опитування і його звіти стали важливим ресурсом, включаючи звіти про досвід людей кольору та окремими штатами, що сприяють формуванню майбутнього за допомогою голосів транс-людей."
+    },
+    "ar-SA": {
+      "title": "مسح الولايات المتحدة للترانس",
+      "description": "يعتبر مسح الولايات المتحدة للترانس الأكبر من نوعه بين أشخاص الترانس، بواسطة أشخاص الترانس، في الولايات المتحدة. يوثق الحياة والتجارب للأشخاص الترانس وغير الثنائيين الذين تزيد أعمارهم عن 16 عامًا في الولايات المتحدة والأراضي الأمريكية. كان المسح وتقاريره مصدرًا حيويًا، بما في ذلك التقارير حول تجارب الأشخاص ذوي البشرة الملونة وحسب الولاية، مما يساعد في تشكيل المستقبل من خلال أصوات الترانس."
+    },
+    "vi-VN": {
+      "title": "Khảo sát U.S. Trans",
+      "description": "Khảo sát U.S. Trans là khảo sát lớn nhất về người chuyển giới, do người chuyển giới thực hiện, tại Hoa Kỳ. Nó ghi lại cuộc sống và trải nghiệm của các người chuyển giới và không nhị phân từ 16 tuổi trở lên tại Hoa Kỳ và các lãnh thổ của Hoa Kỳ. Khảo sát và các báo cáo của nó đã là một nguồn tài nguyên quan trọng, bao gồm các báo cáo về trải nghiệm của người da màu và theo bang, giúp định hình tương lai thông qua giọng nói của người chuyển giới."
+    },
+    "ur-PK": {
+      "title": "یو ایس ٹرانس سرور",
+      "description": "یو ایس ٹرانس سروے امریکہ میں ٹرانس لوگوں کا سب سے بڑا سروے ہے، جو ٹرانس لوگوں نے خود کیا ہے۔ یہ سروے یو ایس اور امریکی زمینوں میں 16 سال سے زیادہ عمر کے ٹرانس اور نان بائنری لوگوں کی زندگی اور تجربات کو دستاویزی شکل دیتا ہے۔ سروے اور اس کی رپورٹیں ایک نہایت مؤثر ذریعہ سے ثابت ہوئی ہیں، جس میں رنگین لوگوں کے تجربات کی رپورٹیں اور ریاست کی حسب زمینوں پر مساعدت کی گئی ہے، ٹرانس آوازوں کے ذریعہ مستقبل کا شکل دینے میں مدد کرتی ہیں۔"
+    },
+    "bn-BD": {
+      "title": "U.S. ট্রান্স জরিপ",
+      "description": "U.S. ট্রান্স জরিপ হলো যুক্তরাষ্ট্রে ট্রান্স মানুষের দ্বারা পরিচালিত ট্রান্স মানুষের বৃহত্তম জরিপ। এটি দলীয় এবং অবায়ব ব্যক্তিদের জীবন এবং অভিজ্ঞতার ডকুমেন্ট করে যারা 16+ বয়সী এবং যুক্তরাষ্ট্র এবং যুক্তরাষ্ট্রের অঞ্চলে বসবাস করে। জরিপটি এবং এর প্রতিবেদনগুলি একটি গুরুত্বপূর্ণ সম্পদ গঠন করেছে, যা রঙের মানুষের অভিজ্ঞতা এবং রাজ্য অনুসারে প্রতিবেদন সহ, ট্রান্স ভোক্তাদের মাধ্যমে ভবিষ্যতের আকার দেওয়ার সহায়তা করে।"
+    },
+    "te-IN": {
+      "title": "యు.ఎస్. ట్రాన్స్ సర్వే",
+      "description": "యు.ఎస్. ట్రాన్స్ సర్వే అది అమెరికాలో ట్రాన్స్ ప్రజలు ద్వారా ప్రజల కోసం ఉండే అతిపెద్ద సర్వే. ఇది అమెరికా మరియు అమెరికా ప్రాంతాలలోని 16+ వయసున్న ట్రాన్స్ మరియు అ-బైనరీ ప్రజల జీవితాలు మరియు అనుభవాలను పత్రము చేస్తుంది. ఈ సర్వే మరియు దాని నివేదికలు రంగు వలె ప్రజల అనుభవాల పై నివేదికలు ఉంచి, రాష్ట్ర ద్వారా ట్రాన్స్ స్వరాల ద్వారా భవిష్యత్తుని రూపొందించడానికి ముఖ్యమైన సంపన్నం ఉంచి."
+    },
+    "mr-IN": {
+      "title": "यु.एस. ट्रान्स सर्वेक्षण",
+      "description": "यु.एस. ट्रान्स सर्वेक्षण हे संयुक्त राज्यांमधील ट्रान्स लोकांच्या, ट्रान्स लोकांसाठी अगदी मोठे सर्वेक्षण आहे. त्यामध्ये 16 वर्षांपेक्षा जास्त वयाच्या ट्रान्स आणि नॉनबायनरी लोकांच्या अनुभवांची आणि जीवनाची दस्तावेजीकरण केली आहे. सर्वेक्षण आणि त्याच्या अहवालांमध्ये लोकांच्या अनुभवांच्या अहवालांचा समावेश असलेल्या अत्यंत महत्वाच्या संसाधनांपैकी एक आहे, ज्या मध्ये रंगबिरंगी लोकांच्या अनुभवांवर आणि राज्यानुसार अहवालांवर आधारित, ट्रान्सच्या आवाजाच्या माध्यमातून भविष्याच्या आकाराची योजना करण्यास मदत करते."
+    },
+    "hi-IN": {
+      "title": "यू.एस. ट्रांस सर्वेक्षण",
+      "description": "यू.एस. ट्रांस सर्वेक्षण संयुक्त राज्य अमेरिका में ट्रांस लोगों का सबसे बड़ा सर्वेक्षण है, जो ट्रांस लोगों द्वारा किया जाता है। यह संयुक्त राज्य अमेरिका और यू.एस. प्रदेशों में 16+ आयु के ट्रांस और गैर-बाइनरी लोगों के जीवन और अनुभवों का दस्तावेज़ीकरण करता है। सर्वेक्षण और इसकी रिपोर्टें महत्वपूर्ण संसाधन रहीं हैं, जिसमें रंगीन लोगों के अनुभवों और राज्य द्वारा रिपोर्टों पर सहायता मिली है, जो ट्रांस आवाज़ों के माध्यम से भविष्य को आकार देने में सहायता कर रही है।"
+    },
+    "ta-IN": {
+      "title": "யூ.எஸ். Trans Survey",
+      "description": "யூ.எஸ். Trans Survey ஒரு மிகப்பெரிய தளபாடும் அது அமெரிக்காவில் உள்ள மாறிய ஆணினங்களின் வாழ்க்கையை மாறியாணினங்களால் ஆய்வு செய்யும். இது 16 வயதிற்கும் மேலான அமெரிக்காவில் உள்ள பாலியல் மாறிய ஆணினம் மற்றும் nonbinary மக்களின் வாழ்க்கைகளை, அனுபவங்களை ஆய்வு செய்கிறது. இந்த கவனிப்பு மற்றும் அதன் அறிக்கைகள் மிகவும் முக்கியமான வளங்களாக உள்ளன, இது நிறத்தரவு மற்றும் மாநில அநுபவங்களைப் பொருத்தமாகக் கொண்டு மாறிய குரல்கள் மூலம் வரைவில் உருவாகிவருகின்றன."
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
+  "slug": "baby-making-for-everybody",
+  "externalUrl": "https://www.babymakingforeverybody.com/",
+  "tags": [
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Baby Making for Everybody",
+      "description": "A how-to guide and celebration of various family creation methods outside of the traditional heterosexual-nuclear-family model for LGBTQ+ and solo parents. The book provides a step-by-step guide alongside personal narratives, providing prospective parents a blueprint to grow their families."
+    },
+    "fr-FR": {
+      "title": "La création de bébé pour tous",
+      "description": "Un guide pratique et une célébration des différentes méthodes de création de famille en dehors du modèle traditionnel de la famille nucléaire hétérosexuelle pour les parents LGBTQ+ et solo. Le livre fournit un guide étape par étape avec des récits personnels, offrant aux futurs parents un plan pour agrandir leurs familles."
+    },
+    "es-ES": {
+      "title": "Creación de Bebés para Todos",
+      "description": "Una guía práctica y celebración de diversos métodos de creación de familias fuera del modelo tradicional de familia nuclear heterosexual para padres LGBTQ+ y solteros. El libro proporciona una guía paso a paso junto con narrativas personales, proporcionando a los futuros padres un plan para expandir sus familias."
+    },
+    "de-DE": {
+      "title": "Babyherstellung für Alle",
+      "description": "Ein How-To-Leitfaden und Feier verschiedener Methoden zur Familienschaffung außerhalb des traditionellen heterosexuellen Kernfamilienmodells für LGBTQ+ und Alleinerziehende. Das Buch liefert einen Schritt-für-Schritt-Leitfaden neben persönlichen Erzählungen und bietet angehenden Eltern einen Bauplan zum Wachsen ihrer Familien."
+    },
+    "id-ID": {
+      "title": "Pembuatan Bayi untuk Semua Orang",
+      "description": "Panduan bagaimana caranya dan perayaan berbagai metode pembuatan keluarga di luar model keluarga heteroseksual-nuklir tradisional untuk LGBTQ+ dan orangtua solo. Buku ini menyediakan panduan langkah demi langkah di samping narasi pribadi, memberikan calon orangtua sebuah rencana untuk mengembangkan keluarganya."
+    },
+    "sw-KE": {
+      "title": "Uzazi kwa Kila Mtu",
+      "description": "Mwongozo wa jinsi ya na kuadhimisha njia mbalimbali za uundaji familia nje ya mfano wa kawaida wa familia ya hetero-nuclear kwa LGBTQ+ na wazazi pekee. Kitabu kinatoa mwongozo wa hatua kwa hatua pamoja na simulizi za kibinafsi, kinatoa kwa wazazi wanaotarajia ramani ya kukua familia zao."
+    },
+    "ko-KR": {
+      "title": "모든 사람을 위한 아기 만들기",
+      "description": "LGBTQ+ 및 솔로 부모를 위한 전통적인 이성애 핵가족 모델 외의 다양한 가족 창조 방법에 대한 안내서와 축하입니다. 이 책은 개인적인 이야기와 함께 단계별 안내서를 제공하여 잠재적인 부모들에게 가족을 키울 수 있는 청사진을 제공합니다."
+    },
+    "pt-PT": {
+      "title": "Fazer bebês para todos",
+      "description": "Um guia e celebração de vários métodos de criação de família fora do modelo tradicional de família nuclear hétero para LGBTQ+ e pais solteiros. O livro fornece um guia passo a passo junto com narrativas pessoais, fornecendo aos futuros pais um projeto para expandir suas famílias."
+    },
+    "vi-VN": {
+      "title": "Cách Sản Sinh Trẻ em Cho Mọi Người",
+      "description": "Hướng dẫn và chúc mừng về các phương pháp tạo dựng gia đình khác ngoài mô hình gia đình hạt nhân truyền thống cho LGBTQ+ và cha mẹ đơn thân. Cuốn sách cung cấp hướng dẫn từng bước cùng với các câu chuyện cá nhân, cung cấp cho cha mẹ tiềm năng một bản vẽ để phát triển gia đình của họ."
+    },
+    "zh-CN": {
+      "title": "人人生娃指南",
+      "description": "这是一本指南书和庆祝各种在传统异性恋核心家庭模式之外的家庭创造方法的书，适用于LGBTQ+ 和单身父母。该书提供了一份逐步指导，同时附有个人叙述，为准父母提供了一个扩大家庭的蓝图。"
+    },
+    "tr-TR": {
+      "title": "Herkes İçin Bebek Yapma",
+      "description": "Geleneksel heteroseksüel-nükleer-aile modelinin dışında çeşitli aile yaratma yöntemlerinin nasıl bir rehberi ve kutlaması LGBTQ+ ve solo ebeveynler için. Kitap, adım adım bir rehber sunar ve kişisel anlatılarla birlikte, potansiyel ebeveynlere ailelerini büyütme konusunda bir yol haritası sağlar."
+    },
+    "ru-RU": {
+      "title": "Создание ребенка для всех",
+      "description": "Практическое руководство и празднование различных методов создания семьи, отличных от традиционной модели гетеросексуальной ядерной семьи, для ЛГБТК+ и одиноких родителей. Книга предоставляет пошаговое руководство наряду с личными историями, предоставляя потенциальным родителям чертеж для расширения своих семей."
+    },
+    "ja-JP": {
+      "title": "誰でも赤ちゃんを作る方法",
+      "description": "LGBTQ+及び一人親にとって、伝統的な異性愛の核家族モデル以外のさまざまな家族作りの方法についてのガイドと祝賀。この本は、手順豊富なガイドとともに個人の物語を提供し、見込みの親に家族を増やすための青写真を提供します。"
+    },
+    "uk-UA": {
+      "title": "Створення дитини для всіх",
+      "description": "Посібник і святкування різних способів створення сім'ї за межами традиційної моделі гетеросексуальної ядерної сім'ї для LGBTQ+ та одиноких батьків. Книга надає крок-за-кроком посібник поряд із особистими розповідями, надаючи потенційним батькам план для розширення їх сімей."
+    },
+    "ar-SA": {
+      "title": "صناعة الأطفال للجميع",
+      "description": "دليل عملي واحتفال بأساليب إنشاء العائلات المختلفة خارج نموذج العائلة النووية التقليدية الغير مثلية للمثليين والأبوين الفرديين. يوفر الكتاب دليلًا خطوة بخطوة جنبًا إلى جنب مع السرد الشخصي، مقدمًا للوالدين المحتملين خريطة طريق لتنمية أسرهم."
+    },
+    "mr-IN": {
+      "title": "प्रत्येकासाठी बाळ निर्माण",
+      "description": "LBGTQ+ आणि एकटे माता-पिते साठी पारंपारिक हेटरोसेक्सुअल-न्यूक्लियर-कुटुंब नमुन्याच्या बाहेरील विविध कुटुंब निर्माण पद्धतींची मनानी आणि कसे करावे ह्याचा मार्गदर्शन. ही पुस्तक एका चरणावलीच्या मार्गदर्शनासोबत वैयक्तिक चरित्रांचे सामावेश करते, परिप्रेक्ष्यी माता-पितांना त्यांच्या कुटुंबांचे विस्तार कसे करावे ह्याचे एक नकाशा प्रदान करते."
+    },
+    "bn-BD": {
+      "title": "সবার জন্য বেবি তৈরি",
+      "description": "একটি হাও-টু গাইড এবং ঐতিহ্যবাহী হেটেরোসেক্সুয়াল-নিউক্লিয়ার-পরিবার মডেলের বাইরে বিভিন্ন পরিবার তৈরির উপায়ের উদীয়মান। এটি এলজিবিটিকিউ+ এবং একক অভিভাবকদের জন্য। এই বইটি একটি ধাপদরশী গাইডের পাশাপাশি ব্যক্তিগত গল্প সরবরাহ করে, ভবিষ্যৎ অভিভাবকদের তাদের পরিবার বাড়াতে একটি পরিকল্পনা সরবরাহ করে।"
+    },
+    "hi-IN": {
+      "title": "सबके लिए बेबी बनाने का तरीका",
+      "description": "LGBTQ+ और सोलो माता-पिता के लिए पारंपरिक हेटेरोसेक्सुअल-न्यूक्लियर-परिवार मॉडल के बाहर विभिन्न परिवार सृजन विधियों का स्वागत और गाइड। पुस्तक ने व्यक्तिगत कथाओं के साथ-साथ एक चरण-दर-चरण मार्गदर्शन प्रदान किया है, संभावित माता-पिता को अपने परिवारों को बढ़ाने का एक नक्शा प्रदान करता है।"
+    },
+    "ur-PK": {
+      "title": "ہر شخص کے لئے بچہ پیدا کرنے",
+      "description": "ایک ہدایت نامہ اور خوشی کی تقریب ہم جنس پرستی ، ٹرینس جینڈر ، پیارے  لوگوں اور انفرادی والدین کے لئے روایتی معاشرتی-نوکلیئر-خاندانی ماڈل کے باہر مختلف خاندانی تخلیقی طریقے. کتاب ہدایت نامے اور شخصی خاکے کے ساتھ ایک قدم بہ قدم ہدایت فراہم کرتی ہے ، جو ممکنہ والدین کو اپنے خاندان کو بڑھانے کے لئے ایک نقشہ فراہم کرتی ہے."
+    },
+    "ta-IN": {
+      "title": "அனைவருக்கும் குழந்தை உருவாக்கும் முறை",
+      "description": "சாதாரண ஆண-பெண்-அணுகுடும்ப மாதிரியை விட்டு வேறு பல குடும்ப உருவாக்கும் முறைகளை வழிகாட்டும் ஏவுகணை மற்றும் ஒரு கொண்டாட்டமாக, LGBTQ+ மற்றும் தனியாள் பெற்றோர்களுக்கு. இந்த புத்தகம் படி படி வழிகாட்டுதலையும், தனிப்பட்ட கதைகளையும் வழங்கியுள்ளது, எதிர்கால பெற்றோர்களுக்கு அவர்கள் குடும்பங்களை வளர்த்தலின் முத்திரையை வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "అన్నివారికీ పిల్లల సృష్టి",
+      "description": "సాంప్రదాయిక హెటెరోసెక్సువల్-న్యూక్లియార్-ఫ్యామిలీ మోడల్ కనిపెట్టకుండా విభిన్న కుటుంబ సృష్టి పద్ధతులపై ఎలా చేయాలనే మార్గదర్శి మరియు వేడుక. LGBTQ+ మరియు సోలో మాతాపితల కోసం. ఈ పుస్తకంలో ప్రత్యమొక్కరు మాధుర్య వివరణలతో పాటు క్రమ క్రమ మార్గదర్శనాన్ని అందిస్తుంది, భవిష్యత్తు మాతాపితలకు వారి కుటుంబాలను పెంచుకునే ఏ పద్ధతి చూపుతుంది."
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "91296a03-5c7f-4105-9ba7-2aa9e8bf5223",
+  "slug": "parents-of-gender-diverse-children",
+  "externalUrl": "https://www.pgdc.org.au/",
+  "tags": [
+    "parent-family-resources",
+    "support-groups",
+    "education-awareness",
+    "mental-health",
+    "youth-services"
+  ],
+  "address": null,
+  "phoneNumber": "03 9663 6733",
+  "country": "AU",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "info@pgdc.org.au",
+  "socialMedia": {},
+  "i18n": {
+    "en-US": {
+      "title": "Parents of Gender Diverse Children",
+      "description": "Parents of Gender Diverse Children provides support, connections, and resources to parents and those parenting transgender and gender diverse children in Australia. The organization offers confidential and non-judgemental peer support, monthly catchups, an online Parent Hub, and professional development and speakers."
+    },
+    "es-ES": {
+      "title": "Padres de Niños de Diversidad de Género",
+      "description": "Padres de Niños de Diversidad de Género provee apoyo, conexiones y recursos a padres y a aquellos que están criando niños transgéneros y de diversidad de género en Australia. La organización ofrece soporte de pares confidencial y sin prejuicios, encuentros mensuales, un Centro de Padres en línea, y desarrollo profesional y oradores."
+    },
+    "de-DE": {
+      "title": "Eltern geschlechtlich diverser Kinder",
+      "description": "Eltern geschlechtlich diverser Kinder bietet Unterstützung, Kontakte und Ressourcen für Eltern und solche, die in Australien transgender und geschlechtlich diverse Kinder erziehen. Die Organisation bietet vertrauliche und nicht wertende Peer-Unterstützung, monatliche Treffen, ein Online-Eltern-Zentrum und berufliche Weiterbildung und Referenten."
+    },
+    "id-ID": {
+      "title": "Orangtua Anak yang Beragam Gender",
+      "description": "Orangtua Anak yang Beragam Gender menyediakan dukungan, konektivitas, dan sumber daya kepada orangtua dan mereka yang membesarkan anak transgender dan beragam gender di Australia. Organisasi ini menawarkan dukungan sebaya yang rahasia dan tidak berprasangka, pertemuan bulanan, Parent Hub online, dan pengembangan profesional dan pembicara."
+    },
+    "fr-FR": {
+      "title": "Parents d'Enfants de Diversité de Genre",
+      "description": "Parents d'Enfants de Diversité de Genre fournit un soutien, des connexions et des ressources aux parents et à ceux qui élèvent des enfants transgenres et de diversité de genre en Australie. L'organisation offre un soutien par les pairs confidentiel et non-jugemental, des rencontres mensuelles, un Parent Hub en ligne, et du développement professionnel et des intervenants."
+    },
+    "pt-PT": {
+      "title": "Pais de Crianças com Diversidade de Gênero",
+      "description": "Pais de Crianças com Diversidade de Gênero oferece suporte, conexões e recursos para pais e aqueles que criam crianças transgêneras e com diversidade de gênero na Austrália. A organização oferece suporte confidencial e sem preconceitos entre pares, encontros mensais, um Parent Hub online e desenvolvimento profissional e palestrantes."
+    },
+    "zh-CN": {
+      "title": "性别多元化儿童的父母",
+      "description": "性别多元化儿童的父母在澳大利亚为父母和那些抚养跨性别和性别多元化儿童的人提供支持、联系和资源。该组织提供保密且不带评判的同行支持，每月集会，线上家长中心，以及专业发展和演讲者。"
+    },
+    "sw-KE": {
+      "title": "Wazazi wa Watoto wenye Uanuwai wa Jinsia",
+      "description": "Wazazi wa Watoto wenye Uanuwai wa Jinsia hutoa msaada, mawasiliano, na rasilimali kwa wazazi na wale wanaolea watoto wa jinsia tofauti na transgender nchini Australia. Shirika hutoa msaada wa kikundi kisicho na hukumu na wa siri, mikusanyiko ya kila mwezi, Kituo cha Wazazi mtandaoni, na maendeleo ya kitaalamu na wasemaji."
+    },
+    "vi-VN": {
+      "title": "Cha mẹ của Trẻ em Đa giới tính",
+      "description": "Cha mẹ của Trẻ em Đa giới tính cung cấp sự hỗ trợ, kết nối và nguồn lực cho cha mẹ và những người đang nuôi dạy trẻ em chuyển giới và đa giới tính ở Úc. Tổ chức này cung cấp sự hỗ trợ từ đồng nghiệp với tinh thần không phê phán và đảm bảo tính riêng tư, các cuộc họp hàng tháng, một Trung tâm cha mẹ trực tuyến, và đào tạo chuyên môn và các diễn giả."
+    },
+    "ko-KR": {
+      "title": "성 다양성을 가진 아이들의 부모님들",
+      "description": "성 다양성을 가진 아이들의 부모님들은 호주에서 성 전환과 성 다양성을 가진 아이들을 키우는 부모님들과 그런 아이들에게 지원, 연결, 자원을 제공합니다. 이 조직은 비밀 보장 및 비판의 여지 없는 동료 지원, 월별 모임, 온라인 부모 허브, 전문적인 개발과 스피커를 제공합니다."
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Çeşitliliğine Sahip Çocukların Ebeveynleri",
+      "description": "Cinsiyet Çeşitliliğine Sahip Çocukların Ebeveynleri, Avustralya'daki transgender ve cinsiyet çeşitliliği olan çocukları büyüten ebeveynlere ve bu kişilere destek, bağlantılar ve kaynaklar sunar. Organizasyon, gizli ve yargısız akran desteği, aylık buluşmalar, çevrimiçi bir Ebeveyn Merkezi ve profesyonel gelişim ve konuşmacılar sunmaktadır."
+    },
+    "ja-JP": {
+      "title": "ジェンダーダイバーシティな子供を持つ親",
+      "description": "ジェンダーダイバーシティな子供を持つ親は、オーストラリアでトランスジェンダーとジェンダーダイバーシティな子供を育てている親やその育児者に支援、つながり、リソースを提供します。この組織は、秘密を守り、非審判的な同士の支援、月に1回の集まり、オンラインの親のハブ、および専門的な育成とスピーカーを提供します。"
+    },
+    "ru-RU": {
+      "title": "Родители детей с разнообразием гендера",
+      "description": "Родители детей с разнообразием гендера предоставляют поддержку, связи и ресурсы родителям и тем, кто воспитывает трансгендерных и гендерно разнообразных детей в Австралии. Организация предлагает конфиденциальную и безоценочную поддержку от сверстников, ежемесячные встречи, онлайн-центр для родителей, а также профессиональное развитие и выступления спикеров."
+    },
+    "ur-PK": {
+      "title": "جندر مختلف بچوں کے والدین",
+      "description": "جندر مختلف بچوں کے والدین آسٹریلیا میں ٹرانس جینڈر اور جندر مختلف بچوں کو پرورش کرنے والوں اور والدین کو سپورٹ, ارتباطات, اور وسائل فراہم کرتے ہیں۔ تنظیم محرمانہ اور غیر-تنقیدی ہمسر ایجاد کرتی ہے، ماہانہ ملاقاتیں، آن لائن والدین ہب، اور پیشہ ورانہ ترقی اور تقریبات کی پیشکش کرتی ہے۔"
+    },
+    "ar-SA": {
+      "title": "أولياء أمور الأطفال ذوي التنوع الجنسي",
+      "description": "يوفر أولياء أمور الأطفال ذوي التنوع الجنسي دعمًا وروابط وموارد للوالدين وأولئك الذين يربون أطفالًا متحولين جنسياً وذوي تنوع جنسي في أستراليا. تقدم المنظمة دعمًا متبادلًا خاصًا وغير قابل للإدانة، ولقاءات شهرية، ومحور رئيسي عبر الإنترنت للوالدين، وتطويرًا مهنيًا ومتحدثين."
+    },
+    "uk-UA": {
+      "title": "Батьки дітей з різноманітністю гендерів",
+      "description": "Батьки дітей з різноманітністю гендерів надають підтримку, зв'язок та ресурси батькам та особам, які виховують трансгендерних та гендерно різноманітних дітей в Австралії. Організація пропонує конфіденційну та без упереджень підтримку однолітків, щомісячні зустрічі, Онлайн-хаб для батьків, а також професійний розвиток та спікерів."
+    },
+    "hi-IN": {
+      "title": "लिंग विविधता वाले बच्चों के माता-पिता",
+      "description": "लिंग विविधता वाले बच्चों के माता-पिता ऑस्ट्रेलिया में ट्रांसजेंडर और लिंग विविध बच्चों के पालन करने वालों के लिए समर्थन, संपर्क और संसाधन प्रदान करते हैं। संगठन गोपनीयता और गैर-निर्णयात्मक सहकर्मी सहायता, मासिक कैचअप, एक ऑनलाइन पेरेंट हब, और पेशेवर विकास और वक्ता बताता है।"
+    },
+    "mr-IN": {
+      "title": "लैंगिक विविधता असलेल्या मुलांचे पालक",
+      "description": "लैंगिक विविधता असलेल्या मुलांचे पालक ऑस्ट्रेलियातील लैंगिक अनेकता असलेल्या आणि ट्रान्सजेंडर असलेल्या मुलांच्या पालनाच्या काळात असलेल्या पालकांना समर्थन, कनेक्शन आणि स्त्रोत पुरवते. संघटना गोपनीयतेची आणि निर्णय न करणारी सहकारी, मासिक संगतना, ऑनलाईन पालक हब, आणि व्यावसायिक विकास आणि वक्ते पुरवते."
+    },
+    "bn-BD": {
+      "title": "লিঙ্গ বৈচিত্র্যময় শিশুদের মাতা-পিতা",
+      "description": "লিঙ্গ বৈচিত্র্যময় শিশুদের মাতা-পিতা অস্ট্রেলিয়াতে ট্রান্সজেন্ডার এবং লিঙ্গ বৈচিত্র্যময় শিশুদের পরিবারকে সাপোর্ট, সংযোগ এবং সম্পদ সরবরাহ করে। এই সংস্থাটি গোপনীয় এবং নীরবিমান সহযোগীদের সাপোর্ট, মাসিক সংখ্যা, একটি অনলাইন পেরেন্ট হাব, এবং পেশাদার উন্নয়ন এবং বক্তা অফার করে।"
+    },
+    "ta-IN": {
+      "title": "பாலின்மையான மாற்றம் கொண்ட குழந்தைகளின் பெற்றோர்கள்",
+      "description": "பாலின்மையான மாற்றம் கொண்ட குழந்தைகளின் பெற்றோர்கள் ஆஸ்திரேலியாவில் உள்ள பெற்றோர்களுக்கும் மற்றும் பாலின்மையான மாற்றத்தை அறியும் முறையில் வளர்ப்பதிக் கூடிய குழந்தைகளை வளர்க்கும் அவர்களுக்கும் ஆதரவை, தொடர்புகளை மற்றும் வளங்களை வழங்குகின்றன. அமைப்பு முறையில்லாத மற்றும் மார்க்கமாக நடந்ததை அறியாத பெருக ஆதரவை, மாதா மாதம் இணைந்து கொள்ளுதலை, இணையதளமான பெற்றோர் ஓப், மற்றும் தொழில் மேம்பாடு மற்றும் பேச்சாளர்களை வழங்குகின்றது."
+    },
+    "te-IN": {
+      "title": "లింగ వైవిధ్యమైన పిల్లల తల్లిదండ్రులు",
+      "description": "ఆస్ట్రేలియాలో లింగ వైవిధ్యమైన మరియు ట్రాన్స్‌జెండర్ పిల్లలను పేర్చుకుంటున్న వారికి మరియు తల్లిదండ్రులకు మద్దతు, కనెక్షన్‌లు మరియు వనరులను అందిస్తుంది. ఈ సంస్థ గోప్య మరియు నిర్ధారణాత్మక గవరణ మద్దతు, నెలనెలా పట్టుబడులు, ఆన్‌లైన్ పేరెంట్ హబ్, మరియు వృత్తిపరిపక్వత మరియు ప్రసారకారులను అందిస్తుంది."
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+  "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+  "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+  "phoneNumber": "+31(0)20 444 0542",
+  "country": "NL",
+  "provinceOrState": "NH",
+  "city": "Amsterdam",
+  "county": "Amsterdam",
+  "latLng": [
+    52.3346104,
+    4.8598083
+  ],
+  "email": "genderteam-poli@vumc.nl",
+  "socialMedia": {
+    "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+  },
+  "town": "Amsterdam-Zuid",
+  "i18n": {
+    "en-US": {
+      "title": "Amsterdam UMC - Kennis- en Zorgcentrum Genderdysforie",
+      "description": "The Knowledge and Care Center for Gender Dysphoria at Amsterdam UMC specializes in providing medical treatment and psychological support to people who feel their birth gender does not match their identity. The center embraces individual diversity, tailors its services to personal needs, and is recognized internationally for its expertise in treating gender incongruence. It also undertakes research to improve understanding and treatment of transgender individuals and offers training to new healthcare professionals."
+    },
+    "pt-PT": {
+      "title": "Amsterdam UMC - Centro de Conhecimento e Cuidado para Disforia de Gênero",
+      "description": "O Centro de Conhecimento e Cuidado para Disforia de Gênero do Amsterdam UMC é especializado em proporcionar tratamento médico e apoio psicológico a pessoas que sentem que o seu gênero de nascimento não corresponde à sua identidade. O centro acolhe a diversidade individual, adapta seus serviços às necessidades pessoais e é reconhecido internacionalmente por sua expertise no tratamento da incongruência de gênero. Também realiza pesquisas para melhorar a compreensão e o tratamento de indivíduos transgêneros e oferece treinamento para novos profissionais de saúde."
+    },
+    "es-ES": {
+      "title": "Amsterdam UMC - Centro de Conocimiento y Cuidado de la Disforia de Género",
+      "description": "El Centro de Conocimiento y Cuidado para la Disforia de Género en Amsterdam UMC se especializa en proporcionar tratamiento médico y apoyo psicológico a las personas que sienten que su género de nacimiento no coincide con su identidad. El centro abraza la diversidad individual, adapta sus servicios a las necesidades personales y es reconocido internacionalmente por su experiencia en el tratamiento de la incongruencia de género. También lleva a cabo investigaciones para mejorar la comprensión y el tratamiento de las personas transgénero y ofrece formación a nuevos profesionales de la salud."
+    },
+    "fr-FR": {
+      "title": "Amsterdam UMC - Centre de Connaissance et de Soin pour la Dysphorie de Genre",
+      "description": "Le Centre de Connaissance et de Soin pour la Dysphorie de genre à Amsterdam UMC se spécialise dans la fourniture de traitement médical et de soutien psychologique aux personnes qui ressentent que leur genre de naissance ne correspond pas à leur identité. Le centre embrasse la diversité individuelle, adapte ses services aux besoins personnels et est reconnu internationalement pour son expertise dans le traitement de l'incongruence de genre. Il mène également des recherches pour améliorer la compréhension et le traitement des personnes transgenres et propose une formation aux nouveaux professionnels de la santé."
+    },
+    "zh-CN": {
+      "title": "阿姆斯特丹UMC - 性别焦虑知识和护理中心",
+      "description": "阿姆斯特丹UMC的性别焦虑知识和护理中心专门为觉得出生性别与他们身份不符的人们提供医疗治疗和心理支持。中心接纳个人多样性，根据个人需求提供服务，并且因其在治疗性别不一致方面的专业知识而得到国际认可。它还进行研究以增进对跨性别个体的理解和治疗，同时也为新的医疗专业人员提供培训。"
+    },
+    "id-ID": {
+      "title": "Amsterdam UMC - Pusat Pengetahuan dan Perawatan Gender Dysforia",
+      "description": "Pusat Pengetahuan dan Perawatan untuk Disforia Gender di Amsterdam UMC mengkhususkan diri dalam memberikan perawatan medis dan dukungan psikologis kepada orang-orang yang merasa jenis kelamin mereka saat lahir tidak sesuai dengan identitas mereka. Pusat ini menerima keanekaragaman individu, menyesuaikan layanannya dengan kebutuhan pribadi, dan diakui secara internasional karena keahliannya dalam mengobati inkongruensi gender. Pusat ini juga melakukan penelitian untuk meningkatkan pemahaman dan pengobatan individu transgender dan menawarkan pelatihan kepada profesional kesehatan baru."
+    },
+    "tr-TR": {
+      "title": "Amsterdam UMC - Gender Dysforia Bilgi ve Bakım Merkezi",
+      "description": "Amsterdam UMC'deki Gender Dysforia Bilgi ve Bakım Merkezi, doğum cinsiyeti kimliklerine uymayan hisseden kişilere tıbbi tedavi ve psikolojik destek sağlamada uzmandır. Merkez, bireysel çeşitliliği benimser, hizmetlerini kişisel ihtiyaçlara uyarlar ve cinsiyet uyumsuzluğunu tedavi etmedeki uzmanlığı ile uluslararası alanda tanınır. Ayrıca, transgender bireylerin anlaşılmasını ve tedavisini iyileştirmek için araştırmalar yapar ve yeni sağlık profesyonellerine eğitimler sunar."
+    },
+    "de-DE": {
+      "title": "Amsterdam UMC - Wissens- und Pflegezentrum für Geschlechtsdysphorie",
+      "description": "Das Wissens- und Pflegezentrum für Geschlechtsdysphorie am Amsterdam UMC ist spezialisiert auf die medizinische Behandlung und psychologische Unterstützung von Menschen, die sich mit ihrem Geburtsgeschlecht nicht identifizieren können. Das Zentrum schätzt die individuelle Vielfalt, passt seine Dienstleistungen an persönliche Bedürfnisse an und ist international anerkannt für seine Expertise in der Behandlung von Geschlechtsinkongruenz. Es forscht auch, um das Verständnis und die Behandlung von Transgender-Individuen zu verbessern und bietet Schulungen für neue Gesundheitsfachleute an."
+    },
+    "sw-KE": {
+      "title": "Amsterdam UMC - Kituo cha Maarifa na Uangalizi kuhusu Dysforia ya Jinsia",
+      "description": "Kituo cha Maarifa na Uangalizi kuhusu Dysforia ya Jinsia katika Amsterdam UMC kinabobea katika kutoa matibabu ya kimatibabu na msaada wa kisaikolojia kwa watu ambao wanahisi jinsia yao ya kuzaliwa haifanani na utambulisho wao. Kituo hicho kinakubali utofautishaji wa binafsi, kinabadilisha huduma zake kulingana na mahitaji ya kibinafsi, na kinatambulika kimataifa kwa utaalamu wake katika kutibu kutofanana kwa jinsia. Pia hufanya utafiti ili kuboresha uelewa na matibabu ya watu wa jinsia tofauti na inatoa mafunzo kwa wafanyakazi wa afya wapya."
+    },
+    "vi-VN": {
+      "title": "Amsterdam UMC - Trung tâm Kiến thức và Chăm sóc về Rối loạn Giới tính",
+      "description": "Trung tâm Kiến thức và Chăm sóc về Rối loạn Giới tính tại Amsterdam UMC chuyên cung cấp điều trị y tế và hỗ trợ tâm lý cho những người cảm thấy giới tính từ khi sinh ra không phù hợp với bản sắc của họ. Trung tâm tôn trọng sự đa dạng cá nhân, điều chỉnh các dịch vụ theo nhu cầu cá nhân, và được công nhận quốc tế về chuyên môn trong việc điều trị bất ổn về giới tính. Nó cũng tiến hành nghiên cứu để cải thiện sự hiểu biết và điều trị với những người chuyển đổi giới tính và cung cấp đào tạo cho các chuyên gia y tế mới."
+    },
+    "ja-JP": {
+      "title": "アムステルダムUMC - ジェンダー不一致の知識とケアセンター",
+      "description": "アムステルダムUMCのジェンダー不一致の知識とケアセンターは、自分のアイデンティティと生まれた性別が一致しないと感じる人々への医療治療と心理的サポートを専門としています。センターは個々の多様性を尊重し、サービスを個々のニーズに合わせ、ジェンダーの不一致の治療における専門知識で国際的に認知されています。また、トランスジェンダー個々の理解と治療法の改善を目指した研究を行い、新たな医療専門家への教育も提供しています。"
+    },
+    "ru-RU": {
+      "title": "Амстердамский UMC - центр знаний и заботы о гендерной дисфории",
+      "description": "Центр знаний и заботы о гендерной дисфории в Амстердамском UMC специализируется на предоставлении медицинской помощи и психологической поддержки людям, которые чувствуют, что их родовой пол не соответствует их идентичности. Центр принимает индивидуальное разнообразие, адаптирует свои услуги к личным потребностям и признан международно в области профессионального лечения гендерного несоответствия. Он также проводит исследования с целью улучшения понимания и лечения трансгендерных людей и проводит обучение новых медицинских специалистов."
+    },
+    "ar-SA": {
+      "title": "مركز أمستردام الطبي الجامعي - مركز المعرفة والرعاية لاضطراب الهوية الجنسية",
+      "description": "مركز المعرفة والرعاية لاضطراب الهوية الجنسية في مركز أمستردام الطبي الجامعي متخصص في تقديم العلاج الطبي والدعم النفسي للأشخاص الذين يشعرون أن جنسهم عند الولادة لا يتطابق مع هويتهم. يحتفي المركز بالتنوع الفردي، ويقدم خدماته بناءً على الاحتياجات الشخصية، وهو معترف به دولياً لخبرته في علاج عدم تطابق الجنس. كما يقوم أيضاً بالبحث لتحسين الفهم والعلاج للأفراد المتحولين جنسياً ويقدم التدريب للمهنيين الصحيين الجدد."
+    },
+    "uk-UA": {
+      "title": "Amsterdam UMC - Кенніс- ен Зоргцентрум Ґендердисфорієв",
+      "description": "Центр знань та догляду за людьми з гендерною дисфорією при Amsterdam UMC спеціалізується на наданні медичного лікування та психологічної підтримки людям, які відчувають, що їхній біологічний стать не відповідає їхній ідентичності. Центр приймає індивідуальну розмаїтість, налаштовує свої послуги на особисті потреби, і визнаний міжнародово за свою експертизу в лікуванні гендерної неузгодженості. Він також проводить дослідження для поліпшення розуміння та лікування трансгендерних осіб та надає навчання новим медичним фахівцям."
+    },
+    "ko-KR": {
+      "title": "암스테르담 UMC - 지더 디스포리아 지식 및 치료센터",
+      "description": "암스테르담 UMC의 지더 디스포리아 지식 및 치료센터는 태어난 성별이 자신의 정체성과 일치하지 않는다고 느끼는 사람들에게 의료 치료와 심리적 지원을 제공하는 데 전문화되어 있습니다. 이 센터는 개인의 다양성을 받아들이고, 개인의 필요에 맞춘 서비스를 제공하며, 성별 불일치 치료에 대한 전문지식으로 국제적으로 인정받고 있습니다. 또한 트랜스젠더 개인의 이해와 치료를 향상시키기 위한 연구를 수행하고, 신규 의료 전문가에게 교육을 제공합니다."
+    },
+    "ur-PK": {
+      "title": "آمسٹرڈم UMC - جنسی بے اطمینانی کے لئے علم و دیکھ بھال مرکز",
+      "description": "آمسٹرڈم UMC میں جنسی بے اطمینانی برائے علم و دیکھ بھال مرکز اپنی پیدائشی جنس سے مطابقت نہ پاتے ہوئے لوگوں کو طبی علاج اور نفسیاتی حمایت فراہم کرنے میں مہرت رکھتا ہے۔ مرکز میں افراد کی تنوع کو قبول کیا جاتا ہے، اس کی خدمات کو ذاتی ضروریات کے مطابق ڈھالا جاتا ہے، اور یہ عالمی سطح پر جنسی نااطمینانی کے علاج میں اپنی مہارت کے لئے معترف ہے۔ یہ ترانسجنڈر افراد کی تفہیم اور علاج میں بہتری کے لئے تحقیق بھی کرتا ہے اور نئے صحت کے پیشہ وران کو تربیت بھی دیتا ہے."
+    },
+    "hi-IN": {
+      "title": "Amsterdam UMC - जेंडर डिसफोरिया के लिए ज्ञान और देखभाल केंद्र",
+      "description": "अम्स्टर्डम UMC के जेंडर डिसफोरिया के लिए ज्ञान और देखभाल केंद्र में वे लोग विशेषज्ञता से चिकित्सा उपचार और मानसिक समर्थन प्रदान करने में विशेषज्ञ हैं, जो महसूस करते हैं कि उनका जन्म लिंग उनकी पहचान के साथ मेल नहीं खाता। केंद्र व्यक्तिगत विविधता को स्वीकार करता है, अपनी सेवाओं को व्यक्तिगत जरूरतों के अनुसार तैयार करता है, और यह जेंडर असहमति का उपचार करने में अपनी विशेषज्ञता के लिए अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त है। इसने ट्रांसजेंडर व्यक्तियों की समझ और उपचार को सुधारने के लिए अनुसंधान करना भी शुरू किया है और नये स्वास्थ्य पेशेवरों को प्रशिक्षण देता है।"
+    },
+    "bn-BD": {
+      "title": "আমস্টারডাম ইউএমসি - জেন্ডার ডিসফোরিয়া জ্ঞান ও যত্ন কেন্দ্র",
+      "description": "আমস্টারডাম ইউএমসির জেন্ডার ডিসফোরিয়া জ্ঞান ও যত্ন কেন্দ্রটি তাদের জন্মগত লিঙ্গ তাদের পরিচিতির সাথে মিলিয়ে যায় না এমন ব্যক্তিদের মেডিকেল চিকিৎসা এবং মানসিক সমর্থন প্রদানের জন্য বিশেষজ্ঞ। কেন্দ্রটি ব্যক্তিগত বৈচিত্র্যমূলক আলিঙ্গন করে, এর পরিষেবাগুলি ব্যক্তিগত প্রয়োজনীয়তার সাথে মিলিয়ে, এবং জেন্ডার অসঙ্গতিতে চিকিৎসার জন্য তার বিশেষজ্ঞতার জন্য আন্তর্জাতিকভাবে স্বীকৃত। এটি এছাড়া ট্রান্সজেন্ডার ব্যক্তিদের বোঝা ও চিকিৎসার উন্নতি করার জন্য গবেষণা করে এবং নতুন স্বাস্থ্যসেবা পেশাদারদের প্রশিক্ষণ দেয়।"
+    },
+    "mr-IN": {
+      "title": "अ‍ॅम्स्टरडॅम UMC - जेंडर डिस्फोरिया साठी ज्ञान आणि व्यावसायिक केंद्र",
+      "description": "अ‍ॅम्स्टरडॅम UMC मधील जेंडर डिस्फोरिया साठी ज्ञान आणि व्यावसायिक केंद्र हे वैद्यकीय उपचार आणि मनोवृत्ती सहाय्य प्रदान करणेत तज्ज्ञ आहे, ज्या लोकं म्हणतात की त्यांचे जन्म लिंग त्यांच्या ओळखेशी जुळत नाही. केंद्र मुलायांची वैविध्यता स्वागत करते, त्याच्या सेवा वैयक्तिक गरजांशी जुळवते आणि लिंग असंगतता चाचणीत त्याच्या निपुणतेसाठी जागतिकपातीवर मान्यता मिळते. तो ट्रान्सजेंडर व्यक्तींच्या समजुती आणि उपचारात सुधारांसाठी संशोधनही करतो आणि नवीन आरोग्य व्यावसायिकांना प्रशिक्षण देतो."
+    },
+    "ta-IN": {
+      "title": "ஆம்ஸ்டெர்டாம் UMC - ஜெண்டர் டிஸ்஫ோரியா குறிப்பு மற்றும் பராமரிப்பு மையம்",
+      "description": "அவர்கள் அடையாளமாகத் தாண்டிய ஜெண்டர் அதனுடன் பொருந்தவில்லை என்று உணரும் மக்களுக்கு மருத்துவ சிகிச்சையும், உண்மை ஆதரவும் வழங்க ஆம்ஸ்டெர்டாம் UMC பகுதியான ஜெண்டர் டிஸ்஫ோரியா குறிப்பு மற்றும் பராமரிப்பு மையம் சிறப்புபயன்படுத்தப்படுகின்றது. மையம் தனிப்பட்ட வேதிபிரபலங்களை ஏற்றுக்கொள்ளுகிறது, தனிப்பட்ட தேவைகளுக்கு அதன் சேவைகளை விரிவாக்குகிறது, மற்றும் அது தனது நிபுணத்துவத்தினை மாறுபாடு செலுத்துகிறது. இதுவும் மேலும் புரிந்துகொள்வதையும், டிரான்ஸ் ஜெண்டர் தனிநபர்களின் சிகிச்சையையும் மேம்படுத்த ஆராய்ச்சி நிறைவேற்றுகிறது மற்றும் விலதி விழிப்புணர்வு தொழில்நுட்பம் பயிலும்."
+    },
+    "te-IN": {
+      "title": "ఆమ్స్టెర్డమ్ UMC - జెండర్ డిస్ఫోరియా కోసం నలెడ్జ్ మరియు కేర్ సెంటర్",
+      "description": "ఆమ్స్టెర్డమ్ UMC యొక్క జెండర్ డిస్ఫోరియా కోసం జ్ఞాన మరియు కేర్ సెంటర్ వారి పుట్టిన జెండర్ తమ గుర్తింపుతో సరిపోలడానికి అనిపిస్తున్న ప్రజలకు వైద్య చికిత్సను మరియు మానసిక మద్దతును అందించడానికి ప్రత్యేకించి ఉంది. ఆ సెంటర్ వ్యక్తిగత వైవిధ్యాన్ని ఆశ్రయిస్తుంది, వ్యక్తిగత అవసరాలకు దీని సేవలను అనుగుణంగా సర్దుబాటు చేస్తుంది, మరియు జెండర్ అసమంజసాన్ని చికిత్సించడానికి దీని నిపుణతను అంతర్జాతీయంగా గుర్తించబడుతుంది. అదేపుడు, ట్రాన్స్జెండర్ వ్యక్తుల అర్ధాన్ని మరియు చికిత్సను మెరుగుపరచడానికి అందుబాటులో ఉంది మరియు క్రొత్త ఆరోగ్య ప్రౌఢీకరణ ప్రాధాన్యతలకు శిక్షణను అందిస్తుంది."
+    }
+  }
+}

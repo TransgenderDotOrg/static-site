@@ -1,0 +1,28 @@
+{
+  "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+  "title": "Trans* in 3 Steps",
+  "description": "A project that serves as a guide to help during the transition of an individual. It includes terminology related to trans*, information on how to know if one is trans*, resources for psychological counseling, medical procedures, anecdotal coming out stories, legal information on changing names and gender status, as well as links to various resources and services.",
+  "slug": "trans-in-3-steps",
+  "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "voice-training"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "johanna4711@zohomail.eu",
+  "socialMedia": {
+    "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+  }
+}

@@ -36,6 +36,29 @@
     "description": "Центр гордости округа Сан-Матео является организацией, работающей по модели сотрудничества и представляет собой универсальный центр для сообщества LGBTQ+. Мы предлагаем мощные программы и услуги для поддержки членов сообщества LGBTQ+ всех возрастов, включая образование, тренинги, мероприятия сообщества, группы поддержки, ежедневное планирование, клиническую терапию и управление делами."
   },
   {
+    "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
+    "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
+    "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "youth-services",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Понимание и поддержка транссексуальности у детей и родителей",
+    "description": "Эта немецкая статья предлагает исчерпывающее руководство для семей, столкнувшихся с транссексуальностью у родителей или детей. Она предоставляет информацию о ключевых процедурах и ресурсах, предлагая руководство от понимания и принятия ситуации до прохождения соответствующего лечения."
+  },
+  {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
     "slug": "queerspace",
     "externalUrl": "https://www.queerspace.org.au/",
@@ -80,6 +103,28 @@
     "description": "Яркое онлайн-сообщество и центр знаний для людей, заинтересованных в самостоятельной гормональной заместительной терапии (HRT). Их веб-сайт посвящен предоставлению безопасного и включающего пространства, где люди могут получить информацию, ресурсы и поддержку для самостоятельного HRT. Будь вы в поисках альтернативных методов, ищете руководство по дозировке и администрированию, или просто хотите связаться с другими, кто разделяет похожие опыты, DIYHRT.cafe предлагает множество ценных у insights, личных историй и профессиональных советов, которые помогут вам принять обоснованные решения о вашем здоровье и благополучии."
   },
   {
+    "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
+    "slug": "stuttgarter-declaration-gender-self-determined",
+    "externalUrl": "https://die-erklaerung.de/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": "BW",
+    "city": "Stuttgart",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Штутгартская декларация: Пол. Само. Определенность.",
+    "description": "Штутгартская декларация подчеркивает важность уважительного отношения к трансгендерам и интерсексуалам. Она подчеркивает значение прав человека в медицинских, психотерапевтических, консультативных и поддерживающих услугах для трансгендеров и интерсексуалов. Разработанная врачами, психотерапевтами, активистами прав человека и затронутыми лицами, она акцентирует внимание на праве каждого самому определять свой пол и обязательности медицинского вмешательства уважать это самоопределение."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -102,6 +147,36 @@
     },
     "title": "Коллектив DEiFYDEiFYQTIBIPOC, проживающий на территории Ngunnawal, Ngunawal и Ngambri",
     "description": "Это собрание коллектива для сообщества DEiFYQTIBIPOC. Группа также обсудит Queer Masculinities Zine и их специальный плейлист."
+  },
+  {
+    "id": "1665b1de-c17a-4c22-ace3-d635d35ef2b9",
+    "slug": "bundesverband-trans",
+    "externalUrl": "https://www.bundesverband-trans.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
+    "phoneNumber": "+49 (0) 30 – 23 94 98 96",
+    "country": "DE",
+    "provinceOrState": "BE",
+    "city": "Berlin",
+    "latLng": [
+      52.4890033,
+      13.3333558
+    ],
+    "email": "info@bv-trans.de",
+    "socialMedia": null,
+    "town": "Bezirk Charlottenburg-Wilmersdorf",
+    "title": "Bundesverband Trans* e.V.",
+    "description": "Bundesverband Trans* e.V. - это национальная ассоциация, которая отстаивает права транс* лиц в Германии, включая идентифицирующих себя как транссексуалы, трансгендеры, гендерквир, небинарные и транс*. Они стремятся к законодательной, политической и медицинской реформе для улучшения условий для этого сообщества, организуя семинары, предлагая консультации и публикуя публикации."
   },
   {
     "id": "1873eb7a-2dcb-4346-bf6b-91a97237072f",
@@ -147,6 +222,79 @@
     "description": "Об comprehensive online platform dedicated to supporting individuals who are transitioning from female to male (FTM). Их веб-сайт служит надежным ресурсом, предлагая огромное количество информации, рекомендаций и общинных связей для тех, кто начинает свое путешествие FTM. От практических советов по гормональной терапии и хирургическим вариантам до поддержки психического здоровья и личных историй, FTMGuide.org стремится дать людям знания и ресурсы, которые им нужны для того, чтобы с уверенностью и ясностью пройти свой переход."
   },
   {
+    "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+    "slug": "black-rainbow",
+    "externalUrl": "https://blackrainbow.org.au/",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Darwin NT, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NT",
+    "city": "Darwin",
+    "latLng": [
+      -12.4637333,
+      130.8444446
+    ],
+    "email": null,
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/blackrainbowaus/",
+      "twitter": "https://twitter.com/BlkRnBow",
+      "facebook": "https://www.facebook.com/blackrainbowaus/",
+      "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+      "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+    },
+    "title": "Черная радуга",
+    "description": "Черная радуга - это национальное предприятие волонтеров из числа аборигенов и жителей острова Торрес-Стрейт, представляющее LGBQTIA+SB сообщество, чья работа направлена на заботу о здоровье и благополучии своего сообщества. Несмотря на отсутствие финансирования, организация стремится расширить свои услуги за счет пожертвований, платных услуг и продажи образовательных материалов. Они занимаются организацией просветительских акций, поддерживают социальные мероприятия и собирают средства на развитие сообщества и исследование влияния на здоровье."
+  },
+  {
+    "id": "19d3bf2d-04ed-46e6-ac5b-b2e3c26a7dd1",
+    "slug": "minus-eighteen",
+    "externalUrl": "https://www.minus18.org.au/",
+    "tags": [
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Minus18",
+    "description": "Minus18 - это австралийская благотворительная организация, улучшающая жизнь молодежи LGBTQIA+. Они борются с социальной изоляцией, создавая пространства, где молодые люди чувствуют себя нужными, где их ценят и где они могут завести друзей. Они также проводят обучение LGBTQIA+, предоставляют ресурсы и цифровые кампании, стремясь создать Австралию, свободную от дискриминации. Их цель - оснастить молодых людей навыками и возможностями, которые им нужны, чтобы быть в авангарде изменений."
+  },
+  {
+    "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
+    "slug": "us-trans-survey",
+    "externalUrl": "https://www.ustranssurvey.org/",
+    "tags": [
+      "education-awareness",
+      "community-stories",
+      "non-binary",
+      "transmasculine",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "ustranssurvey@transequality.org",
+    "socialMedia": null,
+    "title": "Транс-опрос в США",
+    "description": "Транс-опрос в США - это крупнейший опрос трансгендерных людей, проведенный трансгендерами, в Соединенных Штатах. Он документирует жизнь и опыт транс и небинарных людей старше 16 лет в США и территориях США. Опрос и его отчеты являются важным ресурсом, включая отчеты об опыте людей цвета и по штатам, помогающие формировать будущее трансголосами."
+  },
+  {
     "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
     "slug": "transfemscienceorg",
     "externalUrl": "https://transfemscience.org",
@@ -157,6 +305,180 @@
     ],
     "title": "transfemscience.org",
     "description": "Прогрессивная онлайн-платформа, посвященная предоставлению научно-обоснованных исследований, образования и ресурсов для трансгендерного и небинарного сообщества, с особым акцентом на гормональную терапию феминизации (FHT). Их веб-сайт служит важным центром для людей, ищущих надежную и актуальную информацию о медицинских, физиологических и психологических аспектах FHT. Благодаря их обширной коллекции рецензируемых исследований, статей экспертов и практических руководств, их сайт позволяет людям принимать обоснованные решения о своем переходе и здоровье."
+  },
+  {
+    "id": "1ff064d4-6b1e-44e9-8b83-5e4e14d9f1ce",
+    "slug": "nonbinary-ch-a-resource-for-non-binary-individuals",
+    "externalUrl": "https://www.nonbinary.ch/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "youtubeUrl": "https://www.youtube.com/channel/",
+      "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
+    },
+    "title": "nonbinary.ch - Ресурс для лиц, не принадлежащих к бинарному гендеру",
+    "description": "Подробный швейцарский сайт, предоставляющий информацию и ресурсы, связанные с не бинарными гендерными идентичностями. Он создан для помощи лицам, изучающим собственную гендерную идентичность, или тем, кто взаимодействует с не бинарными личностями, делая базовые знания легкодоступными. Сайт также содержит блог, информационный бюллетень и ссылки на соответствующие внешние ресурсы, такие как книги, фильмы и исследования."
+  },
+  {
+    "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
+    "slug": "the-pinnacle-foundation",
+    "externalUrl": "https://thepinnaclefoundation.org/",
+    "tags": [
+      "education-awareness",
+      "financial-aid-scholarships",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Фонд Pinnacle",
+    "description": "Фонд Pinnacle - это австралийский образовательный благотворительный фонд, предоставляющий стипендии, наставничество и возможности молодым австралийцам LGBTQIA+. Стипендии предоставляются для полноценного обучения в государственных высших учебных заведениях Австралии."
+  },
+  {
+    "id": "2f23a24b-2e9d-4f83-9808-1e69981fba12",
+    "slug": "ftm-portal-net",
+    "externalUrl": "https://ftm-portal.net",
+    "tags": [
+      "transmasculine",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "FTM-Portal.net",
+    "description": "FTM-Portal.net - это крупнейшая немецкоязычная информационная платформа для трансгендерных мужчин и других трансмаскулинных личностей, предоставляющая опыт и советы по различным жизненным ситуациям. Этот ресурс полезен для любого человека, которому при рождении был присвоен женский пол, но который полностью или частично не идентифицируется с этой первоначальной классификацией. Родственники трансгендерных мужчин и другие заинтересованные стороны также могут зарегистрироваться."
+  },
+  {
+    "id": "2f6aa929-342d-4f12-a6a1-238cec4628ae",
+    "slug": "tgns-transgender-network-switzerland",
+    "externalUrl": "https://www.tgns.ch/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "CH",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/transgenderch",
+      "twitterUrl": "https://twitter.com/tgnsch",
+      "instagramUrl": "https://www.instagram.com/tgns.ch/"
+    },
+    "title": "TGNS Трансгендерная сеть Швейцарии",
+    "description": "TGNS - это сеть для трансгендерных людей в Швейцарии. Они предоставляют юридическую поддержку, работают над реформами в области здравоохранения и предлагают ресурсы для психического здоровья трансгендерного сообщества. Они участвуют в различных программах по повышению осведомленности и образованию, направленных на создание поддерживающей и включающей среды для людей, определяющих себя как трансмужчины, трансженщины и небинарные люди. TGNS также имеет услуги для молодежи, группы поддержки и ресурсы для семей и партнеров трансгендерных людей."
+  },
+  {
+    "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+    "slug": "medicijnkosten-medication-costs-information",
+    "externalUrl": "https://www.medicijnkosten.nl/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Medicijnkosten - Информация о стоимости лекарств",
+    "description": "Информационная платформа, предоставляющая детали о стоимости лекарств. Она предлагает данные о возмещении стоимости лекарств и альтернативах, доступных для людей, которые не могут позволить себе определенные лекарства. Важно для планирования затрат на здравоохранение."
+  },
+  {
+    "id": "313b4214-64cb-412e-a12e-06cf3ec67654",
+    "slug": "open-doors-youth-service",
+    "externalUrl": "https://www.opendoors.net.au/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": null,
+    "county": "South East Queensland",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
+    },
+    "title": "Служба Молодёжи Open Doors",
+    "description": "Поддержка молодёжи LGBTIQAP+ и их семей в Юго-Восточном Квинсленде. Предоставление услуг, таких как психологическое консультирование по вопросам психического здоровья, программы групповой терапии, социальная поддержка, предоставление основных продуктов питания и санитарных принадлежностей, обеспечение стабильной занятости и жилья, а также проведение тренингов и обучения в школах, на рабочих местах и в семьях."
+  },
+  {
+    "id": "313cd7c6-1051-437c-a1d1-b1297f4c49a8",
+    "slug": "stonewall-medical-centre-sexual-health-clinic-brisbane",
+    "externalUrl": "https://www.stonewall.com.au/",
+    "tags": [
+      "healthcare",
+      "HIV",
+      "STI",
+      "sex-workers",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "52 Newmarket Rd, Windsor QLD 4030, Australia",
+    "phoneNumber": "07 3857 1222",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Windsor",
+    "county": "Brisbane",
+    "latLng": [
+      -27.4378562,
+      153.0279458
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Медицинский центр и клиника сексуального здоровья Stonewall – Брисбен",
+    "description": "Медицинский центр Stonewall гордится обслуживанием общего здоровья и сексуального здоровья лесбиянок, геев, бисексуалов, трансгендеров, интерсексуалов и подвергающихся сомнениям (ЛГБТКИА+), секс-работников и гетеросексуального сообщества Брисбена с 1995 года. Клиника предоставляет разнообразные услуги, включая послеэкспозиционную профилактику и профилактику ВИЧ, тестирование на инфекции, передающиеся половым путем, консультации для секс-работников, медицинское обслуживание трансгендеров и людей с вариативностью гендерного идентичности, мониторинг стероидов и препаратов для улучшения внешности, направления на дальнейшее лечение и так далее."
   },
   {
     "id": "3143b616-c478-4c99-9cbd-ed16c89a1c70",
@@ -181,6 +503,104 @@
     "socialMedia": null,
     "title": "Meridian",
     "description": "Meridian на протяжении более 40 лет поддерживает и защищает сообщество LGBTIQA+, предлагая целый ряд услуг и программ в регионе Канберры, таких как услуги по ВИЧ, услуги по благополучию, программы по работе с секс-работниками и многое другое."
+  },
+  {
+    "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
+    "slug": "australian-transgender-support-association-of-queensland",
+    "externalUrl": "https://www.atsaq.org.au/",
+    "tags": [
+      "non-binary",
+      "support-groups",
+      "community-stories",
+      "social-services"
+    ],
+    "address": "Booval QLD 4304, Australia",
+    "phoneNumber": "(07) 3705 7663",
+    "country": "AU",
+    "provinceOrState": "QLD",
+    "city": "Booval",
+    "county": "City of Ipswich",
+    "latLng": [
+      -27.614358,
+      152.788861
+    ],
+    "email": "parker@atsaq.org.au",
+    "socialMedia": null,
+    "title": "Австралийская ассоциация поддержки трансгендеров Квинсленда",
+    "description": "Ведущая организация Квинсленда, представляющая трансгендеров, людей с разнообразной гендерной идентичностью и небинарных индивидов с 1990 года. Они оказывают поддержку, занимаются защитой прав, предоставляют услуги и организуют общественные мероприятия для служения трансгендерному сообществу."
+  },
+  {
+    "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
+    "slug": "jim-collins-foundation",
+    "externalUrl": "https://jimcollinsfoundation.org/",
+    "tags": [
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": "New York, NY 10150, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7582228,
+      -73.9704871
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Фонд Джима Коллинса",
+    "description": "Миссия Фонда Джима Коллинса (JCF) - предоставление финансовой помощи трансгендерным людям для операций по подтверждению гендера. Этот фонд предлагает два варианта грантов; Грант Основателей, который покрывает 100% хирургических расходов и Фонд наследия Кризалис Энн Хембро, который покрывает 50% хирургических расходов. Фонд стремится предоставить доступ к этим жизненно важным операциям для тех, кто хочет их, но из-за распространенной дискриминации против трансгендерных людей, такие расходы обычно невозможно покрыть."
+  },
+  {
+    "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
+    "slug": "transgender-india-transition-guide",
+    "externalUrl": "https://transgenderindia.com/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "IN",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "enquiry@transgenderindia.com",
+    "socialMedia": null,
+    "title": "Трансгендерная Индия: ваше руководство по переходу",
+    "description": "Трансгендерная Индия предоставляет всеобъемлющие курсы, статьи и ресурсы для трансгендерного сообщества в Индии. Оно включает темы, которые варьируются от основ гормональной заместительной терапии, законодательных прав и защиты, до социальных переходов, с курсами, проводимыми специалистами из различных областей."
+  },
+  {
+    "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+    "slug": "queermed-deutschland-directory",
+    "externalUrl": "https://queermed-deutschland.de/",
+    "tags": [
+      "healthcare",
+      "transmasculine",
+      "non-binary",
+      "transfeminine"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/queermeddeutschland",
+      "instagramUrl": "https://instagram.com/queermeddeutschland",
+      "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+      "facebookUrl": "https://facebook.com/queermeddeutschland"
+    },
+    "title": "Каталог Queermed Deutschland",
+    "description": "Queermed Deutschland - это справочник врачей, терапевтов и медицинских практик, рекомендованных сообществом LGBTQIA+ в Германии. Цель состоит в борьбе с дискриминацией в системе здравоохранения, обеспечивая уважительное и чуткое здравоохранение для всех. Он включает различные дополнительные опции в анонимном опроснике для учета разнообразия индивидов внутри сообщества."
   },
   {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
@@ -434,6 +854,26 @@
     "description": "Новаторская интернет-платформа, которая стремится создать всеобъемлющий и актуальный ресурс по глобальным правам ЛГБТК+. На их веб-сайте представлена централизованная база данных о законах, политике и общественном отношении к правам ЛГБТК+ по всему миру. Визуализируя данные об равенстве, инклюзивности и правовой защите, EqualDex.com предлагает мощный инструмент для активистов, исследователей и людей, желающих понять и поддержать права ЛГБТК+ на глобальном уровне. Изучайте их интерактивные карты, просматривайте профили специфических для страны и следите за последними достижениями и вызовами, с которыми сталкивается ЛГБТК+ сообщество по всему миру."
   },
   {
+    "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
+    "slug": "gender-affirmative-letter-access-project",
+    "externalUrl": "https://thegalap.org/",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Проект о предоставлении доступа к письмам о подтверждении гендерной принадлежности",
+    "description": "GALAP - это платформа для независимых врачей, предоставляющих гендерно-утвердительную помощь. Они предлагают такие ресурсы как справочники терапевтов, руководства по написанию писем для подтверждения гендерной принадлежности и многое другое. Обратите внимание, что навыки или квалификация любого подписанта обязательства не могут быть подтверждены GALAP."
+  },
+  {
     "id": "581b9bb9-0e33-4887-8bf0-0dda3781202c",
     "slug": "a-gender-agenda",
     "externalUrl": "https://genderrights.org.au/",
@@ -592,6 +1032,63 @@
     "description": "Первый в Окленде некоммерческий 501c3, для всех возрастов, всесторонний центр обслуживания сообщества LGBTQ. Предлагаемые услуги включают в себя группы поддержки, поддержку психического здоровья, помощь в поиске жилья, молодежную программу, юридическую клинику, пункт питания и т.д. Также проводятся специальные программы для пожилых людей LGBTQ+ и трансгендерного сообщества."
   },
   {
+    "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
+    "slug": "plume-transgender-nonbinary-healthcare",
+    "externalUrl": "https://getplume.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitter": "https://twitter.com/getplume",
+      "instagram": "https://www.instagram.com/getplume/",
+      "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
+      "linkedin": "https://www.linkedin.com/company/plume-healthcare",
+      "tiktok": "https://www.tiktok.com/@get.plume"
+    },
+    "title": "Plume",
+    "description": "Крупнейший поставщик медицинских услуг для трансгендерного и небинарного сообщества, предлагающий широкий спектр услуг, включая гормональную терапию, подтверждающую гендерную принадлежность, и поддержку в переходный период, а также лекарства от тревоги и депрессии. Услуги предоставляются командой, состоящей из трансгендеров, которая имеет глубокое понимание уникальных медицинских потребностей сообщества, и направлены на то, чтобы вы чувствовали себя комфортно, видимым и заботимым. Место, где вы можете быть собой и получить необходимую помощь."
+  },
+  {
+    "id": "6bf639a8-0301-4061-80c2-7738672b036f",
+    "slug": "trans-in-3-steps",
+    "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "johanna4711@zohomail.eu",
+    "socialMedia": {
+      "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
+    },
+    "title": "Транс* в 3 шагах",
+    "description": "Проект, служащий в качестве руководства для помощи во время трансформации индивидуума. Он включает в себя терминологию, связанную с транс*, информацию о том, как узнать, являетесь ли вы транс*, ресурсы для психологического консультирования, медицинские процедуры, анекдотические истории о выходе из «шкафа», юридическую информацию об изменении имен и полового статуса, а также ссылки на различные ресурсы и услуги."
+  },
+  {
     "id": "6f38810d-896c-4493-afe2-b612021122fc",
     "slug": "the-shed-melbourne",
     "externalUrl": "https://www.theshedsupport.org.au/",
@@ -616,6 +1113,51 @@
     "socialMedia": null,
     "title": "The Shed Melbourne",
     "description": "Мельбурнская группа поддержки для трансмаскулинных лиц, предлагающая различные мероприятия и ресурсы, такие как встречи по поддержке сверстников, спортзалы, книжные клубы, ресурсы по психическому здоровью, информация и поддержка по поводу операций и тестостерона, программы для бандажи, и многое другое."
+  },
+  {
+    "id": "7510c3ea-47b1-4a60-bfaf-bb98b6f6b5b2",
+    "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
+    "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
+    "tags": [
+      "legal"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Картирование атак на права ЛГБТК в законодательных органах штатов США",
+    "description": "В последние несколько лет штаты продвинули рекордное количество законопроектов, атакующих права ЛГБТК, особенно трансгендерных подростков. ACLU отслеживает эти атаки и работает с нашей национальной сетью филиалов для поддержки людей ЛГБТК повсюду. Несмотря на то, что каждый год все больше штатов стараются принять законы для защиты людей ЛГБТК, законодательные органы штатов продвигают законопроекты, которые целевым образом направлены на трансгендеров, ограничивают местную защиту и позволяют использовать религию для дискриминации. ACLU не перестанет выступать против этих жестоких атак по всей стране."
+  },
+  {
+    "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+    "slug": "national-queer-trans-therapists-of-color-network",
+    "externalUrl": "https://www.nqttcn.com/",
+    "tags": [
+      "mental-health",
+      "social-services"
+    ],
+    "address": "Baltimore, MD 21211, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MD",
+    "city": "Baltimore",
+    "latLng": [
+      39.3289463,
+      -76.63838319999999
+    ],
+    "email": "info@nqttcn.com",
+    "socialMedia": {
+      "facebookUrl": "Facebook-f",
+      "twitterUrl": "Twitter",
+      "instagramUrl": "Instagram"
+    },
+    "title": "Национальная сеть терапевтов-цветных людей, относящихся к LGBTQ+",
+    "description": "Национальная сеть терапевтов-цветных людей, принадлежащих к LGBTQ+, является организацией, занимающейся вопросами здравоохранения и справедливости, и нацеленной на изменение подхода к психическому здоровью цветных людей, относящихся к LGBTQ+. Они работают на пересечении движений за социальную справедливость и сферы психического здоровья."
   },
   {
     "id": "79fdc5af-520b-45bc-a634-7af3d030db42",
@@ -763,6 +1305,63 @@
     "description": "Национальный центр за равенство трансгендеров - это организация, которая выступает за изменение политики и общественного мнения для улучшения понимания и принятия трансгендерных людей. NCTE предоставляет информацию о проблемах, с которыми сталкивается трансгендерное сообщество, включая старение, антинасилие, трудоустройство, семьи, здоровье и ВИЧ, жилье и бездомность и многое другое."
   },
   {
+    "id": "87ef5091-eaa3-4740-b07f-11a889ead435",
+    "slug": "transgender-law-center",
+    "externalUrl": "https://transgenderlawcenter.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "Oakland, CA 94612, USA",
+    "phoneNumber": "510-587-9696",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Oakland",
+    "county": "Alameda County",
+    "latLng": [
+      37.8113159,
+      -122.2682245
+    ],
+    "email": "info@transgenderlawcenter.org",
+    "socialMedia": null,
+    "title": "Центр Трансгендерного Права",
+    "description": "Центр Трансгендерного Права является крупнейшей национальной организацией, руководствуемой трансгендерами, которая отстаивает самоопределение всех людей. Обеспечивая мощные ресурсы и публикации, Центр помогает людям справляться с типичными юридическими трудностями и вопросами, с которыми сталкиваются трансгендеры. TLC также вдохновляет общества на долгосрочное национальное движение, руководствуемое трансгендерами, за освобождение."
+  },
+  {
+    "id": "88a19313-994c-4908-a518-c09b531743e9",
+    "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
+    "externalUrl": "https://dgti.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "DE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/dgti.eV",
+      "twitterUrl": "https://twitter.com/dgti_eV",
+      "instagramUrl": "https://www.instagram.com/dgti_ev/",
+      "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
+    },
+    "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+    "description": "Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) - это общенациональная профессиональная ассоциация в Германии, которая выступает за признание и равенство трансгендерных, интерсексуальных, небинарных и агендерных людей на всех уровнях общества. Dgti предлагает консультации на равных, юридическую информацию, новости и имеет различные программы ресурсов для консультантов по вопросам транс* и медицинских специалистов."
+  },
+  {
     "id": "8a206480-e41f-4bb6-9128-94d4b04cd997",
     "slug": "the-inner-circle",
     "externalUrl": "https://theinnercircle.org.za/",
@@ -811,6 +1410,55 @@
     "description": "Этот веб-сайт предоставляет пошаговое руководство для тех, кто хочет обновить свое имя или пол во Флориде. Шаги включают подачу иска в суд и обновление карты социального обеспечения, водительских прав, паспорта и свидетельства о рождении."
   },
   {
+    "id": "91296a03-5c7f-4105-9ba7-2aa9e8bf5223",
+    "slug": "parents-of-gender-diverse-children",
+    "externalUrl": "https://www.pgdc.org.au/",
+    "tags": [
+      "parent-family-resources",
+      "support-groups",
+      "education-awareness",
+      "mental-health",
+      "youth-services"
+    ],
+    "address": null,
+    "phoneNumber": "03 9663 6733",
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@pgdc.org.au",
+    "socialMedia": {},
+    "title": "Родители детей с разнообразием гендера",
+    "description": "Родители детей с разнообразием гендера предоставляют поддержку, связи и ресурсы родителям и тем, кто воспитывает трансгендерных и гендерно разнообразных детей в Австралии. Организация предлагает конфиденциальную и безоценочную поддержку от сверстников, ежемесячные встречи, онлайн-центр для родителей, а также профессиональное развитие и выступления спикеров."
+  },
+  {
+    "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+    "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+    "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": "+31(0)20 444 0542",
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "genderteam-poli@vumc.nl",
+    "socialMedia": {
+      "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+    },
+    "town": "Amsterdam-Zuid",
+    "title": "Амстердамский UMC - центр знаний и заботы о гендерной дисфории",
+    "description": "Центр знаний и заботы о гендерной дисфории в Амстердамском UMC специализируется на предоставлении медицинской помощи и психологической поддержки людям, которые чувствуют, что их родовой пол не соответствует их идентичности. Центр принимает индивидуальное разнообразие, адаптирует свои услуги к личным потребностям и признан международно в области профессионального лечения гендерного несоответствия. Он также проводит исследования с целью улучшения понимания и лечения трансгендерных людей и проводит обучение новых медицинских специалистов."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -842,6 +1490,28 @@
     },
     "title": "Trans Lifeline",
     "description": "Trans Lifeline - это организация под руководством трансгендеров, предлагающая поддержку сверстников и ресурсы для трансгендерного сообщества. С акцентом на поддержку сообщества, микрогранты и горячую линию, они стремятся предоставить трансгендерным людям связи и ресурсы, необходимые для процветания. Trans Lifeline также отстаивает интересы трансгендерного сообщества через такие инициативы, как #SafeHotlines."
+  },
+  {
+    "id": "a0bc83c3-3566-4529-9560-bf98eb404461",
+    "slug": "transliving-international",
+    "externalUrl": "https://transliving.co.uk/main/",
+    "tags": [
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transliving International",
+    "description": "Transliving International - это глобальная группа поддержки трансгендерного сообщества, предлагающая онлайн-журнал, клубные вечера, мероприятия и платформу для покупок. Она усиливает голос всех людей с разнообразием пола и трансгендеров, предлагая помощь, советы, личные истории и статьи."
   },
   {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
@@ -877,6 +1547,25 @@
     },
     "title": "The Trevor Project",
     "description": "The Trevor Project - это американская некоммерческая организация, предоставляющая услуги по предотвращению самоубийств среди молодежи LGBTQ+. Сайт предоставляет ценные ресурсы для трансгендерного сообщества, включая кризисное вмешательство и телефонную линию по предотвращению самоубийств, TrevorChat и TrevorText, а также руководство по вопросам психического здоровья, социальным услугам и группам поддержки."
+  },
+  {
+    "id": "a4f258ec-17b7-4477-bd90-a7580ab66086",
+    "slug": "gender-dysphoria-1177-vaardguiden",
+    "externalUrl": "https://www.1177.se/liv--halsa/konsidentitet-och-sexuell-laggning/konsdysfori/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Дисфория пола - 1177 Vårdguiden",
+    "description": "Исчерпывающий ресурс по дисфории пола, предоставленный здравоохранительным руководством 1177 в Швеции, обсуждает, что это такое, как это чувствуется, как искать помощь и различные варианты лечения. Он служит, предоставляя подробную информацию для тех, кто испытывает дисфорию пола, и поддерживает их на их пути."
   },
   {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
@@ -947,6 +1636,30 @@
     "town": "Rondebosch",
     "title": "Метрополитенская церковь GOOD HOPE",
     "description": "Теологически прогрессивное и инклюзивное христианское сообщество, основанное на принципах Иисуса Христа, которое отмечает разнообразие и предлагает безопасное, неосуждающее пространство, где каждый будет приветствован. Является частью инклюзивной христианской конгрегации, основанной в Кейптауне, Южная Африка, и является частью большего международного община известного как Метрополитенские общины церкви (MCC)."
+  },
+  {
+    "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+    "slug": "transfamily",
+    "externalUrl": "https://www.transfamily.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+    },
+    "title": "Transfamily",
+    "description": "Группа поддержки для родителей, братьев, сестер, расширенной семьи и друзей трансгендерного человека и людей с разнообразной гендерной идентификацией. Группа предлагает ресурсы, события и платформу для сообщественных историй. Также предлагается книга Transfamily, которая предоставляет полезную информацию и информацию о трансгендерном сообществе."
   },
   {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
@@ -1027,6 +1740,107 @@
     "description": "Организация, контролируемая сообществом ЛГБТИК+, предоставляющая услуги в области здоровья и благополучия для сексуально, гендерно и сексуально разнообразных сообществ, включая поддержку и профилактику ВИЧ, консультирование и услуги в области семейного насилия."
   },
   {
+    "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+    "slug": "queer-lexikon",
+    "externalUrl": "https://queer-lexikon.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "fab fa-twitter",
+      "facebookUrl": "fab fa-facebook",
+      "instagramUrl": "fab fa-instagram",
+      "youtubeUrl": "fab fa-youtube",
+      "patreonUrl": "fab fa-patreon",
+      "tumblrUrl": "fab fa-tumblr",
+      "linkedinUrl": "fab fa-linkedin-in",
+      "emailUrl": "fas fa-envelope"
+    },
+    "title": "Queer Lexikon",
+    "description": "Queer Lexikon - это онлайн-ресурс, предоставляющий обширную информацию и поддержку для квир-сообщества. Покрывает темы, варьирующиеся от сексуального, романтического, гендерного разнообразия до психического здоровья и групп поддержки. Это основа для образования, осведомленности и историй сообщества."
+  },
+  {
+    "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+    "slug": "transformering-se",
+    "externalUrl": "https://transformering.se/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "Stockholm, Sweden",
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": "Stockholm County",
+    "city": "Stockholm",
+    "latLng": [
+      59.32932349999999,
+      18.0685808
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "twitterUrl": "https://twitter.com/rfslungdom",
+      "instagramUrl": "https://www.instagram.com/rfsl_official",
+      "facebookUrl": "http://www.facebook.com/transformering"
+    },
+    "title": "Transformering.se",
+    "description": "Шведский информационный центр, управляемый RFSL Ungdom и RFSL, который предлагает поддержку и информацию, связанную с трансгендерностью и вопросами гендерной идентичности. Контент включает в себя права, отношения и факты о том, как работает подтверждение гендера. Он предназначен для лиц, которые являются трансгендерами, имеют личный трансгендерный опыт или задают вопросы о своей гендерной идентичности/выражении, а также для их близких, профессионалов или добровольцев, которые их поддерживают."
+  },
+  {
+    "id": "be017772-af87-4920-ae62-1a3e961d216a",
+    "slug": "transamsterdam",
+    "externalUrl": "https://www.transamsterdam.nl/",
+    "tags": [
+      "artists-creators",
+      "education-awareness"
+    ],
+    "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.35914529999999,
+      4.9263607
+    ],
+    "email": "info@transamsterdam.nl",
+    "socialMedia": {
+      "linktr": "linktr.ee/transamsterdam"
+    },
+    "town": "Amsterdam-Oost",
+    "title": "TransAmsterdam",
+    "description": "TransAmsterdam - это транс-организация, сосредоточенная на искусстве, культуре и образе жизни в Амстердаме. Она поддерживает трансгендерное сообщество через различные столпы. Сюда входят создание возможностей для встреч через Trans & Friends café, InClusion и другие мероприятия. Она также способствует развитию талантов через семинары, тематические встречи и театральные постановки в Trans Art School. Наконец, она предлагает платформу для искусства и культуры для и от трансгендерных, небинарных артистов и исполнителей."
+  },
+  {
     "id": "be5fc820-136d-4e7f-a3b5-ae6d103ef1ad",
     "slug": "gender-centre",
     "externalUrl": "https://gendercentre.org.au/",
@@ -1051,6 +1865,31 @@
     "socialMedia": null,
     "title": "Центр гендерных исследований Инк.",
     "description": "Центр гендерных исследований Инк. предоставляет широкий спектр специализированных услуг, которые позволяют изучать гендерную идентичность и помогают в снятии гендерного дискомфорта. Он поддерживает транс-людей и людей, выражающих свой гендер, на каждом этапе их пути, помогая им исследовать и проживать свое подлинное Я. Центр предлагает жилье, управление делами, образование и обучение, психологическое консультирование и услуги в области психического здоровья, общественные группы, новости и ресурсы."
+  },
+  {
+    "id": "bfc56737-9f48-4344-8a0e-22ae450d5250",
+    "slug": "learning-with-love-the-2023-pflag-national-convention",
+    "externalUrl": "https://pflag.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories"
+    ],
+    "address": "Washington, DC, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "county": "District of Columbia",
+    "latLng": [
+      38.9071923,
+      -77.0368707
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Учиться с любовью: Национальная конвенция PFLAG 2023",
+    "description": "Четырехдневное мероприятие, организованное PFLAG для общения, налаживания контактов, обучения и обмена опытом. Конвенция будет проводить семинары, панели и презентации, чтобы поддержать их миссию по созданию заботливого, справедливого и признающего мир для людей LGBTQ+ и тех, кто их любит."
   },
   {
     "id": "c23736ad-03dc-41dd-b8f9-4f64b2727cdc",
@@ -1080,6 +1919,46 @@
     "description": "Центр Свободы предоставляет широкий спектр поддержки для молодежи LGBTIQA+ по всей Западной Австралии, включая сессии без записи, развитие сообщества, консультации и многое другое. Они работают над тем, чтобы все молодые люди LGBTIQA+ чувствовали себя вовлеченными, связанными и уважаемыми. Они также предоставляют обучение и руководство родителям, профессионалам, сообществам и организациям."
   },
   {
+    "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
+    "slug": "point-of-pride",
+    "externalUrl": "https://www.pointofpride.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "healthcare",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Point of Pride",
+    "description": "Point of Pride предоставляет финансовую помощь и прямую поддержку трансгендерным людям, которые нуждаются в медицинском обслуживании и уходе за здоровьем. Программы помощи включают ежегодные фонды на операции по смене пола, фонды доступа к HRT, поддержку электролиза и бесплатное предоставление бандажей для груди и женского корректирующего белья трансгендерным людям, которые не могут их позволить или безопасно найти."
+  },
+  {
+    "id": "c6a77c4c-7aa3-47b3-b385-8573e1ba3a78",
+    "slug": "transmann-ev",
+    "externalUrl": "https://transmann.de/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "email": "info@transmann.de",
+    "socialMedia": {},
+    "title": "TransMann e.V.",
+    "description": "TransMann e.V. - это добровольная организация без прибыли, которая предлагает широкий спектр поддержки всем транс- и интерсексуальным людям FzM / FtM по всей Германии. Услуги включают групповые встречи, онлайн-информацию и ресурсы, консультации на равных, учебные материалы и выступления перед общественностью. Они также поддерживают общенациональную базу данных врачей и терапевтов со знанием проблематики трансгендерности. Хотя их основная аудитория - это FzM-Tранс* и Inter*-люди, они также предоставляют свои ресурсы и поддержку членам семьи, друзьям, партнерам, образовательным учреждениям и работодателям."
+  },
+  {
     "id": "cd48f2d0-8241-4fa5-a0aa-dc3cd3d386e8",
     "slug": "rainbowrailroadorg",
     "externalUrl": "https://RainbowRailroad.org",
@@ -1092,6 +1971,51 @@
     ],
     "title": "RainbowRailroad.org",
     "description": "Жизненно важная онлайн-платформа, посвященная помощи и защите лиц, идентифицирующих себя как ЛГБТК+, которые сталкиваются с преследованиями и насилием во всем мире. С неизменной преданностью сайт связывает тех, кто находится в непосредственной опасности, с ресурсами, спасающими жизни, экстренной помощью и безопасными путями к спасению. Через партнерства с местными организациями и сеть сочувствующих сторонников RainbowRailroad.org неутомимо работает над предоставлением защиты, юридической помощи и поддержки в переезде, позволяя людям сбежать от преследований и найти убежище. Защищая права человека, спасая жизни и содействуя созданию более инклюзивного мира, RainbowRailroad.org служит маяком надежды и защиты для лиц ЛГБТК+, ищущих безопасности и свободы."
+  },
+  {
+    "id": "cfb4d1a4-0142-4dfa-b152-8e577885e98c",
+    "slug": "blaq-aboriginal-corporation",
+    "externalUrl": "https://blaq.org.au/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "Redfern NSW 2016, Australia",
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": "NSW",
+    "city": "Redfern",
+    "county": "City of Sydney",
+    "latLng": [
+      -33.892215,
+      151.205873
+    ],
+    "email": "admin@blaq.org.au",
+    "socialMedia": null,
+    "title": "Блак Абориген Корпорация",
+    "description": "Блак Абориген Корпорация - это общественная организация, которая посвящена поддержке и укреплению сообщества ЛГБТК+СБ среди аборигенов и жителей островов Торрес-Стрейт при помощи инновации, инклюзии, понимания и защиты прав."
+  },
+  {
+    "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
+    "slug": "baby-making-for-everybody",
+    "externalUrl": "https://www.babymakingforeverybody.com/",
+    "tags": [
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Создание ребенка для всех",
+    "description": "Практическое руководство и празднование различных методов создания семьи, отличных от традиционной модели гетеросексуальной ядерной семьи, для ЛГБТК+ и одиноких родителей. Книга предоставляет пошаговое руководство наряду с личными историями, предоставляя потенциальным родителям чертеж для расширения своих семей."
   },
   {
     "id": "d59c0a9f-14ff-4c55-94d6-82313925be14",
@@ -1200,6 +2124,29 @@
     "description": "Осн. в 1975 году, Клуб «Морской конек Виктория» предоставляет ресурсы, общественные услуги и поддержку для трансгендерного сообщества. В него входит дружественный к трансгендерам справочник услуг и предстоящая онлайн-платформа для связи членов сообщества."
   },
   {
+    "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
+    "slug": "a-complete-guide-to-transmasculine-reproduction",
+    "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
+    "tags": [
+      "transmasculine",
+      "healthcare",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Полное руководство по репродукции трансмаскулин",
+    "description": "Обстоятельное руководство, предлагающее информацию о фертильности, беременности, послеродовом периоде, лактации и родительстве трансмаскулин. В ресурс включены утверждающие здоровье транс-людей, исследованные Часто Задаваемые Вопросы, различные ресурсы и многое другое для образования и поддержки трансмаскулин в их родительском пути."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -1304,6 +2251,30 @@
     "description": "Transgendermap.com - это онлайн-ресурс, нацеленный на предоставление практической информации и руководства людям, которые задают вопросы о своей гендерной идентификации или находятся где-то на трансгендерном спектре. Веб-сайт включает в себя широкий спектр тем, таких как понимание терминологии трансгендеров, процессы трансформации, юридические вопросы, здравоохранение и многочисленные личные истории. Его цель - помочь людям ориентироваться в своих личных путешествиях, предоставляя 'карту' или руководство по многим аспектам гендерной идентификации и трансгендерного опыта. Пожалуйста, посетите актуальный сайт для получения самой актуальной и точной информации."
   },
   {
+    "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+    "slug": "the-genderaid",
+    "externalUrl": "https://genderaid.org/en",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": "NH",
+    "city": "Amsterdam",
+    "county": "Amsterdam",
+    "latLng": [
+      52.3346104,
+      4.8598083
+    ],
+    "email": "info@genderaid.org",
+    "socialMedia": null,
+    "town": "Amsterdam-Zuid",
+    "title": "The GenderAid",
+    "description": "The GenderAid - это помощник в принятии решений по поводу операций по изменению пола, цель которого - предоставить полную и надежную информацию о вариантах лечения. Он сосредоточен на голландской системе здравоохранения, следуя руководствам WPATH, и был разработан для всех частей трансгендерного сообщества, включая людей, не относящие себя ни к мужскому, ни к женскому полу, людей с изменяющимся гендером и людей, не признающих бинарность пола."
+  },
+  {
     "id": "f0aa7c03-8837-40f8-82aa-03beb0ac46cc",
     "slug": "transfolk-of-wa",
     "externalUrl": "https://www.transfolkofwa.org/",
@@ -1333,6 +2304,95 @@
     "socialMedia": null,
     "title": "TransFolk of WA",
     "description": "Сервис поддержки для трансгендерных людей и их близких в Западной Австралии. Предлагает онлайн-группы, рекомендуемые услуги и ресурсы, а также организовывает различные мероприятия."
+  },
+  {
+    "id": "f2625d38-e181-4231-8344-214adb6edf36",
+    "slug": "transcend-australia",
+    "externalUrl": "https://transcend.org.au/",
+    "tags": [
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "AU",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Transcend Австралия",
+    "description": "Цель Transcend Австралии - поддерживать, подтверждать и праздновать жизнь трансгендерных и гендерно-разнообразных детей и их семей и опекунов. Они предоставляют информацию, поддержку и рефералы семьям по всей Австралии и работают над эмповерментом трансгендерных и гендерно-разнообразных детей и молодежи."
+  },
+  {
+    "id": "f48634db-fe71-426c-be84-622b3282bad7",
+    "slug": "planned-parenthood",
+    "externalUrl": "https://www.plannedparenthood.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": "1-800-230-7526",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Planned Parenthood",
+    "description": "Planned Parenthood предоставляет жизненно важные услуги по репродуктивному здоровью, сексуальному образованию и информацию миллионам людей по всему миру. Услуги включают аборт, контрацепцию, тестирование и лечение венерических болезней, гормональную терапию для трансгендеров и многое другое. Доступны онлайн-приемы и телемедицинские консультации."
+  },
+  {
+    "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
+    "slug": "rfsl-swedish-federation-lgbtq-rights",
+    "externalUrl": "https://www.rfsl.se/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "SE",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "RFSL - Шведская Федерация прав лесбиянок, геев, бисексуалов, трансгендеров и квир-людей",
+    "description": "RFSL - это шведская организация, которая работает в интересах прав ЛГБТК-сообщества и с ними. Они предоставляют ключевые ресурсы, поддержку сообщества, образование и информирование, правовое руководство, услуги в области здравоохранения и многое другое для трансгендерного сообщества. RFSL также продвигает права ЛГБТК на международном уровне."
+  },
+  {
+    "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
+    "slug": "apotheek-all-about-medication",
+    "externalUrl": "https://www.apotheek.nl/",
+    "tags": [
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "NL",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Apotheek.nl - Все о лекарствах",
+    "description": "Ресурс, предлагающий надежную информацию о различных лекарствах. Сайт включает видео, актуальные события в области здравоохранения, информацию о вакцинации, коронавирусе и фармацевтической помощи. Предоставляет информацию на голландском языке и переводит 50 ключевых лекарств для украинских беженцев."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

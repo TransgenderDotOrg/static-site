@@ -1,0 +1,30 @@
+{
+  "id": "192cec64-3c1a-43eb-bfcf-9dfe3372842c",
+  "title": "Black Rainbow",
+  "description": "Black Rainbow is a national Aboriginal and Torres Strait Islander LGBQTIA+SB volunteer social enterprise focused on the health and wellbeing of their community. This strives to extend its services, despite being unfunded, through donations, fee for service and sales of educational materials. They initiate outreach projects, support social events, and gather funds for community enhancement and research on health impacts.",
+  "slug": "black-rainbow",
+  "externalUrl": "https://blackrainbow.org.au/",
+  "tags": [
+    "mental-health",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "Darwin NT, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NT",
+  "city": "Darwin",
+  "latLng": [
+    -12.4637333,
+    130.8444446
+  ],
+  "email": null,
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/blackrainbowaus/",
+    "twitter": "https://twitter.com/BlkRnBow",
+    "facebook": "https://www.facebook.com/blackrainbowaus/",
+    "linkedin": "https://www.linkedin.com/company/black-rainbow/",
+    "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
+  }
+}

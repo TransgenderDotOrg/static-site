@@ -1,0 +1,24 @@
+{
+  "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
+  "title": "The GenderAid",
+  "description": "The GenderAid is a decision aid for genital gender surgery, aiming to provide complete and reliable information about the treatment options. It focuses on the Dutch health care system, adhering to the guidelines of the WPATH, and has been developed for all parts of the transgender community, including non-binary, genderfluid, and genderqueer individuals.",
+  "slug": "the-genderaid",
+  "externalUrl": "https://genderaid.org/en",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": "NH",
+  "city": "Amsterdam",
+  "county": "Amsterdam",
+  "latLng": [
+    52.3346104,
+    4.8598083
+  ],
+  "email": "info@genderaid.org",
+  "socialMedia": null,
+  "town": "Amsterdam-Zuid"
+}

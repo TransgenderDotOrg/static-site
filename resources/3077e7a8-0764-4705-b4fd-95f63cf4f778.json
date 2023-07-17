@@ -1,0 +1,104 @@
+{
+  "id": "3077e7a8-0764-4705-b4fd-95f63cf4f778",
+  "slug": "medicijnkosten-medication-costs-information",
+  "externalUrl": "https://www.medicijnkosten.nl/",
+  "tags": [
+    "healthcare",
+    "financial-aid-scholarships"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "NL",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Medicijnkosten - Medication Costs Information",
+      "description": "An informative platform that provides details about medication costs. It offers data regarding the reimbursement of medications and alternatives available for individuals who may not afford certain medication. Important for financial planning of healthcare."
+    },
+    "pt-PT": {
+      "title": "Medicijnkosten - Informações sobre Custos de Medicamentos",
+      "description": "Uma plataforma informativa que fornece detalhes sobre os custos dos medicamentos. Oferece dados sobre o reembolso de medicamentos e alternativas disponíveis para indivíduos que podem não ter condições de comprar certos medicamentos. Importante para o planejamento financeiro da saúde."
+    },
+    "es-ES": {
+      "title": "Medicijnkosten - Información sobre los costos de los medicamentos",
+      "description": "Una plataforma informativa que proporciona detalles sobre los costos de los medicamentos. Ofrece datos sobre el reembolso de medicamentos y alternativas disponibles para individuos que pueden no poder costear ciertos medicamentos. Importante para la planificación financiera de la atención sanitaria."
+    },
+    "de-DE": {
+      "title": "Medicijnkosten - Informationen über Medikamentenkosten",
+      "description": "Eine informative Plattform, die Details über die Kosten von Medikamenten bereitstellt. Sie bietet Daten über die Erstattung von Medikamenten und Alternativen für Personen, die sich bestimmte Medikamente möglicherweise nicht leisten können. Wichtig für die finanzielle Planung der Gesundheitsversorgung."
+    },
+    "id-ID": {
+      "title": "Medicijnkosten - Informasi Biaya Obat",
+      "description": "Sebuah platform informatif yang menyediakan detail tentang biaya obat. Menawarkan data mengenai pembayaran kembali obat dan alternatif yang tersedia untuk individu yang mungkin tidak mampu membeli obat tertentu. Penting untuk perencanaan keuangan dalam bidang kesehatan."
+    },
+    "tr-TR": {
+      "title": "Medicijnkosten - İlaç Maliyetleri Bilgisi",
+      "description": "İlaç maliyetleri hakkında detayları sağlayan bilgilendirici bir platform. İlaçların geri ödemesi ve belirli bir ilaca karşı ödeme yapamayacak bireyler için mevcut alternatifler hakkında veri sunar. Sağlık hizmetlerinin finansal planlaması için önemlidir."
+    },
+    "fr-FR": {
+      "title": "Medicijnkosten - Informations sur les coûts des médicaments",
+      "description": "Une plateforme informative qui fournit des détails sur les coûts des médicaments. Elle offre des données concernant le remboursement des médicaments et les alternatives disponibles pour les individus qui ne peuvent pas se permettre certains médicaments. Important pour la planification financière des soins de santé."
+    },
+    "ko-KR": {
+      "title": "Medicijnkosten - 약비 정보",
+      "description": "약비에 대한 자세한 정보를 제공하는 정보 제공 플랫폼입니다. 약제의 환급에 대한 데이터를 제공하며, 특정 약품을 구매할 수 없는 개인들을 위한 대체방안을 제공합니다. 의료비 재무 계획에 중요합니다."
+    },
+    "sw-KE": {
+      "title": "Medicijnkosten - Taarifa za Gharama za Dawa",
+      "description": "Jukwaa lenye kutoa taarifa ambalo linatoa maelezo kuhusu gharama za dawa. Linatoa data kuhusu marejesho ya dawa na mbadala zinazopatikana kwa watu ambao huenda wasiweze kumudu dawa fulani. Muhimu kwa kupanga mipango ya kifedha ya huduma za afya."
+    },
+    "zh-CN": {
+      "title": "药品费用 - 药品费用信息",
+      "description": "一个提供药品费用详细信息的信息平台。它提供关于药品报销以及那些可能负担不起某些药物的个体的可用替代品的数据。对于医疗保健的财务规划非常重要。"
+    },
+    "vi-VN": {
+      "title": "Medicijnkosten - Thông tin về Chi phí Dược phẩm",
+      "description": "Một nền tảng thông tin cung cấp chi tiết về chi phí dược phẩm. Nó cung cấp dữ liệu về việc hoàn lại chi phí cho các loại thuốc và các lựa chọn thay thế dành cho những người có thể không chi trả được cho một số loại thuốc. Điều này quan trọng cho việc lập kế hoạch tài chính cho chăm sóc sức khỏe."
+    },
+    "ja-JP": {
+      "title": "Medicijnkosten - 薬の費用に関する情報",
+      "description": "薬の費用に関する詳細を提供する情報プラットフォームです。薬の払い戻しや、特定の薬を購入できない個人向けの代替案に関するデータを提供します。ヘルスケアの財政計画に重要です。"
+    },
+    "ru-RU": {
+      "title": "Medicijnkosten - Информация о стоимости лекарств",
+      "description": "Информационная платформа, предоставляющая детали о стоимости лекарств. Она предлагает данные о возмещении стоимости лекарств и альтернативах, доступных для людей, которые не могут позволить себе определенные лекарства. Важно для планирования затрат на здравоохранение."
+    },
+    "uk-UA": {
+      "title": "Medicijnkosten - Інформація про вартість медикаментів",
+      "description": "Інформаційна платформа, яка надає деталі про вартість ліків. Вона пропонує дані щодо компенсації вартості ліків та доступні альтернативи для осіб, які можуть не мати можливості оплатити певні ліки. Важливо для фінансового планування охорони здоров'я."
+    },
+    "ar-SA": {
+      "title": "Medicijnkosten - معلومات تكاليف الدواء",
+      "description": "منصة تعليمية توفر تفاصيل حول تكاليف الدواء. تقدم بيانات حول الاسترداد المتعلق بالأدوية والبدائل المتاحة للأفراد الذين قد لا يتمكنون من تحمل تكلفة الدواء المعينة. هام للتخطيط المالي للرعاية الصحية."
+    },
+    "mr-IN": {
+      "title": "मेडिसिनच्या खर्चांची माहिती - मेडिसिनच्या खर्चांची माहिती",
+      "description": "एक माहितीपूर्ण प्लॅटफॉर्म ज्यामुळे औषधाच्या खर्चांबद्दलची तपशील मिळतात. त्यामध्ये औषधांच्या पूर्ततेविषयी डेटा देतो आणि व्यक्तींसाठी विकल्प देते ज्यांना काही औषधे मिळवता येऊ शकत नाहीत. आरोग्य क्षेत्रातील संधी योजनेच्या दृष्टीने महत्वाचे."
+    },
+    "bn-BD": {
+      "title": "Medicijnkosten - ঔষধের খরচের তথ্য",
+      "description": "একটি তথ্যপ্রদ প্ল্যাটফর্ম যা ঔষধের খরচ সম্পর্কে বিস্তারিত তথ্য প্রদান করে। এটি ঔষধের প্রতিস্থাপনের এবং নির্দিষ্ট ঔষধ সমর্থন না করার জন্য ব্যক্তিদের জন্য উপলব্ধ বিকল্পগুলি সম্পর্কে ডাটা প্রদান করে। স্বাস্থ্য সেবার আর্থিক পরিকল্পনার জন্য গুরুত্বপূর্ণ।"
+    },
+    "ur-PK": {
+      "title": "میڈی سین کا خرچ - دوائوں کے خرچ کی معلومات",
+      "description": "ایک معلوماتی پلیٹ فارم جو دوائوں کے خرچ کے بارے میں تفصیلات فراہم کرتا ہے. یہ ڈیٹا فراہم کرتا ہے جو دوائوں کی واپسی اور ان افراد کے لئے دستیاب متبادلات کے بارے میں ہے جو معین دوا کی خریداری نہیں کر سکتے. صحت کی خرچ کی مالی تخطیط کے لئے اہم ہے۔"
+    },
+    "hi-IN": {
+      "title": "मेडिसिन की किमत - दवाओं की लागत की जानकारी",
+      "description": "एक सूचनात्मक प्लेटफ़ॉर्म जो दवाओं की लागत के बारे में विवरण प्रदान करता है। यह दवाओं की प्रतिपूर्ति और उन व्यक्तियों के लिए उपलब्ध विकल्पों के बारे में डेटा प्रदान करता है जो शायद कुछ दवाइयां खरीदने की और किंमत नहीं दे सकते। स्वास्थ्य सेवाओं की वित्तीय योजना के लिए महत्वपूर्ण।"
+    },
+    "ta-IN": {
+      "title": "Medicijnkosten - மருந்து செலவு தகவல்கள்",
+      "description": "மருந்து செலவுகள் பற்றிய விபரங்களை வழங்கும் ஆராய்ச்சி மேடை. மருந்துகளின் மீள் பணம் மற்றும் சில மருந்துகளை முடிக்க முடியாத நபர்களுக்கு கிடைக்கும் மாற்று வழிகளைப் பற்றி தரவுகளை வழங்குகிறது. சுகாதார நிதி திட்டத்தில் முக்கியமானது."
+    },
+    "te-IN": {
+      "title": "మెడిసిన్ ఖర్చు - మందుల ఖర్చు సమాచారం",
+      "description": "మందుల ఖర్చు గురించి వివరాలను అందించే ఒక సమాచారతో కూడిన వేదిక. దీనిలో మందులు రీంబర్స్మెంట్ గురించి డేటా మరియు కొన్ని మందులు అనువసరించలేని వ్యక్తులు కొరకు అందుబాటులో ఉన్న ప్రత్యామ్నాయాలు అందుస్తుంది. ఆరోగ్యశాఖ ఆర్థిక ప్లానింగ్ కొరకు ముఖ్యం."
+    }
+  }
+}

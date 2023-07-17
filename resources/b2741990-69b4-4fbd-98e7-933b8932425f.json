@@ -1,0 +1,108 @@
+{
+  "id": "b2741990-69b4-4fbd-98e7-933b8932425f",
+  "slug": "transfamily",
+  "externalUrl": "https://www.transfamily.org.au/",
+  "tags": [
+    "support-groups",
+    "parent-family-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Transfamily",
+      "description": "A peer support group for parents, siblings, extended family and friends of a trans and gender diverse person. It offers resources, events, and a platform for community stories. It also offers a Transfamily book that provides useful information and insights about the transgender community."
+    },
+    "id-ID": {
+      "title": "Transfamily",
+      "description": "Sebuah grup dukungan sebaya untuk orang tua, saudara kandung, keluarga besar dan teman dari orang yang beragam dalam hal gender dan trans. Grup ini menawarkan sumber daya, acara, dan platform untuk cerita masyarakat. Grup ini juga menawarkan buku Transfamily yang menyediakan informasi dan wawasan yang berguna tentang komunitas transgender."
+    },
+    "pt-PT": {
+      "title": "Transfamily",
+      "description": "Um grupo de apoio entre pares para pais, irmãos, família extensa e amigos de uma pessoa trans e de gênero diverso. Oferece recursos, eventos e uma plataforma para histórias da comunidade. Também oferece um livro Transfamily que fornece informações úteis e insights sobre a comunidade transgênero."
+    },
+    "es-ES": {
+      "title": "Transfamily",
+      "description": "Un grupo de apoyo entre pares para padres, hermanos, familia extendida y amigos de una persona trans y diversa en términos de género. Ofrece recursos, eventos y una plataforma para historias de la comunidad. También ofrece un libro de Transfamily que proporciona información útil y perspectivas sobre la comunidad transgénero."
+    },
+    "fr-FR": {
+      "title": "Transfamily",
+      "description": "Un groupe de soutien de pairs pour les parents, les frères et sœurs, la famille élargie et les amis d'une personne trans et de diversité de genre. Il offre des ressources, des événements et une plateforme pour les histoires communautaires. Il propose également un livre Transfamily qui fournit des informations et des perspectives utiles sur la communauté transgenre."
+    },
+    "zh-CN": {
+      "title": "跨性别家庭",
+      "description": "这是一个为跨性别和性别多元人士的父母、兄弟姐妹、扩大家庭和朋友提供支持的小组。它提供资源、活动以及一个讲述社群故事的平台。此外，它还提供一本《跨性别家庭》书籍，为大家提供有关跨性别社区的有用信息和洞察。"
+    },
+    "sw-KE": {
+      "title": "Transfamily",
+      "description": "Kikundi cha msaada wa wenzao kwa wazazi, ndugu, familia pana na marafiki wa mtu wa jinsia tofauti na ya aina ya kijinsia. Kinatoa rasilimali, matukio, na jukwaa la hadithi za jamii. Pia inatoa kitabu cha Transfamily ambacho kinatoa habari muhimu na ufahamu kuhusu jamii ya watu walio na jinsi tofauti."
+    },
+    "ja-JP": {
+      "title": "Transfamily",
+      "description": "トランスとジェンダーダイバーシティな人々の親、兄弟、親戚、友人向けのピアサポートグループ。リソース、イベント、コミュニティストーリーのプラットフォームを提供します。また、トランスジェンダーコミュニティについての有用な情報と洞察を提供するTransfamilyの本も提供しています。"
+    },
+    "vi-VN": {
+      "title": "Transfamily",
+      "description": "Một nhóm hỗ trợ đồng đẳng cho cha mẹ, anh chị em, gia đình mở rộng và bạn bè của một người đa dạng về giới tính và chuyển đổi giới tính. Nó cung cấp các nguồn lực, sự kiện, và một nền tảng cho các câu chuyện cộng đồng. Nó cũng cung cấp một quyển sách Transfamily cung cấp thông tin hữu ích và cái nhìn sâu sắc về cộng đồng người chuyển giới."
+    },
+    "uk-UA": {
+      "title": "Transfamily",
+      "description": "Група підтримки на рівні товаришів для батьків, братів, сестер, широкого семейного кола і друзів людини транс та гендерно різноманітних особистостей. Вона пропонує ресурси, заходи, та платформу для спільноти історій. Вона також пропонує книгу Transfamily, яка надає корисну інформацію та внески про спільноту трансгендерів."
+    },
+    "de-DE": {
+      "title": "Transfamily",
+      "description": "Eine Peer-Support-Gruppe für Eltern, Geschwister, erweiterte Familie und Freunde einer trans und geschlechtsvielfältigen Person. Sie bietet Ressourcen, Veranstaltungen und eine Plattform für Geschichten aus der Gemeinschaft. Sie bietet auch ein Transfamily-Buch, das nützliche Informationen und Einblicke in die Transgender-Gemeinschaft liefert."
+    },
+    "ar-SA": {
+      "title": "ترانسفاميلي",
+      "description": "مجموعة دعم أقران للوالدين، الأشقاء، العائلة الموسعة والأصدقاء لشخص متحول الجنس ومتنوع الجنس. تتعرض للموارد، الأحداث، ومنصة لقصص المجتمع. كما تقدم كتاب ترانسفاميلي الذي يوفر معلومات مفيدة ورؤى حول المجتمع المتحول جنسياً."
+    },
+    "ru-RU": {
+      "title": "Transfamily",
+      "description": "Группа поддержки для родителей, братьев, сестер, расширенной семьи и друзей трансгендерного человека и людей с разнообразной гендерной идентификацией. Группа предлагает ресурсы, события и платформу для сообщественных историй. Также предлагается книга Transfamily, которая предоставляет полезную информацию и информацию о трансгендерном сообществе."
+    },
+    "tr-TR": {
+      "title": "Transfamily",
+      "description": "Trans ve cinsiyet çeşitliliği olan bir kişinin ebeveynleri, kardeşleri, geniş aile üyeleri ve arkadaşları için bir akran destek grubudur. Kaynaklar, etkinlikler ve topluluk hikayeleri için bir platform sunar. Ayrıca, transgender topluluğu hakkında yararlı bilgiler ve içgörüler sağlayan bir Transfamily kitabı da sunar."
+    },
+    "ko-KR": {
+      "title": "Transfamily",
+      "description": "트랜스와 성 다양성을 가진 사람들의 부모, 형제, 확장된 가족, 친구들을 위한 동료 지원 그룹입니다. 자원, 이벤트, 커뮤니티 이야기를 위한 플랫폼을 제공합니다. 또한 트랜스젠더 커뮤니티에 대한 유용한 정보와 통찰력을 제공하는 Transfamily 책도 제공합니다."
+    },
+    "ur-PK": {
+      "title": "ٹرانسفیملی",
+      "description": "یہ ایک ہمسفر سپورٹ گروپ ہے جو والدین، بہن بھائی، بڑے خاندان اور ٹرانس اور جنسی مختلف شخص کے دوستوں کے لئے مخصوص ہے۔ یہ وسائل,  واقعات, اور کمیونٹی کہانیوں کے لیے ایک پلیٹ فارم مہیا کرتا ہے۔ یہ ایک ٹرانسفیملی کتاب بھی پیش کرتا ہے جو ٹرانسجنڈر کمیونٹی کے بارے میں مفید معلومات اور بصیرت فراہم کرتی ہے۔"
+    },
+    "mr-IN": {
+      "title": "ट्रान्सफॅमिली",
+      "description": "ट्रान्स आणि लिंग विविध व्यक्तींच्या पालकांच्या, भावंडांच्या, विस्तृत कुटुंब आणि मित्रांसाठीचा मित्र समर्थन गट. त्यात उपकरणे, कार्यक्रमे, आणि समुदाय कथांसाठीचा वेधदेखभाग उपलब्ध आहे. त्यातील ट्रान्सफ़ॅमिली पुस्तक म्हणजेच ट्रान्सजेंडर समुदायाबद्दल उपयुक्त माहिती आणि तिचे अंतर्दृष्टी प्रदान करते."
+    },
+    "hi-IN": {
+      "title": "Transfamily",
+      "description": "ट्रांस और लिंग विविध व्यक्ति के माता-पिता, भाई-बहन, विस्तृत परिवार और मित्रों के लिए एक सह-समर्थन समूह। इसकी पेशकश में संसाधन, कार्यक्रम, और समुदाय की कथाओं के लिए एक मंच शामिल है। इसके अलावा यह एक Transfamily पुस्तक भी पेशकश करता है जो ट्रांसजेंडर समुदाय के बारे में उपयोगी जानकारी और अंतर्दृष्टि प्रदान करता है।"
+    },
+    "ta-IN": {
+      "title": "Transfamily",
+      "description": "மாற்று மற்றும் பால் வேறுபாட்டுக்குடியேற்ற உறவுமுதலிகினாரின் பெற்றோர்கள், சகோதரர்கள், நீண்ட குடும்பத்தையும் நண்பர்களையும் ஆதரிக்க ஒரு பீர் ஆதரவு குழு. இது வளங்கள், நிகழ்வுகள், மற்றும் சமுதாயத் தகவல்களுக்கு ஒரு அரங்கம் வழங்குகிறது. இதுவே விவரமாகத் தகவல்களையும், மாற்று மற்றும் பால் வேறுபாட்டு சமுதாயத்தை குறித்த உண்மையான விவரங்களை வழங்கும் ஒரு Transfamily புத்தகத்தையும் வழங்குகிறது."
+    },
+    "bn-BD": {
+      "title": "ট্রান্সফ্যামিলি",
+      "description": "ট্রান্স এবং জেন্ডার বিভিন্ন ব্যক্তির মাতাপিতা, ভাই-বোন, দূরাগত পরিবার এবং বন্ধুদের জন্য একটি সহযোগী সমর্থন দল। এটি সম্পদ, ইভেন্ট, এবং সম্প্রদায় গল্পের জন্য একটি মঞ্চ অফার করে। এটি একটি ট্রান্সফ্যামিলি বইও অফার করে যা ট্রান্সজেন্ডার সম্প্রদায় সম্পর্কে উপযুক্ত তথ্য এবং অন্তর্দৃষ্টি সরবরাহ করে।"
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్‌ఫ్యామిలీ",
+      "description": "ట్రాన్స్‌ మరియు లింగ వివిధత వ్యక్తిని ప్రియమైని చూసే మాతృమూలం, బహుళ పౌరుషుడు, విస్తృత కుటుంబం మరియు స్నేహితుల కోసం సహకారి సమూహానికి కొనిపిస్తుంది. అది వనరులను, ఈవెంట్లను, సముదాయ కథనాల కోసం వేదికను అందిస్తుంది. దీని పాటు, దాదాపు మాహితీని మరియు ట్రాన్స్‌జెండర్ సముదాయం గురించి అంతర్దృష్టిని అందించే ట్రాన్స్‌ఫ్యామిలీ పుస్తకం కూడా అందిస్తుంది."
+    }
+  }
+}

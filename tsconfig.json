@@ -12,7 +12,10 @@
     "forceConsistentCasingInFileNames": true
   },
   "ts-node": {
-    "esm": true
+    "esm": true,
+    "compilerOptions": {
+      "target": "ES2017"
+    }
   },
   "include": ["src/**/*.ts", "src/**/*.tsx"]
 }

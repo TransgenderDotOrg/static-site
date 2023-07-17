@@ -1,0 +1,105 @@
+{
+  "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
+  "slug": "the-pinnacle-foundation",
+  "externalUrl": "https://thepinnaclefoundation.org/",
+  "tags": [
+    "education-awareness",
+    "financial-aid-scholarships",
+    "youth-services"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundation is an Australian education charity providing scholarships, mentoring and opportunities to young LGBTQIA+ Australians. The scholarships are awarded for fulltime study at public institutions of higher education in Australia."
+    },
+    "id-ID": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundation adalah yayasan pendidikan Australia yang menyediakan beasiswa, bimbingan, dan kesempatan kepada pemuda LGBTQIA+ Australia. Beasiswa diberikan untuk studi penuh waktu di lembaga pendidikan tinggi umum di Australia."
+    },
+    "es-ES": {
+      "title": "La Fundación Pinnacle",
+      "description": "La Fundación Pinnacle es una organización benéfica de educación australiana que proporciona becas, mentoría y oportunidades a jóvenes australianos LGBTQIA+. Las becas se otorgan para estudios a tiempo completo en instituciones públicas de educación superior en Australia."
+    },
+    "fr-FR": {
+      "title": "La Fondation Pinnacle",
+      "description": "La Fondation Pinnacle est une organisation caritative australienne en matière d'éducation qui fournit des bourses d'études, du mentorat et des opportunités aux jeunes Australiens LGBTQIA+. Les bourses sont attribuées pour des études à temps plein dans des établissements publics d'enseignement supérieur en Australie."
+    },
+    "tr-TR": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundation, genç LGBTQIA+ Avustralyalılara burslar, mentorluk ve fırsatlar sağlayan bir Avustralya eğitim hayır kurumudur. Burslar, Avustralya'daki devlet yükseköğretim kurumlarında tam zamanlı eğitim için verilir."
+    },
+    "pt-PT": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundation é uma instituição de caridade australiana de educação que oferece bolsas de estudo, mentoria e oportunidades para jovens LGBTQIA+ australianos. As bolsas de estudo são concedidas para estudo integral em instituições públicas de ensino superior na Austrália."
+    },
+    "de-DE": {
+      "title": "Die Pinnacle-Stiftung",
+      "description": "Die Pinnacle-Stiftung ist eine australische Bildungsstiftung, die Stipendien, Mentoring und Möglichkeiten für junge LGBTQIA+ Australier bietet. Die Stipendien werden für das Vollzeitstudium an öffentlichen Hochschulbildungseinrichtungen in Australien vergeben."
+    },
+    "vi-VN": {
+      "title": "Quỹ Pinnacle",
+      "description": "Quỹ Pinnacle là một tổ chức từ thiện giáo dục của Úc cung cấp học bổng, hướng dẫn và cơ hội cho các thanh niên LGBTQIA+ Úc. Học bổng được trao cho việc học fulltime tại các cơ sở giáo dục đại học công lập tại Úc."
+    },
+    "sw-KE": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundation ni hisani ya elimu ya Australia inayotoa ufadhili, ushauri na fursa kwa vijana wa Australia wa LGBTQIA+. Ufadhili hutolewa kwa masomo ya wakati wote katika vyuo vikuu vya umma vya elimu ya juu nchini Australia."
+    },
+    "ja-JP": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundationは、若いLGBTQIA+のオーストラリア人に奨学金、メンタリング、チャンスを提供するオーストラリアの教育チャリティです。奨学金は、オーストラリアの公立高等教育機関での全日制の学習に対して授与されます。"
+    },
+    "ru-RU": {
+      "title": "Фонд Pinnacle",
+      "description": "Фонд Pinnacle - это австралийский образовательный благотворительный фонд, предоставляющий стипендии, наставничество и возможности молодым австралийцам LGBTQIA+. Стипендии предоставляются для полноценного обучения в государственных высших учебных заведениях Австралии."
+    },
+    "uk-UA": {
+      "title": "Фонд Пінакл",
+      "description": "Фонд Пінакл - це австралійська благодійна організація в галузі освіти, яка надає стипендії, наставництво та можливості для молодих австралійців LGBTQIA+. Стипендії вручаються для повноцінного навчання в державних вищих навчальних закладах Австралії."
+    },
+    "zh-CN": {
+      "title": "顶峰基金会",
+      "description": "顶峰基金会是一家澳大利亚的教育慈善机构，为年轻的澳大利亚LGBTQIA+群体提供奖学金，指导和机会。这些奖学金是为在澳大利亚公立高等教育机构全日制学习的学生颁发的。"
+    },
+    "ko-KR": {
+      "title": "더 핀나클 재단",
+      "description": "더 핀나클 재단은 젊은 LGBTQIA+ 호주인들에게 장학금, 멘토링 및 기회를 제공하는 호주의 교육 자선단체입니다. 장학금은 호주의 공립 고등 교육 기관에서 전임 연구를 위해 수여됩니다."
+    },
+    "ar-SA": {
+      "title": "مؤسسة القمة",
+      "description": "مؤسسة القمة هي منظمة خيرية أسترالية تعمل في مجال التعليم توفر منحًا دراسية وتوجيهًا وفرصًا للأستراليين الشباب من المثليين وثنائيي الجنس ومغايري الهوية الجنسية والنوع الجنسي. يتم منح المنح الدراسية للدراسة بدوام كامل في مؤسسات التعليم العالي العامة في أستراليا."
+    },
+    "ur-PK": {
+      "title": "دی پیناکل فاؤنڈیشن",
+      "description": "دی پیناکل فاؤنڈیشن ایک آسٹریلوی تعلیمی خیراتی ادارہ ہے جو نوجوان LGBTQIA+ آسٹریلویوں کو اسکالر شپس، منٹرنگ اور مواقع فراہم کرتا ہے۔ ان اسکالر شپس کو آسٹریلیا میں تعلیم کے بلند ہدایات کے عام اداروں میں پورے وقت کے مطالعے کے لئے دیا جاتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "द पिनेकल फाउंडेशन",
+      "description": "द पिनेकल फाउंडेशन ही ऑस्ट्रेलियन शिक्षण दायित्व असलेली संस्था आहे जी तरुण LGBTQIA+ ऑस्ट्रेलियायनांना शिष्यवृत्त्या, मार्गदर्शन आणि संधी प्रदान करते. शिष्यवृत्त्या ऑस्ट्रेलियातील सार्वजनिक उच्च शिक्षण संस्थांवर पूर्णवेळी अभ्यासासाठी दिली जातात."
+    },
+    "hi-IN": {
+      "title": "पिनैकल फाउंडेशन",
+      "description": "पिनैकल फाउंडेशन एक ऑस्ट्रेलियाई शिक्षा चैरिटी है जो युवा LGBTQIA+ ऑस्ट्रेलियाईयों को छात्रवृत्ति, मेंटोरिंग और अवसर प्रदान करती है। छात्रवृत्तियां ऑस्ट्रेलिया के सार्वजनिक उच्च शिक्षा संस्थानों में पूर्णकालिक अध्ययन के लिए दी जाती हैं।"
+    },
+    "bn-BD": {
+      "title": "The Pinnacle Foundation",
+      "description": "The Pinnacle Foundation একটি অস্ট্রেলিয়ান শিক্ষা চরিত্রাবলী যা যুব এলজিবিটিকিউআইএ+ অস্ট্রেলিয়ানদের জন্য বৃত্তি, নির্দেশিকা এবং সুযোগ সরবরাহ করে। বৃত্তিগুলি অস্ট্রেলিয়ার পাবলিক উচ্চশিক্ষা প্রতিষ্ঠানে সম্পূর্ণ সময়ের জন্য অধ্যয়নের জন্য প্রদান করা হয়।"
+    },
+    "ta-IN": {
+      "title": "தி பின்னாக்கல் பவுண்டேஷன்",
+      "description": "தி பின்னாக்கல் பவுண்டேஷன் ஆஸ்திரேலிய கல்வி அறவழி ஆகும், இது இளம் LGBTQIA+ ஆஸ்திரேலியாவினருக்கு விருதுகள், மேன்டரிங் மற்றும் வாய்ப்புகள் வழங்குகிறது. ஆஸ்திரேலியாவின் அரசு உயர் கல்வி நிறுவனங்களில் முழு நேர படிப்புக்கு பரிசுகள் வழங்கப்படுகின்றன."
+    },
+    "te-IN": {
+      "title": "ది పిన్నాకల్ ఫౌండేషన్",
+      "description": "ది పిన్నాకల్ ఫౌండేషన్ ఒక ఆస్ట్రేలియాన్ విద్యా చరిత్రాస్థ సంస్థ అది యువ ఎల్జిబిటిక్యూ ఆస్ట్రేలియాన్లకు విద్యా విద్యా సంస్థలు, మంటరింగ్ మరియు అవకాశాలను అందిస్తుంది. విద్యా విద్యా సంస్థలు పాఠశాలలలో పూర్తి సమయంలో చదువడానికి అందించబడుతుంది."
+    }
+  }
+}

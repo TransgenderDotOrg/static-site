@@ -1,0 +1,26 @@
+{
+  "id": "92920c87-b8c4-4179-a98b-7c9b036c8b1a",
+  "title": "Amsterdam UMC - Kennis- en Zorgcentrum Genderdysforie",
+  "description": "The Knowledge and Care Center for Gender Dysphoria at Amsterdam UMC specializes in providing medical treatment and psychological support to people who feel their birth gender does not match their identity. The center embraces individual diversity, tailors its services to personal needs, and is recognized internationally for its expertise in treating gender incongruence. It also undertakes research to improve understanding and treatment of transgender individuals and offers training to new healthcare professionals.",
+  "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
+  "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
+  "phoneNumber": "+31(0)20 444 0542",
+  "country": "NL",
+  "provinceOrState": "NH",
+  "city": "Amsterdam",
+  "county": "Amsterdam",
+  "latLng": [
+    52.3346104,
+    4.8598083
+  ],
+  "email": "genderteam-poli@vumc.nl",
+  "socialMedia": {
+    "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
+  },
+  "town": "Amsterdam-Zuid"
+}

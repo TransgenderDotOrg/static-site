@@ -1,0 +1,120 @@
+{
+  "id": "ba3e158a-53b6-4dc5-a220-4a065859aa7f",
+  "slug": "queer-lexikon",
+  "externalUrl": "https://queer-lexikon.net/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "fab fa-twitter",
+    "facebookUrl": "fab fa-facebook",
+    "instagramUrl": "fab fa-instagram",
+    "youtubeUrl": "fab fa-youtube",
+    "patreonUrl": "fab fa-patreon",
+    "tumblrUrl": "fab fa-tumblr",
+    "linkedinUrl": "fab fa-linkedin-in",
+    "emailUrl": "fas fa-envelope"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon is an online resource providing extensive information and support for the queer community. Covering topics varying from sexual, romantic, gender diversity to mental health and support groups. It's a hub for education, awareness, and community stories."
+    },
+    "fr-FR": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon est une ressource en ligne fournissant des informations détaillées et du soutien pour la communauté queer. Couvrant des sujets allant de la diversité sexuelle, romantique, de genre à la santé mentale et aux groupes de soutien. C'est un centre pour l'éducation, la sensibilisation et les histoires de la communauté."
+    },
+    "es-ES": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon es un recurso en línea que proporciona información y apoyo extensos para la comunidad queer. Cubre temas que varían desde diversidad sexual, romántica, de género hasta salud mental y grupos de apoyo. Es un centro para la educación, conciencia y relatos comunitarios."
+    },
+    "de-DE": {
+      "title": "Queer Lexikon",
+      "description": "Das Queer Lexikon ist eine Online-Ressource, die umfangreiche Informationen und Unterstützung für die Queer-Community bietet. Es werden Themen von sexueller, romantischer, geschlechtlicher Vielfalt bis hin zu psychischer Gesundheit und Unterstützungsgruppen behandelt. Es ist eine Plattform für Bildung, Bewusstsein und Geschichten aus der Community."
+    },
+    "sw-KE": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon ni rasilimali ya mtandaoni inayotoa habari na msaada mkubwa kwa jamii ya queer. Inafunika mada anuwai kuanzia uanuwai wa kijinsia, kimapenzi hadi afya ya akili na makundi ya msaada. Ni kitovu cha elimu, uhamasishaji, na hadithi za jamii."
+    },
+    "pt-PT": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon é um recurso online que oferece informações extensas e apoio para a comunidade queer. Cobrindo tópicos que variam desde diversidade sexual, romântica, de gênero até saúde mental e grupos de apoio. É um centro para educação, conscientização e histórias da comunidade."
+    },
+    "tr-TR": {
+      "title": "Queer Sözlük",
+      "description": "Queer Sözlük, queer topluluğuna geniş bilgi ve destek sağlayan bir online kaynaktır. Cinsel, romantik, cinsiyet çeşitliliğinden zihinsel sağlık ve destek gruplarına kadar değişen konuları kapsar. Eğitim, farkındalık ve topluluk hikayeleri için bir merkezdir."
+    },
+    "vi-VN": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon là một nguồn thông tin trực tuyến cung cấp thông tin rộng rãi và hỗ trợ cho cộng đồng queer. Bao gồm các chủ đề phong phú từ sự đa dạng về tình dục, tình cảm, giới tính đến sức khỏe tinh thần và nhóm hỗ trợ. Đây là một trung tâm cho giáo dục, nâng cao nhận thức và câu chuyện cộng đồng."
+    },
+    "id-ID": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon adalah sumber daya online yang menyediakan informasi lengkap dan dukungan untuk komunitas queer. Membahas topik yang bervariasi dari keanekaragaman seksual, romantis, gender hingga kesehatan mental dan kelompok dukungan. Ini adalah pusat untuk pendidikan, kesadaran, dan cerita komunitas."
+    },
+    "ru-RU": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon - это онлайн-ресурс, предоставляющий обширную информацию и поддержку для квир-сообщества. Покрывает темы, варьирующиеся от сексуального, романтического, гендерного разнообразия до психического здоровья и групп поддержки. Это основа для образования, осведомленности и историй сообщества."
+    },
+    "zh-CN": {
+      "title": "酷儿词典",
+      "description": "酷儿词典是一个在线资源平台，为酷儿社区提供丰富的信息和支持。它涵盖了从性别，浪漫，性别多样性到心理健康和支持团体的各种话题。它是教育，认知和社区故事的中心。"
+    },
+    "ko-KR": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon은 성적, 연애, 성 다양성부터 정신 건강과 지원 그룹에 이르기까지 다양한 주제를 다루며 퀴어 커뮤니티에 대한 광범위한 정보와 지원을 제공하는 온라인 자원입니다. 교육, 인식, 커뮤니티 이야기의 중심지입니다."
+    },
+    "ar-SA": {
+      "title": "كوير ليكسيكون",
+      "description": "كوير ليكسيكون هو مورد على الإنترنت يوفر معلومات واستشارات واسعة للمجتمع الكوير. يغطي المواضيع المتنوعة من الجنس، الرومانسية، التنوع الجندري إلى الصحة العقلية ومجموعات الدعم. إنه محور للتعليم، والوعي، وقصص المجتمع."
+    },
+    "uk-UA": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon - це онлайн-ресурс, який надає обширну інформацію та підтримку для квір-спільноти. Він охоплює теми, що варіюються від сексуальної, романтичної, гендерної різноманітності до питань психічного здоров'я і груп підтримки. Це центр освіти, інформування та історій спільноти."
+    },
+    "ja-JP": {
+      "title": "クィアレキシコン",
+      "description": "クィアレキシコンは、クィアコミュニティに広範な情報とサポートを提供するオンラインリソースです。性的、ロマンチック、性別の多様性からメンタルヘルスや支援グループまで、さまざまなトピックをカバーしています。教育、意識向上、そしてコミュニティのストーリーのハブとなっています。"
+    },
+    "mr-IN": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon ही एक ऑनलाईन स्त्रोत आहे जी क्वीर समाजासाठी व्यापक माहिती आणि समर्थन पुरवते. लैंगिक, प्रेम, लिंगीन विविधतेपासून मानसिक आरोग्य आणि समर्थन गटांपर्यंत विविध विषयांच्या वर्णन करणारी. हे शिक्षण, जागरूकता आणि समुदायीच्या गोष्टीसाठी एक हब आहे."
+    },
+    "ur-PK": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon ایک آن لائن وسیلہ ہے جو قویر کمیونٹی کے لیے وسیع معلومات اور سپورٹ فراہم کرتی ہے۔ جنسی، رومانی، جنسی تنوع سے لے کر زہنی صحت اور سپورٹ گروپوں تک مختلف موضوعات پر چرچا کرتا ہے۔ یہ تعلیم، شعور اور کمیونٹی کی کہانیوں کا مرکز ہے۔"
+    },
+    "hi-IN": {
+      "title": "क्वियर लेक्सिकन",
+      "description": "क्वियर लेक्सिकन एक ऑनलाइन संसाधन है जो क्वियर समुदाय के लिए व्यापक जानकारी और समर्थन प्रदान करता है। यहां लिंग संकल्पना, यौन, रोमांटिक विविधता से लेकर मानसिक स्वास्थ्य और समर्थन समूहों तक कवर किए गए विषयों का आचारण करता है। यह शिक्षा, जागरूकता, और समुदाय की कहानियों के लिए एक हब है।"
+    },
+    "bn-BD": {
+      "title": "Queer Lexikon",
+      "description": "Queer Lexikon হলো একটি অনলাইন সূচনা যা কুইয়ার সম্প্রদায়ের জন্য প্রচুর তথ্য এবং সমর্থন সরবরাহ করে। যৌন, রোমান্টিক, লিঙ্গ বৈচিত্র্য থেকে মানসিক স্বাস্থ্য এবং সমর্থন গ্রুপের বিষয় পর্যন্ত আবৃত করে। এটি একটি শিক্ষা, সচেতনতা এবং সম্প্রদায়ের গল্পের হাব।"
+    },
+    "ta-IN": {
+      "title": "குவியர் அகராதி",
+      "description": "குவியர் அகராதி ஆன்லைன் இணையதளமாக உள்ளது, இது குவியர் சமூகத்துக்கு அதிக தகவல் மற்றும் ஆதரவை வழங்குகிறது. பாலின அகல்வையைக் கொண்ட அல்லது காதல் மேலாண்மையைச் சார்ந்த சமூபவித நிறைவேற்றத்தையும், மானசிகக் குண்டாய்வுகளையும், ஆதரவு குழுக்களையும். இது கல்வி, விழிப்புணர்வு மற்றும் சமூக கதைகளுக்கான மையமாக உள்ளது."
+    },
+    "te-IN": {
+      "title": "క్యూర్ లెక్సికాన్",
+      "description": "క్యూర్ లెక్సికాన్ అనేది క్యూర్ సముదాయానికి సమగ్ర సమాచారం మరియు మద్దతిని అందించే ఆన్లైన్ వనరు. లైంగిక, రొమాంటిక్, లింగ వైవిధ్యాల నుండి మానసిక ఆరోగ్యం మరియు మద్దతి సమూహాల వరకు విషయాలను కవర్ చేస్తుంది. ఇది విద్య, అవగాహన, మరియు సముదాయ కథల కేంద్రం."
+    }
+  }
+}

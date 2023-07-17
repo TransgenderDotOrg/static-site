@@ -1,0 +1,39 @@
+{
+  "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
+  "title": "Transformering.se",
+  "description": "A Swedish resource hub run by RFSL Ungdom and RFSL that offers support and information related to transgender and gender identity issues. Contents include rights, relationships, and how gender-affirming care works. It is designed for individuals who are transgender, have personal trans experience, or are questioning their gender identity/expression, as well as their loved ones, professionals, or voluntary workers who support them.",
+  "slug": "transformering-se",
+  "externalUrl": "https://transformering.se/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "Stockholm, Sweden",
+  "phoneNumber": null,
+  "country": "SE",
+  "provinceOrState": "Stockholm County",
+  "city": "Stockholm",
+  "latLng": [
+    59.32932349999999,
+    18.0685808
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "twitterUrl": "https://twitter.com/rfslungdom",
+    "instagramUrl": "https://www.instagram.com/rfsl_official",
+    "facebookUrl": "http://www.facebook.com/transformering"
+  }
+}

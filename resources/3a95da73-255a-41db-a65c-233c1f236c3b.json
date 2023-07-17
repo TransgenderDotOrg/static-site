@@ -1,0 +1,111 @@
+{
+  "id": "3a95da73-255a-41db-a65c-233c1f236c3b",
+  "slug": "queermed-deutschland-directory",
+  "externalUrl": "https://queermed-deutschland.de/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "DE",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/queermeddeutschland",
+    "instagramUrl": "https://instagram.com/queermeddeutschland",
+    "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
+    "facebookUrl": "https://facebook.com/queermeddeutschland"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Queermed Deutschland Directory",
+      "description": "Queermed Deutschland is a directory of doctors, therapists and practices recommended by the LGBTQIA+ community, in Germany. The aim is to combat discrimination in the healthcare system, ensuring a respectful and sensitive healthcare for all. It includes various additional options in the anonymous questionnaire to cater to diverse individuals within the community."
+    },
+    "pt-PT": {
+      "title": "Diretório Queermed Deutschland",
+      "description": "Queermed Deutschland é um diretório de médicos, terapeutas e consultórios recomendados pela comunidade LGBTQIA+ na Alemanha. O objetivo é combater a discriminação no sistema de saúde, garantindo um atendimento de saúde respeitoso e sensível para todos. Inclui várias opções adicionais no questionário anônimo para atender a indivíduos diversos dentro da comunidade."
+    },
+    "id-ID": {
+      "title": "Direktori Queermed Deutschland",
+      "description": "Queermed Deutschland adalah direktori dokter, terapis, dan praktek yang direkomendasikan oleh komunitas LGBTQIA+, di Jerman. Tujuannya adalah untuk melawan diskriminasi dalam sistem perawatan kesehatan, memastikan perawatan kesehatan yang menghargai dan sensitif untuk semua orang. Ini mencakup berbagai opsi tambahan dalam kuesioner anonim untuk melayani berbagai individu dalam komunitas tersebut."
+    },
+    "es-ES": {
+      "title": "Directorio Queermed Deutschland",
+      "description": "Queermed Deutschland es un directorio de médicos, terapeutas y prácticas recomendados por la comunidad LGBTQIA+ en Alemania. El objetivo es combatir la discriminación en el sistema de atención de la salud, asegurando una atención de la salud respetuosa y sensible para todos. Incluye varias opciones adicionales en el cuestionario anónimo para atender a diversas personas dentro de la comunidad."
+    },
+    "fr-FR": {
+      "title": "Annuaire Queermed Deutschland",
+      "description": "Queermed Deutschland est un annuaire de médecins, thérapeutes et cabinets recommandés par la communauté LGBTQIA+ en Allemagne. Le but est de lutter contre la discrimination dans le système de santé, en assurant des soins respectueux et sensibles pour tous. Il comprend diverses options supplémentaires dans le questionnaire anonyme pour répondre aux besoins de divers individus au sein de la communauté."
+    },
+    "de-DE": {
+      "title": "Queermed Deutschland Verzeichnis",
+      "description": "Queermed Deutschland ist ein Verzeichnis von Ärzten, Therapeuten und Praxen, die von der LGBTQIA+ Gemeinschaft in Deutschland empfohlen werden. Ziel ist es, die Diskriminierung im Gesundheitswesen zu bekämpfen und sicherzustellen, dass jeder Mensch eine respektvolle und sensible Gesundheitsversorgung erhält. Es beinhaltet verschiedene zusätzliche Optionen im anonymen Fragebogen, um verschiedene Individuen innerhalb der Gemeinschaft zu berücksichtigen."
+    },
+    "zh-CN": {
+      "title": "Queermed德国目录",
+      "description": "Queermed德国是一个由LGBTQIA+社区推荐的医生、治疗师和实践目录，位于德国。它的目标是对抗医疗系统中的歧视，确保所有人都得到尊重和敏感的医疗保健。它在匿名调查中包含了各种额外选项，以满足社区内的多元个体需求。"
+    },
+    "tr-TR": {
+      "title": "Queermed Deutschland Dizini",
+      "description": "Queermed Deutschland, Almanya'da LGBTQIA+ topluluğu tarafından önerilen doktorlar, terapistler ve uygulamaların bir dizinidir. Amaç, sağlık hizmetleri sistemindeki ayrımcılığı ortadan kaldırmak ve herkese saygılı ve duyarlı bir sağlık hizmeti sağlamaktır. Topluluktaki çeşitli bireylere hizmet vermek amacıyla anonim anketinde çeşitli ek seçenekler içerir."
+    },
+    "sw-KE": {
+      "title": "Orodha ya Queermed Deutschland",
+      "description": "Queermed Deutschland ni orodha ya madaktari, wataalamu wa tiba na mazoezi yaliyopendekezwa na jamii ya LGBTQIA+, nchini Ujerumani. Lengo ni kupambana na ubaguzi katika mfumo wa huduma za afya, kuhakikisha huduma ya afya inayoheshimu na nyeti kwa wote. Inajumuisha chaguzi mbalimbali za ziada katika uchunguzi wa siri ili kuzingatia watu tofauti ndani ya jamii."
+    },
+    "ru-RU": {
+      "title": "Каталог Queermed Deutschland",
+      "description": "Queermed Deutschland - это справочник врачей, терапевтов и медицинских практик, рекомендованных сообществом LGBTQIA+ в Германии. Цель состоит в борьбе с дискриминацией в системе здравоохранения, обеспечивая уважительное и чуткое здравоохранение для всех. Он включает различные дополнительные опции в анонимном опроснике для учета разнообразия индивидов внутри сообщества."
+    },
+    "ja-JP": {
+      "title": "Queermed Deutschlandディレクトリ",
+      "description": "Queermed Deutschlandは、ドイツのLGBTQIA+コミュニティによって推奨される医師、セラピスト、医療機関のディレクトリです。目的は、医療制度における差別を撲滅し、すべての人に対して敬意をもって感じ取れる医療を提供することです。コミュニティ内の多様な個々の人々に対応するため、匿名アンケートにはさまざまな追加オプションが含まれています。"
+    },
+    "vi-VN": {
+      "title": "Danh bạ Queermed Đức",
+      "description": "Queermed Deutschland là một danh bạ các bác sĩ, nhà trị liệu và phòng khám được cộng đồng LGBTQIA+ ở Đức giới thiệu. Mục tiêu là chống lại sự phân biệt đối xử trong hệ thống y tế, đảm bảo sự chăm sóc sức khỏe tôn trọng và nhạy cảm cho tất cả. Nó bao gồm các tùy chọn bổ sung khác nhau trong phiếu khảo sát ẩn danh để phù hợp với các cá nhân đa dạng trong cộng đồng."
+    },
+    "ko-KR": {
+      "title": "퀴어메드 독일 디렉토리",
+      "description": "퀴어메드 독일은 독일의 LGBTQIA+ 커뮤니티에서 추천하는 의사, 치료사, 그리고 병원들에 대한 디렉토리입니다. 그 목표는 건강보험 시스템에서의 차별을 막고, 모두에게 존중받고 민감한 의료을 보장하는 것입니다. 커뮤니티 내 다양한 개인들을 위해 다양한 추가 옵션을 익명의 설문조사에 포함시키고 있습니다."
+    },
+    "ar-SA": {
+      "title": "دليل Queermed Deutschland",
+      "description": "Queermed Deutschland هو دليل للأطباء والمعالجين والعيادات الموصى بها من قبل المجتمع LGBTQIA+ في ألمانيا. الهدف هو مكافحة التمييز في النظام الصحي، وضمان تقديم الرعاية الصحية الاحترامية والحساسة للجميع. يتضمن العديد من الخيارات الإضافية في الاستبيان المجهول بهدف خدمة الأفراد المتنوعين ضمن المجتمع."
+    },
+    "uk-UA": {
+      "title": "Довідник Queermed Deutschland",
+      "description": "Queermed Deutschland - це довідник лікарів, терапевтів та медичних установ, рекомендованих спільнотою LGBTQIA+ в Німеччині. Мета полягає в боротьбі із дискримінацією в системі охорони здоров'я, гарантуючи поважне та чутливе обслуговування для всіх. Він включає різні додаткові можливості в анонімному опитуванні для задоволення потреб різноманітних осіб у співтоваристві."
+    },
+    "ur-PK": {
+      "title": "کوائرمیڈ جرمنی ڈائریکٹری",
+      "description": "کوائرمیڈ جرمنی ڈاکٹرز، تھراپسٹس اور عملیات کی ایک ڈائریکٹری ہے جو جرمنی میں LGBTQIA+ کمیونٹی کی سفارش کرتی ہے۔ اس کا مقصد صحت کے نظام میں تبصرہ کرنا ہے، ہر کے لئے احترام والی اور حساس سہولتیں یقینی بناتے ہیں۔ اس میں گمنام سوال نامہ میں مختلف اضافی اختیارات شامل ہیں جو کمیونٹی کے اندر متنوع افراد کی خدمت کرتے ہیں۔"
+    },
+    "bn-BD": {
+      "title": "Queermed Deutschland ডিরেক্টরি",
+      "description": "Queermed Deutschland হল ডাক্তার, থেরাপিস্ট এবং অনুশীলন প্রতিষ্ঠানের একটি ডিরেক্টরি, যা LGBTQIA+ সম্প্রদায় দ্বারা জার্মানিতে সুপরিচিত। লক্ষ্য হল স্বাস্থ্যসেবা সিস্টেমে বৈষম্য দূর করা, সবার জন্য সম্মানজনক এবং সংবেদনশীল স্বাস্থ্যসেবা নিশ্চিত করা। এতে সম্প্রদায়ের মধ্যে বিভিন্ন ব্যক্তির কাছে গিয়ে বিভিন্ন অতিরিক্ত বিকল্প অন্তর্ভুক্ত করা হয়েছে যা পরিচয়ের প্রশ্নাবলি।"
+    },
+    "mr-IN": {
+      "title": "Queermed जर्मनी निर्देशिका",
+      "description": "Queermed जर्मनी म्हणजे एलजीबीटीक्यूआयए+ समुदायाने शिफारसी केलेल्या डॉक्टरांची, थेरपिस्टांची आणि प्रॅक्टिस्सची निर्देशिका, जर्मनीमध्ये. आरोग्यव्यवस्थेतील भेदभाव विरुद्ध संघर्ष करण्याचे हेतू आहे, सर्वांसाठी सन्मानजनक आणि संवेदनशील आरोग्यसेवा खात्री करणे. त्यामध्ये समुदायाच्या विविधांसाठी अज्ञात प्रश्नावलीतील विविधतम विकल्प असतात."
+    },
+    "hi-IN": {
+      "title": "क्वीरमेड डीर्चलैंड डिरेक्टरी",
+      "description": "क्वीरमेड डीर्चलैंड एक डॉक्टरों, थेरेपिस्टों और अभ्यासों की निर्देशिका है, जिसे जर्मनी में LGBTQIA+ समुदाय द्वारा अनुशंसित किया गया है। इसका उद्देश्य स्वास्थ्य सेवा प्रणाली में भेदभाव के खिलाफ लड़ना है, सभी के लिए सम्मानजनक और संवेदनशील स्वास्थ्य सेवा सुनिश्चित करना। इसमें समुदाय के विविध व्यक्तियों की देखभाल करने के लिए बेनामी प्रश्नावली में विभिन्न अतिरिक्त विकल्प शामिल हैं।"
+    },
+    "ta-IN": {
+      "title": "Queermed ஜெர்மனியா அடைவகம்",
+      "description": "Queermed ஜெர்மனியா என்பது ஜெர்மனியில் LGBTQIA+ சமூகத்தால் பரிந்துரைக்கப்பட்ட மருத்துவர்கள், சிகிச்சை நிபுணர்கள் மற்றும் வழக்குமுறைகளின் அடைவகமாகும். உச்சாயவியல் குறைந்துவிடும் போது, அனைவருக்கும் மரியாதையான மற்றும் உண்மையான சுகாதார வழங்குவது என்பது திட்டத்தின் நோக்கம். சமூகத்தில் பல்வேறு வகையான நபர்களை பிறப்புக்கு அணுகுவதற்கு, அநிலைப்படுத்தப்பட்ட கேள்வித்தாள் பலவகையான விருப்ப விசேஷங்களை சேர்க்கின்றது."
+    },
+    "te-IN": {
+      "title": "క్విర్మెడ్ జర్మనీ డైరెక్టరీ",
+      "description": "క్విర్మెడ్ జర్మనీ అనేది డాక్టర్లు, చికిత్సకులు మరియు ప్రాక్టీస్‌లు జర్మనీలోని LGBTQIA+ సముదాయం మార్గదర్శించే డైరెక్టరీ. ఆరోగ్య పరిరక్షణ వ్యవస్థలో భేదభావాన్ని ఎదుర్కొనుటకు ఈ యొక్క లక్ష్యం. అన్ని వారికీ గౌరవంతో మరియు సంవేదనాత్మక ఆరోగ్య పరిరక్షణను నిమిత్తం చేస్తుంది. సముదాయంలోని వివిధ వ్యక్తులను సర్విస్ చేయడానికి అది అనామక ప్రశ్నావళిలో అనేక అదనపు ఎంపికలను జోడిస్తుంది."
+    }
+  }
+}

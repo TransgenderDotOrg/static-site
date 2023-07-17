@@ -1,0 +1,26 @@
+{
+  "id": "75f35c41-274e-4047-bd13-42f7822a5651",
+  "title": "National Queer & Trans Therapists of Color Network",
+  "description": "The National Queer & Trans Therapists of Color Network is a healing justice organization committed to transforming mental health for queer and trans people of color. They work at the intersection of movements for social justice and the field of mental health.",
+  "slug": "national-queer-trans-therapists-of-color-network",
+  "externalUrl": "https://www.nqttcn.com/",
+  "tags": [
+    "mental-health",
+    "social-services"
+  ],
+  "address": "Baltimore, MD 21211, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MD",
+  "city": "Baltimore",
+  "latLng": [
+    39.3289463,
+    -76.63838319999999
+  ],
+  "email": "info@nqttcn.com",
+  "socialMedia": {
+    "facebookUrl": "Facebook-f",
+    "twitterUrl": "Twitter",
+    "instagramUrl": "Instagram"
+  }
+}

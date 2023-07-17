@@ -1,0 +1,106 @@
+{
+  "id": "a0bc83c3-3566-4529-9560-bf98eb404461",
+  "slug": "transliving-international",
+  "externalUrl": "https://transliving.co.uk/main/",
+  "tags": [
+    "support-groups",
+    "community-stories",
+    "education-awareness",
+    "clothing"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Transliving International",
+      "description": "Transliving International is a global support group for the transgender community providing an online magazine, club nights, events, and shopping platform. It amplifies the voice of all gender diverse and trans-people by offering help, advice, personal stories, and features."
+    },
+    "es-ES": {
+      "title": "Transliving International",
+      "description": "Transliving International es un grupo de apoyo global para la comunidad transgénero que proporciona una revista en línea, noches de club, eventos y una plataforma de compras. Amplifica la voz de todas las personas diversas y transgénero al ofrecer ayuda, consejos, historias personales y características."
+    },
+    "de-DE": {
+      "title": "Transliving International",
+      "description": "Transliving International ist eine globale Unterstützungsgruppe für die Transgender-Community, die ein Online-Magazin, Clubnächte, Veranstaltungen und eine Einkaufsplattform bietet. Sie verstärkt die Stimme aller geschlechtlich vielfältigen und trans-Personen, indem sie Hilfe, Beratung, persönliche Geschichten und Features bietet."
+    },
+    "id-ID": {
+      "title": "Transliving International",
+      "description": "Transliving International adalah kelompok dukungan global untuk komunitas transgender yang menyediakan majalah online, acara klub malam, acara, dan platform belanja. Ia memperkuat suara semua orang yang beragam gender dan trans-orang dengan menawarkan bantuan, nasihat, cerita pribadi, dan fitur."
+    },
+    "pt-PT": {
+      "title": "Transliving International",
+      "description": "Transliving International é um grupo de apoio global para a comunidade transgênero, fornecendo uma revista online, noites de clube, eventos e plataforma de compras. Amplifica a voz de todas as pessoas trans e de gênero diverso, oferecendo ajuda, conselhos, histórias pessoais e recursos."
+    },
+    "fr-FR": {
+      "title": "Transliving International",
+      "description": "Transliving International est un groupe de soutien mondial pour la communauté transgenre fournissant un magazine en ligne, des soirées club, des événements et une plateforme d'achat. Il amplifie la voix de toutes les personnes trans et diverses de genre en proposant de l'aide, des conseils, des histoires personnelles et des fonctionnalités."
+    },
+    "zh-CN": {
+      "title": "Transliving International",
+      "description": "Transliving International是全球为跨性别者提供支持的群体，提供线上杂志、社交夜晚、活动和购物平台。通过提供帮助、建议、个人故事和特性，它放大了所有性别多样性和跨性别者的声音。"
+    },
+    "ko-KR": {
+      "title": "Transliving International",
+      "description": "Transliving International은 온라인 매거진, 클럽 밤, 이벤트, 쇼핑 플랫폼을 제공하는 트랜스젠더 커뮤니티를 위한 글로벌 지원 그룹입니다. 이는 도움, 조언, 개인적인 이야기, 기능을 제공함으로써 모든 성 다양성 및 트랜스 인들의 목소리를 확대시킵니다."
+    },
+    "sw-KE": {
+      "title": "Transliving International",
+      "description": "Transliving International ni kikundi cha msaada wa ulimwengu kwa jamii ya transgender kinachotoa jarida la mtandaoni, usiku wa klabu, matukio, na jukwaa la ununuzi. Inasaidia sauti za watu wote wenye utofauti wa jinsia na wanaobadilika jinsia kwa kutoa msaada, ushauri, hadithi za kibinafsi, na vipengele."
+    },
+    "ru-RU": {
+      "title": "Transliving International",
+      "description": "Transliving International - это глобальная группа поддержки трансгендерного сообщества, предлагающая онлайн-журнал, клубные вечера, мероприятия и платформу для покупок. Она усиливает голос всех людей с разнообразием пола и трансгендеров, предлагая помощь, советы, личные истории и статьи."
+    },
+    "ja-JP": {
+      "title": "Transliving International",
+      "description": "Transliving Internationalは、オンラインマガジン、クラブの夜、イベント、およびショッピングプラットフォームを提供するトランスジェンダーコミュニティのためのグローバルサポートグループです。 全てのジェンダーダイバーシティとトランスジェンダーの人々の声を増幅するために、助け、アドバイス、個人の話、特集を提供しています。"
+    },
+    "uk-UA": {
+      "title": "Transliving International",
+      "description": "Transliving International - це глобальна група підтримки для трансгендерної спільноти, яка надає онлайн-журнал, нічні клуби, заходи та платформу для покупок. Вона посилює голос усіх людей з різноманітним гендером та транс-людей, надаючи допомогу, поради, особисті історії та особливості."
+    },
+    "vi-VN": {
+      "title": "Transliving International",
+      "description": "Transliving International là một nhóm hỗ trợ toàn cầu dành cho cộng đồng người chuyển giới, cung cấp một tạp chí trực tuyến, đêm hội câu lạc bộ, sự kiện, và nền tảng mua sắm. Nó nâng cao tiếng nói của tất cả những người đa giới tính và người chuyển giới bằng cách cung cấp sự giúp đỡ, lời khuyên, câu chuyện cá nhân, và đặc trưng."
+    },
+    "ar-SA": {
+      "title": "ترانسليفينغ إنترناشيونال",
+      "description": "ترانسليفينغ إنترناشيونال هو مجموعة دعم عالمية لمجتمع المتحولين جنسيا، حيث تقدم مجلة إلكترونية، ليالي النادي، الأحداث، ومنصة التسوق. يقوم بتضخيم صوت كل الأشخاص المتنوعين جنسيا والمتحولين جنسيا عن طريق تقديم المساعدة، النصائح، القصص الشخصية، والميزات."
+    },
+    "tr-TR": {
+      "title": "Transliving International",
+      "description": "Transliving International, transseksüel topluluğa yönelik bir online dergi, klüp geceleri, etkinlikler ve alışveriş platformu sağlayan küresel bir destek grubudur. Yardım, tavsiye, kişisel hikayeler ve özellikler sunarak tüm cinsiyet çeşitliliğine sahip ve trans-bireylerin sesini yükseltir."
+    },
+    "hi-IN": {
+      "title": "Transliving International",
+      "description": "Transliving International एक वैश्विक सहायता समूह है जो ट्रांसजेंडर समुदाय के लिए एक ऑनलाइन पत्रिका, क्लब रातों, इवेंट्स, और खरीदारी प्लेटफ़ॉर्म प्रदान करता है। यह सभी लिंग विविध और ट्रांस-लोगों की आवाज को बढ़ाता है जो सहायता, सलाह, व्यक्तिगत कहानियां, और सुविधाएं प्रदान करता है।"
+    },
+    "ur-PK": {
+      "title": "ٹرانسلیونگ انٹرنیشنل",
+      "description": "ٹرانسلیونگ انٹرنیشنل ایک عالمگیر سپورٹ گروپ ہے جو ٹرانسجینڈر کمیونٹی کے لئے آن لائن میگزین, کلب راتیں, واقعات, اور خریداری کا پلیٹ فارم فراہم کرتی ہے۔ یہ تمام جنسی تنوع والے اور ٹرانس-افراد کی آواز کو بڑھاوا دیتی ہے بذریعہ مدد, مشاورت, ذاتی کہانیاں, اور خصوصیات پیش کرنے۔"
+    },
+    "mr-IN": {
+      "title": "Transliving International",
+      "description": "Transliving International ही ट्रांसजेंडर समुदायासाठी जागतिक समर्थन गट आहे, त्यामध्ये ऑनलाईन मागॅझिन, क्लब रात्री, कार्यक्रम, व शॉपिंग प्लॅटफॉर्म समाविष्ट आहे. ती सर्व लिंग विविधता व ट्रांस-लोकांच्या आवाजाला वाढवते, मदत, सल्ला, वैयक्तिक गोष्टी, व वैशिष्ट्ये प्रस्तुत करणारी."
+    },
+    "bn-BD": {
+      "title": "Transliving International",
+      "description": "ট্রান্সলিভিং ইন্টারন্যাশনাল হল একটি গ্লোবাল সমর্থন গ্রুপ, যা ট্রান্সজেন্ডার সম্প্রদায়ের জন্য একটি অনলাইন ম্যাগাজিন, ক্লাব নাইট, ইভেন্টস, আর কেনাকাটা প্ল্যাটফর্ম প্রদান করে। এটি সহায়তা, পরামর্শ, ব্যক্তিগত গল্প, এবং বৈশিষ্ট্য অফার করে সমস্ত লিঙ্গ-বৈচিত্র্যমূলক এবং ট্রান্স-মানুষদের কন্ঠ বাড়িয়ে দেয়।"
+    },
+    "ta-IN": {
+      "title": "ட்ரான்ஸ்லிவிங் இன்டர்நேஷனல்",
+      "description": "ட்ரான்ஸ்லிவிங் இன்டர்நேஷனல் ஒரு உலக அடிப்படையிலான மாற்றுப் பாலில் ஆதரவு குழு, இணைய மாதித்தலியை, கிளப் இரவுகளை, நிகழ்வுகளை, மற்றும் வணிக மேடையை வழங்குகிறது. அது உதவி, ஆலோசனை, தனிப்பட்ட கதைகள் மற்றும் அம்சங்களைக் கொண்டு அனைத்து பால்வேறு மற்றும் மாற்று-பாலில் மக்களின் குரலை மிகுப்பரப்பிப்பது."
+    },
+    "te-IN": {
+      "title": "Transliving International",
+      "description": "Transliving International అనేది ఏక్కడ అయినా ఉండే ట్రాన్స్‌జెండర్ సముదాయానికి మద్దతు అందిస్తుంది, గ్లోబల్ క్లబ్ నైట్స్, ఈవెంట్స్, మరియు షాపింగ్ వేదికను, ఈన్లైన్ మ్యాగజైన్‌ను అందిస్తుంది. అన్ని జెండర్ వివిధతలు మరియు ట్రాన్స్‌పీపులు గురించి ప్రజల నోటికి మరిన్ని వివరాలు అందించడం ద్వారా, ఉపయోగకరమైన చిరునామాలు, సలహాలు, వ్యక్తిగత కథలు, మరియు విశేషాలను అందిస్తుంది."
+    }
+  }
+}
