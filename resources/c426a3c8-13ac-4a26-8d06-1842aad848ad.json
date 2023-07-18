@@ -1,0 +1,107 @@
+{
+  "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+  "slug": "trans-fertility-co-shop-live",
+  "externalUrl": "https://transfertility.co/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Trans Fertility Co. Shop Live",
+      "description": "Trans Fertility Co. Shop is providing resources, interviews and personal stories regarding diverse aspects of transgender fertility. It is a platform to learn, share and celebrate the trans fertility."
+    },
+    "es-ES": {
+      "title": "Trans Fertility Co. Tienda en vivo",
+      "description": "La tienda Trans Fertility Co. está proporcionando recursos, entrevistas e historias personales sobre diversos aspectos de la fertilidad transgénero. Es una plataforma para aprender, compartir y celebrar la fertilidad trans."
+    },
+    "de-DE": {
+      "title": "Trans Fertility Co. Shop Live",
+      "description": "Der Trans Fertility Co. Shop bietet Ressourcen, Interviews und persönliche Geschichten zu verschiedenen Aspekten der Transgender-Fruchtbarkeit. Es ist eine Plattform zum Lernen, Teilen und Feiern der Trans-Fruchtbarkeit."
+    },
+    "zh-CN": {
+      "title": "Trans Fertility Co. 商店直播",
+      "description": "Trans Fertility Co. 商店为有关跨性别生育的多元化方面提供资源、访谈和个人故事。这是一个学习，分享和庆祝跨性别生育的平台。"
+    },
+    "pt-PT": {
+      "title": "Trans Fertility Co. Compre ao Vivo",
+      "description": "A loja Trans Fertility Co. está fornecendo recursos, entrevistas e histórias pessoais sobre diversos aspectos da fertilidade transgênero. É uma plataforma para aprender, compartilhar e celebrar a fertilidade trans."
+    },
+    "fr-FR": {
+      "title": "Trans Fertility Co. Boutique en direct",
+      "description": "La boutique Trans Fertility Co. fournit des ressources, des interviews et des récits personnels concernant divers aspects de la fertilité transgenre. C'est une plateforme pour apprendre, partager et célébrer la fertilité trans."
+    },
+    "id-ID": {
+      "title": "Trans Fertility Co. Toko Langsung",
+      "description": "Toko Trans Fertility Co. menyediakan sumber daya, wawancara, dan cerita pribadi mengenai berbagai aspek fertilitas transgender. Ini adalah platform untuk belajar, berbagi, dan merayakan fertilitas trans."
+    },
+    "sw-KE": {
+      "title": "Duka la Trans Fertility Co. Live",
+      "description": "Duka la Trans Fertility Co. linafournisha rasilimali, mahojiano na hadithi za kibinafsi kuhusu vipengele anuwai vya uzazi wa kijinsia tofauti. Ni jukwaa la kujifunza, kushiriki na kusherehekea uzazi wa jinsia tofauti."
+    },
+    "tr-TR": {
+      "title": "Trans Fertility Co. Canlı Mağaza",
+      "description": "Trans Fertility Co. Mağazası, transgender doğurganlık konusunda çeşitli yönleri ile ilgili kaynaklar, röportajlar ve kişisel hikayeler sağlamaktadır. Trans doğurganlığı öğrenmek, paylaşmak ve kutlamak için bir platformdur."
+    },
+    "ru-RU": {
+      "title": "Трансляция магазина Trans Fertility Co.",
+      "description": "Магазин Trans Fertility Co. предоставляет ресурсы, интервью и личные истории, касающиеся различных аспектов трансгендерного воспроизводства. Это платформа для обучения, обмена и празднования трансгендерной фертильности."
+    },
+    "ja-JP": {
+      "title": "Trans Fertility Co.ショップライブ",
+      "description": "Trans Fertility Co.ショップは、トランスジェンダーの生殖能力に関する多様な側面についてのリソース、インタビュー、個々の話しを提供しています。トランスジェンダーの生殖能力を学び、共有し、祝うプラットフォームです。"
+    },
+    "vi-VN": {
+      "title": "Trans Fertility Co. Sự Trực Tiếp Cửa Hàng",
+      "description": "Cửa hàng Trans Fertility Co. đang cung cấp các nguồn lực, phỏng vấn và câu chuyện cá nhân liên quan đến các khía cạnh đa dạng của sự sinh sản của người chuyển giới. Đây là nền tảng để học hỏi, chia sẻ và cảm tạ sự sinh sản của người chuyển giới."
+    },
+    "ar-SA": {
+      "title": "متجر Trans Fertility Co. مباشر",
+      "description": "يقدم متجر Trans Fertility Co. الموارد والمقابلات والقصص الشخصية بخصوص جوانب التنوع في الخصوبة لدى المتحولين جنسيًا. إنها منصة للتعلم والمشاركة والاحتفال بالخصوبة لدى المتحولين جنسيا."
+    },
+    "uk-UA": {
+      "title": "Пряма трансляція магазину Trans Fertility Co.",
+      "description": "Магазин Trans Fertility Co. надає ресурси, проводить інтерв'ю та ділиться особистими історіями щодо різноманітних аспектів трансгендерної фертильності. Це платформа для навчання, обміну досвідом та відзначення транс-фертильності."
+    },
+    "ko-KR": {
+      "title": "Trans Fertility Co. 쇼핑 라이브",
+      "description": "Trans Fertility Co. Shop은 트랜스 젠더 생식력에 관한 다양한 측면에 대한 리소스, 인터뷰 및 개인적인 이야기를 제공하고 있습니다. 이것은 트랜스 젠더 생식력을 배우고, 공유하고, 축하하는 플랫폼입니다."
+    },
+    "ur-PK": {
+      "title": "ٹرانس فرٹیلٹی کو. شاپ لائیو",
+      "description": "ٹرانس فرٹیلٹی کو۔ شاپ ٹرانسجینڈر بانولثناتی کے متعدد پہلوؤں سے متعلق وسائل، ملاقاتیں اور ذاتی کہانیاں فراہم کر رہا ہے۔ یہ ایک پلیٹ فارم ہے جہاں سیکھا، شیئر کیا اور ترانسجینڈر بانولثنات کی بانولثناتی کو جشن منایا جا سکتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "Trans Fertility Co. दुकान संघटन",
+      "description": "Trans Fertility Co. दुकान हे संसाधने पुरवणारी आहे, विविध दृष्टीकोनांवरील त्रास्फर्टिलिटीच्या मुलाखती आणि वैयक्तिक कथा. ही एक शिकण्याची, सामायिक करण्याची आणि ट्रान्स फर्टिलिटीची साजरा करण्याची प्लॅटफॉर्म आहे."
+    },
+    "hi-IN": {
+      "title": "ट्रांस फर्टिलिटी कंपनी शॉप लाइव",
+      "description": "ट्रांस फर्टिलिटी कंपनी शॉप, ट्रांसजेंडर फर्टिलिटी के विविध पहलूओं के बारे में संसाधन, साक्षात्कार और व्यक्तिगत कहानियां प्रदान कर रही है। यह एक मंच है जहां सीखने, साझा करने और ट्रांस फर्टिलिटी को मनाने का मौका है।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্স ফার্টিলিটি কো. শপ লাইভ",
+      "description": "ট্রান্স ফার্টিলিটি কো. শপ প্রদান করছে রিসোর্সগুলি, ইন্টারভিউ এবং ব্যক্তিগত গল্প যা ট্রান্সজেন্ডার ফার্টিলিটির বিভিন্ন দিক সম্পর্কে। এটি শেখার, ভাগ করার এবং ট্রান্স ফার্টিলিটি উদযাপন করার একটি প্ল্যাটফর্ম।"
+    },
+    "ta-IN": {
+      "title": "Trans Fertility Co. கடை நேரடி",
+      "description": "Trans Fertility Co. கடை முனைவூட்டு மாறுபாட்டு மலர்ச்சியின் பல்வேறு பகுதிகள் குறித்த வளங்களை, நேர்காணல்களை மற்றும் தனிப்பட்ட கதைகளை வழங்குகின்றது. இது அறிய, பகிர் மற்றும் டிரான்ஸ் மலர்ப்பை கொண்டாடும் தளமாகும்."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్ ఫెర్టిలిటీ కొ. షాప్ లైవ్",
+      "description": "ట్రాన్స్ ఫెర్టిలిటీ కొ. షాప్ ట్రాన్స్జెండర్ ఫెర్టిలిటీ యొక్క వివిధ దృష్టాంతాలను సంబంధించి వనరులు, ప్రస్తుతాలు మరియు వ్యక్తిగత కథలను అందిస్తోంది. ఇది నేర్చుకోవడానికి, పంచుకోవడానికి మరియు ట్రాన్స్ ఫెర్టిలిటీను జరుపుకోవడానికి ఒక వేదిక."
+    }
+  }
+}

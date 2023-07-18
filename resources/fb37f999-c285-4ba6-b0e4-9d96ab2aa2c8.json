@@ -1,0 +1,107 @@
+{
+  "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+  "slug": "trans-healthcare",
+  "externalUrl": "https://www.transhealthcare.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare is the largest and most comprehensive database of Gender Surgeons. It has helped thousands of transgender and non-binary people from around the world find a surgeon. The website provides a platform to find a surgeon based on procedure, U.S. State, insurance type, and country. It also hosts a variety of resources including latest surgeon news and research on gender-affirming surgery."
+    },
+    "fr-FR": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare est la plus grande et la plus complète base de données de chirurgiens de genre. Elle a aidé des milliers de personnes transgenres et non binaires du monde entier à trouver un chirurgien. Le site web offre une plateforme pour trouver un chirurgien sur la base de la procédure, de l'État américain, du type d'assurance, et du pays. Il héberge également une variété de ressources, y compris les dernières nouvelles sur les chirurgiens et la recherche sur la chirurgie d'affirmation de genre."
+    },
+    "es-ES": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare es la base de datos más grande y completa de cirujanos de género. Ha ayudado a miles de personas transgénero y no binarias de todo el mundo a encontrar un cirujano. El sitio web ofrece una plataforma para encontrar un cirujano basado en el procedimiento, estado de EE.UU., tipo de seguro y país. También alberga una variedad de recursos, incluyendo las últimas noticias de cirujanos y investigación sobre cirugía de afirmación de género."
+    },
+    "tr-TR": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare, Cinsiyet Cerrahları konusunda en büyük ve en kapsamlı veri tabanıdır. Dünya çapında binlerce transgender ve non-binary kişiye bir cerrah bulmada yardımcı olmuştur. Web sitesi, prosedür, ABD Eyaleti, sigorta türü ve ülkeye dayalı bir cerrah bulmak için bir platform sağlar. Ayrıca en son cerrah haberleri ve cinsiyeti onaylayan cerrahiye dair araştırmalar da dahil olmak üzere çeşitli kaynaklara ev sahipliği yapar."
+    },
+    "id-ID": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare adalah basis data bedah gender terbesar dan paling lengkap. Ini telah membantu ribuan orang transgender dan non-binari dari seluruh dunia menemukan seorang ahli bedah. Situs web ini menyediakan platform untuk menemukan seorang ahli bedah berdasarkan prosedur, negara bagian AS, jenis asuransi, dan negara. Itu juga menjadi tuan rumah berbagai macam sumber daya termasuk berita terbaru tentang ahli bedah dan penelitian tentang operasi penegasan gender."
+    },
+    "de-DE": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare ist die größte und umfangreichste Datenbank für Geschlechtschirurgen. Es hat tausenden von transsexuellen und nicht-binären Menschen auf der ganzen Welt geholfen, einen Chirurgen zu finden. Die Website bietet eine Plattform zum Finden eines Chirurgen auf Grundlage von Verfahren, US-Bundesstaat, Versicherungsart und Land. Es bietet auch eine Vielzahl von Ressourcen, einschließlich aktueller Nachrichten von Chirurgen und Forschungen zur geschlechtsangleichenden Chirurgie."
+    },
+    "zh-CN": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare是最大的、范围最广的性别手术医生数据库。它已经帮助了来自世界各地的数千名跨性别者和非二元性别的人寻找到医生。该网站提供一个平台，用户可以根据手术方式、美国州份、保险类型和国家寻找手术医生。它还提供各种资源，包括最新的手术医生新闻和对性别确认手术的研究。"
+    },
+    "pt-PT": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare é a maior e mais abrangente base de dados de Cirurgiões de Gênero. Ajudou milhares de pessoas transgêneros e não-binárias de todo o mundo a encontrar um cirurgião. O site fornece uma plataforma para encontrar um cirurgião baseado em procedimento, estado dos EUA, tipo de seguro e país. Também hospeda uma variedade de recursos, incluindo as últimas notícias de cirurgiões e pesquisas sobre cirurgia de afirmação de gênero."
+    },
+    "ru-RU": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare - это крупнейшая и наиболее полная база данных хирургов по смене пола. Она помогла тысячам трансгендеров и небинарных людей со всего мира найти хирурга. Сайт предоставляет платформу для поиска хирурга по процедуре, штату США, типу страховки и стране. Он также содержит разнообразные ресурсы, включая последние новости о хирургах и исследования по подтверждению гендерной операции."
+    },
+    "sw-KE": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare ni hifadhidata kubwa na kamili zaidi ya Upasuaji wa Jinsia. Imesaidia maelfu ya watu wa jinsia mbadala na wasio na jinsia kutoka kote duniani kupata upasuaji. Tovuti inatoa jukwaa la kupata upasuaji kulingana na utaratibu, Jimbo la U.S., aina ya bima, na nchi. Pia ina jeshi la rasilimali mbalimbali ikiwa ni pamoja na habari za hivi karibuni za upasuaji na utafiti kuhusu upasuaji wa uthibitisho wa jinsia."
+    },
+    "ko-KR": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare는 성전환 수술 전문의의 가장 크고 포괄적인 데이터베이스입니다. 전 세계의 수천명의 트랜스젠더 및 비이진성 사람들이 수술 전문의를 찾는데 도움이 되었습니다. 해당 웹사이트는 수술 방식, 미국 주, 보험 유형, 국가를 기준으로 수술 전문의를 찾는 플랫폼을 제공합니다. 또한 최신 수술 전문가 뉴스와 성 재확인 수술에 대한 연구 등 다양한 자료를 제공합니다."
+    },
+    "vi-VN": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare là cơ sở dữ liệu về phẫu thuật giới tính lớn nhất và toàn diện nhất. Nó đã giúp hàng nghìn người chuyển giới và không phân biệt giới tính từ khắp nơi trên thế giới tìm được bác sĩ phẫu thuật. Trang web cung cấp một nền tảng để tìm bác sĩ phẫu thuật dựa trên quy trình, tiểu bang của Mỹ, loại bảo hiểm, và quốc gia. Nó cũng chứa nhiều tài nguyên bao gồm tin tức mới nhất về bác sĩ phẫu thuật và nghiên cứu về phẫu thuật xác nhận giới tính."
+    },
+    "ar-SA": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare هو أكبر وأكثر قاعدة بيانات شاملة لجراحي الجنس. ساعد آلاف الأشخاص من المتحولين جنسيا وغير الثنائيين من جميع أنحاء العالم في العثور على جراح. يقدم الموقع منصة للعثور على جراح بناءً على الإجراء، الولاية الأمريكية، نوع التأمين، والبلد. كما يستضيف مجموعة متنوعة من الموارد بما في ذلك أحدث أخبار الجراحين والأبحاث حول جراحة تأكيد الجنس."
+    },
+    "ja-JP": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCareは最大で最も包括的なジェンダーサージョンのデータベースです。世界中の数千のトランスジェンダーやノンバイナリの人々が手術医を見つけるのに役立ちました。このウェブサイトは、手術の種類、米国の州、保険タイプ、国に基づいて手術医を見つけるプラットフォームを提供しています。また、最新の手術医のニュースやジェンダー確認手術に関する研究など、さまざまなリソースもホストしています。"
+    },
+    "uk-UA": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare є найбільшою та найбільш повною базою даних хірургів-трансгендеров. Вона допомогла тисячам трансгендерів та небінарних осіб з усього світу знайти хірурга. Веб-сайт надає платформу для пошуку хірурга за типом процедури, штатом США, типом страховки та країною. Він також містить різноманітні ресурси, включаючи останні новини про хірургів та дослідження щодо гендерно-стверджувальної хірургії."
+    },
+    "ur-PK": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare جنسی سرجنز کا سب سے بڑا اور جامع ڈیٹابیس ہے۔ اس نے دنیا بھر میں ہزاروں ٹرانسجینڈر اور غیر بائنری لوگوں کی مدد کی ہے تاکہ وہ سرجن تلاش کر سکیں۔ ویب سائٹ ایک پلیٹ فارم فراہم کرتی ہے جس پر آپ ضروریات، امریکی ریاست، بیمہ کی قسم ، اور ملک کی بنیاد پر سرجن تلاش کر سکتے ہیں۔ یہ سرجنز کی تازہ ترین خبروں اور جنسی تصدیقی سرجری پر تحقیق شامل ہے۔"
+    },
+    "hi-IN": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare जेंडर सर्जनों का सबसे बड़ा और सबसे व्यापक डेटाबेस है। यह दुनिया भर के हजारों ट्रांसजेंडर और गैर-बाइनरी लोगों की मदद कर चुका है सर्जन ढूँढ़ने में। वेबसाइट एक मंच प्रदान करती है सर्जन को प्रक्रिया, U.S. राज्य, बीमा प्रकार, और देश के आधार पर खोजने के लिए। यह नवीनतम सर्जन समाचार और लिंग स्थापन सर्जरी पर अनुसंधान सहित विभिन्न संसाधनों की मेजबानी भी करती है।"
+    },
+    "mr-IN": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare ही लिंगांतर सर्जनांची सर्वाधिक व सर्वांगीण डेटाबेस आहे. यामुळे जगभरातील यावेळील हजारो लिंगांतर व अलिंगी व्यक्तींना सर्जन सापडवायला मदत झालेली आहे. या वेबसाइटवर प्रक्रिया, यू.एस. राज्य, विमा प्रकार, व देशाच्या आधारे सर्जन सापडवायला मंच दिलेला आहे. त्यात अतिशय नवीन सर्जन बातम्या व लिंगनिर्धारण शस्त्रक्रियेवरील संशोधनासारखे विविध स्त्रोत देण्यात येतात."
+    },
+    "bn-BD": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare হল লিঙ্গ সার্জনদের সবচেয়ে বৃহৎ এবং সম্পূর্ণ ডাটাবেস। এটি বিশ্বের বিভিন্ন স্থান থেকে আসা হাজারো ট্রানসজেন্ডার এবং অ-বাইনারি মানুষের কাছে সার্জন খুঁজে পেতে সাহায্য করেছে। ওয়েবসাইটটি পদ্ধতি, যুক্তরাষ্ট্রের রাজ্য, বীমা ধরন, এবং দেশের উপর ভিত্তি করে সার্জন খুঁজে পেতে একটি প্ল্যাটফর্ম প্রদান করে। এটি সাথে সাথে নবীনতম সার্জন খবর এবং লিঙ্গ-নিশ্চিতকরণ সার্জারি উপর গবেষণার বিভিন্ন সংস্থান হোস্ট করে।"
+    },
+    "ta-IN": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare பாலினத்தை மாற்றுபவர்களின் சிகிச்சை மருத்துவர்களின் மிகப்பெரிய மற்றும் மிக விரிவான தரவுத்தளமாகும். இது உலக முழுவதையும் விரும்பிக்கொண்டு வரும் பாலி மாற்ற்றுபவர்களும் பாலினத்தையாக மாற்ற மனிதர்களும் ஆயிரக்கணக்கானவர்களை மருத்துவாளரைக் கண்டாலும். இந்த வலைதளம் சிகிச்சையேற்கு மருத்துவாளரை நேரடியாக தேர்ந்தெடுக்கும் வரையறை, U.S. மாநிலம், காப்பீடு வகை, மற்றும் நாடு ஆகியவற்றின் அடிப்படையில் ஒரு மேடையை வழங்குகிறது. இது அத்துடன் சமீபத்திய மருத்துவ செய்திகள் மற்றும் தன்மை உறுதிசெய்யும் சிகிச்சை ஆகியவற்றின் மேல் ஆராய்ச்சி உள்ளிட்ட பல்வேறு ஆதாரங்களை வைத்துக்கொண்டிருக்கின்றது."
+    },
+    "te-IN": {
+      "title": "TransHealthCare",
+      "description": "TransHealthCare ఆసుపత్రి శాస్త్రజ్ఞుల యొక్క అతిపెద్ద మరియు అత్యంత సమగ్ర డేటాబేస్. ఇది ప్రపంచంలోని వేలాది ట్రాన్స్జెండర్ మరియు అ-బైనరీ వ్యక్తులు శాస్త్రజ్ఞుడుని కనుగొనేందుకు సహాయం చేసింది. వెబ్‌సైట్ ప్రసేసి, U.S. రాష్ట్రం, ఇన్షూరెన్స్ రకం, మరియు దేశాన్ని ఆధారంగా చేసుకుని శాస్త్రజ్ఞుడిని కనుగొనడానికి ఒక వేదికను అందిస్తుంది. దీనిలో తాజా శాస్త్రజ్ఞుల వార్తలు మరియు జెండర్-ఆఫర్మింగ్ శస్త్రానికి సంబంధించిన అధ్యయనాన్ని సమేత అనేక వనరులు ఉండాలి."
+    }
+  }
+}

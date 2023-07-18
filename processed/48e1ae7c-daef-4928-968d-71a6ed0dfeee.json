@@ -1,0 +1,26 @@
+{
+  "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+  "title": "Trans Sask Resources",
+  "description": "Trans Sask is a non-profit organization that provides support and acts as a resource network for trans-identified, genderqueer, intersex and gender non-conforming individuals, their spouses, family, friends, and allies. Resources offered include accessing affirming healthcare, name change guide and trans-inclusive media guide.",
+  "slug": "trans-sask-resources",
+  "externalUrl": "https://www.transsask.ca/resources/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "info@transsask.ca",
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/TransSask",
+    "facebookUrl": "https://www.facebook.com/TransSask",
+    "instagramUrl": "https://www.instagram.com/TransSask"
+  }
+}

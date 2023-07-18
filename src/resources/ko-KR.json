@@ -182,6 +182,29 @@
     "description": "슈투트가르트 선언은 트랜스젠더와 인터섹스 사람들에 대한 존중스러운 대우의 중요성을 강조합니다. 그것은 트랜스젠더와 인터섹스 개인을 위한 의료, 심리치료, 상담, 그리고 지원 서비스에서 인권의 중요성을 강조합니다. 의사, 심리치료사, 인권 활동가, 그리고 해당 개인들에 의해 개발되었으며, 그것은 자신의 성별을 결정할 권리와 이러한 자기 결정을 존중해야 하는 의료 치료에 대한 의무를 강조합니다."
   },
   {
+    "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+    "slug": "lavender-rights-project",
+    "externalUrl": "https://www.lavenderrightsproject.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 639-7955",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6139026,
+      -122.3201635
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Lavender Rights Project",
+    "description": "Lavender Rights Project는 복합적인 법적 및 사회적 서비스를 통해 흑인 인터섹스 및 성별 다양성 커뮤니티의 힘, 자율성 및 리더십을 향상시킵니다. 이는 생명을 구하는 정책 및 사회 변화 옹호, 종합적인 관리 및 LGBTQ+ 개인에 대한 법적 서비스를 제공하며, 특히 흑인 트랜스 커뮤니티 지원에 중점을 둡니다."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -358,6 +381,39 @@
     },
     "title": "Youth Eastside Services",
     "description": "Youth Eastside Services(YES)는 청소년과 그들의 가족에게 심리건강 및 약물 남용 서비스를 제공하는 비영리 단체로, 지불 능력에 관계없이 서비스를 제공합니다. 워싱턴에 위치해 있으며, 그 서비스는 상담, 치료, LGBTQ+ 커뮤니티 지원, 그리고 다양한 커뮤니티 기반 프로그램을 포함합니다."
+  },
+  {
+    "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+    "slug": "ingersoll-gender-center",
+    "externalUrl": "https://ingersollgendercenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 849-7859",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6138987,
+      -122.3203007
+    ],
+    "email": "info@ingersollgendercenter.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+      "twitterUrl": "https://twitter.com/IngersollGender"
+    },
+    "title": "잉거솔 성별 센터",
+    "description": "트랜스젠더 및 성별 불일치 인구를 대상으로 한 조직으로, 동료 주도 지원 그룹을 통한 상호 지원, 리소스 탐색을 위한 옹호, 커뮤니티 조직화 및 교육을 제공합니다 — 모두 우리의 집단적 자기결정을 추구하기 위해."
   },
   {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
@@ -642,6 +698,37 @@
     "socialMedia": null,
     "title": "Meridian",
     "description": "Meridian은 40년 이상 동안 LGBTIQA+ 커뮤니티를 지지하고 지원해 왔으며, HIV 서비스, 웰빙 서비스, 성매매자 아웃리치 프로그램 등 Canberra 지역의 다양한 서비스와 프로그램을 제공하고 있습니다."
+  },
+  {
+    "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+    "slug": "transponder",
+    "externalUrl": "https://transponder.community/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1185 Arthur St, Eugene, OR 97402, USA",
+    "phoneNumber": "541-321-0872",
+    "country": "US",
+    "provinceOrState": "OR",
+    "city": "Eugene",
+    "county": "Lane County",
+    "latLng": [
+      44.0470325,
+      -123.1244504
+    ],
+    "email": "info@transponderoregon.org",
+    "socialMedia": null,
+    "title": "TransPonder",
+    "description": "TransPonder는 유전자변환의 창업자 및 리더인 노예진주, 오리건의 비영리 단체로 trans/gender 다양성 커뮤니티 및 우리의 동맹에 대한 지원, 자원, 교육을 제공합니다. 그들은 성별 다양성 요가 수업, Transponder 도서 클럽, 지원 그룹 등 다양한 자원과 행사를 제공합니다."
   },
   {
     "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
@@ -1064,6 +1151,32 @@
     "description": "실비아 리베라 법률 프로젝트는 모든 사람들이 소득이나 인종에 상관없이 성별 신원과 표현을 자기 결정할 수 있는 자유를 보장하는 데 노력하며, 이를 통해 괴롭힘, 차별 또는 폭력을 겪지 않도록 합니다. SRLP는 법률 도움을 제공하며, 캠페인을 조직하고, 교육을 실시하며, 수감자 자문위원회를 운영합니다. 커뮤니티 참여는 기부, 봉사, 회원 가입을 통해 촉진됩니다."
   },
   {
+    "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+    "slug": "trans-sask-resources",
+    "externalUrl": "https://www.transsask.ca/resources/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transsask.ca",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransSask",
+      "facebookUrl": "https://www.facebook.com/TransSask",
+      "instagramUrl": "https://www.instagram.com/TransSask"
+    },
+    "title": "Trans Sask 자원",
+    "description": "Trans Sask는 트랜스를 자체 식별하며, 젠더퀴어, 성중립성, 성별 비일치 개인 및 그들의 배우자, 가족, 친구, 동맹자들에게 지원을 제공하고 자원 네트워크로서 활동하는 비영리 단체입니다. 제공되는 자원에는 긍정적인 건강 관리 접근, 이름 변경 가이드 및 트랜스를 포함한 미디어 가이드가 포함됩니다."
+  },
+  {
     "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
     "slug": "allentown-womens-center",
     "externalUrl": "https://allentownwomenscenter.com/",
@@ -1166,6 +1279,34 @@
     "socialMedia": null,
     "title": "양말로 FTM 포장하는 방법 | DIY Packer",
     "description": "이 블로그 글은 양말과 다른 저렴한 재료를 사용하여 집에서 패커를 만드는 방법에 대한 포괄적인 안내서를 제공합니다. 또한 transmasculine 개인들이 더 편안하고 진정한 느낌을 느낄 수 있도록 다른 FTM 프로스테틱에 대한 DIY 대안도 포함되어 있습니다."
+  },
+  {
+    "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+    "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+    "externalUrl": "https://transadvice.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "discord-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/transadvice",
+      "tumblrUrl": "http://transadvice.tumblr.com/"
+    },
+    "title": "TransAdvice 피어 기반 트랜스젠더 지원 채팅. 실시간 지원 채팅",
+    "description": "TransAdvice는 트랜스젠더 및 비이진성 커뮤니티의 구성원들을 위한 안전하고 개방된 공간을 제공하는 커뮤니티 주도 네트워크이며, 그들의 가족 구성원들, 중요한 다른 사람들, 친구들 그리고 동맹자들을 위한 지원과 자원을 제공합니다."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1408,6 +1549,30 @@
     },
     "title": "오클랜드 LGBTQ 커뮤니티 센터",
     "description": "오클랜드 최초의 비영리 501c3, 모든 연령, 모든 포괄적인 LGBTQ 커뮤니티 서비스 센터입니다. 제공되는 서비스에는 지원 그룹, 정신 건강 지원, 주거 지원, 청소년 프로그램, 법률 클리닉, 식량 저장소 등이 포함됩니다. 노인 LGBTQ+ 사람들과 트랜스젠더 커뮤니티 회원들을 위한 특별 프로그램들도 진행됩니다."
+  },
+  {
+    "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+    "slug": "gender-census",
+    "externalUrl": "https://www.gendercensus.com/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "hello@gendercensus.com",
+    "socialMedia": {
+      "tumblrUrl": "https://gendercensus.tumblr.com/",
+      "mastodonUrl": "https://mastodon gendercensus.com/",
+      "patreonUrl": "https://www.patreon.com/gendercensus"
+    },
+    "title": "성별 인구 조사",
+    "description": "성별 인구 조사는 성별 이진법에 해당하지 않는 사람들이 사용하는 언어에 대한 데이터를 수집하는 연례 조사입니다. 2015년부터 매년 실시되어 온 이 조사는 시간이 지나며 변하는 성별, 강도가 변동하는 성별 또는 남성/여성 이진법 외부에 존재하는 성별을 포함하여 성별 경험과 정체성의 더 넓은 범위를 포괄하고자 합니다. 이는 트랜스젠더 커뮤니티에 포괄성과 이해를 증진하는 데 도움이 됩니다."
   },
   {
     "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
@@ -1753,6 +1918,26 @@
     "description": "TLDEF는 성 정체성 및 표현에 대한 차별을 종료하고 공공 교육, 테스트 케이스 소송, 직접적인 법률 서비스, 그리고 공공 정책 노력을 통해 트랜스젠더 인들에게 동등성을 달성하려는 데 헌신하고 있습니다. 그들은 이름 변경 프로젝트, 영향 소송 및 트랜스 건강 프로젝트와 같은 다양한 서비스를 제공합니다. 또한 트랜스젠더 커뮤니티에 영향을 미치는 관련 법적 사항에 대한 업데이트도 제공합니다."
   },
   {
+    "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+    "slug": "trans-human-rights-ilga-world-releases-global-research",
+    "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "트랜스 인권: ILGA World, 법적 성별 인식 및 범죄화에 대한 전세계적 연구 발표",
+    "description": "이 출판물의 세 번째 판은 트랜스 성 및 성 다양성이 있는 사람들이 공식적인 신원증명서에 자신의 성/성별 표시와 이름을 변경할 수 있는 방법을 정한 규정을 연구하고, 트랜스 아이덴티티를 명시적으로 또는 사실상 범죄화하는 법률에 대한 정보도 수집합니다 - 세계 각 지역에서 우리 커뮤니티의 상황을 살펴봅니다."
+  },
+  {
     "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
     "slug": "gender-justice-league",
     "externalUrl": "https://www.genderjusticeleague.org/",
@@ -1972,6 +2157,78 @@
     "description": "암스테르담 UMC의 지더 디스포리아 지식 및 치료센터는 태어난 성별이 자신의 정체성과 일치하지 않는다고 느끼는 사람들에게 의료 치료와 심리적 지원을 제공하는 데 전문화되어 있습니다. 이 센터는 개인의 다양성을 받아들이고, 개인의 필요에 맞춘 서비스를 제공하며, 성별 불일치 치료에 대한 전문지식으로 국제적으로 인정받고 있습니다. 또한 트랜스젠더 개인의 이해와 치료를 향상시키기 위한 연구를 수행하고, 신규 의료 전문가에게 교육을 제공합니다."
   },
   {
+    "id": "944ced3e-e26f-48c3-bc28-7e0c78410698",
+    "slug": "trans-rights-map-2022-reveals-slow-comeback-of-progress-on-trans-rights",
+    "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "phoneNumber": null,
+    "address": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "2022년 트랜스 권리 지도는 트랜스 권리에 대한 진보의 느린 복귀를 보여줍니다",
+    "description": "이 TGEU의 보고서는 유럽 및 중앙 아시아에서 트랜스 인들의 법적 권리의 진전 및 후퇴를 보여줍니다. 다른 발견들 중에서도, 그것은 피난처, 혐오 발언, 평등법과 같은 분야에서 약화되는 것을 보여주지만, 법적 성별 인식 및 차별 금지에 대한 보호와 같은 분야에서의 진전을 보여줍니다."
+  },
+  {
+    "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+    "slug": "facial-feminization-surgery-procedures",
+    "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+    "tags": [
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+    "phoneNumber": null,
+    "country": "BE",
+    "provinceOrState": "Vlaams Gewest",
+    "city": "Antwerpen",
+    "county": "AN",
+    "latLng": [
+      51.1787102,
+      4.430423300000001
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+    },
+    "town": "Berchem",
+    "title": "얼굴 여성화 수술 절차",
+    "description": "2pass Clinic는 트랜스 젠더 여성의 전환을 도와주는 다양한 수술 절차를 제공합니다. 이에는 얼굴 및 신체 여성화 수술, 영구적인 제모 및 모발 이식 치료가 포함됩니다. 이 자료는 각 FFS 수술에 대한 자세한 정보를 제공하며 트랜스 여성이 그들의 여행에 올바른 선택을 할 수 있도록 도와줍니다."
+  },
+  {
+    "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+    "slug": "lambert-house",
+    "externalUrl": "https://www.lamberthouse.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+    "phoneNumber": "206.322.2515",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.61818580000001,
+      -122.3124183
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "램버트 하우스",
+    "description": "램버트 하우스는 리더십, 사회적 스킬, 그리고 생활 기술을 개발함으로써 레즈비언, 게이, 바이섹슈얼, 트랜스젠더, 그리고 자신의 성 정체성에 대해 의문을 가진 청소년들을 장려합니다. 이곳은 10-22세의 LGBTQ 청소년들에게 안전한 공간을 제공하며, 매년 30여 가지 이상의 다양한 프로그램, 활동, 자원 및 서비스를 제공합니다. 또한, 청소년들이 서로 연결하고 배울 수 있는 지원 환경이 마련되어 있습니다."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -2183,6 +2440,30 @@
     "description": "대명사 탈의실은 개인이 다양한 세트의 대명사를 시험하고 탐색할 수 있는 온라인 공간을 제공합니다. 이 웹사이트는 트랜스젠더 커뮤니티가 대명사 선택에서 더 쉽게 결정을 내릴 수 있도록 돕고, 그들이 다른 맥락에서 어떻게 다양한 대명사가 보일지 보게 합니다."
   },
   {
+    "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+    "slug": "queer-sex-ed-podcast",
+    "externalUrl": "https://www.queersexed.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "queersexed@gmail.com",
+    "socialMedia": {
+      "patreonUrl": "https://www.patreon.com/queersexed",
+      "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+      "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+    },
+    "title": "퀴어 섹스 교육 팟캐스트",
+    "description": "레즈비언, 게이, 이성애자, 트랜스젠더, 성소수자, 성유동자, 무성애자, 장애인 등의 이야기와 경험을 의도적으로 포함하기 위해 '퀴어' 섹스 교육을 목표로 하는 팟캐스트 시리즈입니다. 이 쇼는 이러한 공동체에 대한 적절한 섹스 교육과 미디어 대표성의 부재를 해결하고, 관련 사회적 편견과 싸우려고 합니다."
+  },
+  {
     "id": "aac7385e-58e6-4839-be0e-b637b1021437",
     "slug": "bradbury-sullivan-lgbt-community-center",
     "externalUrl": "https://www.bradburysullivancenter.org/",
@@ -2229,6 +2510,39 @@
     },
     "title": "A Place for Marsha",
     "description": "A Place for Marsha는 점점 위험해지는 주에서 트랜스 개인과 가족들을 보다 안전한 장소로 돕는 많은 스타트업 프로젝트 중 하나입니다. APFM은 전국적으로 트랜스에 대한 반대 입법이 증가하는 반응으로 2023년 3월에 그 여정을 시작했습니다. APFM은 이제 빨간 주에서의 난민을 룸메이트로 매칭하는 데 집중하며, 한 가구를 신중하게 처리합니다."
+  },
+  {
+    "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+    "slug": "outsaskatoon-support-for-2slgbtq-community",
+    "externalUrl": "https://www.outsaskatoon.ca/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+    "phoneNumber": "1-306-665-1224",
+    "country": "CA",
+    "provinceOrState": "SK",
+    "city": "Saskatoon",
+    "latLng": [
+      52.1271613,
+      -106.673858
+    ],
+    "email": "hello@outsaskatoon.ca",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+      "twitterUrl": "https://twitter.com/OUTSaskatoon",
+      "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+    },
+    "title": "OUTSaskatoon: 2SLGBTQ 커뮤니티를 위한 지원",
+    "description": "OUTSaskatoon은 새스커툰 및 지역 2SLGBTQ 커뮤니티를 위한 커뮤니티 센터 및 서비스 제공자입니다. 그들은 피해 감소, 문화적으로 인식되고, 평등을 추구하며 커뮤니티 기반의 접근방식을 통해 지원 서비스, 청소년 주거, 교육 및 연구 서비스를 제공합니다. 그들은 상담 및 동료 지원, 2SLGBTQ 청소년 주택(Pride Home), 워크샵과 훈련, 그리고 성 건강 클리닉을 제공합니다."
   },
   {
     "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
@@ -2615,6 +2929,29 @@
     "description": "Freedom Centre는 WA 주의 LGBTIQA+ 청소년을 위한 다양한 지원 서비스를 제공합니다. 이에는 드롭인 세션, 커뮤니티 개발, 상담 등이 포함되며, 모든 LGBTIQA+ 청소년이 포괄되고 연결되며 존중받는 데 기여하고 있습니다. 또한 부모, 전문가, 커뮤니티 및 조직에 대한 교육과 지침도 제공하고 있습니다."
   },
   {
+    "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+    "slug": "trans-fertility-co-shop-live",
+    "externalUrl": "https://transfertility.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans Fertility Co. 쇼핑 라이브",
+    "description": "Trans Fertility Co. Shop은 트랜스 젠더 생식력에 관한 다양한 측면에 대한 리소스, 인터뷰 및 개인적인 이야기를 제공하고 있습니다. 이것은 트랜스 젠더 생식력을 배우고, 공유하고, 축하하는 플랫폼입니다."
+  },
+  {
     "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
     "slug": "point-of-pride",
     "externalUrl": "https://www.pointofpride.org/",
@@ -2692,6 +3029,33 @@
     "socialMedia": null,
     "title": "블랙 어보리지널 기업",
     "description": "BlaQ 어보리지널 기업은 혁신, 포괄성, 이해력 및 옹호를 통해 원주민과 토레스 해협 섬 주민 LGBTQ+SB 커뮤니티를 지원하고 강화하는 데 헌신하는 커뮤니티 조직입니다."
+  },
+  {
+    "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+    "slug": "refuge-restrooms",
+    "externalUrl": "https://www.refugerestrooms.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Refuge Restrooms",
+    "description": "Refuge Restrooms는 트랜스젠더, 인터섹스, 성별 비준수 개인들에게 안전한 화장실 접근을 제공하려는 웹 애플리케이션입니다. 사용자는 검색 위치와 가까운 화장실을 검색하거나, 새로운 화장실 목록을 추가하고, 기존 목록에 대한 의견 및 평가를 게재할 수 있습니다."
   },
   {
     "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
@@ -2816,6 +3180,31 @@
     "description": "캘리포니아 공중보건부(CDPH)는 레즈비언, 게이, 바이섹슈얼, 트랜스젠더(LGBT) 커뮤니티를 포함한 모든 캘리포니아 주민의 건강을 돌보고 있습니다. 그들은 LGBT 커뮤니티에 가장 자주 영향을 미치는 건강 문제를 이해하고, 다양한 생활 단계에서 필요한 스크리닝을 제공하며, 건강한 생활 방식을 위한 도구를 제공합니다."
   },
   {
+    "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+    "slug": "stonewall-youth",
+    "externalUrl": "https://www.stonewallyouth.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "112 State Ave NE, Olympia, WA 98501, USA",
+    "phoneNumber": "3608884273",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Olympia",
+    "county": "Thurston County",
+    "latLng": [
+      47.0460037,
+      -122.9011227
+    ],
+    "email": "info@stonewallyouth.org",
+    "socialMedia": null,
+    "title": "Stonewall Youth",
+    "description": "Stonewall Youth는 LGBTQ+ 청소년을 지원하는 비영리 기관입니다. 그들의 종합적인 주간 프로그램, 지원 그룹, 그리고 리소스는 퀴어와 트랜스 청소년의 필요에 맞춰 제공됩니다. 음식, 필수품, 심지어 청소년 펠로우십의 후원까지 제공합니다. Stonewall Youth는 LGBTQ+ 청소년이 지도하고, 배우고, 경험을 공유할 수 있는 힘을 주는 공간을 만드는 데 전념하고 있습니다."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2904,6 +3293,28 @@
     },
     "title": "Center on Halsted",
     "description": "시카고의 커뮤니티 센터로 레즈비언, 게이, 양성애자, 성전환자(LGBT) 및 퀴어(+) 커뮤니티 발전을 위해 서비스 프로그램, 이벤트, 교육, 자료를 제공합니다. HIV/AIDS 및 STD, 행동 건강, 반폭력 및 청소년 및 노인을 위한 특별 프로그램을 포함합니다."
+  },
+  {
+    "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+    "slug": "voice-resource-repository",
+    "externalUrl": "https://wiki.sumianvoice.com/",
+    "tags": [
+      "voice-training",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "sumianvoice@gmail.com",
+    "socialMedia": {
+      "githubUrl": "https://github.com/sumiansvoice"
+    },
+    "title": "음성 자료 저장소",
+    "description": "음성 자료 저장소는 Sumi와 Emma가 시작한 개방적이고 발전하는 프로젝트로, 자신의 목소리를 바꾸고자 하는 사람들에게 접근하기 쉬운 정보와 지향점을 제공하려는 것입니다. 여성화와 남성화 연습 모두에 초점을 맞춘 이 프로젝트는 초보자를 돕고 학생과 교사 모두에게 종합적인 참고자료로서의 역할을 하려는 것입니다. 아직 대부분 여성화에 중점을 두고 있지만, 사용자의 목표에 구애받지 않도록 작업이 진행되고 있습니다."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -3037,6 +3448,30 @@
     "description": "Twenty10은 GLCS를 포함하여 레즈비언, 게이, 양성애자, 트랜스젠더 또는 성 다양성, 성 중성, 퀴어, 무성애자 또는 자신의 신분을 질문하는 뉴사우스웨일스의 젊은이들에게 다양한 삶을 바꾸는 서비스를 제공합니다. 그들의 서비스에는 인테이크 및 참조, 주거 및 사례 관리, 상담, 사회적 지원 프로그램, 그리고 LGBTIQA+ 포괄성 교육이 포함됩니다"
   },
   {
+    "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+    "slug": "rainbow-center",
+    "externalUrl": "https://rainbowcntr.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+    "phoneNumber": "(253) 383-2318",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Tacoma",
+    "county": "Pierce County",
+    "latLng": [
+      47.241526,
+      -122.4354485
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "레인보우 센터",
+    "description": "레인보우 센터는 교육, 옹호 및 축하를 통해 LGBTQ2SA 커뮤니티의 자원과 안전을 향상시키려는 목표를 가지고 있습니다. 또한 코스트 샐리시 지역에서 진행되는 행사를 인정하며, 그 곳이 가진 문화적 중요성과 역사를 인식합니다."
+  },
+  {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
     "slug": "transgendermap",
     "externalUrl": "https://transgendermap.com",
@@ -3156,6 +3591,28 @@
     "socialMedia": null,
     "title": "Transcend Australia",
     "description": "Transcend Australia의 목적은 남녀 공유 아동 및 그들의 가족 및 보호자의 삶을 지원하고, 확인하고, 축하하는 것입니다. 그들은 전국의 가족들에게 정보, 지원 및 참조를 제공하고 남녀 공유 아동 및 청소년을 능력있게 만드는 작업을 합니다."
+  },
+  {
+    "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+    "slug": "acoustic-gender",
+    "externalUrl": "https://acousticgender.space/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Acoustic Gender",
+    "description": "성별을 어떻게 인식하는지 이해하기 위한 대화형 시각 도움을 제공하는 온라인 플랫폼입니다. 사용자의 음성을 기록하여 시간에 따른 피치와 공명을 시각화하며, 필요한 경우 그들의 음성 전환 여정을 안내하는 데 도움이 될 수 있습니다."
   },
   {
     "id": "f48634db-fe71-426c-be84-622b3282bad7",
@@ -3297,6 +3754,29 @@
     },
     "title": "트랜스젠더 평등 ID 문서 센터",
     "description": "개인이 주 및 연방 ID 및 기록에 이름과 성별을 업데이트하는 데 도움이 되는 종합적인 자원입니다. 각 주의 정책 등급 정보와 여권 업데이트, 사회보장 기록, 군인/전우 기록 등 다양한 프로세스에 대한 단계를 제공합니다."
+  },
+  {
+    "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+    "slug": "trans-healthcare",
+    "externalUrl": "https://www.transhealthcare.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHealthCare",
+    "description": "TransHealthCare는 성전환 수술 전문의의 가장 크고 포괄적인 데이터베이스입니다. 전 세계의 수천명의 트랜스젠더 및 비이진성 사람들이 수술 전문의를 찾는데 도움이 되었습니다. 해당 웹사이트는 수술 방식, 미국 주, 보험 유형, 국가를 기준으로 수술 전문의를 찾는 플랫폼을 제공합니다. 또한 최신 수술 전문가 뉴스와 성 재확인 수술에 대한 연구 등 다양한 자료를 제공합니다."
   },
   {
     "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",

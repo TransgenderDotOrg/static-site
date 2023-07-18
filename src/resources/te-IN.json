@@ -182,6 +182,29 @@
     "description": "Stuttgarter ప్రకటన ట్రాన్స్జెండర్ మరియు ఇంటర్సెక్స్ వ్యక్తుల ప్రతి గౌరవయుక్త వ్యవహార ప్రాముఖ్యతను ప్రభావిస్తుంది. ఇది ట్రాన్స్జెండర్ మరియు ఇంటర్సెక్స్ వ్యక్తుల కోసం వైద్య, మానసిక చికిత్సా, సలహా, మరియు మద్దతు సేవలు నాణయంలో మానవ హక్కుల ప్రాధాన్యతను టీకా వేస్తుంది. వైద్యశాస్త్రవేత్తలు, మానసిక వైద్యశాస్త్రవేత్తలు, మానవ హక్కుల కార్యకర్తలు మరియు ఆక్రమించిన వ్యక్తులు వికసించినది, ఇది మానవ హక్కుల కార్యకర్తలు మరియు ఆక్రమించిన వ్యక్తులు వికసంచినది ఎందు ప్రామాణిస్తుంది. తన స్వంత జెండర్ నిర్ణయించే హక్కు మరియు వైద్య చికిత్సలు ఈ ఆత్మ-నిర్ణయాన్ని గౌరవించడానికి బాధ్యత."
   },
   {
+    "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+    "slug": "lavender-rights-project",
+    "externalUrl": "https://www.lavenderrightsproject.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 639-7955",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6139026,
+      -122.3201635
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Lavender Rights Project",
+    "description": "లావెండర్ రైట్స్ ప్రాజెక్ట్ బ్లాక్ ఇంటర్సెక్స్ & జెండర్ వెవిడ్డ సంఘ శక్తి, స్వావలంబన మరియు నాయకత్వాన్ని మీదుకెత్తి అంతర్గొల్ల కానూనీ మరియు సమాజ సేవల ద్వారా పెంచుతుంది. ఇది ప్రాణాల్లోకన సీమన మరియు సామాజిక మార్పు మీడియా, సమగ్ర పరేషా, మరియు లావుగుడండా కానూనీ సేవలు అందిస్తుంది, ప్రత్యేకంగా బ్లాజ్ ట్రాన్స్ సముదాయాలను మద్దతు చేయడంలో ప్రధానతను పెడుతుంది."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -358,6 +381,39 @@
     },
     "title": "యూత్ ఈస్ట్‌సైడ్ సేవలు",
     "description": "యూత్ ఈస్ట్‌సైడ్ సేవలు (YES) ఒక లాభం లేకుండా పనిచేసే సంస్థ అంగా, యువత మరియు వారి కుటుంబాలను మానసిక ఆరోగ్య మరియు మాదక ద్రవ్యల సేవలకు వ్యాపకంగా అందిస్తుంది, ఆరోగ్య పరిశోధన, చికిత్స, LGBTQ + సంఘంకు మద్దతు, మరియు వివిధ సముదాయ ఆధారిత కార్యక్రమాల జీవనంగా ఉంచబడింది. ఇది వాషింగ్టన్లో ఉంది."
+  },
+  {
+    "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+    "slug": "ingersoll-gender-center",
+    "externalUrl": "https://ingersollgendercenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 849-7859",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6138987,
+      -122.3203007
+    ],
+    "email": "info@ingersollgendercenter.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+      "twitterUrl": "https://twitter.com/IngersollGender"
+    },
+    "title": "Ingersoll Gender Center",
+    "description": "ట్రాన్స్జెండర్ మరియు జెండర్ నాన్కన్ఫార్మింగ్ ప్రజల ద్వారా మరియు వారి కోసం ఓ సంస్థ మూలంగా పరస్పర మద్దతు నిబంధన కోసం సహపఠి సమూహాలు నడుపుతూ, సంసాధనాలను నవిగేట్ చేయడంలో మేరా చేయుతూ, సముదాయ వ్యవస్థాపన, మరియు విద్యా - మన సమూహపూర్తి స్వయం నిర్ణయత్వం కోసం అన్ని చేయడం."
   },
   {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
@@ -1064,6 +1120,32 @@
     "description": "Sylvia Rivera Law ప్రాజెక్టు అన్ని వ్యక్తులు ఆదాయం లేదా జాతి, హేరాస్మెంట్, భేదభావం లేదా హింస ఎందుకు గురంగా లేకుండా ప్రత్యేక లింగ గుర్తించుటకు మరియు వ్యక్తీకరణకు స్వేచ్ఛతను హామీ ఇవ్వడానికి పనిచేస్తుంది. SRLP చట్టప్రమాణమైన సహాయాన్ని అందిస్తుంది, ప్రచారాలను ఆయోజిస్తుంది, శిక్షణలు నిర్వహిస్తుంది, మరియు ఒక ప్రిజనర్ కమిటీ కుర్రాళీ ఉపసంహరించుంది. సముదాయ సాందర్భికత దానాలు, స్వేచ్ఛాసేవ, మరియు సభ్యతను ప్రోత్సహించడానికి ప్రేరిస్తుంది."
   },
   {
+    "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+    "slug": "trans-sask-resources",
+    "externalUrl": "https://www.transsask.ca/resources/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transsask.ca",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransSask",
+      "facebookUrl": "https://www.facebook.com/TransSask",
+      "instagramUrl": "https://www.instagram.com/TransSask"
+    },
+    "title": "ట్రాన్స్ సాస్క్ వనరులు",
+    "description": "ట్రాన్స్ సాస్క్ ఒక లాభరహిత సంస్థ అనిస్తుంది ఇది ప్రమాణంగా ఉండే, లింగ అస్పష్టత, అంతర లింగ మరియు లింగ సమర్థనలేని వ్యక్తులకు, వారి భార్యలకు, కుటుంబసభ్యులకు, స్నేహితులకు, మరియు పక్షధారులకు మద్దతును అందిస్తుంది. అందించే వనరులలో ఆరోగ్య సేవలను స్థిరీకరించేందుకు మార్గదర్శకం, పేరు మార్పు మార్గదర్శకం మరియు ట్రాన్స్-సమావేశక మీడియా మార్గదర్శకం ఉంటాయి."
+  },
+  {
     "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
     "slug": "allentown-womens-center",
     "externalUrl": "https://allentownwomenscenter.com/",
@@ -1166,6 +1248,34 @@
     "socialMedia": null,
     "title": "సాక్స్‌తో ftm ప్యాక్ చేయడానికి ఎలా? | DIY Packer",
     "description": "ఈ బ్లాగ్ పోస్ట్ సాక్స్లు మరియు ఇతర సులభ పదార్థాలు ఉపయోగించి ఆత్మ మాడెపి౦చెడానికి ఒక సమగ్ర మార్గదర్శకం అందిస్తుంది. హాలైందేని వ్యక్తులను ఇన్నిసారిగా మరియు అధిక అంతర్ముఖంగా అనిపించేందుకు FTM ప్రోస్థెటిక్స్ కోసం DIY ప్రత్యామ్నాయాలను కూడా అందిస్తుంది."
+  },
+  {
+    "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+    "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+    "externalUrl": "https://transadvice.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "discord-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/transadvice",
+      "tumblrUrl": "http://transadvice.tumblr.com/"
+    },
+    "title": "ట్రాన్స్‌యాడ్వైజ్ పీర్ బేస్డ్ ట్రాన్స్‌జెండర్ మద్దతు చాట్. లైవ్ మద్దతు చాట్",
+    "description": "ట్రాన్స్యాడ్వైజ్ ఓ సముదాయ ప్రేరణ నెట్వర్క్ మరియు దీనికి సంబంధించిన పురుష మరియు మహిళా సముదాయాల సభ్యులకు మరియు అనిశ్చిత స్థాయి కమ్మునిటీల సభ్యులకు, వారి కుటుంబ సభ్యులకు, గురువులకు, మిత్రులకు మరియు సోదారులకు మద్దతు మరియు వనరుల కోసం సురక్షిత మరియు తెరవేన స్థలం అందిస్తుంది."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1408,6 +1518,30 @@
     },
     "title": "ఓక్లాండ్ LGBTQ సముదాయ సేంటర్",
     "description": "ఓక్లాండ్ యొక్క మొదటి సర్వత్ర ఆఫ్రోఫిట్ 501c3, అన్ని ఆయుస్సుల ప్రజలకు, అన్ని భాగస్వాముల కలిగిన LGBTQ సముదాయ సేవా కేంద్రం. మాతృభాషాసహాయ సమూహాలు, మానసికతత్వశాస్త్ర సమర్థనం, నివాస సహాయం, యువక ప్రోగ్రామ్, చట్టప్రతి క్లినిక్, ఆహార పానీయాల అంగరాఖణ మొదలగునే సేవలు అందించబడుచున్నాయి. LGBTQ+ ముత్యుల ప్రజలు మరియు త్రితీయ లింగి సముదాయ సభ్యుల కోసం ప్రత్యేక ప్రోగ్రాములు కూడా నిర్వహించబడుతున్నాయి."
+  },
+  {
+    "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+    "slug": "gender-census",
+    "externalUrl": "https://www.gendercensus.com/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "hello@gendercensus.com",
+    "socialMedia": {
+      "tumblrUrl": "https://gendercensus.tumblr.com/",
+      "mastodonUrl": "https://mastodon gendercensus.com/",
+      "patreonUrl": "https://www.patreon.com/gendercensus"
+    },
+    "title": "జెండర్ జనసేకరణ",
+    "description": "జెండర్ జనసేకరణ ఒక వార్షిక సమీక్ష అని, ఇది జెండర్ బైనరీలో గుర్తించకుండా ఉన్న వారిచే ఉపయోగించే భాష గురించి డేటాను సేకరిస్తుంది. ఈ సమీక్ష, అంతకు ముందు 2015 నుంచి ప్రతి సంవత్సరం నిర్వహించబడుతోంది, కలిగి ఉన్న జెండర్ అనుభవాలు మరియు అంతర్గత అలోచనలను, ఒక్క సమయంలో మారుతూ ఉన్నవారిలా లేదా తీవ్రత పెద్దదేగితే, లేదా మగ అలాంటి/స్త్రీల బైనరీ బయట ఉండటం వంటి వాటిని ఆవరించాలి. ఇది ట్రాన్స్జెండర్ సంఘానికి సమగ్రతను మరియు అర్థం చేస్తుంది."
   },
   {
     "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
@@ -1753,6 +1887,26 @@
     "description": "టీఎల్‌డిఇఎఫ్ ఆలోచనా మరియు వ్యక్తిగత గురించిన ఆధారపై విభజన అనగా పూర్తిగా ముగియాలని, ట్రాన్స్జెండర్ ప్రజల సమానత్వానికి బాధ్యతను పొందేలా జన అవగాహన, టెస్ట్-కేసు ముక్దాంతు, ప్రత్యక్ష చట్టపరిపాలన సేవలు, మరియు ప్రభుత్వ విధానశాస్త్ర ప్రయత్నాలను సమష్టి కొద్ది సేవలను అందిస్తాయి, అలాంటివి పేరు మార్చి ప్రోజెక్ట్, ప్రభావ విచారణ మరియు ట్రాన్స్ ఆరోగ్య ప్రోజెక్ట్. ఇది ట్రాన్స్జెండర్ సముదాయానికి ప్రభావ కలిగిన సంబంధిత చట్టరీత్య విషయాల అప్‌డేట్లను కూడా అందిస్తుంది."
   },
   {
+    "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+    "slug": "trans-human-rights-ilga-world-releases-global-research",
+    "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ట్రాన్స్ హ్యూమన్ హక్కులు: ILGA ప్రపంచ చట్టపు లింగ గుర్తించే మరియు క్రిమినలైజేషన్ అనే గ్లోబల్ పరిశోధనను విడుదల చేస్తుంది",
+    "description": "ప్రచురణ యొక్క మూడో ఎడిషన్, ట్రాన్స్ మరియు జెండర్-డివెర్స్ ప్రజలు వారి సెక్స్/జెండర్ మార్కర్ మరియు పేర్లను అధికారిక గుర్తింపు పత్రాల మీద ఎలా మార్చుకోవాలో (చట్టపు లింగ గుర్తింపు) మరియు ట్రాన్స్ గుర్తింపులను క్రిమినలైజే చేసే చట్టాల పై సమాచారాన్ని సేకరిస్తుంది, ఇది ప్రత్యక్షంగా మరియు డి ఫాక్టోగా - ప్రపంచం యొక్క ప్రతి ప్రాంతంలో మా కమ్యూనిటీల పరిస్థితిని చూస్తుంది."
+  },
+  {
     "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
     "slug": "gender-justice-league",
     "externalUrl": "https://www.genderjusticeleague.org/",
@@ -1972,6 +2126,78 @@
     "description": "ఆమ్స్టెర్డమ్ UMC యొక్క జెండర్ డిస్ఫోరియా కోసం జ్ఞాన మరియు కేర్ సెంటర్ వారి పుట్టిన జెండర్ తమ గుర్తింపుతో సరిపోలడానికి అనిపిస్తున్న ప్రజలకు వైద్య చికిత్సను మరియు మానసిక మద్దతును అందించడానికి ప్రత్యేకించి ఉంది. ఆ సెంటర్ వ్యక్తిగత వైవిధ్యాన్ని ఆశ్రయిస్తుంది, వ్యక్తిగత అవసరాలకు దీని సేవలను అనుగుణంగా సర్దుబాటు చేస్తుంది, మరియు జెండర్ అసమంజసాన్ని చికిత్సించడానికి దీని నిపుణతను అంతర్జాతీయంగా గుర్తించబడుతుంది. అదేపుడు, ట్రాన్స్జెండర్ వ్యక్తుల అర్ధాన్ని మరియు చికిత్సను మెరుగుపరచడానికి అందుబాటులో ఉంది మరియు క్రొత్త ఆరోగ్య ప్రౌఢీకరణ ప్రాధాన్యతలకు శిక్షణను అందిస్తుంది."
   },
   {
+    "id": "944ced3e-e26f-48c3-bc28-7e0c78410698",
+    "slug": "trans-rights-map-2022-reveals-slow-comeback-of-progress-on-trans-rights",
+    "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "phoneNumber": null,
+    "address": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "2022 ట్రాన్స్ హక్కుల పటమే ధీర్గధరించిన ముందునుంచి ప్రగతిని బహిరంగ పడుచున్నది",
+    "description": "ఈ నివేదిక TGEU చూపిస్తుంది ఐరోపా మరియు మధ్య ఏషియాలో ట్రాన్స్ ప్రజల కానూనీ హక్కులలో ప్రగతి మరియు నిష్క్రమణ. ఇతర ఆవిష్కరణలు లోతు అస్యామ్, ద్వేషభాష, సమానతా చట్టాలు పంటించిన ప్రాంతాలు లోతు ఉన్నాయి, కానీ చట్టబద్ధ లింగ గుర్తింపు మరియు భేదభావానికి వైరుధ్య రక్షణలు లంటి ప్రాంతాలలో ప్రగతి."
+  },
+  {
+    "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+    "slug": "facial-feminization-surgery-procedures",
+    "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+    "tags": [
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+    "phoneNumber": null,
+    "country": "BE",
+    "provinceOrState": "Vlaams Gewest",
+    "city": "Antwerpen",
+    "county": "AN",
+    "latLng": [
+      51.1787102,
+      4.430423300000001
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+    },
+    "town": "Berchem",
+    "title": "ముఖ స్త్రీయీకరణ శస్త్ర చికిత్సలు",
+    "description": "2pass క్లినిక్ తరంగంలోకి మారుతున్న త్రాన్స్ మహిళలకు సహాయం చేయడానికి వివిధ శస్త్ర చికిత్సలు అందిస్తుంది. వీటిలో ముఖం మరియు శరీరం స్త్రీయీకరణ శస్త్ర చికిత్సలు, శాశ్వత రేముకు తొలగించడం మరియు రేము కింపు చికిత్సలు ఉంటాయి. ఈ వనరు ప్రతి భళి వివరమైన సమాచారాన్ని అందిస్తుంది మరియు వారి ప్రయాణానికి దగ్గర ఎంపికలు చేసేందుకు త్రాన్స్ మహిళలను మార్గదర్శించింది."
+  },
+  {
+    "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+    "slug": "lambert-house",
+    "externalUrl": "https://www.lamberthouse.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+    "phoneNumber": "206.322.2515",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.61818580000001,
+      -122.3124183
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "లాంబెర్ట్ హౌస్",
+    "description": "లాంబెర్ట్ హౌస్ సదరుపోకహా, గేయబుద్ధి, బైసెక్షువాలు, ట్రాన్స్జెండర్ మరియు ప్రశ్నాత్మక యౌవనాన్ని నాయకత్వ, సామాజిక మరియు జీవిత నైపుణ్యాల అభివృద్ధి ద్వారా ప్రేరణా చేస్తుంది. ఇది LGBTQ యౌవన పరిమాణం 10-22 వయస్సుకు సురక్షిత స్థలం, ప్రతి సంవత్సరం మరియు ముందుముందుగా జరిగే 30 కంటే ఎక్కువ కార్యక్రమాలు, క్రియాకలాపాలు, సంపదాలు మరియు సేవలు అందిస్తుంది. యౌవనులు మాత్రమే కాకుండా ఒరింటర్ నుండి నేర్చుకునే దీని మద్దతు వాతావరణం యోగ్యంగా ఉంటుంది."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -2183,6 +2409,30 @@
     "description": "సర్వనామ దుస్తుల గది వ్యక్తులు వేర్వేరు సర్వనామాల గుంపులను పరీక్షించగాను, అన్వేషించగాను ఆన్లైన్ స్థలాన్ని అందిస్తుంది అంవర్తించే వారికి ఏ వేర్వేరు సర్వనామాలు సరైనవి అనిపిస్తాయో చూడటానికి. త్రాన్స్జెండర్ సముదాయంలో సర్వనామ ఎంపిక తీసుకోవడంలో సులభమైన నిర్ణయాలను తీసుకోవడానికి ఈ వెబ్‌సైట్ సౌకర్యం చేస్తుంది, వారు వేర్వేరు సందర్భాల్లో వేర్వేరు సర్వనామాలు ఎలా కనిపిస్తాయో చూడటానికి అనుమతించుంది."
   },
   {
+    "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+    "slug": "queer-sex-ed-podcast",
+    "externalUrl": "https://www.queersexed.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "queersexed@gmail.com",
+    "socialMedia": {
+      "patreonUrl": "https://www.patreon.com/queersexed",
+      "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+      "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+    },
+    "title": "క్వియర్ సెక్స్ ఎడ్ పాడ్‌కాస్ట్",
+    "description": "లెస్బియన్, గే, బైసెక్సుయల్, ట్రాన్స్‌జెండర్, జెండర్ క్వియర్, జెండర్ ఫ్లూయిడ్, అజెండర్ ప్రజలు, పాలిగమౌస్ ప్రజలు, అసెక్సుయల్ ప్రజలు, అంగవైకల్యం ఉన్న ప్రజలు మరియు మరిన్ని కోసం నారేటివ్స్‌కు మరియు అనుభూతులకు 'క్వియర్' సెక్స్ ఎడ్ ఆసక్తిని పూర్తిగా కలుగుచున్న పాడ్‌కాస్ట్ సరీసమూహం. ఈ సముదాయాలకు తగిన సెక్స్ ఎడ్యుకేషన్ మరియు మీడియా ప్రతిపాదన లేకపోవడం మరియు దీని వల్లే సామాజిక స్థిగ్మాలను పోరాడాలను ప్రపంచపెట్టింది."
+  },
+  {
     "id": "aac7385e-58e6-4839-be0e-b637b1021437",
     "slug": "bradbury-sullivan-lgbt-community-center",
     "externalUrl": "https://www.bradburysullivancenter.org/",
@@ -2229,6 +2479,39 @@
     },
     "title": "మార్షా కొరకు ఒక స్థలం",
     "description": "మార్షా కొరకు ఒక ప్రదేశం, ప్రారంభ ప్రాజెక్టులలో ఒకటిగా పెరుగుతున్న ప్రమాదకరమైన నిలవగానున్న రాష్ట్రాల్లో ట్రాన్స్ వ్యక్తులు మరియు కుటుంబాలకు సహాయపడేందుకు లక్ష్యించింది. APFM 2023 మార్చ్ లో జాతీయస్థాయిలో ట్రాన్స్ బిల్లుల ప్రమాణాలు పెరుగుదలతో ప్రారంభించింది. APFM ఇప్పుడు ఎర్రి రాష్ట్రాల నుండి శరణార్థులను గృహసహచరులుగా మ్యాచింగ్ చేయడానికి కేంద్రీకరించింది, ఒక గృహసంస్థను జాగ్రత్తగా పరిచరించింది."
+  },
+  {
+    "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+    "slug": "outsaskatoon-support-for-2slgbtq-community",
+    "externalUrl": "https://www.outsaskatoon.ca/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+    "phoneNumber": "1-306-665-1224",
+    "country": "CA",
+    "provinceOrState": "SK",
+    "city": "Saskatoon",
+    "latLng": [
+      52.1271613,
+      -106.673858
+    ],
+    "email": "hello@outsaskatoon.ca",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+      "twitterUrl": "https://twitter.com/OUTSaskatoon",
+      "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+    },
+    "title": "OUTSaskatoon: 2SLGBTQ సముదాయానికి మద్దతు",
+    "description": "OUTSaskatoon అనేది Saskatoon మరియు 2SLGBTQ సముదాయానికి సేవా ప్రదాత మరియు సముదాయ కేంద్రం. వారు హాని నివారణ, సాంస్కృతికంగా సమాచారపూరిత, సమతా కోరికతో, మరియు సముదాయ ఆధారపడిన దృష్టికోణంలో మద్దతు సేవలు, యువత నివాసం, విద్యా మరియు పరిశోధన సేవలను అందిస్తారు. వారు సమాలోచన మరియు సహకరి మద్దతు, 2SLGBTQ యువత నివాసం (Pride Home), పఠనాలు మరియు శిక్షణ, మరియు సెక్సువల్ ఆరోగ్య క్లినికలను అందిస్తారు."
   },
   {
     "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
@@ -2615,6 +2898,29 @@
     "description": "స్వేచ్ఛా కేంద్రం WA ఆధారితమైన LGBTIQA+ యువత పైబడి విపులమైన మద్దతు సేవలను అందించుతుంది, దీనిలో డ్రాప్-ఇన్ సెషన్లు, సముదాయ అభివృద్ధి, సంబంధ సమాధానం, మరియు మరెన్నో ఉన్నాయి. వారు అన్ని LGBTIQA+ యువతకు సేర్పుడు, కనెక్షన్, గౌరవానికి ఉండడానికి పని చెందుతున్నారు. వారు మాతృవర్గాలు, వృత్తివంతులు, సముదాయాలు మరియు సంస్థలకు ప్రశిక్షణ మరియు సలహాలు అందించారు."
   },
   {
+    "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+    "slug": "trans-fertility-co-shop-live",
+    "externalUrl": "https://transfertility.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ట్రాన్స్ ఫెర్టిలిటీ కొ. షాప్ లైవ్",
+    "description": "ట్రాన్స్ ఫెర్టిలిటీ కొ. షాప్ ట్రాన్స్జెండర్ ఫెర్టిలిటీ యొక్క వివిధ దృష్టాంతాలను సంబంధించి వనరులు, ప్రస్తుతాలు మరియు వ్యక్తిగత కథలను అందిస్తోంది. ఇది నేర్చుకోవడానికి, పంచుకోవడానికి మరియు ట్రాన్స్ ఫెర్టిలిటీను జరుపుకోవడానికి ఒక వేదిక."
+  },
+  {
     "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
     "slug": "point-of-pride",
     "externalUrl": "https://www.pointofpride.org/",
@@ -2692,6 +2998,33 @@
     "socialMedia": null,
     "title": "BlaQ అభోరిజినల్ సంస్థ",
     "description": "BlaQ అభోరిజినల్ కార్పోరేషన్ అనేది ఒక కమ్యూనిటీ సంస్థ జో ఇనోవేషన్, ఇన్క్లూషన్, అర్థం చేసుకోవడం మరియు మార్గదర్శక ద్వారా అభోరిజినల్ మరియు టోరేస్ స్ట్రేట్ ఐలాండర్ LGBTQ+SB సముదాయాన్ని మద్దతు చేయడానికి మరియు ప్రతిపదీరించడానికి మీడ పడుది."
+  },
+  {
+    "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+    "slug": "refuge-restrooms",
+    "externalUrl": "https://www.refugerestrooms.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "రిఫ్యూజ్ రెస్ట్రూమ్స్",
+    "description": "రిఫ్యూజ్ రెస్ట్రూమ్స్ అనేది ట్రాన్స్జెండర్, ఇంటర్సెక్స్, మరియు లింగ బాధ్యతలేని వ్యక్తులకు సురక్షితమైన రెస్ట్రూమ్ ప్రాప్యతను అందించడానికి ప్రతిపాదించే వెబ్ అనువర్తనం. వాడుకరులు శోధన స్థలంగా సమీపంలోని రెస్ట్రూమ్లను శోధించవచ్చు, కొత్త రెస్ట్రూమ్ జాబితాను చేర్చవచ్చు, అలాగే ఉన్న జాబితాలను వ్యాఖ్యానించి మరియు రేట్ చేయవచ్చు."
   },
   {
     "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
@@ -2816,6 +3149,31 @@
     "description": "కాలిఫోర్నియా రాష్ట్ర ప్రజా ఆరోగ్య శాఖ (CDPH) లెస్బియన్, గే, బైసెక్స్యువల్, ట్రాన్స్‌జెండర్ (ఎల్‌జిబిటి) సముదాయాలను సేరించి అన్ని కాలిఫోర్నియా వాసుల ఆరోగ్యానికి కేటర్ చేస్తుంది. వారు ఎల్‌జిబిటి సముదాయానికి ఎక్కువగా ప్రభావం చూపే ఆరోగ్య సమస్యలను అర్థించడానికి సంసాధనాలను అందిస్తారు, వివిధ జీవిత దశలలో అవసరమైన స్క్రీనింగ్లు, మరియు ఆరోగ్యకర జీవన శైలి కోసం టూల్స్."
   },
   {
+    "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+    "slug": "stonewall-youth",
+    "externalUrl": "https://www.stonewallyouth.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "112 State Ave NE, Olympia, WA 98501, USA",
+    "phoneNumber": "3608884273",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Olympia",
+    "county": "Thurston County",
+    "latLng": [
+      47.0460037,
+      -122.9011227
+    ],
+    "email": "info@stonewallyouth.org",
+    "socialMedia": null,
+    "title": "స్టోన్‌వాల్ యూత్",
+    "description": "స్టోన్‌వాల్ యూత్ ఒక సంఛేతన సంస్థ అది LGBTQ+ యువతికి మద్దతును హామీగా అందిస్తుంది. వారి సమగ్ర వారపు కార్యక్రమాలు, మద్దతు సమూహాలు, మరియు వనరులను ఖేలీనించే వనరులు. వారు ఆహారాన్ని, అవసర అంశాలను, మరియు యువ స్థాపనకు మరియు ప్రాతిపదికస్థానాన్ని అందిస్తారు. స్టోన్‌వాల్ యూత్ LGBTQ+ యువత కోసం సక్తివంత స్థలాన్ని సృష్టించేందుకు అంకితవంతమైనది. వారు ముందుకు సాగడానికి, నేర్చుకోవడానికి, మరియు వారి అనుభవాలను పంచుకోవడానికి ప్రామాణికమైన అన్నీ స్థలాలు నిర్మించారు."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2904,6 +3262,28 @@
     },
     "title": "Center on Halsted",
     "description": "చికాగోలో స్వకీయ కేంద్రం యొక్క సమర్పణి, జోడుసేవలు కార్యక్రమాలు, శిక్షణలు, మరియు వనరులనుంచి సముదాయానికి సహాయం అందించిన లేస్బీయన్, గేల్, బ్స్క్షుల్, ట్రాన్స్జెండర్ (పోలెన్) మరియు కోయర్ (+) సముదాయం. ఇదిగో చేరినవి సర్వీసేస్ HIV/AIDS మరియు STD, ప్రవర్తన ఆరోగ్యం, అంటి-విలెన్స్ మరియు యువతి మరియు ప్రాబల్యంగానికి ప్రత్యేక కార్యక్రమాలు."
+  },
+  {
+    "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+    "slug": "voice-resource-repository",
+    "externalUrl": "https://wiki.sumianvoice.com/",
+    "tags": [
+      "voice-training",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "sumianvoice@gmail.com",
+    "socialMedia": {
+      "githubUrl": "https://github.com/sumiansvoice"
+    },
+    "title": "స్వర వనరుల రిపాజిటరీ",
+    "description": "స్వర వనరుల రిపాజిటరీని సుమి మరియు ఎమ్మ ప్రారంభించిన తెరవనిది మరియు అభివృద్ధి కూడుచేసే పరియోజన. ఆశా కలిగించే వారికి అంగీకారయోగ్య సమాచారాన్ని మరియు దిశని అందిస్తుంది. ఇది ప్రారంభకులు సాయం చేసేందుకు, పునః మరీ విద్యార్థులు మరియు ఉపాధ్యాయుల యొక్క సమగ్ర ఉల్లేఖ పరిచయం. అమ్మ, దానికి అధికారం గల అవధిలో, ఇదిది వినియోగదారుల లక్ష్యాలaku సాపేక్షంగా పని చేస్తుంది. అయినా ఇప్పటివరకు అది ప్రధానంగా స్త్రీయనత్వాన్ని ఆశ్రయిస్తుంది."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -3037,6 +3417,30 @@
     "description": "Twenty10 మరియు GLCS వివిధ జీవమార్పణ సేవలను ఆంధ్రప్రదేశదానికి చెందిన యువతరాలకు అందిస్తుంది, వారు లెస్బియన్, గేయ్, బైసెక్సువల్, ట్రాన్స్జెండర్ లేదా జెండర్ డివర్స్, ఇంటర్సెక్స్, క్వియర్, అసెక్షుఅల్ లేదా వారు తమ గురించి ప్రశ్నించవచ్చు. వారి సేవలు ఇన్టేక్ మరియు రిఫెరల్, ఆవాసం మరియు కేసు నిర్వహణ, కౌన్సిలింగ్, సోషల్ మద్దతు కార్యక్రమాలు, మరియు LGBTIQA+ సమావేశత్వ ప్రశిక్షణ ఉన్నాయి"
   },
   {
+    "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+    "slug": "rainbow-center",
+    "externalUrl": "https://rainbowcntr.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+    "phoneNumber": "(253) 383-2318",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Tacoma",
+    "county": "Pierce County",
+    "latLng": [
+      47.241526,
+      -122.4354485
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "రెయిన్బో సేంటర్",
+    "description": "రెయిన్బో సేంటర్ విద్యా, అభిరాధన, మరియు ఆనందోల్లాసం ద్వారా LGBTQ2SA సముదాయానికి సంపదాన్ని మరియు భద్రతను పెంచేందుకు ప్రయత్నిస్తుంది. దాంతో పాటు ఇది కోస్ట్ సాలిష్ భూమిపై జరుగుతున్న సంఘటనలను మరియు అందులోని సంస్కృతి ప్రామాణ్యాన్ని మరియు చరిత్రను గుర్తిస్తోంది."
+  },
+  {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
     "slug": "transgendermap",
     "externalUrl": "https://transgendermap.com",
@@ -3156,6 +3560,28 @@
     "socialMedia": null,
     "title": "ట్రాన్సెండ్ ఆస్ట్రేలియా",
     "description": "ట్రాన్సెండ్ ఆస్ట్రేలియాయు మారుపు మరియు జెండర్ వైవిధ్యత కలిగి ఉన్న పిల్లల మరియు వారి కుటుంబాల మరియు తనిఖీదారులను మద్దతు చేయడానికి, సమర్ధించడానికి మరియు వేదించడానికి ఉద్దేశించింది. వారు ఆస్ట్రేలియా అంతటా కుటుంబాలకు సమాచారం, మద్దతు మరియు రిఫరల్లను అందిస్తున్నారు మరియు మారుపు మరియు జెండర్ వైవిధ్యత కలిగి ఉన్న పిల్లల మరియు యువ వ్యక్తులను అధికారవంతులుగా మార్చి పనిచేస్తున్నారు."
+  },
+  {
+    "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+    "slug": "acoustic-gender",
+    "externalUrl": "https://acousticgender.space/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ఆకౌస్టిక్ జెండర్",
+    "description": "జెండర్ పరిప్రేషణను యొక్క స్వరాలను గ్రాహించడానికి ఇంటరాక్టివ్ విజువల్ సహాయాన్ని అందిస్తున్న ఆన్లైన్ ప్లాట్ఫారమ్. అవసరాన్ని బట్టి తమ స్వర మార్పు ప్రయాణాన్ని తెలుసుకునేందుకు ఇది యూజర్ను రికార్డు చిస్తుంది మరియు సమయం పాటు పిచ్ మరియు నినాదాన్ని విజ్ఞాన శాస్త్రం చిత్రీకరించడానికి అనుమతిస్తుంది."
   },
   {
     "id": "f48634db-fe71-426c-be84-622b3282bad7",
@@ -3297,6 +3723,29 @@
     },
     "title": "ట్రాన్స్‌జెండర్ సమానత్వ గుర్తింపు పత్రాల కేంద్రం",
     "description": "వ్యక్తులు తమ పేరు మరియు లింగాన్ని రాష్ట్ర మరియు కేంద్ర గుర్తింపు పత్రాలు మరియు రికార్డులు నవీకరించేందుకు సహాయపడే సమగ్ర వనరు. ప్రతి రాష్ట్రంలో విధాన గ్రేడ్ల పట్టికలపై సమాచారం అందిస్తుంది మరియు పాస్పోర్ట్‌లను నవీకరించడం, సోషల్ సెక్యూరిటీ రికార్డులను నవీకరించడం, సైన్య/వేటరన్ రికార్డులను నవీకరించడం మొదలైన వివిధ ప్రక్రియల కోసం దశలను అందిస్తుంది."
+  },
+  {
+    "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+    "slug": "trans-healthcare",
+    "externalUrl": "https://www.transhealthcare.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHealthCare",
+    "description": "TransHealthCare ఆసుపత్రి శాస్త్రజ్ఞుల యొక్క అతిపెద్ద మరియు అత్యంత సమగ్ర డేటాబేస్. ఇది ప్రపంచంలోని వేలాది ట్రాన్స్జెండర్ మరియు అ-బైనరీ వ్యక్తులు శాస్త్రజ్ఞుడుని కనుగొనేందుకు సహాయం చేసింది. వెబ్‌సైట్ ప్రసేసి, U.S. రాష్ట్రం, ఇన్షూరెన్స్ రకం, మరియు దేశాన్ని ఆధారంగా చేసుకుని శాస్త్రజ్ఞుడిని కనుగొనడానికి ఒక వేదికను అందిస్తుంది. దీనిలో తాజా శాస్త్రజ్ఞుల వార్తలు మరియు జెండర్-ఆఫర్మింగ్ శస్త్రానికి సంబంధించిన అధ్యయనాన్ని సమేత అనేక వనరులు ఉండాలి."
   },
   {
     "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",

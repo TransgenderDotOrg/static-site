@@ -1,0 +1,117 @@
+{
+  "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+  "slug": "outsaskatoon-support-for-2slgbtq-community",
+  "externalUrl": "https://www.outsaskatoon.ca/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+  "phoneNumber": "1-306-665-1224",
+  "country": "CA",
+  "provinceOrState": "SK",
+  "city": "Saskatoon",
+  "latLng": [
+    52.1271613,
+    -106.673858
+  ],
+  "email": "hello@outsaskatoon.ca",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+    "twitterUrl": "https://twitter.com/OUTSaskatoon",
+    "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "OUTSaskatoon: Support for 2SLGBTQ Community",
+      "description": "OUTSaskatoon is a community centre and service provider for the Saskatoon and area 2SLGBTQ community. They provide support services, youth housing, and education and research services through a harm reduction, culturally informed, equity-seeking, and community-based approach. They offer counselling and peer support, 2SLGBTQ youth housing (Pride Home), workshops and training, and sexual health clinics."
+    },
+    "es-ES": {
+      "title": "OUTSaskatoon: Apoyo a la comunidad 2SLGBTQ",
+      "description": "OUTSaskatoon es un centro comunitario y proveedor de servicios para la comunidad 2SLGBTQ de Saskatoon y sus alrededores. Brindan servicios de apoyo, alojamiento para jóvenes, y servicios de educación e investigación a través de un enfoque de reducción de daños, culturalmente informado, en busca de equidad y basado en la comunidad. Ofrecen consejería y apoyo entre pares, alojamiento para jóvenes 2SLGBTQ (Hogar Orgullo), talleres y capacitación, y clínicas de salud sexual."
+    },
+    "pt-PT": {
+      "title": "OUTSaskatoon: Apoio para a Comunidade 2SLGBTQ",
+      "description": "A OUTSaskatoon é um centro comunitário e prestador de serviços para a comunidade 2SLGBTQ de Saskatoon e área. Eles fornecem serviços de apoio, habitação para jovens e serviços de educação e pesquisa, através de uma abordagem de redução de danos, culturalmente informada, em busca de equidade e baseada na comunidade. Eles oferecem aconselhamento e apoio entre pares, habitação para jovens 2SLGBTQ (Pride Home), workshops e treinamentos, e clínicas de saúde sexual."
+    },
+    "zh-CN": {
+      "title": "OUTSaskatoon：为2SLGBTQ社区提供支持",
+      "description": "OUTSaskatoon是萨斯卡通及周边2SLGBTQ社区的社区中心和服务提供者。他们采用减少损害、文化敏感、追求公平、以社区为基础的方式提供支持服务、青少年住宅、教育和研究服务。他们提供咨询和同伴支持，2SLGBTQ青少年住宅（Pride Home），工作坊和培训，以及性健康诊所。"
+    },
+    "id-ID": {
+      "title": "OUTSaskatoon: Dukungan untuk Komunitas 2SLGBTQ",
+      "description": "OUTSaskatoon adalah pusat komunitas dan penyedia layanan untuk komunitas 2SLGBTQ di Saskatoon dan sekitarnya. Mereka menyediakan layanan dukungan, perumahan bagi para remaja, serta layanan pendidikan dan penelitian melalui pendekatan yang berbasis pada penanggulangan kerusakan, informasi budaya, mencari persamaan, dan berbasis komunitas. Mereka menawarkan konseling dan dukungan sebaya, perumahan untuk remaja 2SLGBTQ (Pride Home), workshop dan pelatihan, serta klinik kesehatan seksual."
+    },
+    "sw-KE": {
+      "title": "OUTSaskatoon: Msaada kwa Jumuiya ya 2SLGBTQ",
+      "description": "OUTSaskatoon ni kituo cha jamii na mtoaji huduma kwa jamii ya 2SLGBTQ ya Saskatoon na eneo lake. Wanatoa huduma za msaada, makazi ya vijana, na huduma za elimu na utafiti kupitia njia ya kupunguza madhara, kuelewa tamaduni, kutafuta usawa, na msingi wa jamii. Wao hutoa ushauri na msaada wa rika, makazi ya wanaoishi 2SLGBTQ (Nyumbani kwa Pride), warsha na mafunzo, na kliniki za afya ya ngono."
+    },
+    "tr-TR": {
+      "title": "OUTSaskatoon: 2SLGBTQ Topluluğu için Destek",
+      "description": "OUTSaskatoon, Saskatoon ve çevresindeki 2SLGBTQ topluluğu için bir toplum merkezi ve hizmet sağlayıcısıdır. Zarar azaltma, kültürel bilgi, eşitlik arayan ve topluluk temelli bir yaklaşımla destek hizmetleri, gençlik konutları ve eğitim ve araştırma hizmetleri sunmaktadır. Danışmanlık ve akran desteği, 2SLGBTQ gençlik konutu (Pride Home), atölye ve eğitimler ve cinsel sağlık klinikleri sunmaktadırlar."
+    },
+    "de-DE": {
+      "title": "OUTSaskatoon: Unterstützung für die 2SLGBTQ Gemeinschaft",
+      "description": "OUTSaskatoon ist ein Gemeindezentrum und Dienstleister für die 2SLGBTQ Gemeinschaft in Saskatoon und Umgebung. Sie bieten Unterstützungsdienste, Jugendwohnungen und Bildungs- und Forschungsdienste durch einen schadensmindernden, kulturell informierten, gerechtigkeitsorientierten und gemeinschaftsbasierten Ansatz an. Sie bieten Beratung und Peer-Support, Wohnungen für 2SLGBTQ Jugendliche (Pride Home), Workshops und Trainings sowie sexuelle Gesundheitskliniken an."
+    },
+    "ja-JP": {
+      "title": "OUTSaskatoon：2SLGBTQコミュニティサポート",
+      "description": "OUTSaskatoonは、Saskatoonとその周辺地域の2SLGBTQコミュニティのコミュニティセンターおよびサービス提供者です。彼らは、ハームリダクション、文化的にインフォームドな、公平を求める、そしてコミュニティベースのアプローチを通じて、サポートサービス、若者向け住宅、教育および研究サービスを提供しています。カウンセリングとピアサポート、2SLGBTQの若者向け住宅（Pride Home）、ワークショップとトレーニング、性的健康クリニックを提供しています。"
+    },
+    "ru-RU": {
+      "title": "OUTSaskatoon: Поддержка сообщества 2SLGBTQ",
+      "description": "OUTSaskatoon - это общественный центр и провайдер услуг для сообщества 2SLGBTQ в Saskatoon и окрестностях. Они предоставляют услуги поддержки, молодежное жилье и услуги в области образования и исследований, основываясь на принципах снижения вреда, учета культурных особенностей, стремления к равенству и сообщественного подхода. Они предлагают консультации и поддержку со стороны сверстников, жилье для молодежи 2SLGBTQ (Pride Home), семинары и обучение, а также половоздравницы."
+    },
+    "fr-FR": {
+      "title": "OUTSaskatoon: Soutien pour la communauté 2SLGBTQ",
+      "description": "OUTSaskatoon est un centre communautaire et un fournisseur de services pour la communauté 2SLGBTQ de Saskatoon et des environs. Ils fournissent des services de soutien, des logements pour jeunes, et des services d'éducation et de recherche à travers une approche de réduction des méfaits, informée culturellement, en quête d'équité et basée sur la communauté. Ils offrent des services de conseil et de soutien par les pairs, des logements pour jeunes 2SLGBTQ (Pride Home), des ateliers et des formations, et des cliniques de santé sexuelle."
+    },
+    "ar-SA": {
+      "title": "OUTSaskatoon: دعم لمجتمع 2SLGBTQ",
+      "description": "OUTSaskatoon هو مركز مجتمع ومزود خدمة لمجتمع 2SLGBTQ في Saskatoon والمناطق المجاورة. يقدمون خدمات الدعم، والإسكان للشباب، وخدمات التعليم والبحث من خلال نهج يقلل من الأذى ومستنير ثقافياً ويسعى للمساواة ومبني على المجتمع. يقدمون الاستشارات والدعم من الأقران، إسكان الشباب 2SLGBTQ (Pride Home)، ورش العمل والتدريب، وعيادات الصحة الجنسية."
+    },
+    "uk-UA": {
+      "title": "OUTSaskatoon: Підтримка громади 2SLGBTQ",
+      "description": "OUTSaskatoon - це громадський центр та постачальник послуг для громади Saskatoon та району 2SLGBTQ. Вони надають послуги підтримки, житло для молоді, а також послуги освіти та досліджень на основі методу зменшення шкоди, культурного освітлення, пошуку рівності та громадського підходу. Вони пропонують консультації та підтримку однолітків, житло для молоді 2SLGBTQ (Pride Home), семінари та тренінги, а також клініки сексуального здоров'я."
+    },
+    "vi-VN": {
+      "title": "OUTSaskatoon: Hỗ trợ cho Cộng đồng 2SLGBTQ",
+      "description": "OUTSaskatoon là một trung tâm cộng đồng và nhà cung cấp dịch vụ cho cộng đồng 2SLGBTQ tại Saskatoon và các khu vực lân cận. Họ cung cấp các dịch vụ hỗ trợ, nhà ở cho giới trẻ, và các dịch vụ giáo dục và nghiên cứu thông qua một phương pháp tiếp cận giảm thiểu tổn thương, thông tin văn hóa, tìm kiếm công bằng và dựa trên cộng đồng. Họ cung cấp tư vấn và hỗ trợ từ bạn bè, nhà ở cho giới trẻ 2SLGBTQ (Pride Home), các buổi học và đào tạo, và các phòng khám sức khỏe tình dục."
+    },
+    "ko-KR": {
+      "title": "OUTSaskatoon: 2SLGBTQ 커뮤니티를 위한 지원",
+      "description": "OUTSaskatoon은 새스커툰 및 지역 2SLGBTQ 커뮤니티를 위한 커뮤니티 센터 및 서비스 제공자입니다. 그들은 피해 감소, 문화적으로 인식되고, 평등을 추구하며 커뮤니티 기반의 접근방식을 통해 지원 서비스, 청소년 주거, 교육 및 연구 서비스를 제공합니다. 그들은 상담 및 동료 지원, 2SLGBTQ 청소년 주택(Pride Home), 워크샵과 훈련, 그리고 성 건강 클리닉을 제공합니다."
+    },
+    "ur-PK": {
+      "title": "OUTSaskatoon: 2SLGBTQ برادری کے لئے حمایت",
+      "description": "OUTSaskatoon Saskatoon اور علاقہ 2SLGBTQ برادری کے لئے ایک کمیونٹی سینٹر اور خدمت فراہم کرنے والے ہیں۔ وہ نقصان کم کرنے، ثقافتی طور پر آگاہ، انصاف طلبی، اور بنیادی طور پر کمیونٹی کی تکمیل کے ذریعہ سپورٹ سروسز، نوجوانوں کے لیے ہاؤسنگ، تعلیم و تحقیقاتی خدمات فراہم کرتے ہیں۔ وہ مشاورت اور ہم دردی کی پیداوار، 2SLGBTQ نوجوانوں کے لیے ہاؤسنگ (Pride Home)، ورکشاپ اور تربیتی پروگرام، اور جنسی صحت کلینک پیش کرتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "OUTSaskatoon: 2SLGBTQ समुदाय के लिए समर्थन",
+      "description": "OUTSaskatoon, Saskatoon और क्षेत्रीय 2SLGBTQ समुदाय के लिए एक समुदाय केंद्र और सेवा प्रदाता है। वे हानि कम करने, सांस्कृतिक रूप से अवगत, समानता की खोज, और समुदायाधारित दृष्टिकोण के माध्यम से सहायता सेवाएं, युवा आवास, और शिक्षा और अनुसंधान सेवाएं प्रदान करते हैं। वे परामर्श और सहकर्मी समर्थन, 2SLGBTQ युवा आवास (प्राइड होम), कार्यशालाएँ और प्रशिक्षण, और यौन स्वास्थ्य क्लिनिक प्रदान करते हैं।"
+    },
+    "mr-IN": {
+      "title": "OUTSaskatoon: 2SLGBTQ समुदायासाठी समर्थन",
+      "description": "OUTSaskatoon हे Saskatoon आणि क्षेत्रीय 2SLGBTQ समुदायासाठी एक समुदाय केंद्र आणि सेवा प्रदाता आहे. त्यांनी हानी कमी करणार्‍या, सांस्कृतिकरूपाने माहितीपूर्ण, अधिकारांची शोध घेणार्‍या आणि समुदायविशेष पद्धतीने समर्थन सेवाए, तरुण वसतिगृह, शिक्षण आणि संशोधन सेवाए प्रदान केलेली आहेत. त्यांनी सल्ला आणि सहकारी समर्थन, 2SLGBTQ तरुण वसतिगृह (प्राईड होम), कार्यशाळा आणि प्रशिक्षण, आणि लैंगिक आरोग्य क्लिनिके प्रदान केलेली आहेत."
+    },
+    "bn-BD": {
+      "title": "OUTSaskatoon: 2SLGBTQ সম্প্রদায়ের জন্য সমর্থন",
+      "description": "OUTSaskatoon একটি সম্প্রদায় কেন্দ্র এবং সাসকাটুন এবং এলাকার 2SLGBTQ সম্প্রদায়ের জন্য সেবা প্রদায়ক। তারা সমর্থন সেবা, যুবক আবাস, এবং শিক্ষা এবং গবেষণা পরিষেবা সরবরাহ করেন একটি ক্ষতি হ্রাস, সাংস্কৃতিগতভাবে অনুপ্রাণিত, সমান সন্ধানকারি, এবং সম্প্রদায় ভিত্তিক পদ্ধতিতে। তারা পরামর্শ এবং সহপাঠিদের সমর্থন, 2SLGBTQ যুবক আবাস (Pride Home), ওয়ার্কশপ এবং প্রশিক্ষণ, এবং যৌন স্বাস্থ্য ক্লিনিক অফার করেন।"
+    },
+    "te-IN": {
+      "title": "OUTSaskatoon: 2SLGBTQ సముదాయానికి మద్దతు",
+      "description": "OUTSaskatoon అనేది Saskatoon మరియు 2SLGBTQ సముదాయానికి సేవా ప్రదాత మరియు సముదాయ కేంద్రం. వారు హాని నివారణ, సాంస్కృతికంగా సమాచారపూరిత, సమతా కోరికతో, మరియు సముదాయ ఆధారపడిన దృష్టికోణంలో మద్దతు సేవలు, యువత నివాసం, విద్యా మరియు పరిశోధన సేవలను అందిస్తారు. వారు సమాలోచన మరియు సహకరి మద్దతు, 2SLGBTQ యువత నివాసం (Pride Home), పఠనాలు మరియు శిక్షణ, మరియు సెక్సువల్ ఆరోగ్య క్లినికలను అందిస్తారు."
+    },
+    "ta-IN": {
+      "title": "OUTSaskatoon: 2SLGBTQ சமுதாயத்திற்கான ஆதரவு",
+      "description": "OUTSaskatoon என்பது சாஸ்காட்சுவான் மற்றும் அதன் பரிசர மண்டலத்திலுள்ள 2SLGBTQ சமுதாயத்திற்கான சமுதாய மையமும், சேவை வழங்குபவருமாகும். அவர்கள் ஆதரவு சேவைகளை, இளைஞர் வீடுகளை, பயிற்சி மற்றும் ஆராய்ச்சி சேவைகளை-அது காயத்தை குறைக்கும் முறை, கலாச்சாரமாக அறிவுறுத்தப்பட்ட, நிஷ்பக்ஷங்கேறி தேடும், மற்றும் சமுதாயப் பாதுகாப்பைக் கொண்டு வழங்குகின்றனர். அவர்கள் ஆலோசனை மற்றும் நண்பர் ஆதரவை, 2SLGBTQ இளைஞர்களுக்கான வீடுகள் (Pride Home), பயிற்சிகள் மற்றும் பயிற்சிகளை, மற்றும் பாலியல் சுகாதார மையங்களை வழங்குகின்றனர்."
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+  "slug": "gender-census",
+  "externalUrl": "https://www.gendercensus.com/",
+  "tags": [
+    "non-binary",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "hello@gendercensus.com",
+  "socialMedia": {
+    "tumblrUrl": "https://gendercensus.tumblr.com/",
+    "mastodonUrl": "https://mastodon gendercensus.com/",
+    "patreonUrl": "https://www.patreon.com/gendercensus"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Gender Census",
+      "description": "The Gender Census is an annual survey that collects data about the language used by people who do not identify within the gender binary. The survey, which has been conducted annually since 2015, seeks to encompass a broader range of gender experiences and identities, including those whose gender changes over time, fluctuates in intensity, or exists outside of the male/female binary. It serves the transgender community by promoting inclusivity and understanding."
+    },
+    "pt-PT": {
+      "title": "Censo de Gênero",
+      "description": "O Censo de Gênero é uma pesquisa anual que coleta dados sobre a linguagem utilizada por pessoas que não se identificam dentro do binário de gênero. A pesquisa, que vem sendo conduzida anualmente desde 2015, busca abranger uma gama mais ampla de experiências e identidades de gênero, incluindo aquelas cujo gênero muda ao longo do tempo, flutua em intensidade ou existe fora do binário masculino/feminino. Serve à comunidade de transgêneros promovendo inclusividade e compreensão."
+    },
+    "zh-CN": {
+      "title": "性别普查",
+      "description": "性别普查是一项每年进行的调查，收集不认同性别二元的人群使用的语言的数据。自2015年以来，该调查每年都会进行，旨在涵盖更广泛的性别经验和身份，包括那些性别随时间变化、强度波动或者存在于男/女二元之外的人群。它通过促进包容性和理解，服务于跨性别社区。"
+    },
+    "id-ID": {
+      "title": "Sensus Gender",
+      "description": "Sensus Gender adalah survei tahunan yang mengumpulkan data tentang bahasa yang digunakan oleh orang-orang yang tidak mengidentifikasi diri mereka dalam biner gender. Survei ini, yang telah dilakukan setiap tahun sejak 2015, berusaha untuk mencakup berbagai pengalaman dan identitas gender yang lebih luas, termasuk mereka yang gender-nya berubah seiring waktu, fluktuatif dalam intensitas, atau ada di luar biner laki-laki/perempuan. Ini melayani komunitas transgender dengan mempromosikan inklusivitas dan pemahaman."
+    },
+    "de-DE": {
+      "title": "Geschlechter Volkszählung",
+      "description": "Die Geschlechter Volkszählung ist eine jährliche Umfrage, die Daten über die Sprache sammelt, die von Menschen verwendet wird, die sich nicht innerhalb der Geschlechterbinarität identifizieren. Die Umfrage, die seit 2015 jährlich durchgeführt wird, versucht, ein breiteres Spektrum an Geschlechtserfahrungen und Identitäten zu erfassen, einschließlich derjenigen, deren Geschlecht sich über die Zeit ändert, in der Intensität schwankt oder außerhalb der männlich/weiblich Binarität existiert. Sie dient der Transgender-Gemeinschaft, indem sie Inklusivität und Verständnis fördert."
+    },
+    "fr-FR": {
+      "title": "Recensement de Genre",
+      "description": "Le Recensement de Genre est une enquête annuelle qui collecte des données sur le langage utilisé par les personnes qui ne s'identifient pas au sein du binaire de genre. L'enquête, qui a été menée annuellement depuis 2015, cherche à englober une plus large gamme d'expériences et d'identités de genre, y compris celles dont le genre change au fil du temps, fluctue en intensité, ou existe en dehors du binaire masculin/féminin. Il sert la communauté transgenre en favorisant l'inclusivité et la compréhension."
+    },
+    "es-ES": {
+      "title": "Censo de Género",
+      "description": "El Censo de Género es una encuesta anual que recopila datos sobre el lenguaje utilizado por las personas que no se identifican dentro del binario de género. La encuesta, que se ha realizado anualmente desde 2015, busca abarcar un rango más amplio de experiencias e identidades de género, incluyendo aquellas cuyo género cambia con el tiempo, fluctúa en intensidad, o existe fuera del binario masculino/femenino. Sirve a la comunidad transgénero promoviendo la inclusividad y comprensión."
+    },
+    "sw-KE": {
+      "title": "Sensa ya Jinsia",
+      "description": "Sensa ya Jinsia ni uchunguzi wa kila mwaka unaokusanya data kuhusu lugha inayotumiwa na watu ambao hawajitambulishi ndani ya mipaka ya jinsia. Uchunguzi huo, ambao umekuwa ukifanyika kila mwaka tangu 2015, unatafuta kujumuisha uzoefu na utambulisho wa jinsia unaopanuka, ikiwa ni pamoja na wale ambao jinsia zao zinabadilika kwa muda, zinabadilika kwa nguvu, au zipo nje ya mipaka ya kiume / kike. Inahudumia jamii ya watu wanaobadilisha jinsia kwa kukuza ushirikishwaji na uelewa."
+    },
+    "ja-JP": {
+      "title": "ジェンダー調査",
+      "description": "ジェンダー調査は、ジェンダーバイナリー内で自己を認識しない人々が使用する言語についてのデータを収集する年次調査です。これは2015年から毎年実施されており、時間の経過と共に性別が変化する人々、強度が変動する人々、または男性/女性のバイナリーの外に存在する人々を含む、幅広いジェンダー体験とアイデンティティを網羅することを目指しています。 これはトランスジェンダーのコミュニティに包含性と理解を促進するために役立ちます。"
+    },
+    "ko-KR": {
+      "title": "성별 인구 조사",
+      "description": "성별 인구 조사는 성별 이진법에 해당하지 않는 사람들이 사용하는 언어에 대한 데이터를 수집하는 연례 조사입니다. 2015년부터 매년 실시되어 온 이 조사는 시간이 지나며 변하는 성별, 강도가 변동하는 성별 또는 남성/여성 이진법 외부에 존재하는 성별을 포함하여 성별 경험과 정체성의 더 넓은 범위를 포괄하고자 합니다. 이는 트랜스젠더 커뮤니티에 포괄성과 이해를 증진하는 데 도움이 됩니다."
+    },
+    "vi-VN": {
+      "title": "Điều tra Giới tính",
+      "description": "Điều tra Giới tính là một cuộc khảo sát hàng năm thu thập dữ liệu về ngôn ngữ được sử dụng bởi những người không nhận định mình trong phân loại giới tính nhị phân. Cuộc khảo sát, đã được tiến hành hàng năm kể từ năm 2015, nhằm bao quát một phạm vi rộng hơn các trải nghiệm và danh tính giới tính, bao gồm những người giới tính của họ thay đổi theo thời gian, biến đổi về mức độ, hoặc tồn tại ngoài phân loại nam/nữ. Nó phục vụ cộng đồng chuyển giới bằng cách thúc đẩy sự bao đồng và hiểu biết."
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Sayımı",
+      "description": "Cinsiyet Sayımı, cinsiyet ikiliğinin dışında kimlik belirlemeyen kişiler tarafından kullanılan dili hakkında veri toplayan yıllık bir anketidir. 2015'ten beri yıllık olarak yürütülen anket, zamanla değişen, yoğunluğu dalgalanan veya erkek/kadın ikiliği dışında var olan cinsiyet deneyimlerini ve kimliklerini kapsamayı hedefler. Sayım, kapsayıcılığı ve anlayışı teşvik ederek trans topluluğuna hizmet eder."
+    },
+    "ar-SA": {
+      "title": "تعداد الجنس",
+      "description": "تعداد الجنس هو استبيان سنوي يجمع البيانات حول اللغة المستخدمة من قبل الأشخاص الذين لا يتعرفون ضمن الثنائية الجنسية. الاستبيان، الذي أجري سنويا منذ عام 2015، يسعى إلى شمول مجموعة أوسع من تجارب وهويات الجنس، بما في ذلك الذين يتغير جنسهم على مر الزمن، أو يتذبذب في الكثافة، أو يوجد خارج ثنائية الذكور / الإناث. يخدم مجتمع المتحولين جنسيا من خلال تعزيز الشمولية والفهم."
+    },
+    "ru-RU": {
+      "title": "Перепись по половой принадлежности",
+      "description": "Перепись по половой принадлежности - это ежегодный опрос, который собирает данные о языке, используемом теми людьми, которые не определяют себя в рамках двоичной системы гендеров. Опрос, который проводится ежегодно с 2015 года, стремится охватывать более широкий спектр гендерных опытов и идентичностей, включая тех, чей гендер со временем меняется, колеблется по интенсивности или существует вне двоичной системы мужского / женского пола. Этот опрос служит сообществу трансгендеров, способствуя инклюзивности и пониманию."
+    },
+    "uk-UA": {
+      "title": "Перепис населення за статтю",
+      "description": "Перепис населення за статтю - це щорічне опитування, яке збирає дані про мову, яку використовують люди, які не ідентифікуються в межах гендерної бінарности. Опитування, яке проводиться щороку з 2015 року, прагне охопити ширший діапазон гендерних досвідів та ідентичностей, включаючи тих, чия стать змінюється з часом, коливається в інтенсивності або існує поза мужською/жіночою бінарністю. Він слугує трансгендерній спільноті, сприяючи включності та розумінню."
+    },
+    "ur-PK": {
+      "title": "جنسیتی مردم شماری",
+      "description": "جنسیتی مردم شماری ایک سالانہ سروے ہے جو جنسی دو حدی میں شناخت نہ کرنے والے لوگوں کے استعمال ہونے والی زبان کے بارے میں ڈیٹا اکٹھا کرتا ہے۔ یہ سروے، جو 2015 سے ہر سال ہوتا رہا ہے، جنسی تجربات اور شناخت کی بڑی حد تک شامل ہونے کی کوشش کرتا ہے، جن میں وہ لوگ بھی شامل ہیں جن کی جنسیت وقت کے ساتھ تبدیل ہوتی ہے، شدت میں اتار چڑھاو ہوتا ہے، یا مرد / عورت کے دو حدی سے باہر موجود ہوتی ہے۔ یہ خود کو جذباتی سماج کو فروغ دے کر خدمت کرتا ہے۔"
+    },
+    "hi-IN": {
+      "title": "लिंग जनसंख्या",
+      "description": "लिंग जनसंख्या एक वार्षिक सर्वेक्षण है जो उन लोगों द्वारा प्रयोग की जाने वाली भाषा के बारे में डेटा एकत्र करता है जो लिंग द्विभाजन के भीतर पहचान नहीं करते हैं। यह सर्वेक्षण, जो 2015 से हर साल किया जा रहा है, लिंग के व्यापकरूपण और पहचानों को, जिसमें समय के साथ लिंग का परिवर्तन, तीव्रता में उतार-चढ़ाव या नर/मादा द्विभाजन के बाहर अस्तित्व करने वाले लिंग शामिल होते हैं, दर्शाने की कोशिश करता है। यह ट्रांसजेंडर समुदाय की सेवा करता है जिसके माध्यम से समावेशन और समझ बढ़ाई जाती है।"
+    },
+    "bn-BD": {
+      "title": "লিঙ্গ জনসংখ্যা গণনা",
+      "description": "লিঙ্গ জনসংখ্যা গণনা হল একটি বার্ষিক জরিপ যা লিঙ্গ দ্বিতীয়তা মধ্যে পরিচয় দিতে না চাওয়া ব্যক্তিদের দ্বারা ব্যবহৃত ভাষার তথ্য সংগ্রহ করে। এই জরিপটি, যা ২০১৫ সাল থেকে প্রতি বছর পরিচালিত হয়ে চলেছে, লিঙ্গের একটি প্রশস্ত পরিসর উপস্থাপন করার চেষ্টা করে, যেখানে লিঙ্গ সময়ের সাথে পরিবর্তন হয়, তীব্রতায় কমবেশি হয়, অথবা পুরুষ/মহিলা দ্বিতীয়তার বাইরে থাকে। এটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সমবেদনশীলতা ও বোধ বাড়ানোর কর্ম প্রদর্শন করে।"
+    },
+    "mr-IN": {
+      "title": "लिंग सर्वेक्षण",
+      "description": "लिंग सर्वेक्षण ही तासभर असलेली सर्वेक्षण आहे जी लोकांचे वापरण्यात आलेल्या भाषेबद्दलचे डेटा गोळा करीत आहे, जे लिंग द्वंद्वामध्ये ओळखत नसतात. ही सर्वेक्षण, जी 2015 पासून प्रतिवर्षी केली जात आहे, अधिक विस्तृत लिंग अनुभव व ओळखांचा व्यापन करण्याचे प्रयत्न करते, त्यामध्ये त्यांचा लिंग वेळेनुसार बदलणारे, गाठीनुसार बदलणारे किंवा पुरुष / स्त्री द्वंद्वीत बाहेरचे असलेले समाविष्ट आहेत. त्या तरुण लैंगिक समुदायाच्या मदतीसाठी त्या समवेतनशीलता आणि समजून घेण्याची प्रोत्साहन देतात."
+    },
+    "te-IN": {
+      "title": "జెండర్ జనసేకరణ",
+      "description": "జెండర్ జనసేకరణ ఒక వార్షిక సమీక్ష అని, ఇది జెండర్ బైనరీలో గుర్తించకుండా ఉన్న వారిచే ఉపయోగించే భాష గురించి డేటాను సేకరిస్తుంది. ఈ సమీక్ష, అంతకు ముందు 2015 నుంచి ప్రతి సంవత్సరం నిర్వహించబడుతోంది, కలిగి ఉన్న జెండర్ అనుభవాలు మరియు అంతర్గత అలోచనలను, ఒక్క సమయంలో మారుతూ ఉన్నవారిలా లేదా తీవ్రత పెద్దదేగితే, లేదా మగ అలాంటి/స్త్రీల బైనరీ బయట ఉండటం వంటి వాటిని ఆవరించాలి. ఇది ట్రాన్స్జెండర్ సంఘానికి సమగ్రతను మరియు అర్థం చేస్తుంది."
+    },
+    "ta-IN": {
+      "title": "பாலினம் மதிப்பீடு",
+      "description": "பாலின இருப்புக்கு உள்ளே அடையாளம் காணாதவர்கள் பயன்படுத்தும் மொழியை பற்றிய தரவை கூடுதல் செய்வதாகும் பாலினம் மதிப்பீடு வருடாந்திரமான ஆய்வு. முதன்முதலில் 2015ஆம் ஆண்டுவில் நடத்தப்பட்டு வரும் இந்த ஆய்வு, காலத்தால் மாறுகின்ற பாலினம், அளவில் மாறுபாடுகளாக உள்ளது, அல்லது ஆண் / பெண் இருப்பினை விட வெளியே இருக்கும் பாலினத்தின் அனுபவத்தையும் அடையாளங்களையும், உள்ளடக்கிக் கொண்டுள்ளது. இது சேராதவர்களையும், உண்மையான அறிவையும் பராமரிக்கும் முறையில் மாறுபாடு உரிமையாளர் சமுதாயத்திற்கு சேவை செய்கிறது."
+    }
+  }
+}

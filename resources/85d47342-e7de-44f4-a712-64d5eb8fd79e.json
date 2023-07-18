@@ -1,0 +1,104 @@
+{
+  "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+  "slug": "trans-human-rights-ilga-world-releases-global-research",
+  "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+  "tags": [
+    "legal",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Trans human rights: ILGA World releases global research into legal gender recognition and criminalisation",
+      "description": "The third edition of the publication researches provisions which set out how trans and gender-diverse people can change their sex/gender marker and names on official identity documents (legal gender recognition), and also collects information on laws criminalising trans identities, both explicitly and de facto – looking at the situation for our communities in every region of the world."
+    },
+    "pt-PT": {
+      "title": "Direitos trans humanos: ILGA World divulga pesquisa global sobre reconhecimento legal de gênero e criminalização",
+      "description": "A terceira edição da publicação pesquisa as disposições que estabelecem como pessoas trans e de gênero diverso podem alterar seu marcador de sexo/gênero e nomes em documentos de identidade oficiais (reconhecimento legal de gênero), e também coleta informações sobre leis que criminalizam identidades trans, tanto explicitamente como de fato - analisando a situação para nossas comunidades em todas as regiões do mundo."
+    },
+    "es-ES": {
+      "title": "Derechos humanos trans: ILGA World publica una investigación global sobre el reconocimiento legal del género y la criminalización",
+      "description": "La tercera edición de la publicación investiga disposiciones que establecen cómo las personas trans y de género diverso pueden cambiar su marcador de sexo/género y nombres en documentos de identidad oficiales (reconocimiento legal del género), y también recopila información sobre leyes que criminalizan las identidades trans, tanto explícita como de facto, observando la situación para nuestras comunidades en cada región del mundo."
+    },
+    "fr-FR": {
+      "title": "Droits transgenres : ILGA World publie une recherche mondiale sur la reconnaissance légale du genre et la criminalisation",
+      "description": "La troisième édition de la publication étudie les dispositions qui déterminent comment les personnes trans et de diverses orientations sexuelles peuvent changer leur marqueur de sexe / genre et leurs noms sur les documents d'identité officiels (reconnaissance légale du genre), et recueille également des informations sur les lois criminalisant les identités trans, explicitement et de facto - en examinant la situation pour nos communautés dans toutes les régions du monde."
+    },
+    "zh-CN": {
+      "title": "跨性别人权：ILGA世界发布关于法定性别认可和刑事化的全球研究",
+      "description": "该刊的第三期研究了规定跨性别人群和性别多元化的人如何在官方身份证件上改变性别/性别标记和姓名（法定性别认可）的条款，并收集了关于刑事化跨性别身份的法律信息，无论是明文还是实际情况 - 针对我们社区在世界每个地区的情况进行考察。"
+    },
+    "sw-KE": {
+      "title": "Haki za binadamu za kubadilisha jinsia: ILGA World yatoa utafiti wa ulimwengu kuhusu kutambuliwa kisheria kwa jinsia na uhalifu",
+      "description": "Toleo la tatu la uchapishaji linafanya utafiti juu ya masharti ambayo yanaeleza jinsi watu wenye ujinsia na jinsia tofauti wanaweza kubadilisha alama / jina la jinsia kwenye hati za kitambulisho rasmi (kutambulika kisheria kwa jinsia), na pia kukusanya habari juu ya sheria zinazohalalisha utambulisho wa jinsia, wazi na kimsingi - kuangalia hali ya jamii zetu katika kila eneo la ulimwengu."
+    },
+    "tr-TR": {
+      "title": "Trans insan hakları: ILGA Dünya, yasal cinsiyet tanıma ve suçlamaya ilişkin küresel araştırmasını yayınlıyor",
+      "description": "Yayınlanan eserin üçüncü baskısı, trans ve cinsiyet çeşitliliği olan kişilerin resmi kimlik belgelerinde cinsiyet/sex işaretlerini ve isimlerini nasıl değiştirebileceklerini belirten düzenlemeleri araştırıyor ve ayrıca trans kimlikleri suç sayan yasalar hakkında bilgi topluyor, hem açıkça hem de fiilen - dünyanın her bölgesindeki topluluklarımız için durumu inceliyor."
+    },
+    "id-ID": {
+      "title": "Hak-hak transuman: ILGA World merilis penelitian global tentang pengakuan gender hukum dan kriminalisasi",
+      "description": "Edisi ketiga dari publikasi ini meneliti ketentuan yang menetapkan bagaimana orang trans dan beragam gender dapat mengubah penanda jenis kelamin/gender dan nama mereka pada dokumen identitas resmi (pengakuan gender hukum), dan juga mengumpulkan informasi tentang hukum yang mengkriminalisasi identitas trans, baik secara eksplisit maupun de facto - melihat situasi untuk komunitas kami di setiap wilayah dunia."
+    },
+    "ru-RU": {
+      "title": "Права трансгендеров: ILGA World публикует глобальное исследование по узнаваемости половой принадлежности и уголовной ответственности",
+      "description": "Третье издание публикации исследует положения, которые определяют, как трансгендерные и гендерно-разнообразные люди могут изменить указатель пола и имена в официальных документах, удостоверяющих личность (признание законного пола), а также собирает информацию о законах, уголовно наказывающих трансгендерные личности, как явно, так и фактически - рассматривая ситуацию в наших сообществах во всех регионах мира."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダーの人権：ILGAワールドが法的な性別認識と犯罪化についての世界的な研究を公開",
+      "description": "この出版物の第三版では、トランスジェンダーや性別多様性のある人々が公式の身分証明書上で自分の性別/性別マーカーと名前をいかに変更できるかを規定する事項（法的性別認識）を調査し、また、トランスジェンダーのアイデンティティを犯罪化する法律について、明示的にも事実上も情報を収集しています - 世界のすべての地域での私たちのコミュニティの状況を見ています。"
+    },
+    "de-DE": {
+      "title": "Trans Menschenrechte: ILGA World veröffentlicht globale Forschung zur rechtlichen Anerkennung des Geschlechts und Kriminalisierung",
+      "description": "Die dritte Ausgabe der Publikation erforscht Bestimmungen, welche festlegen, wie transgeschlechtliche und geschlechtsvielfältige Menschen ihren Geschlechts-/Gendermarker und Namen auf offiziellen Identitätsdokumenten ändern können (rechtliche Anerkennung des Geschlechts) und sammelt zudem Informationen über Gesetze, die trans Identitäten kriminalisieren, sowohl explizit als auch de facto - und betrachtet die Situation für unsere Gemeinschaften in jeder Region der Welt."
+    },
+    "vi-VN": {
+      "title": "Quyền con người cho người chuyển giới: ILGA World phát hành nghiên cứu toàn cầu về nhận biết giới tính pháp lý và hình sự hóa",
+      "description": "Phiên bản thứ ba của ấn phẩm nghiên cứu về các điều khoản quy định cách thức mà người chuyển giới và người có đa dạng giới tính có thể thay đổi chỉ dẫn giọng/ giới tính và tên trên giấy tờ tùy thân chính thức (nhận biết giới tính pháp lý), và cũng thu thập thông tin về các luật hình sự hóa bản sắc chuyển giới, cả hai mặt vô điều kiện và thực tế - nhìn vào tình hình cho cộng đồng chúng tại mọi khu vực trên thế giới."
+    },
+    "ko-KR": {
+      "title": "트랜스 인권: ILGA World, 법적 성별 인식 및 범죄화에 대한 전세계적 연구 발표",
+      "description": "이 출판물의 세 번째 판은 트랜스 성 및 성 다양성이 있는 사람들이 공식적인 신원증명서에 자신의 성/성별 표시와 이름을 변경할 수 있는 방법을 정한 규정을 연구하고, 트랜스 아이덴티티를 명시적으로 또는 사실상 범죄화하는 법률에 대한 정보도 수집합니다 - 세계 각 지역에서 우리 커뮤니티의 상황을 살펴봅니다."
+    },
+    "uk-UA": {
+      "title": "Права трансгендерних людей: ILGA World представляє глобальне дослідження визнання гендеру за законом та криміналізації",
+      "description": "У третьому виданні публікації досліджуються положення, які визначають, як трансгендерні й гендерно-різноманітні люди можуть змінити свій статьовий/гендерний позначку та імена в офіційних документах ідентичності (визнання гендеру за законом), а також збирає інформацію про закони, що криміналізують трансідентичність, як явно, так і фактично - розглядаючи ситуацію для наших громад у всіх регіонах світу."
+    },
+    "ar-SA": {
+      "title": "حقوق الخروج عن النمط الجنسي الطبيعي: منظمة العالم للمثليين والمثليات تطلق بحثا عالميا حول الاعتراف القانوني بالجنس والتجريم",
+      "description": "الطبعة الثالثة من النشرة تبحث حول الأحكام التي تحدد كيف يستطيع الأشخاص الذين يخرجون عن النمط الجنسي الطبيعي والأشخاص ذوو التنوع الجنسي تغيير علامات الجنس / الجندر والأسماء على الوثائق الرسمية للهوية (الاعتراف القانوني بالجنس)، وكذلك تجمع المعلومات حول القوانين التي تجرم هويات الخروج عن النمط الجنسي الطبيعي، سواء صراحة أو على وجه الامر الواقع - النظر في الوضع بالنسبة لمجتمعاتنا في كل منطقة من مناطق العالم."
+    },
+    "ur-PK": {
+      "title": "ہم جینس پرست حقوق: ILGA World نے قانونی جنسی تسلیم کا عالمی تحقیقات جاری کیا اور جرم کردہ کرنے کا جرم",
+      "description": "منشور کی تیسری ایڈیشن میں ہم جینس پرست اور جنسی تنوع والے افراد اپنے جنس / جنسی نشان اور ناموں کو رسمی شناختی دستاویزات (قانونی جنسی تسلیم) پر کس طرح تبدیل کرسکتے ہیں یہ معاملہ تلاش کیا ہے، اور ہم جینس پرست شناختوں کو جرم کرنے کے لئے قوانین کی معلومات بھی اکٹھی کرتی ہے، بالکل صریح طور پر اور حقیقت میں - دنیا کے ہر خطے میں ہمارے کمیونٹیوں کے لیے صورتحال کا جائزہ لیتے ہوئے۔"
+    },
+    "mr-IN": {
+      "title": "ट्रान्स मानवी हक्क: ILGA वर्ल्डमध्ये सांघिक लिंग पहचान आणि गुन्हेगारीसाठी वैश्विक संशोधन सोडले जाते",
+      "description": "प्रकाशनाच्या तिसर्या आवृत्तीने ते नियम अध्ययन केले आहेत ज्यामुळे ट्रान्स आणि लिंग-विविध लोक त्यांच्या लिंग / लिंग चिन्ह आणि नावांना अधिकृत ओळख पत्रांवर बदलू शकतात (कायदेशीर लिंग पहचान), आणि म्हणजेच ट्रान्स ओळखांना खाली पाडणार्‍या कायद्यांची माहिती संग्रहित केली आहे, व्यक्त पणे आणि de facto - आमच्या समुदायांच्या स्थितीवर जगाच्या प्रत्येक प्रदेशाचा मुलाखत घेतला आहे."
+    },
+    "ta-IN": {
+      "title": "மாற்று மனித உரிமைகள்: ILGA உலகம் சட்ட பாலினத்தை அறிதல் மற்றும் குற்றமாக்கல் என்ற ஆணையின் உலக ஆராய்ச்சியை வரைவாக்குகிறது",
+      "description": "வெளியீட்டின் மூன்றாவது பதிப்பு அவர்கள் அடையாள ஆவணங்களில் (சட்ட பால அறிதல்) அவர்கள் பால் / பாலின குறிச்சியையும் பெயர்களையும் மாற்ற முறையான விதிகளைக் ஆராய்ச்சி செய்கின்றன, மற்றும் மாற்று அடையாளங்களை எப்போதும் குற்றமாக்கும் சட்டங்களுக்கான தகவல்களையும் ஏற்கின்றன - உலகத் தொகுதிகள் முழுவதும் எமது சமூகங்களின் நிலைமையைக் கவனிக்கின்றன."
+    },
+    "bn-BD": {
+      "title": "ট্রান্স মানবাধিকার: ILGA বিশ্ব আইনী লিঙ্গ সনাক্তকরণ এবং আপরাধিকরণ সম্পর্কে বৈশ্বিক গবেষণা জারি করে",
+      "description": "প্রকাশনার তৃতীয় সংস্করণে গবেষণা করা হয়েছে যে প্রাবধানগুলি নির্ধারণ করে যে ট্রান্স এবং লিঙ্গ-বৈচিত্রিপূর্ণ মানুষগুলি তাদের সেক্স/লিঙ্গ চিহ্নিত করা এবং নাম পরিবর্তন করতে পারে অফিসিয়াল পরিচয় দলিলে মাথায় (আইনী লিঙ্গ সনাক্তকরণ), এবং এছাড়াও তাদের আইন জনিত ট্রান্স পরিচিতির উপর আপরাধিকরণ তথ্য সংগ্রহ করে – বিশ্বের প্রতিটি অঞ্চলে আমাদের সম্প্রদায়ের জন্য পরিস্থিতি পর্যবেক্ষণ করে।"
+    },
+    "hi-IN": {
+      "title": "ट्रांस मानव अधिकार: ILGA World ने वैध लिंग पहचान और अपराधीकरण के विश्वव्यापी अनुसंधान को जारी किया",
+      "description": "प्रकाशन के तीसरे संस्करण में, यह कहा गया है कि ट्रांस और लिंग-विविधता वाले लोग अपने लिंग/लिंग चिह्न और नामों को औपचारिक पहचान पत्रों (वैध लिंग पहचान) पर कैसे बदल सकते हैं, और इस तरह की जानकारी भी इकट्ठा की जाती है, जिसमें ट्रांस पहचान को अपराधीकरण करने वाले कानूनों की जानकारी दी गई है, चाहे वह स्पष्ट रूप से हो या तथ्य संगत हो - हमारे समुदायों के लिए दुनिया के हर क्षेत्र में स्थिति को देखते हुए।"
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్ హ్యూమన్ హక్కులు: ILGA ప్రపంచ చట్టపు లింగ గుర్తించే మరియు క్రిమినలైజేషన్ అనే గ్లోబల్ పరిశోధనను విడుదల చేస్తుంది",
+      "description": "ప్రచురణ యొక్క మూడో ఎడిషన్, ట్రాన్స్ మరియు జెండర్-డివెర్స్ ప్రజలు వారి సెక్స్/జెండర్ మార్కర్ మరియు పేర్లను అధికారిక గుర్తింపు పత్రాల మీద ఎలా మార్చుకోవాలో (చట్టపు లింగ గుర్తింపు) మరియు ట్రాన్స్ గుర్తింపులను క్రిమినలైజే చేసే చట్టాల పై సమాచారాన్ని సేకరిస్తుంది, ఇది ప్రత్యక్షంగా మరియు డి ఫాక్టోగా - ప్రపంచం యొక్క ప్రతి ప్రాంతంలో మా కమ్యూనిటీల పరిస్థితిని చూస్తుంది."
+    }
+  }
+}

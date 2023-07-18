@@ -1,0 +1,28 @@
+{
+  "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+  "title": "TransAdvice Peer based transgender support chat. Live Support Chat",
+  "description": "TransAdvice is a community driven network offering a safe and open space for support and resources for members of the transgender and non-binary communities, as well as their family members, significant others, friends, and allies.",
+  "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+  "externalUrl": "https://transadvice.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "mental-health",
+    "support-groups",
+    "community-stories",
+    "discord-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/transadvice",
+    "tumblrUrl": "http://transadvice.tumblr.com/"
+  }
+}

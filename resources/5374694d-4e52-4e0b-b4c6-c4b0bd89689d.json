@@ -1,0 +1,112 @@
+{
+  "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+  "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+  "externalUrl": "https://transadvice.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "mental-health",
+    "support-groups",
+    "community-stories",
+    "discord-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/transadvice",
+    "tumblrUrl": "http://transadvice.tumblr.com/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "TransAdvice Peer based transgender support chat. Live Support Chat",
+      "description": "TransAdvice is a community driven network offering a safe and open space for support and resources for members of the transgender and non-binary communities, as well as their family members, significant others, friends, and allies."
+    },
+    "fr-FR": {
+      "title": "TransAdvice Chat de soutien pour transgenres basé sur les pairs. Chat de soutien en direct",
+      "description": "TransAdvice est un réseau dirigé par la communauté offrant un espace sûr et ouvert pour le soutien et les ressources pour les membres des communautés transgenres et non-binaires, ainsi que leurs membres de famille, leurs proches, leurs amis et leurs alliés."
+    },
+    "id-ID": {
+      "title": "Obrolan dukungan transgender yang berdasarkan pada peer dari TransAdvice. Live Support Chat",
+      "description": "TransAdvice adalah jaringan yang didorong oleh komunitas yang menawarkan ruang aman dan terbuka untuk dukungan dan sumber daya bagi anggota komunitas transgender dan non-binari, serta anggota keluarga mereka, pasangan yang berarti, teman, dan sekutu."
+    },
+    "tr-TR": {
+      "title": "TransAdvice Akran temelli transseksüel destek sohbeti. Canlı Destek Sohbeti",
+      "description": "TransAdvice, transseksüel ve non-binary topluluklarının üyeleri için, ayrıca aile üyeleri, önemli diğerleri, arkadaşlar ve müttefikleri için destek ve kaynaklar sağlayan güvenli ve açık bir alan sunan bir topluluk tarafından yönlendirilen bir ağdır."
+    },
+    "de-DE": {
+      "title": "TransAdvice Peer basierter Transgender-Support-Chat. Live-Support-Chat",
+      "description": "TransAdvice ist ein von der Gemeinschaft getriebenes Netzwerk, das einen sicheren und offenen Raum für Unterstützung und Ressourcen für Mitglieder der Transgender- und Nicht-Binären-Gemeinschaften bietet, sowie für ihre Familienmitglieder, Lebenspartner, Freunde und Verbündete."
+    },
+    "es-ES": {
+      "title": "TransAdvice Chat de soporte en vivo basado en pares para personas transgénero",
+      "description": "TransAdvice es una red impulsada por la comunidad que ofrece un espacio seguro y abierto para soporte y recursos para miembros de las comunidades transgénero y no binarias, así como para sus familiares, parejas, amigos y aliados."
+    },
+    "pt-PT": {
+      "title": "TransAdvice Chat de suporte transgênero baseado em pares. Chat de Suporte Ao Vivo",
+      "description": "TransAdvice é uma rede guiada pela comunidade que oferece um espaço seguro e aberto para suporte e recursos para membros das comunidades transgênero e não-binária, bem como para seus familiares, parceiros, amigos e aliados."
+    },
+    "zh-CN": {
+      "title": "TransAdvice 基于同伴的跨性别支持聊天。实时支持聊天",
+      "description": "TransAdvice 是一个由社区驱动的网络，为跨性别和非二元性别群体的成员以及他们的家庭成员、重要的他人、朋友和盟友提供一个安全和开放的支持和资源空间。"
+    },
+    "sw-KE": {
+      "title": "TransAdvice mazungumzo ya msaada kwa transgender kwa msingi wa rika. Mazungumzo ya Msaada Live",
+      "description": "TransAdvice ni mtandao unaosukumwa na jumuiya unaotoa nafasi salama na wazi kwa msaada na rasilimali kwa wanachama wa jamii za transgender na wasio na binary, pamoja na wanafamilia zao, wengine muhimu, marafiki, na washirika."
+    },
+    "ja-JP": {
+      "title": "TransAdvice ピアベースのトランスジェンダー支援チャット。ライブサポートチャット",
+      "description": "TransAdviceは、トランスジェンダーやノンバイナリーのコミュニティのメンバー、およびその家族、パートナー、友人、協力者に対するサポートとリソースを提供する安全でオープンなスペースを提供するコミュニティ主導のネットワークです。"
+    },
+    "ko-KR": {
+      "title": "TransAdvice 피어 기반 트랜스젠더 지원 채팅. 실시간 지원 채팅",
+      "description": "TransAdvice는 트랜스젠더 및 비이진성 커뮤니티의 구성원들을 위한 안전하고 개방된 공간을 제공하는 커뮤니티 주도 네트워크이며, 그들의 가족 구성원들, 중요한 다른 사람들, 친구들 그리고 동맹자들을 위한 지원과 자원을 제공합니다."
+    },
+    "ru-RU": {
+      "title": "TransAdvice: чат для поддержки трансгендеров на основе общения со сверстниками. Чат в реальном времени",
+      "description": "TransAdvice - это сообщество, ведомое участниками сети, предлагающее безопасное и открытое пространство для поддержки и ресурсов для членов трансгендерного и небинарного сообществ, а также для их семей, значимых других, друзей и союзников."
+    },
+    "vi-VN": {
+      "title": "TransAdvice Hỗ trợ trò chuyện trực tiếp dựa trên đồng cảm của người chuyển giới",
+      "description": "TransAdvice là một mạng lưới được cộng đồng thúc đẩy, cung cấp một không gian an toàn và mở với sự hỗ trợ và nguồn lực cho các thành viên của cộng đồng chuyển giới và không nhị phân, cũng như cho gia đình của họ, người yêu/khác giới, bạn bè và đồng minh."
+    },
+    "uk-UA": {
+      "title": "TransAdvice Чат з опорою на трансгендерну підтримку однолітків. Чат у режимі реального часу",
+      "description": "TransAdvice - це мережа, граюча роль суспільства, що пропонує безпечний та відкритий простір для підтримки та ресурсів для членів трансгендерної та не-бінарної спільноти, а також для їхніх родичів, значущих інших, друзів та союзників."
+    },
+    "ar-SA": {
+      "title": "الدردشة الداعمة للمتحولين جنسيا بناءا على أقرانهم من TransAdvice. الدعم المباشر عبر الدردشة",
+      "description": "TransAdvice هي شبكة مدعومة من المجتمع تقدم مساحة آمنة ومفتوحة للدعم والموارد لأعضاء المجتمعات المتحولة جنسيا وغير ثنائية الجنس، بالإضافة إلى أفراد عائلاتهم، والآخرين المهمين لهم، والأصدقاء، والحلفاء."
+    },
+    "hi-IN": {
+      "title": "TransAdvice सहकर्मी आधारित ट्रांसजेंडर समर्थन चैट। लाइव सपोर्ट चैट",
+      "description": "TransAdvice एक समुदाय आधारित नेटवर्क है जो ट्रांसजेंडर और गैर -द्विबिन्दु समुदायों के सदस्यों के लिए सुरक्षित और खुला स्थल प्रदान करता है, साथ ही उनके परिवार के सदस्यों, महत्वपूर्ण अन्य, दोस्तों, और सहयोगियों के लिए सहायता और संसाधन प्रदान करता है।"
+    },
+    "ur-PK": {
+      "title": "ٹرانس ایڈوائس ساتھی بنیادی ٹرانس جنسیتی سپورٹ چیٹ۔ لائیو سپورٹ چیٹ",
+      "description": "ٹرانس ایڈوائس ایک برادری کا نیٹ ورک ہے جو ٹرانس جنسیتی اور غیر بائنری برادریوں کے ارکان کے لیے ایک محفوظ اور کھلی جگہ فراہم کرتا ہے، ساتھ ہی ان کے خاندانی ارکان، معنی خیز دیگر افراد، دوستوں، اور حامیوں کے لیے سپورٹ اور وسائل فراہم کرتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "TransAdvice समलिंगी समर्थन चॅट आधारित पर इतरांना. लाईव समर्थन चॅट",
+      "description": "TransAdvice ही एक समुदाय आधारीत नेटवर्क आहे जी समलिंगी आणि गैर-बायनरी समुदायांच्या सदस्यांसाठी, तसेच त्यांच्या कुटुंबीयांसाठी, महत्त्वाच्या इतरांसाठी, मित्रांसाठी आणि मित्रांसाठी सुरक्षित आणि मुक्त स्थळ प्रदान करते."
+    },
+    "ta-IN": {
+      "title": "TransAdvice ஆதரவு அலப்பரத்தை அடிப்படையாக்குகிறது. நேரடி ஆதரவு அலப்பரம்",
+      "description": "TransAdvice ஒரு சமூக இயக்கத்தை அடிப்படையாக்கிய நேட்வொர்க், சுவாரஸ்யமானதை வேலையாடாத டிரான்ஸ்ஜென்டர் மற்றும் மாற்றுத்தன்மை மேலாண்மைக்கான உடன்படு மற்றும் வளர்ச்சி வளங்குகின்றது, அவரது குடும்பத்தார், முக்கியமான பிறர், நண்பர்கள், மற்றும் கூட்டணிகள்."
+    },
+    "bn-BD": {
+      "title": "TransAdvice পীর ভিত্তিক ট্রান্সজেন্ডার সমর্থন চ্যাট। লাইভ সাপোর্ট চ্যাট",
+      "description": "TransAdvice একটি সম্প্রদায় নির্দেশিত নেটওয়ার্ক যা ট্রান্সজেন্ডার এবং নন-বাইনারি সম্প্রদায়ের সদস্যদের জন্য, এবং তাদের পরিবারের সদস্য, গুরুত্বপূর্ণ অন্যেরা, বন্ধু এবং অনুমোদনকারীদের জন্য নিরাপদ এবং খোলা স্থানের সমর্থন এবং সম্পদের অফার করে।"
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్‌యాడ్వైజ్ పీర్ బేస్డ్ ట్రాన్స్‌జెండర్ మద్దతు చాట్. లైవ్ మద్దతు చాట్",
+      "description": "ట్రాన్స్యాడ్వైజ్ ఓ సముదాయ ప్రేరణ నెట్వర్క్ మరియు దీనికి సంబంధించిన పురుష మరియు మహిళా సముదాయాల సభ్యులకు మరియు అనిశ్చిత స్థాయి కమ్మునిటీల సభ్యులకు, వారి కుటుంబ సభ్యులకు, గురువులకు, మిత్రులకు మరియు సోదారులకు మద్దతు మరియు వనరుల కోసం సురక్షిత మరియు తెరవేన స్థలం అందిస్తుంది."
+    }
+  }
+}

@@ -182,6 +182,29 @@
     "description": "La Déclaration de Stuttgarter souligne l'importance du traitement respectueux des personnes transgenres et intersexes. Elle souligne l'importance des droits de l'homme dans les services médicaux, psychothérapeutiques, de conseil et de soutien pour les individus transgenres et intersexes. Développée par des médecins, des psychothérapeutes, des militants des droits de l'homme et des individus concernés, elle souligne le droit de déterminer son propre genre et l'obligation pour les traitements médicaux de respecter cette auto-détermination."
   },
   {
+    "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+    "slug": "lavender-rights-project",
+    "externalUrl": "https://www.lavenderrightsproject.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 639-7955",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6139026,
+      -122.3201635
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Projet des Droits de Lavande",
+    "description": "Le Projet des Droits de Lavande accroît le pouvoir, l'autonomie et le leadership de la communauté intersexuelle et diversifiée sur le plan de genre de la communauté noire à travers des services sociaux et juridiques intersectionnels. Il fournit une défense des politiques de changement social et vital, des soins complets et des services juridiques aux individus LGBTQ+, avec un accent particulier sur le soutien des communautés trans noires."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -358,6 +381,39 @@
     },
     "title": "Youth Eastside Services",
     "description": "Youth Eastside Services (YES) est une organisation à but non lucratif qui fournit des services complets de santé mentale et de lutte contre l'abus de substances aux jeunes et à leurs familles, indépendamment de leur capacité à payer. Situé à Washington, ses services couvrent la consultation, la thérapie, le soutien pour la communauté LGBTQ+ et divers programmes basés dans la communauté."
+  },
+  {
+    "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+    "slug": "ingersoll-gender-center",
+    "externalUrl": "https://ingersollgendercenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 849-7859",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6138987,
+      -122.3203007
+    ],
+    "email": "info@ingersollgendercenter.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+      "twitterUrl": "https://twitter.com/IngersollGender"
+    },
+    "title": "Centre de genre Ingersoll",
+    "description": "Une organisation par et pour les personnes transgenres et non conformes au genre fournissant un soutien mutuel par le biais de groupes de soutien dirigés par des pairs, en plaidant pour la navigation des ressources, l'organisation communautaire et l'éducation - tout cela dans la poursuite de notre autodétermination collective."
   },
   {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
@@ -642,6 +698,37 @@
     "socialMedia": null,
     "title": "Meridian",
     "description": "Meridian soutient et défend la communauté LGBTIQA+ depuis plus de 40 ans, offrant une gamme de services et de programmes dans toute la région de Canberra tels que des services VIH, des services de bien-être, des programmes de sensibilisation pour les travailleurs du sexe et plus encore."
+  },
+  {
+    "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+    "slug": "transponder",
+    "externalUrl": "https://transponder.community/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1185 Arthur St, Eugene, OR 97402, USA",
+    "phoneNumber": "541-321-0872",
+    "country": "US",
+    "provinceOrState": "OR",
+    "city": "Eugene",
+    "county": "Lane County",
+    "latLng": [
+      44.0470325,
+      -123.1244504
+    ],
+    "email": "info@transponderoregon.org",
+    "socialMedia": null,
+    "title": "TransPonder",
+    "description": "TransPonder est une organisation à but non lucratif fondée et dirigée par des personnes transgenres à Eugene, Oregon qui offre du soutien, des ressources, et de l'éducation pour la communauté trans/genre-diverse et nos alliés. Ils proposent diverses ressources et événements tels que des cours de yoga pour les personnes aux genres divers, le Club de lecture Transponder, et des groupes de soutien."
   },
   {
     "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
@@ -1064,6 +1151,32 @@
     "description": "Le Sylvia Rivera Law Project travaille pour garantir que toutes les personnes sont libres de déterminer leur identité et leur expression de genre, quel que soit leur revenu ou leur race, et sans subir de harcèlement, de discrimination ou de violence. SRLP fournit une aide juridique, organise des campagnes, conduit des formations et dirige un Comité consultatif des prisonniers. La participation communautaire est encouragée par des dons, du bénévolat et l'adhésion."
   },
   {
+    "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+    "slug": "trans-sask-resources",
+    "externalUrl": "https://www.transsask.ca/resources/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transsask.ca",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransSask",
+      "facebookUrl": "https://www.facebook.com/TransSask",
+      "instagramUrl": "https://www.instagram.com/TransSask"
+    },
+    "title": "Ressources Trans Sask",
+    "description": "Trans Sask est une organisation à but non lucratif qui fournit un soutien et agit comme un réseau de ressources pour les personnes identifiées comme transgenres, queers en matière de genre, intersexuées et non conformes au genre, leurs conjoints, famille, amis et alliés. Les ressources proposées comprennent l'accès à des soins de santé affirmatifs, un guide pour le changement de nom et un guide médiatique inclusif pour les trans."
+  },
+  {
     "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
     "slug": "allentown-womens-center",
     "externalUrl": "https://allentownwomenscenter.com/",
@@ -1166,6 +1279,34 @@
     "socialMedia": null,
     "title": "Comment se faire une prothèse FTM avec des chaussettes | DIY Packer",
     "description": "Ce post de blog offre un guide complet sur comment faire une prothèse maison en utilisant des chaussettes et d'autres matériaux abordables. Inclut également des alternatives DIY pour d'autres prothèses FTM pour aider les individus transmasculins à se sentir plus à l'aise et authentiques."
+  },
+  {
+    "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+    "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+    "externalUrl": "https://transadvice.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "discord-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/transadvice",
+      "tumblrUrl": "http://transadvice.tumblr.com/"
+    },
+    "title": "TransAdvice Chat de soutien pour transgenres basé sur les pairs. Chat de soutien en direct",
+    "description": "TransAdvice est un réseau dirigé par la communauté offrant un espace sûr et ouvert pour le soutien et les ressources pour les membres des communautés transgenres et non-binaires, ainsi que leurs membres de famille, leurs proches, leurs amis et leurs alliés."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1408,6 +1549,30 @@
     },
     "title": "Centre communautaire LGBTQ d'Oakland",
     "description": "Le tout premier centre de service communautaire LGBTQ à but non lucratif 501c3 de Oakland, pour toutes les âges et toutes les inclusivités. Les services proposés incluent des groupes de soutien, un soutien en santé mentale, une assistance au logement, un programme pour jeunes, une clinique juridique, une banque alimentaire, etc. Des programmes spéciaux sont également organisés pour les personnes âgées LGBTQ+ et les membres de la communauté transgenre."
+  },
+  {
+    "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+    "slug": "gender-census",
+    "externalUrl": "https://www.gendercensus.com/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "hello@gendercensus.com",
+    "socialMedia": {
+      "tumblrUrl": "https://gendercensus.tumblr.com/",
+      "mastodonUrl": "https://mastodon gendercensus.com/",
+      "patreonUrl": "https://www.patreon.com/gendercensus"
+    },
+    "title": "Recensement de Genre",
+    "description": "Le Recensement de Genre est une enquête annuelle qui collecte des données sur le langage utilisé par les personnes qui ne s'identifient pas au sein du binaire de genre. L'enquête, qui a été menée annuellement depuis 2015, cherche à englober une plus large gamme d'expériences et d'identités de genre, y compris celles dont le genre change au fil du temps, fluctue en intensité, ou existe en dehors du binaire masculin/féminin. Il sert la communauté transgenre en favorisant l'inclusivité et la compréhension."
   },
   {
     "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
@@ -1753,6 +1918,26 @@
     "description": "Le TLDEF s'engage à mettre fin à la discrimination basée sur l'identité et l'expression de genre et à réaliser l'égalité pour les personnes transgenres grâce à l'éducation publique, les procès-test, les services juridiques directs et les efforts de politique publique. Ils fournissent divers services comme le projet de changement de nom, les litiges d'impact et le projet de santé trans. Il fournit également des mises à jour sur les questions juridiques connexes affectant la communauté transgenre."
   },
   {
+    "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+    "slug": "trans-human-rights-ilga-world-releases-global-research",
+    "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Droits transgenres : ILGA World publie une recherche mondiale sur la reconnaissance légale du genre et la criminalisation",
+    "description": "La troisième édition de la publication étudie les dispositions qui déterminent comment les personnes trans et de diverses orientations sexuelles peuvent changer leur marqueur de sexe / genre et leurs noms sur les documents d'identité officiels (reconnaissance légale du genre), et recueille également des informations sur les lois criminalisant les identités trans, explicitement et de facto - en examinant la situation pour nos communautés dans toutes les régions du monde."
+  },
+  {
     "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
     "slug": "gender-justice-league",
     "externalUrl": "https://www.genderjusticeleague.org/",
@@ -1972,6 +2157,78 @@
     "description": "Le Centre de Connaissance et de Soin pour la Dysphorie de genre à Amsterdam UMC se spécialise dans la fourniture de traitement médical et de soutien psychologique aux personnes qui ressentent que leur genre de naissance ne correspond pas à leur identité. Le centre embrasse la diversité individuelle, adapte ses services aux besoins personnels et est reconnu internationalement pour son expertise dans le traitement de l'incongruence de genre. Il mène également des recherches pour améliorer la compréhension et le traitement des personnes transgenres et propose une formation aux nouveaux professionnels de la santé."
   },
   {
+    "id": "944ced3e-e26f-48c3-bc28-7e0c78410698",
+    "slug": "trans-rights-map-2022-reveals-slow-comeback-of-progress-on-trans-rights",
+    "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "phoneNumber": null,
+    "address": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "La carte des droits trans 2022 révèle un retour progressif des avancées sur les droits des trans",
+    "description": "Ce rapport de TGEU montre le progrès et la régression dans les droits légaux des personnes trans en Europe et en Asie centrale. Parmi d'autres découvertes, il montre un affaiblissement dans des domaines tels que l'asile, le discours de haine et les lois sur l'égalité, mais des progrès dans des domaines comme la reconnaissance juridique du genre et les protections contre la discrimination."
+  },
+  {
+    "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+    "slug": "facial-feminization-surgery-procedures",
+    "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+    "tags": [
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+    "phoneNumber": null,
+    "country": "BE",
+    "provinceOrState": "Vlaams Gewest",
+    "city": "Antwerpen",
+    "county": "AN",
+    "latLng": [
+      51.1787102,
+      4.430423300000001
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+    },
+    "town": "Berchem",
+    "title": "Procédures de Chirurgie de Féminisation du Visage",
+    "description": "La clinique 2pass offre une variété de procédures chirurgicales pour aider les femmes transgenres dans leur transition. Celles-ci incluent les Chirurgies de Féminisation du Visage et du Corps, l'Épilation Permanente et les traitements de Transplantation de Cheveux. Cette ressource fournit des informations détaillées sur chaque procédure FFS et aide à guider les femmes trans dans la prise des bonnes décisions pour leur parcours."
+  },
+  {
+    "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+    "slug": "lambert-house",
+    "externalUrl": "https://www.lamberthouse.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+    "phoneNumber": "206.322.2515",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.61818580000001,
+      -122.3124183
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Maison Lambert",
+    "description": "La Maison Lambert habilite les jeunes lesbiennes, gays, bisexuels, transgenres et en questionnement grâce au développement de compétences de leadership, sociales et de vie. C'est un espace sûr pour les jeunes LGBTQ âgés de 10 à 22 ans, offrant plus de 30 programmes, activités, ressources et services annuels et continus différents. Son environnement de soutien convient aux jeunes pour se connecter et apprendre les uns des autres."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -2183,6 +2440,30 @@
     "description": "Le Vestiaire des Pronoms offre un espace en ligne où les individus peuvent tester et explorer différents ensembles de pronoms pour voir ceux qui leur conviennent le mieux. Le site facilite la prise de décision plus facile dans la sélection des pronoms pour la communauté transgenre, leur permettant de voir à quoi différents pronoms pourraient ressembler dans différents contextes."
   },
   {
+    "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+    "slug": "queer-sex-ed-podcast",
+    "externalUrl": "https://www.queersexed.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "queersexed@gmail.com",
+    "socialMedia": {
+      "patreonUrl": "https://www.patreon.com/queersexed",
+      "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+      "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+    },
+    "title": "Podcast sur l'éducation sexuelle Queer",
+    "description": "Une série de podcasts qui vise à 'queer' l'éducation sexuelle afin d'inclure intentionnellement les récits et les expériences des personnes lesbiennes, gays, bisexuelles, transgenres, queer de genre, fluides de genre, agenres, polyamoureuses, asexuées, personnes handicapées et plus encore. L'émission aborde le manque d'éducation sexuelle appropriée et de représentation médiatique pour ces communautés, et cherche à combattre les stigmates sociaux associés."
+  },
+  {
     "id": "aac7385e-58e6-4839-be0e-b637b1021437",
     "slug": "bradbury-sullivan-lgbt-community-center",
     "externalUrl": "https://www.bradburysullivancenter.org/",
@@ -2229,6 +2510,39 @@
     },
     "title": "Un lieu pour Marsha",
     "description": "Un place pour Marsha est l'un des nombreux projets de démarrage visant à aider les personnes transgenres et leurs familles dans des États de plus en plus dangereux, à un endroit plus sûr. APFM a commencé son voyage en mars 2023 en réaction à la montée de la législation anti-trans à travers la nation. APFM se concentre maintenant sur l'appariement des réfugiés des États rouges comme colocataires, gérant soigneusement un ménage à la fois."
+  },
+  {
+    "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+    "slug": "outsaskatoon-support-for-2slgbtq-community",
+    "externalUrl": "https://www.outsaskatoon.ca/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+    "phoneNumber": "1-306-665-1224",
+    "country": "CA",
+    "provinceOrState": "SK",
+    "city": "Saskatoon",
+    "latLng": [
+      52.1271613,
+      -106.673858
+    ],
+    "email": "hello@outsaskatoon.ca",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+      "twitterUrl": "https://twitter.com/OUTSaskatoon",
+      "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+    },
+    "title": "OUTSaskatoon: Soutien pour la communauté 2SLGBTQ",
+    "description": "OUTSaskatoon est un centre communautaire et un fournisseur de services pour la communauté 2SLGBTQ de Saskatoon et des environs. Ils fournissent des services de soutien, des logements pour jeunes, et des services d'éducation et de recherche à travers une approche de réduction des méfaits, informée culturellement, en quête d'équité et basée sur la communauté. Ils offrent des services de conseil et de soutien par les pairs, des logements pour jeunes 2SLGBTQ (Pride Home), des ateliers et des formations, et des cliniques de santé sexuelle."
   },
   {
     "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
@@ -2615,6 +2929,29 @@
     "description": "Le Centre de Liberté propose une large gamme de services de soutien pour les jeunes LGBTIQA+ dans toute la WA, y compris des séances de drop-in, du développement communautaire, du conseil et bien plus encore. Ils travaillent à faire en sorte que tous les jeunes LGBTIQA+ se sentent inclus, connectés et respectés. Ils fournissent également la formation et les directives aux parents, professionnels, communautés et organisations."
   },
   {
+    "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+    "slug": "trans-fertility-co-shop-live",
+    "externalUrl": "https://transfertility.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans Fertility Co. Boutique en direct",
+    "description": "La boutique Trans Fertility Co. fournit des ressources, des interviews et des récits personnels concernant divers aspects de la fertilité transgenre. C'est une plateforme pour apprendre, partager et célébrer la fertilité trans."
+  },
+  {
     "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
     "slug": "point-of-pride",
     "externalUrl": "https://www.pointofpride.org/",
@@ -2692,6 +3029,33 @@
     "socialMedia": null,
     "title": "BlaQ Aboriginal Corporation",
     "description": "BlaQ Aboriginal Corporation est une organisation communautaire dédiée à soutenir et à autonomiser la communauté LGBTQ+SB autochtone et des îles du détroit de Torres grâce à l'innovation, l'inclusion, la compréhension et le plaidoyer."
+  },
+  {
+    "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+    "slug": "refuge-restrooms",
+    "externalUrl": "https://www.refugerestrooms.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Refuge Restrooms",
+    "description": "Refuge Restrooms est une application web qui cherche à fournir un accès sûr aux toilettes pour les individus transgenres, intersexes et non conformes au genre. Les utilisateurs peuvent rechercher des toilettes par proximité d'un lieu de recherche, ajouter de nouvelles listes de toilettes, ainsi que commenter et évaluer les listes existantes."
   },
   {
     "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
@@ -2816,6 +3180,31 @@
     "description": "Le California Department of Public Health (CDPH) s'occupe de la santé de tous les Californiens, y compris les communautés lesbiennes, gay, bisexuelles et transgenres (LGBT). Ils fournissent des ressources pour comprendre les problèmes de santé qui impactent le plus souvent la communauté LGBT, des dépistages nécessaires à diverses étapes de la vie, et des outils pour un mode de vie sain."
   },
   {
+    "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+    "slug": "stonewall-youth",
+    "externalUrl": "https://www.stonewallyouth.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "112 State Ave NE, Olympia, WA 98501, USA",
+    "phoneNumber": "3608884273",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Olympia",
+    "county": "Thurston County",
+    "latLng": [
+      47.0460037,
+      -122.9011227
+    ],
+    "email": "info@stonewallyouth.org",
+    "socialMedia": null,
+    "title": "Jeunesse Stonewall",
+    "description": "Jeunesse Stonewall est une organisation à but non lucratif qui offre un soutien aux jeunes LGBTQ+. Leurs programmes hebdomadaires complets, groupes de soutien et ressources répondent aux besoins des jeunes queer et trans. Ils fournissent de la nourriture, des articles essentiels et même des parrainages pour les bourses de jeunes. Jeunesse Stonewall est dédiée à la création d'un espace d'émancipation pour les jeunes LGBTQ+ pour diriger, apprendre et partager leurs expériences."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2904,6 +3293,28 @@
     },
     "title": "Centre sur Halsted",
     "description": "Le centre communautaire de Chicago dédié à la promotion de la communauté Lesbienne, Gay, Bisexuelle, Transgenre (LGBT) et Queer (+) en fournissant des programmes de service, des événements, des formations et des ressources. Y compris des services pour le VIH/SIDA & MST, la santé comportementale, l'anti-violence et des programmes spéciaux pour les jeunes et les seniors."
+  },
+  {
+    "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+    "slug": "voice-resource-repository",
+    "externalUrl": "https://wiki.sumianvoice.com/",
+    "tags": [
+      "voice-training",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "sumianvoice@gmail.com",
+    "socialMedia": {
+      "githubUrl": "https://github.com/sumiansvoice"
+    },
+    "title": "Dépôt de ressources vocales",
+    "description": "Le Dépôt de Ressources Vocales est un projet ouvert et évolutif lancé par Sumi et Emma visant à fournir des informations accessibles et des orientations pour ceux qui souhaitent changer leur voix. Axée sur les pratiques de féminisation et de masculinisation, cette initiative vise à aider les débutants et à servir de référence complète pour les étudiants et les enseignants. Bien qu'encore principalement orienté vers la féminisation, des travaux sont en cours pour le rendre agnostique des objectifs des utilisateurs."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -3037,6 +3448,30 @@
     "description": "Twenty10, y compris GLCS, offre divers services qui changent la vie des jeunes à travers NSW qui s'identifient comme lesbiennes, gays, bisexuels, transgenres ou diversités de genre, intersexués, queers, asexués ou qui questionnent leur identité. Leurs services incluent l'accueil et l'orientation, le logement et la gestion de cas, le conseil, les programmes de soutien social et la formation à l'inclusivité LGBTIQA+"
   },
   {
+    "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+    "slug": "rainbow-center",
+    "externalUrl": "https://rainbowcntr.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+    "phoneNumber": "(253) 383-2318",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Tacoma",
+    "county": "Pierce County",
+    "latLng": [
+      47.241526,
+      -122.4354485
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Centre Arc-en-ciel",
+    "description": "Le Centre Arc-en-ciel vise à renforcer les ressources et la sécurité de la communauté LGBTQ2SA par l'éducation, la défense des droits et la célébration. Il reconnaît également les événements qui se déroulent sur le territoire Salish de la côte et l'importance culturelle et historique qu'il détient."
+  },
+  {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
     "slug": "transgendermap",
     "externalUrl": "https://transgendermap.com",
@@ -3156,6 +3591,28 @@
     "socialMedia": null,
     "title": "Transcend Australia",
     "description": "Le but de Transcend Australia est de soutenir, affirmer et célébrer la vie des enfants transgenres et diversifiés sur le plan du genre ainsi que leurs familles et soignants. Ils fournissent des informations, du soutien et des références aux familles à travers l'Australie et travaillent à autonomiser les enfants et les jeunes transgenres et diversifiés sur le plan du genre."
+  },
+  {
+    "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+    "slug": "acoustic-gender",
+    "externalUrl": "https://acousticgender.space/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Genre Acoustique",
+    "description": "Une plateforme en ligne qui fournit une aide visuelle interactive pour comprendre comment les voix sont perçues en termes de genre. Elle trace des enregistrements de la voix de l'utilisateur pour permettre la visualisation de la tonalité et de la résonance au fil du temps qui peut informer leur parcours de transition de voix si nécessaire."
   },
   {
     "id": "f48634db-fe71-426c-be84-622b3282bad7",
@@ -3296,6 +3753,29 @@
     },
     "title": "Centre d'égalité des documents d'identité pour les personnes transgenres",
     "description": "Une ressource complète qui aide les individus à mettre à jour leur nom et leur sexe sur les identifiants et les dossiers de l'état et fédéraux. Elle fournit des informations sur les notes de politique pour chaque état et les étapes pour divers processus, y compris la mise à jour des passeports, des dossiers de sécurité sociale, des dossiers militaires / vétérans, etc."
+  },
+  {
+    "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+    "slug": "trans-healthcare",
+    "externalUrl": "https://www.transhealthcare.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHealthCare",
+    "description": "TransHealthCare est la plus grande et la plus complète base de données de chirurgiens de genre. Elle a aidé des milliers de personnes transgenres et non binaires du monde entier à trouver un chirurgien. Le site web offre une plateforme pour trouver un chirurgien sur la base de la procédure, de l'État américain, du type d'assurance, et du pays. Il héberge également une variété de ressources, y compris les dernières nouvelles sur les chirurgiens et la recherche sur la chirurgie d'affirmation de genre."
   },
   {
     "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",

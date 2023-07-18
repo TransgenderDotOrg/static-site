@@ -1,0 +1,24 @@
+{
+  "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+  "title": "Queer Sex Ed Podcast",
+  "description": "A podcast series that aims to ‘queer’ sex ed in order to intentionally include narratives and experiences of lesbian, gay, bisexual, transgender, gender queer, gender fluid, agender people, polyamorous people, asexual people, people with disabilities and more. The show addresses the lack of appropriate sex education and media representation for these communities, and seeks to fight the associated social stigmas.",
+  "slug": "queer-sex-ed-podcast",
+  "externalUrl": "https://www.queersexed.org/",
+  "tags": [
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "queersexed@gmail.com",
+  "socialMedia": {
+    "patreonUrl": "https://www.patreon.com/queersexed",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+    "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+  }
+}

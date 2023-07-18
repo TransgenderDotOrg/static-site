@@ -1,0 +1,25 @@
+{
+  "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+  "title": "Lambert House",
+  "description": "Lambert House empowers lesbian, gay, bisexual, transgender, and questioning youth through the development of leadership, social, and life skills. This is a safe space for LGBTQ youth ages 10-22, offering over 30 different annual and ongoing programs, activities, resources, and services. Its supportive environment is suitable for youths to connect and learn from each other.",
+  "slug": "lambert-house",
+  "externalUrl": "https://www.lamberthouse.org/",
+  "tags": [
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "social-services"
+  ],
+  "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+  "phoneNumber": "206.322.2515",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.61818580000001,
+    -122.3124183
+  ],
+  "email": null,
+  "socialMedia": null
+}

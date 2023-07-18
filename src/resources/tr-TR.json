@@ -182,6 +182,29 @@
     "description": "Stuttgarter Deklarasyonu, transgender ve interseks bireylerin saygılı muamele görmesinin önemini vurgular. Tıbbi, psikoterapötik, danışma ve destek hizmetlerinde insan haklarının önemini alt çizer. Doktorlar, psikoterapistler, insan hakları aktivistleri ve etkilenen bireyler tarafından geliştirilen bu deklarasyon, kendi cinsiyetini belirleme hakkını ve tıbbi tedavilerin bu öz-belirlemeye saygı gösterme zorunluluğunu vurgular."
   },
   {
+    "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+    "slug": "lavender-rights-project",
+    "externalUrl": "https://www.lavenderrightsproject.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 639-7955",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6139026,
+      -122.3201635
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Lavender Rights Project",
+    "description": "Lavender Rights Project, kesişimsel hukuki ve sosyal hizmetler aracılığıyla Siyah interscins ve cinsiyet çeşitliliği topluluğunun gücünü, özerkliğini ve liderliğini artırır. LGBTQ+ bireylere, özellikle Siyah trans toplulukları desteklemeye odaklanarak, hayat kurtarıcı politika ve sosyal değişim savunuculuğu, kapsamlı bakım ve hukuki hizmetler sağlar."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -358,6 +381,39 @@
     },
     "title": "Youth Eastside Services",
     "description": "Youth Eastside Services (YES) ödeme yapabilme yeteneklerine bakılmaksızın gençlere ve ailelerine kapsamlı ruh sağlığı ve madde bağımlılığı hizmetleri sağlayan kâr amacı gütmeyen bir kuruluştur. Washington'da bulunan bu hizmetler arasında danışmanlık, terapi, LGBTQ+ topluluğu için destek ve çeşitli toplum tabanlı programlar yer alır."
+  },
+  {
+    "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+    "slug": "ingersoll-gender-center",
+    "externalUrl": "https://ingersollgendercenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 849-7859",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6138987,
+      -122.3203007
+    ],
+    "email": "info@ingersollgendercenter.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+      "twitterUrl": "https://twitter.com/IngersollGender"
+    },
+    "title": "Ingersoll Cinsiyet Merkezi",
+    "description": "Transgender ve cinsiyet uyumsuz kişiler tarafından ve bunlar için olan bir organizasyon. Karşılıklı destek sağlamak için akran liderliğindeki destek grupları, kaynakları bulma konusunda savunma, toplum örgütlenmesi ve eğitim — tüm bunlar toplu öz-belirlenimimiz peşinde."
   },
   {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
@@ -642,6 +698,37 @@
     "socialMedia": null,
     "title": "Meridyen",
     "description": "Meridyen, 40 yıldan fazla bir süredir LGBTIQA+ topluluğuna destek olmakta ve savunma yapmaktadır. Canberra bölgesi genelinde HIV hizmetleri, refah hizmetleri, seks çalışanlarına yönelik ulaşım programları ve daha fazlası gibi çeşitli hizmetler ve programlar sunmaktadır."
+  },
+  {
+    "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+    "slug": "transponder",
+    "externalUrl": "https://transponder.community/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1185 Arthur St, Eugene, OR 97402, USA",
+    "phoneNumber": "541-321-0872",
+    "country": "US",
+    "provinceOrState": "OR",
+    "city": "Eugene",
+    "county": "Lane County",
+    "latLng": [
+      44.0470325,
+      -123.1244504
+    ],
+    "email": "info@transponderoregon.org",
+    "socialMedia": null,
+    "title": "TransPonder",
+    "description": "TransPonder, transseksüel kurucular tarafından başlatılan ve Oregon, Eugene'deki bir kar amacı gütmeyen organizasyondur ve trans/cinsiyet çeşitliliği bulunan topluluk ve müttefiklerimiz için destek, kaynaklar ve eğitim sağlar. Cinsiyet çeşitliliği olan yoga sınıfı, Transponder Kitap Kulübü ve destek grupları gibi çeşitli kaynaklar ve etkinlikler sunarlar."
   },
   {
     "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
@@ -1064,6 +1151,32 @@
     "description": "Sylvia Rivera Hukuk Projesi, tüm insanların gelir veya ırklarına bakılmaksızın, taciz, ayrımcılık veya şiddet yaşamadan cinsiyet kimliğini ve ifadesini belirleme özgürlüğüne sahip olmasını garanti etmek için çalışır. SRLP, hukuki yardım sağlar, kampanyalar düzenler, eğitimler verir ve bir Mahkum Danışma Komitesi düzenler. Topluluk katılımı, bağışlar, gönüllü çalışma ve üyelikle teşvik edilir."
   },
   {
+    "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+    "slug": "trans-sask-resources",
+    "externalUrl": "https://www.transsask.ca/resources/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transsask.ca",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransSask",
+      "facebookUrl": "https://www.facebook.com/TransSask",
+      "instagramUrl": "https://www.instagram.com/TransSask"
+    },
+    "title": "Trans Sask Kaynakları",
+    "description": "Trans Sask, trans-identli, genderqueer, intersex ve cinsiyet uyumsuz bireyler, eşleri, aileleri, arkadaşları ve müttefikleri için destek sağlayan ve bir kaynak ağı olarak görev yapan kar amacı gütmeyen bir organizasyondur. Sunulan kaynaklar arasında onaylayıcı sağlık hizmetlerine erişim, isim değişikliği rehberi ve trans-dahil medya rehberi bulunmaktadır."
+  },
+  {
     "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
     "slug": "allentown-womens-center",
     "externalUrl": "https://allentownwomenscenter.com/",
@@ -1166,6 +1279,34 @@
     "socialMedia": null,
     "title": "Çoraplarla nasıl ftm paketlenir | Kendin Yap Packer",
     "description": "Bu blog yazısı, çoraplar ve diğer uygun maliyetli malzemeler kullanarak ev yapımı bir packer nasıl yapılır konusunda kapsamlı bir rehber sunar. Ayrıca transmasculine bireylerin kendilerini daha rahat ve otantik hissetmelerine yardımcı olmak için diğer FTM protezler için Kendin Yap alternatiflerini de içerir."
+  },
+  {
+    "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+    "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+    "externalUrl": "https://transadvice.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "discord-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/transadvice",
+      "tumblrUrl": "http://transadvice.tumblr.com/"
+    },
+    "title": "TransAdvice Akran temelli transseksüel destek sohbeti. Canlı Destek Sohbeti",
+    "description": "TransAdvice, transseksüel ve non-binary topluluklarının üyeleri için, ayrıca aile üyeleri, önemli diğerleri, arkadaşlar ve müttefikleri için destek ve kaynaklar sağlayan güvenli ve açık bir alan sunan bir topluluk tarafından yönlendirilen bir ağdır."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1408,6 +1549,30 @@
     },
     "title": "Oakland LGBTQ Topluluk Merkezi",
     "description": "Oakland'ın ilk kâr amacı gütmeyen 501c3, her yaştan, kapsayıcı LGBTQ toplum hizmet merkezi. Sunulan hizmetler arasında destek grupları, ruh sağlığı desteği, konut yardımı, gençlik programı, hukuki danışmanlık, gıda bankası vb. bulunmaktadır. Ayrıca yaşlı LGBTQ+ bireyler ve trans topluluk üyeleri için özel programlar düzenlenmektedir."
+  },
+  {
+    "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+    "slug": "gender-census",
+    "externalUrl": "https://www.gendercensus.com/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "hello@gendercensus.com",
+    "socialMedia": {
+      "tumblrUrl": "https://gendercensus.tumblr.com/",
+      "mastodonUrl": "https://mastodon gendercensus.com/",
+      "patreonUrl": "https://www.patreon.com/gendercensus"
+    },
+    "title": "Cinsiyet Sayımı",
+    "description": "Cinsiyet Sayımı, cinsiyet ikiliğinin dışında kimlik belirlemeyen kişiler tarafından kullanılan dili hakkında veri toplayan yıllık bir anketidir. 2015'ten beri yıllık olarak yürütülen anket, zamanla değişen, yoğunluğu dalgalanan veya erkek/kadın ikiliği dışında var olan cinsiyet deneyimlerini ve kimliklerini kapsamayı hedefler. Sayım, kapsayıcılığı ve anlayışı teşvik ederek trans topluluğuna hizmet eder."
   },
   {
     "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
@@ -1753,6 +1918,26 @@
     "description": "TLDEF, cinsiyet kimliği ve ifadesine dayalı ayrımcılığı sona erdirmeye ve kamusal eğitim, test-dava davaları, doğrudan hukuki hizmetler ve kamu politikası çabaları aracılığıyla trans bireyler için eşitliği sağlamaya adanmıştır. İsim değişikliği projesi, etki davacılığı ve trans sağlık projesi gibi çeşitli hizmetler sağlar. Ayrıca, trans topluluğunu etkileyen ilgili hukuk meselelerindeki güncellemeleri sağlar."
   },
   {
+    "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+    "slug": "trans-human-rights-ilga-world-releases-global-research",
+    "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans insan hakları: ILGA Dünya, yasal cinsiyet tanıma ve suçlamaya ilişkin küresel araştırmasını yayınlıyor",
+    "description": "Yayınlanan eserin üçüncü baskısı, trans ve cinsiyet çeşitliliği olan kişilerin resmi kimlik belgelerinde cinsiyet/sex işaretlerini ve isimlerini nasıl değiştirebileceklerini belirten düzenlemeleri araştırıyor ve ayrıca trans kimlikleri suç sayan yasalar hakkında bilgi topluyor, hem açıkça hem de fiilen - dünyanın her bölgesindeki topluluklarımız için durumu inceliyor."
+  },
+  {
     "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
     "slug": "gender-justice-league",
     "externalUrl": "https://www.genderjusticeleague.org/",
@@ -1972,6 +2157,78 @@
     "description": "Amsterdam UMC'deki Gender Dysforia Bilgi ve Bakım Merkezi, doğum cinsiyeti kimliklerine uymayan hisseden kişilere tıbbi tedavi ve psikolojik destek sağlamada uzmandır. Merkez, bireysel çeşitliliği benimser, hizmetlerini kişisel ihtiyaçlara uyarlar ve cinsiyet uyumsuzluğunu tedavi etmedeki uzmanlığı ile uluslararası alanda tanınır. Ayrıca, transgender bireylerin anlaşılmasını ve tedavisini iyileştirmek için araştırmalar yapar ve yeni sağlık profesyonellerine eğitimler sunar."
   },
   {
+    "id": "944ced3e-e26f-48c3-bc28-7e0c78410698",
+    "slug": "trans-rights-map-2022-reveals-slow-comeback-of-progress-on-trans-rights",
+    "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "phoneNumber": null,
+    "address": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans Hakları Haritası 2022, trans hakları üzerindeki ilerlemenin yavaş geri dönüşünü ortaya koyuyor",
+    "description": "TGEU tarafından hazırlanan bu rapor, Avrupa ve Orta Asya'daki trans bireylerin yasal haklarındaki ilerlemeyi ve gerilemeyi göstermektedir. Diğer bulguların yanı sıra, iltica, nefret söylemi ve eşitlik yasaları gibi alanlarda zayıflama, ancak yasal cinsiyet tanıma ve ayrımcılığa karşı korumalar gibi alanlarda ilerleme gösteriyor."
+  },
+  {
+    "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+    "slug": "facial-feminization-surgery-procedures",
+    "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+    "tags": [
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+    "phoneNumber": null,
+    "country": "BE",
+    "provinceOrState": "Vlaams Gewest",
+    "city": "Antwerpen",
+    "county": "AN",
+    "latLng": [
+      51.1787102,
+      4.430423300000001
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+    },
+    "town": "Berchem",
+    "title": "Yüz Feminizasyon Cerrahisi Prosedürleri",
+    "description": "2pass Clinic, trans kadınların geçiş sürecine yardımcı olmak için çeşitli cerrahi işlemler sunar. Bunlar arasında Yüz ve Vücut Feminizasyon Cerrahileri, Kalıcı Tüy Dökülmesi ve Saç Nakli tedavileri bulunur. Bu kaynak, her FFS prosedürü hakkında ayrıntılı bilgiler sağlar ve trans kadınların yolculukları için doğru seçimleri yapmalarına yardımcı olur."
+  },
+  {
+    "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+    "slug": "lambert-house",
+    "externalUrl": "https://www.lamberthouse.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+    "phoneNumber": "206.322.2515",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.61818580000001,
+      -122.3124183
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Lambert Evi",
+    "description": "Lambert Evi, lezbiyen, gay, biseksüel, trans ve sorgulayan gençlerin liderlik, sosyal ve hayat becerilerinin gelişmesine yardımcı olur. Bu, 10-22 yaş arası LGBTQ gençler için güvenli bir alandır, 30'dan fazla farklı yıllık ve devam eden programları, aktiviteleri, kaynakları ve hizmetleri sunmaktadır. Destekleyici ortamı, gençlerin birbirlerinden öğrenmeleri ve bağlantı kurmaları için uygundur."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -2183,6 +2440,30 @@
     "description": "Zamir Giyinme Odası, bireylerin hangi zamirlerin kendileri için doğru olduğunu görmek ve keşfetmek için farklı zamir setlerini deneyebilecekleri çevrimiçi bir alan sağlar. Web sitesi, transgender topluluğu için zamir seçiminde daha kolay karar verilmesini kolaylaştırır, onlara farklı zamirlerin farklı bağlamlarda nasıl görünebileceğini görmelerini sağlar."
   },
   {
+    "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+    "slug": "queer-sex-ed-podcast",
+    "externalUrl": "https://www.queersexed.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "queersexed@gmail.com",
+    "socialMedia": {
+      "patreonUrl": "https://www.patreon.com/queersexed",
+      "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+      "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+    },
+    "title": "Queer Sex Ed Podcast",
+    "description": "Lezbiyen, eşcinsel, biseksüel, transgender, cinsiyet queer, cinsiyet akışkan, cinsiyetsiz insanlar, çok eşli kişiler, aseksüel insanlar, engelli insanlar ve daha fazlasının anlatıları ve deneyimlerini bilinçli bir şekilde içerecek şekilde 'queer' cinsel eğitimi hedefleyen bir podcast serisi. Gösteri, bu topluluklar için uygun cinsel eğitimin ve medya temsiliyetinin eksikliğini ele alır ve ilişkili sosyal damgalarla savaşmayı hedefler."
+  },
+  {
     "id": "aac7385e-58e6-4839-be0e-b637b1021437",
     "slug": "bradbury-sullivan-lgbt-community-center",
     "externalUrl": "https://www.bradburysullivancenter.org/",
@@ -2229,6 +2510,39 @@
     },
     "title": "Marsha İçin Bir Yer",
     "description": "Marsha İçin Bir Yer, artan ölçüde tehlikeli eyaletlerdeki Trans bireylerin ve ailelerin daha güvenli bir yere geçiş yapmasına yardımcı olmayı hedefleyen birçok start-up projesinden biridir. APFM yolculuğuna, ülke genelinde anti-trans yasalarının artışına tepki olarak 2023 Mart'ında başladı. APFM şimdi, mültecileri kırmızı eyaletlerden oda arkadaşı olarak eşleştirmeye, her bir hanehalkını dikkatlice ele almaya odaklanıyor."
+  },
+  {
+    "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+    "slug": "outsaskatoon-support-for-2slgbtq-community",
+    "externalUrl": "https://www.outsaskatoon.ca/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+    "phoneNumber": "1-306-665-1224",
+    "country": "CA",
+    "provinceOrState": "SK",
+    "city": "Saskatoon",
+    "latLng": [
+      52.1271613,
+      -106.673858
+    ],
+    "email": "hello@outsaskatoon.ca",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+      "twitterUrl": "https://twitter.com/OUTSaskatoon",
+      "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+    },
+    "title": "OUTSaskatoon: 2SLGBTQ Topluluğu için Destek",
+    "description": "OUTSaskatoon, Saskatoon ve çevresindeki 2SLGBTQ topluluğu için bir toplum merkezi ve hizmet sağlayıcısıdır. Zarar azaltma, kültürel bilgi, eşitlik arayan ve topluluk temelli bir yaklaşımla destek hizmetleri, gençlik konutları ve eğitim ve araştırma hizmetleri sunmaktadır. Danışmanlık ve akran desteği, 2SLGBTQ gençlik konutu (Pride Home), atölye ve eğitimler ve cinsel sağlık klinikleri sunmaktadırlar."
   },
   {
     "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
@@ -2615,6 +2929,29 @@
     "description": "Özgürlük Merkezi, WA çevresindeki LGBTIQA+ gençler için geniş kapsamlı destek hizmetleri sağlar, bunlar arasında düş-in seansları, toplum geliştirme, danışmanlık ve çok daha fazlası bulunur. Tüm LGBTIQA+ gençlerin dahil hissetmesi, bağlanması ve saygı görmesi için çalışırlar. Ayrıca ebeveynlere, profesyonellere, topluluklara ve organizasyonlara eğitim ve rehberlik sağlarlar."
   },
   {
+    "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+    "slug": "trans-fertility-co-shop-live",
+    "externalUrl": "https://transfertility.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans Fertility Co. Canlı Mağaza",
+    "description": "Trans Fertility Co. Mağazası, transgender doğurganlık konusunda çeşitli yönleri ile ilgili kaynaklar, röportajlar ve kişisel hikayeler sağlamaktadır. Trans doğurganlığı öğrenmek, paylaşmak ve kutlamak için bir platformdur."
+  },
+  {
     "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
     "slug": "point-of-pride",
     "externalUrl": "https://www.pointofpride.org/",
@@ -2692,6 +3029,33 @@
     "socialMedia": null,
     "title": "BlaQ Aboriginal Corporation",
     "description": "BlaQ Aboriginal Corporation, yenilik, dahil etme, anlayış ve savunuculuk aracılığıyla Aborijin ve Torres Boğazı Adaları LGBTQ+SB topluluğunu desteklemeye ve güçlendirmeye adanmış bir topluluk organizasyonudur."
+  },
+  {
+    "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+    "slug": "refuge-restrooms",
+    "externalUrl": "https://www.refugerestrooms.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Refuge Restrooms",
+    "description": "Refuge Restrooms, transgender, interseks ve cinsiyet uyumsuz bireyler için güvenli tuvalet erişimi sağlamayı amaçlayan bir web uygulamasıdır. Kullanıcılar, bir arama konumuna yakınlığına göre tuvaletleri arayabilir, yeni tuvalet listeleri ekleyebilir, mevcut listeleri yorumlayabilir ve puanlayabilir."
   },
   {
     "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
@@ -2816,6 +3180,31 @@
     "description": "California Halk Sağlığı Departmanı (CDPH), Lezbiyen, Gay, Biseksüel ve Transgender (LGBT) toplulukları da dahil olmak üzere tüm Californialılara hizmet vermektedir. Onlar, en çok LGBT topluluğunu etkileyen sağlık sorunlarını anlamak için kaynaklar, çeşitli yaşam aşamalarındaki gerekli taramalar ve sağlıklı bir yaşam tarzı için gereçler sağlar."
   },
   {
+    "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+    "slug": "stonewall-youth",
+    "externalUrl": "https://www.stonewallyouth.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "112 State Ave NE, Olympia, WA 98501, USA",
+    "phoneNumber": "3608884273",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Olympia",
+    "county": "Thurston County",
+    "latLng": [
+      47.0460037,
+      -122.9011227
+    ],
+    "email": "info@stonewallyouth.org",
+    "socialMedia": null,
+    "title": "Stonewall Gençlik",
+    "description": "Stonewall Gençlik, LGBTQ+ gençlere destek sağlayan kar amacı gütmeyen bir organizasyondur. Kapsamlı haftalık programları, destek grupları ve kaynakları, queer ve trans gençlerin ihtiyaçlarını karşılar. Yiyecek, temel eşyalar ve hatta gençlik bursları için sponsorluk sağlarlar. Stonewall Gençlik, LGBTQ+ gençlerin liderlik etmeyi, öğrenmeyi ve deneyimlerini paylaşabilecekleri güçlendirici bir alan yaratmaya adanmıştır."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2904,6 +3293,28 @@
     },
     "title": "Center on Halsted",
     "description": "Chicago'nun, Lezbiyen, Gay, Biseksüel, Transgender (LGBT) ve Queer (+) topluluğunu ilerletmeye adanmış toplum merkezi. Hizmet programları, etkinlikler, eğitimler ve kaynaklar sağlama yoluyla. HIV/AIDS & STD, Davranışsal Sağlık, Şiddete Karşı ve gençler ve yaşlılar için özel programlar dahil hizmetler sunar."
+  },
+  {
+    "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+    "slug": "voice-resource-repository",
+    "externalUrl": "https://wiki.sumianvoice.com/",
+    "tags": [
+      "voice-training",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "sumianvoice@gmail.com",
+    "socialMedia": {
+      "githubUrl": "https://github.com/sumiansvoice"
+    },
+    "title": "Ses Kaynak Deposu",
+    "description": "Ses Kaynak Deposu, Sumi ve Emma tarafından başlatılan, seslerini değiştirmek isteyen kişilere ulaşılabilir bilgi ve yönlendirme sağlamayı amaçlayan açık ve evrimleşen bir projedir. Hem feminizasyon hem de maskülenleştirme uygulamalarına odaklanan bu girişim, başlangıç yapanları desteklemek ve öğrenciler ile öğretmenler için kapsamlı bir referans olmayı hedeflemektedir. Henüz çoğunlukla feminizasyon odaklı olsa da, kullanıcıların hedeflerine bağımsız hâle getirilmesi için çalışmalar yürütülmektedir."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -3037,6 +3448,30 @@
     "description": "Twenty10, GLCS'yi de içererek NSW genelinde lezbiyen, gay, biseksüel, transseksüel veya cinsiyet çeşitliliği olan, interseks, queer, aseksüel veya kimliklerini sorgulayan gençlere hayatlarını değiştiren çeşitli hizmetler sunar. Hizmetleri arasında kabul ve yönlendirme, konut ve durum yönetimi, danışmanlık, sosyal destek programları ve LGBTIQA+ kapsayıcılık eğitimi bulunmaktadır."
   },
   {
+    "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+    "slug": "rainbow-center",
+    "externalUrl": "https://rainbowcntr.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+    "phoneNumber": "(253) 383-2318",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Tacoma",
+    "county": "Pierce County",
+    "latLng": [
+      47.241526,
+      -122.4354485
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Rainbow Merkezi",
+    "description": "Rainbow Merkezi, eğitim, savunuculuk ve kutlama yoluyla LGBTQ2SA topluluğunun kaynaklarını ve güvenliğini artırmayı hedefler. Ayrıca Coast Salish topraklarındaki olayları ve taşıdığı kültürel önemi ve tarihi kabul eder."
+  },
+  {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
     "slug": "transgendermap",
     "externalUrl": "https://transgendermap.com",
@@ -3156,6 +3591,28 @@
     "socialMedia": null,
     "title": "Transcend Australia",
     "description": "Transcend Australia’ın amacı, trans ve cinsiyet çeşitliliği olan çocukların ve ailelerinin, bakıcılarının yaşamlarını desteklemek, doğrulamak ve kutlamaktır. Tüm Avustralya'daki ailelere bilgi, destek ve yönlendirmeler sağlarlar ve trans ve cinsiyet çeşitliliği olan çocukları ve gençleri güçlendirmeye çalışırlar."
+  },
+  {
+    "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+    "slug": "acoustic-gender",
+    "externalUrl": "https://acousticgender.space/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Akustik Cinsiyet",
+    "description": "Kullanıcının ses kayıtlarını çizerek sesin tonunu ve rezonansını zaman içinde görselleştirmeyi sağlayan ve gerekirse ses geçiş yolculuklarına bilgi verebilecek bir platform. Seslerin cinsiyet açısından nasıl algılandığını anlamak için interaktif bir görsel yardım sağlayan bir online platform."
   },
   {
     "id": "f48634db-fe71-426c-be84-622b3282bad7",
@@ -3297,6 +3754,29 @@
     },
     "title": "Transgender Eşitliği Kimlik Belgesi Merkezi",
     "description": "Bireylerin adlarını ve cinsiyetlerini devlet ve federal kimliklerinde ve kayıtlarında güncellemelerine yardımcı olan kapsamlı bir kaynak. Her eyalet için politika notları hakkında bilgi sağlar ve pasaportların güncellenmesi, sosyal güvenlik kayıtları, askeri/gazi kayıtları vb. çeşitli süreçler için adımlar sunar."
+  },
+  {
+    "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+    "slug": "trans-healthcare",
+    "externalUrl": "https://www.transhealthcare.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHealthCare",
+    "description": "TransHealthCare, Cinsiyet Cerrahları konusunda en büyük ve en kapsamlı veri tabanıdır. Dünya çapında binlerce transgender ve non-binary kişiye bir cerrah bulmada yardımcı olmuştur. Web sitesi, prosedür, ABD Eyaleti, sigorta türü ve ülkeye dayalı bir cerrah bulmak için bir platform sağlar. Ayrıca en son cerrah haberleri ve cinsiyeti onaylayan cerrahiye dair araştırmalar da dahil olmak üzere çeşitli kaynaklara ev sahipliği yapar."
   },
   {
     "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",

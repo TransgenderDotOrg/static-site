@@ -1,0 +1,33 @@
+{
+  "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+  "title": "OUTSaskatoon: Support for 2SLGBTQ Community",
+  "description": "OUTSaskatoon is a community centre and service provider for the Saskatoon and area 2SLGBTQ community. They provide support services, youth housing, and education and research services through a harm reduction, culturally informed, equity-seeking, and community-based approach. They offer counselling and peer support, 2SLGBTQ youth housing (Pride Home), workshops and training, and sexual health clinics.",
+  "slug": "outsaskatoon-support-for-2slgbtq-community",
+  "externalUrl": "https://www.outsaskatoon.ca/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+  "phoneNumber": "1-306-665-1224",
+  "country": "CA",
+  "provinceOrState": "SK",
+  "city": "Saskatoon",
+  "latLng": [
+    52.1271613,
+    -106.673858
+  ],
+  "email": "hello@outsaskatoon.ca",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+    "twitterUrl": "https://twitter.com/OUTSaskatoon",
+    "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+  }
+}

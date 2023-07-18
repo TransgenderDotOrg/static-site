@@ -1,0 +1,107 @@
+{
+  "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+  "slug": "lavender-rights-project",
+  "externalUrl": "https://www.lavenderrightsproject.org/",
+  "tags": [
+    "legal",
+    "social-services"
+  ],
+  "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+  "phoneNumber": "(206) 639-7955",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6139026,
+    -122.3201635
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Lavender Rights Project",
+      "description": "Lavender Rights Project elevates the power, autonomy, and leadership of the Black intersex & gender diverse community through intersectional legal and social services. It provides life-saving policy and social change advocacy, comprehensive care, and legal services to LGBTQ+ individuals, with a particular emphasis on supporting Black trans communities."
+    },
+    "es-ES": {
+      "title": "Proyecto de Derechos Lavanda",
+      "description": "El Proyecto de Derechos Lavanda eleva el poder, la autonomía y el liderazgo de la comunidad intersexual y de género diverso negra a través de servicios legales y sociales interseccionales. Proporciona defensa de políticas y cambios sociales que salvan vidas, atención integral y servicios legales a individuos LGBTQ+, con un énfasis particular en el apoyo a las comunidades trans negras."
+    },
+    "fr-FR": {
+      "title": "Projet des Droits de Lavande",
+      "description": "Le Projet des Droits de Lavande accroît le pouvoir, l'autonomie et le leadership de la communauté intersexuelle et diversifiée sur le plan de genre de la communauté noire à travers des services sociaux et juridiques intersectionnels. Il fournit une défense des politiques de changement social et vital, des soins complets et des services juridiques aux individus LGBTQ+, avec un accent particulier sur le soutien des communautés trans noires."
+    },
+    "pt-PT": {
+      "title": "Projeto de Direitos Lavanda",
+      "description": "O Projeto de Direitos Lavanda aumenta o poder, autonomia e liderança da comunidade intersexual e de gênero diverso negra através de serviços legais e sociais interseccionais. Ele oferece defesa de políticas e mudanças sociais que salvam vidas, cuidado abrangente e serviços jurídicos para indivíduos LGBTQ+, com ênfase especial no apoio às comunidades trans negras."
+    },
+    "zh-CN": {
+      "title": "薰衣草权利项目",
+      "description": "薰衣草权利项目通过交叉领域的法律和社会服务提升了黑人双性人和性别多元社区的力量、自治能力和领导地位。它为LGBTQ+个体提供了关于生命保障政策和社会变革倡导、全面护理和法律服务，特别强调支持黑人跨性别社区。"
+    },
+    "id-ID": {
+      "title": "Lavender Rights Project",
+      "description": "Lavender Rights Project meningkatkan kekuatan, otonomi, dan kepemimpinan komunitas interseks dan beragam gender hitam melalui layanan hukum dan sosial yang bersifat interseksional. Ini menyediakan advokasi perubahan kebijakan dan sosial yang menyelamatkan jiwa, perawatan komprehensif, dan layanan hukum bagi individu LGBTQ+, dengan penekanan khusus pada dukungan bagi komunitas trans hitam."
+    },
+    "de-DE": {
+      "title": "Lavender Rights Project",
+      "description": "Das Lavender Rights Project stärkt die Macht, Autonomie und Führung der Schwarzen Intersex- & Gender-Diverse-Gemeinschaft durch intersektionale rechtliche und soziale Dienste. Es bietet lebensrettende Politik- und Sozialänderungsvertretung, umfassende Versorgung und juristische Dienstleistungen für LGBTQ+ Individuen, mit einem besonderen Schwerpunkt auf der Unterstützung von Schwarzen Trans-Gemeinschaften."
+    },
+    "tr-TR": {
+      "title": "Lavender Rights Project",
+      "description": "Lavender Rights Project, kesişimsel hukuki ve sosyal hizmetler aracılığıyla Siyah interscins ve cinsiyet çeşitliliği topluluğunun gücünü, özerkliğini ve liderliğini artırır. LGBTQ+ bireylere, özellikle Siyah trans toplulukları desteklemeye odaklanarak, hayat kurtarıcı politika ve sosyal değişim savunuculuğu, kapsamlı bakım ve hukuki hizmetler sağlar."
+    },
+    "ru-RU": {
+      "title": "Проект Lavender Rights",
+      "description": "Проект Lavender Rights усиливает власть, автономию и лидерство черного интерсексуального и гендерно-разнообразного сообщества через пересекающиеся юридические и социальные услуги. Он предоставляет жизненно важную политическую и социальную адвокацию изменений, комплексный уход и юридические услуги для лиц LGBTQ+, с особым акцентом на поддержку черных транс-сообществ."
+    },
+    "uk-UA": {
+      "title": "Проект Прав Лаванди",
+      "description": "Проект Прав Лаванди підвищує потужність, автономію та лідерство чорного та гендерного різноманітного співтовариства через перетинні правові та соціальні послуги. Він забезпечує життєво важливу політику та соціальну зміну захисту прав, всеосяжний догляд та юридичні послуги для осіб LGBTQ+, з особливим акцентом на підтримку чорних транс-спільнот."
+    },
+    "ko-KR": {
+      "title": "Lavender Rights Project",
+      "description": "Lavender Rights Project는 복합적인 법적 및 사회적 서비스를 통해 흑인 인터섹스 및 성별 다양성 커뮤니티의 힘, 자율성 및 리더십을 향상시킵니다. 이는 생명을 구하는 정책 및 사회 변화 옹호, 종합적인 관리 및 LGBTQ+ 개인에 대한 법적 서비스를 제공하며, 특히 흑인 트랜스 커뮤니티 지원에 중점을 둡니다."
+    },
+    "ja-JP": {
+      "title": "ラベンダー・ライツ・プロジェクト",
+      "description": "ラベンダー・ライツ・プロジェクトは、交差性の法的・社会的サービスを通じて黒人インターセックス・ジェンダー多様性コミュニティの力・自主性・リーダーシップを高めます。これは、LGBTQ+の個々の人々に対して、生命を救う政策と社会変化の提唱、包括的なケア、法的サービスを提供しており、特に黒人トランスコミュニティの支援に重点を置いています。"
+    },
+    "sw-KE": {
+      "title": "Mradi wa Haki za Lavender",
+      "description": "Mradi wa Haki za Lavender unapandisha nguvu, autonomy, na uongozi wa jamii ya Black intersex & yenye tofauti za jinsia kupitia huduma za kisheria na kijamii zinazojumuisha. Inatoa utetezi wa sera na mabadiliko ya kijamii yanayookoa maisha, huduma kamili, na huduma za kisheria kwa watu wa LGBTQ+, kwa mkazo maalum kwa kusaidia jamii za watu weusi wanaoingia katika jinsia tofauti."
+    },
+    "ar-SA": {
+      "title": "مشروع حقوق الخزامى",
+      "description": "يعزز مشروع حقوق الخزامى من القوة والاستقلالية والقيادة للمجتمع الأسود المتغير الجنس ومتعدد الجنس من خلال الخدمات القانونية والاجتماعية المتقاطعة. يقدم الدعم الحيوي للسياسات والتغيير الاجتماعي، والرعاية الشاملة، والخدمات القانونية للأفراد من مجتمع LGBTQ+، مع التركيز بشكل خاص على دعم المجتمعات العابرة للسود."
+    },
+    "vi-VN": {
+      "title": "Dự án Quyền Lavender",
+      "description": "Dự án Quyền Lavender nâng cao quyền lực, sự tự chủ, và lãnh đạo của cộng đồng intersex và giới tính đa dạng màu đen thông qua các dịch vụ pháp lý và xã hội giao điểm. Nó cung cấp chính sách cứu mạng và sự thay đổi xã hội lập luận, chăm sóc toàn diện, và dịch vụ pháp lý cho các cá nhân LGBTQ+, với một trọng tâm đặc biệt vào việc hỗ trợ cộng đồng trans màu đen."
+    },
+    "hi-IN": {
+      "title": "लैवेंडर अधिकार परियोजना",
+      "description": "लैवेंडर अधिकार परियोजना आंतरधर्मी और लिंगविशिष्ट समुदाय की शक्ति, स्वतंत्रता, और नेतृत्व को उच्चायित करती है। यह LGBTQ+ व्यक्तियों के लिए आवश्यक नीति और सामाजिक परिवर्तन की समर्थन, व्यापक देखभाल, और कानूनी सेवाएं प्रदान करती है, विशेष रूप से काले ट्रांस समुदायों का समर्थन करते हुए।"
+    },
+    "ur-PK": {
+      "title": "لیوینڈر رائٹس پراجیکٹ",
+      "description": "لیوینڈر رائٹس پراجیکٹ مشترکہ قانونی اور سماجی خدمات کے ذریعے کالے بین الجنسی اور جنسی تنوع پذیر برادری کی قوت، خودمختاری، اور قیادت کو بڑھاوا دیتا ہے۔ یہ LGBTQ+ افراد کو زندگی بچانے والی پالیسی اور سماجی تبدیلی کی حمایت، جامعہ خبرداری ، اور قانونی خدمات فراہم کرتا ہے، خاص طور پر کالی ٹرانز برادریوں کی حمایت پر زور دیتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "लॅव्हेंडर अधिकार प्रकल्प",
+      "description": "लॅव्हेंडर अधिकार प्रकल्प म्हणजे अंतर्गत व कायागत विविध समुदायाची शक्ती, स्वायत्तता आणि नेतृत्व वाढवते. ती एलजीबीटीक्यू+ व्यक्तींना आयुष्य वाचवणारी धोरण आणि सामाजिक बदलाची वकालत, सम्पूर्ण देखरेख, आणि विधी सेवा पुरवते, विशेषतः कृष्ण ट्रान्स समुदायांच्या मदतीसाठी संघटने केलेली. "
+    },
+    "bn-BD": {
+      "title": "ল্যাভেন্ডার রাইটস প্রকল্প",
+      "description": "ল্যাভেন্ডার রাইটস প্রকল্প কীভাবে ব্ল্যাক ইন্টারসেক্স ও জেন্ডার বিস্তৃত সম্প্রদায়ের শক্তি, স্বায়ত্তশাসন এবং নেতৃত্ব উন্নীত করে তার চেয়েও বেশী গুরুত্ব দেয় বিভেদবিহীন আইন এবং সামাজিক সেবা মাধ্যমে। এটি জীবন-রক্ষাকারী নীতি এবং সামাজিক পরিবর্তনের অভিযান, সর্বাপেক্ষা যত্ন, এবং আইন-সংগঠনের সেবা সরবরাহ করে এলজিবিটিকিউ+ ব্যক্তিদের জন্য, বিশেষত ব্ল্যাক ট্রান্স সম্প্রদায়কে সমর্থন করতে।"
+    },
+    "te-IN": {
+      "title": "Lavender Rights Project",
+      "description": "లావెండర్ రైట్స్ ప్రాజెక్ట్ బ్లాక్ ఇంటర్సెక్స్ & జెండర్ వెవిడ్డ సంఘ శక్తి, స్వావలంబన మరియు నాయకత్వాన్ని మీదుకెత్తి అంతర్గొల్ల కానూనీ మరియు సమాజ సేవల ద్వారా పెంచుతుంది. ఇది ప్రాణాల్లోకన సీమన మరియు సామాజిక మార్పు మీడియా, సమగ్ర పరేషా, మరియు లావుగుడండా కానూనీ సేవలు అందిస్తుంది, ప్రత్యేకంగా బ్లాజ్ ట్రాన్స్ సముదాయాలను మద్దతు చేయడంలో ప్రధానతను పెడుతుంది."
+    },
+    "ta-IN": {
+      "title": "லாவண்டர் உரிமைகள் திட்டம்",
+      "description": "மொத்தநோக்கு சட்டவிதிகள் மற்றும் சமாஜ சேவைகள் வழியாக கருப்பு முக்கிய ஆண்டு மற்றும் பாலின மாற்று சமுதாயத்தின் வலிமையை, முக்கிய ஆற்றலை மற்றும் தலைமையை உயர்த்துகின்றது லாவண்டர் உரிமைகள் திட்டம். இது குறிப்பாக கருப்பு மாறுபாலிகள் சமுதாயத்தை ஆதரிக்கும், முழுமையான பராமரிப்பு, சட்ட சேவைகள் மற்றும் LGBTQ + நேபாளிகளுக்கு வாழ்க்கை மேம்படுத்தும் கொள்கை மற்றும் சமாஜ மாற்றத்தை ஆதரிக்கும் சட்ட சேவைகள். "
+    }
+  }
+}

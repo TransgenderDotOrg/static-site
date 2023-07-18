@@ -1,0 +1,22 @@
+{
+  "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+  "title": "Acoustic Gender",
+  "description": "An online platform that provides an interactive visual aid for understanding how voices are perceived in terms of gender. It plots recordings of the user's voice to enable the visualization of pitch and resonance over time which can inform their voice transition journey if needed.",
+  "slug": "acoustic-gender",
+  "externalUrl": "https://acousticgender.space/",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "voice-training"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

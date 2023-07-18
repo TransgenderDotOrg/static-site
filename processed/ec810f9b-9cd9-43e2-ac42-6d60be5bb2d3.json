@@ -1,0 +1,24 @@
+{
+  "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+  "title": "Rainbow Center",
+  "description": "Rainbow Center aims to boost the resources and safety of the LGBTQ2SA community through education, advocacy, and celebration. It also acknowledges the events taking place on Coast Salish land and the cultural significance and history it holds.",
+  "slug": "rainbow-center",
+  "externalUrl": "https://rainbowcntr.org/",
+  "tags": [
+    "education-awareness",
+    "support-groups",
+    "social-services"
+  ],
+  "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+  "phoneNumber": "(253) 383-2318",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Tacoma",
+  "county": "Pierce County",
+  "latLng": [
+    47.241526,
+    -122.4354485
+  ],
+  "email": null,
+  "socialMedia": null
+}

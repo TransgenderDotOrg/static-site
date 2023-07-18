@@ -182,6 +182,29 @@
     "description": "Deklarasi Stuttgarter menekankan pentingnya perlakuan yang hormat terhadap orang transgender dan interseks. Ini menekankan pentingnya hak asasi manusia dalam layanan medis, psikoterapi, konsultasi, dan dukungan untuk individu transgender dan interseks. Dikembangkan oleh dokter, psikoterapis, aktivis hak asasi manusia, dan individu yang terkena dampak, menekankan hak untuk menentukan jenis kelamin sendiri dan kewajiban untuk perawatan medis menghormati penentuan diri ini."
   },
   {
+    "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+    "slug": "lavender-rights-project",
+    "externalUrl": "https://www.lavenderrightsproject.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 639-7955",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6139026,
+      -122.3201635
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Lavender Rights Project",
+    "description": "Lavender Rights Project meningkatkan kekuatan, otonomi, dan kepemimpinan komunitas interseks dan beragam gender hitam melalui layanan hukum dan sosial yang bersifat interseksional. Ini menyediakan advokasi perubahan kebijakan dan sosial yang menyelamatkan jiwa, perawatan komprehensif, dan layanan hukum bagi individu LGBTQ+, dengan penekanan khusus pada dukungan bagi komunitas trans hitam."
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -358,6 +381,39 @@
     },
     "title": "Youth Eastside Services",
     "description": "Youth Eastside Services (YES) adalah organisasi nirlaba yang menyediakan layanan kesehatan mental dan penyalahgunaan zat yang komprehensif untuk pemuda dan keluarga mereka, terlepas dari kemampuan mereka untuk membayar. Berlokasi di Washington, layanannya mencakup konseling, terapi, dukungan untuk komunitas LGBTQ+, dan berbagai program berbasis komunitas."
+  },
+  {
+    "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+    "slug": "ingersoll-gender-center",
+    "externalUrl": "https://ingersollgendercenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 849-7859",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6138987,
+      -122.3203007
+    ],
+    "email": "info@ingersollgendercenter.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+      "twitterUrl": "https://twitter.com/IngersollGender"
+    },
+    "title": "Ingersoll Gender Center",
+    "description": "Sebuah organisasi oleh dan untuk orang-orang transgender dan gender nonconforming yang memberikan dukungan mutual melalui kelompok dukungan yang dipimpin oleh rekan sebaya, berjuang dalam menavigasi sumber daya, organisasi masyarakat, dan pendidikan — semua dalam upaya penentuan diri kolektif kita."
   },
   {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
@@ -642,6 +698,37 @@
     "socialMedia": null,
     "title": "Meridian",
     "description": "Meridian telah menganjurkan dan mendukung komunitas LGBTIQA+ selama lebih dari 40 tahun, menawarkan berbagai layanan dan program di wilayah Canberra seperti layanan HIV, layanan kesejahteraan, program penjangkauan pekerja seks dan lainnya."
+  },
+  {
+    "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+    "slug": "transponder",
+    "externalUrl": "https://transponder.community/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1185 Arthur St, Eugene, OR 97402, USA",
+    "phoneNumber": "541-321-0872",
+    "country": "US",
+    "provinceOrState": "OR",
+    "city": "Eugene",
+    "county": "Lane County",
+    "latLng": [
+      44.0470325,
+      -123.1244504
+    ],
+    "email": "info@transponderoregon.org",
+    "socialMedia": null,
+    "title": "TransPonder",
+    "description": "TransPonder adalah sebuah organisasi nirlaba yang didirikan dan dipimpin oleh transgender di Eugene, Oregon yang menyediakan dukungan, sumber daya, dan pendidikan untuk komunitas trans/gender-diverse dan sekutu kami. Mereka menawarkan berbagai sumber daya dan acara seperti kelas yoga gender-diverse, Klub Buku Transponder, dan kelompok dukungan."
   },
   {
     "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
@@ -1064,6 +1151,32 @@
     "description": "Sylvia Rivera Law Project bekerja untuk menjamin bahwa semua orang bebas menentukan identitas dan ekspresi gender mereka, terlepas dari pendapatan atau ras, dan tanpa menghadapi pelecehan, diskriminasi atau kekerasan. SRLP menyediakan bantuan hukum, mengorganisir kampanye, melakukan pelatihan, dan menjalankan Komite Penasihat Narapidana. Keterlibatan komunitas dianjurkan melalui donasi, sukarelawan, dan keanggotaan."
   },
   {
+    "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+    "slug": "trans-sask-resources",
+    "externalUrl": "https://www.transsask.ca/resources/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transsask.ca",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransSask",
+      "facebookUrl": "https://www.facebook.com/TransSask",
+      "instagramUrl": "https://www.instagram.com/TransSask"
+    },
+    "title": "Trans Sask Resources",
+    "description": "Trans Sask adalah organisasi nirlaba yang memberikan dukungan dan berfungsi sebagai jaringan sumber daya untuk individu yang diidentifikasi sebagai trans, genderqueer, interseks dan non-konformitas gender, pasangan mereka, keluarga, teman, dan sekutu. Sumber daya yang ditawarkan termasuk akses ke perawatan kesehatan yang mengesahkan, panduan perubahan nama dan panduan media inklusif trans."
+  },
+  {
     "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
     "slug": "allentown-womens-center",
     "externalUrl": "https://allentownwomenscenter.com/",
@@ -1166,6 +1279,34 @@
     "socialMedia": null,
     "title": "Cara membungkus ftm dengan kaos kaki | Packer DIY",
     "description": "Pos blog ini menawarkan panduan komprehensif tentang cara membuat packer buatan sendiri menggunakan kaos kaki dan bahan terjangkau lainnya. Juga termasuk alternatif DIY untuk prostetik FTM lainnya untuk membantu individu transmasculin merasa lebih nyaman dan otentik."
+  },
+  {
+    "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+    "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+    "externalUrl": "https://transadvice.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "discord-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/transadvice",
+      "tumblrUrl": "http://transadvice.tumblr.com/"
+    },
+    "title": "Obrolan dukungan transgender yang berdasarkan pada peer dari TransAdvice. Live Support Chat",
+    "description": "TransAdvice adalah jaringan yang didorong oleh komunitas yang menawarkan ruang aman dan terbuka untuk dukungan dan sumber daya bagi anggota komunitas transgender dan non-binari, serta anggota keluarga mereka, pasangan yang berarti, teman, dan sekutu."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1408,6 +1549,30 @@
     },
     "title": "Pusat Komunitas LGBTQ Oakland",
     "description": "Pertama kali di Oakland, organisasi non-profit 501c3, untuk semua usia, pusat pelayanan komunitas LGBTQ semuanya. Layanan yang ditawarkan meliputi kelompok dukungan, dukungan kesehatan mental, bantuan perumahan, program pemuda, klinik hukum, dapur umum, dll. Program khusus juga diselenggarakan untuk anggota komunitas LGBTQ+ yang berusia lanjut dan anggota komunitas transgender."
+  },
+  {
+    "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+    "slug": "gender-census",
+    "externalUrl": "https://www.gendercensus.com/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "hello@gendercensus.com",
+    "socialMedia": {
+      "tumblrUrl": "https://gendercensus.tumblr.com/",
+      "mastodonUrl": "https://mastodon gendercensus.com/",
+      "patreonUrl": "https://www.patreon.com/gendercensus"
+    },
+    "title": "Sensus Gender",
+    "description": "Sensus Gender adalah survei tahunan yang mengumpulkan data tentang bahasa yang digunakan oleh orang-orang yang tidak mengidentifikasi diri mereka dalam biner gender. Survei ini, yang telah dilakukan setiap tahun sejak 2015, berusaha untuk mencakup berbagai pengalaman dan identitas gender yang lebih luas, termasuk mereka yang gender-nya berubah seiring waktu, fluktuatif dalam intensitas, atau ada di luar biner laki-laki/perempuan. Ini melayani komunitas transgender dengan mempromosikan inklusivitas dan pemahaman."
   },
   {
     "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
@@ -1753,6 +1918,26 @@
     "description": "TLDEF berkomitmen untuk mengakhiri diskriminasi berdasarkan identitas dan ekspresi gender dan mencapai kesetaraan bagi orang transgender melalui pendidikan publik, litigasi kasus uji, layanan hukum langsung, dan upaya kebijakan publik. Mereka menyediakan berbagai layanan seperti proyek perubahan nama, litigasi dampak dan proyek kesehatan trans. Ini juga menyediakan pembaruan tentang masalah hukum terkait yang mempengaruhi komunitas transgender."
   },
   {
+    "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+    "slug": "trans-human-rights-ilga-world-releases-global-research",
+    "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Hak-hak transuman: ILGA World merilis penelitian global tentang pengakuan gender hukum dan kriminalisasi",
+    "description": "Edisi ketiga dari publikasi ini meneliti ketentuan yang menetapkan bagaimana orang trans dan beragam gender dapat mengubah penanda jenis kelamin/gender dan nama mereka pada dokumen identitas resmi (pengakuan gender hukum), dan juga mengumpulkan informasi tentang hukum yang mengkriminalisasi identitas trans, baik secara eksplisit maupun de facto - melihat situasi untuk komunitas kami di setiap wilayah dunia."
+  },
+  {
     "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
     "slug": "gender-justice-league",
     "externalUrl": "https://www.genderjusticeleague.org/",
@@ -1972,6 +2157,78 @@
     "description": "Pusat Pengetahuan dan Perawatan untuk Disforia Gender di Amsterdam UMC mengkhususkan diri dalam memberikan perawatan medis dan dukungan psikologis kepada orang-orang yang merasa jenis kelamin mereka saat lahir tidak sesuai dengan identitas mereka. Pusat ini menerima keanekaragaman individu, menyesuaikan layanannya dengan kebutuhan pribadi, dan diakui secara internasional karena keahliannya dalam mengobati inkongruensi gender. Pusat ini juga melakukan penelitian untuk meningkatkan pemahaman dan pengobatan individu transgender dan menawarkan pelatihan kepada profesional kesehatan baru."
   },
   {
+    "id": "944ced3e-e26f-48c3-bc28-7e0c78410698",
+    "slug": "trans-rights-map-2022-reveals-slow-comeback-of-progress-on-trans-rights",
+    "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "phoneNumber": null,
+    "address": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Peta Hak Trans 2022 mengungkapkan kembalinya lambat kemajuan hak-hak trans",
+    "description": "Laporan ini oleh TGEU menunjukkan kemajuan dan regresi dalam hak-hak hukum orang trans di Eropa dan Asia Tengah. Di antara temuan lainnya, ini menunjukkan perlambatan di bidang seperti suaka, pidato kebencian, dan hukum kesetaraan, tetapi kemajuan di bidang seperti pengakuan gender hukum dan perlindungan terhadap diskriminasi."
+  },
+  {
+    "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+    "slug": "facial-feminization-surgery-procedures",
+    "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+    "tags": [
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+    "phoneNumber": null,
+    "country": "BE",
+    "provinceOrState": "Vlaams Gewest",
+    "city": "Antwerpen",
+    "county": "AN",
+    "latLng": [
+      51.1787102,
+      4.430423300000001
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+    },
+    "town": "Berchem",
+    "title": "Prosedur Operasi Feminisasi Wajah",
+    "description": "2pass Clinic menawarkan berbagai prosedur operasi untuk membantu wanita transgender dalam transisi. Ini termasuk Operasi Feminisasi Wajah dan Tubuh, Penghapusan Rambut Permanen dan perawatan Transplantasi Rambut. Sumber daya ini memberikan informasi detail tentang setiap prosedur FFS dan membantu memandu wanita trans dalam membuat pilihan yang tepat untuk perjalanan mereka."
+  },
+  {
+    "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+    "slug": "lambert-house",
+    "externalUrl": "https://www.lamberthouse.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+    "phoneNumber": "206.322.2515",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.61818580000001,
+      -122.3124183
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Lambert House",
+    "description": "Lambert House memberdayakan pemuda lesbian, gay, biseksual, transgender, dan yang sedang mencari jati diri melalui pengembangan kepemimpinan, keterampilan sosial, dan kehidupan. Ini adalah ruang yang aman untuk pemuda LGBTQ berusia 10-22 tahun, menyediakan lebih dari 30 program tahunan dan berkelanjutan, aktivitas, sumber daya, dan layanan berbeda. Lingkungannya yang mendukung cocok untuk para pemuda untuk terhubung dan belajar satu sama lain."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -2183,6 +2440,30 @@
     "description": "Ruang Ganti Pronoun menyediakan ruang online di mana individu dapat mencoba dan menjelajahi berbagai set pronoun untuk melihat yang mana yang cocok untuk mereka. Situs web ini memfasilitasi pengambilan keputusan yang lebih mudah dalam pemilihan pronoun untuk komunitas transgender, memungkinkan mereka untuk melihat bagaimana penampilan pronoun yang berbeda dalam konteks yang berbeda."
   },
   {
+    "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+    "slug": "queer-sex-ed-podcast",
+    "externalUrl": "https://www.queersexed.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "queersexed@gmail.com",
+    "socialMedia": {
+      "patreonUrl": "https://www.patreon.com/queersexed",
+      "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+      "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+    },
+    "title": "Podcast Pendidikan Seks Queer",
+    "description": "Seri podcast yang bertujuan untuk 'queer' pendidikan seks untuk sengaja memasukkan narasi dan pengalaman dari orang lesbian, gay, biseksual, transgender, gender queer, gender fluid, orang agender, orang poliamor, orang aseksual, orang dengan disabilitas dan lainnya. Pertunjukan ini membahas kurangnya pendidikan seks yang tepat dan representasi media untuk komunitas ini, dan berusaha untuk melawan stigma sosial yang terkait."
+  },
+  {
     "id": "aac7385e-58e6-4839-be0e-b637b1021437",
     "slug": "bradbury-sullivan-lgbt-community-center",
     "externalUrl": "https://www.bradburysullivancenter.org/",
@@ -2229,6 +2510,39 @@
     },
     "title": "Sebuah Tempat untuk Marsha",
     "description": "Sebuah Tempat untuk Marsha adalah salah satu dari banyak proyek start-up yang bertujuan untuk membantu individu dan keluarga Trans dalam negara yang semakin berbahaya menuju tempat yang lebih aman. APFM memulai perjalanannya pada Maret 2023 sebagai reaksi terhadap meningkatnya legislasi anti-trans di seluruh negeri. APFM sekarang berfokus pada mencocokkan Pengungsi dari negara merah sebagai teman sekamar, dengan hati-hati menangani satu rumah tangga dalam satu waktu."
+  },
+  {
+    "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+    "slug": "outsaskatoon-support-for-2slgbtq-community",
+    "externalUrl": "https://www.outsaskatoon.ca/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+    "phoneNumber": "1-306-665-1224",
+    "country": "CA",
+    "provinceOrState": "SK",
+    "city": "Saskatoon",
+    "latLng": [
+      52.1271613,
+      -106.673858
+    ],
+    "email": "hello@outsaskatoon.ca",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+      "twitterUrl": "https://twitter.com/OUTSaskatoon",
+      "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+    },
+    "title": "OUTSaskatoon: Dukungan untuk Komunitas 2SLGBTQ",
+    "description": "OUTSaskatoon adalah pusat komunitas dan penyedia layanan untuk komunitas 2SLGBTQ di Saskatoon dan sekitarnya. Mereka menyediakan layanan dukungan, perumahan bagi para remaja, serta layanan pendidikan dan penelitian melalui pendekatan yang berbasis pada penanggulangan kerusakan, informasi budaya, mencari persamaan, dan berbasis komunitas. Mereka menawarkan konseling dan dukungan sebaya, perumahan untuk remaja 2SLGBTQ (Pride Home), workshop dan pelatihan, serta klinik kesehatan seksual."
   },
   {
     "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
@@ -2615,6 +2929,29 @@
     "description": "Freedom Centre menyediakan berbagai jenis layanan dukungan untuk pemuda LGBTIQA+ di sekitar WA, termasuk sesi bertemu dan berbicara, pengembangan komunitas, konseling, dan lainnya. Mereka bekerja ke arah membuat semua pemuda LGBTIQA+ merasa dipahami, terhubung, dan dihargai. Mereka juga memberikan pelatihan dan panduan kepada orangtua, profesional, komunitas, dan organisasi."
   },
   {
+    "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+    "slug": "trans-fertility-co-shop-live",
+    "externalUrl": "https://transfertility.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans Fertility Co. Toko Langsung",
+    "description": "Toko Trans Fertility Co. menyediakan sumber daya, wawancara, dan cerita pribadi mengenai berbagai aspek fertilitas transgender. Ini adalah platform untuk belajar, berbagi, dan merayakan fertilitas trans."
+  },
+  {
     "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
     "slug": "point-of-pride",
     "externalUrl": "https://www.pointofpride.org/",
@@ -2692,6 +3029,33 @@
     "socialMedia": null,
     "title": "BlaQ Aboriginal Corporation",
     "description": "BlaQ Aboriginal Corporation adalah sebuah organisasi masyarakat yang didedikasikan untuk mendukung dan memberdayakan komunitas LGBTQ+SB Aborigin dan Torres Strait Islander melalui inovasi, inklusi, pemahaman, dan advokasi."
+  },
+  {
+    "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+    "slug": "refuge-restrooms",
+    "externalUrl": "https://www.refugerestrooms.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Refuge Restrooms",
+    "description": "Refuge Restrooms adalah aplikasi web yang bertujuan untuk menyediakan akses toilet yang aman bagi individu transgender, interseks, dan yang tidak sesuai dengan norma gender. Pengguna dapat mencari toilet berdasarkan kedekatan dengan lokasi pencarian, menambahkan daftar toilet baru, serta mengomentari dan memberi penilaian pada daftar yang ada."
   },
   {
     "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
@@ -2816,6 +3180,31 @@
     "description": "Departemen Kesehatan Umum California (CDPH) melayani kesehatan semua orang California termasuk komunitas Lesbian, Gay, Biseksual, dan Transgender (LGBT). Mereka menyediakan sumber daya untuk memahami masalah kesehatan yang paling sering mempengaruhi komunitas LGBT, skrining yang diperlukan pada berbagai tahap kehidupan, dan alat untuk gaya hidup yang sehat."
   },
   {
+    "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+    "slug": "stonewall-youth",
+    "externalUrl": "https://www.stonewallyouth.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "112 State Ave NE, Olympia, WA 98501, USA",
+    "phoneNumber": "3608884273",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Olympia",
+    "county": "Thurston County",
+    "latLng": [
+      47.0460037,
+      -122.9011227
+    ],
+    "email": "info@stonewallyouth.org",
+    "socialMedia": null,
+    "title": "Stonewall Youth",
+    "description": "Stonewall Youth adalah organisasi nirlaba yang menawarkan dukungan untuk remaja LGBTQ+. Program mingguan yang komprehensif, kelompok dukungan, dan sumber daya mereka melayani kebutuhan kaum muda queer dan trans. Mereka menyediakan makanan, barang-barang esensial, dan bahkan sponsor bagi rekanan remaja. Stonewall Youth berdedikasi untuk menciptakan ruang pemberdayaan bagi remaja LGBTQ+ untuk memimpin, belajar, dan berbagi pengalaman mereka."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2904,6 +3293,28 @@
     },
     "title": "Center on Halsted",
     "description": "Pusat komunitas Chicago yang berdedikasi untuk memajukan komunitas Lesbian, Gay, Biseksual, Transgender (LGBT) dan Queer (+) melalui penyediaan program pelayanan, acara, pelatihan, dan sumber daya. Termasuk layanan untuk HIV/AIDS & STD, Kesehatan Perilaku, Anti-kekerasan dan program khusus untuk pemuda dan orang tua."
+  },
+  {
+    "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+    "slug": "voice-resource-repository",
+    "externalUrl": "https://wiki.sumianvoice.com/",
+    "tags": [
+      "voice-training",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "sumianvoice@gmail.com",
+    "socialMedia": {
+      "githubUrl": "https://github.com/sumiansvoice"
+    },
+    "title": "Repositori Sumber Suara",
+    "description": "Repositori Sumber Suara adalah proyek terbuka dan berkembang yang dimulai oleh Sumi dan Emma dengan tujuan untuk menyediakan informasi yang mudah dipahami dan arah untuk mereka yang ingin mengubah suara mereka. Fokus pada praktik feminisasi dan maskulinisasi, inisiatif ini dimaksudkan untuk membantu pemula dan juga sebagai referensi yang komprehensif bagi siswa dan guru. Walaupun masih mayoritas berorientasi feminisasi, kerja sedang dilakukan untuk membuatnya agnostik terhadap tujuan pengguna."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -3037,6 +3448,30 @@
     "description": "Twenty10 termasuk GLCS menyediakan berbagai layanan yang mengubah hidup bagi para pemuda di seluruh NSW yang mengidentifikasi diri sebagai lesbian, gay, biseksual, transgender atau beragam jenis kelamin, interseks, queer, aseksual atau sedang mempertanyakan identitas mereka. Layanan mereka termasuk penerimaan dan rujukan, perumahan dan manajemen kasus, konseling, program dukungan sosial, dan pelatihan inklusivitas LGBTIQA+"
   },
   {
+    "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+    "slug": "rainbow-center",
+    "externalUrl": "https://rainbowcntr.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+    "phoneNumber": "(253) 383-2318",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Tacoma",
+    "county": "Pierce County",
+    "latLng": [
+      47.241526,
+      -122.4354485
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Pusat Pelangi",
+    "description": "Pusat Pelangi bertujuan untuk meningkatkan sumber daya dan keamanan komunitas LGBTQ2SA melalui pendidikan, advokasi, dan perayaan. Ini juga mengakui peristiwa yang terjadi di tanah Coast Salish dan pentingnya signifikansi budaya dan sejarahnya."
+  },
+  {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
     "slug": "transgendermap",
     "externalUrl": "https://transgendermap.com",
@@ -3156,6 +3591,28 @@
     "socialMedia": null,
     "title": "Transcend Australia",
     "description": "Tujuan dari Transcend Australia adalah untuk mendukung, mengakui, dan merayakan kehidupan anak-anak dan keluarga serta pengasuh yang beragam gender dan trans. Mereka menyediakan informasi, dukungan dan rujukan kepada keluarga di seluruh Australia dan bekerja untuk memberdayakan anak-anak dan remaja yang beragam gender dan trans."
+  },
+  {
+    "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+    "slug": "acoustic-gender",
+    "externalUrl": "https://acousticgender.space/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Jenis Kelamin Akustik",
+    "description": "Sebuah platform online yang menyediakan bantuan visual interaktif untuk memahami bagaimana suara dipandang dalam hal jenis kelamin. Ini merencanakan rekaman suara pengguna untuk memungkinkan visualisasi nada dan resonansi sepanjang waktu yang dapat memberi informasi tentang perjalanan transisi suara mereka jika dibutuhkan."
   },
   {
     "id": "f48634db-fe71-426c-be84-622b3282bad7",
@@ -3297,6 +3754,29 @@
     },
     "title": "Pusat Dokumen Identitas Kesetaraan Transgender",
     "description": "Sumber daya komprehensif yang membantu individu untuk memperbarui nama dan jenis kelamin mereka pada ID dan catatan negara dan federal. Ini menyediakan informasi tentang nilai kebijakan untuk setiap negara dan langkah-langkah untuk berbagai proses termasuk pembaruan paspor, catatan keamanan sosial, catatan militer / veteran, dll."
+  },
+  {
+    "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+    "slug": "trans-healthcare",
+    "externalUrl": "https://www.transhealthcare.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHealthCare",
+    "description": "TransHealthCare adalah basis data bedah gender terbesar dan paling lengkap. Ini telah membantu ribuan orang transgender dan non-binari dari seluruh dunia menemukan seorang ahli bedah. Situs web ini menyediakan platform untuk menemukan seorang ahli bedah berdasarkan prosedur, negara bagian AS, jenis asuransi, dan negara. Itu juga menjadi tuan rumah berbagai macam sumber daya termasuk berita terbaru tentang ahli bedah dan penelitian tentang operasi penegasan gender."
   },
   {
     "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",

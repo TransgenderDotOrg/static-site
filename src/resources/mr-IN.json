@@ -182,6 +182,29 @@
     "description": "स्टुटगर्टर घोषणापत्रात ट्रान्सजेंडर आणि इंटरसेक्स व्यक्त्यांचा सन्मानपूर्वक वागणूक करण्याच्या महत्त्वाची मुद्रांकिती आहे. यामध्ये ट्रान्सजेंडर आणि इंटरसेक्स व्यक्तींसाठी वैद्यकीय, मनोचिकित्सानिष्ठ, सल्लागारी, आणि सहाय्य सेवांमधील मानवाधिकारांच्या महत्त्वाची मुद्रांकिती करते. याला वैद्यकीय व्यक्ती, मनोचिकित्सक, मानवाधिकार कारवाई करणारे, आणि प्रभावित व्यक्तींनी विकसित केलेल्या, ते आपले स्वत:चे लिंग ठरवण्याचे अधिकार आणि या स्वत:च्या निर्धारितीवर आदर देण्याची वैद्यकीय उपचारांची आवश्यकता यांची मुद्रांकिती करते."
   },
   {
+    "id": "1076f9f2-fabb-433f-9b5d-4086e04654cd",
+    "slug": "lavender-rights-project",
+    "externalUrl": "https://www.lavenderrightsproject.org/",
+    "tags": [
+      "legal",
+      "social-services"
+    ],
+    "address": "911 E Pike St #314, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 639-7955",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6139026,
+      -122.3201635
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "लॅव्हेंडर अधिकार प्रकल्प",
+    "description": "लॅव्हेंडर अधिकार प्रकल्प म्हणजे अंतर्गत व कायागत विविध समुदायाची शक्ती, स्वायत्तता आणि नेतृत्व वाढवते. ती एलजीबीटीक्यू+ व्यक्तींना आयुष्य वाचवणारी धोरण आणि सामाजिक बदलाची वकालत, सम्पूर्ण देखरेख, आणि विधी सेवा पुरवते, विशेषतः कृष्ण ट्रान्स समुदायांच्या मदतीसाठी संघटने केलेली. "
+  },
+  {
     "id": "11cfde25-5434-4fae-b782-c9597ebe52f3",
     "slug": "deifydeify-qtibipoc-collective",
     "externalUrl": "https://linktr.ee/deifycbr",
@@ -358,6 +381,39 @@
     },
     "title": "युथ ईस्टसाइड सेवा",
     "description": "युथ ईस्टसाइड सेवा (YES) ही एक निव्हाळसंस्था आहे जी तरुणांना व त्यांच्या कुटुंबीयांना मानसिक आरोग्य व मादक द्रव्यांच्या सेवा प्रदान करते, त्यांच्या भाराचे क्षमता असो तितकीही. वाशिंगटनमध्ये स्थित असलेल्या त्याच्या सेवांमध्ये सल्लागार, उपचार, LGBTQ+ समुदायासाठीचे समर्थन, व विविध समुदायाधारित कार्यक्रम असतात."
+  },
+  {
+    "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+    "slug": "ingersoll-gender-center",
+    "externalUrl": "https://ingersollgendercenter.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+    "phoneNumber": "(206) 849-7859",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6138987,
+      -122.3203007
+    ],
+    "email": "info@ingersollgendercenter.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+      "twitterUrl": "https://twitter.com/IngersollGender"
+    },
+    "title": "Ingersoll लिंग केंद्र",
+    "description": "ह्या ऑर्गनायझेशनमध्ये अन्यलिंगी आणि लिंगाची अनुपालन करणार्‍या लोकांना मिळवण्याची मदत करणारे सहयोगी समूह, संसाधनांच्या मार्गदर्शनात समर्थन करणारे, सामुदायिक संघटने, और शिक्षण — सर्वांच्या सामूहिक स्वतंत्रतेच्या मागणीस."
   },
   {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
@@ -642,6 +698,37 @@
     "socialMedia": null,
     "title": "मेरिडियन",
     "description": "मेरिडियनने LGBTIQA+ समुदायासाठी प्रवाद आणि समर्थनासे 40 वर्षांसाठी केलेले आहे, कॅनबेरा प्रदेशात एचआईव्ही सेवा, कल्याण सेवा, लैंगिक कामगारांच्या आउटरीच कार्यक्रमांसह इतर सेवा आणि प्रक्रमांची सर्वांत मोठी श्रृंखला प्रदान करते."
+  },
+  {
+    "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+    "slug": "transponder",
+    "externalUrl": "https://transponder.community/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1185 Arthur St, Eugene, OR 97402, USA",
+    "phoneNumber": "541-321-0872",
+    "country": "US",
+    "provinceOrState": "OR",
+    "city": "Eugene",
+    "county": "Lane County",
+    "latLng": [
+      44.0470325,
+      -123.1244504
+    ],
+    "email": "info@transponderoregon.org",
+    "socialMedia": null,
+    "title": "TransPonder",
+    "description": "TransPonder म्हणजे इयुजिन, ऑरेगॉनमधील एक ट्रान्सजेंडरने स्थापन केलेली आणि नेतृत्व दिलेली नॉनप्रॉफिट संस्था आहे, जी ट्रान्स / लिंग विविध समुदायासाठी आणि आमच्या सहकार्यांसाठी समर्थन, संसाधने आणि शिक्षण प्रदान करते. त्यांनी लिंगविविध योग वर्ग, Transponder पुस्तक क्लब, आणि समर्थन गट असे विविध संसाधने आणि कार्यक्रम प्रदान केले आहेत."
   },
   {
     "id": "34974bb4-5b32-4157-8820-250bef7a47a8",
@@ -1064,6 +1151,32 @@
     "description": "सिल्विया रिवेरा विधी प्रकल्प असा काम करतो की सर्व लोक मुग उत्पन्न केलेल्या लिंग ओळख व व्यक्तीमत्व, उद्योग किंवा जातीच्या परवानगीशिवाय, त्रास, भेदभाव किंवा हिंसा त्यांना सामोरे करण्याची चूक न करता, धरली जाईल. SRLP विधी सहाय्य प्रदान करते, अभियानांची संचालन करते, प्रशिक्षणे घेतली जातात, व सोडतीच्या सल्लागार समितीचे कार्य करते. समुदायातील सहभाग सहयोगाच्या रुपात, स्वयंसेवामध्ये, व सदस्यतेमध्ये प्रोत्साहित केले जाते."
   },
   {
+    "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+    "slug": "trans-sask-resources",
+    "externalUrl": "https://www.transsask.ca/resources/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transsask.ca",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransSask",
+      "facebookUrl": "https://www.facebook.com/TransSask",
+      "instagramUrl": "https://www.instagram.com/TransSask"
+    },
+    "title": "Trans Sask संसाधने",
+    "description": "Trans Sask हे एक नफायसक संस्था आहे जी trans-identified, लिंगशंक, इंटरसेक्स व लिंग-अधीनायक व्यक्तींच्या मदतीसाठी आणि संसाधन जालवाण्याची कार्ये करते, त्यांच्या पत्नी, कुटुंब, मित्र, व त्यांच्या संरक्षकांसाठी. उपलब्ध केलेले संसाधन आरोग्यसेवा क्षेत्री समर्थन करणे, नाव बदलण्याचे मार्गदर्शक आणि गळीची समाविष्ट माध्यम मार्गदर्शक आहेत."
+  },
+  {
     "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
     "slug": "allentown-womens-center",
     "externalUrl": "https://allentownwomenscenter.com/",
@@ -1166,6 +1279,34 @@
     "socialMedia": null,
     "title": "सॉक्ससह एफटीएम कसे पॅक करावे | DIY पॅकर",
     "description": "ह्या ब्लॉग पोस्ट मध्ये सॉक्स आणि इतर सस्ते साहित्य वापरुन घरगुती पॅकर कसे तयार करावे ह्याबद्दल एक संपूर्ण मार्गदर्शक उपलब्ध आहे. तसेच इतर एफटीएम प्रोस्थेटिक्ससाठी डीआयवाय सामर्थ्यांची दहशत म्हणजे ट्रांसमस्कुलिन व्यक्तींना अधिक सहज आणि अौथेंटिक वाटू देण्यासाठी सर्वसमवेत."
+  },
+  {
+    "id": "5374694d-4e52-4e0b-b4c6-c4b0bd89689d",
+    "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
+    "externalUrl": "https://transadvice.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "discord-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/transadvice",
+      "tumblrUrl": "http://transadvice.tumblr.com/"
+    },
+    "title": "TransAdvice समलिंगी समर्थन चॅट आधारित पर इतरांना. लाईव समर्थन चॅट",
+    "description": "TransAdvice ही एक समुदाय आधारीत नेटवर्क आहे जी समलिंगी आणि गैर-बायनरी समुदायांच्या सदस्यांसाठी, तसेच त्यांच्या कुटुंबीयांसाठी, महत्त्वाच्या इतरांसाठी, मित्रांसाठी आणि मित्रांसाठी सुरक्षित आणि मुक्त स्थळ प्रदान करते."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1408,6 +1549,30 @@
     },
     "title": "ओकलॅंड LGBTQ समुदाय केंद्र",
     "description": "ओकलॅंडचे एकच निधी विनियोग 501c3, सर्व वयोगटां, सर्व समाविष्ट LGBTQ समुदाय सेवा केंद्र. सेवेमध्ये समर्थन समूह, मानसिक आरोग्य समर्थन, निवास सहाय्य, तरुण कार्यक्रम, कायद्याशास्त्रीय चौकशी, अन्नकोठर इत्यादी समाविष्ट आहे. वयस्क LGBTQ+ लोक आणि तरुणसमुदाय सदस्यांसाठी विशेष कार्यक्रमही केलेले आहे."
+  },
+  {
+    "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+    "slug": "gender-census",
+    "externalUrl": "https://www.gendercensus.com/",
+    "tags": [
+      "non-binary",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "hello@gendercensus.com",
+    "socialMedia": {
+      "tumblrUrl": "https://gendercensus.tumblr.com/",
+      "mastodonUrl": "https://mastodon gendercensus.com/",
+      "patreonUrl": "https://www.patreon.com/gendercensus"
+    },
+    "title": "लिंग सर्वेक्षण",
+    "description": "लिंग सर्वेक्षण ही तासभर असलेली सर्वेक्षण आहे जी लोकांचे वापरण्यात आलेल्या भाषेबद्दलचे डेटा गोळा करीत आहे, जे लिंग द्वंद्वामध्ये ओळखत नसतात. ही सर्वेक्षण, जी 2015 पासून प्रतिवर्षी केली जात आहे, अधिक विस्तृत लिंग अनुभव व ओळखांचा व्यापन करण्याचे प्रयत्न करते, त्यामध्ये त्यांचा लिंग वेळेनुसार बदलणारे, गाठीनुसार बदलणारे किंवा पुरुष / स्त्री द्वंद्वीत बाहेरचे असलेले समाविष्ट आहेत. त्या तरुण लैंगिक समुदायाच्या मदतीसाठी त्या समवेतनशीलता आणि समजून घेण्याची प्रोत्साहन देतात."
   },
   {
     "id": "6b4856a7-8cc7-4935-b5ee-bd6ca0dd9a4c",
@@ -1753,6 +1918,26 @@
     "description": "टीएलडीईएफचे प्रतिबद्धत्व लिंगपहचान आणि अभिव्यक्तीवर आधारित भेदभाव समाप्त करण्याच्या दिशेने आहे आणि सार्वजनिक शिक्षण, परिक्षण विचारणी, प्रत्यक्ष कायद्यावर्षीय सेवा, आणि सार्वजनिक धोरण प्रयत्नांमार्फत मैत्रणियांसाठी समानता प्राप्त करण्याच्या दिशेने आहे.त्यांनी वेगवेगळ्या सेवा दिली आहेत जसाकी नाव बदल प्रकल्प, प्रभावी विचारणी आणि मैत्रणी आरोग्य प्रकल्प. त्याचबरोबर मैत्रणी समुदायावर परिणाम करणारी कायद्यावर्षीय मुद्दे संबंधित अद्यतने देण्यासाठीही त्यांनी सेवा दिली आहे."
   },
   {
+    "id": "85d47342-e7de-44f4-a712-64d5eb8fd79e",
+    "slug": "trans-human-rights-ilga-world-releases-global-research",
+    "externalUrl": "https://ilga.org/ilga-world-releases-trans-legal-mapping-report-3rd-edition",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ट्रान्स मानवी हक्क: ILGA वर्ल्डमध्ये सांघिक लिंग पहचान आणि गुन्हेगारीसाठी वैश्विक संशोधन सोडले जाते",
+    "description": "प्रकाशनाच्या तिसर्या आवृत्तीने ते नियम अध्ययन केले आहेत ज्यामुळे ट्रान्स आणि लिंग-विविध लोक त्यांच्या लिंग / लिंग चिन्ह आणि नावांना अधिकृत ओळख पत्रांवर बदलू शकतात (कायदेशीर लिंग पहचान), आणि म्हणजेच ट्रान्स ओळखांना खाली पाडणार्‍या कायद्यांची माहिती संग्रहित केली आहे, व्यक्त पणे आणि de facto - आमच्या समुदायांच्या स्थितीवर जगाच्या प्रत्येक प्रदेशाचा मुलाखत घेतला आहे."
+  },
+  {
     "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
     "slug": "gender-justice-league",
     "externalUrl": "https://www.genderjusticeleague.org/",
@@ -1972,6 +2157,78 @@
     "description": "अ‍ॅम्स्टरडॅम UMC मधील जेंडर डिस्फोरिया साठी ज्ञान आणि व्यावसायिक केंद्र हे वैद्यकीय उपचार आणि मनोवृत्ती सहाय्य प्रदान करणेत तज्ज्ञ आहे, ज्या लोकं म्हणतात की त्यांचे जन्म लिंग त्यांच्या ओळखेशी जुळत नाही. केंद्र मुलायांची वैविध्यता स्वागत करते, त्याच्या सेवा वैयक्तिक गरजांशी जुळवते आणि लिंग असंगतता चाचणीत त्याच्या निपुणतेसाठी जागतिकपातीवर मान्यता मिळते. तो ट्रान्सजेंडर व्यक्तींच्या समजुती आणि उपचारात सुधारांसाठी संशोधनही करतो आणि नवीन आरोग्य व्यावसायिकांना प्रशिक्षण देतो."
   },
   {
+    "id": "944ced3e-e26f-48c3-bc28-7e0c78410698",
+    "slug": "trans-rights-map-2022-reveals-slow-comeback-of-progress-on-trans-rights",
+    "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
+    "tags": [
+      "legal",
+      "education-awareness"
+    ],
+    "phoneNumber": null,
+    "address": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "2022 चा ट्रान्स हक्कांचा नकाशा पुन्हा प्रगतीच्या दिशेने लांगलेल्यांचा पर्दाफाश करतो",
+    "description": "ही TGEU च्या अहवालाने युरोप आणि मध्य एशियातील ट्रान्स लोकांच्या कायद्याच्या हक्कांमधील प्रगती आणि हरकत दाखविलेली आहे. त्यात अनेक सापडलेल्या गोष्टीपैकी, त्यामध्ये आश्रय, नफरत भाषण, आणि समानता कायदे म्हणजेच अशी क्षेत्रांमध्ये कमी पडताळी, परंतु कायद्यांच्या लिंगाच्या मान्यतेच्या क्षेत्रांमध्ये व भेदभावाच्या विरोधात रक्षणावर प्रगती झालेली आहे."
+  },
+  {
+    "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+    "slug": "facial-feminization-surgery-procedures",
+    "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+    "tags": [
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+    "phoneNumber": null,
+    "country": "BE",
+    "provinceOrState": "Vlaams Gewest",
+    "city": "Antwerpen",
+    "county": "AN",
+    "latLng": [
+      51.1787102,
+      4.430423300000001
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+    },
+    "town": "Berchem",
+    "title": "चेहर्याच्या स्त्रैणीकरण शस्त्रक्रियांचे प्रक्रिया",
+    "description": "2पास क्लिनिक म्हणजेच विविध प्रकारच्या शल्यक्रियांनी ट्रांसजेंडर महिलांना संकल्पनेत बदल करण्यास मदत करते. यात चेहरा व शरीर स्त्रैणीकरण शस्त्रक्रिया, कायमस्वभावी केस निवारण आणि केसप्रत्यारोपण उपचार असलेली आहेत. हे संसाधन प्रत्येक एफएफएस प्रक्रियावर विस्तृत माहिती पुरवते आणि त्यांच्या प्रवासासाठी योग्य निवड करण्यात ट्रांस महिलांना मदत करते."
+  },
+  {
+    "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+    "slug": "lambert-house",
+    "externalUrl": "https://www.lamberthouse.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+    "phoneNumber": "206.322.2515",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.61818580000001,
+      -122.3124183
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "लॅम्बर्ट हाऊस",
+    "description": "लॅम्बर्ट हाऊस लेडकी, समलिंगी, द्विलिंगी, उलिंगी, आणि प्रश्नांसह सतत विकसित होणार्‍या तरुणांना नेतृत्व, सामाजिक, आणि आयुष्य कौशल्यांची प्राप्ती देउन सक्षम करते. ही LGBTQ तरूणांसाठी 10 ते 22 वयोगटातील सुरक्षित ठिकाण आहे, येथे वार्षिक आणि सतत कार्यक्रमांची, क्रियाकलापांची, संसाधनांची, आणि सेवांची ३० पेक्षा जास्त प्रकारे उपलब्ध आहेत. त्यांचे समर्थन करणाऱ्या वातावरणामुळे युवा एकमेकांशी जोडल्या जाऊ शकतात व एकमेकांकडून शिकण्याची क्षमता आहे."
+  },
+  {
     "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
     "slug": "trans-lifeline-peer-support-and-resources",
     "externalUrl": "https://translifeline.org/",
@@ -2183,6 +2440,30 @@
     "description": "सर्वनाम ड्रेसिंग रूम हे एक असा ऑनलाइन स्थळ पुरवतो जिथे व्यक्ती वेगवेगळे सेट आजमावू शकतात आणि त्यातील सर्वनामांची शोध घेऊ शकतात, जे त्यांच्यासाठी योग्य असतील. वेबसाइट ही ट्रान्सजेंदर समुदायासाठी सर्वनाम निवडण्यात सोपायी असलेली निर्णय घेण्याची सोय देते, जेणेकरून ते पाहू शकतात की वेगवेगळ्या संदर्भात वेगवेगळे सर्वनाम कसे दिसतील."
   },
   {
+    "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+    "slug": "queer-sex-ed-podcast",
+    "externalUrl": "https://www.queersexed.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "queersexed@gmail.com",
+    "socialMedia": {
+      "patreonUrl": "https://www.patreon.com/queersexed",
+      "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+      "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+    },
+    "title": "क्विअर सेक्स शिक्षण पॉडकास्ट",
+    "description": "हे पॉडकास्ट मालिका ‘क्विअर’ सेक्स शिक्षणाचे उद्दिष्ट करण्यास सांगतात अशा नरेटिव्ह आणि अनुभवांचा समावेश जे लेस्बियन, गॅड ,बायसेक्स्युअल, ट्रान्सजेंडर, जेंडर क्विअर, जेंडर फ्ल्युइड, गॅडजन लोक, पॉलीअॅमरस लोक, असेक्स्युअल लोक, अपंगांच्या अनुभवांची गोष्ट. या समुदायांसाठी योग्य सेक्स शिक्षण आणि मीडिया प्रतिष्ठापनाच्या कमतरतेचे मुद्दे सांगणारे शो असोशिएटेड सामाजिक स्टिग्मांच्या लढाईत अभ्यास करीत आहे."
+  },
+  {
     "id": "aac7385e-58e6-4839-be0e-b637b1021437",
     "slug": "bradbury-sullivan-lgbt-community-center",
     "externalUrl": "https://www.bradburysullivancenter.org/",
@@ -2229,6 +2510,39 @@
     },
     "title": "मार्शा साठी एक ठिकाण",
     "description": "मार्शा साठी एक ठिकाण हे अधिक व प्रतिसादात्मक म्हणजेच अधिक धोकादायक राज्यांतील ट्रान्स व्यक्तींची आणि कुटुंबियांची मदत करणार्या अनेक सुरुवातीच्या प्रकल्पांपैकी एक आहे. APFM त्याचे प्रवास मार्च 2023 मध्ये संपूर्ण देशातील विरोधक ट्रान्स कायद्यांच्या वाढीच्या प्रतिसादाने सुरु केले. APFM आता लाल राज्यातील शरणार्थ्यांना रुममेट म्हणून जोडण्यावर, एकैकाने घरगुती विचारलेल्या, केंद्रीभूत करते."
+  },
+  {
+    "id": "ac5cae8d-b152-4b3e-bb8a-aeb5ffebd7a9",
+    "slug": "outsaskatoon-support-for-2slgbtq-community",
+    "externalUrl": "https://www.outsaskatoon.ca/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
+    "phoneNumber": "1-306-665-1224",
+    "country": "CA",
+    "provinceOrState": "SK",
+    "city": "Saskatoon",
+    "latLng": [
+      52.1271613,
+      -106.673858
+    ],
+    "email": "hello@outsaskatoon.ca",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/outsaskatoon/",
+      "twitterUrl": "https://twitter.com/OUTSaskatoon",
+      "instagramUrl": "https://www.instagram.com/outsaskatoon/"
+    },
+    "title": "OUTSaskatoon: 2SLGBTQ समुदायासाठी समर्थन",
+    "description": "OUTSaskatoon हे Saskatoon आणि क्षेत्रीय 2SLGBTQ समुदायासाठी एक समुदाय केंद्र आणि सेवा प्रदाता आहे. त्यांनी हानी कमी करणार्‍या, सांस्कृतिकरूपाने माहितीपूर्ण, अधिकारांची शोध घेणार्‍या आणि समुदायविशेष पद्धतीने समर्थन सेवाए, तरुण वसतिगृह, शिक्षण आणि संशोधन सेवाए प्रदान केलेली आहेत. त्यांनी सल्ला आणि सहकारी समर्थन, 2SLGBTQ तरुण वसतिगृह (प्राईड होम), कार्यशाळा आणि प्रशिक्षण, आणि लैंगिक आरोग्य क्लिनिके प्रदान केलेली आहेत."
   },
   {
     "id": "af3483e3-d7f7-49d7-a4e9-b70e566bee98",
@@ -2615,6 +2929,29 @@
     "description": "स्वातंत्र्य केंद्रने लिंब्सोव्हीआ+, तरुण माणसांसाठी एक प्रचंड सहाय्य सेवा एकीकृत केलेली आहे, त्यात ड्रॉप-इन सत्र, समुदाय विकास, मनोपचार आणि अधिक असे आहे. ते सर्व लिंब्सोव्हीआ+ तरुण माणसांना समाविष्ट, जोडलेले आणि सन्मानित वाटण्यासाठी काम करतात. ते माता-पिता, प्रामाणिक, समुदाये आणि संघटनांना प्रशिक्षण आणि मार्गदर्शन देतात."
   },
   {
+    "id": "c426a3c8-13ac-4a26-8d06-1842aad848ad",
+    "slug": "trans-fertility-co-shop-live",
+    "externalUrl": "https://transfertility.co/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Trans Fertility Co. दुकान संघटन",
+    "description": "Trans Fertility Co. दुकान हे संसाधने पुरवणारी आहे, विविध दृष्टीकोनांवरील त्रास्फर्टिलिटीच्या मुलाखती आणि वैयक्तिक कथा. ही एक शिकण्याची, सामायिक करण्याची आणि ट्रान्स फर्टिलिटीची साजरा करण्याची प्लॅटफॉर्म आहे."
+  },
+  {
     "id": "c4437a30-c2e0-4672-8f37-74de08818f97",
     "slug": "point-of-pride",
     "externalUrl": "https://www.pointofpride.org/",
@@ -2692,6 +3029,33 @@
     "socialMedia": null,
     "title": "BlaQ मूलवासी कॉर्पोरेशन",
     "description": "BlaQ मूलवासी कॉर्पोरेशन ही एक समुदाय संगठन आहे, ज्याचे अभिप्रेत करणे आणि मूलवासी आणि तोरेस स्ट्रेट द्वीपवासी LGBTQ+SB समुदायाची सक्षमता वाढवणे आणि त्यांच्यासाठी समावेश, समज, अभिप्रेत आणि प्रतिनिधित्वाच्या माध्यमातून."
+  },
+  {
+    "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+    "slug": "refuge-restrooms",
+    "externalUrl": "https://www.refugerestrooms.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "support-groups"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Refuge Restrooms",
+    "description": "Refuge Restrooms हे वेब अनुप्रयोग आहे ज्याच्या माध्यमातून ट्रांसजेंडर, इंटरसेक्स, आणि लिंग संकीर्ण व्यक्तींना सुरक्षित स्वच्छालय प्रवेश उपलब्ध करुन देतो. वापरकर्ते स्वच्छालयांची शोध करण्यासाठी शोध स्थलाप्रमाणे जवळील स्वच्छालयांची शोध करु शकतात, नवीन स्वच्छालय सूची जोडू शकतात, सुधारणा करण्यासाठी अस्तित्वात असलेल्या सूची टीका आणि गुणवत्ता मूल्यांकन करू शकतात."
   },
   {
     "id": "d21dfad9-22c7-4a42-9658-d1c573100c33",
@@ -2816,6 +3180,31 @@
     "description": "कॅलिफोर्निया विभाग जन स्वास्थ्य (CDPH) लेस्बियन, गे, बायसेक्सुअल, अण्ड ट्रान्सजेंडर (LGBT) समुदायासहित सर्व कॅलिफोर्नियकरांच्या आरोग्याची काळजी घेते. ते LGBT समुदायावर सर्वाधिक परिणाम करणारी आरोग्य समस्यांची समज देणारी संसाधने पुरवतात, विविध आयुष्य टप्प्यांत होणारी आवश्यक तपासण्या, आणि स्वस्थ जीवनशैलीसाठी साधन."
   },
   {
+    "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+    "slug": "stonewall-youth",
+    "externalUrl": "https://www.stonewallyouth.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "112 State Ave NE, Olympia, WA 98501, USA",
+    "phoneNumber": "3608884273",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Olympia",
+    "county": "Thurston County",
+    "latLng": [
+      47.0460037,
+      -122.9011227
+    ],
+    "email": "info@stonewallyouth.org",
+    "socialMedia": null,
+    "title": "स्टोनवॉल युवा",
+    "description": "स्टोनवॉल युवा ही एक अनामवर्ती संस्था आहे ज्याने एलजीबीटीक्यू+ समुदायातील युवांना समर्थन दिलेला आहे. त्यांच्या सूक्ष्म प्रमाणात साप्ताहिक कार्यक्रमे, समर्थन समूह आणि संसाधने क्विअर आणि ट्रान्स युवांच्या गरजाच्या अनुसार आहेत. त्यांनी अन्न, मूळभूत वस्त्रे, आणि युवा सहयोगीत्वांसाठी संधीही पुरवलेली आहे. स्टोनवॉल युवा ही एलजीबीटीक्यू+ समुदायातील युवांसाठी सशक्तीकरणाचे अवकाश तयार करण्यासमर्पित आहे, शिकण्यास, आणि त्यांचे अनुभव शेअर करण्यास."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2904,6 +3293,28 @@
     },
     "title": "हॅलस्टेड केंद्र",
     "description": "चिकागोचे समुदाय केंद्र, ज्याचे अस्तित्व लेस्बियन, गे, बायसेक्स्युअल, ट्रान्सजेंडर (एलजीबीटी) आणि क्विअर (+) समुदायाच्या प्रगतीसाठी समर्पित आहे. यामध्ये HIV/AIDS आणि STD, वर्तन स्वास्थ्य, हिंसाविरोधी आणि तरुणांसाठीच्या विशेष कार्यक्रमांसह आघाडीची सेवा कार्यक्रमे, सायंकाळी, प्रशिक्षण आणि संसाधने प्रदान करणारा."
+  },
+  {
+    "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+    "slug": "voice-resource-repository",
+    "externalUrl": "https://wiki.sumianvoice.com/",
+    "tags": [
+      "voice-training",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "sumianvoice@gmail.com",
+    "socialMedia": {
+      "githubUrl": "https://github.com/sumiansvoice"
+    },
+    "title": "व्हॉइस संसाधन संग्रहविषयक संदर्भ",
+    "description": "व्हॉइस संसाधन संग्रहविषयक संदर्भ हे एक सुरु असलेली उघड आणि विकासित होणारी प्रकल्प आहे जी सुमी आणि एम्माने सुरु केलेली आहे, ज्याचे उद्देश असे आहे की त्यांना आपल्या व्हॉइसला बदलवायचे असलेल्या माणसांना सोपे माहिती आणि मार्गदर्शन पुरवते. हे प्रकाल्प मुलींच्या आवाजाच्या सुंदरीकरण आणि पुरुषत्वाधिपतीकरण या दोन्ही प्रक्रियांवर केंद्रित आहे, त्यामुळे हे ऐतिहासिकपणे सुरवातीच्या विद्यार्थ्यांना मदत करणारे आहे असेच विद्यार्थ्यांच्या विद्यार्थ्यांसाठीचे संपूर्ण संदर्भ म्हणून काम करणारे आहे. तथापि, साधारणतः मुलींसाठीचे अधिक अवलंबुन असलेलेपरंतु, ती वापरकर्तांच्या लक्षात्मकांनुसार विविध (अगावे) होण्यासाठी कार्य करण्यात आलेली आहे."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -3037,6 +3448,30 @@
     "description": "Twenty10 ज्याचा चुकीचं पर्यायी नाव GLCS आहे, ते NSW येथील तरुणांना विविध आयुष्य बदलकरच्या सेवा देते, ज्यांची ओळख लेस्बियन, गे, बायसेक्सुअल, ट्रांसजेन्डर किंवा जाती विचलित, इंटरसेक्स, क्विअर, अलिंगी किंवा त्यांच्या ओळखीत संदेह असलेल्यांच्या रूपात आहे. त्यांच्या सेवांमध्ये त्राण आणि संदर्भ, निवास आणि प्रकरण व्यवस्थापन, सल्लागारी, सामाजिक सहाय्य कार्यक्रम आणि LGBTIQA+ समावेशकता प्रशिक्षण आहे"
   },
   {
+    "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+    "slug": "rainbow-center",
+    "externalUrl": "https://rainbowcntr.org/",
+    "tags": [
+      "education-awareness",
+      "support-groups",
+      "social-services"
+    ],
+    "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+    "phoneNumber": "(253) 383-2318",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Tacoma",
+    "county": "Pierce County",
+    "latLng": [
+      47.241526,
+      -122.4354485
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "रेनबो सेंटर",
+    "description": "रेनबो सेंटर हे शिक्षण, पक्षपाती क्रिया, आणि साजरी द्वारे LGBTQ2SA समुदायाचे संसाधने व सुरक्षितता वाढवायचे लक्ष केलेले आहे. त्याचबरोबर कोस्ट सॅलिश भूमीवर घडणार्‍या घटनांची त्याने मान्यता दिली आहे आणि त्याची सांस्कृतिक महत्त्व आणि इतिहास त्या दाखवित आहे."
+  },
+  {
     "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
     "slug": "transgendermap",
     "externalUrl": "https://transgendermap.com",
@@ -3156,6 +3591,28 @@
     "socialMedia": null,
     "title": "Transcend Australia",
     "description": "Transcend Australia च्या उद्देशाची मदत करण्याची, स्वीकारण देण्याची आणि विविध लिंगी बाल आणि त्यांच्या कुटुंबीयांची आणि त्यांच्या संरक्षकांची आणखीन जीवन प्रस्थापन करण्याची आहे. ते ऑस्ट्रेलिया भरतील कुटुंबांना माहिती, मदत आणि संदर्भांची पुरवठा करतात आणि विविध लिंगी बाल आणि तरुणांना सशक्त करण्याचे काम करतात."
+  },
+  {
+    "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+    "slug": "acoustic-gender",
+    "externalUrl": "https://acousticgender.space/",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "voice-training"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ध्वनिक लिंग",
+    "description": "ध्वनी या शब्दाच्या लिंगाची कळवलीची एक इंटरॅक्टिव व्हिज्यूअल मदत करणारा एक ऑनलाईन प्लॅटफॉर्म. ते वापरकर्त्याच्या ध्वनीच्या रेकॉर्डिंगची प्लॉटिंग करते ज्यामुळे वेळाच्या चौकटीत श्रुती आणि प्रतिध्वनीचे चित्रण करता येते जे त्यांच्या ध्वनी संक्रमण प्रवासाला आवश्यक असल्यास सूचना देऊ शकते."
   },
   {
     "id": "f48634db-fe71-426c-be84-622b3282bad7",
@@ -3297,6 +3754,29 @@
     },
     "title": "ट्रान्सजेंडर समतानुसार पहचानपत्रे केंद्र",
     "description": "हे एक संकल्पित संसाधन आहे ज्यामुळे व्यक्ती त्यांचे नाव आणि लिंग स्थानिक व फेडरल ओळखपत्रांवर अद्ययावत करू शकतात. त्यात प्रत्येक राज्याकरिता धोरणांच्या माहिती देणार्या नीती गुण, पासपोर्ट, सोशल सिक्युरिटी रेकॉर्ड्स, सैनिक / सैन्य सेवांसाठीच्या विविध प्रक्रियांच्या पायर्‍या देणारी ही वेबसाइट आहे."
+  },
+  {
+    "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+    "slug": "trans-healthcare",
+    "externalUrl": "https://www.transhealthcare.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TransHealthCare",
+    "description": "TransHealthCare ही लिंगांतर सर्जनांची सर्वाधिक व सर्वांगीण डेटाबेस आहे. यामुळे जगभरातील यावेळील हजारो लिंगांतर व अलिंगी व्यक्तींना सर्जन सापडवायला मदत झालेली आहे. या वेबसाइटवर प्रक्रिया, यू.एस. राज्य, विमा प्रकार, व देशाच्या आधारे सर्जन सापडवायला मंच दिलेला आहे. त्यात अतिशय नवीन सर्जन बातम्या व लिंगनिर्धारण शस्त्रक्रियेवरील संशोधनासारखे विविध स्त्रोत देण्यात येतात."
   },
   {
     "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",

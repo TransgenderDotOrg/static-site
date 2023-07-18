@@ -1,0 +1,117 @@
+{
+  "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+  "slug": "ingersoll-gender-center",
+  "externalUrl": "https://ingersollgendercenter.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+  "phoneNumber": "(206) 849-7859",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6138987,
+    -122.3203007
+  ],
+  "email": "info@ingersollgendercenter.org",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+    "twitterUrl": "https://twitter.com/IngersollGender"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Ingersoll Gender Center",
+      "description": "An organization by and for transgender and gender nonconforming people providing mutual support through peer led support groups, advocating in navigating resources, community organizing, and education — all in the pursuit of our collective self-determination."
+    },
+    "fr-FR": {
+      "title": "Centre de genre Ingersoll",
+      "description": "Une organisation par et pour les personnes transgenres et non conformes au genre fournissant un soutien mutuel par le biais de groupes de soutien dirigés par des pairs, en plaidant pour la navigation des ressources, l'organisation communautaire et l'éducation - tout cela dans la poursuite de notre autodétermination collective."
+    },
+    "id-ID": {
+      "title": "Ingersoll Gender Center",
+      "description": "Sebuah organisasi oleh dan untuk orang-orang transgender dan gender nonconforming yang memberikan dukungan mutual melalui kelompok dukungan yang dipimpin oleh rekan sebaya, berjuang dalam menavigasi sumber daya, organisasi masyarakat, dan pendidikan — semua dalam upaya penentuan diri kolektif kita."
+    },
+    "pt-PT": {
+      "title": "Centro de Gênero Ingersoll",
+      "description": "Uma organização feita por e para pessoas transgêneros e não conformes com o gênero, fornecendo apoio mútuo através de grupos de apoio liderados por pares, defendendo na navegação de recursos, organização comunitária e educação - tudo na busca de nossa autodeterminação coletiva."
+    },
+    "de-DE": {
+      "title": "Ingersoll Gender Center",
+      "description": "Eine Organisation von und für transsexuelle und geschlechts-nonkonforme Menschen, die gegenseitige Unterstützung durch von Gleichaltrigen geleitete Unterstützungsgruppen bietet, die bei der Navigation von Ressourcen, Community-Organisation und Bildung unterstützt - alles im Streben nach unserer kollektiven Selbstbestimmung."
+    },
+    "zh-CN": {
+      "title": "英格索性别中心",
+      "description": "这是一个由跨性别者和性别不符合社会规范的人建立并服务的机构，通过同龄人主导的互助小组，为寻找资源提供的倡导，社区组织，和教育，所有这一切都是为了我们集体的自我决定的追求。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Jinsia cha Ingersoll",
+      "description": "Shirika na na kwa watu wa jinsia mbadala na wasiofuata jinsia inayoendana nao wakitolea msaada wa pamoja kupitia vikundi vya msaada vinavyoongozwa na wenzao, wakitetea katika kutumia rasilimali, kuandaa jamii, na elimu - yote katika harakati za kuamua wenyewe."
+    },
+    "es-ES": {
+      "title": "Centro de Género Ingersoll",
+      "description": "Una organización por y para personas transgénero y no conformes con el género que brinda apoyo mutuo a través de grupos de apoyo dirigidos por pares, aboga por la navegación de recursos, la organización comunitaria y la educación, todo en la búsqueda de nuestra autodeterminación colectiva."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Giới tính Ingersoll",
+      "description": "Một tổ chức được thành lập bởi và vì những người chuyển giới và không tuân thủ giới tính, cung cấp sự hỗ trợ lẫn nhau thông qua các nhóm hỗ trợ do đồng nghiệp lãnh đạo, tận tâm vận động việc tìm kiếm nguồn lực, tổ chức cộng đồng và giáo dục - tất cả trong sự theo đuổi tự quyết định chung của chúng tôi."
+    },
+    "tr-TR": {
+      "title": "Ingersoll Cinsiyet Merkezi",
+      "description": "Transgender ve cinsiyet uyumsuz kişiler tarafından ve bunlar için olan bir organizasyon. Karşılıklı destek sağlamak için akran liderliğindeki destek grupları, kaynakları bulma konusunda savunma, toplum örgütlenmesi ve eğitim — tüm bunlar toplu öz-belirlenimimiz peşinde."
+    },
+    "ja-JP": {
+      "title": "インガソールジェンダーセンター",
+      "description": "トランスジェンダーやジェンダー非一致の人々による、そして彼らのための組織。相互支援を通じたピアリード支援グループ、リソースのナビゲーションでの提唱、コミュニティの組織化、教育など、私たち全員の自己決定の追求の中で活動しています。"
+    },
+    "ko-KR": {
+      "title": "잉거솔 성별 센터",
+      "description": "트랜스젠더 및 성별 불일치 인구를 대상으로 한 조직으로, 동료 주도 지원 그룹을 통한 상호 지원, 리소스 탐색을 위한 옹호, 커뮤니티 조직화 및 교육을 제공합니다 — 모두 우리의 집단적 자기결정을 추구하기 위해."
+    },
+    "ru-RU": {
+      "title": "Трансгендерный центр Ингерсолл",
+      "description": "Организация трансгендерами и людьми, не соответствующими общепринятому гендеру, для взаимоподдержки через группы поддержки, проводимые сверстниками, поддержки в навигации ресурсов, общественного устройства и образования - всё это в стремлении к нашему общему самоопределению."
+    },
+    "ar-SA": {
+      "title": "مركز إنجرسول للجنس",
+      "description": "منظمة من قبل ولصالح الأشخاص المتحولين جنسيًا وغير الملتزمين بالنوع الجنسي يقدمون الدعم المتبادل من خلال مجموعات الدعم التي يقودها الأقران، والدعوة في التنقل بين الموارد، وتنظيم المجتمع، والتعليم - كل ذلك في سعينا المشترك نحو تقرير مصيرنا الذاتي."
+    },
+    "uk-UA": {
+      "title": "Центр гендеру Інгерсолл",
+      "description": "Організація створена та працює для трансгендерних осіб та осіб, що не відповідають гендерним нормам, забезпечуючи взаємну підтримку через групи підтримки, проведені однолітками, допомогаючи в роботі з ресурсами, організовує громадський рух та проводить освіту - все в пошуках нашого колективного самовизначення."
+    },
+    "ur-PK": {
+      "title": "Ingersoll جنسی مرکز",
+      "description": "ایک ادارہ جو خود کو جنسی تعدیل اور جنس کی تصدیق کے لئے متعصب افراد کی طرف سے مشتمل ہوتا ہے ، جو ہم آہنگی کے زریعے سپورٹ گروپس کی ترغیب دیتے ہیں ، سہولتوں میں مصروف ، کمیونٹی تشکیل دینے والگوں اور تعلیم میں رہنمائی کرتے ہیں - ہم سب کی مشترکہ خود تعینی کی تلاش میں۔"
+    },
+    "hi-IN": {
+      "title": "इंगरसॉल लिंग केंद्र",
+      "description": "ट्रांसजेंडर और विषय पर अनुसरण ना करने वाले लोगों द्वारा और उनके लिए एक संगठन, सहयोगी समूहों के माध्यम से आपसी समर्थन प्रदान करना, संसाधनों का नेविगेशन करने में सलाह देना, सामुदायिक संगठन, और शिक्षा - हमारी सामूहिक स्व-निर्धारण की तलाश में।"
+    },
+    "mr-IN": {
+      "title": "Ingersoll लिंग केंद्र",
+      "description": "ह्या ऑर्गनायझेशनमध्ये अन्यलिंगी आणि लिंगाची अनुपालन करणार्‍या लोकांना मिळवण्याची मदत करणारे सहयोगी समूह, संसाधनांच्या मार्गदर्शनात समर्थन करणारे, सामुदायिक संघटने, और शिक्षण — सर्वांच्या सामूहिक स्वतंत्रतेच्या मागणीस."
+    },
+    "ta-IN": {
+      "title": "Ingersoll Gender Center",
+      "description": "மின்னணி பாலினத்தை மாற்றி வாழ்வாதிகள் மற்றும் பாலினத்தை அதிகமாக வேண்டாத மக்களிடையே மற்றொரு அமைப்பு. வழக்கறிஞர்கள் ஆதரவை வழங்குபவர்கள், ஆதரவாக வழங்குபவர்கள், சமூக அமைப்பை அமைப்போர் மற்றும் கல்வி - அனைத்தும் நாம் முதலியாக வீழ்த்தும் ஆக்கிய ஆத்துணையில்."
+    },
+    "bn-BD": {
+      "title": "Ingersoll Gender Center",
+      "description": "ট্রান্সজেন্ডার এবং জেন্ডার অননুরূপ ব্যক্তিদের দ্বারা এবং তাদের জন্যে একটি সংস্থা যা সহযোগিতার মাধ্যমে সমার্থন সমূহ প্রদান করে, সম্পদ সমন্বয়ে সমর্থন দেয়, সম্প্রদায় নাগরিকতা, এবং শিক্ষা - আমাদের সম্পূর্ণ স্বনির্ণয়তার অনুসন্ধানে।"
+    },
+    "te-IN": {
+      "title": "Ingersoll Gender Center",
+      "description": "ట్రాన్స్జెండర్ మరియు జెండర్ నాన్కన్ఫార్మింగ్ ప్రజల ద్వారా మరియు వారి కోసం ఓ సంస్థ మూలంగా పరస్పర మద్దతు నిబంధన కోసం సహపఠి సమూహాలు నడుపుతూ, సంసాధనాలను నవిగేట్ చేయడంలో మేరా చేయుతూ, సముదాయ వ్యవస్థాపన, మరియు విద్యా - మన సమూహపూర్తి స్వయం నిర్ణయత్వం కోసం అన్ని చేయడం."
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ec810f9b-9cd9-43e2-ac42-6d60be5bb2d3",
+  "slug": "rainbow-center",
+  "externalUrl": "https://rainbowcntr.org/",
+  "tags": [
+    "education-awareness",
+    "support-groups",
+    "social-services"
+  ],
+  "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
+  "phoneNumber": "(253) 383-2318",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Tacoma",
+  "county": "Pierce County",
+  "latLng": [
+    47.241526,
+    -122.4354485
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Rainbow Center",
+      "description": "Rainbow Center aims to boost the resources and safety of the LGBTQ2SA community through education, advocacy, and celebration. It also acknowledges the events taking place on Coast Salish land and the cultural significance and history it holds."
+    },
+    "es-ES": {
+      "title": "Centro Arco iris",
+      "description": "El Centro Arco iris tiene como objetivo impulsar los recursos y la seguridad de la comunidad LGBTQ2SA a través de la educación, la defensa y la celebración. También reconoce los eventos que tienen lugar en la tierra de Coast Salish y la importancia cultural e historia que posee."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Rainbow",
+      "description": "Kituo cha Rainbow kina lengo la kuongeza rasilimali na usalama wa jamii ya LGBTQ2SA kupitia elimu, utetezi, na sherehe. Pia inatambua matukio yanayotokea kwenye ardhi ya Coast Salish na umuhimu wake wa kitamaduni na historia inayoshikilia."
+    },
+    "pt-PT": {
+      "title": "Centro Arco-Íris",
+      "description": "O Centro Arco-Íris visa impulsionar os recursos e a segurança da comunidade LGBTQ2SA através da educação, defesa e celebração. Ele também reconhece os eventos que ocorrem na terra Coast Salish e a significância cultural e história que ela possui."
+    },
+    "zh-CN": {
+      "title": "彩虹中心",
+      "description": "彩虹中心旨在通过教育、倡导及庆祝活动，提升LGBTQ2SA社区的资源和安全性。同时，彩虹中心还承认在库斯特萨利什土地上发生的事件以及它所持有的文化重要性和历史。"
+    },
+    "fr-FR": {
+      "title": "Centre Arc-en-ciel",
+      "description": "Le Centre Arc-en-ciel vise à renforcer les ressources et la sécurité de la communauté LGBTQ2SA par l'éducation, la défense des droits et la célébration. Il reconnaît également les événements qui se déroulent sur le territoire Salish de la côte et l'importance culturelle et historique qu'il détient."
+    },
+    "tr-TR": {
+      "title": "Rainbow Merkezi",
+      "description": "Rainbow Merkezi, eğitim, savunuculuk ve kutlama yoluyla LGBTQ2SA topluluğunun kaynaklarını ve güvenliğini artırmayı hedefler. Ayrıca Coast Salish topraklarındaki olayları ve taşıdığı kültürel önemi ve tarihi kabul eder."
+    },
+    "ru-RU": {
+      "title": "Центр Радуга",
+      "description": "Центр Радуга нацелен на расширение ресурсов и безопасности сообщества LGBTQ2SA через образование, защиту прав и празднование. Он также признает события, происходящие на земле Коуст Сэлиш, и значимость и историю, которую она несёт."
+    },
+    "id-ID": {
+      "title": "Pusat Pelangi",
+      "description": "Pusat Pelangi bertujuan untuk meningkatkan sumber daya dan keamanan komunitas LGBTQ2SA melalui pendidikan, advokasi, dan perayaan. Ini juga mengakui peristiwa yang terjadi di tanah Coast Salish dan pentingnya signifikansi budaya dan sejarahnya."
+    },
+    "ko-KR": {
+      "title": "레인보우 센터",
+      "description": "레인보우 센터는 교육, 옹호 및 축하를 통해 LGBTQ2SA 커뮤니티의 자원과 안전을 향상시키려는 목표를 가지고 있습니다. 또한 코스트 샐리시 지역에서 진행되는 행사를 인정하며, 그 곳이 가진 문화적 중요성과 역사를 인식합니다."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Rainbow",
+      "description": "Trung tâm Rainbow nhằm tăng cường nguồn lực và sự an toàn của cộng đồng LGBTQ2SA thông qua giáo dục, biện hộ và tổ chức kỷ niệm. Nó cũng ghi nhận các sự kiện diễn ra trên đất của Coast Salish và ý nghĩa văn hóa cũng như lịch sử mà nó mang lại."
+    },
+    "ar-SA": {
+      "title": "مركز القوس قزح",
+      "description": "يهدف مركز القوس قزح إلى تعزيز الموارد والأمان لمجتمع LGBTQ2SA من خلال التعليم والدعوة والاحتفال. كما يعترف بالأحداث التي تجري على أرض الساحل الساليش والأهمية الثقافية والتاريخ التي تحملها."
+    },
+    "ja-JP": {
+      "title": "レインボーセンター",
+      "description": "レインボーセンターは、教育、擁護、および祝賀を通じてLGBTQ2SAコミュニティのリソースと安全性を強化することを目指しています。また、コースト・サリッシュの土地で行われているイベントを認識し、それが持つ文化的な重要性と歴史を称えています。"
+    },
+    "de-DE": {
+      "title": "Regenbogen-Zentrum",
+      "description": "Das Regenbogen-Zentrum zielt darauf ab, die Ressourcen und Sicherheit der LGBTQ2SA-Gemeinschaft durch Bildung, Fürsprache und Feiern zu stärken. Es anerkennt auch die Ereignisse, die auf dem Land der Coast Salish stattfinden, und die kulturelle Bedeutung und Geschichte, die es hat."
+    },
+    "uk-UA": {
+      "title": "Центр «Радуга»",
+      "description": "Центр «Радуга» має на меті підвищити ресурси та безпеку громади LGBTQ2SA за допомогою освіти, захисту прав та святкування. Він також визнає події, що відбуваються на землях Коуст Саліш, та культурну значимість та історію, які вона має."
+    },
+    "ur-PK": {
+      "title": "رینبو سینٹر",
+      "description": "رینبو سینٹر کا مقصد لیسبین، گے، بائی سیکشوئل، ٹرانجینڈر، کوئی سیکشوئل، ٹو سپریت، اینڈ ایڈیوکیسی کمیونٹی کے وسائل اور حفاظت کو فروغ دینا ہے تعلیم، وکالت، اور جشن کے ذریعے۔ یہ بھی کوسٹ سیلش زمین پر ہونے والے واقعات کو تسلیم کرتا ہے اور اس کا ثقافتی اہمیت اور تاریخ ہے."
+    },
+    "hi-IN": {
+      "title": "रेनबो सेंटर",
+      "description": "रेनबो सेंटर LGBTQ2SA समुदाय के संसाधनों और सुरक्षा को बढ़ावा देने का लक्ष्य रखता है, शिक्षा, समर्थन और उत्सव के माध्यम से। यह निर्धारित करता है की कोस्ट सेलिश भूमि पर हो रहे कार्यक्रमों को मान्यता दी जाती है और यह इसकी सांस्कृतिक महत्व और इतिहास को धरती है।"
+    },
+    "bn-BD": {
+      "title": "রামধনু কেন্দ্র",
+      "description": "রামধনু কেন্দ্রের লক্ষ্য হল শিক্ষা, অভিভাবকতা এবং উদযাপনের মাধ্যমে LGBTQ2SA সম্প্রদায়ের সম্পদ ও নিরাপত্তি বাড়াতে। এটি আরও স্বীকার করে যে, কোস্ট স্যালিশ ভূমিতে যে ঘটনাগুলি ঘটছে এবং এটির সাংস্কৃতিক গুরুত্ব ও ইতিহাস।"
+    },
+    "mr-IN": {
+      "title": "रेनबो सेंटर",
+      "description": "रेनबो सेंटर हे शिक्षण, पक्षपाती क्रिया, आणि साजरी द्वारे LGBTQ2SA समुदायाचे संसाधने व सुरक्षितता वाढवायचे लक्ष केलेले आहे. त्याचबरोबर कोस्ट सॅलिश भूमीवर घडणार्‍या घटनांची त्याने मान्यता दिली आहे आणि त्याची सांस्कृतिक महत्त्व आणि इतिहास त्या दाखवित आहे."
+    },
+    "ta-IN": {
+      "title": "ரேன்போ மையம்",
+      "description": "ரைன்போ மையம் கல்வி, ஆதரவு, மற்றும் விழாவிருப்பு மூலம் LGBTQ2SA சமூகத்தின் வளங்களையும் பாதுகாப்பையும் அதிகரிக்க நோக்குகிறது. இது கோஸ்ட் சலிஷ் நில மீது நடைபெற்று வரும் நிகழ்வுகளையும் அதன் கலாச்சார முக்கியத்துவத்தையும் வரலாற்றையும் அங்கீகரிக்கின்றது."
+    },
+    "te-IN": {
+      "title": "రెయిన్బో సేంటర్",
+      "description": "రెయిన్బో సేంటర్ విద్యా, అభిరాధన, మరియు ఆనందోల్లాసం ద్వారా LGBTQ2SA సముదాయానికి సంపదాన్ని మరియు భద్రతను పెంచేందుకు ప్రయత్నిస్తుంది. దాంతో పాటు ఇది కోస్ట్ సాలిష్ భూమిపై జరుగుతున్న సంఘటనలను మరియు అందులోని సంస్కృతి ప్రామాణ్యాన్ని మరియు చరిత్రను గుర్తిస్తోంది."
+    }
+  }
+}

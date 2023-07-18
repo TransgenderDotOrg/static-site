@@ -1,0 +1,33 @@
+{
+  "id": "1c1846a4-e340-47a3-9b45-81b99b861196",
+  "title": "Ingersoll Gender Center",
+  "description": "An organization by and for transgender and gender nonconforming people providing mutual support through peer led support groups, advocating in navigating resources, community organizing, and education — all in the pursuit of our collective self-determination.",
+  "slug": "ingersoll-gender-center",
+  "externalUrl": "https://ingersollgendercenter.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "911 E Pike St #221, Seattle, WA 98122, USA",
+  "phoneNumber": "(206) 849-7859",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6138987,
+    -122.3203007
+  ],
+  "email": "info@ingersollgendercenter.org",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/IngersollGenderCenter",
+    "twitterUrl": "https://twitter.com/IngersollGender"
+  }
+}

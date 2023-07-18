@@ -1,0 +1,106 @@
+{
+  "id": "f3b108f8-70f3-4706-b45e-15e2b7a1fc89",
+  "slug": "acoustic-gender",
+  "externalUrl": "https://acousticgender.space/",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "voice-training"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Acoustic Gender",
+      "description": "An online platform that provides an interactive visual aid for understanding how voices are perceived in terms of gender. It plots recordings of the user's voice to enable the visualization of pitch and resonance over time which can inform their voice transition journey if needed."
+    },
+    "pt-PT": {
+      "title": "Género Acústico",
+      "description": "Uma plataforma online que fornece um auxílio visual interativo para entender como as vozes são percebidas em termos de gênero. Ela traça gravações da voz do usuário para permitir a visualização de tons e ressonância ao longo do tempo, o que pode informar sua jornada de transição de voz, se necessário."
+    },
+    "fr-FR": {
+      "title": "Genre Acoustique",
+      "description": "Une plateforme en ligne qui fournit une aide visuelle interactive pour comprendre comment les voix sont perçues en termes de genre. Elle trace des enregistrements de la voix de l'utilisateur pour permettre la visualisation de la tonalité et de la résonance au fil du temps qui peut informer leur parcours de transition de voix si nécessaire."
+    },
+    "id-ID": {
+      "title": "Jenis Kelamin Akustik",
+      "description": "Sebuah platform online yang menyediakan bantuan visual interaktif untuk memahami bagaimana suara dipandang dalam hal jenis kelamin. Ini merencanakan rekaman suara pengguna untuk memungkinkan visualisasi nada dan resonansi sepanjang waktu yang dapat memberi informasi tentang perjalanan transisi suara mereka jika dibutuhkan."
+    },
+    "es-ES": {
+      "title": "Genero Acústico",
+      "description": "Una plataforma en línea que proporciona una ayuda visual interactiva para entender cómo se perciben las voces en términos de género. Traza las grabaciones de la voz del usuario para permitir la visualización de tono y resonancia a lo largo del tiempo lo cual puede informar su viaje de transición de voz si es necesario."
+    },
+    "de-DE": {
+      "title": "Akustisches Geschlecht",
+      "description": "Eine Online-Plattform, die eine interaktive visuelle Hilfe bietet, um zu verstehen, wie Stimmen in Bezug auf das Geschlecht wahrgenommen werden. Sie stellt Aufnahmen der Stimme des Benutzers dar, um die Visualisierung von Tonhöhe und Resonanz im Laufe der Zeit zu ermöglichen, was ihre Stimmenübergangsreise informieren kann, falls benötigt."
+    },
+    "tr-TR": {
+      "title": "Akustik Cinsiyet",
+      "description": "Kullanıcının ses kayıtlarını çizerek sesin tonunu ve rezonansını zaman içinde görselleştirmeyi sağlayan ve gerekirse ses geçiş yolculuklarına bilgi verebilecek bir platform. Seslerin cinsiyet açısından nasıl algılandığını anlamak için interaktif bir görsel yardım sağlayan bir online platform."
+    },
+    "ko-KR": {
+      "title": "Acoustic Gender",
+      "description": "성별을 어떻게 인식하는지 이해하기 위한 대화형 시각 도움을 제공하는 온라인 플랫폼입니다. 사용자의 음성을 기록하여 시간에 따른 피치와 공명을 시각화하며, 필요한 경우 그들의 음성 전환 여정을 안내하는 데 도움이 될 수 있습니다."
+    },
+    "sw-KE": {
+      "title": "Jinsia ya Akustiki",
+      "description": "Jukwaa la mkondoni ambalo linatoa msaada wa kuona unaoshirikishiwa kuelewa jinsi sauti zinavyotambuliwa katika suala la jinsia. Inapanga rekodi za sauti ya mtumiaji ili kuwezesha muonekano wa sauti na mwangwi kwa muda ambao unaweza kutoa habari kuhusu safari yao ya kubadilisha sauti ikiwa inahitajika."
+    },
+    "ja-JP": {
+      "title": "アコースティックジェンダー",
+      "description": "ユーザーの声の録音をプロットして声のピッチと共鳴を時間経過で可視化することで、声の性別の認識について理解を深めるための視覚的な助けを提供するオンラインプラットフォームです。必要に応じて声の遷移の旅を知るための情報を提供します。"
+    },
+    "zh-CN": {
+      "title": "声音性别",
+      "description": "这是一个在线平台，提供了一种交互式的视觉辅助工具，用于理解人们如何从性别角度感知声音。它能绘制用户的声音记录，以便实时显示声音的音调和共鸣，如果需要，这可以帮助他们理解声音转型过程。"
+    },
+    "ru-RU": {
+      "title": "Акустический пол",
+      "description": "Онлайн-платформа, предоставляющая интерактивную визуальную помощь для понимания того, как голоса воспринимаются с точки зрения пола. Она позволяет визуализировать записи голоса пользователя, чтобы увидеть изменения тональности и резонанса во времени, что может быть полезно в процессе перехода голоса, если это необходимо."
+    },
+    "ar-SA": {
+      "title": "الجندر الصوتي",
+      "description": "منصة انترنت تقدم مساعدة بصرية تفاعلية لفهم كيف يتم تصور الأصوات من حيث الجندر. تقوم برسم تسجيلات صوت المستخدم لتمكين تصور النغمة والصدى على مر الوقت التي يمكن أن تعلم رحلة انتقالهم الصوتية إذا لزم الأمر."
+    },
+    "uk-UA": {
+      "title": "Акустична стать",
+      "description": "Онлайн-платформа, яка надає інтерактивну візуальну допомогу для розуміння того, як голоси сприймаються з точки зору статі. Вона показує записи голосу користувача, щоб забезпечити візуалізацію висоти та резонансу з часом, які можуть інформувати про їх перехідний період, якщо це необхідно."
+    },
+    "vi-VN": {
+      "title": "Giới tính Âm thanh",
+      "description": "Một nền tảng trực tuyến cung cấp một công cụ trực quan tương tác để hiểu cách giọng nói được nhận biết về mặt giới tính. Nó vẽ biểu đồ các bản ghi âm của giọng nói của người dùng để cho phép trực quan hóa độ cao và độ vang theo thời gian, điều này có thể thông báo cho hành trình chuyển đổi giọng của họ nếu cần."
+    },
+    "ur-PK": {
+      "title": "آکوسٹک جنس",
+      "description": "ایک آن لائن پلیٹ فارم جو جنس کے اعتبار سے آوازوں کو سمجھنے کے لئے انٹراکٹو ویژوئل مدد فراہم کرتا ہے۔ یہ صارف کی آواز کی ریکارڈنگوں کو کچھ ایسا پلوٹ کرتا ہے تاکہ وقت کے ساتھ پٹچ اور گونج کی تصویری ترسیم ہو سکے ، جو اگر ضرورت ہو تو ان کے آواز کے تبدیلی کے سفر کو معلوم کرسکتی ہے۔"
+    },
+    "ta-IN": {
+      "title": "ஒலிபலப்பு பாலினம்",
+      "description": "குரல் பாலினத்தை மேலும் புரிந்துகொள்ளும் வழியாக பயனர்களுக்கு ஒரு செயலாக்கப்பட்ட காண்பிகையுடன் அதிகளவு ஆதரவுகொடுக்கும் ஆன்லைன் மேடை. தேவைப்படும் போது அவரது குரல் மாற்றம் பயணத்தை அறிவிக்கும் வழியாக பயனரின் குரல் பதிவுகளை தன் மேலும் பொருளினை ஒரு காலகட்டத்தில் காண்பிக்குமாறு அது வரைவு செய்கின்றது."
+    },
+    "mr-IN": {
+      "title": "ध्वनिक लिंग",
+      "description": "ध्वनी या शब्दाच्या लिंगाची कळवलीची एक इंटरॅक्टिव व्हिज्यूअल मदत करणारा एक ऑनलाईन प्लॅटफॉर्म. ते वापरकर्त्याच्या ध्वनीच्या रेकॉर्डिंगची प्लॉटिंग करते ज्यामुळे वेळाच्या चौकटीत श्रुती आणि प्रतिध्वनीचे चित्रण करता येते जे त्यांच्या ध्वनी संक्रमण प्रवासाला आवश्यक असल्यास सूचना देऊ शकते."
+    },
+    "hi-IN": {
+      "title": "ध्वनिक लिंग",
+      "description": "एक ऑनलाइन मंच जो ध्वनियों को लिंग के हिसाब से कैसे समझा जाता है, इसके बारे में समझने के लिए एक इंटरैक्टिव दृश्य मदद प्रदान करता है। यह उपयोगकर्ता की आवाज़ की रिकॉर्डिंग्स को प्लॉट करता है ताकि समय के साथ स्वर और प्रतिध्वनि का दृश्यकरण हो सके जो यदि आवश्यक हो तो उनके ध्वनि संक्रमण यात्रा को सूचित कर सके।"
+    },
+    "bn-BD": {
+      "title": "একুস্টিক জেন্ডার",
+      "description": "একটি অনলাইন প্ল্যাটফর্ম যা জেন্ডারের দৃষ্টিতে ভোকেস এর সংবেদন বুঝতে সহায়ক একটি ইন্টারয়েক্টিভ ভিজুয়াল সহায়তা সরবরাহ করে। ব্যবহারকারীর ভোকেস এর রেকর্ডিং কে  প্লট করে যা ব্যবহারকারীদের পিচ এবং সংপ্রেষণকে সময়ের সাথে ভিজুয়ালাইজ় করতে সহায়ক হয় যা শর্তি প্রয়োজন হলে তাদের ভোকেস পরিবর্তন যাত্রা তথ্য দিতে পারে।"
+    },
+    "te-IN": {
+      "title": "ఆకౌస్టిక్ జెండర్",
+      "description": "జెండర్ పరిప్రేషణను యొక్క స్వరాలను గ్రాహించడానికి ఇంటరాక్టివ్ విజువల్ సహాయాన్ని అందిస్తున్న ఆన్లైన్ ప్లాట్ఫారమ్. అవసరాన్ని బట్టి తమ స్వర మార్పు ప్రయాణాన్ని తెలుసుకునేందుకు ఇది యూజర్ను రికార్డు చిస్తుంది మరియు సమయం పాటు పిచ్ మరియు నినాదాన్ని విజ్ఞాన శాస్త్రం చిత్రీకరించడానికి అనుమతిస్తుంది."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+  "title": "Refuge Restrooms",
+  "description": "Refuge Restrooms is a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals. Users can search for restrooms by proximity to a search location, add new restroom listings, as well as comment and rate existing listings.",
+  "slug": "refuge-restrooms",
+  "externalUrl": "https://www.refugerestrooms.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

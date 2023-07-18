@@ -1,0 +1,25 @@
+{
+  "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+  "title": "Stonewall Youth",
+  "description": "Stonewall Youth is a nonprofit organization that offers support for LGBTQ+ youth. Their comprehensive weekly programs, support groups, and resources cater to the needs of queer and trans youth. They provide food, essential items, and even sponsorship for youth fellowships. Stonewall Youth is dedicated to creating an empowering space for LGBTQ+ youth to lead, learn, and share their experiences.",
+  "slug": "stonewall-youth",
+  "externalUrl": "https://www.stonewallyouth.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "112 State Ave NE, Olympia, WA 98501, USA",
+  "phoneNumber": "3608884273",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Olympia",
+  "county": "Thurston County",
+  "latLng": [
+    47.0460037,
+    -122.9011227
+  ],
+  "email": "info@stonewallyouth.org",
+  "socialMedia": null
+}

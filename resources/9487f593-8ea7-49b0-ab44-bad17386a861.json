@@ -1,0 +1,111 @@
+{
+  "id": "9487f593-8ea7-49b0-ab44-bad17386a861",
+  "slug": "facial-feminization-surgery-procedures",
+  "externalUrl": "https://2pass.clinic/en/ffs/procedures",
+  "tags": [
+    "transfeminine",
+    "healthcare"
+  ],
+  "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
+  "phoneNumber": null,
+  "country": "BE",
+  "provinceOrState": "Vlaams Gewest",
+  "city": "Antwerpen",
+  "county": "AN",
+  "latLng": [
+    51.1787102,
+    4.430423300000001
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
+  },
+  "town": "Berchem",
+  "i18n": {
+    "en-US": {
+      "title": "Facial Feminization Surgery Procedures",
+      "description": "2pass Clinic offers a variety of surgical procedures to help transgender women transition. These include Facial and Body Feminization Surgeries, Permanent Hair Removal and Hair Transplant treatments. This resource provides detailed information on each FFS procedures and helps guide trans women in making the right choices for their journey."
+    },
+    "es-ES": {
+      "title": "Procedimientos de Cirugía de Feminización Facial",
+      "description": "2pass Clinic ofrece una variedad de procedimientos quirúrgicos para ayudar a las mujeres transgénero en su transición. Estos incluyen Cirugías de Feminización Facial y Corporal, Eliminación Permanente de Vello y tratamientos de Trasplante de Cabello. Este recurso proporciona información detallada sobre cada procedimiento de FFS y ayuda a guiar a las mujeres trans en la toma de las decisiones correctas para su viaje."
+    },
+    "fr-FR": {
+      "title": "Procédures de Chirurgie de Féminisation du Visage",
+      "description": "La clinique 2pass offre une variété de procédures chirurgicales pour aider les femmes transgenres dans leur transition. Celles-ci incluent les Chirurgies de Féminisation du Visage et du Corps, l'Épilation Permanente et les traitements de Transplantation de Cheveux. Cette ressource fournit des informations détaillées sur chaque procédure FFS et aide à guider les femmes trans dans la prise des bonnes décisions pour leur parcours."
+    },
+    "id-ID": {
+      "title": "Prosedur Operasi Feminisasi Wajah",
+      "description": "2pass Clinic menawarkan berbagai prosedur operasi untuk membantu wanita transgender dalam transisi. Ini termasuk Operasi Feminisasi Wajah dan Tubuh, Penghapusan Rambut Permanen dan perawatan Transplantasi Rambut. Sumber daya ini memberikan informasi detail tentang setiap prosedur FFS dan membantu memandu wanita trans dalam membuat pilihan yang tepat untuk perjalanan mereka."
+    },
+    "zh-CN": {
+      "title": "面部女性化手术程序",
+      "description": "2pass诊所提供各种手术程序，以帮助跨性别女性转变。这些包括面部和身体女性化手术，永久脱毛和毛发移植治疗。这个资源为每一个FFS程序提供详细信息，帮助跨性别女性在她们的旅程中做出正确的选择。"
+    },
+    "pt-PT": {
+      "title": "Procedimentos de Cirurgia de Feminização Facial",
+      "description": "A 2pass Clinic oferece uma variedade de procedimentos cirúrgicos para ajudar as mulheres transgênero na transição. Estes incluem Cirurgias de Feminização Facial e Corporal, Remoção de Cabelo Permanente e tratamentos de Transplante de Cabelo. Este recurso fornece informações detalhadas sobre cada procedimento FFS e ajuda a guiar as mulheres trans na tomada das decisões corretas para a sua jornada."
+    },
+    "de-DE": {
+      "title": "Gesichtsfeminisierungs-Chirurgie Verfahren",
+      "description": "Die 2pass Clinic bietet eine Vielzahl von chirurgischen Verfahren an, um Transgender-Frauen beim Übergang zu unterstützen. Dazu gehören Gesichts- und Körperfeminisierungsoperationen, dauerhafte Haarentfernung und Haartransplantationsbehandlungen. Diese Ressource bietet detaillierte Informationen zu jedem FFS-Verfahren und hilft trans Frauen dabei, die richtigen Entscheidungen für ihren Weg zu treffen."
+    },
+    "sw-KE": {
+      "title": "Taratibu za Upasuaji wa Kufeminisha Uso",
+      "description": "Kliniki ya 2pass inatoa aina anuwai ya taratibu za upasuaji kusaidia wanawake wa jinsia mbadala katika kipindi cha mpito. Hizi ni pamoja na Upasuaji wa Kufeminishaji Uso na Mwili, Ondoa Nywele za Kudumu na matibabu ya Upandikizaji wa Nywele. Rasilimali hii inatoa taarifa za kina kuhusu kila taratibu za FFS na inasaidia kuongoza wanawake wa trans katika kufanya maamuzi sahihi kwa safari yao."
+    },
+    "ko-KR": {
+      "title": "얼굴 여성화 수술 절차",
+      "description": "2pass Clinic는 트랜스 젠더 여성의 전환을 도와주는 다양한 수술 절차를 제공합니다. 이에는 얼굴 및 신체 여성화 수술, 영구적인 제모 및 모발 이식 치료가 포함됩니다. 이 자료는 각 FFS 수술에 대한 자세한 정보를 제공하며 트랜스 여성이 그들의 여행에 올바른 선택을 할 수 있도록 도와줍니다."
+    },
+    "ru-RU": {
+      "title": "Процедуры хирургии феминизации лица",
+      "description": "Клиника 2pass предлагает целый ряд хирургических процедур для помощи в переходе трансгендерных женщин. К ним относятся операции феминизации лица и тела, постоянное удаление волос и проведение трансплантации волос. Этот ресурс предоставляет подробную информацию о каждой процедуре ФХЛ и помогает транссексуальным женщинам сделать правильный выбор на их пути."
+    },
+    "tr-TR": {
+      "title": "Yüz Feminizasyon Cerrahisi Prosedürleri",
+      "description": "2pass Clinic, trans kadınların geçiş sürecine yardımcı olmak için çeşitli cerrahi işlemler sunar. Bunlar arasında Yüz ve Vücut Feminizasyon Cerrahileri, Kalıcı Tüy Dökülmesi ve Saç Nakli tedavileri bulunur. Bu kaynak, her FFS prosedürü hakkında ayrıntılı bilgiler sağlar ve trans kadınların yolculukları için doğru seçimleri yapmalarına yardımcı olur."
+    },
+    "ja-JP": {
+      "title": "顔の女性化手術の手順",
+      "description": "2passクリニックでは、トランスジェンダーの女性の遷移を支えるためのさまざまな手術手順を提供しています。これらには、顔と体の女性化手術、永久脱毛と毛髪移植の治療が含まれます。このリソースは、各FFS手順について詳細な情報を提供し、彼らのジャーニーのための正しい選択をするための支援を提供します。"
+    },
+    "vi-VN": {
+      "title": "Các phương pháp phẫu thuật nữ hoá khuôn mặt",
+      "description": "2pass Clinic cung cấp nhiều phương pháp phẫu thuật giúp phụ nữ chuyển giới chuyển đổi. Những phương pháp này bao gồm các phẫu thuật nữ hoá khuôn mặt và cơ thể, loại bỏ lông vĩnh viễn và điều trị ghép tóc. Nguồn thông tin này cung cấp thông tin chi tiết về từng phương pháp FFS và giúp hướng dẫn phụ nữ chuyển giới trong việc lựa chọn đúng cho hành trình của mình."
+    },
+    "ar-SA": {
+      "title": "إجراءات جراحة تأنيث الوجه",
+      "description": "تقدم عيادة 2pass مجموعة متنوعة من العمليات الجراحية لمساعدة النساء المتحولات جنسيا. تشمل هذه جراحات تأنيث الوجه والجسم، إزالة الشعر نهائيا وعلاجات زرع الشعر. يوفر هذا المورد معلومات مفصلة حول كل إجراء من إجراءات تأنيث الوجه ويساعد في إرشاد النساء المتحولات جنسيا في اتخاذ القرارات الصحيحة لرحلتهن."
+    },
+    "ur-PK": {
+      "title": "چہرے کی خواتین کی سرجری کے طریقوں",
+      "description": "2pass کلینک خواتین میں تبدیل ہونے والی خواتین کی مدد کرنے کے لئے مختلف جراحی طریقے پیش کرتا ہے. یہ چہرہ اور جسم کی خواتین کی سرجری، مستقل بالوں کا حذف اور بالوں کے منتقل کرنے کے علاجات شامل ہیں. یہ وسائل ہر FFS طریقے کار پر تفصیلی معلومات فراہم کرتا ہے اور خواتین کو ان کے سفر کے لئے صحیح انتخابات کرنے میں مدد کرتا ہے."
+    },
+    "uk-UA": {
+      "title": "Процедури хірургічного жіночого оформлення обличчя",
+      "description": "Клініка 2pass пропонує різноманітні хірургічні процедури для переходу трансгендерних жінок. Вони включають оперативні втручання по жіночому оформлення обличчя та тіла, постійне видалення волосся та лікування по пересадці волосся. Цей ресурс надає детальну інформацію про кожну процедуру FFS і допомагає трансгендерним жінкам робити правильний вибір для свого переходу."
+    },
+    "mr-IN": {
+      "title": "चेहर्याच्या स्त्रैणीकरण शस्त्रक्रियांचे प्रक्रिया",
+      "description": "2पास क्लिनिक म्हणजेच विविध प्रकारच्या शल्यक्रियांनी ट्रांसजेंडर महिलांना संकल्पनेत बदल करण्यास मदत करते. यात चेहरा व शरीर स्त्रैणीकरण शस्त्रक्रिया, कायमस्वभावी केस निवारण आणि केसप्रत्यारोपण उपचार असलेली आहेत. हे संसाधन प्रत्येक एफएफएस प्रक्रियावर विस्तृत माहिती पुरवते आणि त्यांच्या प्रवासासाठी योग्य निवड करण्यात ट्रांस महिलांना मदत करते."
+    },
+    "bn-BD": {
+      "title": "মুখমন্ডল মহিলাকরণ সার্জারি পদ্ধতি",
+      "description": "2pass ক্লিনিক ট্রান্সজেন্ডার মহিলাদের পরিবর্তনে সহায়তা করার জন্য বিভিন্ন ধরণের সার্জারি পদ্ধতি অফার করে। এইগুলোর মধ্যে মুখ এবং দেহের মহিলাকরণ সার্জারি, স্থায়ী চুল অপসারণ এবং চুল স্থানান্তর চিকিত্সা অন্তর্ভুক্ত। এই সম্পদ প্রতিটি FFS পদ্ধতি সম্পর্কে বিস্তারিত তথ্য সরবরাহ করে এবং তাদের যাত্রা জন্য সঠিক পছন্দের নির্দেশনা দেয়।"
+    },
+    "hi-IN": {
+      "title": "फेशियल फेमिनाइजेशन सर्जरी प्रक्रियाएं",
+      "description": "2pass क्लिनिक ट्रांसजेंडर महिलाओं की संक्रमण में मदद करने के लिए विभिन्न सर्जिकल प्रक्रियाओं की पेशकश करता है। इनमें फेशियल और बॉडी फेमिनाइजेशन सर्जरी, स्थायी हेयर रिमूवल और हेयर ट्रांसप्लांट उपचार शामिल हैं। यह संसाधन प्रत्येक FFS प्रक्रियाओं पर विस्तृत जानकारी प्रदान करता है और ट्रांस वीमेन्स को उनके यात्रा के लिए सही विकल्पों का चयन करने में मदद करता है।"
+    },
+    "ta-IN": {
+      "title": "முகப்பை பெண்ணாக்கும் அறுவை சிகிச்சைகள்",
+      "description": "2pass கிளினிக், பாலினச் சிலிர்ப்புகளை மாற்றுவதில் உதவும் பல்வேறு அறுவை சிகிச்சைகளை வழங்குகிறது. இவை முகப்பை மற்றும் உடலை பெண்ணாக்கும் அறுவை சிகிச்சைகள், நிரந்தர முடி அகற்றல் மற்றும் முடி நகர்த்துவித்தல் சிகிச்சைகளை உள்ளடக்கியது. இந்த வளவியல், ஒவ்வொரு FFS சிகிச்சைகளின் மேல் விரிவான தகவல்களை வழங்குகிறது மற்றும் தமது பயணத்திற்கு சரியான தேர்வுகளை செய்யுவதில் டிரான்ஸ் மகளிரை வழிபாடு செய்கின்றது."
+    },
+    "te-IN": {
+      "title": "ముఖ స్త్రీయీకరణ శస్త్ర చికిత్సలు",
+      "description": "2pass క్లినిక్ తరంగంలోకి మారుతున్న త్రాన్స్ మహిళలకు సహాయం చేయడానికి వివిధ శస్త్ర చికిత్సలు అందిస్తుంది. వీటిలో ముఖం మరియు శరీరం స్త్రీయీకరణ శస్త్ర చికిత్సలు, శాశ్వత రేముకు తొలగించడం మరియు రేము కింపు చికిత్సలు ఉంటాయి. ఈ వనరు ప్రతి భళి వివరమైన సమాచారాన్ని అందిస్తుంది మరియు వారి ప్రయాణానికి దగ్గర ఎంపికలు చేసేందుకు త్రాన్స్ మహిళలను మార్గదర్శించింది."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+  "slug": "voice-resource-repository",
+  "externalUrl": "https://wiki.sumianvoice.com/",
+  "tags": [
+    "voice-training",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "sumianvoice@gmail.com",
+  "socialMedia": {
+    "githubUrl": "https://github.com/sumiansvoice"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Voice Resource Repository",
+      "description": "The Voice Resource Repository is an open and evolving project started by Sumi and Emma aiming to provide approachable information and direction for those wishing to change their voice. Focused on both feminisation and masculinisation practices, this initiative is meant to assist beginners and serve as a comprehensive reference for students and teachers alike. Though still mostly feminisation oriented, work is being carried out to make it agnostic to users' goals."
+    },
+    "pt-PT": {
+      "title": "Repositório de Recursos de Voz",
+      "description": "O Repositório de Recursos de Voz é um projeto aberto e em evolução iniciado por Sumi e Emma com o objetivo de fornecer informações acessíveis e orientação para aqueles que desejam mudar a sua voz. Focado tanto em práticas de feminização quanto de masculinização, esta iniciativa visa auxiliar iniciantes e servir como referência abrangente para estudantes e professores. Embora ainda seja principalmente orientado para a feminização, o trabalho está sendo realizado para torná-lo agnóstico aos objetivos dos usuários."
+    },
+    "fr-FR": {
+      "title": "Dépôt de ressources vocales",
+      "description": "Le Dépôt de Ressources Vocales est un projet ouvert et évolutif lancé par Sumi et Emma visant à fournir des informations accessibles et des orientations pour ceux qui souhaitent changer leur voix. Axée sur les pratiques de féminisation et de masculinisation, cette initiative vise à aider les débutants et à servir de référence complète pour les étudiants et les enseignants. Bien qu'encore principalement orienté vers la féminisation, des travaux sont en cours pour le rendre agnostique des objectifs des utilisateurs."
+    },
+    "id-ID": {
+      "title": "Repositori Sumber Suara",
+      "description": "Repositori Sumber Suara adalah proyek terbuka dan berkembang yang dimulai oleh Sumi dan Emma dengan tujuan untuk menyediakan informasi yang mudah dipahami dan arah untuk mereka yang ingin mengubah suara mereka. Fokus pada praktik feminisasi dan maskulinisasi, inisiatif ini dimaksudkan untuk membantu pemula dan juga sebagai referensi yang komprehensif bagi siswa dan guru. Walaupun masih mayoritas berorientasi feminisasi, kerja sedang dilakukan untuk membuatnya agnostik terhadap tujuan pengguna."
+    },
+    "zh-CN": {
+      "title": "语音资源库",
+      "description": "语音资源库是由Sumi和Emma开始的一个公开且不断发展的项目，旨在为那些希望改变自己的声音的人提供可接近的信息和方向。该项目旨在协助初学者，并为学生和教师提供全面的参考资料，主要关注阴性化和阳性化实践。虽然主要还是以女性化为主，但正在进行工作，使其与用户的目标无关。"
+    },
+    "ko-KR": {
+      "title": "음성 자료 저장소",
+      "description": "음성 자료 저장소는 Sumi와 Emma가 시작한 개방적이고 발전하는 프로젝트로, 자신의 목소리를 바꾸고자 하는 사람들에게 접근하기 쉬운 정보와 지향점을 제공하려는 것입니다. 여성화와 남성화 연습 모두에 초점을 맞춘 이 프로젝트는 초보자를 돕고 학생과 교사 모두에게 종합적인 참고자료로서의 역할을 하려는 것입니다. 아직 대부분 여성화에 중점을 두고 있지만, 사용자의 목표에 구애받지 않도록 작업이 진행되고 있습니다."
+    },
+    "de-DE": {
+      "title": "Sprachressourcen-Repository",
+      "description": "Das Sprachressourcen-Repository ist ein offenes und sich ständig weiterentwickelndes Projekt, das von Sumi und Emma initiiert wurde und sich zum Ziel gesetzt hat, leicht verständliche Informationen und Anleitungen für diejenigen bereitzustellen, die ihre Stimme verändern möchten. Sowohl auf Feminisierungs- als auch auf Maskulinisierungspraktiken ausgerichtet, soll diese Initiative Anfängern helfen und als umfassendes Nachschlagewerk für Schüler und Lehrer gleichermaßen dienen. Obwohl es immer noch hauptsächlich auf Feminisierung ausgerichtet ist, wird daran gearbeitet, es unabhängig von den Zielen der Benutzer zu gestalten."
+    },
+    "tr-TR": {
+      "title": "Ses Kaynak Deposu",
+      "description": "Ses Kaynak Deposu, Sumi ve Emma tarafından başlatılan, seslerini değiştirmek isteyen kişilere ulaşılabilir bilgi ve yönlendirme sağlamayı amaçlayan açık ve evrimleşen bir projedir. Hem feminizasyon hem de maskülenleştirme uygulamalarına odaklanan bu girişim, başlangıç yapanları desteklemek ve öğrenciler ile öğretmenler için kapsamlı bir referans olmayı hedeflemektedir. Henüz çoğunlukla feminizasyon odaklı olsa da, kullanıcıların hedeflerine bağımsız hâle getirilmesi için çalışmalar yürütülmektedir."
+    },
+    "sw-KE": {
+      "title": "Hifadhi ya Rasilimali ya Sauti",
+      "description": "Hifadhi ya Rasilimali ya Sauti ni mradi unaoendelea na wazi ulioanzishwa na Sumi na Emma wenye lengo la kutoa habari na mwelekeo unaoeleweka kwa wale wanaotaka kubadilisha sauti zao. Ukiwa na mkazo kwenye mazoezi ya kufeminise na kumascuslainize, mpango huu umelenga kusaidia wale wanaoanza na kutumika kama rejea kamili kwa wanafunzi na walimu sawa. Ingawa bado ni mazoea yanayoelekea kwenye ufeminishaji, kazi inafanywa ili kuhakikisha inakuwa agnostic kwa malengo ya watumiaji."
+    },
+    "es-ES": {
+      "title": "Repositorio de Recursos de Voz",
+      "description": "El Repositorio de Recursos de Voz es un proyecto abierto y en evolución iniciado por Sumi y Emma con el objetivo de proporcionar información accesible y orientación para aquellos que deseen cambiar su voz. Centrado tanto en las prácticas de feminización como de masculinización, esta iniciativa está destinada a ayudar a los principiantes y servir como una referencia integral para estudiantes y profesores por igual. Aunque todavía está mayoritariamente orientado a la feminización, se está trabajando para hacerlo agnóstico a los objetivos de los usuarios."
+    },
+    "vi-VN": {
+      "title": "Kho Tài Nguyên Giọng Nói",
+      "description": "Kho Tài Nguyên Giọng Nói là một dự án mở và đang phát triển được bắt đầu bởi Sumi và Emma nhằm cung cấp thông tin dễ tiếp cận và hướng dẫn cho những người mong muốn thay đổi giọng của mình. Tập trung vào cả thực hành nữ hoá và nam hoá, sáng kiến này nhằm giúp cho người mới bắt đầu và đóng vai trò như một tài liệu tham khảo đ comprehensive cho cả học sinh và giáo viên. Mặc dù vẫn chủ yếu là hướng đến việc nữ hoá, công việc đang được tiến hành để làm cho nó không phụ thuộc vào mục tiêu của người dùng."
+    },
+    "ja-JP": {
+      "title": "音声リソースリポジトリ",
+      "description": "音声リソースリポジトリは、スミとエマによって開始されたオープンで進化し続けるプロジェクトで、声を変えたいと思っている人に対して親しみやすい情報と指導を提供しようとしています。女性化と男性化の実践の両方に焦点を当てたこの取り組みは、初心者を助け、学生と教師の両方のための包括的な参照として機能することを意図しています。まだ主に女性化に向けられていますが、ユーザーの目標に対して中立的にするための作業が行われています。"
+    },
+    "ru-RU": {
+      "title": "Репозиторий голосовых ресурсов",
+      "description": "Репозиторий голосовых ресурсов является открытым и развивающимся проектом, начатым Суми и Эммой, целью которого является предоставление доступной информации и указаний для тех, кто хочет изменить свой голос. Сосредоточенный как на практиках феминизации, так и маскулинизации, этот проект призван помочь начинающим и служить объемным справочником для студентов и преподавателей. Несмотря на то, что работа до сих пор в основном ориентирована на феминизацию, производятся усилия, чтобы сделать его агностическим в отношении целей пользователей."
+    },
+    "ar-SA": {
+      "title": "مستودع الموارد الصوتية",
+      "description": "مستودع الموارد الصوتية هو مشروع مفتوح ومتطور بدأته سومي وإيما بهدف توفير معلومات متاحة وتوجه لأولئك الذين يرغبون في تغيير أصواتهم. يركز هذا المشروع على كل من ممارسات التأنيث والتذكير، وهو مبادرة تهدف إلى مساعدة المبتدئين وتعمل كمرجع شامل للطلاب والمعلمين على حد سواء. على الرغم من أنه لا يزال موجها في المقام الأول نحو التأنيث، يتم العمل على جعله محايداً لأهداف المستخدمين."
+    },
+    "uk-UA": {
+      "title": "Ресурсний репозиторій голосу",
+      "description": "Ресурсний репозиторій голосу - це відкритий та розвиваючийся проект, розпочатий Сумі та Емма, який має на меті забезпечити доступну інформацію та орієнтири для тих, хто бажає змінити свій голос. Зосереджуючись як на практиках фемінізації, так і на практиках маскулінізації, ця ініціатива призначена для допомоги початківцям та слугувати всеосяжним посібником для студентів та викладачів. Хоча все ще переважно зосереджений на фемінізації, ведуться роботи, щоб зробити його нейтральним щодо цілей користувачів."
+    },
+    "ur-PK": {
+      "title": "آواز وسائل مخزن",
+      "description": "آواز وسائل مخزن ایک کھولا اور ترقی پذیر پروجیکٹ ہے جو سومی اور ایما نے شروع کیا ہے، جس کا مقصد ان افراد کے لئے قابل فہم معلومات اور ہدایت فراہم کرنا ہے جو اپنی آواز کو تبدیل کرنا چاہتے ہیں۔ یہ پہل کے دونوں فیمنائیزیشن اور میسکلائزیشن کی عمل پر توجہ مرکوز ہے، یہ توقع کی جا رہی آغاز کرنے والوں کی مدد کرنے کے لئے ہے اور طلبہ اور اساتذہ کے لئے مکمل حوالہ کے طور پر کام کرتی ہے۔ بالکل طور پر موجودہ حالت میں بھی زیادہ تر فیمنائزیشن کو ترجیح دی جاتی ہے، کام کیا جا رہا ہے تاکہ اسے صارفین کے مقاصد سے غیر جانبدار بنایا جا سکے۔"
+    },
+    "mr-IN": {
+      "title": "व्हॉइस संसाधन संग्रहविषयक संदर्भ",
+      "description": "व्हॉइस संसाधन संग्रहविषयक संदर्भ हे एक सुरु असलेली उघड आणि विकासित होणारी प्रकल्प आहे जी सुमी आणि एम्माने सुरु केलेली आहे, ज्याचे उद्देश असे आहे की त्यांना आपल्या व्हॉइसला बदलवायचे असलेल्या माणसांना सोपे माहिती आणि मार्गदर्शन पुरवते. हे प्रकाल्प मुलींच्या आवाजाच्या सुंदरीकरण आणि पुरुषत्वाधिपतीकरण या दोन्ही प्रक्रियांवर केंद्रित आहे, त्यामुळे हे ऐतिहासिकपणे सुरवातीच्या विद्यार्थ्यांना मदत करणारे आहे असेच विद्यार्थ्यांच्या विद्यार्थ्यांसाठीचे संपूर्ण संदर्भ म्हणून काम करणारे आहे. तथापि, साधारणतः मुलींसाठीचे अधिक अवलंबुन असलेलेपरंतु, ती वापरकर्तांच्या लक्षात्मकांनुसार विविध (अगावे) होण्यासाठी कार्य करण्यात आलेली आहे."
+    },
+    "hi-IN": {
+      "title": "वाणी संसाधन भंडार",
+      "description": "वाणी संसाधन भंडार एक खुला और विकासशील परियोजना है जिसे सुमी और एमा ने शुरू किया है और यह उन लोगों को समझनीय जानकारी और दिशा प्रदान करने का लक्ष्य रखता है जो अपनी आवाज़ को बदलना चाहते हैं। यह पहल महिलाओं और पुरुषों के लिंगीकरण पर केंद्रित है, और यह शुरुआती लोगों की सहायता करने और छात्रों और शिक्षकों के लिए व्यापक संदर्भ का कार्य करने के लिए है। हालांकि अभी भी अधिकांशत: महिला आधारित है, काम किया जा रहा है ताकि यह उपयोगकर्ताओं के लक्ष्यों के प्रति उदार हो सके।"
+    },
+    "bn-BD": {
+      "title": "ভয়েস রিসোর্স রিপোজিটরি",
+      "description": "ভয়েস রিসোর্স রিপোজিটরি হলো একটি খোলা এবং বিকাশশীল প্রকল্প যা সুমি এবং এমা দ্বারা শুরু করা হয়েছে এবং যার উদ্দেশ্য হলো তাদেরকে তথ্য এবং দিকনির্দেশনা প্রদান করা যারা তাদের ভয়েস পরিবর্তন করতে চান। এই উদ্যোগটি নারীমুখী এবং পুরুষমুখী অভ্যাসের উপর কেন্দ্রিত, এটি সংগ্রহিতাদের সাহায্য করার জন্য এবং শিক্ষার্থীদের এবং শিক্ষাদাতাদের জন্য একটি সম্পূর্ণ উল্লেখ হিসাবে কার্য করে। যদিও এখনও মূলত নারীমুখী নির্দেশিত, কাজ চলছে যাতে এটি ব্যবহারকারীদের লক্ষ্যের প্রতি নিরপেক্ষ হয়।"
+    },
+    "ta-IN": {
+      "title": "குரல் வள ஆவணக் களஞ்சியம்",
+      "description": "குரல் வள ஆவணக் களஞ்சியம் என்பது சுமி மற்றும் எம்மாவின் துவக்கியோட்டுப் பொதுவாக மற்றும் விரிவாக விளைவிக்கையான திட்டம். இது தமது குரலை மாற்ற விரும்புவதற்கு அணுகும் வழங்கும் வழிவரையையும் தகவலையும் அளிக்க இருக்கின்றன. இந்த முன்னெச்சரிக்கை ஆரம்பத்தோடியும் முழுமையான குறிப்புக்கும் பாதுகாப்பிக்கையையும் விவரிக்கின்றது. வளர்ந்து வர பல குழுக்களும், அரசியல் நிர்ணயங்களை மாற்றுவதை முயற்சிக்கின்றோம், ஆனால் அது வழக்குகளை முயற்சிக்கின்றோம்."
+    },
+    "te-IN": {
+      "title": "స్వర వనరుల రిపాజిటరీ",
+      "description": "స్వర వనరుల రిపాజిటరీని సుమి మరియు ఎమ్మ ప్రారంభించిన తెరవనిది మరియు అభివృద్ధి కూడుచేసే పరియోజన. ఆశా కలిగించే వారికి అంగీకారయోగ్య సమాచారాన్ని మరియు దిశని అందిస్తుంది. ఇది ప్రారంభకులు సాయం చేసేందుకు, పునః మరీ విద్యార్థులు మరియు ఉపాధ్యాయుల యొక్క సమగ్ర ఉల్లేఖ పరిచయం. అమ్మ, దానికి అధికారం గల అవధిలో, ఇదిది వినియోగదారుల లక్ష్యాలaku సాపేక్షంగా పని చేస్తుంది. అయినా ఇప్పటివరకు అది ప్రధానంగా స్త్రీయనత్వాన్ని ఆశ్రయిస్తుంది."
+    }
+  }
+}

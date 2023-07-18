@@ -1,0 +1,24 @@
+{
+  "id": "690df39a-2340-4fea-a410-b8abb9c431c3",
+  "title": "Gender Census",
+  "description": "The Gender Census is an annual survey that collects data about the language used by people who do not identify within the gender binary. The survey, which has been conducted annually since 2015, seeks to encompass a broader range of gender experiences and identities, including those whose gender changes over time, fluctuates in intensity, or exists outside of the male/female binary. It serves the transgender community by promoting inclusivity and understanding.",
+  "slug": "gender-census",
+  "externalUrl": "https://www.gendercensus.com/",
+  "tags": [
+    "non-binary",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "hello@gendercensus.com",
+  "socialMedia": {
+    "tumblrUrl": "https://gendercensus.tumblr.com/",
+    "mastodonUrl": "https://mastodon gendercensus.com/",
+    "patreonUrl": "https://www.patreon.com/gendercensus"
+  }
+}

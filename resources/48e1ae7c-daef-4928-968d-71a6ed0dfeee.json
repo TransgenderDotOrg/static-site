@@ -1,0 +1,110 @@
+{
+  "id": "48e1ae7c-daef-4928-968d-71a6ed0dfeee",
+  "slug": "trans-sask-resources",
+  "externalUrl": "https://www.transsask.ca/resources/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "info@transsask.ca",
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/TransSask",
+    "facebookUrl": "https://www.facebook.com/TransSask",
+    "instagramUrl": "https://www.instagram.com/TransSask"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Trans Sask Resources",
+      "description": "Trans Sask is a non-profit organization that provides support and acts as a resource network for trans-identified, genderqueer, intersex and gender non-conforming individuals, their spouses, family, friends, and allies. Resources offered include accessing affirming healthcare, name change guide and trans-inclusive media guide."
+    },
+    "es-ES": {
+      "title": "Trans Sask Resources",
+      "description": "Trans Sask es una organización sin fines de lucro que proporciona soporte y actúa como una red de recursos para individuos identificados como trans, género raro, intersexo y de género no conforme, sus cónyuges, familia, amigos y aliados. Los recursos ofrecidos incluyen acceso a atención médica afirmativa, guía para cambio de nombre y guía de medios incluyentes para trans."
+    },
+    "de-DE": {
+      "title": "Trans Sask Resources",
+      "description": "Trans Sask ist eine gemeinnützige Organisation, die Unterstützung bietet und als Ressourcennetzwerk für transidentifizierte, genderqueere, intersexuelle und geschlechtsnonkonforme Personen, ihre Ehepartner, Familie, Freunde und Verbündete fungiert. Zu den angebotenen Ressourcen gehören der Zugang zu bestätigender Gesundheitsversorgung, Leitfaden zur Namensänderung und Leitfaden zu trans-inclusiven Medien."
+    },
+    "pt-PT": {
+      "title": "Trans Sask Resources",
+      "description": "Trans Sask é uma organização sem fins lucrativos que oferece suporte e atua como uma rede de recursos para indivíduos trans-identificados, genderqueer, intersex e não conformes com o gênero, seus cônjuges, familiares, amigos e aliados. Os recursos oferecidos incluem acesso a serviços de saúde afirmativos, guia de mudança de nome e guia de mídia inclusivo para trans."
+    },
+    "sw-KE": {
+      "title": "Rasilimali za Trans Sask",
+      "description": "Trans Sask ni shirika lisilo la faida ambalo hutoa msaada na kufanya kama mtandao wa rasilimali kwa watu waliojulikana kama trans, genderqueer, intersex na wasio na kufuata jinsia, wake zao, familia, marafiki, na washirika. Rasilimali zinazotolewa ni pamoja na kupata huduma za afya zinazothibitisha, mwongozo wa kubadilisha jina na mwongozo wa vyombo vya habari vinavyojumuisha trans."
+    },
+    "zh-CN": {
+      "title": "Trans Sask 资源",
+      "description": "Trans Sask 是一个非营利性组织，为认同跨性别、性别酷儿、双性人和不符合性别规范的个体，其配偶、家人、朋友和盟友提供支持和作为一个资源网络。提供的资源包括获取肯定的医疗保健，姓名更改指南和跨性别包容的媒体指南。"
+    },
+    "tr-TR": {
+      "title": "Trans Sask Kaynakları",
+      "description": "Trans Sask, trans-identli, genderqueer, intersex ve cinsiyet uyumsuz bireyler, eşleri, aileleri, arkadaşları ve müttefikleri için destek sağlayan ve bir kaynak ağı olarak görev yapan kar amacı gütmeyen bir organizasyondur. Sunulan kaynaklar arasında onaylayıcı sağlık hizmetlerine erişim, isim değişikliği rehberi ve trans-dahil medya rehberi bulunmaktadır."
+    },
+    "fr-FR": {
+      "title": "Ressources Trans Sask",
+      "description": "Trans Sask est une organisation à but non lucratif qui fournit un soutien et agit comme un réseau de ressources pour les personnes identifiées comme transgenres, queers en matière de genre, intersexuées et non conformes au genre, leurs conjoints, famille, amis et alliés. Les ressources proposées comprennent l'accès à des soins de santé affirmatifs, un guide pour le changement de nom et un guide médiatique inclusif pour les trans."
+    },
+    "ko-KR": {
+      "title": "Trans Sask 자원",
+      "description": "Trans Sask는 트랜스를 자체 식별하며, 젠더퀴어, 성중립성, 성별 비일치 개인 및 그들의 배우자, 가족, 친구, 동맹자들에게 지원을 제공하고 자원 네트워크로서 활동하는 비영리 단체입니다. 제공되는 자원에는 긍정적인 건강 관리 접근, 이름 변경 가이드 및 트랜스를 포함한 미디어 가이드가 포함됩니다."
+    },
+    "ja-JP": {
+      "title": "Trans Sask Resources",
+      "description": "Trans Saskはトランスジェンダー、ジェンダークィア、インターセックス、およびジェンダーにとらわれない個々の支援とリソースネットワーキングを提供する非営利団体です。これは配偶者、家族、友人、および協力者を対象としています。提供されるリソースには、肯定的なヘルスケアへのアクセス、名前変更ガイド、トランスジェンダーを含むメディアガイドが含まれます。"
+    },
+    "id-ID": {
+      "title": "Trans Sask Resources",
+      "description": "Trans Sask adalah organisasi nirlaba yang memberikan dukungan dan berfungsi sebagai jaringan sumber daya untuk individu yang diidentifikasi sebagai trans, genderqueer, interseks dan non-konformitas gender, pasangan mereka, keluarga, teman, dan sekutu. Sumber daya yang ditawarkan termasuk akses ke perawatan kesehatan yang mengesahkan, panduan perubahan nama dan panduan media inklusif trans."
+    },
+    "ru-RU": {
+      "title": "Транс Саск Ресурсы",
+      "description": "Транс Саск - это некоммерческая организация, которая предоставляет поддержку и действует как ресурсная сеть для людей, идентифицирующих себя как трансгендеры, гендерквир, интерсексуалы и лиц, не соответствующих гендерным нормам, а также их супругов, семью, друзей и союзников. Предлагаемые ресурсы включают доступ к подтверждающему здравоохранению, руководство по смене имени и руководство по транс-включающим СМИ."
+    },
+    "vi-VN": {
+      "title": "Tài nguyên Trans Sask",
+      "description": "Trans Sask là một tổ chức phi lợi nhuận cung cấp hỗ trợ và hoạt động như một mạng lưới tài nguyên cho những người nhận diện giới tính chuyển đổi, người không rõ giới tính, người song tính và những người không tuân thủ giới tính, người vợ/husband của họ, gia đình, bạn bè, và những người ủng hộ. Các tài nguyên được cung cấp bao gồm việc tiếp cận chăm sóc sức khỏe tích cực, hướng dẫn thay đổi tên và hướng dẫn truyền thông bao quát giới tính chuyển đổi."
+    },
+    "uk-UA": {
+      "title": "Ресурси Trans Sask",
+      "description": "Trans Sask - це некомерційна організація, яка надає підтримку і діє як мережа ресурсів для осіб, які ідентифікують себе як трансгендерні, гендерно нетрадиційні, інтерсексуали і осіб з нестандартною гендерною поведінкою, їхніх подружжя, рідних, друзів та союзників. Послуги, що надаються, включають доступ до підтримуючих медичних послуг, посібник для зміни імені та посібник за медіа, що включає транслюдей."
+    },
+    "ar-SA": {
+      "title": "موارد ترانس ساسك",
+      "description": "ترانس ساسك هي منظمة غير ربحية تقدم الدعم وتعمل كشبكة موارد للأشخاص الذين يتم تحديد هويتهم على أنها المتحولين جنسياً أو غير محددي النوع أو الجنس البيني أو الأشخاص الذين لا يستوفون القواعد الجنسية بالإضافة إلى أزواجهم، أفراد عائلتهم، وحلفائهم. تشمل الموارد التي يتم تقديمها الإمكانية أيضاً للحصول على الرعاية الصحية المؤكدة، دليل تغيير الاسم ودليل الوسائط المشمولة بالتحول الجنسي."
+    },
+    "ur-PK": {
+      "title": "ہدایت ساسک وسائل",
+      "description": "ہدایت ساسک غیر منافع بخش تنظیم ہے جو تعریف کردہ ، تربیت یافتہ ، مشترکہ جنسیت، جنسیت سے متعلقہ، انفرادی ، ان کے ہم سفر ، خاندان ، دوستوں اور حامیوں کے لئے مدد اور وسائل کے نیٹ ورک کے طور پر کام کرتی ہے. پیش کی گئی وسائل میں تصدیق کرنے والی صحت کی دیکھ بھال تک رسائی ، نام تبدیلی کا رہنما اور ٹرانس شامل میڈیا گائیڈ شامل ہیں."
+    },
+    "hi-IN": {
+      "title": "Trans Sask संसाधन",
+      "description": "Trans Sask एक गैर-लाभ संगठन है जो सहायता प्रदान करता है और ट्रांस-पहचान, जेंडरक्वीर, इंटरसेक्स और जेंडर गैर-समरूप व्यक्तियों, उनके पत्नियों, परिवार, मित्रों, और सहयोगियों के लिए एक संसाधन नेटवर्क के रूप में कार्य करता है। प्रदान की गई संसाधनों में स्वीकार करने वाली स्वास्थ्य सेवाएं पहुँचना, नाम परिवर्तन गाइड और ट्रांस-समावेशी मीडिया गाइड शामिल है।"
+    },
+    "mr-IN": {
+      "title": "Trans Sask संसाधने",
+      "description": "Trans Sask हे एक नफायसक संस्था आहे जी trans-identified, लिंगशंक, इंटरसेक्स व लिंग-अधीनायक व्यक्तींच्या मदतीसाठी आणि संसाधन जालवाण्याची कार्ये करते, त्यांच्या पत्नी, कुटुंब, मित्र, व त्यांच्या संरक्षकांसाठी. उपलब्ध केलेले संसाधन आरोग्यसेवा क्षेत्री समर्थन करणे, नाव बदलण्याचे मार्गदर्शक आणि गळीची समाविष्ट माध्यम मार्गदर्शक आहेत."
+    },
+    "bn-BD": {
+      "title": "Trans Sask সম্পদ",
+      "description": "Trans Sask একটি অলাভজনক প্রতিষ্ঠান যা trans-identified, জেন্ডারকে অনির্দিষ্ট করে, intersex এবং জেন্ডার অসমলৈংঘিক ব্যক্তিদের, তাদের স্বামী, পরিবার, বন্ধু, এবং সহযোগীদের জন্য সমর্থন এবং রিসোর্স নেটওয়ার্ক হিসেবে কাজ করে। প্রদান করা সম্পদে অন্তর্ভুক্ত আছে সশ্রদ্ধ স্বাস্থ্যসেবা ভোগ করা, নাম পরিবর্তন গাইড এবং trans-সমবেত মিডিয়া গাইড।"
+    },
+    "ta-IN": {
+      "title": "Trans Sask வளங்கள்",
+      "description": "Trans Sask ஒரு முனைத-வாரிசு அமைப்புத் தனது மேலாண்மையை விளக்கும், பாலினத் தேர்வு மாற்றியுள்ள, பாலினமிலவே இல்லாத, இனப்பெருக்கம் மற்றும் பால் நியமமற்ற ஆண்டுகளுக்கு, அவர்களின் மனைவிகளுக்கு, குடும்பத்தினருக்கு, நண்பர்களுக்கு மற்றும் கூட்டாளிகளுக்கு ஆதரவாக வடிவமைக்கப்பட்டுள்ளது. வழங்கும் வளங்களில் உள்ளன உறுதி சேவையை அணுகும், பெயர் மாற்றி வழிகாட்டல் மற்றும் trans-சேர்ந்த ஊடக வழிகாட்டி."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్ సాస్క్ వనరులు",
+      "description": "ట్రాన్స్ సాస్క్ ఒక లాభరహిత సంస్థ అనిస్తుంది ఇది ప్రమాణంగా ఉండే, లింగ అస్పష్టత, అంతర లింగ మరియు లింగ సమర్థనలేని వ్యక్తులకు, వారి భార్యలకు, కుటుంబసభ్యులకు, స్నేహితులకు, మరియు పక్షధారులకు మద్దతును అందిస్తుంది. అందించే వనరులలో ఆరోగ్య సేవలను స్థిరీకరించేందుకు మార్గదర్శకం, పేరు మార్పు మార్గదర్శకం మరియు ట్రాన్స్-సమావేశక మీడియా మార్గదర్శకం ఉంటాయి."
+    }
+  }
+}

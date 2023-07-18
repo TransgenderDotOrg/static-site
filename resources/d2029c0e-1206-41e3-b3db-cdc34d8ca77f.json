@@ -1,0 +1,111 @@
+{
+  "id": "d2029c0e-1206-41e3-b3db-cdc34d8ca77f",
+  "slug": "refuge-restrooms",
+  "externalUrl": "https://www.refugerestrooms.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms is a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals. Users can search for restrooms by proximity to a search location, add new restroom listings, as well as comment and rate existing listings."
+    },
+    "fr-FR": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms est une application web qui cherche à fournir un accès sûr aux toilettes pour les individus transgenres, intersexes et non conformes au genre. Les utilisateurs peuvent rechercher des toilettes par proximité d'un lieu de recherche, ajouter de nouvelles listes de toilettes, ainsi que commenter et évaluer les listes existantes."
+    },
+    "id-ID": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms adalah aplikasi web yang bertujuan untuk menyediakan akses toilet yang aman bagi individu transgender, interseks, dan yang tidak sesuai dengan norma gender. Pengguna dapat mencari toilet berdasarkan kedekatan dengan lokasi pencarian, menambahkan daftar toilet baru, serta mengomentari dan memberi penilaian pada daftar yang ada."
+    },
+    "es-ES": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms es una aplicación web que busca proporcionar acceso seguro a los baños para individuos transgénero, intersexuales y de género no conforme. Los usuarios pueden buscar baños por proximidad a una ubicación de búsqueda, agregar nuevas listas de baños, así como comentar y calificar las listas existentes."
+    },
+    "zh-CN": {
+      "title": "避难厕所",
+      "description": "避难厕所是一个网页应用程序，旨在为跨性别者、两性人以及性别不符合社会规范的个体提供安全的厕所通道。用户可以通过搜索位置附近的厕所，添加新的厕所信息，以及对已存在的信息进行评论和评分。"
+    },
+    "pt-PT": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms é uma aplicação web que busca fornecer acesso seguro a banheiros para indivíduos transgêneros, intersex e com conformidade de gênero não binária. Os usuários podem procurar banheiros por proximidade a um local de pesquisa, adicionar novas listagens de banheiros, bem como comentar e avaliar listagens existentes."
+    },
+    "de-DE": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms ist eine Webanwendung, die sichereren Zugang zu Toiletten für Transgender, Intersexuelle und Menschen mit nicht-konformen Geschlechtsidentitäten ermöglichen möchte. Nutzer können nach Toiletten in der Nähe eines Suchorts suchen, neue Toiletteneinträge hinzufügen, sowie Kommentare abgeben und bestehende Einträge bewerten."
+    },
+    "tr-TR": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms, transgender, interseks ve cinsiyet uyumsuz bireyler için güvenli tuvalet erişimi sağlamayı amaçlayan bir web uygulamasıdır. Kullanıcılar, bir arama konumuna yakınlığına göre tuvaletleri arayabilir, yeni tuvalet listeleri ekleyebilir, mevcut listeleri yorumlayabilir ve puanlayabilir."
+    },
+    "vi-VN": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms là một ứng dụng web nhằm cung cấp quyền tiếp cận an toàn với nhà vệ sinh cho những người chuyển giới, song tính và không tuân thủ giới tính. Người dùng có thể tìm kiếm nhà vệ sinh gần vị trí tìm kiếm, thêm danh sách nhà vệ sinh mới, cũng như bình luận và đánh giá danh sách hiện có."
+    },
+    "ru-RU": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms - это веб-приложение, которое стремится обеспечить безопасный доступ к туалету для трансгендеров, интерсексуалов и людей, не соответствующих традиционным гендерным нормам. Пользователи могут искать туалеты вблизи указанного места, добавлять новые записи о туалетах, а также комментировать и оценивать существующие записи."
+    },
+    "uk-UA": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms - це веб-застосунок, який намагається забезпечити безпечний доступ до туалету для трансгендерних, інтерсексуальних та осіб, які не відповідають гендерним нормам. Користувачі можуть шукати туалети за близькістю до місця пошуку, додавати нові списки туалетів, а також коментувати та оцінювати існуючі списки."
+    },
+    "ja-JP": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restroomsは、トランスジェンダー、性間性、ジェンダー適応障害の個々の安全なトイレへのアクセスを提供することを目指したウェブアプリケーションです。ユーザーは、検索場所からの近接性によってトイレを検索したり、新しいトイレのリストを追加したり、既存のリストをコメントおよび評価することもできます。"
+    },
+    "ko-KR": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms는 트랜스젠더, 인터섹스, 성별 비준수 개인들에게 안전한 화장실 접근을 제공하려는 웹 애플리케이션입니다. 사용자는 검색 위치와 가까운 화장실을 검색하거나, 새로운 화장실 목록을 추가하고, 기존 목록에 대한 의견 및 평가를 게재할 수 있습니다."
+    },
+    "sw-KE": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms ni programu ya mtandao inayolenga kutoa ufikiaji salama wa vyoo kwa watu wa jinsia ya kubadilika, wale wa jinsia tatu, na watu wasio na jinsia maalum. Watumiaji wanaweza kutafuta vyoo kwa ukaribu na mahali pa kutafuta, kuongeza orodha mpya za vyoo, pamoja na kutoa maoni na kupima orodha zilizopo."
+    },
+    "ar-SA": {
+      "title": "مراحيض اللجوء",
+      "description": "مراحيض اللجوء هي تطبيق ويب يسعى إلى توفير وصول آمن إلى المراحيض للأشخاص المتحولين جنسيًا والمشتركين في الجنس وغير المتوافقين مع الجنس. يمكن للمستخدمين البحث عن المراحيض بالقرب من موقع البحث، وإضافة قوائم مراحيض جديدة، بالإضافة إلى التعليق وتقييم القوائم الحالية."
+    },
+    "ur-PK": {
+      "title": "پناہ گاہ بیت الخلا",
+      "description": "پناہ گاہ بیت الخلا ایک ویب ایپلیکیشن ہے جو ٹرانسجینڈر، انٹرسیکس ، اور جنسی غیر متوافق افراد کے لئے محفوظ بیت الخلا تک رسائی فراہم کرنے کی کوشش کرتا ہے۔ صارفین بیت الخلا کی تلاش کر سکتے ہیں تلاش کے مقام کی قربت سے، نئی بیت الخلا کی فہرستیں شامل کر سکتے ہیں ، ویسے ہی جیسے موجودہ فہرستوں پر تبصرہ اور درجہ بھی دے سکتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms एक वेब एप्लिकेशन है जो ट्रांसजेंडर, इंटरसेक्स, और लिंग गैर-समरूपता वाले व्यक्तियों के लिए सुरक्षित शौचालय पहुंच प्रदान करने का प्रयास करता है। उपयोगकर्ता खोज स्थान के निकटता के अनुसार शौचालयों की खोज कर सकते हैं, नए शौचालय सूचीयाँ जोड़ सकते हैं, साथ ही मौजूदा सूचियों पर टिप्पणी और रेट कर सकते हैं।"
+    },
+    "mr-IN": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms हे वेब अनुप्रयोग आहे ज्याच्या माध्यमातून ट्रांसजेंडर, इंटरसेक्स, आणि लिंग संकीर्ण व्यक्तींना सुरक्षित स्वच्छालय प्रवेश उपलब्ध करुन देतो. वापरकर्ते स्वच्छालयांची शोध करण्यासाठी शोध स्थलाप्रमाणे जवळील स्वच्छालयांची शोध करु शकतात, नवीन स्वच्छालय सूची जोडू शकतात, सुधारणा करण्यासाठी अस्तित्वात असलेल्या सूची टीका आणि गुणवत्ता मूल्यांकन करू शकतात."
+    },
+    "ta-IN": {
+      "title": "Refuge Restrooms",
+      "description": "Refuge Restrooms ஒரு வலை பயன்பாடு ஆகும், இது பாலின மாறியவர்கள், இடையில் உள்ளவர்கள் மற்றும் பாலின அன்பிரதேசித்தவர்களுக்கு பாதுகாப்பான கூலை அணுகுதல் வழங்க முயற்சிக்கின்றது. பயனர்கள் ஒரு தேடல் இருப்பிடத்திற்கு அருகிலுள்ள கூலைகளைத் தேடலாம், புதிய கூலை பட்டியல்களைச் சேர்க்கலாம், மற்றும் அண்மைப் பட்டியல்களைப் பார்வையிட்டு விமர்சிக்கவும், மதிப்பிடவும் முடியும்."
+    },
+    "te-IN": {
+      "title": "రిఫ్యూజ్ రెస్ట్రూమ్స్",
+      "description": "రిఫ్యూజ్ రెస్ట్రూమ్స్ అనేది ట్రాన్స్జెండర్, ఇంటర్సెక్స్, మరియు లింగ బాధ్యతలేని వ్యక్తులకు సురక్షితమైన రెస్ట్రూమ్ ప్రాప్యతను అందించడానికి ప్రతిపాదించే వెబ్ అనువర్తనం. వాడుకరులు శోధన స్థలంగా సమీపంలోని రెస్ట్రూమ్లను శోధించవచ్చు, కొత్త రెస్ట్రూమ్ జాబితాను చేర్చవచ్చు, అలాగే ఉన్న జాబితాలను వ్యాఖ్యానించి మరియు రేట్ చేయవచ్చు."
+    },
+    "bn-BD": {
+      "title": "রেফিউজ রেস্টরুম",
+      "description": "রেফিউজ রেস্টরুম একটি ওয়েব অ্যাপ্লিকেশন যা ট্রান্সজেন্ডার, ইন্টারসেক্স, এবং লিঙ্গ অননুসারী ব্যক্তিদের জন্য নিরাপদ রেস্টরুম প্রবেশ প্রদান করার চেষ্টা করে। ব্যবহারকারীরা একটি অনুসন্ধান অবস্থানের কাছাকাছি রেস্টরুম অনুসন্ধান করতে, নতুন রেস্টরুম তালিকা যোগ করতে, এবং বিদ্যমান তালিকাগুলিতে মন্তব্য এবং রেট করতে পারে।"
+    }
+  }
+}

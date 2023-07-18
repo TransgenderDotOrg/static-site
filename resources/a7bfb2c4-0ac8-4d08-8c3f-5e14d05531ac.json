@@ -1,0 +1,108 @@
+{
+  "id": "a7bfb2c4-0ac8-4d08-8c3f-5e14d05531ac",
+  "slug": "queer-sex-ed-podcast",
+  "externalUrl": "https://www.queersexed.org/",
+  "tags": [
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "queersexed@gmail.com",
+  "socialMedia": {
+    "patreonUrl": "https://www.patreon.com/queersexed",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
+    "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Queer Sex Ed Podcast",
+      "description": "A podcast series that aims to ‘queer’ sex ed in order to intentionally include narratives and experiences of lesbian, gay, bisexual, transgender, gender queer, gender fluid, agender people, polyamorous people, asexual people, people with disabilities and more. The show addresses the lack of appropriate sex education and media representation for these communities, and seeks to fight the associated social stigmas."
+    },
+    "es-ES": {
+      "title": "Podcast de Educación Sexual Queer",
+      "description": "Una serie de podcasts que tiene como objetivo 'queerear' la educación sexual para incluir intencionalmente narrativas y experiencias de personas lesbianas, gays, bisexuales, transgénero, queer de género, fluidas de género, personas sin género, personas poliamorosas, personas asexuales, personas con discapacidades y más. El programa aborda la falta de educación sexual adecuada y representación mediática para estas comunidades, y busca combatir los estigmas sociales asociados."
+    },
+    "pt-PT": {
+      "title": "Podcast de Educação Sexual Queer",
+      "description": "Uma série de podcasts que pretende 'queerizar' a educação sexual para incluir intencionalmente narrativas e experiências de pessoas lésbicas, gays, bissexuais, transgêneras, queer, fluidas de gênero, agênero, poliamorosas, assexuais, pessoas com deficiência e mais. O show aborda a falta de educação sexual adequada e representação midiática para essas comunidades, e busca combater os estigmas sociais associados."
+    },
+    "id-ID": {
+      "title": "Podcast Pendidikan Seks Queer",
+      "description": "Seri podcast yang bertujuan untuk 'queer' pendidikan seks untuk sengaja memasukkan narasi dan pengalaman dari orang lesbian, gay, biseksual, transgender, gender queer, gender fluid, orang agender, orang poliamor, orang aseksual, orang dengan disabilitas dan lainnya. Pertunjukan ini membahas kurangnya pendidikan seks yang tepat dan representasi media untuk komunitas ini, dan berusaha untuk melawan stigma sosial yang terkait."
+    },
+    "fr-FR": {
+      "title": "Podcast sur l'éducation sexuelle Queer",
+      "description": "Une série de podcasts qui vise à 'queer' l'éducation sexuelle afin d'inclure intentionnellement les récits et les expériences des personnes lesbiennes, gays, bisexuelles, transgenres, queer de genre, fluides de genre, agenres, polyamoureuses, asexuées, personnes handicapées et plus encore. L'émission aborde le manque d'éducation sexuelle appropriée et de représentation médiatique pour ces communautés, et cherche à combattre les stigmates sociaux associés."
+    },
+    "tr-TR": {
+      "title": "Queer Sex Ed Podcast",
+      "description": "Lezbiyen, eşcinsel, biseksüel, transgender, cinsiyet queer, cinsiyet akışkan, cinsiyetsiz insanlar, çok eşli kişiler, aseksüel insanlar, engelli insanlar ve daha fazlasının anlatıları ve deneyimlerini bilinçli bir şekilde içerecek şekilde 'queer' cinsel eğitimi hedefleyen bir podcast serisi. Gösteri, bu topluluklar için uygun cinsel eğitimin ve medya temsiliyetinin eksikliğini ele alır ve ilişkili sosyal damgalarla savaşmayı hedefler."
+    },
+    "zh-CN": {
+      "title": "酷儿性教育播客",
+      "description": "一个播客系列，旨在“酷儿化”性教育，以故意包含女同性恋、男同性恋、双性恋、跨性别、性别酷儿、性别流动、无性别人士，多元化恋爱方式人士，无性欲者，残疾人等的叙述和经历。该节目讨论了这些社区在适当的性教育和媒体代表性方面的缺失，并寻求与相互关联的社会污名作斗争。"
+    },
+    "de-DE": {
+      "title": "Queer Sex Ed Podcast",
+      "description": "Eine Podcast-Serie, die darauf abzielt, die sexuelle Bildung zu 'queer' zu gestalten, um absichtlich Erzählungen und Erfahrungen von Lesben, Schwulen, Bisexuellen, Transgender, genderqueer, geschlechtsfluid, agender Menschen, polyamorösen Menschen, asexuellen Menschen, Menschen mit Behinderungen und mehr einzubeziehen. Die Show befasst sich mit dem Mangel an angemessener sexueller Bildung und Medienrepräsentation für diese Gemeinschaften und versucht, die damit verbundenen sozialen Stigmen zu bekämpfen."
+    },
+    "ko-KR": {
+      "title": "퀴어 섹스 교육 팟캐스트",
+      "description": "레즈비언, 게이, 이성애자, 트랜스젠더, 성소수자, 성유동자, 무성애자, 장애인 등의 이야기와 경험을 의도적으로 포함하기 위해 '퀴어' 섹스 교육을 목표로 하는 팟캐스트 시리즈입니다. 이 쇼는 이러한 공동체에 대한 적절한 섹스 교육과 미디어 대표성의 부재를 해결하고, 관련 사회적 편견과 싸우려고 합니다."
+    },
+    "sw-KE": {
+      "title": "Podcasti ya Elimu ya Ngono ya Queer",
+      "description": "Mfulululizo wa podcasti unalenga ‘kuharabu’ elimu ya ngono ili kujumuisha makusudi hadithi na uzoefu wa watu wasagaji, mashoga, wasio, wachagua jinsia, watu wenye jinsia mbili, watu wasio na jinsia, watu wanaopenda wengi, watu ambao hawana hamu ya ngono, watu wenye ulemavu na wengine. Onyesho linashughulikia ukosefu wa elimu sahihi ya ngono na uwakilishi katika vyombo vya habari kwa jamii hizi, na linatafuta kupambana na unyanyapaa wa kijamii unaohusishwa nao."
+    },
+    "vi-VN": {
+      "title": "Podcast Giáo Dục Giới Tính Đồng Tính",
+      "description": "Một loạt các podcast nhằm mục đích 'biến đổi' giáo dục về tình dục để cố ý bao gồm các câu chuyện và trải nghiệm của người đồng tính nữ, đồng tính nam, song tính, chuyển giới, người khác giới, người không rõ giới tính, người đa tình, người không hứng thú với tình dục, người khuyết tật và nhiều hơn nữa. Chương trình đề cập đến sự thiếu sót về giáo dục giới tính phù hợp và đại diện truyền thông cho những cộng đồng này, và tìm cách chống lại các đánh đồng xã hội liên quan."
+    },
+    "ja-JP": {
+      "title": "クィア・セックスエド・ポッドキャスト",
+      "description": "このポッドキャストシリーズは、レズビアン、ゲイ、バイセクシャル、トランスジェンダー、ジェンダークィア、ジェンダーフルイド、無性別の人々、ポリアモラスな人々、無性愛の人々、障害を持つ人々などのナラティブと経験を意図的に含めるために、セックスエドを'クィア'にすることを目指しています。この番組は、これらのコミュニティの適切なセックス教育とメディア表現が不足している問題を指摘し、関連する社会的な偏見と戦うことを目指しています。"
+    },
+    "uk-UA": {
+      "title": "Подкаст про ЛГБТ+ сексуальну освіту",
+      "description": "Серія подкастів, яка має на меті 'уквірити' сексуальну освіту, щоб навмисно включати наративи та досвід лесбійок, геїв, бісексуалів, трансгендерів, гендерних квіров, людей з гендерною нестабільністю, безстатевих людей, поліаморних людей, людей з інвалідністю та інших. Шоу ставиться проти відсутності належної сексуальної освіти та медійного представництва для цих громад, і прагне боротися з пов'язаними з ними соціальними стигмами."
+    },
+    "ar-SA": {
+      "title": "بودكاست تعليم الجنس المثلي",
+      "description": "سلسلة بودكاست تهدف إلى 'تثليث' تعليم الجنس من أجل تضمين السرد وتجارب الأشخاص المثليين، المثليات، مزدوجي الميول الجنسية، المتحولين جنسياً، المثليين جنسياً غير الثابتين، الأشخاص الذين لا يعترفون بوجود جنس لهم، الأشخاص المتعددين الشركاء، الأشخاص غير الجنسيين، الأشخاص ذوي الإعاقة وغيرهم. يتناول البرنامج قلة التعليم الجنسي المناسب وتمثيل الوسائل الإعلام لهذه الجماعات، ويسعى لمكافحة الوصم الاجتماعي المرتبط بها."
+    },
+    "ru-RU": {
+      "title": "Подкаст «Queer Sex Ed»",
+      "description": "Серия подкастов, цель которой - «изменить» сексуальное образование так, чтобы специально включить истории и опыт лесбиянок, геев, бисексуалов, трансгендеров, гендерных квир, гендерфлюид, агендеров, полиаморных людей, асексуальных людей, людей с инвалидностью и многих других. Шоу затрагивает проблему недостатка уместного сексуального образования и представления этих сообществ в СМИ, а также стремится бороться с социальными стереотипами, связанными с этим."
+    },
+    "mr-IN": {
+      "title": "क्विअर सेक्स शिक्षण पॉडकास्ट",
+      "description": "हे पॉडकास्ट मालिका ‘क्विअर’ सेक्स शिक्षणाचे उद्दिष्ट करण्यास सांगतात अशा नरेटिव्ह आणि अनुभवांचा समावेश जे लेस्बियन, गॅड ,बायसेक्स्युअल, ट्रान्सजेंडर, जेंडर क्विअर, जेंडर फ्ल्युइड, गॅडजन लोक, पॉलीअॅमरस लोक, असेक्स्युअल लोक, अपंगांच्या अनुभवांची गोष्ट. या समुदायांसाठी योग्य सेक्स शिक्षण आणि मीडिया प्रतिष्ठापनाच्या कमतरतेचे मुद्दे सांगणारे शो असोशिएटेड सामाजिक स्टिग्मांच्या लढाईत अभ्यास करीत आहे."
+    },
+    "hi-IN": {
+      "title": "क्वियर सेक्स एड पॉडकास्ट",
+      "description": "एक पॉडकास्ट श्रृंखला जिसका उद्देश्य 'क्वियर' सेक्स एड को सम्मिलित करना है ताकि जानबूझकर लेस्बियन, गे, बाइसेक्सुअल, ट्रांसजेंडर, जेंडर क्वियर, जेंडर फ्लूइड, एजेंडर लोगों, बहुप्रेमी लोगों, अकामी लोगों, विकलांग लोगों और अधिक की कथाओं और अनुभवों को जोड़ा जाए। शो में इन समुदायों के लिए उपयुक्त सेक्स शिक्षा और मीडिया प्रतिष्ठान की कमी को संबोधित किया गया है, और इससे जुड़े सामाजिक कलंकों से लड़ने का प्रयास किया गया है।"
+    },
+    "ur-PK": {
+      "title": "کویئر سیکس ایڈ پوڈ کاسٹ",
+      "description": "ایک پوڈ کاسٹ سیریز جو سیکس ایڈ کو 'کویئر' کرنے کے لئے تائید کرتی ہے تاکہ یہ جانبداری سے لیزبیائن، گے، بائسیکشوئل، ٹرانس جنڈر، جینڈر کویئر، جینڈر فلوائڈ، ایجنڈر لوگوں، پولیمورس لوگوں، ایسیکشوئل لوگوں، معذور افراد وغیرہ کی کہانیاں اور تجربات شامل کرے۔ یہ شو ان برادریوں کے لئے مناسب سیکس تعلیم اور میڈیا کی عدم نمائندگی کا مسئلہ پیش کرتا ہے، اور معاشرتی بدنامیوں سے لڑنے کی کوشش کرتا ہے۔"
+    },
+    "ta-IN": {
+      "title": "குவியர் செக்ஸ் எட் பாட்காஸ்ட்",
+      "description": "குவியர், செக்ஸ் எட், லெஸ்பியன், கேகேபி, பைசெக்ஸ்வல், பாலிநீகி, கேலர் குவியர், கேலர் சாவிழி, ஆகேன்டர் மக்கள், பாலிஆணி மக்கள், ஆஸெக்சவுல் மக்கள், மதிப்பிழப்பு உள்ள மக்கள் மேலும் பலரின் கதைகள் மற்றும் அனுபவங்களை உள்ளடக்கிக் கொண்டு 'குவியர்' செக்ஸ் எட் கோரும் ஒரு பாட்காஸ்ட் தொடர். இந்த ஷோ இவ்வாறான சமூகங்களுக்கு ஏற்றுக்கொள்ளும் செக்ஸ் பயிற்சி மற்றும் ஊடக உறுப்பினர் பிரதிபலிப்பின் பொருள் அணுகுகின்றது, அதனால் தொடங்கிய சமாஜிக மூட்டை போராடலாம்."
+    },
+    "bn-BD": {
+      "title": "কুইয়ার সেক্স এড পড়কাস্ট",
+      "description": "একটি পড়কাস্ট সিরিজ যা উদ্দেশ্য করে 'কুইয়ার' সেক্স এড যাতে স্বেচ্ছাসেবী, যৌনিক, বৈপরীত্যমুলক, ট্রান্সজেন্ডার, জেন্ডার কুইয়ার, জেন্ডার ফ্লুইড, agender মানুষ, পলিআমরাস মানুষ, এসেক্ষুয়াল মানুষ, প্রতিবাধী মানুষ এবং আরও অনেকের গল্প এবং অভিজ্ঞতা অন্তর্ভুক্ত করা হয়। শোটি এই সম্প্রদায়গুলির জন্য উপযুক্ত যৌন শিক্ষা এবং মিডিয়া প্রতিনিধিত্বের অভাবকে ঠিক করে তোলে এবং সামাজিক ষ্টিগমাগুলি লড়াই করে।"
+    },
+    "te-IN": {
+      "title": "క్వియర్ సెక్స్ ఎడ్ పాడ్‌కాస్ట్",
+      "description": "లెస్బియన్, గే, బైసెక్సుయల్, ట్రాన్స్‌జెండర్, జెండర్ క్వియర్, జెండర్ ఫ్లూయిడ్, అజెండర్ ప్రజలు, పాలిగమౌస్ ప్రజలు, అసెక్సుయల్ ప్రజలు, అంగవైకల్యం ఉన్న ప్రజలు మరియు మరిన్ని కోసం నారేటివ్స్‌కు మరియు అనుభూతులకు 'క్వియర్' సెక్స్ ఎడ్ ఆసక్తిని పూర్తిగా కలుగుచున్న పాడ్‌కాస్ట్ సరీసమూహం. ఈ సముదాయాలకు తగిన సెక్స్ ఎడ్యుకేషన్ మరియు మీడియా ప్రతిపాదన లేకపోవడం మరియు దీని వల్లే సామాజిక స్థిగ్మాలను పోరాడాలను ప్రపంచపెట్టింది."
+    }
+  }
+}

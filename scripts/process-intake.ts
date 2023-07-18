@@ -103,47 +103,76 @@ async function translateJSON(id: string, jsonObject: any) {
   };
 }
 
+function delay(ms: number) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function trackPromise(p: Promise<any>) {
+  let isCompleted = false;
+  p.then(() => { isCompleted = true; })
+    .catch(() => { isCompleted = true; }); // Also track if promise is rejected
+
+  return {
+    promise: p,
+    isCompleted: () => isCompleted,
+  };
+}
+
 async function processFiles() {
-  try {
-    const files = await readdir(INPUT_DIR);
+  const files = await readdir(INPUT_DIR);
+  let trackedPromises: { promise: Promise<any>, isCompleted: () => boolean }[] = [];
+  let isFirst = true;
 
-    for (const file of files) {
-      const filePath = path.join(INPUT_DIR, file);
+  for (const file of files) {
+    if (path.extname(file) === ".json") {
+      // Create a delay before starting the file processing
+      if (!isFirst)
+      await delay(15000);
 
-      // Ensure we're only processing .json files
-      if (path.extname(file) === ".json") {
-        const data = await readFile(filePath, "utf-8");
+      isFirst = false;
+      const trackedPromise = trackPromise(processFile(file));
+      trackedPromises.push(trackedPromise);
 
-        const jsonObject = JSON.parse(data);
-
-        const id = jsonObject.id ?? path.basename(file, ".json");
-
-        console.log(`Processing ${id}...`);
-
-        // Create translated version
-        const translatedJson = await translateJSON(id, jsonObject);
-
-        // Output multi-translation version into the "/resources" directory
-        const translatedFileName = path.join(OUTPUT_DIR, file);
-        await writeFile(
-          translatedFileName,
-          JSON.stringify(translatedJson, null, 2),
-          "utf-8"
-        );
-
-        // Output an original copy of the file into the "/processed" directory
-        const processedFileName = path.join(PROCESSED_DIR, file);
-        await writeFile(processedFileName, data, "utf-8");
-
-        // remove the original file from the "/intake" directory
-        await unlink(filePath);
-
-        console.log(`Finished processing ${id}!`);
+      // Only allow 5 Promises to be active at once
+      while (trackedPromises.length >= 5 || trackedPromises.length === files.length) {
+        await Promise.race(trackedPromises.map(tp => tp.promise));
+        // Remove completed promises
+        trackedPromises = trackedPromises.filter(tp => !tp.isCompleted());
       }
     }
-  } catch (err) {
-    console.error(err);
   }
+
+  // Await any remaining Promises
+  await Promise.all(trackedPromises.map(tp => tp.promise));
+}
+
+async function processFile(file: string) {
+  const filePath = path.join(INPUT_DIR, file);
+  const data = await readFile(filePath, "utf-8");
+  const jsonObject = JSON.parse(data);
+  const id = jsonObject.id ?? path.basename(file, ".json");
+
+  console.log(`Processing ${id}...`);
+
+  // Create translated version
+  const translatedJson = await translateJSON(id, jsonObject);
+
+  // Output multi-translation version into the "/resources" directory
+  const translatedFileName = path.join(OUTPUT_DIR, file);
+  await writeFile(
+    translatedFileName,
+    JSON.stringify(translatedJson, null, 2),
+    "utf-8"
+  );
+
+  // Output an original copy of the file into the "/processed" directory
+  const processedFileName = path.join(PROCESSED_DIR, file);
+  await writeFile(processedFileName, data, "utf-8");
+
+  // remove the original file from the "/intake" directory
+  await unlink(filePath);
+
+  console.log(`Finished processing ${id}!`);
 }
 
 processFiles();

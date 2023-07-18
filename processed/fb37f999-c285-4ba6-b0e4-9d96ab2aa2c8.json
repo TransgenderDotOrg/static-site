@@ -1,0 +1,23 @@
+{
+  "id": "fb37f999-c285-4ba6-b0e4-9d96ab2aa2c8",
+  "title": "TransHealthCare",
+  "description": "TransHealthCare is the largest and most comprehensive database of Gender Surgeons. It has helped thousands of transgender and non-binary people from around the world find a surgeon. The website provides a platform to find a surgeon based on procedure, U.S. State, insurance type, and country. It also hosts a variety of resources including latest surgeon news and research on gender-affirming surgery.",
+  "slug": "trans-healthcare",
+  "externalUrl": "https://www.transhealthcare.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null
+}

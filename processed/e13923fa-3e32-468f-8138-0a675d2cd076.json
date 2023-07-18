@@ -1,0 +1,22 @@
+{
+  "id": "e13923fa-3e32-468f-8138-0a675d2cd076",
+  "title": "Voice Resource Repository",
+  "description": "The Voice Resource Repository is an open and evolving project started by Sumi and Emma aiming to provide approachable information and direction for those wishing to change their voice. Focused on both feminisation and masculinisation practices, this initiative is meant to assist beginners and serve as a comprehensive reference for students and teachers alike. Though still mostly feminisation oriented, work is being carried out to make it agnostic to users' goals.",
+  "slug": "voice-resource-repository",
+  "externalUrl": "https://wiki.sumianvoice.com/",
+  "tags": [
+    "voice-training",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "sumianvoice@gmail.com",
+  "socialMedia": {
+    "githubUrl": "https://github.com/sumiansvoice"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+  "title": "TransPonder",
+  "description": "TransPonder is a transgender founded and led nonprofit in Eugene, Oregon which provides support, resources, and education for the trans/gender-diverse community and our allies. They offer various resources and events such as gender diverse yoga class, Transponder Book Club, and support groups.",
+  "slug": "transponder",
+  "externalUrl": "https://transponder.community/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "1185 Arthur St, Eugene, OR 97402, USA",
+  "phoneNumber": "541-321-0872",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Eugene",
+  "county": "Lane County",
+  "latLng": [
+    44.0470325,
+    -123.1244504
+  ],
+  "email": "info@transponderoregon.org",
+  "socialMedia": null
+}

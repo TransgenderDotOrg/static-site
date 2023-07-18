@@ -1,0 +1,109 @@
+{
+  "id": "d9392d3a-5d0b-43cf-89bd-17a7511245c9",
+  "slug": "stonewall-youth",
+  "externalUrl": "https://www.stonewallyouth.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "112 State Ave NE, Olympia, WA 98501, USA",
+  "phoneNumber": "3608884273",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Olympia",
+  "county": "Thurston County",
+  "latLng": [
+    47.0460037,
+    -122.9011227
+  ],
+  "email": "info@stonewallyouth.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth is a nonprofit organization that offers support for LGBTQ+ youth. Their comprehensive weekly programs, support groups, and resources cater to the needs of queer and trans youth. They provide food, essential items, and even sponsorship for youth fellowships. Stonewall Youth is dedicated to creating an empowering space for LGBTQ+ youth to lead, learn, and share their experiences."
+    },
+    "id-ID": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth adalah organisasi nirlaba yang menawarkan dukungan untuk remaja LGBTQ+. Program mingguan yang komprehensif, kelompok dukungan, dan sumber daya mereka melayani kebutuhan kaum muda queer dan trans. Mereka menyediakan makanan, barang-barang esensial, dan bahkan sponsor bagi rekanan remaja. Stonewall Youth berdedikasi untuk menciptakan ruang pemberdayaan bagi remaja LGBTQ+ untuk memimpin, belajar, dan berbagi pengalaman mereka."
+    },
+    "fr-FR": {
+      "title": "Jeunesse Stonewall",
+      "description": "Jeunesse Stonewall est une organisation à but non lucratif qui offre un soutien aux jeunes LGBTQ+. Leurs programmes hebdomadaires complets, groupes de soutien et ressources répondent aux besoins des jeunes queer et trans. Ils fournissent de la nourriture, des articles essentiels et même des parrainages pour les bourses de jeunes. Jeunesse Stonewall est dédiée à la création d'un espace d'émancipation pour les jeunes LGBTQ+ pour diriger, apprendre et partager leurs expériences."
+    },
+    "es-ES": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth es una organización sin fines de lucro que ofrece apoyo para los jóvenes LGBTQ+. Sus programas semanales integrales, grupos de apoyo y recursos se adaptan a las necesidades de los jóvenes queer y trans. Proporcionan alimentos, artículos esenciales e incluso patrocinio para becas juveniles. Stonewall Youth está dedicado a crear un espacio de empoderamiento para que los jóvenes LGBTQ+ lideren, aprendan y compartan sus experiencias."
+    },
+    "pt-PT": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth é uma organização sem fins lucrativos que oferece suporte para jovens LGBTQ+. Seus programas semanais abrangentes, grupos de apoio e recursos atendem às necessidades de jovens queer e trans. Eles fornecem alimentos, itens essenciais e até mesmo patrocínio para bolsas de estudo para jovens. Stonewall Youth é dedicada a criar um espaço de empoderamento para jovens LGBTQ+ liderarem, aprenderem e compartilharem suas experiências."
+    },
+    "de-DE": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth ist eine gemeinnützige Organisation, die Unterstützung für LGBTQ+ Jugendliche bietet. Ihre umfassenden wöchentlichen Programme, Unterstützungsgruppen und Ressourcen erfüllen die Bedürfnisse von queeren und trans Jugendlichen. Sie stellen Lebensmittel, wichtige Artikel und sogar die Förderung von Jugendstipendien zur Verfügung. Stonewall Youth widmet sich der Schaffung eines ermächtigenden Raumes, in dem LGBTQ+ Jugendliche führen, lernen und ihre Erfahrungen teilen können."
+    },
+    "zh-CN": {
+      "title": "Stonewall 青少年",
+      "description": "Stonewall 青少年是一个非盈利组织，为 LGBTQ+ 青少年提供支持。他们提供全面的每周活动、支持小组和资源，以满足酷儿和跨性别青少年的需求。他们提供食物、必需品，甚至赞助青少年奖学金。Stonewall 青少年致力于为 LGBTQ+ 青少年创造一个赋权的空间，让他们能够领导、学习并分享他们的经历。"
+    },
+    "tr-TR": {
+      "title": "Stonewall Gençlik",
+      "description": "Stonewall Gençlik, LGBTQ+ gençlere destek sağlayan kar amacı gütmeyen bir organizasyondur. Kapsamlı haftalık programları, destek grupları ve kaynakları, queer ve trans gençlerin ihtiyaçlarını karşılar. Yiyecek, temel eşyalar ve hatta gençlik bursları için sponsorluk sağlarlar. Stonewall Gençlik, LGBTQ+ gençlerin liderlik etmeyi, öğrenmeyi ve deneyimlerini paylaşabilecekleri güçlendirici bir alan yaratmaya adanmıştır."
+    },
+    "sw-KE": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth ni shirika lisilo la kiserikali linalotoa msaada kwa vijana wa LGBTQ+. Programu zao za kila wiki, makundi ya msaada, na rasilimali zinashughulikia mahitaji ya vijana wapenzi wa jinsia moja na wale ambao wamebadilisha jinsia zao. Wanatoa chakula, vitu muhimu, na hata udhamini kwa makundi ya vijana. Stonewall Youth inajitolea kuunda nafasi ya kuwapa uwezo vijana wa LGBTQ+ kuongoza, kujifunza, na kushiriki uzoefu wao."
+    },
+    "uk-UA": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth - це некомерційна організація, яка надає підтримку молоді LGBTQ+. Їхні всебічні тижневі програми, групи підтримки та ресурси задовольняють потреби квір та транс молоді. Вони забезпечують їжу, основні речі, а навіть спонсорство для молодіжних стипендій. Stonewall Youth присвячується створенню потужного простору для LGBTQ+ молоді, щоб керувати, вчитися та ділитися своїми досвідами."
+    },
+    "vi-VN": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth là một tổ chức phi lợi nhuận cung cấp sự hỗ trợ cho thanh thiếu niên LGBTQ+. Các chương trình hàng tuần toàn diện, nhóm hỗ trợ, và các nguồn lực của họ đáp ứng nhu cầu của thanh thiếu niên queer và trans. Họ cung cấp thức ăn, các vật dụng thiết yếu, và thậm chí tài trợ cho các suất học bổng dành cho thanh thiếu niên. Stonewall Youth tận tâm tạo ra một không gian trao quyền cho thanh thiếu niên LGBTQ+ để lãnh đạo, học hỏi, và chia sẻ kinh nghiệm của họ."
+    },
+    "ko-KR": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth는 LGBTQ+ 청소년을 지원하는 비영리 기관입니다. 그들의 종합적인 주간 프로그램, 지원 그룹, 그리고 리소스는 퀴어와 트랜스 청소년의 필요에 맞춰 제공됩니다. 음식, 필수품, 심지어 청소년 펠로우십의 후원까지 제공합니다. Stonewall Youth는 LGBTQ+ 청소년이 지도하고, 배우고, 경험을 공유할 수 있는 힘을 주는 공간을 만드는 데 전념하고 있습니다."
+    },
+    "ru-RU": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth - это некоммерческая организация, которая оказывает поддержку молодежи LGBTQ+. Их всесторонние еженедельные программы, группы поддержки и ресурсы ориентированы на потребности молодежи, идентифицирующей себя как квир и транс. Они предоставляют пищу, необходимые предметы, а также спонсорство для молодежных стипендий. Stonewall Youth прилагает все усилия для создания полномочного пространства для молодежи LGBTQ+, чтобы они могли руководить, учиться и делиться своими опытом."
+    },
+    "ja-JP": {
+      "title": "ストーンウォール・ユース",
+      "description": "ストーンウォール・ユースはLGBTQ+の若者を支援する非営利組織です。同性愛者・トランスジェンダーの若者たちのニーズに対応する包括的な週間プログラム、サポートグループ、およびリソースを提供しています。食材、必需品、若者のフェローシップへのスポンサーシップまで提供しています。ストーンウォール・ユースは、LGBTQ+の若者がリーダーシップを発揮し、学び、経験を共有するための力づける空間を作ることに専念しています。"
+    },
+    "ar-SA": {
+      "title": "شباب ستونوال",
+      "description": "ستونوال للشباب هي منظمة غير ربحية تقدم الدعم للشباب LGBTQ+. برامجهم الأسبوعية الشاملة ومجموعات الدعم والموارد تلبي احتياجات الشباب الذين يتم التعرف عليهم على أنهم مثليي الجنس أو متحولي الجنس. تقدم الطعام والأغراض الأساسية وحتى الرعاية للزمالات الشابة. تكرس ستونوال للشباب جهودها لخلق مساحة تمكين للشباب LGBTQ+ ليقودوا ويتعلموا ويشاركوا تجاربهم."
+    },
+    "ur-PK": {
+      "title": "Stonewall Youth",
+      "description": "استون وال یوتھ ایک غیر متمول مہم ہے جو LGBTQ+ نوجوانوں کی خدمت میں مدد فراہم کرتا ہے۔ ان کے مکمل ہفتہ وار پروگرامز، سپورٹ گروپ اور وسائل کوئر اور ٹرانس نوجوانوں کی ضروریات کو پورا کرتے ہیں۔ وہ کھانا، ضروری اشیاء اور حتیٰ تھفیلوشپز کی سپانسرشپ بھی فراہم کرتے ہیں۔ استون وال یوتھ LGBTQ+ نوجوانوں کو قایم کرنے، سیکھنے اور اپنے تجربات شر کرنے کے لئے ایک توانا محفوظ محل بنانے کے لئے وقف کر رہا ہے۔"
+    },
+    "hi-IN": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth एक गैरलाभकारी संगठन है जो LGBTQ+ युवाओं के लिए समर्थन प्रदान करता है। उनके व्यापक साप्ताहिक कार्यक्रम, समर्थन समूह, और संसाधन क्वीयर और ट्रांस युवाओं की जरूरतों की पूर्ति करते हैं। वे भोजन, आवश्यक वस्त्रादि, और यहाँ तक कि युवा सहयोगियों के लिए प्रायोजन भी प्रदान करते हैं। Stonewall Youth को LGBTQ+ युवाओं के लिए एक सशक्तिकरण जगह बनाने के लिए समर्पित है, जहाँ वे जानकारी देने, सीखने, और अपने अनुभव साझा करने में सक्षम हों।"
+    },
+    "mr-IN": {
+      "title": "स्टोनवॉल युवा",
+      "description": "स्टोनवॉल युवा ही एक अनामवर्ती संस्था आहे ज्याने एलजीबीटीक्यू+ समुदायातील युवांना समर्थन दिलेला आहे. त्यांच्या सूक्ष्म प्रमाणात साप्ताहिक कार्यक्रमे, समर्थन समूह आणि संसाधने क्विअर आणि ट्रान्स युवांच्या गरजाच्या अनुसार आहेत. त्यांनी अन्न, मूळभूत वस्त्रे, आणि युवा सहयोगीत्वांसाठी संधीही पुरवलेली आहे. स्टोनवॉल युवा ही एलजीबीटीक्यू+ समुदायातील युवांसाठी सशक्तीकरणाचे अवकाश तयार करण्यासमर्पित आहे, शिकण्यास, आणि त्यांचे अनुभव शेअर करण्यास."
+    },
+    "ta-IN": {
+      "title": "Stonewall Youth",
+      "description": "ஸ்டோன்வால் யூத் என்பது LGBTQ+ இளைஞர்களுக்கு ஆதரவை வழங்கும் ஒரு அல்லாத நிறுவனம். அவர்கள் ஒழுங்குமாக வாராந்திர நிகழ்வுகள், ஆதரவு குழுக்கள், மற்றும் வளங்கள் குவியர் மற்றும் டிரான்ஸ் இளைஞர்களின் தேவைகளுக்கு மாற்றமாக அமையும். அவர்கள் உணவு, அவசிய பொருட்கள், மேலும் இதே போன்ற யூத் பேலியோஷிப்களுக்கு விவரணை வழங்குகின்றனர். ஸ்டோன்வால் யூத், LGBTQ+ இளைஞர்கள் முன்னணிக்க, கற்றுக் கொள்ள, மற்றும் அவர்களின் அனுபவங்களைப் பகிர்ந்து கொள்வதற்கான மிகுந்த அடிப்படைவான இடத்தை உருவாக்கவும் மேலும் உறவுகொடுக்குமாறு உள்ளார்."
+    },
+    "te-IN": {
+      "title": "స్టోన్‌వాల్ యూత్",
+      "description": "స్టోన్‌వాల్ యూత్ ఒక సంఛేతన సంస్థ అది LGBTQ+ యువతికి మద్దతును హామీగా అందిస్తుంది. వారి సమగ్ర వారపు కార్యక్రమాలు, మద్దతు సమూహాలు, మరియు వనరులను ఖేలీనించే వనరులు. వారు ఆహారాన్ని, అవసర అంశాలను, మరియు యువ స్థాపనకు మరియు ప్రాతిపదికస్థానాన్ని అందిస్తారు. స్టోన్‌వాల్ యూత్ LGBTQ+ యువత కోసం సక్తివంత స్థలాన్ని సృష్టించేందుకు అంకితవంతమైనది. వారు ముందుకు సాగడానికి, నేర్చుకోవడానికి, మరియు వారి అనుభవాలను పంచుకోవడానికి ప్రామాణికమైన అన్నీ స్థలాలు నిర్మించారు."
+    },
+    "bn-BD": {
+      "title": "Stonewall Youth",
+      "description": "Stonewall Youth একটি অলাভজনক সংস্থা যা LGBTQ+ যুবদের জন্য সমর্থন প্রদান করে। তাদের সম্পূর্ণ সাপ্তাহিক কর্মসূচিগুলি, সমর্থন গ্রুপ, এবং সম্পদগুলি কুইয়ার এবং ট্রান্স যুবদের প্রয়োজনীয়তার পরিপ্রেক্ষিতে সেবা করে। তারা খাদ্য, অপরিহার্য জিনিস, এবং যুব সংঘটনের জন্য স্পন্সরশিপ প্রদান করে। Stonewall Youth লিড করার, শিখার, এবং তাদের অভিজ্ঞতা শেয়ার করার জন্য LGBTQ+ যুবদের জন্য একটি ক্ষমতা দান করা স্থান তৈরি করার জন্য উদ্বুদ্ধ।"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "99edbcd0-cfcd-46b9-a2f3-edb63aa20258",
+  "slug": "lambert-house",
+  "externalUrl": "https://www.lamberthouse.org/",
+  "tags": [
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "social-services"
+  ],
+  "address": "1818 15th Ave E, Seattle, WA 98122, USA",
+  "phoneNumber": "206.322.2515",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.61818580000001,
+    -122.3124183
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Lambert House",
+      "description": "Lambert House empowers lesbian, gay, bisexual, transgender, and questioning youth through the development of leadership, social, and life skills. This is a safe space for LGBTQ youth ages 10-22, offering over 30 different annual and ongoing programs, activities, resources, and services. Its supportive environment is suitable for youths to connect and learn from each other."
+    },
+    "pt-PT": {
+      "title": "Lambert House",
+      "description": "A Lambert House empodera jovens lésbicas, gays, bissexuais, transgêneros e questionadores por meio do desenvolvimento de liderança, habilidades sociais e de vida. Este é um espaço seguro para jovens LGBTQ de 10 a 22 anos, oferecendo mais de 30 diferentes programas, atividades, recursos e serviços anuais e contínuos. Seu ambiente de apoio é adequado para os jovens se conectarem e aprenderem uns com os outros."
+    },
+    "es-ES": {
+      "title": "Lambert House",
+      "description": "Lambert House empodera a los jóvenes lesbianas, gays, bisexuales, transgénero y cuestionantes a través del desarrollo de habilidades de liderazgo, sociales y de vida. Este es un espacio seguro para jóvenes LGBTQ de 10 a 22 años, que ofrece más de 30 programas, actividades, recursos y servicios anuales y en curso. Su ambiente de apoyo es adecuado para que los jóvenes se conecten y aprendan unos de otros."
+    },
+    "id-ID": {
+      "title": "Lambert House",
+      "description": "Lambert House memberdayakan pemuda lesbian, gay, biseksual, transgender, dan yang sedang mencari jati diri melalui pengembangan kepemimpinan, keterampilan sosial, dan kehidupan. Ini adalah ruang yang aman untuk pemuda LGBTQ berusia 10-22 tahun, menyediakan lebih dari 30 program tahunan dan berkelanjutan, aktivitas, sumber daya, dan layanan berbeda. Lingkungannya yang mendukung cocok untuk para pemuda untuk terhubung dan belajar satu sama lain."
+    },
+    "fr-FR": {
+      "title": "Maison Lambert",
+      "description": "La Maison Lambert habilite les jeunes lesbiennes, gays, bisexuels, transgenres et en questionnement grâce au développement de compétences de leadership, sociales et de vie. C'est un espace sûr pour les jeunes LGBTQ âgés de 10 à 22 ans, offrant plus de 30 programmes, activités, ressources et services annuels et continus différents. Son environnement de soutien convient aux jeunes pour se connecter et apprendre les uns des autres."
+    },
+    "zh-CN": {
+      "title": "兰伯特之家",
+      "description": "兰伯特之家通过发展领导力，增强社会与生活技能，来赋权同性恋、双性恋、跨性别和质疑自己性取向的青少年。这里是10-22岁的LGBTQ青少年的安全空间，提供超过30种不同的年度和持续项目，活动，资源和服务。它的支持环境适合青少年相互联系和学习。"
+    },
+    "de-DE": {
+      "title": "Lambert Haus",
+      "description": "Das Lambert Haus ermächtigt lesbische, schwule, bisexuelle, transsexuelle und fragende Jugendliche durch die Entwicklung von Führungs-, sozialen und Lebenskompetenzen. Dies ist ein sicherer Raum für LGBTQ-Jugendliche im Alter von 10-22 Jahren, der über 30 verschiedene jährliche und laufende Programme, Aktivitäten, Ressourcen und Dienstleistungen anbietet. Seine unterstützende Umgebung ist geeignet für Jugendliche, um sich zu verbinden und voneinander zu lernen."
+    },
+    "tr-TR": {
+      "title": "Lambert Evi",
+      "description": "Lambert Evi, lezbiyen, gay, biseksüel, trans ve sorgulayan gençlerin liderlik, sosyal ve hayat becerilerinin gelişmesine yardımcı olur. Bu, 10-22 yaş arası LGBTQ gençler için güvenli bir alandır, 30'dan fazla farklı yıllık ve devam eden programları, aktiviteleri, kaynakları ve hizmetleri sunmaktadır. Destekleyici ortamı, gençlerin birbirlerinden öğrenmeleri ve bağlantı kurmaları için uygundur."
+    },
+    "ko-KR": {
+      "title": "램버트 하우스",
+      "description": "램버트 하우스는 리더십, 사회적 스킬, 그리고 생활 기술을 개발함으로써 레즈비언, 게이, 바이섹슈얼, 트랜스젠더, 그리고 자신의 성 정체성에 대해 의문을 가진 청소년들을 장려합니다. 이곳은 10-22세의 LGBTQ 청소년들에게 안전한 공간을 제공하며, 매년 30여 가지 이상의 다양한 프로그램, 활동, 자원 및 서비스를 제공합니다. 또한, 청소년들이 서로 연결하고 배울 수 있는 지원 환경이 마련되어 있습니다."
+    },
+    "sw-KE": {
+      "title": "Lambert House",
+      "description": "Lambert House inawezesha vijana wanaoshuku na wale wanaojulikana kuwa mashoga, wasagaji, wachache wa jinsia, waliobadili jinsia kupitia maendeleo ya uongozi, stadi za kijamii na maisha. Hii ni nafasi salama kwa vijana wa LGBTQ wenye umri wa miaka 10-22, ikitoa zaidi ya programu 30 tofauti za kila mwaka na zinazoendelea, shughuli, rasilimali, na huduma. Mazingira yake ya kusaidia yanafaa kwa vijana kuungana na kujifunza kutoka kwa kila mmoja."
+    },
+    "ja-JP": {
+      "title": "ランバートハウス",
+      "description": "ランバートハウスは、リーダーシップ、社会性、生活技能の発展を通じて、レズビアン、ゲイ、バイセクシャル、トランスジェンダー、疑問を持つ若者を強化します。これはLGBTQの若者（10歳から22歳まで）にとって安全な空間で、年間と定期的に30以上の異なるプログラム、活動、資源、サービスを提供しています。その支援的な環境は、若者が互いに接続し、学び合うのに適しています。"
+    },
+    "vi-VN": {
+      "title": "Lambert House",
+      "description": "Lambert House trao quyền cho giới trẻ đồng tính, song tính, chuyển giới, và đang còn e dè thông qua việc phát triển kỹ năng lãnh đạo, kỹ năng xã hội, và kỹ năng sống. Đây là nơi an toàn cho giới trẻ LGBTQ từ 10-22 tuổi, cung cấp hơn 30 chương trình, hoạt động, nguồn lực, và dịch vụ hàng năm và đang tiếp tục diễn ra. Môi trường hỗ trợ của nó phù hợp cho giới trẻ kết nối và học hỏi từ nhau."
+    },
+    "uk-UA": {
+      "title": "Lambert House",
+      "description": "Lambert House надає можливість лесбійкам, геям, бісексуалам, трансгендерам та молоді, які задаються питаннями про свою сексуальність, розвивати лідерські, соціальні та життєві навички. Це - безпечне місце для молоді віком від 10 до 22 років, яке пропонує більше 30 різних щорічних та постійних програм, заходів, ресурсів та послуг. Його підтримуюче середовище є відповідним для зв'язку та навчання молоді один від одного."
+    },
+    "ar-SA": {
+      "title": "بيت لامبرت",
+      "description": "يمنح بيت لامبرت القوة للشباب المثليين والثنائيين الجنس والمتحولين جنسيًا والمرتابين من خلال تطوير المهارات القيادية والاجتماعية ومهارات الحياة. هذا المكان آمن للشباب المثلي من الأعمار 10-22، يوفر أكثر من 30 برنامجًا ونشاطًا وموردًا وخدمة سنوية ومستمرة. بيئتها الداعمة مناسبة للشباب للتواصل والتعلم من بعضهم البعض."
+    },
+    "ru-RU": {
+      "title": "Дом Ламберта",
+      "description": "Дом Ламберта расширяет возможности лесбиянок, геев, бисексуалов, трансгендеров и сомневающихся в своей сексуальной ориентации молодых людей через развитие лидерских, социальных и жизненных навыков. Это безопасное место для молодежи ЛГБТК в возрасте от 10 до 22 лет, предлагающее более 30 различных ежегодных и непрерывных программ, мероприятий, ресурсов и услуг. Его поддерживающая среда подходит для того, чтобы молодые люди могли соединиться и учиться у друг друга."
+    },
+    "ur-PK": {
+      "title": "لیمبرٹ ہاؤس",
+      "description": "لیمبرٹ ہاؤس نسلی گمانڈ, ہم جنس پرست, دونوں جنسوں کے شوقین, ٹرانزجینڈر اور سوالاتی نوجوانوں کو قیادت, سماجی, اور زندگی کی مہارتوں کے تربیت کے ذریعے توانا کرتی ہے. یہ ایک محفوظ محل ہے لئے LGBTQ نوجوان 10-22 عمر کے, سالانہ اور مستمر پروگرام, سرگرمیاں, وسائل اور خدمات میں سے زیادہ سے زیادہ 30 پیش کرتا ہے. اس کا تعاونی ماحول نوجوانوں کے لئے مناسب ہے تاکہ وہ ایک دوسرے سے جڑ سکیں اور سیکھ سکیں."
+    },
+    "hi-IN": {
+      "title": "लैंबर्ट हाउस",
+      "description": "लैंबर्ट हाउस समलैंगिक, समलिंगी, द्विलिंगी, ट्रांसजेंडर, और प्रश्नमुझ युवाओं को नेतृत्व, सामाजिक, और जीवन कौशल के विकास के माध्यम से सशक्त बनाता है। यह LGBTQ युवाओं के लिए एक सुरक्षित स्थान है, जो 10-22 वर्ष की आयु के हैं, और यहाँ 30 से अधिक वार्षिक और नियमित कार्यक्रम, गतिविधियाँ, संसाधन, और सेवाएं उपलब्ध हैं। इसका सहायक वातावरण युवाओं के लिए एक दूसरे से जुड़ने और सीखने के लिए उपयुक्त है।"
+    },
+    "mr-IN": {
+      "title": "लॅम्बर्ट हाऊस",
+      "description": "लॅम्बर्ट हाऊस लेडकी, समलिंगी, द्विलिंगी, उलिंगी, आणि प्रश्नांसह सतत विकसित होणार्‍या तरुणांना नेतृत्व, सामाजिक, आणि आयुष्य कौशल्यांची प्राप्ती देउन सक्षम करते. ही LGBTQ तरूणांसाठी 10 ते 22 वयोगटातील सुरक्षित ठिकाण आहे, येथे वार्षिक आणि सतत कार्यक्रमांची, क्रियाकलापांची, संसाधनांची, आणि सेवांची ३० पेक्षा जास्त प्रकारे उपलब्ध आहेत. त्यांचे समर्थन करणाऱ्या वातावरणामुळे युवा एकमेकांशी जोडल्या जाऊ शकतात व एकमेकांकडून शिकण्याची क्षमता आहे."
+    },
+    "bn-BD": {
+      "title": "ল্যাম্বার্ট হাউস",
+      "description": "ল্যাম্বার্ট হাউস লিডারশিপ, সামাজিক এবং জীবন দক্ষতা বিকাশের মাধ্যমে লেসবিয়ান, গে, বাইসেক্সুয়াল, ট্রান্সজেন্ডার এবং প্রশ্নাবলী এর তরুণ তরুণীদের সশক্ত করে। এটি একটি নিরাপদ স্পেস 10-22 বছর বয়সী এলজিবিটিকিউ তরুণ তরুণীদের জন্য, প্রতি বছর ও চলমান 30 টিরও বেশি কার্যক্রম, ক্রিয়াকলাপ, সম্পদ এবং সেবা অফার করে। এর সমর্থনযুক্ত পরিবেশ তরুণ তরুনীদের জন্য একে অপরের থেকে সংযোগ এবং শেখা উপযুক্ত।"
+    },
+    "ta-IN": {
+      "title": "லாம்பெர்ட் வீடு",
+      "description": "லாம்பெர்ட் வீடு, ஆண், பெண்ணாகிய, இருவினையாகிய, தனிப்பட்ட, ஆண்ட பிணையாகிய இளைஞர்களுக்கு ஆதிக்கம் வழங்குகிறது. இது அலைபோன்ற இளைஞர்களுக்கான பாதுகாப்பான இடமாகும், ஆண்டுக்கு மேலாக 30 வித நிகழ்வுகளுக்கும், நிகழ்வுகளுக்கும், வழிகாட்டுதல்களுக்கும், சேவைகளுக்கும் அளிக்கின்றது. இதன் ஆதரவான சுவாரஸ்யமான சூழல் இளைஞர்கள் ஒருவருக்கொருவர் இணைந்து கற்றுக்கொள்ள அருகில் உள்ளது."
+    },
+    "te-IN": {
+      "title": "లాంబెర్ట్ హౌస్",
+      "description": "లాంబెర్ట్ హౌస్ సదరుపోకహా, గేయబుద్ధి, బైసెక్షువాలు, ట్రాన్స్జెండర్ మరియు ప్రశ్నాత్మక యౌవనాన్ని నాయకత్వ, సామాజిక మరియు జీవిత నైపుణ్యాల అభివృద్ధి ద్వారా ప్రేరణా చేస్తుంది. ఇది LGBTQ యౌవన పరిమాణం 10-22 వయస్సుకు సురక్షిత స్థలం, ప్రతి సంవత్సరం మరియు ముందుముందుగా జరిగే 30 కంటే ఎక్కువ కార్యక్రమాలు, క్రియాకలాపాలు, సంపదాలు మరియు సేవలు అందిస్తుంది. యౌవనులు మాత్రమే కాకుండా ఒరింటర్ నుండి నేర్చుకునే దీని మద్దతు వాతావరణం యోగ్యంగా ఉంటుంది."
+    }
+  }
+}

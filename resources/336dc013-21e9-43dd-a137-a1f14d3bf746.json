@@ -1,0 +1,111 @@
+{
+  "id": "336dc013-21e9-43dd-a137-a1f14d3bf746",
+  "slug": "transponder",
+  "externalUrl": "https://transponder.community/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "1185 Arthur St, Eugene, OR 97402, USA",
+  "phoneNumber": "541-321-0872",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Eugene",
+  "county": "Lane County",
+  "latLng": [
+    44.0470325,
+    -123.1244504
+  ],
+  "email": "info@transponderoregon.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "TransPonder",
+      "description": "TransPonder is a transgender founded and led nonprofit in Eugene, Oregon which provides support, resources, and education for the trans/gender-diverse community and our allies. They offer various resources and events such as gender diverse yoga class, Transponder Book Club, and support groups."
+    },
+    "fr-FR": {
+      "title": "TransPonder",
+      "description": "TransPonder est une organisation à but non lucratif fondée et dirigée par des personnes transgenres à Eugene, Oregon qui offre du soutien, des ressources, et de l'éducation pour la communauté trans/genre-diverse et nos alliés. Ils proposent diverses ressources et événements tels que des cours de yoga pour les personnes aux genres divers, le Club de lecture Transponder, et des groupes de soutien."
+    },
+    "pt-PT": {
+      "title": "TransPonder",
+      "description": "TransPonder é uma organização sem fins lucrativos fundada e liderada por transgêneros em Eugene, Oregon, que oferece apoio, recursos e educação para a comunidade trans / gênero diversa e nossos aliados. Eles oferecem vários recursos e eventos, como aula de yoga para diversidade de gêneros, Clube do Livro Transponder e grupos de apoio."
+    },
+    "zh-CN": {
+      "title": "TransPonder",
+      "description": "TransPonder是一家总部位于俄勒冈州尤金的由跨性别者创办并领导的非盈利组织，他们为跨性别/性别多元社区以及我们的盟友提供支持、资源和教育。他们提供各种资源和活动，如性别多元瑜伽课程，Transponder读书俱乐部，以及支持团体。"
+    },
+    "ko-KR": {
+      "title": "TransPonder",
+      "description": "TransPonder는 유전자변환의 창업자 및 리더인 노예진주, 오리건의 비영리 단체로 trans/gender 다양성 커뮤니티 및 우리의 동맹에 대한 지원, 자원, 교육을 제공합니다. 그들은 성별 다양성 요가 수업, Transponder 도서 클럽, 지원 그룹 등 다양한 자원과 행사를 제공합니다."
+    },
+    "de-DE": {
+      "title": "TransPonder",
+      "description": "TransPonder ist eine von Transgendern gegründete und geleitete Non-Profit-Organisation in Eugene, Oregon, die Unterstützung, Ressourcen und Bildung für die trans/gender-diverse Gemeinschaft und unsere Verbündeten bietet. Sie bieten verschiedene Ressourcen und Veranstaltungen wie Yoga-Kurse für Geschlechtervielfalt, Transponder Buchclub und Unterstützungsgruppen an."
+    },
+    "id-ID": {
+      "title": "TransPonder",
+      "description": "TransPonder adalah sebuah organisasi nirlaba yang didirikan dan dipimpin oleh transgender di Eugene, Oregon yang menyediakan dukungan, sumber daya, dan pendidikan untuk komunitas trans/gender-diverse dan sekutu kami. Mereka menawarkan berbagai sumber daya dan acara seperti kelas yoga gender-diverse, Klub Buku Transponder, dan kelompok dukungan."
+    },
+    "es-ES": {
+      "title": "TransPonder",
+      "description": "TransPonder es una organización sin fines de lucro fundada y liderada por personas transgénero en Eugene, Oregon, que proporciona apoyo, recursos y educación para la comunidad trans/género-diversa y nuestros aliados. Ofrecen varios recursos y eventos como clases de yoga de género diverso, Club de libros Transponder y grupos de apoyo."
+    },
+    "vi-VN": {
+      "title": "TransPonder",
+      "description": "TransPonder là một tổ chức phi lợi nhuận được sáng lập và dẫn dắt bởi người chuyển giới ở Eugene, Oregon, cung cấp sự hỗ trợ, nguồn lực và giáo dục cho cộng đồng chuyển giới/đa giới tính và đối tác của chúng tôi. Họ cung cấp nhiều nguồn lực và sự kiện như lớp yoga đa giới tính, Câu lạc bộ sách Transponder, và nhóm hỗ trợ."
+    },
+    "sw-KE": {
+      "title": "TransPonder",
+      "description": "TransPonder ni shirika lisilo la kiserikali lililoanzishwa na kuongozwa na watu wa jinsia tofauti huko Eugene, Oregon ambalo linatoa msaada, rasilimali, na elimu kwa jamii ya watu wa jinsia tofauti na washirika wetu. Wanatoa rasilimali na matukio mbalimbali kama vile darasa la yoga la watu wa jinsia tofauti, Klabu ya Kitabu ya Transponder, na vikundi vya msaada."
+    },
+    "ar-SA": {
+      "title": "TransPonder",
+      "description": "تأسست TransPonder وتقودها منظمة غير ربحية للمتحولين جنسيا في يوجين، أوريغون، والتي تقدم الدعم والموارد والتعليم للمجتمع المتنوع الجنسيا وحلفائنا. يقدمون موارد متنوعة وأحداث مثل فصل اليوغا المتنوعة بالجنس، نادي كتاب Transponder، وجماعات الدعم."
+    },
+    "tr-TR": {
+      "title": "TransPonder",
+      "description": "TransPonder, transseksüel kurucular tarafından başlatılan ve Oregon, Eugene'deki bir kar amacı gütmeyen organizasyondur ve trans/cinsiyet çeşitliliği bulunan topluluk ve müttefiklerimiz için destek, kaynaklar ve eğitim sağlar. Cinsiyet çeşitliliği olan yoga sınıfı, Transponder Kitap Kulübü ve destek grupları gibi çeşitli kaynaklar ve etkinlikler sunarlar."
+    },
+    "ja-JP": {
+      "title": "TransPonder",
+      "description": "TransPonderは、トランスジェンダーによって設立され、指導される非営利団体で、オレゴン州ユージンに位置しています。彼らは、トランス/ジェンダー多様なコミュニティとその同盟者への支援、リソース、教育を提供します。ジェンダー多様なヨガクラス、Transponder読書クラブ、および支援グループなどのさまざまなリソースとイベントを提供しています。"
+    },
+    "uk-UA": {
+      "title": "TransPonder",
+      "description": "TransPonder - це некомерційна організація, заснована та керована трансгендерами, яка базується в Євджині, штат Орегон і яка надає підтримку, ресурси та освіту для транс/гендерно-різноманітної спільноти та наших союзників. Вони пропонують різні ресурси та заходи, такі як заняття з йоги для людей з різним гендерним самовизначенням, Клуб книги Transponder, та групи підтримки."
+    },
+    "ru-RU": {
+      "title": "TransPonder",
+      "description": "TransPonder - это некоммерческая организация, основанная и руководимая трансгендерами в городе Евгений, штат Орегон, которая предоставляет поддержку, ресурсы и образование для транс/гендерно-диверсифицированного сообщества и наших союзников. Они предлагают различные ресурсы и мероприятия, такие как классы йоги для гендерно-диверсифицированных людей, книжный клуб Transponder и группы поддержки."
+    },
+    "hi-IN": {
+      "title": "TransPonder",
+      "description": "TransPonder एक ट्रांसजेंडर द्वारा स्थापित और नेतृत्व की गई गैर-लाभकारी संगठन है जो यूजीन, ओरेगन में स्थित है और ट्रांस / लिंग-विविध समुदाय और हमारे सहयोगीयों के लिए सहायता, संसाधन, और शिक्षा प्रदान करता है। वे विभिन्न संसाधन और घटनाएँ जैसे कि लिंग विविध योग कक्ष, Transponder पुस्तक क्लब, और समर्थन समूहों की पेशकश करते हैं।"
+    },
+    "ur-PK": {
+      "title": "ٹرانسپونڈر",
+      "description": "ٹرانسپونڈر ایک خودسرا نے مقیم اور قیادت کی غیر سرکاری تنظیم ہے جو یوجین، اوریگون میں موجود ہے جو خودسرا / جنسیوں کے مختلف برادری اور ہمارے اتحادیوں کے لئے سہارا، وسائل، اور تعلیم فراہم کرتی ہے۔ وہ مختلف وسائل اور تقریبات پیش کرتے ہیں مثلاً جنسی طور پر مختلف یوگا کلاس، ٹرانسپونڈر کتاب کلب، اور سپورٹ گروپس۔"
+    },
+    "mr-IN": {
+      "title": "TransPonder",
+      "description": "TransPonder म्हणजे इयुजिन, ऑरेगॉनमधील एक ट्रान्सजेंडरने स्थापन केलेली आणि नेतृत्व दिलेली नॉनप्रॉफिट संस्था आहे, जी ट्रान्स / लिंग विविध समुदायासाठी आणि आमच्या सहकार्यांसाठी समर्थन, संसाधने आणि शिक्षण प्रदान करते. त्यांनी लिंगविविध योग वर्ग, Transponder पुस्तक क्लब, आणि समर्थन गट असे विविध संसाधने आणि कार्यक्रम प्रदान केले आहेत."
+    },
+    "bn-BD": {
+      "title": "TransPonder",
+      "description": "TransPonder হলো ট্রান্সজেন্ডার ভিত্তিক এবং নেতৃত্বাধীন একটি অলাভজনক প্রতিষ্ঠান যা ইউজিন, ওরেগনে অবস্থিত। এটি ট্রান্স/লিঙ্গ-বিভক্ত সম্প্রদায় এবং আমাদের সহযোগীদের জন্য সমর্থন, সংস্থান এবং শিক্ষা প্রদান করে। তারা লিঙ্গ বিভক্ত ইোগা ক্লাস, Transponder বই ক্লাব, এবং সমর্থন গ্রুপের মতো বিভিন্ন সংস্থান এবং ইভেন্ট অফার করে।"
+    },
+    "ta-IN": {
+      "title": "TransPonder",
+      "description": "டிரான்ஸ்போண்டர் என்றால் டிரான்ஸ்ஜென்டர் ஆதரவுபயன்பாட்டை உற்பத்தி செய்துவிட்டது மற்றும் அதை ஆகவே ஆகிய ஈகின், ஆரகானில் உள்ளது, இது டிரான்ஸ்/ஜென்டர்-விவித சமூகத்துக்கும் எங்கள் கூட்டாளிகளுக்கும் ஆதரவு, வளங்கள், மற்றும் கல்வி வழங்குகின்றது. அவர்கள் ஜென்டர் விவித யோகா வகுப்பு, ட்ரான்ஸ்போண்டர் புக் கிளப், மற்றும் ஆதரவு குழுக்கள் போன்ற விவித வளங்கள் மற்றும் நிகழ்வுகளை வழங்குகின்றனர்."
+    }
+  }
+}
