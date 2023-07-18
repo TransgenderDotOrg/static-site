@@ -2124,6 +2124,32 @@
     "description": "Imeanzishwa 1975, Seahorse Club Victoria hutoa rasilimali, huduma ya jamii na msaada kwa jamii ya watu wanaobadili jinsia. Inajumuisha saraka rafiki ya kutumiwa na wabadilishaji jinsia ya huduma zinazohusika na jukwaa la mtandao linalokuja kwa wanachama kuungana."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Usawa wa Familia",
+    "description": "Usawa wa Familia ni shirika lisilo la kibiashara lililowakilishwa kuwalinda na kuwasaidia familia za LGBTQ+. Wanalenga kwa kulinda haki za kisheria, kutoa rasilimali na elimu, na wanazingatia sana haki za LGBTQ+. Shirika hili linakutisha matukio mbalimbali na linasaidia kuunganisha familia na jamii pana ya LGBTQ+."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

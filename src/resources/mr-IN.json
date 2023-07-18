@@ -2124,6 +2124,32 @@
     "description": "1975 मध्ये स्थापना झालेल्या सीहॉर्स क्लब विक्टोरियाने ट्रान्सजेंडर समुदायांसाठी संसाधने, समुदाय सेवा आणि समर्थन प्रदान केले आहेत. त्यात सेवांच्या एक ट्रान्स-अनुकूल निर्देशिका आणि सदस्यांना जोडण्यासाठी येणार्या ऑनलाइन प्लॅटफॉर्माची समावेशकता आहे."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "कुटुंब समानता",
+    "description": "कुटुंब समानता हे एक गैर-नफा कसोटी संस्था आहे जी LGBTQ+ कुटुंबीयांची सुरक्षा व संरक्षण करण्यासमर्पित आहे. ते कायद्यानुसार सुरक्षा साठी लढतात, संसाधने आणि शिक्षण प्रदान करतात, आणि सक्रियपणे LGBTQ+ हक्कांसाठी प्रतिनिधित्व करतात. ही संस्था विविध कार्यक्रमे आयोजित करते आणि कुटुंबांना एकमेकांशी आणि अधिक व्यापक LGBTQ+ समुदायाशी कनेक्ट करण्यास मदत करते."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

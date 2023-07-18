@@ -2124,6 +2124,32 @@
     "description": "Осн. в 1975 году, Клуб «Морской конек Виктория» предоставляет ресурсы, общественные услуги и поддержку для трансгендерного сообщества. В него входит дружественный к трансгендерам справочник услуг и предстоящая онлайн-платформа для связи членов сообщества."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Равенство Семьи",
+    "description": "Равенство Семьи - это некоммерческая организация, посвященная защите и поддержке семей ЛГБТК+. Они борются за юридическую защиту, предоставляют ресурсы и образование, а также активно отстаивают права ЛГБТК+. Эта организация проводит различные мероприятия и помогает связывать семьи друг с другом и с более широким сообществом ЛГБТК+."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

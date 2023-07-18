@@ -2124,6 +2124,32 @@
     "description": "1975'te kurulan Denizatı Kulübü Victoria, trans topluluğu için kaynaklar, toplum hizmeti ve destek sağlar. Trans-dostu bir hizmet dizini ve üyelerin bağlantı kurabileceği yaklaşan bir çevrimiçi platformu içerir."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "Aile Eşitliği",
+    "description": "Aile Eşitliği, LGBTQ+ aileleri korumaya ve desteklemeye adanmış kar amacı gütmeyen bir organizasyondur. Hukuki korumalar için savaşırlar, kaynaklar ve eğitim sağlarlar ve aktif olarak LGBTQ+ hakları için savunuculuk yaparlar. Bu organizasyon çeşitli etkinlikler düzenler ve aileleri birbirine ve daha geniş LGBTQ+ topluluğuna bağlar."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

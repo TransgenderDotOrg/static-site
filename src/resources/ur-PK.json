@@ -2124,6 +2124,32 @@
     "description": "1975ء میں قائم ہونے والا، سی ہارس کلب وکٹوریہ ٹرانسجینڈر کمیونٹی کے لئے وسائل، کمیونٹی سروس اور مدد فراہم کرتا ہے۔ اس میں ایک ٹرانس فرینڈلی ڈائریکٹری اور جو خدمات ہیں اور ایک آنے والے آن لائن پلیٹ فارم شامل ہے جس کے ذریعے ممبرز آپس میں رابطہ کر سکتے ہیں۔"
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "خاندانی مساوات",
+    "description": "خاندانی مساوات ایک غیر منافع بخش تنظیم ہے جو LGBTQ+ خاندانوں کی حمایت اور حفاظت کے لئے وقف ہے۔ وہ قانونی تحفظات کے لئے لڑتے ہیں، وسائل اور تعلیم فراہم کرتے ہیں، اور LGBTQ+ حقوق کے لئے سرگرمی سے کام کرتے ہیں۔ یہ تنظیم مختلف واقعات میزبانی کرتی ہے اور خاندانوں کو آپس میں اور بڑے LGBTQ+ برادری سے رابطہ کرنے میں مدد کرتی ہے۔"
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

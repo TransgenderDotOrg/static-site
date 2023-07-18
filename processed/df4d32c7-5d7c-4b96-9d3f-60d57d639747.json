@@ -1,0 +1,26 @@
+{
+  "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+  "title": "Family Equality",
+  "description": "Family Equality is a non-profit organization dedicated to protecting and supporting LGBTQ+ families. They fight for legal protections, provide resources and education, and actively advocate for LGBTQ+ rights. This organization hosts various events and helps connect families to each other and the broader LGBTQ+ community.",
+  "slug": "family-equality",
+  "externalUrl": "https://www.familyequality.org/",
+  "tags": [
+    "legal",
+    "education-awareness",
+    "parent-family-resources",
+    "support-groups"
+  ],
+  "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.7454596,
+    -73.98217389999999
+  ],
+  "email": null,
+  "socialMedia": null,
+  "town": "Manhattan"
+}

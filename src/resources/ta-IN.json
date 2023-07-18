@@ -2124,6 +2124,32 @@
     "description": "1975ல் உருவாக்கப்பட்டது, சீஹார்ஸ் கிளப் விக்டோரியா மாற்பட்ட இனத்தார்களுக்கு ஆதாரம், சமூக சேவை, மற்றும் ஆதரவை வழங்குகிறது. இது ஒரு மாற்பட்ட நண்பர்களுக்கு சந்தேகமற்ற சேவைகளின் அடைவரிசையை மற்றும் உறுப்பினர்களுக்கு தொடர்பிக்க உள்ள இன்னும் வருவிய ஆன்லைன் தளத்தை அடங்குகிறது."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "குடும்ப சமம்",
+    "description": "குடும்ப சமம் என்பது LGBT+ குடும்பங்களை பாதுகாக்க மற்றும் ஆதரவு வழங்கும் ஒரு ஆலோசக அமைப்புக்கு உரியது. அவர்கள் சட்ட பாதுகாப்புகளுக்கு போராடுகின்றனர், வளங்களையும் கல்வியையும் வழங்குகின்றனர் மற்றும் LGBT+ உரிமைகளுக்கு முன்னேற்றப் போரிக்கையிடுகின்றனர். இந்த அமைப்பு விவித நிகழ்வுகளை நடத்துகின்றது மற்றும் குடும்பங்களை ஒன்றுகூட்டி, அதன் மூலம் அவர்களை LGBT+ சமூகத்துடன் இணைக்கின்றது."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

@@ -2124,6 +2124,32 @@
     "description": "1975 ఏప్రిలికి స్థాపించబడి, Seahorse Club Victoria ట్రాన్స్జెండర్ సముదాయంలోకి సంస్థలు, కమ్మునిటీ సేవలు మరియు మద్దతును అందిస్తుంది. ఇది సేవల యొక్క ట్రాన్స్-అనుకూల డైరెక్టరీను మరియు సభ్యులు మధ్య కనెక్ట్ అవ్వడానికి ఉన్న (ఉండబోతున్న) ఆన్‌లైన్ ప్లాట్‌ఫామ్‌ను అనేకం."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "కుటుంబ సమానత్వం",
+    "description": "కుటుంబ సమానత్వం అనేది ఒక లాభరహిత సంస్థ మరియు దీని ప్రధాన లక్ష్యం అంటే LGBTQ+ కుటుంబాలను రక్షించి,మద్దతు చేయడమే. వారు చట్టప్రమాణాల కోసం పోరాడి, వనరులు మరియు విద్యానికి అందిస్తారు, మరియు సక్రమంగా LGBTQ+ హక్కుల కోసం పోరాడేస్తారు. ఈ సంస్థ అనేక సంఘటనలను హోస్ట్ చేస్తుంది మరియు కుటుంబాల్ని ఒకరికి మరియు విస్తృత LGBTQ+ సముదాయంతో అనుసంధానం చేస్తుంది."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

@@ -2124,6 +2124,32 @@
     "description": "成立于1975年，海马维多利亚俱乐部为跨性别社区提供资源、社区服务和支持。包括一份对跨性别友好的服务目录和一个即将上线的供会员联系的在线平台。"
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "家庭平等",
+    "description": "家庭平等是一个致力于保护和支持LGBTQ+家庭的非营利组织。他们为法律保护进行斗争，提供资源和教育，并积极倡导 LGBTQ+的权利。这个组织主办各种活动，帮助家庭与彼此和更广泛的LGBTQ+社区建立联系。"
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",

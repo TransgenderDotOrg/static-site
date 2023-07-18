@@ -2122,6 +2122,32 @@
     "description": "تأسس عام 1975، يوفر نادي Seahorse Victoria الموارد والخدمة المجتمعية والدعم لمجتمع المتحولين جنسياً. ويشمل دليلاً صديقاً للأشخاص المتحولين جنسياً للخدمات ومنصة عبر الإنترنت قادمة لتواصل الأعضاء."
   },
   {
+    "id": "df4d32c7-5d7c-4b96-9d3f-60d57d639747",
+    "slug": "family-equality",
+    "externalUrl": "https://www.familyequality.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "parent-family-resources",
+      "support-groups"
+    ],
+    "address": "475 Park Ave S #2100, New York, NY 10016, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.7454596,
+      -73.98217389999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "town": "Manhattan",
+    "title": "مساواة العائلة",
+    "description": "مساواة العائلة هي منظمة غير هادفة للربح مكرسة لحماية ودعم العائلات LGBTQ+. يناضلون من أجل الحماية القانونية، يوفرون الموارد والتعليم، ويدافعون بنشاط عن حقوق LGBTQ+. تستضيف هذه المنظمة أحداثًا مختلفة وتساعد في ربط العائلات ببعضها البعض والمجتمع LGBTQ+ الأوسع."
+  },
+  {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
     "slug": "a-complete-guide-to-transmasculine-reproduction",
     "externalUrl": "https://transmasculinereproduction.sites.ucsc.edu/",
