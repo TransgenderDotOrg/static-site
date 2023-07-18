@@ -554,6 +554,31 @@
     "description": "تتمثل مهمة مؤسسة جيم كولينز (JCF) في تقديم المساعدة المالية للأشخاص المتحولين جنسياً للجراحات المؤكدة للجنس. تقدم هذه المؤسسة خيارين للمنح؛ منحة المؤسسين التي تغطي 100% من تكاليف الجراحة وصندوق Krysallis Anne Hembrough Legacy الذي يغطي 50% من تكاليف الجراحة. تهدف المؤسسة إلى توفير الوصول إلى هذه الجراحات الحيوية لأولئك الذين يرغبون في ذلك ولكن بسبب التمييز المنتشر ضد الأشخاص المتحولين جنسياً، فإن هذه التكاليف تكون عادةً مستحيلة الوفاء."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "مركز Colors+ للشباب",
+    "description": "يعزز مركز Colors+ للشباب من الـ LGBTQ+ والحلفاء من خلال تعزيز العافية الفردية والمجتمعية. يقدم برامج للشباب LGBTQ+ والحلفاء مثل خدمات الإرشاد الفردي والأزواج والأسر."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1267,6 +1292,36 @@
     "description": "يقدم STARTTS العلاج النفسي ذو الصلة بالثقافة، والتدخلات المجتمعية، والتدريب على الخدمات لمساعدة الأشخاص على الشفاء من جروح العذاب وصدمة اللاجئين. يهدفون إلى خلق بيئة آمنة وداعمة للتنوعات الجنسية، الأجناس، والأجساد بما في ذلك اللاجئين وطالبي اللجوء."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "صندوق الدفاع القانوني والتعليم للمتحولين جنسيًا (TLDEF)",
+    "description": "يعمل TLDEF على إنهاء التمييز بناءً على هوية الجنس والتعبير عنه وتحقيق المساواة للأشخاص المتحولين جنسياً من خلال التوعية العامة، والدعاوى القضائية الاختبارية، والخدمات القانونية المباشرة، والجهود السياسة العامة. يقدمون خدمات متنوعة مثل مشروع تغيير الاسم، والدعاوى القضائية ذات الأثر، ومشروع الصحة trans. كما أنه يوفر تحديثات حول القضايا القانونية ذات الصلة التي تؤثر على المجتمع المتحول جنسيًا."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1512,6 +1567,35 @@
     "description": "ترانسليفينغ إنترناشيونال هو مجموعة دعم عالمية لمجتمع المتحولين جنسيا، حيث تقدم مجلة إلكترونية، ليالي النادي، الأحداث، ومنصة التسوق. يقوم بتضخيم صوت كل الأشخاص المتنوعين جنسيا والمتحولين جنسيا عن طريق تقديم المساعدة، النصائح، القصص الشخصية، والميزات."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "معهد الأزاليا: مركز الإرشاد والصحة النفسية",
+    "description": "يقدم معهد الأزاليا خدمات الصحة العقلية والعافية مع التخصص في علاج مجموعة متنوعة من القضايا بما في ذلك الصدمات المعقدة، اضطراب ما بعد الصدمة، الاكتئاب، القلق، وأكثر من ذلك. يقدم المعهد خدمات مثل الإرشاد الفردي، الأسري، والجماعي، بالإضافة إلى التدريب، والاستشارة، وفرص التطوير المهني للأطباء النفسيين."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1660,6 +1744,28 @@
     "description": "مجموعة دعم أقران للوالدين، الأشقاء، العائلة الموسعة والأصدقاء لشخص متحول الجنس ومتنوع الجنس. تتعرض للموارد، الأحداث، ومنصة لقصص المجتمع. كما تقدم كتاب ترانسفاميلي الذي يوفر معلومات مفيدة ورؤى حول المجتمع المتحول جنسياً."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "مركز جامعة توليدو الطبي",
+    "description": "يقدم مركز جامعة توليدو الطبي مجموعة واسعة من الخدمات الطبية والتخصصات، من الطب الطارئ إلى العظام والخدمات التأهيلية. وهو ملتزم بتقديم أعلى مستوى من الرعاية الصحية لمجتمع شمال غرب أوهايو. يقدم المركز خدمات مثل معلومات المريض، معلومات الزائر، الدعم الفواتير والتأمين."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1687,6 +1793,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "توفر TransVoiceLessons خدمات السيطرة على الصوت والتحرر ذات الجودة للأفراد المتحولين جنسياً وغير الثنائيين الذين يهدفون إلى البدو بصوت أكثر رجولة أو أنوثة أو عدم تحديد الجنس."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "مركز الرعاية الطبية المؤكدة للنوع الاجتماعي",
+    "description": "يقدم مستشفى أكرون للأطفال مركز الرعاية الطبية المؤكدة للنوع الاجتماعي ضمن قسمه للطب الباطني للمراهقين. إذ يقدم العناية للشباب المتحولين جنسيًا والمنتمين لمجتمع LGBTQ+، من خلال فريق يتألف من أطباء متخصصين وأخصائيين اجتماعيين وعلماء نفس، وأخصائي الغدد الصماء. يقدم المركز الدعم الطبي والنفسي لإنشاء بيئة تعدد الجنسيات حيث يمكن للشباب استكشاف هوية جنسهم. وتشمل الخدمات التي يقدمها المركز تثبيط البلوغ، والهرمونات المؤكدة للنوع الجنسي، وتنسيق الرعاية الصحية النفسية، والفحوصات الطبية الروتينية/ الزيارات الوقائية والتعليم/ الرعاية الداعمة."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2171,6 +2302,28 @@
     "description": "دليل شامل يقدم معلومات عن الخصوبة والحمل وما بعد الولادة والرضاعة والأمومة بالنسبة للأفراد الذين ينتقلون إلى الذكورة. يتضمن المصدر مقدمي الرعاية الصحية الذين يؤكدون التحول الجنسي، وأسئلة متكررة مبحوثة، وموارد متنوعة وأكثر من ذلك لتثقيف ودعم الأفراد الذين ينتقلون إلى الذكورة في رحلتهم نحو الأبوة."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "TRANSGENDER MICHIGAN",
+    "description": "المهمة الأساسية لـ Transgender Michigan هي توفير الدعوة والدعم والتعليم في حين أنها تخدم لخلق تحالفات في ولاية ميتشيغان لتوحيد وتمكين المجتمعات التي تعبر عن الجنس أو غير مطابقة لها."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2372,6 +2525,28 @@
     "description": "يوفر التخطيط للأبوة الرعاية الصحية الإنجابية الحيوية ، والتثقيف الجنسي ، والمعلومات لملايين الأشخاص حول العالم. تشمل الخدمات الإجهاض ، ومنع الحمل ، والفحص والعلاج للأمراض المنقولة جنسيا ، والعلاج بالهرمونات للمتحولين جنسيا ، وأكثر من ذلك. مواعيد عبر الإنترنت والرعاية الصحية عن بعد متاحة."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "معسكر لايلك",
+    "description": "معسكر لايلك هو معسكر صيفي في أوهايو يوفر مكانا آمنا وترحيبا وسريا للشباب ذوي التوجه الجنسي المتنوع والمتحولين جنسيا. يوفر المعسكر بيئة حيث التنوع الجنسي هو القاعدة ، والبرنامج مصمم لغرس الثقة في المشاركين بالإضافة إلى توفير مجتمع قوي من الأقران والداعمين."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2436,5 +2611,35 @@
     "socialMedia": null,
     "title": "عائلات المتحولين جنسيا",
     "description": "تلهم عائلات المتحولين جنسيا الأمل، وتزيد من التفهم، وتخلق مسارًا واضحًا لدعم الأطفال المتحولين جنسيا والذين يعانون من تنوع الجنس وكل من يلمس حياتهم. نحن نقدم الموارد، وننظم الأحداؤ، ونربط العائلات بجماعات الدعم."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "دليل لكيفية كونك حليفًا للشباب المتحولين جنسيًا وغير ثنائيي الجنس",
+    "description": "مورد تعليمي مقدمي يوفر معلومات شاملة وأفضل الممارسات حول كيفية دعم الشباب المتحولين جنسيًا وغير ثنائيي الجنس. الدليل هو أداة أساسية في بداية تعليمك لأساسيات هوية الجندر والتعبير عنه."
   }
 ]

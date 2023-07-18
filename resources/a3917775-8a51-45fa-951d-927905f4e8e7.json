@@ -1,0 +1,113 @@
+{
+  "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+  "slug": "the-azalea-institute-counseling-wellness-center",
+  "externalUrl": "https://www.azaleainstitute.com/",
+  "tags": [
+    "mental-health",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+  "phoneNumber": "(330) 510-4900",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Cuyahoga Falls",
+  "county": "Summit County",
+  "latLng": [
+    41.1477809,
+    -81.46951
+  ],
+  "email": "info@azaleainstitute.com",
+  "socialMedia": {
+    "googleMapsUrl": [
+      "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+      "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+    ]
+  },
+  "i18n": {
+    "en-US": {
+      "title": "The Azalea Institute: Counseling & Wellness Center",
+      "description": "The Azalea Institute provides mental health and wellness services with specialties in treating a variety of concerns including complex trauma, PTSD, depression, anxiety, and more. The Institute provides services such as individual, family, and group counseling, as well as training, consultation, and professional development opportunities for clinicians."
+    },
+    "id-ID": {
+      "title": "Institut Azalea: Pusat Konseling & Kesejahteraan",
+      "description": "Institut Azalea menyediakan layanan kesehatan mental dan kesejahteraan dengan spesialisasi dalam mengobati berbagai kekhawatiran termasuk trauma kompleks, PTSD, depresi, kecemasan, dan lainnya. Institut ini menyediakan layanan seperti konseling individu, keluarga, dan grup, serta pelatihan, konsultasi, dan peluang pengembangan profesional untuk klinisi."
+    },
+    "es-ES": {
+      "title": "El Instituto Azalea: Centro de Consejería y Bienestar",
+      "description": "El Instituto Azalea proporciona servicios de salud mental y bienestar con especialidades en el tratamiento de una variedad de preocupaciones, incluyendo trauma complejo, PTSD, depresión, ansiedad, y más. El Instituto proporciona servicios como consejería individual, familiar y grupal, así como capacitación, consultoría, y oportunidades de desarrollo profesional para los clínicos."
+    },
+    "pt-PT": {
+      "title": "The Azalea Institute: Centro de Aconselhamento e Bem-Estar",
+      "description": "O Azalea Institute fornece serviços de saúde mental e bem-estar com especialidades no tratamento de uma variedade de preocupações, incluindo traumas complexos, PTSD, depressão, ansiedade, e mais. O instituto fornece serviços como aconselhamento individual, familiar e de grupo, além de treinamento, consultoria e oportunidades de desenvolvimento profissional para clínicos."
+    },
+    "fr-FR": {
+      "title": "L'Institut Azalea: Centre de counseling et de bien-être",
+      "description": "L'Institut Azalea fournit des services de santé mentale et de bien-être avec des spécialités dans le traitement d'une variété de préoccupations, y compris le traumatisme complexe, le PTSD, la dépression, l'anxiété, et plus. L'Institut offre des services tels que le conseil individuel, familial et de groupe, ainsi que la formation, la consultation et les opportunités de développement professionnel pour les cliniciens."
+    },
+    "ko-KR": {
+      "title": "진달래 연구소: 상담 및 웰니스 센터",
+      "description": "진달래 연구소는 복합 트라우마, PTSD, 우울증, 불안증 등 다양한 고민을 치료하는 전문성을 가진 정신 건강 및 웰니스 서비스를 제공합니다. 연구소는 개인, 가족, 그룹 상담뿐 아니라 교육, 상담, 전문가 개발 기회를 제공하는 서비스를 제공합니다."
+    },
+    "zh-CN": {
+      "title": "杜鹃花学院：咨询与健康中心",
+      "description": "杜鹃花学院提供心理健康和健康服务，专长于治疗各种问题，包括复杂的创伤、创伤后压力障碍、抑郁症、焦虑症等。该学院提供个人、家庭和小组咨询等服务，同时也为临床医生提供培训、咨询和专业发展机会。"
+    },
+    "de-DE": {
+      "title": "Das Azalea Institut: Beratungs- & Wellnesszentrum",
+      "description": "Das Azalea Institut bietet Dienstleistungen im Bereich der psychischen Gesundheit und Wellness an, mit Spezialisierungen in der Behandlung einer Vielzahl von Anliegen, einschließlich komplexem Trauma, PTSD, Depression, Angst und mehr. Das Institut bietet Dienstleistungen wie Einzel-, Familien- und Gruppentherapie, sowie Schulungen, Beratungen und berufliche Weiterbildungsmöglichkeiten für Therapeuten."
+    },
+    "ja-JP": {
+      "title": "ツツジ研究所: カウンセリング＆ウェルネスセンター",
+      "description": "ツツジ研究所は、複雑なトラウマ、PTSD、うつ病、不安など幅広い悩みを対象とした精神保健およびウェルネスのサービスを提供しています。研究所では、個々のカウンセリング、家族カウンセリング、グループカウンセリングをはじめ、訓練、相談、臨床家向けの専門的なスキルアップの機会も提供しています。"
+    },
+    "sw-KE": {
+      "title": "Taasisi ya Azalea: Kituo cha Ushauri na Afya",
+      "description": "Taasisi ya Azalea inatoa huduma za afya ya akili na ustawi na utaalam katika kutibu aina mbalimbali za wasiwasi ikiwa ni pamoja na msongo mkubwa, PTSD, unyogovu, wasiwasi, na zaidi. Taasisi inatoa huduma kama vile ushauri wa mtu binafsi, familia, na kundi, pamoja na mafunzo, ushauri, na fursa za maendeleo ya kitaalam kwa wataalam wa tiba."
+    },
+    "tr-TR": {
+      "title": "Azalea Enstitüsü: Danışmanlık & Sağlık Merkezi",
+      "description": "Azalea Enstitüsü, Karmaşık travma, PTSD, depresyon, anksiyete ve daha fazlası dahil olmak üzere çeşitli konularda uzmanlıkla psikolojik sağlık ve wellness hizmetleri sunmaktadır. Enstitü, bireysel, aile ve grup danışmanlığı yanı sıra eğitim, danışmanlık ve klinik uzmanları için profesyonel gelişim fırsatları gibi hizmetler sunmaktadır."
+    },
+    "vi-VN": {
+      "title": "Viện Azalea: Trung tâm Tư vấn & Sức khỏe",
+      "description": "Viện Azalea cung cấp dịch vụ sức khỏe tâm thần và sức khỏe, chuyên về điều trị một loạt các vấn đề bao gồm chấn thương phức tạp, PTSD, trầm cảm, lo âu, và hơn thế nữa. Viện cung cấp các dịch vụ như tư vấn cá nhân, gia đình và nhóm, cũng như đào tạo, tư vấn, và cơ hội phát triển chuyên môn cho các nhà điều dưỡng."
+    },
+    "ru-RU": {
+      "title": "Институт Азалии: Центр консультаций и здоровья",
+      "description": "Институт Azalea предоставляет услуги в области психического здоровья и благополучия с специализацией на лечении множества проблем, включая сложные травмы, ПТСР, депрессию, тревогу и многое другое. Институт предоставляет услуги, такие как индивидуальное, семейное и групповое консультирование, а также обучение, консультации и возможности для профессионального развития специалистов."
+    },
+    "ar-SA": {
+      "title": "معهد الأزاليا: مركز الإرشاد والصحة النفسية",
+      "description": "يقدم معهد الأزاليا خدمات الصحة العقلية والعافية مع التخصص في علاج مجموعة متنوعة من القضايا بما في ذلك الصدمات المعقدة، اضطراب ما بعد الصدمة، الاكتئاب، القلق، وأكثر من ذلك. يقدم المعهد خدمات مثل الإرشاد الفردي، الأسري، والجماعي، بالإضافة إلى التدريب، والاستشارة، وفرص التطوير المهني للأطباء النفسيين."
+    },
+    "uk-UA": {
+      "title": "Інститут Азалія: Центр консультацій та оздоровлення",
+      "description": "Інститут Азалія надає послуги з охорони психічного здоров'я та оздоровлення, спеціалізуючись на лікуванні різноманітних проблем, включаючи складний травматичний стрес, ПТСР, депресію, тривогу та багато іншого. Інститут надає такі послуги, як індивідуальне, сімейне та групове консультування, а також навчання, консультації та можливості для професійного розвитку для клініцистів."
+    },
+    "ur-PK": {
+      "title": "ازیلیا انسٹیٹیوٹ: مشاورت اور ویلنیس مرکز",
+      "description": "ازیلیا انسٹیٹیوٹ ذہنی صحت اور ویلنیس کی خدمات فراہم کرتا ہے جس میں شامل ہیں متنوع فکری مسائل جیسے کہ پیچیدہ چوٹ، پوسٹ ٹریومیٹک اسٹریس ڈس آرڈر، افسردگی، گھبراہٹ، اور دیگر مسائل کا علاج۔ انسٹیٹیوٹ انفرادی، خاندانی اور گروپ مشاورت کی خدمات فراہم کرتا ہے، ساتھ ہی ٹریننگ، مشاورت اور پیشہ ورانہ ترقی کے مواقع بھی فراہم کرتا ہے جو کلینشینز کے لیے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "द अ‍ॅझलिया इंस्टिट्यूट: मनोविकार व आरोग्य केंद्र",
+      "description": "द अ‍ॅझलिया इंस्टिट्यूट मनोविकार व आरोग्य सेवा प्रदान करते, ज्यात संप्लेक्स ट्रॉमा, PTSD, उदासीनता, चिंता, व अधिक अशी विविध चिंतांचे उपचार करण्याची तज्ञता आहे. इंस्टिट्यूट वैयक्तिक, कुटुंब, व समूह मनोविकार सल्ला, तसेच प्रशिक्षण, सल्ला, व व्यावसायिक विकास संधी यांची सेवा प्रदान करते."
+    },
+    "bn-BD": {
+      "title": "দ্য আজালিয়া ইন্সটিটিউট: পরামর্শ ও স্বাস্থ্য কেন্দ্র",
+      "description": "দ্য আজালিয়া ইন্সটিটিউট মানসিক স্বাস্থ্য এবং স্বাস্থ্য সেবা প্রদান করে যাতে জটিল ত্রাণ, PTSD, বিষন্নতা, উদ্বেগ সহ বিভিন্ন সমস্যার চিকিৎসায় বিশেষজ্ঞ। এই ইনস্টিটিউটটি ব্যক্তিগত, পরিবারিক এবং দল পরামর্শ, এবং প্রশিক্ষণ, পরামর্শ, এবং চিকিত্সকদের জন্য পেশাগত উন্নয়নের সুযোগ প্রদানের মতো সেবা প্রদান করে।"
+    },
+    "hi-IN": {
+      "title": "द अजेलिया इंस्टिट्यूट: काउंसलिंग और वेलनेस सेंटर",
+      "description": "द अजेलिया इंस्टिट्यूट मानसिक स्वास्थ्य और वेलनेस सेवाएं प्रदान करता है, जिसमें जटिल ट्रॉमा, पीटीएसडी, अवसाद, चिंता आदि का उपचार करने में विशेषताएं शामिल हैं। इंस्टिट्यूट व्यक्तिगत, परिवारिक, और समूह समादान, साथ ही प्रशिक्षण, परामर्श, और चिकित्साधीनों के लिए व्यावसायिक विकास के अवसर प्रदान करता है।"
+    },
+    "ta-IN": {
+      "title": "தி அசலியா இன்ஸ்டிடியூட்: ஆலோசனை மற்றும் நலமாக்கிய மையம்",
+      "description": "அசலியா இன்ஸ்டிடியூட் மன நலத்தும், நலவியல் சேவைகளைத் தருகின்றது, இதில் அதிருக்கலமான அழுவல், பிடிஎஸ்டி, மனச்சோர்வு, பயம், மற்றும் மேலும் போன்ற பிரச்சனைகளை சிகிச்சை செயவும் சிபெச்சியலிட்டி வாய்ப்புகள் உள்ளன. இன்ஸ்டிடியூட் தனிப்பட்ட, குடும்ப, மற்றும் குழு ஆலோசனைகள், அலவார் மேலும் கல்வி, ஆலோசனை, மற்றும் மருத்துவர்களுக்கான தொழில்நிறுத்தம் வாய்ப்புகள் ஆகியவற்றை வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "ది అజలీయా ఇన్స్టిట్యూట్: కౌన్సిలింగ్ & వెల్నెస్ సెంటర్",
+      "description": "ది అజలీయా ఇన్స్టిట్యూట్ మానసిక ఆరోగ్యం మరియు సముదాయ ఆరోగ్య సేవలను అందిస్తుంది మరియు కట్టుమనీషి ట్రామా, PTSD, దీప్రెషన్, ఆంక్ష, మరియు మరిన్ని ప్రశ్నల విశేషాంశంగా చికిత్సించే నిపుణులు. ఇన్స్టిట్యూట్ వ్యక్తిగత, కుటుంబం, మరియు గుంపు కౌన్సెలింగ్ వంటి సేవలను, మరియు శిక్షణ, కన్సుల్టేషన్, మరియు చికిత్సావేత్తలకు వృద్ధి సాధ్యతలను అందిస్తుంది."
+    }
+  }
+}

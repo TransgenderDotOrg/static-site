@@ -554,6 +554,31 @@
     "description": "Jim Collins Foundation (JCF) का मिशन ट्रांसजेंडर लोगों को लिंग पुष्टिकरण सर्जरी के लिए वित्तीय सहायता प्रदान करना है। यह foundation दो अनुदान विकल्प प्रदान करती है; संस्थापकों की अनुदान जो सर्जिकल लागत का 100% कवर करती है और Krysallis Anne Hembrough Legacy Fund जो सर्जिकल लागत का 50% कवर करती है। Foundation का उद्देश्य उन लोगों के लिए इन महत्वपूर्ण सर्जरी की पहुँच प्रदान करना है जो इसे चाहते हैं लेकिन ट्रांसजेंडर लोगों के खिलाफ प्रचलित भेदभाव के कारण, ऐसी लागतें आमतौर पर पूरी करना असंभव होता है।"
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Colors+ युवा केंद्र",
+    "description": "Colors+ LGBTQ+ युवा और सहयोगियों को मजबूत करता है और व्यक्तिगत और सामुदायिक स्वास्थ्य को बढ़ावा देता है। LGBTQ+ युवा और सहयोगियों के लिए कार्यक्रम प्रदान करता है जैसे कि व्यक्तिगत, जोड़ों, और परिवार की परामर्श सेवाएं।"
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS सांस्कृतिक रूप से प्रासंगिक मनोवैज्ञानिक उपचार, समुदाय हस्तक्षेप, और सेवाओं को प्रशिक्षण प्रदान करता है जो लोगों को यातना और शरणार्थी संकट के निशानों से ठीक होने में मदद करता है। वे विविध यौनिकताओं, लिंगों, और शरीरों के लिए, जिसमें शरणार्थियों और आश्रय खोजने वालों को शामिल किया गया है, एक सुरक्षित और समर्थनात्मक वातावरण बनाने का लक्ष्य रखते हैं।"
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "ट्रांसजेंडर कानूनी रक्षा और शिक्षा कोष (TLDEF)",
+    "description": "टीएलडीईएफ लिंग पहचान और अभिव्यक्ति के आधार पर भेदभाव समाप्त करने के लिए प्रतिबद्ध है और सार्वजनिक शिक्षा, परीक्षण-मामला मुकदमेबाजी, प्रत्यक्ष कानूनी सेवाएं, और सार्वजनिक नीति प्रयासों के माध्यम से ट्रांसजेंडर लोगों के लिए समानता प्राप्त करने के लिए। वे विभिन्न सेवाएं प्रदान करते हैं जैसे नाम परिवर्तन प्रोजेक्ट, प्रभाव मुकदमा और ट्रांस स्वास्थ्य प्रोजेक्ट। इसके अलावा यह ट्रांसजेंडर समुदाय को प्रभावित करने वाले संबंधित कानूनी मामलों पर अपडेट भी प्रदान करता है।"
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International एक वैश्विक सहायता समूह है जो ट्रांसजेंडर समुदाय के लिए एक ऑनलाइन पत्रिका, क्लब रातों, इवेंट्स, और खरीदारी प्लेटफ़ॉर्म प्रदान करता है। यह सभी लिंग विविध और ट्रांस-लोगों की आवाज को बढ़ाता है जो सहायता, सलाह, व्यक्तिगत कहानियां, और सुविधाएं प्रदान करता है।"
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "द अजेलिया इंस्टिट्यूट: काउंसलिंग और वेलनेस सेंटर",
+    "description": "द अजेलिया इंस्टिट्यूट मानसिक स्वास्थ्य और वेलनेस सेवाएं प्रदान करता है, जिसमें जटिल ट्रॉमा, पीटीएसडी, अवसाद, चिंता आदि का उपचार करने में विशेषताएं शामिल हैं। इंस्टिट्यूट व्यक्तिगत, परिवारिक, और समूह समादान, साथ ही प्रशिक्षण, परामर्श, और चिकित्साधीनों के लिए व्यावसायिक विकास के अवसर प्रदान करता है।"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "ट्रांस और लिंग विविध व्यक्ति के माता-पिता, भाई-बहन, विस्तृत परिवार और मित्रों के लिए एक सह-समर्थन समूह। इसकी पेशकश में संसाधन, कार्यक्रम, और समुदाय की कथाओं के लिए एक मंच शामिल है। इसके अलावा यह एक Transfamily पुस्तक भी पेशकश करता है जो ट्रांसजेंडर समुदाय के बारे में उपयोगी जानकारी और अंतर्दृष्टि प्रदान करता है।"
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "टोलिडो विश्वविद्यालय चिकित्सा केंद्र",
+    "description": "टोलिडो विश्वविद्यालय का मेडिकल सेंटर एक विस्तृत श्रेणी की चिकित्सा सेवाएं और विशेषताएं प्रदान करता है, जैसे की आपातकालीन चिकित्सा से लेकर आर्थोपेडिक्स और पुनर्वास सेवाएं। यह उत्तर-पश्चिम ओहायो समुदाय को सर्वोच्च स्तर की स्वास्थ्य सेवा की पेशकश करने के लिए समर्पित है। केंद्र मरीज की जानकारी, विजिटर जानकारी, बिलिंग और बीमा समर्थन जैसी सेवाएं प्रदान करता है।"
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons ट्रांसजेंडर और गैर-बाइनरी व्यक्तियों के लिए, जो अधिक पुरुष, महिला, या उभयलिंगी आवाज़ निकालने की कोशिश कर रहे हैं, गुणवत्ता स्वर नियंत्रण और मुक्ति सेवाएं प्रदान करता है।"
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "लिंग समर्थन चिकित्सा केंद्र",
+    "description": "अक्रोन चिल्ड्रन्स हॉस्पिटल अपने किशोर चिकित्सा विभाग के तहत लिंग समर्थन चिकित्सा केंद्र प्रदान करता है। यह ट्रांसजेंडर और एलजीबीटीक्यू+ युवाओं की खिड़की करता है, विशेषज्ञ चिकित्सकों, सामाजिक कार्यकर्ताओं, मनोवैज्ञानिकों और एक एंडोक्राइनोलॉजिस्ट की टीम प्रदान करता है। केंद्र में लिंग-विविध वातावरण बनाने के लिए चिकित्सीय और मानसिक स्वास्थ्य समर्थन प्रदान किया जाता है जहां युवा अपनी लिंग पहचान का अन्वेषण कर सकते हैं। यहां प्रदान की जाने वाली सेवाएं में पबर्टी निरोधन, लिंग-समर्थन हार्मोन, मानसिक स्वास्थ्य देखभाल समन्वय, अच्छी जांच /निवारक यात्राएं और शिक्षा/सहायतापूर्ण देखभाल शामिल है।"
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "ट्रांसमस्कुलिन फर्टिलिटी, गर्भावस्था, पोस्टपार्टम, स्तनपान, और माता-पिता की सूचना प्रदान करने वाली एक व्यापक मार्गदर्शिका। संसाधन में ट्रांस-समर्थन स्वास्थ्य देखभाल प्रदाताओं, शोधित पूछे गए प्रश्नों, विभिन्न संसाधनों और अधिक शामिल हैं, जो ट्रांसमस्कुलिन व्यक्तियों को उनके पेरेंटिंग यात्रा पर शिक्षित करने और समर्थन देने के लिए।"
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "ट्रांसजेंडर मिशिगन",
+    "description": "ट्रांसजेंडर मिशिगन का मुख्य मिशन है मिशिगन राज्य में गठबंधन बनाने के लिए समर्थन, सहयोग और शिक्षा प्रदान करना जबकि ट्रांसजेंडर और लिंग गैर-अनुरूपता समुदायों को एकजुट और सशक्त करने के लिए सेवा करता है।"
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "नियोजित पेरेंटहुड वैश्विक स्तर पर करोड़ों लोगों को महत्वपूर्ण प्रजनन स्वास्थ्य देखभाल, यौन शिक्षा, और जानकारी प्रदान करता है। सेवाएं गर्भपात, जन्म नियंत्रण, यौन रोग परीक्षण और उपचार, ट्रांसजेंडर हार्मोन थेरेपी, और अधिक शामिल हैं। ऑनलाइन और टेलीहेल्थ की नियुक्तियां उपलब्ध हैं।"
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "कैम्प लिलाक",
+    "description": "कैम्प लिलाक ओहायो में एक ग्रीष्मकालीन शिविर है जो ट्रांसजेंडर और लिंग विविधता वाले युवाओं के लिए एक सुरक्षित, स्वागत योग्य, और गोपनीय स्थान प्रदान करता है। शिविर में एक ऐसा माहौल प्रदान किया जाता है जहां लिंग विविधता सामान्य है और कार्यक्रम को शिविरार्थियों में आत्मविश्वास निष्पादित करने के लिए तथा साथियों और समर्थकों की एक मजबूत समुदाय प्रदान करने के लिए डिजाइन किया गया है।"
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "ट्रांस परिवार",
     "description": "ट्रांस परिवार आशा का स्रोत बनते हैं, समझ को बढ़ाते हैं, और ट्रांस और लिंग विविध बच्चों के साथ-साथ उन सभी लोगों का समर्थन करने के लिए एक दृश्य पथ बनाते हैं जो उनके जीवन को छूते हैं। हम संसाधन प्रदान करते हैं, कार्यक्रमों का आयोजन करते हैं, और परिवारों को समर्थन समूहों से जोड़ते हैं।"
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "ट्रांसजेंडर और गैर-बाइनरी युवाओं के प्रति एक सहयोगी होने के लिए मार्गदर्शिका",
+    "description": "एक परिचयात्मक शैक्षिक संसाधन जो ट्रांसजेंडर और गैर-बाइनरी युवाओं का समर्थन कैसे करे, इस पर व्यापक जानकारी और सर्वोत्तम प्रथाओं पर प्रकाश डालता है। लिंग पहचान और अभिव्यक्ति के मूलभूत बिंदुओं पर अपनी शिक्षा शुरु करने में यह मार्गदर्शिका महत्वपूर्ण है।"
   }
 ]

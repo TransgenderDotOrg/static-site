@@ -554,6 +554,31 @@
     "description": "Sứ mệnh của Quỹ Jim Collins (JCF) là cung cấp hỗ trợ tài chính cho những người chuyển giới để thực hiện phẫu thuật xác nhận giới tính. Quỹ này cung cấp hai lựa chọn hỗ trợ: Quỹ Sáng lập viên, chi trả 100% chi phí phẫu thuật và Quỹ Di sản Krysallis Anne Hembrough, chi trả 50% chi phí phẫu thuật. Quỹ này nhằm cung cấp quyền tiếp cận với những ca phẫu thuật quan trọng cho những ai muốn, nhưng do phân biệt đối xử phổ biến đối với người chuyển giới, những chi phí như vậy thường không thể đáp ứng được."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Trung Tâm Thanh Niên Colors+",
+    "description": "Colors+ tăng cường sức mạnh cho thanh niên LGBTQ+ và đồng minh bằng cách thúc đẩy sức khỏe cá nhân và cộng đồng. Cung cấp các chương trình cho thanh niên LGBTQ+ và đồng minh như dịch vụ tư vấn cá nhân, tư vấn cho cặp đôi và gia đình."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS cung cấp điều trị tâm lý phù hợp với văn hóa, can thiệp cộng đồng và đào tạo cho các dịch vụ để giúp mọi người hồi phục từ những vết thương của hành hạ và nỗi đau người tị nạn. Họ hướng đến việc tạo ra một môi trường an toàn và hỗ trợ cho mọi giới tính, giới tính và hình thể khác nhau, bao gồm người tị nạn và người xin tị nạn."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "Quỹ Pháp lý & Giáo dục Transgender (TLDEF)",
+    "description": "TLDEF cam kết chấm dứt sự phân biệt đối xử dựa trên danh tính và biểu hiện giới tính và đạt được sự bình đẳng cho người chuyển giới thông qua giáo dục cộng đồng, kiện tụng vụ án thử nghiệm, dịch vụ pháp lý trực tiếp và nỗ lực chính sách công cộng. Họ cung cấp các dịch vụ như dự án thay đổi tên, kiện tụng tác động và dự án sức khỏe chuyển giới. Nó cũng cung cấp các cập nhật về các vấn đề pháp lý liên quan đang ảnh hưởng đến cộng đồng người chuyển giới."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International là một nhóm hỗ trợ toàn cầu dành cho cộng đồng người chuyển giới, cung cấp một tạp chí trực tuyến, đêm hội câu lạc bộ, sự kiện, và nền tảng mua sắm. Nó nâng cao tiếng nói của tất cả những người đa giới tính và người chuyển giới bằng cách cung cấp sự giúp đỡ, lời khuyên, câu chuyện cá nhân, và đặc trưng."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "Viện Azalea: Trung tâm Tư vấn & Sức khỏe",
+    "description": "Viện Azalea cung cấp dịch vụ sức khỏe tâm thần và sức khỏe, chuyên về điều trị một loạt các vấn đề bao gồm chấn thương phức tạp, PTSD, trầm cảm, lo âu, và hơn thế nữa. Viện cung cấp các dịch vụ như tư vấn cá nhân, gia đình và nhóm, cũng như đào tạo, tư vấn, và cơ hội phát triển chuyên môn cho các nhà điều dưỡng."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "Một nhóm hỗ trợ đồng đẳng cho cha mẹ, anh chị em, gia đình mở rộng và bạn bè của một người đa dạng về giới tính và chuyển đổi giới tính. Nó cung cấp các nguồn lực, sự kiện, và một nền tảng cho các câu chuyện cộng đồng. Nó cũng cung cấp một quyển sách Transfamily cung cấp thông tin hữu ích và cái nhìn sâu sắc về cộng đồng người chuyển giới."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Trung tâm Y tế Đại học Toledo",
+    "description": "Trung tâm Y tế Đại học Toledo cung cấp một loạt các dịch vụ và chuyên khoa y tế, từ y học cấp cứu đến chấn thương chỉnh hình và dịch vụ phục hồi. Trung tâm cam kết cung cấp mức độ chăm sóc sức khỏe cao nhất cho cộng đồng phía tây bắc Ohio. Trung tâm cung cấp các dịch vụ như thông tin bệnh nhân, thông tin người thăm, hỗ trợ thanh toán và bảo hiểm."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons cung cấp các dịch vụ kiểm soát và giải phóng chất lượng cho các cá nhân chuyển giới và không nhị phân nhằm hướng tới giọng nói nam tính, nữ tính hơn hoặc trung tính."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "Trung tâm Y tế Xác nhận Giới tính",
+    "description": "Bệnh viện Trẻ em Akron cung cấp Trung tâm Y tế Xác nhận Giới tính thuộc bộ phận Y học Thiếu niên của mình. Nơi này phục vụ cho giới trẻ chuyển giới và LGBTQ+, với một đội ngũ bác sĩ chuyên khoa, công tác xã hội, nhà tâm lý học, và một bác sĩ nội tiết. Trung tâm cung cấp hỗ trợ y tế và tâm lý để tạo ra một môi trường đa dạng về giới tính, nơi mà giới trẻ có thể khám phá giới tính của mình. Các dịch vụ cung cấp bao gồm sự chặn dừng quá trình dậy thì, hormone xác nhận giới tính, điều phối chăm sóc sức khỏe tâm lý, kiểm tra sức khỏe định kì/ khám phòng ngừa và giáo dục/chăm sóc hỗ trợ."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "Hướng dẫn toàn diện cung cấp thông tin về tình dục học, mang thai, sau sinh, tiết sữa và làm cha mẹ đối với những người chuyển đổi giới tính thành nam. Tài nguyên bao gồm các nhà cung cấp chăm sóc sức khỏe xác nhận chuyển giới, các câu hỏi thường gặp đã được nghiên cứu, các tài nguyên khác nhau và nhiều hơn nữa để giáo dục và hỗ trợ các cá nhân chuyển đổi giới tính thành nam trong hành trình làm cha mẹ của họ."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "TRANSGENDER MICHIGAN",
+    "description": "Sứ mệnh chính của Transgender Michigan là cung cấp sự đại diện, hỗ trợ và giáo dục trong khi phục vụ để tạo ra các liên minh ở bang Michigan để thống nhất và trao quyền cho cộng đồng người chuyển giới và cộng đồng không tuân thủ giới tính."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "Planned Parenthood cung cấp chăm sóc sức khỏe sinh sản quan trọng, giáo dục tình dục, và thông tin cho hàng triệu người trên toàn thế giới. Các dịch vụ bao gồm phá thai, kiểm soát sinh đẻ, kiểm tra và điều trị bệnh lây truyền qua đường tình dục, liệu pháp hormone người chuyển giới, và nhiều hơn nữa. Có các cuộc hẹn trực tuyến và qua telehealth."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "Trại Lilac",
+    "description": "Trại Lilac là một trại hè ở Ohio cung cấp một không gian an toàn, chào đón và bảo mật cho các thanh thiếu niên chuyển giới và đa giới tính. Trại cung cấp một môi trường nơi đa dạng giới tính là bình thường và chương trình được thiết kế để tạo sự tự tin cho các em tham dự cũng như cung cấp một cộng đồng mạnh mẽ của bạn bè và người ủng hộ."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "Gia đình Trans",
     "description": "Gia đình Trans truyền cảm hứng hy vọng, tăng sự hiểu biết và tạo ra lối mòn hữu hình để hỗ trợ trẻ em Trans và đa dạng giới tính cũng như tất cả những người có liên quan đến cuộc sống của họ. Chúng tôi cung cấp nguồn lực, tổ chức sự kiện và kết nối gia đình với các nhóm hỗ trợ."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Hướng dẫn để trở thành đồng minh với giới trẻ chuyển giới và không nhị phân",
+    "description": "Một nguồn tài nguyên giáo dục giới thiệu cung cấp thông tin toàn diện và phương pháp tốt nhất về cách hỗ trợ giới trẻ chuyển giới và không nhị phân. Hướng dẫn này rất quan trọng để bắt đầu kiến thức của bạn về cơ bản của bản sắc giới tính và biểu hiện giới tính."
   }
 ]

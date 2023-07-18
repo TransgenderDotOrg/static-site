@@ -554,6 +554,31 @@
     "description": "Misi dari Jim Collins Foundation (JCF) adalah untuk memberikan bantuan finansial kepada orang-orang transgender untuk operasi peneguhan gender. Yayasan ini menawarkan dua opsi hibah; The Founders' Grant yang menutupi 100% dari biaya operasi dan The Krysallis Anne Hembrough Legacy Fund yang menutupi 50% dari biaya operasi. Yayasan ini bertujuan untuk memberikan akses ke operasi vital ini bagi mereka yang menginginkannya tetapi karena diskriminasi yang merajalela terhadap orang-orang transgender, biaya semacam itu biasanya tidak mungkin dipenuhi."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Colors+ Pusat Pemuda",
+    "description": "Colors+ memperkuat pemuda LGBTQ+ dan sekutunya dengan mempromosikan kesejahteraan individu dan komunitas. Menyediakan program untuk pemuda LGBTQ+ dan sekutu seperti layanan konseling individu, pasangan, dan keluarga."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS menyediakan pengobatan psikologis yang relevan dengan budaya, intervensi masyarakat, dan pelatihan kepada layanan untuk membantu orang-orang sembuh dari luka penyiksaan dan trauma pengungsi. Mereka bertujuan untuk menciptakan lingkungan yang aman dan mendukung untuk berbagai seksualitas, gender, dan tubuh termasuk pengungsi dan pencari suaka."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+    "description": "TLDEF berkomitmen untuk mengakhiri diskriminasi berdasarkan identitas dan ekspresi gender dan mencapai kesetaraan bagi orang transgender melalui pendidikan publik, litigasi kasus uji, layanan hukum langsung, dan upaya kebijakan publik. Mereka menyediakan berbagai layanan seperti proyek perubahan nama, litigasi dampak dan proyek kesehatan trans. Ini juga menyediakan pembaruan tentang masalah hukum terkait yang mempengaruhi komunitas transgender."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International adalah kelompok dukungan global untuk komunitas transgender yang menyediakan majalah online, acara klub malam, acara, dan platform belanja. Ia memperkuat suara semua orang yang beragam gender dan trans-orang dengan menawarkan bantuan, nasihat, cerita pribadi, dan fitur."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "Institut Azalea: Pusat Konseling & Kesejahteraan",
+    "description": "Institut Azalea menyediakan layanan kesehatan mental dan kesejahteraan dengan spesialisasi dalam mengobati berbagai kekhawatiran termasuk trauma kompleks, PTSD, depresi, kecemasan, dan lainnya. Institut ini menyediakan layanan seperti konseling individu, keluarga, dan grup, serta pelatihan, konsultasi, dan peluang pengembangan profesional untuk klinisi."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "Sebuah grup dukungan sebaya untuk orang tua, saudara kandung, keluarga besar dan teman dari orang yang beragam dalam hal gender dan trans. Grup ini menawarkan sumber daya, acara, dan platform untuk cerita masyarakat. Grup ini juga menawarkan buku Transfamily yang menyediakan informasi dan wawasan yang berguna tentang komunitas transgender."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "University of Toledo Medical Center",
+    "description": "University of Toledo Medical Center menyediakan berbagai layanan medis dan spesialisasi, mulai dari layanan darurat hingga ortopedi dan layanan rehabilitasi. Pusat ini berkomitmen untuk menawarkan tingkat layanan kesehatan tertinggi untuk komunitas Ohio barat laut. Pusat ini menawarkan layanan seperti informasi pasien, informasi pengunjung, dukungan penagihan dan asuransi."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons menawarkan layanan kontrol suara dan pembebasan berkualitas untuk individu transgender dan non-binary yang ingin suaranya terdengar lebih maskulin, feminin, atau androgen."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "Pusat untuk Pengobatan yang Mengesahkan Jenis Kelamin",
+    "description": "Rumah Sakit Anak Akron menawarkan Pusat untuk Pengobatan yang Mengesahkan Jenis Kelamin di bawah departemen Medis Remaja. Ini melayani remaja transgender dan LGBTQ+, menyiapkan sebuah tim dokter spesialis, pekerja sosial, psikolog, dan seorang endokrinologi. Pusat ini menawarkan dukungan kesehatan fisik dan mental untuk menciptakan lingkungan yang beragam jenis kelamin di mana remaja dapat mengeksplorasi identitas jenis kelamin mereka. Layanan yang disediakan mencakup penekanan pubertas, hormon yang mengesahkan jenis kelamin, koordinasi perawatan kesehatan mental, pemeriksaan kesehatan/kunjungan pencegahan dan edukasi/perawatan pendukung."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "Panduan komprehensif yang menawarkan informasi tentang fertilitas transmaskulin, kehamilan, pascapersalinan, laktasi, dan orangtua. Sumber daya ini mencakup penyedia layanan kesehatan yang mendukung trans, FAQs yang diteliti, berbagai sumber daya dan lebih banyak lagi untuk mendidik dan mendukung individu transmaskulin dalam perjalanan mereka menjadi orangtua."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "TRANSGENDER MICHIGAN",
+    "description": "Misi utama Transgender Michigan adalah untuk menyediakan advokasi, dukungan dan edukasi sambil berfungsi untuk menciptakan koalisi di negara bagian Michigan untuk menyatukan dan memberdayakan komunitas transgender dan non-konformis gender."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "Planned Parenthood menyediakan perawatan kesehatan reproduksi yang sangat penting, pendidikan seks, dan informasi kepada jutaan orang di seluruh dunia. Layanan mencakup aborsi, kontrol kelahiran, pengujian dan pengobatan STD, terapi hormon transgender, dan lainnya. Janji temu online dan telehealth tersedia."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "Camp Lilac",
+    "description": "Camp Lilac adalah kamp musim panas di Ohio yang menyediakan ruangan yang aman, ramah, dan rahasia untuk anak-anak muda yang transgender dan beragam gender. Kamp ini menyediakan lingkungan di mana keragaman gender adalah norma dan programnya dirancang untuk menanamkan kepercayaan diri pada pengemah serta menyediakan komunitas rekan dan pendukung yang kuat."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "Keluarga Trans",
     "description": "Keluarga Trans menginspirasi harapan, meningkatkan pemahaman, dan menciptakan jalur yang terlihat untuk mendukung anak-anak trans dan beragam gender serta semua orang yang menyentuh hidup mereka. Kami menyediakan sumberdaya, mengorganisir acara, dan menghubungkan keluarga ke grup dukungan."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Panduan Menjadi Sekutu bagi Orang Muda Transgender dan Nonbinary",
+    "description": "Sumber pendidikan awal yang menyediakan informasi komprehensif dan praktik terbaik tentang cara mendukung orang muda transgender dan nonbinary. Panduan ini sangat penting dalam memulai pendidikan Anda tentang dasar-dasar identitas dan ekspresi gender."
   }
 ]

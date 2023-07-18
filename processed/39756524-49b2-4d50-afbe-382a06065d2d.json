@@ -1,0 +1,25 @@
+{
+  "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+  "title": "Colors+ Youth Center",
+  "description": "Colors+ strengthens the LGBTQ+ youth and allies by promoting individual and community wellness. Provides programs for LGBTQ+ youth and allies such as individual, couples, and family counseling services.",
+  "slug": "colors-plus-youth-center",
+  "externalUrl": "https://www.colorsplus.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "mental-health",
+    "education-awareness"
+  ],
+  "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Fairview Park",
+  "county": "Cuyahoga County",
+  "latLng": [
+    41.4442751,
+    -81.8579082
+  ],
+  "email": "info@colorsplus.org",
+  "socialMedia": null
+}

@@ -554,6 +554,31 @@
     "description": "Jim Collins 재단(JCF)의 임무는 트랜스젠더 사람들에게 성 정체성을 확인하는 수술에 대한 재정 지원을 제공하는 것입니다. 이 재단은 두 가지 장학금 옵션을 제공합니다. 창립자들의 장학금은 수술 비용의 100%를, Krysallis Anne Hembrough 유산 펀드는 수술 비용의 50%를 지원합니다. 이 재단의 목표는 이와 같은 중요한 수술에 대한 접근성을 제공하는 것이지만, 트랜스젠더 사람들에 대한 일반적인 차별 때문에 이러한 비용을 충족시키는 것은 대개 불가능합니다."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Colors+ 청소년 센터",
+    "description": "Colors+는 개인 및 커뮤니티의 건강을 증진함으로써 LGBTQ+ 청소년 및 동맹을 강화합니다. 개인, 커플, 가족 상담 서비스와 같은 LGBTQ+ 청소년 및 동맹을 위한 프로그램을 제공합니다."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS는 문화적으로 타당한 심리치료, 커뮤니티 개입, 서비스 교육을 제공하여 고문 및 난민 트라우마의 상처에서 사람들이 치유될 수 있도록 돕습니다. 그들의 목표는 다양한 성적 취향, 성별, 몸매를 포함한 난민 및 망명자에게 안전하고 지지적인 환경을 만드는 것입니다."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "트랜스젠더 법률 방어 & 교육 기금 (TLDEF)",
+    "description": "TLDEF는 성 정체성 및 표현에 대한 차별을 종료하고 공공 교육, 테스트 케이스 소송, 직접적인 법률 서비스, 그리고 공공 정책 노력을 통해 트랜스젠더 인들에게 동등성을 달성하려는 데 헌신하고 있습니다. 그들은 이름 변경 프로젝트, 영향 소송 및 트랜스 건강 프로젝트와 같은 다양한 서비스를 제공합니다. 또한 트랜스젠더 커뮤니티에 영향을 미치는 관련 법적 사항에 대한 업데이트도 제공합니다."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International은 온라인 매거진, 클럽 밤, 이벤트, 쇼핑 플랫폼을 제공하는 트랜스젠더 커뮤니티를 위한 글로벌 지원 그룹입니다. 이는 도움, 조언, 개인적인 이야기, 기능을 제공함으로써 모든 성 다양성 및 트랜스 인들의 목소리를 확대시킵니다."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "진달래 연구소: 상담 및 웰니스 센터",
+    "description": "진달래 연구소는 복합 트라우마, PTSD, 우울증, 불안증 등 다양한 고민을 치료하는 전문성을 가진 정신 건강 및 웰니스 서비스를 제공합니다. 연구소는 개인, 가족, 그룹 상담뿐 아니라 교육, 상담, 전문가 개발 기회를 제공하는 서비스를 제공합니다."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "트랜스와 성 다양성을 가진 사람들의 부모, 형제, 확장된 가족, 친구들을 위한 동료 지원 그룹입니다. 자원, 이벤트, 커뮤니티 이야기를 위한 플랫폼을 제공합니다. 또한 트랜스젠더 커뮤니티에 대한 유용한 정보와 통찰력을 제공하는 Transfamily 책도 제공합니다."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "톨레도 대학교 의료 센터",
+    "description": "톨레도 대학교 의료 센터는 응급의학부터 정형외과 및 재활 서비스에 이르기까지 광범위한 의료 서비스 및 전문 분야를 제공합니다. 이 센터는 노스웨스턴 오하이오 커뮤니티에 최고 수준의 건강 관리를 제공하는 데 전념하고 있습니다. 센터는 환자 정보, 방문자 정보, 청구 및 보험 지원과 같은 서비스를 제공합니다."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons는 보다 남성적이거나, 여성적이거나, 또는 중성적인 소리를 내기를 원하는 트랜스젠더 및 비이진성 개인들을 대상으로 품질 높은 목소리 제어 및 해방 서비스를 제공합니다."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "성 인증 의료 센터",
+    "description": "애크론 어린이 병원은 그 청소년 의료 부서 하의 성 인증 의료 센터를 제공합니다. 이는 전문 과의사, 사회 복지사, 심리학자, 내분비학자로 구성된 팀을 포함하여 트랜스젠더 및 LGBTQ+ 청소년을 위한 서비스를 제공합니다. 센터는 청소년이 성 정체성을 탐색할 수 있는 성 다양성 환경을 마련하기 위해 의학적 그리고 정신 건강 지원을 제공합니다. 제공되는 서비스에는 성장 저해, 성 인증 호르몬, 정신 건강 관리 조정, 건강 점검/예방 방문 및 교육 / 지원 관리가 포함됩니다."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "트랜스마스큘린의 생식력, 임신, 출산 후, 수유, 그리고 부모가 되는 것에 대한 정보를 제공하는 종합 가이드입니다. 이 자료에는 트랜스를 긍정적으로 대하는 건강 관리 제공자, 연구된 FAQ, 다양한 리소스 등이 포함되어 있어 트랜스마스큘린 개인들이 부모가 되는 여정에서 교육받고 지원받을 수 있습니다."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "트랜스젠더 미시간",
+    "description": "트랜스젠더 미시간의 주요 임무는 미시간 주에서 연합을 만들어 트랜스젠더와 성별 비규칙 커뮤니티를 통합하고 강화하는 동시에 옹호, 지원 및 교육을 제공하는 것입니다."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "플래닌드 페어런트후드는 성인들의 생식 건강을 중요시하며, 성 교육과 정보를 전 세계 수백만 명에게 제공합니다. 서비스에는 낙태, 피임, 성병 검사 및 치료, 트랜스젠더 호르몬 요법 등이 포함됩니다. 온라인 및 원격 건강 상담이 가능합니다."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "캠프 라일락",
+    "description": "캠프 라일락은 트랜스젠더와 성 다양성을 가진 청소년들에게 안전하고 따뜻하며 비밀을 보장하는 공간을 제공하는 오하이오의 여름 캠프입니다. 이 캠프는 성 다양성이 널리 받아들여지는 환경을 제공하며, 프로그램은 캠퍼들에게 자신감을 심어주고 동료와 지지자들로 이루어진 강력한 커뮤니티를 제공하도록 설계되었습니다."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "Trans Families",
     "description": "Trans Families는 희망을 불어넣고, 이해를 증진시키며, 트랜스와 성 다양성을 가진 아이들과 그들의 생활에 관련된 모든 사람들을 지원하는 명확한 길을 제시합니다. 우리는 자원을 제공하고, 이벤트를 구성하며, 가족들을 지원 그룹에 연결합니다."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "트랜스젠더 및 비이성체 젊은이들을 위한 동맹자 가이드",
+    "description": "트랜스젠더 및 비이성체 젊은이들을 지원하는 방법에 대한 포괄적인 정보와 모범 사례를 제공하는 입문 교육 자료입니다. 이 가이드는 성 정체성과 표현의 기본에 대한 교육을 시작하는데 필수적입니다."
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+  "title": "The Azalea Institute: Counseling & Wellness Center",
+  "description": "The Azalea Institute provides mental health and wellness services with specialties in treating a variety of concerns including complex trauma, PTSD, depression, anxiety, and more. The Institute provides services such as individual, family, and group counseling, as well as training, consultation, and professional development opportunities for clinicians.",
+  "slug": "the-azalea-institute-counseling-wellness-center",
+  "externalUrl": "https://www.azaleainstitute.com/",
+  "tags": [
+    "mental-health",
+    "healthcare",
+    "education-awareness"
+  ],
+  "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+  "phoneNumber": "(330) 510-4900",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Cuyahoga Falls",
+  "county": "Summit County",
+  "latLng": [
+    41.1477809,
+    -81.46951
+  ],
+  "email": "info@azaleainstitute.com",
+  "socialMedia": {
+    "googleMapsUrl": [
+      "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+      "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+    ]
+  }
+}

@@ -554,6 +554,31 @@
     "description": "吉姆·柯林斯基金会（JCF）的使命是为跨性别者提供性别确认手术的财务援助。该基金会提供两种资助选项；创始人资助计划，可以支付100%的手术费用，和克里萨丽丝·安妮·亨布罗遗产基金，可以支付50%的手术费用。基金会的目标是为那些希望进行但由于对跨性别者的普遍歧视，这些费用通常无法负担的人提供接受这些重要手术的机会。"
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Colors+ 青少年中心",
+    "description": "Colors+ 通过提倡个人与社区健康来加强LGBTQ+青少年和盟友的力量。为LGBTQ+青少年和盟友提供诸如个人、伴侣和家庭咨询服务的项目。"
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS为人们提供与文化相关的心理治疗、社区干预和服务培训，以帮助人们从创伤和难民创伤的疤痕中康复。他们致力于为包括难民和寻求庇护者在内的多元性别、性取向和身体创造一个安全支持的环境。"
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "跨性别法律防卫与教育基金（TLDEF）",
+    "description": "TLDEF致力于结束基于性别认同和表达的歧视，并通过公共教育，测试案例诉讼，直接法律服务和公共政策努力，实现跨性别人士的平等。他们提供各种服务，如更改姓名项目，影响诉讼和跨性别健康项目。它还提供影响跨性别社区的相关法律事务的更新。"
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International是全球为跨性别者提供支持的群体，提供线上杂志、社交夜晚、活动和购物平台。通过提供帮助、建议、个人故事和特性，它放大了所有性别多样性和跨性别者的声音。"
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "杜鹃花学院：咨询与健康中心",
+    "description": "杜鹃花学院提供心理健康和健康服务，专长于治疗各种问题，包括复杂的创伤、创伤后压力障碍、抑郁症、焦虑症等。该学院提供个人、家庭和小组咨询等服务，同时也为临床医生提供培训、咨询和专业发展机会。"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "这是一个为跨性别和性别多元人士的父母、兄弟姐妹、扩大家庭和朋友提供支持的小组。它提供资源、活动以及一个讲述社群故事的平台。此外，它还提供一本《跨性别家庭》书籍，为大家提供有关跨性别社区的有用信息和洞察。"
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "托莱多大学医学中心",
+    "description": "托莱多大学医学中心提供广泛的医疗服务和专业技术，从急救医学到骨科和康复服务。它致力于向俄亥俄州西北部社区提供最高水平的医疗保健。该中心提供像患者信息，访客信息，计费和保险支持之类的服务。"
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons为变性人和非二元性别个体提供优质的声音控制和解放服务，旨在使他们的声音更具男性化、女性化或雌雄同体化。"
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "性别认同医学中心",
+    "description": "阿克伦儿童医院在其青少年医疗部门下设有性别认同医学中心。它为跨性别者和LGBTQ+青少年提供服务，拥有一支包括专科医生、社会工作者、心理学家和内分泌科医生在内的团队。该中心提供医疗和心理健康支持，创造一个性别多元化的环境，让青少年可以探索他们的性别认同。提供的服务包括青春期抑制、性别认同激素、心理健康护理协调、预防性健康检查和教育/支持护理。"
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "这是一本全面的指南，提供关于跨性别男子的生育、妊娠、产后、哺乳和育儿的信息。资源包括肯定跨性别的医疗保健提供者，研究过的常见问题，各种资源等，用于教育和支持跨性别男子在育儿旅程中的个人。"
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "密歇根变性人",
+    "description": "密歇根变性人的主要任务是提供倡导，支持和教育，同时服务于在密歇根州创造联盟，以团结和赋权变性人和性别不合规范社区。"
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "计划生育为全球数百万人提供至关重要的生殖健康护理、性教育和信息。服务包括流产、避孕、性病测试和治疗、跨性别荷尔蒙治疗等等。提供在线和远程健康预约。"
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "丁香营地",
+    "description": "丁香营地位于俄亥俄州，是一处为跨性别和性别多元青少年提供安全、友好且隐私的夏令营。该营地提供一个性别多样性为常态的环境，其项目设计旨在给营地中的青少年注入信心，并提供一个强大的同伴和支持者社区。"
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "跨性别家庭",
     "description": "跨性别家庭激励希望，增进理解，为支持跨性别和性别多元的孩子以及所有涉及他们生活的人创建了一个可见的途径。我们提供资源，组织活动，并将家庭连接到支持团体。"
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "做跨性别和非二元青年的盟友指南",
+    "description": "这是一个入门的教育资源，提供全面的信息和如何支持跨性别和非二元青年的最佳做法。这份指南在开始您对性别认同和表达的基础教育中起着重要作用。"
   }
 ]

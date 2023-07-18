@@ -1,0 +1,30 @@
+{
+  "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+  "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+  "description": "The TLDEF is committed to ending discrimination based upon gender identity and expression and to achieving equality for transgender people through public education, test-case litigation, direct legal services, and public policy efforts. They provide various services like name change project, impact litigation and trans health project. It also provides updates on related legal matters affecting the transgender community.",
+  "slug": "transgender-legal-defense-education-fund",
+  "externalUrl": "https://transgenderlegal.org/",
+  "tags": [
+    "legal",
+    "education-awareness",
+    "healthcare"
+  ],
+  "address": "520 8th Ave #2204, New York, NY 10018, USA",
+  "phoneNumber": "646-862-9396",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.75363,
+    -73.99198779999999
+  ],
+  "email": "communications@transgenderlegal.org",
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/tldef",
+    "instagramUrl": "https://www.instagram.com/tldef/",
+    "facebookUrl": "https://www.facebook.com/tldef",
+    "googleMapsUrl": null
+  },
+  "town": "Manhattan"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+  "slug": "university-of-toledo-medical-center",
+  "externalUrl": "https://utmc.utoledo.edu/",
+  "tags": [
+    "healthcare"
+  ],
+  "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+  "phoneNumber": "419.383.4000",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Toledo",
+  "county": "Lucas County",
+  "latLng": [
+    41.6166904,
+    -83.61584409999999
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "University of Toledo Medical Center",
+      "description": "The University of Toledo Medical Center provides a wide range of medical services and specialties, from emergency medicine to orthopaedics and rehabilitation services. It is committed to offering the highest level of healthcare to the northwest Ohio community. The center offers services like patient information, visitor information, billing and insurance support."
+    },
+    "es-ES": {
+      "title": "Centro Médico de la Universidad de Toledo",
+      "description": "El Centro Médico de la Universidad de Toledo proporciona una amplia gama de servicios y especialidades médicas, desde medicina de emergencia hasta ortopedia y servicios de rehabilitación. Se compromete a ofrecer el más alto nivel de atención médica a la comunidad del noroeste de Ohio. El centro ofrece servicios como información del paciente, información del visitante, facturación y soporte de seguro."
+    },
+    "id-ID": {
+      "title": "University of Toledo Medical Center",
+      "description": "University of Toledo Medical Center menyediakan berbagai layanan medis dan spesialisasi, mulai dari layanan darurat hingga ortopedi dan layanan rehabilitasi. Pusat ini berkomitmen untuk menawarkan tingkat layanan kesehatan tertinggi untuk komunitas Ohio barat laut. Pusat ini menawarkan layanan seperti informasi pasien, informasi pengunjung, dukungan penagihan dan asuransi."
+    },
+    "pt-PT": {
+      "title": "Centro Médico da Universidade de Toledo",
+      "description": "O Centro Médico da Universidade de Toledo oferece uma ampla gama de serviços e especialidades médicas, desde medicina de emergência até ortopedia e serviços de reabilitação. Está comprometido em oferecer o mais alto nível de assistência à saúde para a comunidade do noroeste de Ohio. O centro oferece serviços como informações ao paciente, informações ao visitante, suporte de cobrança e seguro."
+    },
+    "zh-CN": {
+      "title": "托莱多大学医学中心",
+      "description": "托莱多大学医学中心提供广泛的医疗服务和专业技术，从急救医学到骨科和康复服务。它致力于向俄亥俄州西北部社区提供最高水平的医疗保健。该中心提供像患者信息，访客信息，计费和保险支持之类的服务。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Matibabu cha Chuo Kikuu cha Toledo",
+      "description": "Kituo cha Matibabu cha Chuo Kikuu cha Toledo kinatoa huduma anuai za matibabu na maeneo maalum, kutoka kwa dawa za dharura hadi mifupa na huduma za urejesho. Kimedhamiria kutoa kiwango cha juu cha huduma ya afya kwa jamii ya kaskazini-magharibi mwa Ohio. Kituo hutoa huduma kama taarifa za mgonjwa, taarifa za wageni, muswada na msaada wa bima."
+    },
+    "ko-KR": {
+      "title": "톨레도 대학교 의료 센터",
+      "description": "톨레도 대학교 의료 센터는 응급의학부터 정형외과 및 재활 서비스에 이르기까지 광범위한 의료 서비스 및 전문 분야를 제공합니다. 이 센터는 노스웨스턴 오하이오 커뮤니티에 최고 수준의 건강 관리를 제공하는 데 전념하고 있습니다. 센터는 환자 정보, 방문자 정보, 청구 및 보험 지원과 같은 서비스를 제공합니다."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Y tế Đại học Toledo",
+      "description": "Trung tâm Y tế Đại học Toledo cung cấp một loạt các dịch vụ và chuyên khoa y tế, từ y học cấp cứu đến chấn thương chỉnh hình và dịch vụ phục hồi. Trung tâm cam kết cung cấp mức độ chăm sóc sức khỏe cao nhất cho cộng đồng phía tây bắc Ohio. Trung tâm cung cấp các dịch vụ như thông tin bệnh nhân, thông tin người thăm, hỗ trợ thanh toán và bảo hiểm."
+    },
+    "de-DE": {
+      "title": "Universitätsmedizinzentrum von Toledo",
+      "description": "Das Universitätsmedizinzentrum von Toledo bietet eine breite Palette an medizinischen Dienstleistungen und Fachgebieten, von der Notfallmedizin bis hin zu Orthopädie und Rehabilitationsdiensten. Es ist bestrebt, der Gemeinschaft im Nordwesten von Ohio die höchste Stufe der Gesundheitsversorgung anzubieten. Das Zentrum bietet Dienstleistungen wie Patienteninformationen, Besucherinformationen, Abrechnung und Versicherungsunterstützung."
+    },
+    "fr-FR": {
+      "title": "Centre Médical de l'Université de Toledo",
+      "description": "Le Centre Médical de l'Université de Toledo fournit une large gamme de services et de spécialités médicales, de la médecine d'urgence à l'orthopédie et aux services de réhabilitation. Il est engagé à offrir le plus haut niveau de soins de santé à la communauté du nord-ouest de l'Ohio. Le centre propose des services comme l'information pour les patients, l'information pour les visiteurs, le soutien pour la facturation et l'assurance."
+    },
+    "ar-SA": {
+      "title": "مركز جامعة توليدو الطبي",
+      "description": "يقدم مركز جامعة توليدو الطبي مجموعة واسعة من الخدمات الطبية والتخصصات، من الطب الطارئ إلى العظام والخدمات التأهيلية. وهو ملتزم بتقديم أعلى مستوى من الرعاية الصحية لمجتمع شمال غرب أوهايو. يقدم المركز خدمات مثل معلومات المريض، معلومات الزائر، الدعم الفواتير والتأمين."
+    },
+    "tr-TR": {
+      "title": "Toledo Üniversitesi Tıp Merkezi",
+      "description": "Toledo Üniversitesi Tıp Merkezi, acil tıptan ortopedi ve rehabilitasyon hizmetlerine kadar geniş bir yelpazede tıbbi hizmetler ve uzmanlıklar sunar. Kuzeybatı Ohio topluluğuna en yüksek düzeyde sağlık hizmeti sunmayı taahhüt etmektedir. Merkez, hasta bilgileri, ziyaretçi bilgileri, faturalandırma ve sigorta desteği gibi hizmetler sunar."
+    },
+    "ru-RU": {
+      "title": "Медицинский центр Университета Толедо",
+      "description": "Медицинский центр Университета Толедо предоставляет широкий спектр медицинских услуг и специальностей, от неотложной медицины до ортопедии и реабилитационных услуг. Он обязан предлагать наивысший уровень медицинской помощи сообществу северо-западного Огайо. Центр предлагает такие услуги, как информация для пациентов, информация для посетителей, поддержка счетов и страхования."
+    },
+    "uk-UA": {
+      "title": "Медичний центр Університету Толедо",
+      "description": "Медичний центр Університету Толедо надає широкий спектр медичних послуг і спеціальностей, від екстреної медицини до ортопедії та реабілітаційних послуг. Він прагне надавати послуги найвищого рівня для спільноти північно-західного Огайо. Центр надає такі послуги, як інформація для пацієнтів, інформація для відвідувачів, підтримка з питань розрахунку та страхування."
+    },
+    "ja-JP": {
+      "title": "トレド大学医療センター",
+      "description": "トレド大学医療センターは、救急医療から整形外科、リハビリテーションサービスまで、幅広い医療サービスと専門分野を提供しています。それは、北西オハイオコミュニティに最高レベルのヘルスケアを提供することに専念しています。センターは、患者情報、訪問者情報、請求と保険サポートのようなサービスを提供します。"
+    },
+    "ur-PK": {
+      "title": "ٹولیڈو میڈیکل سنٹر یونیورسٹی",
+      "description": "ٹولیڈو میڈیکل سنٹر یونیورسٹی طویل رینج کی طبی خدمات اور مہارتوں کا فراہمی کرتا ہے، آپاتی طب سے لے کر زہنی جسمانی بہتری کی خدمات تک۔ یہ مشتمل ہے تاکہ نارتھ ویسٹ اوہائیو کمیونٹی کو سب سے اعلی درجے کی صحت کی خدمات فراہم کر سکے۔ سنٹر مختلف خدمات فراہم کرتا ہے جیسے کہ مریضوں کی معلومات، زائرین کی معلومات، بلنگ اور انشورنس سپورٹ۔"
+    },
+    "hi-IN": {
+      "title": "टोलिडो विश्वविद्यालय चिकित्सा केंद्र",
+      "description": "टोलिडो विश्वविद्यालय का मेडिकल सेंटर एक विस्तृत श्रेणी की चिकित्सा सेवाएं और विशेषताएं प्रदान करता है, जैसे की आपातकालीन चिकित्सा से लेकर आर्थोपेडिक्स और पुनर्वास सेवाएं। यह उत्तर-पश्चिम ओहायो समुदाय को सर्वोच्च स्तर की स्वास्थ्य सेवा की पेशकश करने के लिए समर्पित है। केंद्र मरीज की जानकारी, विजिटर जानकारी, बिलिंग और बीमा समर्थन जैसी सेवाएं प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "টোলিডো বিশ্ববিদ্যালয়ের মেডিকেল সেন্টার",
+      "description": "টোলিডো বিশ্ববিদ্যালয়ের মেডিকেল সেন্টার বিস্তৃত ধরণের মেডিকেল সেবা এবং বিশেষজ্ঞতা সরবরাহ করে, যা ইমারজেন্সি মেডিসিন থেকে অর্থোপেডিক্স এবং পুনর্বাসন সেবাগুলির পর্যায়ে। এটি নর্থওয়েস্ট ওহায়ো সম্প্রদায়ের কাছে সর্বোচ্চ স্তরের স্বাস্থ্য সেবা প্রদানে উদ্বুদ্ধ। কেন্দ্রটি রোগী তথ্য, দর্শনার্থীর তথ্য, বিলিং এবং বীমা সমর্থন এর মত সেবা অফার করে।"
+    },
+    "mr-IN": {
+      "title": "टोलेडो विद्यापीठीय वैद्यकीय केंद्र",
+      "description": "टोलेडो विद्यापीठीय वैद्यकीय केंद्र म्हणजेच अपातकाळी वैद्यकीय सेवा, हाडंचे ट्रा आणि पुनर्वास सेवा सारख्या विस्तृत वैद्यकीय सेवा आणि तज्ज्ञतेची पुरवठा करते. हे केंद्र वायतीम ओहायो समुदायाला सर्वोच्च पातळीची आरोग्य सेवा पुरवण्याचे प्रतिज्ञ आहे. केंद्राने रुग्ण माहिती, अभियांत्रकी माहिती, बिलिंग आणि विमा समर्थन अशी सेवा पुरवते."
+    },
+    "ta-IN": {
+      "title": "டோலிடோ பல்கலைக்கழக மருத்துவ மையம்",
+      "description": "டோலிடோ பல்கலைக்கழக மருத்துவ மையம் அவசர மருத்துவம் முதல் ஆர்தோபெடிக்ஸ் மற்றும் புனர்நிலைப்பு சேவைகள் வரை பல விதமான மருத்துவ சேவைகள் மற்றும் சிறப்பான வழிகாட்டுகளைத் தருகின்றது. அது வட ஓஹயோ சமூகத்திற்கு மிகவும் உள்நிலையான சுகாதார நிலையை வழங்குவதில் உள்ளதாக திட்டப்பட்டுள்ளது. இந்த மையம் உண்மையாகவே பேஷெண்ட் தகவல், பார்வையாளர் தகவல், பில்லிங் மற்றும் காப்பீடு ஆதரவு போன்ற சேவைகளைத் தருகின்றது."
+    },
+    "te-IN": {
+      "title": "టోలేడో విశ్వవిద్యాలయ వైద్య కేంద్రం",
+      "description": "టోలేడో విశ్వవిద్యాలయానికి చెందిన వైద్య కేంద్రం అత్యధిక విధానాలలో మెడికల్ సేవలను అందిస్తుంది, అతికించిన ఔషధనిర్మాణ నుండి ఆర్థోపేడిక్స్ మరియు పునరుద్ధరణ సేవల వరకు. ఇది వాయువ్య ఓహైయొ సముదాయానికి అత్యుత్తమ స్వాస్థ్య సేవను అందించడానికి ప్రతిబద్ధత ఉంది. కేంద్రం, రోగి సమాచారం, సందర్శక సమాచారం, బిల్లింగ్ మరియు ఇన్షూరెన్స్ మద్దతు వంటి సేవలను అందిస్తుంది."
+    }
+  }
+}

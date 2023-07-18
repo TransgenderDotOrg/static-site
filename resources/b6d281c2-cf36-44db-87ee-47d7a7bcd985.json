@@ -1,0 +1,109 @@
+{
+  "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+  "slug": "center-for-gender-affirming-medicine",
+  "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": "Perkins Square, Akron, OH 44302, USA",
+  "phoneNumber": "330-543-8538",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Akron",
+  "county": "Summit County",
+  "latLng": [
+    41.0785934,
+    -81.526519
+  ],
+  "email": "webmaster@akronchildrens.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Center for Gender Affirming Medicine",
+      "description": "Akron Children's Hospital offers the Center for Gender Affirming Medicine under its Adolescent Medicine department. It caters to transgender and LGBTQ+ youth, providing a team of specialist physicians, social workers, psychologists, and an endocrinologist. The center offers medical and mental health support to create a gender-diverse environment where youth can explore their gender identity. Services provided include pubertal suppression, gender-affirming hormones, mental health care coordination, well checks/preventive visits and education/supportive care."
+    },
+    "es-ES": {
+      "title": "Centro de Medicina de Afirmación de Género",
+      "description": "El Hospital Infantil de Akron ofrece el Centro de Medicina de Afirmación de Género bajo su departamento de Medicina Adolescente. Este lugar se dirige a jóvenes transgénero y LGBTQ+, proporcionando un equipo de médicos especialistas, trabajadores sociales, psicólogos y un endocrinólogo. El centro ofrece apoyo médico y mental para crear un ambiente diverso en cuanto al género donde los jóvenes puedan explorar su identidad de género. Los servicios proporcionados incluyen la supresión de la pubertad, hormonas de afirmación de género, coordinación de atención de salud mental, chequeos / visitas preventivas y educación / cuidado de apoyo."
+    },
+    "pt-PT": {
+      "title": "Centro de Medicina de Afirmação de Gênero",
+      "description": "O Hospital Infantil de Akron oferece o Centro de Medicina de Afirmação de Gênero sob seu departamento de Medicina Adolescente. Ele atende à juventude transgênero e LGBTQ+, fornecendo uma equipe de médicos especialistas, assistentes sociais, psicólogos e um endocrinologista. O centro oferece apoio médico e de saúde mental para criar um ambiente diverso em gênero onde os jovens podem explorar sua identidade de gênero. Os serviços prestados incluem supressão da puberdade, hormônios de afirmação de gênero, coordenação de cuidados de saúde mental, check-ups/visitas preventivas e atendimento/assistência educacional."
+    },
+    "fr-FR": {
+      "title": "Centre pour la Médecine d'Affirmation de Genre",
+      "description": "L'Hôpital pour Enfants d'Akron offre le Centre pour la Médecine d'Affirmation de Genre sous son département de Médecine Adolescente. Il s'adresse aux jeunes transgenres et LGBTQ+, fournissant une équipe de médecins spécialistes, de travailleurs sociaux, de psychologues et d'un endocrinologue. Le centre offre un soutien médical et mental pour créer un environnement diversifié en matière de genre où les jeunes peuvent explorer leur identité de genre. Les services fournis comprennent la suppression pubertaire, les hormones d'affirmation du genre, la coordination des soins de santé mentale, les visites de contrôle/préventives et les soins/éducation de soutien."
+    },
+    "de-DE": {
+      "title": "Zentrum für geschlechtsbejahende Medizin",
+      "description": "Das Akron Children's Hospital bietet das Zentrum für geschlechtsbejahende Medizin unter seiner Abteilung für Jugendmedizin an. Es richtet sich an transsexuelle und LGBTQ+ Jugendliche und bietet ein Team von Spezialisten, Sozialarbeitern, Psychologen und einem Endokrinologen. Das Zentrum bietet medizinische und psychische Unterstützung, um eine geschlechtervielfältige Umgebung zu schaffen, in der Jugendliche ihre Geschlechtsidentität erkunden können. Die angebotenen Dienstleistungen umfassen die Unterdrückung der Pubertät, geschlechtsbejahende Hormone, Koordination der psychischen Gesundheitsversorgung, Vorsorgeuntersuchungen/präventive Besuche und Bildungs-/Unterstützungsversorgung."
+    },
+    "zh-CN": {
+      "title": "性别认同医学中心",
+      "description": "阿克伦儿童医院在其青少年医疗部门下设有性别认同医学中心。它为跨性别者和LGBTQ+青少年提供服务，拥有一支包括专科医生、社会工作者、心理学家和内分泌科医生在内的团队。该中心提供医疗和心理健康支持，创造一个性别多元化的环境，让青少年可以探索他们的性别认同。提供的服务包括青春期抑制、性别认同激素、心理健康护理协调、预防性健康检查和教育/支持护理。"
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Doğrulama Tıbbi Merkezi",
+      "description": "Akron Çocuk Hastanesi, Adolescent Medicine bölümü altında Cinsiyet Doğrulama Tıbbi Merkezi'ni sunar. Transgender ve LGBTQ+ gençlere yöneliktir, uzman doktorlar, sosyal hizmetler, psikologlar ve bir endokrinolog ekibi sağlar. Merkez, gençlerin cinsiyet kimliklerini keşfedebilecekleri cinsiyet çeşitliliği olan bir ortamda tıbbi ve mental sağlık desteği sunmaktadır. Sağlanan hizmetler arasında pubertal baskılanma, cinsiyeti doğrulayan hormonlar, mental sağlık bakım koordinasyonu, sağlığı koruma/önleyici ziyaretler ve eğitim/destekleyici bakım bulunmaktadır."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Tiba inayokubali Jinsia",
+      "description": "Hospitali ya Watoto ya Akron inatoa Kituo cha Tiba inayokubali Jinsia chini ya Idara yake ya Matibabu ya Vijana. Inashughulikia vijana wanaobadilisha jinsia na LGBTQ+, inatoa timu ya madaktari wa utaalamu, wafanyakazi wa kijamii, wanasaikolojia, na daktari wa magonjwa ya homoni. Kituo hicho kinatoa msaada wa kiafya na wa akili ili kuunda mazingira yenye utofauti wa jinsia ambapo vijana wanaweza kuchunguza utambulisho wao wa jinsia. Huduma zinazotolewa ni pamoja na kukandamiza ukuaji wa vijana, homoni zinazokubali jinsia, uratibu wa huduma ya afya ya akili, uangalizi wa afya/checki za kinga na huduma za elimu/msaada."
+    },
+    "id-ID": {
+      "title": "Pusat untuk Pengobatan yang Mengesahkan Jenis Kelamin",
+      "description": "Rumah Sakit Anak Akron menawarkan Pusat untuk Pengobatan yang Mengesahkan Jenis Kelamin di bawah departemen Medis Remaja. Ini melayani remaja transgender dan LGBTQ+, menyiapkan sebuah tim dokter spesialis, pekerja sosial, psikolog, dan seorang endokrinologi. Pusat ini menawarkan dukungan kesehatan fisik dan mental untuk menciptakan lingkungan yang beragam jenis kelamin di mana remaja dapat mengeksplorasi identitas jenis kelamin mereka. Layanan yang disediakan mencakup penekanan pubertas, hormon yang mengesahkan jenis kelamin, koordinasi perawatan kesehatan mental, pemeriksaan kesehatan/kunjungan pencegahan dan edukasi/perawatan pendukung."
+    },
+    "ko-KR": {
+      "title": "성 인증 의료 센터",
+      "description": "애크론 어린이 병원은 그 청소년 의료 부서 하의 성 인증 의료 센터를 제공합니다. 이는 전문 과의사, 사회 복지사, 심리학자, 내분비학자로 구성된 팀을 포함하여 트랜스젠더 및 LGBTQ+ 청소년을 위한 서비스를 제공합니다. 센터는 청소년이 성 정체성을 탐색할 수 있는 성 다양성 환경을 마련하기 위해 의학적 그리고 정신 건강 지원을 제공합니다. 제공되는 서비스에는 성장 저해, 성 인증 호르몬, 정신 건강 관리 조정, 건강 점검/예방 방문 및 교육 / 지원 관리가 포함됩니다."
+    },
+    "ja-JP": {
+      "title": "ジェンダー肯定医療センター",
+      "description": "アクロン子供病院は、青年医療部門の下にジェンダー肯定医療センターを提供しています。これはトランスジェンダーやLGBTQ+の若者を対象とし、専門医、ソーシャルワーカー、心理学者、内分泌科医のチームを提供しています。センターは、医療と心理的な支援を提供し、若者が自分のジェンダーアイデンティティを探求できる多様なジェンダー環境を創出します。提供されるサービスには、思春期の抑制、ジェンダー肯定ホルモン、メンタルヘルスケアの調整、健康診断/予防訪問、教育/支援ケアが含まれます。"
+    },
+    "uk-UA": {
+      "title": "Центр лікування, яке підтверджує гендерну приналежність",
+      "description": "Дитяча лікарня Акрон пропонує Центр лікування, яке підтверджує гендерну приналежність, відділення Адолесцентної медицини. Він призначений для підлітків трансгендерів і молоді ж ЛГБТК+. Надання команди спеціалістів-лікарів, соціальних робітників, психологів та ендокринолога. Центр пропонує медичну і психологічну підтримку для створення гендерно-різноманітного середовища, де молодь може досліджувати свою гендерну самосвідомість. Послуги включають пригнічення пубертату, гендерно підтверджуючі гормони, координацію психічного здоров'я, превентивні візити/контрольний огляд та освіту/допоміжний догляд."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Y tế Xác nhận Giới tính",
+      "description": "Bệnh viện Trẻ em Akron cung cấp Trung tâm Y tế Xác nhận Giới tính thuộc bộ phận Y học Thiếu niên của mình. Nơi này phục vụ cho giới trẻ chuyển giới và LGBTQ+, với một đội ngũ bác sĩ chuyên khoa, công tác xã hội, nhà tâm lý học, và một bác sĩ nội tiết. Trung tâm cung cấp hỗ trợ y tế và tâm lý để tạo ra một môi trường đa dạng về giới tính, nơi mà giới trẻ có thể khám phá giới tính của mình. Các dịch vụ cung cấp bao gồm sự chặn dừng quá trình dậy thì, hormone xác nhận giới tính, điều phối chăm sóc sức khỏe tâm lý, kiểm tra sức khỏe định kì/ khám phòng ngừa và giáo dục/chăm sóc hỗ trợ."
+    },
+    "ru-RU": {
+      "title": "Центр медицины, подтверждающей пол",
+      "description": "Детская больница Акрон предлагает Центр медицины, подтверждающей пол, в рамках своего отделения адолесцентной медицины. Она ориентирована на трансгендерных и молодежь ЛГБТК+, предоставляя команду специалистов-врачей, социальных работников, психологов и эндокринолога. Центр предлагает медицинскую и психологическую поддержку для создания гендерно-разнообразной среды, где молодежь может исследовать свою гендерную идентичность. Предоставляемые услуги включают подавление полового созревания, гормоны, подтверждающие пол, координацию психологического ухода, профилактические осмотры/визиты и образование/поддерживающий уход."
+    },
+    "ur-PK": {
+      "title": "جنسی توثیق کے لئے مرکز",
+      "description": "اکرون بچوں کے ہسپتال نے نوجوان طب کے محکمے کے تحت جنسی توثیق کے لئے مرکز کی پیشکش کی ہے۔ یہ ٹرانسجینڈر اور LGBTQ+ نوجوانوں کا خیال رکھتا ہے، اس میں خصوصی ماہر ڈاکٹروں، سماجی کارکنوں، ماہر نفسیات اور ایک انڈوکرائینولوگست کی ٹیم شامل ہے۔ مرکز طبی اور ذہنی صحت کی مدد فراہم کرتا ہے تاکہ جنس کے مختلف ماحول میں نوجوان اپنی جنسی شناخت کو دریافت کر سکیں۔ فراہم کی گئی خدمات میں پیوبرٹ سپریشن، جنسی توثیق ہارمونس، ذہنی صحت کی مراقبت، اچھی جانچ پڑتال/محافظتی دورے اور تعلیم/حمایتی دیکھ بھال شامل ہیں۔"
+    },
+    "ar-SA": {
+      "title": "مركز الرعاية الطبية المؤكدة للنوع الاجتماعي",
+      "description": "يقدم مستشفى أكرون للأطفال مركز الرعاية الطبية المؤكدة للنوع الاجتماعي ضمن قسمه للطب الباطني للمراهقين. إذ يقدم العناية للشباب المتحولين جنسيًا والمنتمين لمجتمع LGBTQ+، من خلال فريق يتألف من أطباء متخصصين وأخصائيين اجتماعيين وعلماء نفس، وأخصائي الغدد الصماء. يقدم المركز الدعم الطبي والنفسي لإنشاء بيئة تعدد الجنسيات حيث يمكن للشباب استكشاف هوية جنسهم. وتشمل الخدمات التي يقدمها المركز تثبيط البلوغ، والهرمونات المؤكدة للنوع الجنسي، وتنسيق الرعاية الصحية النفسية، والفحوصات الطبية الروتينية/ الزيارات الوقائية والتعليم/ الرعاية الداعمة."
+    },
+    "hi-IN": {
+      "title": "लिंग समर्थन चिकित्सा केंद्र",
+      "description": "अक्रोन चिल्ड्रन्स हॉस्पिटल अपने किशोर चिकित्सा विभाग के तहत लिंग समर्थन चिकित्सा केंद्र प्रदान करता है। यह ट्रांसजेंडर और एलजीबीटीक्यू+ युवाओं की खिड़की करता है, विशेषज्ञ चिकित्सकों, सामाजिक कार्यकर्ताओं, मनोवैज्ञानिकों और एक एंडोक्राइनोलॉजिस्ट की टीम प्रदान करता है। केंद्र में लिंग-विविध वातावरण बनाने के लिए चिकित्सीय और मानसिक स्वास्थ्य समर्थन प्रदान किया जाता है जहां युवा अपनी लिंग पहचान का अन्वेषण कर सकते हैं। यहां प्रदान की जाने वाली सेवाएं में पबर्टी निरोधन, लिंग-समर्थन हार्मोन, मानसिक स्वास्थ्य देखभाल समन्वय, अच्छी जांच /निवारक यात्राएं और शिक्षा/सहायतापूर्ण देखभाल शामिल है।"
+    },
+    "mr-IN": {
+      "title": "लिंग स्थापन मेडीसिन संकेतस्थळ",
+      "description": "अक्रॉन बालरूग्णालयाने त्याच्या किशोर वैद्यकीय विभागांतर्गत लिंग स्थापन मेडीसिन संकेतस्थळ उपलब्ध केले आहे. म्हणजेच, ते ट्रान्सजेंडर व एलजीबीटीक्यू+ युवा समुदायांना विशेषज्ञ वैद्यांची, सामाजिक कार्यकर्त्यांची, मानसशास्त्रज्ञांची तसेच एंडोक्रिनॉलॉजिस्टची टीम प्रदान करते. संकेतस्थळाने युवांना त्यांच्या लिंगपहचानाचा प्रकल्प तपासण्यासाठी लिंग-विविध पर्यावरण तयार करणासाठी वैद्यकीय आणि मानसिक आरोग्य समर्थन प्रदान केले आहे. व्यवस्थापनातील योजक व सहाय्यक देखभाल आणि शिक्षण, पुराने अडवणी, लिंग-स्थापन हॉर्मोन्स, मानसिक आरोग्य केअर समन्वय, नियमित तपासणी / निवारक भेटी यांसह मिळवावी असलेली सेवा आहेत."
+    },
+    "bn-BD": {
+      "title": "জেন্ডার অ্যাফার্মিং মেডিসিন কেন্দ্র",
+      "description": "অ্যাক্রন চিল্ড্রেন্স হাসপাতাল তার যৌবনাবস্থা চিকিৎসা বিভাগের অধীনে জেন্ডার অ্যাফার্মিং মেডিসিন কেন্দ্র অফার করে। এটি ট্রান্সজেন্ডার এবং এলজিবিটিকিউ+ যুবক-যুবতীদের সেবা করে, যেখানে বিশেষজ্ঞ চিকিৎসক, সামাজিক কর্মী, মনের ডাক্তার এবং এন্ডোক্রাইনোলজিস্টের একটি দল উপস্থিত আছে। কেন্দ্রটি যুবক-যুবতীদের জাতিস্মারক পরিচয় অন্বেষণ করার জন্য জেন্ডার-বৈচিত্র্যমন্ডিত পরিবেশ তৈরি করার জন্য চিকিৎসা এবং মানসিক স্বাস্থ্য সমর্থন অফার করে। প্রদত্ত সেবাগুলির মধ্যে ইউত্থানের দমন, জেন্ডার-অ্যাফার্মিং হরমোন, মানসিক স্বাস্থ্য যত্ন সমন্বয়, সুস্থতা পরীক্ষা/প্রতিরোধী ভিজিট এবং শিক্ষা/সহায়তা প্রদান অন্তর্ভুক্ত।"
+    },
+    "te-IN": {
+      "title": "లింగ అనుమతి వైద్యశాస్త్ర కేంద్రం",
+      "description": "అక్రాన్ చిల్డ్రెన్స్ హాస్పిటల్ అదినేత యువ వైద్యశాస్త్ర విభాగం క్రింద లింగ అనుమతి వైద్యశాస్త్రం కేంద్రాన్ని అందిస్తుంది. ఇది ట్రాన్స్జెండర్ మరియు LGBTQ+ యువతకు సముదాయానికి ప్రతిష్ఠ పరిశోధక వైద్యులు, సమాజ పనిమితులు, మానసిక వైద్యులు, మరియు ఎండోక్రైనాలాజిస్ట్ బృందాన్ని అందించుతుంది. ఈ కేంద్రం యువతకు వారి లింగ గుర్తింపును పరిశోధించే అవకాశం ఉన్న లింగ-వైవిధ్యమయ పరిసరంలో మెడికల్ మరియు మానసిక ఆరోగ్య మద్దతును అందిస్తుంది. అందుబాటులో ఉన్న సేవలు పబెర్టీ నిరోధం, లింగ-అనుమతి హోర్మోన్లు, మానసిక ఆరోగ్య సేవల సమన్వయం, భలె చెక్స్ / ప్రెవెంటివ్ సందర్శనలు మరియు విద్యా / మద్దతు పరిచర్య."
+    },
+    "ta-IN": {
+      "title": "பாலின் உறுதியை வலிமைப்படுத்தும் மையம்",
+      "description": "Akron குழந்தைகள் மருத்துவமனை சுழற்சி மருத்துவ துறைக்குக் கீழ் பாலின் உறுதியை வலிமைப்படுத்தும் மையத்தை வழங்குகிறது. இது மாற்றுப் பாலியாகியவர்கள் மற்றும் LGBTQ+ இளைஞர்களுக்கு சேவை செய்கின்றது, விவபாதத்துவ வாழ்க்கை மருத்துவர்கள், சமூக ஊழியர்கள், உளவியலாளர்கள் மற்றும் எண்டோகிரினியலர்களின் குழுவை வழங்குகிறது. இந்த மையம் மருத்துவம் மற்றும் மன நலன் ஆதரவை வழங்கி, பால் வசதியோடு இளைஞர்கள் தங்கள் பால் அடையாளத்தை ஆராயலாம் என்ற சூழலை உருவாக்குகிறது. வழங்கப்படும் சேவைகள் அடங்க வயதாரிப்பை தடுக்கும், பால் உறுதிப்படுத்தும் ஹார்மோன்கள், மன நல பணிகளின் ஒத்திவைப்பு, நலன்சண்டை /தடுத்தற் மேம்பாடுகள் மற்றும் கல்வி/ஆதரவு பராமரிப்பு."
+    }
+  }
+}

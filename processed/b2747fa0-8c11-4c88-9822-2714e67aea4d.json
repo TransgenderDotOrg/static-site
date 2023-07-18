@@ -1,0 +1,22 @@
+{
+  "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+  "title": "University of Toledo Medical Center",
+  "description": "The University of Toledo Medical Center provides a wide range of medical services and specialties, from emergency medicine to orthopaedics and rehabilitation services. It is committed to offering the highest level of healthcare to the northwest Ohio community. The center offers services like patient information, visitor information, billing and insurance support.",
+  "slug": "university-of-toledo-medical-center",
+  "externalUrl": "https://utmc.utoledo.edu/",
+  "tags": [
+    "healthcare"
+  ],
+  "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+  "phoneNumber": "419.383.4000",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Toledo",
+  "county": "Lucas County",
+  "latLng": [
+    41.6166904,
+    -83.61584409999999
+  ],
+  "email": null,
+  "socialMedia": null
+}

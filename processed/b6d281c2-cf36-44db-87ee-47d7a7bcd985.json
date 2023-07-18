@@ -1,0 +1,25 @@
+{
+  "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+  "title": "Center for Gender Affirming Medicine",
+  "description": "Akron Children's Hospital offers the Center for Gender Affirming Medicine under its Adolescent Medicine department. It caters to transgender and LGBTQ+ youth, providing a team of specialist physicians, social workers, psychologists, and an endocrinologist. The center offers medical and mental health support to create a gender-diverse environment where youth can explore their gender identity. Services provided include pubertal suppression, gender-affirming hormones, mental health care coordination, well checks/preventive visits and education/supportive care.",
+  "slug": "center-for-gender-affirming-medicine",
+  "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": "Perkins Square, Akron, OH 44302, USA",
+  "phoneNumber": "330-543-8538",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Akron",
+  "county": "Summit County",
+  "latLng": [
+    41.0785934,
+    -81.526519
+  ],
+  "email": "webmaster@akronchildrens.org",
+  "socialMedia": null
+}

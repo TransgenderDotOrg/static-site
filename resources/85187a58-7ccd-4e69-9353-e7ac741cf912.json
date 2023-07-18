@@ -1,0 +1,114 @@
+{
+  "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+  "slug": "transgender-legal-defense-education-fund",
+  "externalUrl": "https://transgenderlegal.org/",
+  "tags": [
+    "legal",
+    "education-awareness",
+    "healthcare"
+  ],
+  "address": "520 8th Ave #2204, New York, NY 10018, USA",
+  "phoneNumber": "646-862-9396",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.75363,
+    -73.99198779999999
+  ],
+  "email": "communications@transgenderlegal.org",
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/tldef",
+    "instagramUrl": "https://www.instagram.com/tldef/",
+    "facebookUrl": "https://www.facebook.com/tldef",
+    "googleMapsUrl": null
+  },
+  "town": "Manhattan",
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+      "description": "The TLDEF is committed to ending discrimination based upon gender identity and expression and to achieving equality for transgender people through public education, test-case litigation, direct legal services, and public policy efforts. They provide various services like name change project, impact litigation and trans health project. It also provides updates on related legal matters affecting the transgender community."
+    },
+    "fr-FR": {
+      "title": "Fonds de défense juridique et d'éducation pour les transgenres (TLDEF)",
+      "description": "Le TLDEF s'engage à mettre fin à la discrimination basée sur l'identité et l'expression de genre et à réaliser l'égalité pour les personnes transgenres grâce à l'éducation publique, les procès-test, les services juridiques directs et les efforts de politique publique. Ils fournissent divers services comme le projet de changement de nom, les litiges d'impact et le projet de santé trans. Il fournit également des mises à jour sur les questions juridiques connexes affectant la communauté transgenre."
+    },
+    "id-ID": {
+      "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+      "description": "TLDEF berkomitmen untuk mengakhiri diskriminasi berdasarkan identitas dan ekspresi gender dan mencapai kesetaraan bagi orang transgender melalui pendidikan publik, litigasi kasus uji, layanan hukum langsung, dan upaya kebijakan publik. Mereka menyediakan berbagai layanan seperti proyek perubahan nama, litigasi dampak dan proyek kesehatan trans. Ini juga menyediakan pembaruan tentang masalah hukum terkait yang mempengaruhi komunitas transgender."
+    },
+    "es-ES": {
+      "title": "Fondo de Defensa Legal y Educación Transgénero (TLDEF)",
+      "description": "El TLDEF se dedica a terminar con la discriminación basada en la identidad y la expresión de género y a lograr la igualdad para las personas transgénero a través de la educación pública, la litigación de casos de prueba, los servicios legales directos y los esfuerzos de política pública. Ofrecen varios servicios como el proyecto de cambio de nombre, litigación de impacto y proyecto de salud trans. También proporciona actualizaciones sobre asuntos legales relacionados que afectan a la comunidad transgénero."
+    },
+    "zh-CN": {
+      "title": "跨性别法律防卫与教育基金（TLDEF）",
+      "description": "TLDEF致力于结束基于性别认同和表达的歧视，并通过公共教育，测试案例诉讼，直接法律服务和公共政策努力，实现跨性别人士的平等。他们提供各种服务，如更改姓名项目，影响诉讼和跨性别健康项目。它还提供影响跨性别社区的相关法律事务的更新。"
+    },
+    "de-DE": {
+      "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+      "description": "Die TLDEF setzt sich für das Ende der Diskriminierung aufgrund von Geschlechtsidentität und Ausdruck ein und strebt die Gleichberechtigung für Transgender-Personen durch öffentliche Bildung, Testfallklagen, direkte Rechtsdienstleistungen und öffentliche politische Bemühungen an. Sie bieten verschiedene Dienstleistungen an, wie das Änderungsprojekt für Namen, Wirkungsklagen und das Projekt für Trans-Gesundheit. Außerdem werden Updates zu rechtlichen Fragen bereitgestellt, die die Transgender-Gemeinschaft betreffen."
+    },
+    "pt-PT": {
+      "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+      "description": "O TLDEF está comprometido em acabar com a discriminação com base na identidade e expressão de gênero e em alcançar a igualdade para pessoas transgênero através da educação pública, litígio de casos de teste, serviços jurídicos diretos e esforços de política pública. Eles fornecem vários serviços como projeto de mudança de nome, litígio de impacto e projeto de saúde trans. Também fornece atualizações sobre assuntos jurídicos relacionados que afetam a comunidade transgênero."
+    },
+    "tr-TR": {
+      "title": "Transgender Hukuk Savunma ve Eğitim Fonu (TLDEF)",
+      "description": "TLDEF, cinsiyet kimliği ve ifadesine dayalı ayrımcılığı sona erdirmeye ve kamusal eğitim, test-dava davaları, doğrudan hukuki hizmetler ve kamu politikası çabaları aracılığıyla trans bireyler için eşitliği sağlamaya adanmıştır. İsim değişikliği projesi, etki davacılığı ve trans sağlık projesi gibi çeşitli hizmetler sağlar. Ayrıca, trans topluluğunu etkileyen ilgili hukuk meselelerindeki güncellemeleri sağlar."
+    },
+    "sw-KE": {
+      "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+      "description": "TLDEF imejitolea kumaliza ubaguzi unaotegemea utambulisho wa jinsia na maonyesho na kupata usawa kwa watu wa jinsia tofauti kupitia elimu ya umma, kesi za majaribio, huduma za kisheria moja kwa moja, na juhudi za sera ya umma. Wanatoa huduma mbalimbali kama mradi wa kubadilisha jina, kesi za athari na mradi wa afya ya trans. Pia inatoa sasisho kuhusu masuala ya kisheria yanayoathiri jumuiya ya watu walio na jinsia tofauti."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 법률 방어 & 교육 기금 (TLDEF)",
+      "description": "TLDEF는 성 정체성 및 표현에 대한 차별을 종료하고 공공 교육, 테스트 케이스 소송, 직접적인 법률 서비스, 그리고 공공 정책 노력을 통해 트랜스젠더 인들에게 동등성을 달성하려는 데 헌신하고 있습니다. 그들은 이름 변경 프로젝트, 영향 소송 및 트랜스 건강 프로젝트와 같은 다양한 서비스를 제공합니다. 또한 트랜스젠더 커뮤니티에 영향을 미치는 관련 법적 사항에 대한 업데이트도 제공합니다."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダー法律防衛＆教育基金（TLDEF）",
+      "description": "TLDEFは、ジェンダーアイデンティティと表現に基づく差別の終結に取り組み、公共の教育、テストケース訴訟、直接の法的サービス、および公共政策の努力を通じてトランスジェンダーの人々の平等を達成することを目指しています。彼らは名前変更プロジェクト、インパクト訴訟、トランスヘルスプロジェクトなどの様々なサービスを提供しています。また、トランスジェンダーコミュニティに影響を与える関連法律問題の最新情報も提供しています。"
+    },
+    "ar-SA": {
+      "title": "صندوق الدفاع القانوني والتعليم للمتحولين جنسيًا (TLDEF)",
+      "description": "يعمل TLDEF على إنهاء التمييز بناءً على هوية الجنس والتعبير عنه وتحقيق المساواة للأشخاص المتحولين جنسياً من خلال التوعية العامة، والدعاوى القضائية الاختبارية، والخدمات القانونية المباشرة، والجهود السياسة العامة. يقدمون خدمات متنوعة مثل مشروع تغيير الاسم، والدعاوى القضائية ذات الأثر، ومشروع الصحة trans. كما أنه يوفر تحديثات حول القضايا القانونية ذات الصلة التي تؤثر على المجتمع المتحول جنسيًا."
+    },
+    "vi-VN": {
+      "title": "Quỹ Pháp lý & Giáo dục Transgender (TLDEF)",
+      "description": "TLDEF cam kết chấm dứt sự phân biệt đối xử dựa trên danh tính và biểu hiện giới tính và đạt được sự bình đẳng cho người chuyển giới thông qua giáo dục cộng đồng, kiện tụng vụ án thử nghiệm, dịch vụ pháp lý trực tiếp và nỗ lực chính sách công cộng. Họ cung cấp các dịch vụ như dự án thay đổi tên, kiện tụng tác động và dự án sức khỏe chuyển giới. Nó cũng cung cấp các cập nhật về các vấn đề pháp lý liên quan đang ảnh hưởng đến cộng đồng người chuyển giới."
+    },
+    "ru-RU": {
+      "title": "Фонд правовой защиты и образования трансгендеров (TLDEF)",
+      "description": "TLDEF посвящен борьбе с дискриминацией на основе гендерной идентичности и выражения и достижению равенства для трансгендерных людей через общественное образование, судебные иски-тесты, прямые юридические услуги и усилия, направленные на влияние на общественную политику. Они предоставляют различные услуги, такие как проект смены имени, влиятельные судебные процессы и проект здоровья трансгендеров. Он также предоставляет обновления по связанным правовым вопросам, затрагивающим трансгендерное сообщество."
+    },
+    "uk-UA": {
+      "title": "Фонд правової оборони та освіти трансгендерів (TLDEF)",
+      "description": "TLDEF прагне припинити дискримінацію засновану на гендерній ідентичності і виразі та досягти рівності для трансгендерних людей через громадську освіту, судовий аналіз конкретних випадків, прямі юридичні послуги та зусилля у сфері громадської політики. Вони надають різні послуги, такі як зміна проекту імені, вплив на судову практику та проект здоров'я трансгендерних осіб. Він також надає оновлення про відповідні юридичні питання, що впливають на трансгендерну спільноту."
+    },
+    "ur-PK": {
+      "title": "ٹرانسجنڈر قانونی دفاع و تعلیمی فنڈ (TLDEF)",
+      "description": "TLDEF جنسی شناخت اور اظہار کی بنیاد پر تبصرہ ختم کرنے کے لئے قائم ہوا ہے اور ٹرانسجنڈر لوگوں کے لئے برابری حاصل کرنے کی کوشش میں ہے، عوامی تعلیم، ٹیسٹ-کیس لٹیگیشن، براہ راست قانونی خدمات، اور عوامی پالیسی کی کوششوں کے ذریعہ۔ وہ مختلف خدمات فراہم کرتے ہیں جیسے نام تبدیلی پراجیکٹ، اثر لٹیگیشن اور ٹرانس صحت پراجیکٹ۔ اس کے علاوہ یہ ٹرانسجنڈر کمیونٹی کو متاثر کرنے والے قانونی معاملات پر تازہ ترین تفصیلات بھی فراہم کرتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "मैत्रणून्याचे कायद्यावर्षीय संरक्षण आणि शिक्षण निधी (टीएलडीईएफ)",
+      "description": "टीएलडीईएफचे प्रतिबद्धत्व लिंगपहचान आणि अभिव्यक्तीवर आधारित भेदभाव समाप्त करण्याच्या दिशेने आहे आणि सार्वजनिक शिक्षण, परिक्षण विचारणी, प्रत्यक्ष कायद्यावर्षीय सेवा, आणि सार्वजनिक धोरण प्रयत्नांमार्फत मैत्रणियांसाठी समानता प्राप्त करण्याच्या दिशेने आहे.त्यांनी वेगवेगळ्या सेवा दिली आहेत जसाकी नाव बदल प्रकल्प, प्रभावी विचारणी आणि मैत्रणी आरोग्य प्रकल्प. त्याचबरोबर मैत्रणी समुदायावर परिणाम करणारी कायद्यावर्षीय मुद्दे संबंधित अद्यतने देण्यासाठीही त्यांनी सेवा दिली आहे."
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर कानूनी रक्षा और शिक्षा कोष (TLDEF)",
+      "description": "टीएलडीईएफ लिंग पहचान और अभिव्यक्ति के आधार पर भेदभाव समाप्त करने के लिए प्रतिबद्ध है और सार्वजनिक शिक्षा, परीक्षण-मामला मुकदमेबाजी, प्रत्यक्ष कानूनी सेवाएं, और सार्वजनिक नीति प्रयासों के माध्यम से ट्रांसजेंडर लोगों के लिए समानता प्राप्त करने के लिए। वे विभिन्न सेवाएं प्रदान करते हैं जैसे नाम परिवर्तन प्रोजेक्ट, प्रभाव मुकदमा और ट्रांस स्वास्थ्य प्रोजेक्ट। इसके अलावा यह ट्रांसजेंडर समुदाय को प्रभावित करने वाले संबंधित कानूनी मामलों पर अपडेट भी प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার লিগ্যাল ডিফেন্স এন্ড এডুকেশন ফান্ড (TLDEF)",
+      "description": "TLDEF লিঙ্গ পরিচয় ও প্রকাশ উপর ভিত্তি করে বিভেদভাবনা শেষ করতে ও ট্রান্সজেন্ডার মানুষের জন্য সমানতা প্রাপ্তির লক্ষ্যে কর্মঠ। তারা পাবলিক এডুকেশন, টেস্ট-কেস মামলার শৃঙ্খলা, সরাসরি আইনী সেবা এবং পাবলিক পলিসি প্রচেষ্টা মাধ্যমে এটি চেষ্টা করে। তারা বিভিন্ন সেবা প্রদান করে যেমন নাম পরিবর্তন প্রকল্প, ইম্প্যাক্ট মামলার শৃঙ্খলা এবং ট্রান্স হেলথ প্রকল্প। এটি ট্রান্সজেন্ডার সম্প্রদায়ের সাথে সম্পর্কিত আইনী বিষয়বস্তুগুলির সম্পর্কে আপডেট দেয়।"
+    },
+    "te-IN": {
+      "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+      "description": "టీఎల్‌డిఇఎఫ్ ఆలోచనా మరియు వ్యక్తిగత గురించిన ఆధారపై విభజన అనగా పూర్తిగా ముగియాలని, ట్రాన్స్జెండర్ ప్రజల సమానత్వానికి బాధ్యతను పొందేలా జన అవగాహన, టెస్ట్-కేసు ముక్దాంతు, ప్రత్యక్ష చట్టపరిపాలన సేవలు, మరియు ప్రభుత్వ విధానశాస్త్ర ప్రయత్నాలను సమష్టి కొద్ది సేవలను అందిస్తాయి, అలాంటివి పేరు మార్చి ప్రోజెక్ట్, ప్రభావ విచారణ మరియు ట్రాన్స్ ఆరోగ్య ప్రోజెక్ట్. ఇది ట్రాన్స్జెండర్ సముదాయానికి ప్రభావ కలిగిన సంబంధిత చట్టరీత్య విషయాల అప్‌డేట్లను కూడా అందిస్తుంది."
+    },
+    "ta-IN": {
+      "title": "மாறுபாலினர் சட்ட வாரிசு & கல்விப் பணி (TLDEF)",
+      "description": "TLDEF பாலில் அடையாளம் மற்றும் வெளிப்பாடுகளின் அடிப்படையில் இருந்து சாதிப்பரிதாபத்தை முடிக்க உழைக்கின்றது மேலும் அறிவு வளர்ச்சியின் மூலம், பிரச்சினை வழக்கு நீதியாணை, நேரடிய சட்ட சேவைகள், மற்றும் பொது கொள்கை முயற்சிகளின் மூலம் மாறுபாலி மக்களுக்கு சமம் பெறுவதை நோக்கி உழைப்பு. அவர்கள் பெயர் மாற்ற திட்டம், விளைவு மற்றும் மாறுபாலினர் சுகாதார திட்டம் போன்ற பல்வேறு சேவைகளை வழங்குகின்றனர். இது மாறுபாலி சமுதாயத்திற்கு தொடர்பான சட்ட சம்பந்தமான விஷயங்களின் மேல் புதுப்பிப்புகளையும் வழங்குகின்றது."
+    }
+  }
+}

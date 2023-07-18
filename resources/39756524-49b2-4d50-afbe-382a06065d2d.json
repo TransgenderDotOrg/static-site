@@ -1,0 +1,109 @@
+{
+  "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+  "slug": "colors-plus-youth-center",
+  "externalUrl": "https://www.colorsplus.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "mental-health",
+    "education-awareness"
+  ],
+  "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Fairview Park",
+  "county": "Cuyahoga County",
+  "latLng": [
+    41.4442751,
+    -81.8579082
+  ],
+  "email": "info@colorsplus.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Colors+ Youth Center",
+      "description": "Colors+ strengthens the LGBTQ+ youth and allies by promoting individual and community wellness. Provides programs for LGBTQ+ youth and allies such as individual, couples, and family counseling services."
+    },
+    "fr-FR": {
+      "title": "Centre de jeunesse Colors+",
+      "description": "Colors+ renforce la jeunesse LGBTQ+ et les alliés en promouvant le bien-être individuel et communautaire. Fournit des programmes pour les jeunes LGBTQ+ et leurs alliés tels que des services de conseil individuel, en couple et familial."
+    },
+    "es-ES": {
+      "title": "Centro Juvenil Colors+",
+      "description": "Colors+ fortalece a la juventud LGBTQ+ y a sus aliados promoviendo el bienestar individual y comunitario. Proporciona programas para la juventud LGBTQ+ y aliados como servicios de asesoramiento individual, de pareja y familiar."
+    },
+    "de-DE": {
+      "title": "Colors+ Jugendzentrum",
+      "description": "Colors+ stärkt die LGBTQ+ Jugend und Verbündete durch die Förderung von individueller und gemeinschaftlicher Gesundheit. Bietet Programme für LGBTQ+ Jugendliche und Verbündete, wie Einzel-, Paar- und Familienberatungsdienste an."
+    },
+    "pt-PT": {
+      "title": "Centro Juvenil Colors+",
+      "description": "Colors+ fortalece a juventude LGBTQ+ e aliados promovendo o bem-estar individual e da comunidade. Fornece programas para jovens LGBTQ+ e aliados, como serviços de aconselhamento individual, para casais e famílias."
+    },
+    "id-ID": {
+      "title": "Colors+ Pusat Pemuda",
+      "description": "Colors+ memperkuat pemuda LGBTQ+ dan sekutunya dengan mempromosikan kesejahteraan individu dan komunitas. Menyediakan program untuk pemuda LGBTQ+ dan sekutu seperti layanan konseling individu, pasangan, dan keluarga."
+    },
+    "tr-TR": {
+      "title": "Colors+ Gençlik Merkezi",
+      "description": "Colors+ bireysel ve topluluk sağlığını teşvik ederek LGBTQ+ gençleri ve müttefikleri güçlendirir. Bireysel, çift ve aile danışmanlık hizmetleri gibi LGBTQ+ gençler ve müttefikler için programlar sunar."
+    },
+    "sw-KE": {
+      "title": "Kituo cha Vijana wa Colors+",
+      "description": "Colors+ inaimarisha vijana wa LGBTQ+ na washirika kwa kukuza ustawi wa mtu binafsi na jamii. Inatoa mipango kwa vijana wa LGBTQ+ na washirika kama huduma za ushauri wa mtu binafsi, wapenzi, na familia."
+    },
+    "zh-CN": {
+      "title": "Colors+ 青少年中心",
+      "description": "Colors+ 通过提倡个人与社区健康来加强LGBTQ+青少年和盟友的力量。为LGBTQ+青少年和盟友提供诸如个人、伴侣和家庭咨询服务的项目。"
+    },
+    "uk-UA": {
+      "title": "Юнацький центр Colors+",
+      "description": "Colors+ зміцнює LGBTQ+ молодь та союзників, сприяючи індивідуальному та загальному здоров'ю. Надає програми для LGBTQ+ молоді та союзників, такі як послуги індивідуального, парного та сімейного консультування."
+    },
+    "ko-KR": {
+      "title": "Colors+ 청소년 센터",
+      "description": "Colors+는 개인 및 커뮤니티의 건강을 증진함으로써 LGBTQ+ 청소년 및 동맹을 강화합니다. 개인, 커플, 가족 상담 서비스와 같은 LGBTQ+ 청소년 및 동맹을 위한 프로그램을 제공합니다."
+    },
+    "ru-RU": {
+      "title": "Центр молодежи Colors+",
+      "description": "Colors+ укрепляет молодежь LGBTQ+ и их союзников, способствуя индивидуальному и общественному благополучию. Предлагает программы для молодежи LGBTQ+ и их союзников, такие как услуги индивидуальной, парной и семейной консультации."
+    },
+    "vi-VN": {
+      "title": "Trung Tâm Thanh Niên Colors+",
+      "description": "Colors+ tăng cường sức mạnh cho thanh niên LGBTQ+ và đồng minh bằng cách thúc đẩy sức khỏe cá nhân và cộng đồng. Cung cấp các chương trình cho thanh niên LGBTQ+ và đồng minh như dịch vụ tư vấn cá nhân, tư vấn cho cặp đôi và gia đình."
+    },
+    "ar-SA": {
+      "title": "مركز Colors+ للشباب",
+      "description": "يعزز مركز Colors+ للشباب من الـ LGBTQ+ والحلفاء من خلال تعزيز العافية الفردية والمجتمعية. يقدم برامج للشباب LGBTQ+ والحلفاء مثل خدمات الإرشاد الفردي والأزواج والأسر."
+    },
+    "ja-JP": {
+      "title": "カラーズ+ユースセンター",
+      "description": "カラーズ+は、個々の健康とコミュニティの健康を促進することで、LGBTQ+の若者とその支援者を強化します。個人、カップル、家族カウンセリングサービスなど、LGBTQ+の若者とその支援者のためのプログラムを提供します。"
+    },
+    "hi-IN": {
+      "title": "Colors+ युवा केंद्र",
+      "description": "Colors+ LGBTQ+ युवा और सहयोगियों को मजबूत करता है और व्यक्तिगत और सामुदायिक स्वास्थ्य को बढ़ावा देता है। LGBTQ+ युवा और सहयोगियों के लिए कार्यक्रम प्रदान करता है जैसे कि व्यक्तिगत, जोड़ों, और परिवार की परामर्श सेवाएं।"
+    },
+    "mr-IN": {
+      "title": "Colors+ तरुण संकुल",
+      "description": "Colors+ व्यक्तिगत आणि समुदाय स्वास्थ्याची वाढ करणारे LGBTQ+ तरुण आणि मित्रांना मजबूत करते. LGBTQ+ तरुणांना आणि मित्रांना व्यक्तिगत, दम्पती आणि कुटुंबीय सल्लागार सेवांसाठी कार्यक्रमे पुरवते."
+    },
+    "ur-PK": {
+      "title": "کلرز+ یوتھ سنٹر",
+      "description": "کلرز+ LGBTQ+ نوجوانوں اور متحدوں کو مضبوط کرتا ہے علاوہ ازیں فردی اور کمیونٹی صحت کو فروغ دیتا ہے۔ LGBTQ+ نوجوانوں اور اتحادیوں کے لئے پروگرام فراہم کرتا ہے جیسے فردی، جوڑوں اور خاندانی کانسلنگ خدمات۔"
+    },
+    "bn-BD": {
+      "title": "Colors+ ইয়ুথ সেন্টার",
+      "description": "Colors+ ব্যক্তিগত এবং সম্প্রদায়ের স্বাস্থ্য বাড়ানোর মাধ্যমে LGBTQ+ যুব ও সহযোগীদের শক্তিশালী করে। LGBTQ+ যুব এবং সহযোগীদের জন্য ব্যক্তিগত, জোড়া এবং পরিবারিক পরামর্শ পরিষেবাগুলি হিসাবে কর্মসূচী প্রদান করে।"
+    },
+    "ta-IN": {
+      "title": "Colors+ இளைஞர் மையம்",
+      "description": "Colors+ LGBTQ+ இளைஞர்கள் மற்றும் செயல்பாட்டுக்குரிய மக்களை பலப்படுத்தி, தனிப்பட்ட, குடும்ப, மற்றும் குடும்ப ஆலோசனை சேவைகள் உள்ளிட்ட பயிற்சிகளை வழங்குகின்றது. தனிநபர் மற்றும் சமூக நலத்தை மேம்படுத்தவும் முன்னேற்றமாக உதவுகின்றது."
+    },
+    "te-IN": {
+      "title": "Colors+ యూత్ సెంటర్",
+      "description": "Colors+ లకుబో గాయపడిన యువత మరియు మిత్రులను బలపరుచుతుంది. వ్యక్తిగత మరియు సముదాయ భలపై ఆధారపడి ప్రోత్సహిస్తుంది. LGBTQ+ యువత మరియు మిత్రుల కోసం కార్యక్రమాలను అందిస్తుంది, వ్యక్తిగత, జంటలు, మరియు కుటుంబ కౌన్సెలింగ్ సేవలు మొదలైనవి."
+    }
+  }
+}

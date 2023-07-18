@@ -554,6 +554,31 @@
     "description": "Місія Фонду Джима Коллінса (JCF) - надання фінансової допомоги трансгендерним людям для проведення операцій з підтвердження статі. Цей фонд пропонує два варіанти грантів; Грант засновників, який покриває 100% витрат на операцію та Кризалісс Енн Хембрау Легасі Фанд, який покриває 50% витрат на операцію. Фонд прагне забезпечити доступ до цих життєвих операцій для тих, хто цього бажає, але через поширену дискримінацію трансгендерів, такі витрати зазвичай неможливо забезпечити."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Юнацький центр Colors+",
+    "description": "Colors+ зміцнює LGBTQ+ молодь та союзників, сприяючи індивідуальному та загальному здоров'ю. Надає програми для LGBTQ+ молоді та союзників, такі як послуги індивідуального, парного та сімейного консультування."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS надає культурно релевантний психологічний лікування, втручання спільноти та навчання службам, щоб допомогти людям зцілити рани від тортур та травми біженців. Вони прагнуть створити безпечне та підтримуюче середовище для різноманітних сексуальностей, гендерів та тіл, включаючи біженців та шукачів притулку."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "Фонд правової оборони та освіти трансгендерів (TLDEF)",
+    "description": "TLDEF прагне припинити дискримінацію засновану на гендерній ідентичності і виразі та досягти рівності для трансгендерних людей через громадську освіту, судовий аналіз конкретних випадків, прямі юридичні послуги та зусилля у сфері громадської політики. Вони надають різні послуги, такі як зміна проекту імені, вплив на судову практику та проект здоров'я трансгендерних осіб. Він також надає оновлення про відповідні юридичні питання, що впливають на трансгендерну спільноту."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International - це глобальна група підтримки для трансгендерної спільноти, яка надає онлайн-журнал, нічні клуби, заходи та платформу для покупок. Вона посилює голос усіх людей з різноманітним гендером та транс-людей, надаючи допомогу, поради, особисті історії та особливості."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "Інститут Азалія: Центр консультацій та оздоровлення",
+    "description": "Інститут Азалія надає послуги з охорони психічного здоров'я та оздоровлення, спеціалізуючись на лікуванні різноманітних проблем, включаючи складний травматичний стрес, ПТСР, депресію, тривогу та багато іншого. Інститут надає такі послуги, як індивідуальне, сімейне та групове консультування, а також навчання, консультації та можливості для професійного розвитку для клініцистів."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "Група підтримки на рівні товаришів для батьків, братів, сестер, широкого семейного кола і друзів людини транс та гендерно різноманітних особистостей. Вона пропонує ресурси, заходи, та платформу для спільноти історій. Вона також пропонує книгу Transfamily, яка надає корисну інформацію та внески про спільноту трансгендерів."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Медичний центр Університету Толедо",
+    "description": "Медичний центр Університету Толедо надає широкий спектр медичних послуг і спеціальностей, від екстреної медицини до ортопедії та реабілітаційних послуг. Він прагне надавати послуги найвищого рівня для спільноти північно-західного Огайо. Центр надає такі послуги, як інформація для пацієнтів, інформація для відвідувачів, підтримка з питань розрахунку та страхування."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons пропонує якісні послуги контролю та звільнення голосу для трансгендерних та небінарних осіб, які прагнуть звучати більш чоловічим, жіночим або андрогіним."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "Центр лікування, яке підтверджує гендерну приналежність",
+    "description": "Дитяча лікарня Акрон пропонує Центр лікування, яке підтверджує гендерну приналежність, відділення Адолесцентної медицини. Він призначений для підлітків трансгендерів і молоді ж ЛГБТК+. Надання команди спеціалістів-лікарів, соціальних робітників, психологів та ендокринолога. Центр пропонує медичну і психологічну підтримку для створення гендерно-різноманітного середовища, де молодь може досліджувати свою гендерну самосвідомість. Послуги включають пригнічення пубертату, гендерно підтверджуючі гормони, координацію психічного здоров'я, превентивні візити/контрольний огляд та освіту/допоміжний догляд."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "Повний посібник, який пропонує інформацію про трансмаскулінну фертильність, вагітність, постпартум, лактацію та батьківство. Ресурс включає постачальників медичних послуг, які підтримують трансідентичність, досліджені ЧАП, різні ресурси та багато іншого для освіти та підтримки трансмаскуліних осіб у їхньому батьківському шляху."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "ТРАНСГЕНДЕР МІЧИГАН",
+    "description": "Основне завдання Transgender Michigan полягає в наданні підтримки, захисту та освіти, а також створенні коаліцій у штаті Мічиган для об'єднання та зміцнення трансгендерних та гендерно-неконформних співтовариств."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "Плановане Батьківство надає життєво важливу репродуктивну та сексуальну освіту та інформацію мільйонам людей по всьому світу. Послуги включають аборт, контроль над народженням, тестування та лікування СНІДу, трансгендерну гормональну терапію та багато іншого. Доступні онлайн та телемедичні прийоми."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "Табір Лілак",
+    "description": "Табір Лілак - це літній табір в штаті Огайо, який забезпечує безпечне, гостинне та конфіденційне середовище для трансгендерної та гендерно різноманітної молоді. У таборі створюється середовище, де гендерна різноманітність є нормою, а програма розроблена з метою вбудовування впевненості у відвідувачів, а також забезпечення сильної спільноти однолітків та підтримки."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "Транссексуальні Сім'ї",
     "description": "Транссексуальні Сім'ї надихають на надію, підвищують розуміння та створюють видимий шлях до підтримки транссексуальних та гендерно різноманітних дітей, а також всіх тих, хто входить в їхнє життя. Ми надаємо ресурси, організовуємо заходи та з'єднуємо сім'ї з групами підтримки."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Посібник до того, як бути союзником трансгендерних та небінарних молодих людей",
+    "description": "Вступний навчальний ресурс, який надає всеосяжну інформацію та кращі методи щодо підтримки трансгендерних та небінарних молодих людей. Довідник має важливе значення у розпочатку вашої освіти стосовно основ ідентичності та вираження гендеру."
   }
 ]

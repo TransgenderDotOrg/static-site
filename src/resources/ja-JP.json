@@ -554,6 +554,31 @@
     "description": "ジム・コリンズ基金（JCF）の使命は、トランスジェンダーの人々に性別確認の手術に対する経済的援助を提供することです。この基金は二つの助成金オプションを提供しています。創設者助成金は手術費用の100％をカバーし、クリサリス・アン・ヘンブロウ・レガシーファンドは手術費用の50％をカバーします。この基金は、そのような手術を希望する者全てに利用可能性を提供することを目指しています。しかし、トランスジェンダーに対する広範囲な差別が原因で、そのような費用を滞なく支払うことは通常不可能です。"
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "カラーズ+ユースセンター",
+    "description": "カラーズ+は、個々の健康とコミュニティの健康を促進することで、LGBTQ+の若者とその支援者を強化します。個人、カップル、家族カウンセリングサービスなど、LGBTQ+の若者とその支援者のためのプログラムを提供します。"
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTSは、文化に関連した心理治療、コミュニティ介入、トーチャーと難民トラウマの傷から回復するのを助けるサービスへのトレーニングを提供します。彼らの目指すところは、性的少数者や性別、体の多様性を含む難民や亡命求める人々に対する安全で支援的な環境を創造することです。"
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "トランスジェンダー法律防衛＆教育基金（TLDEF）",
+    "description": "TLDEFは、ジェンダーアイデンティティと表現に基づく差別の終結に取り組み、公共の教育、テストケース訴訟、直接の法的サービス、および公共政策の努力を通じてトランスジェンダーの人々の平等を達成することを目指しています。彼らは名前変更プロジェクト、インパクト訴訟、トランスヘルスプロジェクトなどの様々なサービスを提供しています。また、トランスジェンダーコミュニティに影響を与える関連法律問題の最新情報も提供しています。"
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving Internationalは、オンラインマガジン、クラブの夜、イベント、およびショッピングプラットフォームを提供するトランスジェンダーコミュニティのためのグローバルサポートグループです。 全てのジェンダーダイバーシティとトランスジェンダーの人々の声を増幅するために、助け、アドバイス、個人の話、特集を提供しています。"
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "ツツジ研究所: カウンセリング＆ウェルネスセンター",
+    "description": "ツツジ研究所は、複雑なトラウマ、PTSD、うつ病、不安など幅広い悩みを対象とした精神保健およびウェルネスのサービスを提供しています。研究所では、個々のカウンセリング、家族カウンセリング、グループカウンセリングをはじめ、訓練、相談、臨床家向けの専門的なスキルアップの機会も提供しています。"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "トランスとジェンダーダイバーシティな人々の親、兄弟、親戚、友人向けのピアサポートグループ。リソース、イベント、コミュニティストーリーのプラットフォームを提供します。また、トランスジェンダーコミュニティについての有用な情報と洞察を提供するTransfamilyの本も提供しています。"
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "トレド大学医療センター",
+    "description": "トレド大学医療センターは、救急医療から整形外科、リハビリテーションサービスまで、幅広い医療サービスと専門分野を提供しています。それは、北西オハイオコミュニティに最高レベルのヘルスケアを提供することに専念しています。センターは、患者情報、訪問者情報、請求と保険サポートのようなサービスを提供します。"
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessonsは、より男性的、女性的、または中性的な音声を目指すトランスジェンダーや非バイナリーの個人向けに、質の高い声のコントロールと解放サービスを提供します。"
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "ジェンダー肯定医療センター",
+    "description": "アクロン子供病院は、青年医療部門の下にジェンダー肯定医療センターを提供しています。これはトランスジェンダーやLGBTQ+の若者を対象とし、専門医、ソーシャルワーカー、心理学者、内分泌科医のチームを提供しています。センターは、医療と心理的な支援を提供し、若者が自分のジェンダーアイデンティティを探求できる多様なジェンダー環境を創出します。提供されるサービスには、思春期の抑制、ジェンダー肯定ホルモン、メンタルヘルスケアの調整、健康診断/予防訪問、教育/支援ケアが含まれます。"
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "トランスマスキュリンの生殖機能、妊娠、産後、授乳、親権に関する包括的な情報を提供するガイドです。このリソースには、トランスを肯定的に支える医療提供者、調査に基づいたFAQ、さまざまなリソースや、トランスマスキュリン個人の親としての旅を教育しサポートするためのその他の情報が含まれています。"
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "トランスジェンダーミシガン",
+    "description": "トランスジェンダーミシガンの主要なミッションは、ミシガン州で連携を作り出しながら、トランスジェンダーおよびジェンダー非適合コミュニティを統一し、強化するための擁護、支援、教育を提供することです。"
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "プPlanned Parenthoodは、世界中の何百万人もの人々に生殖健康管理、性教育、情報を提供します。サービスには、中絶、避妊、性感染症の検査と治療、トランスジェンダーのホルモン療法などが含まれます。オンラインおよびテレヘルスの予約が利用可能です。"
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "キャンプライラック",
+    "description": "キャンプライラックは、オハイオ州の夏のキャンプで、トランスジェンダーやジェンダーダイバーシティな若者のための安全で歓迎的、かつ秘密を守るスペースを提供しています。キャンプでは、ジェンダー多様性が規範となり、プログラムはキャンパーに自信を植え付けるとともに、仲間や支援者の強力なコミュニティを提供するように設計されています。"
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "トランスの家族",
     "description": "トランスの家族は希望をあたえ、理解を深め、トランスやジェンダー多様性のある子どもたち、そして彼らの生活に関わるすべての人々を支援するための明確な道筋を作ります。私たちはリソースを提供し、イベントを組織し、家族を支援グループにつなぐことでサポートしています。"
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "トランスジェンダーとノンバイナリーの若者への味方になるためのガイド",
+    "description": "トランスジェンダーとノンバイナリーの若者を支援する方法についての包括的な情報とベストプラクティスを提供する初級教育リソースです。このガイドは、ジェンダーアイデンティティと表現の基本についての教育を始めるための重要なツールです。"
   }
 ]

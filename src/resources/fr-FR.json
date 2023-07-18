@@ -554,6 +554,31 @@
     "description": "La mission de la Fondation Jim Collins (JCF) est de fournir une aide financière aux personnes transgenres pour les chirurgies d'affirmation de genre. Cette fondation offre deux options de subventions ; La bourse des fondateurs qui couvre 100% des coûts chirurgicaux et le fonds d'héritage Krysallis Anne Hembrough qui couvre 50% des coûts chirurgicaux. La fondation vise à fournir l'accès à ces chirurgies vitales pour ceux qui le souhaitent, mais en raison de la discrimination prévalente contre les personnes transgenres, ces coûts sont généralement impossibles à rencontrer."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Centre de jeunesse Colors+",
+    "description": "Colors+ renforce la jeunesse LGBTQ+ et les alliés en promouvant le bien-être individuel et communautaire. Fournit des programmes pour les jeunes LGBTQ+ et leurs alliés tels que des services de conseil individuel, en couple et familial."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS fournit un traitement psychologique culturellement pertinent, des interventions communautaires et une formation à des services pour aider les gens à guérir des cicatrices de la torture et du trauma des réfugiés. Ils visent à créer un environnement sûr et soutenant pour les sexualités diverses, les genres et les corps, y compris les réfugiés et les demandeurs d'asile."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "Fonds de défense juridique et d'éducation pour les transgenres (TLDEF)",
+    "description": "Le TLDEF s'engage à mettre fin à la discrimination basée sur l'identité et l'expression de genre et à réaliser l'égalité pour les personnes transgenres grâce à l'éducation publique, les procès-test, les services juridiques directs et les efforts de politique publique. Ils fournissent divers services comme le projet de changement de nom, les litiges d'impact et le projet de santé trans. Il fournit également des mises à jour sur les questions juridiques connexes affectant la communauté transgenre."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "Transliving International est un groupe de soutien mondial pour la communauté transgenre fournissant un magazine en ligne, des soirées club, des événements et une plateforme d'achat. Il amplifie la voix de toutes les personnes trans et diverses de genre en proposant de l'aide, des conseils, des histoires personnelles et des fonctionnalités."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "L'Institut Azalea: Centre de counseling et de bien-être",
+    "description": "L'Institut Azalea fournit des services de santé mentale et de bien-être avec des spécialités dans le traitement d'une variété de préoccupations, y compris le traumatisme complexe, le PTSD, la dépression, l'anxiété, et plus. L'Institut offre des services tels que le conseil individuel, familial et de groupe, ainsi que la formation, la consultation et les opportunités de développement professionnel pour les cliniciens."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "Un groupe de soutien de pairs pour les parents, les frères et sœurs, la famille élargie et les amis d'une personne trans et de diversité de genre. Il offre des ressources, des événements et une plateforme pour les histoires communautaires. Il propose également un livre Transfamily qui fournit des informations et des perspectives utiles sur la communauté transgenre."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Centre Médical de l'Université de Toledo",
+    "description": "Le Centre Médical de l'Université de Toledo fournit une large gamme de services et de spécialités médicales, de la médecine d'urgence à l'orthopédie et aux services de réhabilitation. Il est engagé à offrir le plus haut niveau de soins de santé à la communauté du nord-ouest de l'Ohio. Le centre propose des services comme l'information pour les patients, l'information pour les visiteurs, le soutien pour la facturation et l'assurance."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons propose des services de contrôle et de libération de la voix de qualité pour les individus transgenres et non binaires visant à sonner plus masculin, féminin ou androgyne."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "Centre pour la Médecine d'Affirmation de Genre",
+    "description": "L'Hôpital pour Enfants d'Akron offre le Centre pour la Médecine d'Affirmation de Genre sous son département de Médecine Adolescente. Il s'adresse aux jeunes transgenres et LGBTQ+, fournissant une équipe de médecins spécialistes, de travailleurs sociaux, de psychologues et d'un endocrinologue. Le centre offre un soutien médical et mental pour créer un environnement diversifié en matière de genre où les jeunes peuvent explorer leur identité de genre. Les services fournis comprennent la suppression pubertaire, les hormones d'affirmation du genre, la coordination des soins de santé mentale, les visites de contrôle/préventives et les soins/éducation de soutien."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "Un guide complet offrant des informations sur la fertilité transmasculine, la grossesse, le post-partum, la lactation et la parentalité. La ressource comprend des prestataires de soins de santé affirmant le trans, des FAQs recherchées, diverses ressources et plus encore pour éduquer et soutenir les individus transmasculins dans leur parcours parental."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "TRANSGENDER MICHIGAN",
+    "description": "La mission principale de Transgender Michigan est de fournir un plaidoyer, un soutien et une éducation tout en servant à créer des coalitions dans l'État du Michigan pour unifier et autonomiser les communautés transgenres et non conformes au genre."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,27 @@
     "description": "Planned Parenthood offre des soins de santé reproductive essentiels, de l'éducation sexuelle et de l'information à des millions de personnes dans le monde. Les services comprennent l'avortement, le contrôle des naissances, les tests et traitements des MST, la thérapie hormonale pour les personnes transgenres, et plus encore. Des rendez-vous en ligne et de télésanté sont disponibles."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "description": "Le Camp Lilac est un camp d'été dans l'Ohio offrant un espace sûr, accueillant et confidentiel pour les jeunes transgenres et de diversité de genre. Le camp offre un environnement où la diversité de genre est la norme et le programme est conçu pour instiller la confiance chez les campeurs ainsi que fournir une communauté forte de pairs et de soutiens."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2612,35 @@
     "socialMedia": null,
     "title": "Familles Trans",
     "description": "Trans Families inspire de l'espoir, augmente la compréhension et crée un chemin visible pour soutenir les enfants transgenres et diversifiés sur le plan du genre et tous ceux qui touchent leur vie. Nous fournissons des ressources, organisons des événements et connectons les familles à des groupes de soutien."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Guide pour être un allié à des jeunes transgenres et non-binaires",
+    "description": "Une ressource éducative initiale qui fournit des informations complètes et des meilleures pratiques sur comment soutenir les jeunes transgenres et non-binaires. Le guide est essentiel pour commencer votre éducation sur les bases de l'identité de genre et de l'expression."
   }
 ]

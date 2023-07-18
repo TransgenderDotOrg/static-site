@@ -1,0 +1,106 @@
+{
+  "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+  "slug": "camp-lilac",
+  "externalUrl": "https://www.camplilac.org/",
+  "tags": [
+    "youth-services",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "info@camplilac.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac is a summer camp in Ohio providing a safe, welcoming, and confidential space for transgender and gender diverse youth. The camp provides an environment where gender diversity is the norm and the program is designed to instill confidence in the campers as well as provide a strong community of peers and supporters."
+    },
+    "es-ES": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac es un campamento de verano en Ohio que proporciona un espacio seguro, acogedor y confidencial para jóvenes transgénero y de género diverso. El campamento ofrece un ambiente donde la diversidad de género es la norma y el programa está diseñado para infundir confianza en los campistas, así como proporcionar una fuerte comunidad de compañeros y seguidores."
+    },
+    "de-DE": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac ist ein Sommercamp in Ohio, das einen sicheren, einladenden und vertraulichen Raum für transsexuelle und geschlechtsdiverse Jugendliche bietet. Das Camp bietet eine Umgebung, in der Geschlechtervielfalt die Norm ist und das Programm ist darauf ausgelegt, den Campern Selbstvertrauen zu vermitteln sowie eine starke Gemeinschaft von Gleichgesinnten und Unterstützern bereitzustellen."
+    },
+    "sw-KE": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac ni kambi ya kiangazi huko Ohio inayotoa nafasi salama, karibisha, na ya siri kwa vijana wenye jinsia tofauti na wanaobadilisha jinsia. Kambi inatoa mazingira ambapo utofauti wa jinsia ndio kawaida na programu imeundwa kuwapa washiriki ujasiri pamoja na kuwapa jamii imara ya wenzi na wanaounga mkono."
+    },
+    "id-ID": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac adalah kamp musim panas di Ohio yang menyediakan ruangan yang aman, ramah, dan rahasia untuk anak-anak muda yang transgender dan beragam gender. Kamp ini menyediakan lingkungan di mana keragaman gender adalah norma dan programnya dirancang untuk menanamkan kepercayaan diri pada pengemah serta menyediakan komunitas rekan dan pendukung yang kuat."
+    },
+    "fr-FR": {
+      "titre": "Camp Lilac",
+      "description": "Le Camp Lilac est un camp d'été dans l'Ohio offrant un espace sûr, accueillant et confidentiel pour les jeunes transgenres et de diversité de genre. Le camp offre un environnement où la diversité de genre est la norme et le programme est conçu pour instiller la confiance chez les campeurs ainsi que fournir une communauté forte de pairs et de soutiens."
+    },
+    "pt-PT": {
+      "title": "Camp Lilac",
+      "description": "O Camp Lilac é um acampamento de verão em Ohio que oferece um espaço seguro, acolhedor e confidencial para jovens transgêneros e de gênero diverso. O acampamento oferece um ambiente onde a diversidade de gênero é a norma e o programa é projetado para infundir confiança nos campistas, bem como fornecer uma forte comunidade de pares e apoiadores."
+    },
+    "tr-TR": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac, transseksüel ve cinsiyet çeşitliliği olan gençlere güvenli, hoş geldiniz diyen ve gizli bir alan sağlayan Ohio'da bir yaz kampıdır. Kamp, cinsiyet çeşitliliğinin norm olduğu ve programın, kampta kalanlara güven aşılamak ve güçlü bir akran ve destekçi topluluğu sağlamak üzere tasarlandığı bir ortam sağlar."
+    },
+    "vi-VN": {
+      "title": "Trại Lilac",
+      "description": "Trại Lilac là một trại hè ở Ohio cung cấp một không gian an toàn, chào đón và bảo mật cho các thanh thiếu niên chuyển giới và đa giới tính. Trại cung cấp một môi trường nơi đa dạng giới tính là bình thường và chương trình được thiết kế để tạo sự tự tin cho các em tham dự cũng như cung cấp một cộng đồng mạnh mẽ của bạn bè và người ủng hộ."
+    },
+    "ru-RU": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac - это летний лагерь в Огайо, предоставляющий безопасное, гостеприимное и конфиденциальное пространство для трансгендерных и гендерно разнообразных молодых людей. В лагере создана атмосфера, в которой гендерное разнообразие является нормой, а программа рассчитана на внушение уверенности в себе посетителям лагеря, а также предоставляет сильное сообщество сверстников и сторонников."
+    },
+    "zh-CN": {
+      "title": "丁香营地",
+      "description": "丁香营地位于俄亥俄州，是一处为跨性别和性别多元青少年提供安全、友好且隐私的夏令营。该营地提供一个性别多样性为常态的环境，其项目设计旨在给营地中的青少年注入信心，并提供一个强大的同伴和支持者社区。"
+    },
+    "ja-JP": {
+      "title": "キャンプライラック",
+      "description": "キャンプライラックは、オハイオ州の夏のキャンプで、トランスジェンダーやジェンダーダイバーシティな若者のための安全で歓迎的、かつ秘密を守るスペースを提供しています。キャンプでは、ジェンダー多様性が規範となり、プログラムはキャンパーに自信を植え付けるとともに、仲間や支援者の強力なコミュニティを提供するように設計されています。"
+    },
+    "ar-SA": {
+      "title": "معسكر لايلك",
+      "description": "معسكر لايلك هو معسكر صيفي في أوهايو يوفر مكانا آمنا وترحيبا وسريا للشباب ذوي التوجه الجنسي المتنوع والمتحولين جنسيا. يوفر المعسكر بيئة حيث التنوع الجنسي هو القاعدة ، والبرنامج مصمم لغرس الثقة في المشاركين بالإضافة إلى توفير مجتمع قوي من الأقران والداعمين."
+    },
+    "uk-UA": {
+      "title": "Табір Лілак",
+      "description": "Табір Лілак - це літній табір в штаті Огайо, який забезпечує безпечне, гостинне та конфіденційне середовище для трансгендерної та гендерно різноманітної молоді. У таборі створюється середовище, де гендерна різноманітність є нормою, а програма розроблена з метою вбудовування впевненості у відвідувачів, а також забезпечення сильної спільноти однолітків та підтримки."
+    },
+    "ko-KR": {
+      "title": "캠프 라일락",
+      "description": "캠프 라일락은 트랜스젠더와 성 다양성을 가진 청소년들에게 안전하고 따뜻하며 비밀을 보장하는 공간을 제공하는 오하이오의 여름 캠프입니다. 이 캠프는 성 다양성이 널리 받아들여지는 환경을 제공하며, 프로그램은 캠퍼들에게 자신감을 심어주고 동료와 지지자들로 이루어진 강력한 커뮤니티를 제공하도록 설계되었습니다."
+    },
+    "ur-PK": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilak ایک گرمیوں کا کیمپ ہے جو اوہائیو میں واقع ہے اور ٹرانسجینڈر اور جنسی تنوع سے متعلق نوجوانوں کے لیے محفوظ، میزبانی اور خفیہ محل فراہم کرتا ہے۔ کیمپ میں ایک ایسا ماحول موجود ہے جہاں جنسی تنوع معمول کا حصہ ہے اور پروگرام کو ایسے ڈیزائن کیا گیا ہے کہ کیمپرز میں اعتماد ڈالے، ساتھ ہی ہم ہمراہ و سپورٹر کے طور پر ایک مضبوط کمیونٹی فراہم کی جاتی ہے۔"
+    },
+    "hi-IN": {
+      "title": "कैम्प लिलाक",
+      "description": "कैम्प लिलाक ओहायो में एक ग्रीष्मकालीन शिविर है जो ट्रांसजेंडर और लिंग विविधता वाले युवाओं के लिए एक सुरक्षित, स्वागत योग्य, और गोपनीय स्थान प्रदान करता है। शिविर में एक ऐसा माहौल प्रदान किया जाता है जहां लिंग विविधता सामान्य है और कार्यक्रम को शिविरार्थियों में आत्मविश्वास निष्पादित करने के लिए तथा साथियों और समर्थकों की एक मजबूत समुदाय प्रदान करने के लिए डिजाइन किया गया है।"
+    },
+    "mr-IN": {
+      "title": "कॅम्प लायलक",
+      "description": "कॅम्प लायलक हे ओहिओमधील उन्हाळी शिबिर आहे, ज्यामध्ये ट्रान्सजेंडर व लिंग विविधता असलेल्या तरुणांसाठी सुरक्षित, स्वागतात्मक आणि गुप्त स्थळ दिलेले आहे. या शिबिरामध्ये लिंग विविधता म्हणजेच मानक आहे आणि कार्यक्रमाची योजना कॅम्पर्समध्ये आत्मविश्वास निर्माण करण्यासाठी तसेच सहयोगी आणि समर्थकांच्या मजबूत समुदायाची प्रदान करण्यासाठी केलेली आहे."
+    },
+    "te-IN": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac అనేది ఓహాయోలోని వేసవి శిబిరం. దీనిలో ట్రాన్స్‌జెండర్ మరియు లింగ వివిధత యువతికే సురక్షిత, ఆహ్వానకర, మరియు గోప్య స్థలం కల్పిస్తుంది. ఈ శిబిరంలో లింగ వివిధత మానకం మరియు ప్రోగ్రామ్ శిబిర సభ్యుల ఆత్మవిశ్వాసాన్ని పెంచడానికి మరియు శక్తివంత సమూహం, మద్దతుదారులును కల్పించడానికి రూపొందించబడింది."
+    },
+    "bn-BD": {
+      "title": "Camp Lilac",
+      "description": "Camp Lilac হ'ল ওহায়োয় একটি গ্রীষ্মকালীন শিবির যা প্রদান করে একটি নিরাপদ, স্বাগতপূর্ণ এবং গোপনীয় স্থান ট্রান্সজেন্ডার এবং লিঙ্গ বৈচিত্র্যপূর্ণ যুবকদের জন্য। শিবিরটি এমন একটি পরিবেশ প্রদান করে যেখানে লিঙ্গ বৈচিত্র্য হল নর্ম এবং প্রোগ্রামটি শিবিরবাসীদের মধ্যে আত্মবিশ্বাস স্থাপন করার জন্য নকল করা হয়েছে এবং একটি শক্তিশালী সম্প্রদায় প্রদান করে সহপাঠী এবং সমর্থনকারীরা।"
+    },
+    "ta-IN": {
+      "title": "கேம்ப் லிலாக்",
+      "description": "கேம்ப் லிலாக் ஒகையோவில் ஒரு கோடைக்கால முகம் ஆகும், இது மாறுபட்ட பாலினத்தையும் பாலினக் கலாசாரத்தையும் அணிக்கும் இளைஞர்களுக்கான பாதுகாப்பான, வரவேற்பு, மற்றும் ரகசியமான இடம் வழங்குகிறது. முகம் பாலினத்தைக் கொண்ட மாற்றம் அதிகரித்துள்ளது மற்றும் நிகழ்வு முகத்திரைகளின் நம்பிக்கையை அதிகரித்துக் கொள்வதற்கு வடிவமைக்கப்பட்டுள்ளது, அதே நேரத்தில் ஒரு வலுவான இத்தகைய நண்பர்களின் மன்றத்தையும் ஆதரவுதருவோர் குழுவையும் வழங்குகிறது."
+    }
+  }
+}

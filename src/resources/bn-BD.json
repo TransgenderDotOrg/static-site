@@ -554,6 +554,31 @@
     "description": "জিম কলিন্স ফাউন্ডেশন (JCF) এর লক্ষ্য হল জেন্ডার-সমর্থিত সার্জারির জন্য ট্রান্সজেন্ডার মানুষদের অর্থনৈতিক সহায়তা প্রদান করা। এই ফাউন্ডেশন দুটি গ্রান্ট অপশন অফার করে; দ্য ফাউন্ডার্স' গ্রান্ট যা সার্জারিক খরচের 100% আচ্ছাদন করে এবং দ্য করাসলিস অ্যান হেম্ব্রো লেগাসি ফান্ড যা সার্জারিক খরচের 50% আচ্ছাদন করে। ফাউন্ডেশন টির লক্ষ্য এই অপরিহার্য সার্জারিগুলির প্রবেশ নিশ্চিত করা যাদের এর প্রয়োজন তবে ট্রান্সজেন্ডার মানুষদের বিরুদ্ধে ছড়িয়ে পড়া বিভেদকর আচরণ কারণে এইরকম খরচ সাধারণত পূরণ করা সম্ভব হয় না।"
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Colors+ ইয়ুথ সেন্টার",
+    "description": "Colors+ ব্যক্তিগত এবং সম্প্রদায়ের স্বাস্থ্য বাড়ানোর মাধ্যমে LGBTQ+ যুব ও সহযোগীদের শক্তিশালী করে। LGBTQ+ যুব এবং সহযোগীদের জন্য ব্যক্তিগত, জোড়া এবং পরিবারিক পরামর্শ পরিষেবাগুলি হিসাবে কর্মসূচী প্রদান করে।"
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTS সংস্কৃতি সম্পর্কিত মনের চিকিৎসা, সম্প্রদায় হস্তক্ষেপ, এবং সেবাগুলিতে প্রশিক্ষণ প্রদান করে যাতে মানুষ যন্ত্রণা এবং শরণার্থী অভিযান থেকে চিকিৎসা পেতে পারে। তারা পৃথিবী ব্যাপী যৌনতা, লিঙ্গ, এবং দেহ সহ শরণার্থী এবং আশ্রয় দাবি কারীদের জন্য একটি নিরাপদ এবং সমর্থক পরিবেশ তৈরি করার লক্ষ্যে কাজ করে।"
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "ট্রান্সজেন্ডার লিগ্যাল ডিফেন্স এন্ড এডুকেশন ফান্ড (TLDEF)",
+    "description": "TLDEF লিঙ্গ পরিচয় ও প্রকাশ উপর ভিত্তি করে বিভেদভাবনা শেষ করতে ও ট্রান্সজেন্ডার মানুষের জন্য সমানতা প্রাপ্তির লক্ষ্যে কর্মঠ। তারা পাবলিক এডুকেশন, টেস্ট-কেস মামলার শৃঙ্খলা, সরাসরি আইনী সেবা এবং পাবলিক পলিসি প্রচেষ্টা মাধ্যমে এটি চেষ্টা করে। তারা বিভিন্ন সেবা প্রদান করে যেমন নাম পরিবর্তন প্রকল্প, ইম্প্যাক্ট মামলার শৃঙ্খলা এবং ট্রান্স হেলথ প্রকল্প। এটি ট্রান্সজেন্ডার সম্প্রদায়ের সাথে সম্পর্কিত আইনী বিষয়বস্তুগুলির সম্পর্কে আপডেট দেয়।"
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "ট্রান্সলিভিং ইন্টারন্যাশনাল হল একটি গ্লোবাল সমর্থন গ্রুপ, যা ট্রান্সজেন্ডার সম্প্রদায়ের জন্য একটি অনলাইন ম্যাগাজিন, ক্লাব নাইট, ইভেন্টস, আর কেনাকাটা প্ল্যাটফর্ম প্রদান করে। এটি সহায়তা, পরামর্শ, ব্যক্তিগত গল্প, এবং বৈশিষ্ট্য অফার করে সমস্ত লিঙ্গ-বৈচিত্র্যমূলক এবং ট্রান্স-মানুষদের কন্ঠ বাড়িয়ে দেয়।"
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "দ্য আজালিয়া ইন্সটিটিউট: পরামর্শ ও স্বাস্থ্য কেন্দ্র",
+    "description": "দ্য আজালিয়া ইন্সটিটিউট মানসিক স্বাস্থ্য এবং স্বাস্থ্য সেবা প্রদান করে যাতে জটিল ত্রাণ, PTSD, বিষন্নতা, উদ্বেগ সহ বিভিন্ন সমস্যার চিকিৎসায় বিশেষজ্ঞ। এই ইনস্টিটিউটটি ব্যক্তিগত, পরিবারিক এবং দল পরামর্শ, এবং প্রশিক্ষণ, পরামর্শ, এবং চিকিত্সকদের জন্য পেশাগত উন্নয়নের সুযোগ প্রদানের মতো সেবা প্রদান করে।"
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "ট্রান্স এবং জেন্ডার বিভিন্ন ব্যক্তির মাতাপিতা, ভাই-বোন, দূরাগত পরিবার এবং বন্ধুদের জন্য একটি সহযোগী সমর্থন দল। এটি সম্পদ, ইভেন্ট, এবং সম্প্রদায় গল্পের জন্য একটি মঞ্চ অফার করে। এটি একটি ট্রান্সফ্যামিলি বইও অফার করে যা ট্রান্সজেন্ডার সম্প্রদায় সম্পর্কে উপযুক্ত তথ্য এবং অন্তর্দৃষ্টি সরবরাহ করে।"
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "টোলিডো বিশ্ববিদ্যালয়ের মেডিকেল সেন্টার",
+    "description": "টোলিডো বিশ্ববিদ্যালয়ের মেডিকেল সেন্টার বিস্তৃত ধরণের মেডিকেল সেবা এবং বিশেষজ্ঞতা সরবরাহ করে, যা ইমারজেন্সি মেডিসিন থেকে অর্থোপেডিক্স এবং পুনর্বাসন সেবাগুলির পর্যায়ে। এটি নর্থওয়েস্ট ওহায়ো সম্প্রদায়ের কাছে সর্বোচ্চ স্তরের স্বাস্থ্য সেবা প্রদানে উদ্বুদ্ধ। কেন্দ্রটি রোগী তথ্য, দর্শনার্থীর তথ্য, বিলিং এবং বীমা সমর্থন এর মত সেবা অফার করে।"
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons ট্রান্সজেন্ডার এবং নন-বাইনারি ব্যক্তিদের জন্য গুণিজন স্বর নিয়ন্ত্রণ ও মুক্তি পরিষেবা প্রদান করে, যারা আরও পুরুষমূলক, মহিলা বা অ্যান্ড্রোজানাস শব্দ করতে চাই।"
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "জেন্ডার অ্যাফার্মিং মেডিসিন কেন্দ্র",
+    "description": "অ্যাক্রন চিল্ড্রেন্স হাসপাতাল তার যৌবনাবস্থা চিকিৎসা বিভাগের অধীনে জেন্ডার অ্যাফার্মিং মেডিসিন কেন্দ্র অফার করে। এটি ট্রান্সজেন্ডার এবং এলজিবিটিকিউ+ যুবক-যুবতীদের সেবা করে, যেখানে বিশেষজ্ঞ চিকিৎসক, সামাজিক কর্মী, মনের ডাক্তার এবং এন্ডোক্রাইনোলজিস্টের একটি দল উপস্থিত আছে। কেন্দ্রটি যুবক-যুবতীদের জাতিস্মারক পরিচয় অন্বেষণ করার জন্য জেন্ডার-বৈচিত্র্যমন্ডিত পরিবেশ তৈরি করার জন্য চিকিৎসা এবং মানসিক স্বাস্থ্য সমর্থন অফার করে। প্রদত্ত সেবাগুলির মধ্যে ইউত্থানের দমন, জেন্ডার-অ্যাফার্মিং হরমোন, মানসিক স্বাস্থ্য যত্ন সমন্বয়, সুস্থতা পরীক্ষা/প্রতিরোধী ভিজিট এবং শিক্ষা/সহায়তা প্রদান অন্তর্ভুক্ত।"
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "একটি বিস্তৃত গাইড যা ট্রান্সম্যাসকুলিন ফার্টিলিটি, গর্ভধারণ, পোস্টপার্টাম, ল্যাক্টেশন এবং অভিভাবকত্ব সম্পর্কে তথ্য উপলব্ধ করায়। এই সম্পদটি অন্তর্গত ট্রান্স-সমর্থনকারী স্বাস্থ্যসেবা সরবরাহকারীরা, গবেষণা-ভিত্তিক প্রশ্নোত্তর, বিভিন্ন সম্পদ এবং অন্যান্য সহ তাদের অভিভাবকত্বের যাত্রায় ট্রান্সম্যাসকুলিন ব্যক্তিদের শিক্ষাদান এবং সমর্থন করার জন্য।"
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "ট্রান্সজেন্ডার মিশিগান",
+    "description": "ট্রান্সজেন্ডার মিশিগান প্রাথমিকভাবে নিরীক্ষণ, সমর্থন এবং শিক্ষা প্রদানের উদ্দেশ্যে কাজ করে যা মিশিগান রাজ্যে গঠন করার জন্য সংগঠন নির্মাণ করে ট্রানসজেন্ডার এবং লিঙ্গ অমান্য সম্প্রদায়গুলির ক্ষমতা বাড়ানোর জন্য।"
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "Planned Parenthood বিশ্বব্যাপী লক্ষ লক্ষ মানুষের জন্য গুরুত্বপূর্ণ প্রজনন স্বাস্থ্য সেবা, যৌন শিক্ষা এবং তথ্য সরবরাহ করে। সেবাগুলো অন্তর্গত বিপদ-সংকেত, জন্ম নিয়ন্ত্রণ, STD পরীক্ষা এবং চিকিত্সা, ট্রান্সজেন্ডার হরমোন থেরাপি, এবং আরও অনেক কিছু। অনলাইন এবং টেলিহেলথ অ্যাপয়েন্টমেন্টগুলি উপলব্ধ।"
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "Camp Lilac",
+    "description": "Camp Lilac হ'ল ওহায়োয় একটি গ্রীষ্মকালীন শিবির যা প্রদান করে একটি নিরাপদ, স্বাগতপূর্ণ এবং গোপনীয় স্থান ট্রান্সজেন্ডার এবং লিঙ্গ বৈচিত্র্যপূর্ণ যুবকদের জন্য। শিবিরটি এমন একটি পরিবেশ প্রদান করে যেখানে লিঙ্গ বৈচিত্র্য হল নর্ম এবং প্রোগ্রামটি শিবিরবাসীদের মধ্যে আত্মবিশ্বাস স্থাপন করার জন্য নকল করা হয়েছে এবং একটি শক্তিশালী সম্প্রদায় প্রদান করে সহপাঠী এবং সমর্থনকারীরা।"
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "ট্রান্স ফ্যামিলিগুলি",
     "description": "ট্রান্স ফ্যামিলিগুলি আশা উদ্দীপনা করে, বোধগম্যতা বাড়ায়, এবং ট্রান্স এবং লিঙ্গ বিচ্যুতি সম্পন্ন শিশুদের এবং তাদের জীবনে যারা লাগায়, সমর্থনের জন্য দৃশ্যমান পথ তৈরি করে। আমরা সম্পদ সরবরাহ করি, ইভেন্টগুলি আয়োজন করি, এবং পরিবারগুলিকে সমর্থন গ্রুপের সাথে সংযোগ করি।"
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "নারীবিশেষ এবং নন-বাইনারি যুবক-যুবতীদের প্রতি সহযোগী হওয়ার গাইড",
+    "description": "একটি প্রাথমিক শিক্ষামূলক সম্পদ যা নারীবিশেষ এবং নন-বাইনারি যুবক-যুবতীদের সমর্থন করার জন্য সম্পূর্ণ তথ্য এবং সেরা প্র্যাক্টিস প্রদান করে। জেন্ডার পরিচয় এবং প্রকাশের মৌলিক বিষয়গুলি শেখাতে এই গাইডটি অপরিহার্য।"
   }
 ]

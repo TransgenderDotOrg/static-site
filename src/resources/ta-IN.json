@@ -554,6 +554,31 @@
     "description": "ஜிம் காலின்ஸ் அறக்கட்டளை (JCF)ன் அதிரடி பல்லவி ஆண்டு மாநில முதலிட்டும் முதன்முதனாய் மருத்துவம் வைத்து பரிபாலித்து வருகிறது. இந்த அறக்கட்டளை 2 வகையான துணைகளை வழங்குகிறது, அவையே 'ஆதிசங்கிகள் துணை' என்பது முறைக்கு முறையாக 100% விலையை முழுவதுமாக மற்றும் 'கிரிசாலிஸ் அன்னே ஹெம்பரோ மரபு நிதி' என்பது முறைக்கு முறையாக 50% விலையை முழுவதுமாக மற்றும் டிரான்ஸ்ஜெண்டர் மக்களுக்கு எதிரான வெளிப்படையான வேதிமுறை மூலம் இவ்வாறாக விலைகளை முதலீடு செய்வது பொதுவாக சாத்தியமாகாதது."
   },
   {
+    "id": "39756524-49b2-4d50-afbe-382a06065d2d",
+    "slug": "colors-plus-youth-center",
+    "externalUrl": "https://www.colorsplus.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness"
+    ],
+    "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Fairview Park",
+    "county": "Cuyahoga County",
+    "latLng": [
+      41.4442751,
+      -81.8579082
+    ],
+    "email": "info@colorsplus.org",
+    "socialMedia": null,
+    "title": "Colors+ இளைஞர் மையம்",
+    "description": "Colors+ LGBTQ+ இளைஞர்கள் மற்றும் செயல்பாட்டுக்குரிய மக்களை பலப்படுத்தி, தனிப்பட்ட, குடும்ப, மற்றும் குடும்ப ஆலோசனை சேவைகள் உள்ளிட்ட பயிற்சிகளை வழங்குகின்றது. தனிநபர் மற்றும் சமூக நலத்தை மேம்படுத்தவும் முன்னேற்றமாக உதவுகின்றது."
+  },
+  {
     "id": "397b0b03-c59f-46aa-93aa-14170895e5dd",
     "slug": "transgender-india-transition-guide",
     "externalUrl": "https://transgenderindia.com/",
@@ -1269,6 +1294,36 @@
     "description": "STARTTSஆகியவர்கள் பண்பாட்டுப் பொருத்தமான உளவியல் சிகிச்சை, சமூக நடவடிக்கைகள், மற்றும் அழுக்கும் பிராண ஏற்றல் பழக்கவழக்கங்களில் இருந்து மக்கள் மருத்துவமடைய சேவைகளுக்காக பயிற்சி வழங்குகின்றனர். அவர்கள் பல்வேறு காதல்கள், பாலின்கள், மற்றும் உடல்களுக்கான பாதுகாப்பான மற்றும் ஆதரவான சூழலை உருவாக்க நோக்குகின்றனர், இதுவே அகதிகள் மற்றும் இடைநிலை ஆபத்துக்குள்ளவீடு தேடுகின்றனர்."
   },
   {
+    "id": "85187a58-7ccd-4e69-9353-e7ac741cf912",
+    "slug": "transgender-legal-defense-education-fund",
+    "externalUrl": "https://transgenderlegal.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "healthcare"
+    ],
+    "address": "520 8th Ave #2204, New York, NY 10018, USA",
+    "phoneNumber": "646-862-9396",
+    "country": "US",
+    "provinceOrState": "NY",
+    "city": "New York",
+    "county": "New York County",
+    "latLng": [
+      40.75363,
+      -73.99198779999999
+    ],
+    "email": "communications@transgenderlegal.org",
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/tldef",
+      "instagramUrl": "https://www.instagram.com/tldef/",
+      "facebookUrl": "https://www.facebook.com/tldef",
+      "googleMapsUrl": null
+    },
+    "town": "Manhattan",
+    "title": "மாறுபாலினர் சட்ட வாரிசு & கல்விப் பணி (TLDEF)",
+    "description": "TLDEF பாலில் அடையாளம் மற்றும் வெளிப்பாடுகளின் அடிப்படையில் இருந்து சாதிப்பரிதாபத்தை முடிக்க உழைக்கின்றது மேலும் அறிவு வளர்ச்சியின் மூலம், பிரச்சினை வழக்கு நீதியாணை, நேரடிய சட்ட சேவைகள், மற்றும் பொது கொள்கை முயற்சிகளின் மூலம் மாறுபாலி மக்களுக்கு சமம் பெறுவதை நோக்கி உழைப்பு. அவர்கள் பெயர் மாற்ற திட்டம், விளைவு மற்றும் மாறுபாலினர் சுகாதார திட்டம் போன்ற பல்வேறு சேவைகளை வழங்குகின்றனர். இது மாறுபாலி சமுதாயத்திற்கு தொடர்பான சட்ட சம்பந்தமான விஷயங்களின் மேல் புதுப்பிப்புகளையும் வழங்குகின்றது."
+  },
+  {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
     "slug": "national-center-for-transgender-equality",
     "externalUrl": "https://transequality.org",
@@ -1514,6 +1569,35 @@
     "description": "ட்ரான்ஸ்லிவிங் இன்டர்நேஷனல் ஒரு உலக அடிப்படையிலான மாற்றுப் பாலில் ஆதரவு குழு, இணைய மாதித்தலியை, கிளப் இரவுகளை, நிகழ்வுகளை, மற்றும் வணிக மேடையை வழங்குகிறது. அது உதவி, ஆலோசனை, தனிப்பட்ட கதைகள் மற்றும் அம்சங்களைக் கொண்டு அனைத்து பால்வேறு மற்றும் மாற்று-பாலில் மக்களின் குரலை மிகுப்பரப்பிப்பது."
   },
   {
+    "id": "a3917775-8a51-45fa-951d-927905f4e8e7",
+    "slug": "the-azalea-institute-counseling-wellness-center",
+    "externalUrl": "https://www.azaleainstitute.com/",
+    "tags": [
+      "mental-health",
+      "healthcare",
+      "education-awareness"
+    ],
+    "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
+    "phoneNumber": "(330) 510-4900",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Cuyahoga Falls",
+    "county": "Summit County",
+    "latLng": [
+      41.1477809,
+      -81.46951
+    ],
+    "email": "info@azaleainstitute.com",
+    "socialMedia": {
+      "googleMapsUrl": [
+        "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
+        "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
+      ]
+    },
+    "title": "தி அசலியா இன்ஸ்டிடியூட்: ஆலோசனை மற்றும் நலமாக்கிய மையம்",
+    "description": "அசலியா இன்ஸ்டிடியூட் மன நலத்தும், நலவியல் சேவைகளைத் தருகின்றது, இதில் அதிருக்கலமான அழுவல், பிடிஎஸ்டி, மனச்சோர்வு, பயம், மற்றும் மேலும் போன்ற பிரச்சனைகளை சிகிச்சை செயவும் சிபெச்சியலிட்டி வாய்ப்புகள் உள்ளன. இன்ஸ்டிடியூட் தனிப்பட்ட, குடும்ப, மற்றும் குழு ஆலோசனைகள், அலவார் மேலும் கல்வி, ஆலோசனை, மற்றும் மருத்துவர்களுக்கான தொழில்நிறுத்தம் வாய்ப்புகள் ஆகியவற்றை வழங்குகிறது."
+  },
+  {
     "id": "a453684e-c325-457f-8841-05c0adabbbc0",
     "slug": "the-trevor-project",
     "externalUrl": "https://www.thetrevorproject.org/",
@@ -1662,6 +1746,28 @@
     "description": "மாற்று மற்றும் பால் வேறுபாட்டுக்குடியேற்ற உறவுமுதலிகினாரின் பெற்றோர்கள், சகோதரர்கள், நீண்ட குடும்பத்தையும் நண்பர்களையும் ஆதரிக்க ஒரு பீர் ஆதரவு குழு. இது வளங்கள், நிகழ்வுகள், மற்றும் சமுதாயத் தகவல்களுக்கு ஒரு அரங்கம் வழங்குகிறது. இதுவே விவரமாகத் தகவல்களையும், மாற்று மற்றும் பால் வேறுபாட்டு சமுதாயத்தை குறித்த உண்மையான விவரங்களை வழங்கும் ஒரு Transfamily புத்தகத்தையும் வழங்குகிறது."
   },
   {
+    "id": "b2747fa0-8c11-4c88-9822-2714e67aea4d",
+    "slug": "university-of-toledo-medical-center",
+    "externalUrl": "https://utmc.utoledo.edu/",
+    "tags": [
+      "healthcare"
+    ],
+    "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
+    "phoneNumber": "419.383.4000",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Toledo",
+    "county": "Lucas County",
+    "latLng": [
+      41.6166904,
+      -83.61584409999999
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "டோலிடோ பல்கலைக்கழக மருத்துவ மையம்",
+    "description": "டோலிடோ பல்கலைக்கழக மருத்துவ மையம் அவசர மருத்துவம் முதல் ஆர்தோபெடிக்ஸ் மற்றும் புனர்நிலைப்பு சேவைகள் வரை பல விதமான மருத்துவ சேவைகள் மற்றும் சிறப்பான வழிகாட்டுகளைத் தருகின்றது. அது வட ஓஹயோ சமூகத்திற்கு மிகவும் உள்நிலையான சுகாதார நிலையை வழங்குவதில் உள்ளதாக திட்டப்பட்டுள்ளது. இந்த மையம் உண்மையாகவே பேஷெண்ட் தகவல், பார்வையாளர் தகவல், பில்லிங் மற்றும் காப்பீடு ஆதரவு போன்ற சேவைகளைத் தருகின்றது."
+  },
+  {
     "id": "b6955ff7-83b4-464f-8be8-72a50dc6a878",
     "slug": "transvoicelessons",
     "externalUrl": "https://www.transvoicelessons.com/",
@@ -1689,6 +1795,31 @@
     },
     "title": "TransVoiceLessons",
     "description": "TransVoiceLessons முன்னும் பெண்ணாக, ஆணாக அல்லது ஆண்பெண் ஆக குரல் கட்டுப்பாட்டை மேம்படுத்த விரும்பும் மாற்று-பால் மற்றும் இணையரீதியான நபர்களுக்கு தரத்து கட்டுப்பாட்டை மற்றும் விடுதலை சேவைகளை வழங்குகிறது."
+  },
+  {
+    "id": "b6d281c2-cf36-44db-87ee-47d7a7bcd985",
+    "slug": "center-for-gender-affirming-medicine",
+    "externalUrl": "https://www.akronchildrens.org/departments/Center-for-Gender-Affirming-Medicine.html",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": "Perkins Square, Akron, OH 44302, USA",
+    "phoneNumber": "330-543-8538",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": "Akron",
+    "county": "Summit County",
+    "latLng": [
+      41.0785934,
+      -81.526519
+    ],
+    "email": "webmaster@akronchildrens.org",
+    "socialMedia": null,
+    "title": "பாலின் உறுதியை வலிமைப்படுத்தும் மையம்",
+    "description": "Akron குழந்தைகள் மருத்துவமனை சுழற்சி மருத்துவ துறைக்குக் கீழ் பாலின் உறுதியை வலிமைப்படுத்தும் மையத்தை வழங்குகிறது. இது மாற்றுப் பாலியாகியவர்கள் மற்றும் LGBTQ+ இளைஞர்களுக்கு சேவை செய்கின்றது, விவபாதத்துவ வாழ்க்கை மருத்துவர்கள், சமூக ஊழியர்கள், உளவியலாளர்கள் மற்றும் எண்டோகிரினியலர்களின் குழுவை வழங்குகிறது. இந்த மையம் மருத்துவம் மற்றும் மன நலன் ஆதரவை வழங்கி, பால் வசதியோடு இளைஞர்கள் தங்கள் பால் அடையாளத்தை ஆராயலாம் என்ற சூழலை உருவாக்குகிறது. வழங்கப்படும் சேவைகள் அடங்க வயதாரிப்பை தடுக்கும், பால் உறுதிப்படுத்தும் ஹார்மோன்கள், மன நல பணிகளின் ஒத்திவைப்பு, நலன்சண்டை /தடுத்தற் மேம்பாடுகள் மற்றும் கல்வி/ஆதரவு பராமரிப்பு."
   },
   {
     "id": "b86b3697-6f65-4fd1-8506-e2ce879a614c",
@@ -2173,6 +2304,28 @@
     "description": "டிரான்ஸ்மஸ்குலீன் மாற்றுத்திறன், கர்ப்பம், பிரசவ பின்போடு, பாலூட்டுதல் மற்றும் பேதைக்கிணப்பித்தல் பற்றிய விவரங்களை வழங்கும் முழுமையான வழிகாட்டி. இந்த வளங்களில் டிரான்ஸாப்பிரமிங் சுகாதார விரவலான்கள், ஆராய்ச்சி செய்யப்பட்ட கேள்விகள், பல்வேறு வளங்கள் மற்றும் மேலும் கல்விப்புக்காக மற்றும் டிரான்ஸ்மஸ்குலீன் நபர்களுக்கான பேதைப்பு பாதையில் ஆதரவு வழங்கும்."
   },
   {
+    "id": "e254ad90-b322-4811-a962-0e0b0b5db81e",
+    "slug": "transgender-michigan",
+    "externalUrl": "https://www.transgendermichigan.org/",
+    "tags": [
+      "advocacy",
+      "support-groups",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": "855-345-TGMI",
+    "country": "US",
+    "provinceOrState": "MI",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@transgendermichigan.org",
+    "socialMedia": null,
+    "title": "டிரான்ஸ்ஜென்டர் மிச்ஹிகன்",
+    "description": "டிரான்ஸ்ஜென்டர் மிச்ஹிகனின் முதன்மை பணிக்குழுவு மிசிகன் மாநிலத்தில் கூட்டணிகளை உருவாக்குவதாகும், மற்றும் பாலின அஸ்வீகரிப்பு மற்றும் பாலின மாறான சமூகங்களை ஒன்றிணைத்து சக்தி வழங்குவதாகும் மேல் விளக்கத்தை, ஆதரவை மற்றும் கல்வியை வழங்குவதை உள்ளடக்கி."
+  },
+  {
     "id": "e51c019c-8dfe-498e-b82e-4263a8f747e8",
     "slug": "equality-florida",
     "externalUrl": "https://www.eqfl.org/",
@@ -2374,6 +2527,28 @@
     "description": "திட்டமிடப்பட்ட பெற்றோர் ஆண்களுக்கு லட்சக்கணக்கான மக்களுக்கு அவசியமான மீண்டுவளவு சுகாதார பராமரிப்பு, பாலின் விளக்கம், மற்றும் தகவல்களை வழங்குகின்றது. சேவைகளுக்கு கருவிழைப்பு, பிறப்பு கட்டுப்பாடு, STD பரிசோதனை மற்றும் சிகிச்சை, மாற்றுநிலை ஹார்மோன் சிகிச்சை, மற்றும் அதிகிற்கும் உள்ளன. ஆன்லைன் மற்றும் தொலைசுகாதார அப்பாயின்ட்மென்ட்கள் கிடைக்கும்."
   },
   {
+    "id": "f56c1d78-7949-44a4-bf86-cc538222470a",
+    "slug": "camp-lilac",
+    "externalUrl": "https://www.camplilac.org/",
+    "tags": [
+      "youth-services",
+      "mental-health",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@camplilac.org",
+    "socialMedia": null,
+    "title": "கேம்ப் லிலாக்",
+    "description": "கேம்ப் லிலாக் ஒகையோவில் ஒரு கோடைக்கால முகம் ஆகும், இது மாறுபட்ட பாலினத்தையும் பாலினக் கலாசாரத்தையும் அணிக்கும் இளைஞர்களுக்கான பாதுகாப்பான, வரவேற்பு, மற்றும் ரகசியமான இடம் வழங்குகிறது. முகம் பாலினத்தைக் கொண்ட மாற்றம் அதிகரித்துள்ளது மற்றும் நிகழ்வு முகத்திரைகளின் நம்பிக்கையை அதிகரித்துக் கொள்வதற்கு வடிவமைக்கப்பட்டுள்ளது, அதே நேரத்தில் ஒரு வலுவான இத்தகைய நண்பர்களின் மன்றத்தையும் ஆதரவுதருவோர் குழுவையும் வழங்குகிறது."
+  },
+  {
     "id": "f596a8bb-1a7d-4b86-a865-c6d6a17984bc",
     "slug": "rfsl-swedish-federation-lgbtq-rights",
     "externalUrl": "https://www.rfsl.se/",
@@ -2438,5 +2613,35 @@
     "socialMedia": null,
     "title": "மாறிவாழ்க்கை குடும்பங்கள்",
     "description": "மாறிவாழ்க்கை குடும்பங்கள் நம்பிக்கையை ஊக்கப்படுத்தி, மேலும் அறிவை அதிகரிப்பதற்கும், மாறிய பாலினத்தையும் பாலின வேறுபாடுகளையும் அடையாளம் காணும் குழந்தைகளுக்கு ஆதரவு வழியை உருவாக்கும். ஆவணங்களை வழங்குவதற்கும், நிகழ்வுகளை ஏற்பாடு செய்வதற்கும், குடும்பங்களை ஆதரவு குழுக்களுக்கு இணைக்கும் ஆணைகளை இணைக்கின்றோம்."
+  },
+  {
+    "id": "fd668dd8-3ca8-4950-8047-8498998af95c",
+    "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
+    "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "partner-resources"
+    ],
+    "address": null,
+    "phoneNumber": "1-866-488-7386",
+    "country": "US",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "டிரான்ஸ்ஜென்டர் மற்றும் நன்பைனரி இளைஞர்களுக்கு ஆதரவாக இருப்பதன் கையேடு",
+    "description": "டிரான்ஸ்ஜென்டர் மற்றும் நன்பைனரி இளைஞர்களை ஆதரிக்கும் வழிகாட்டிகள் மற்றும் சிறந்த நடைமுறைகள் ஆகியவற்றை விரிவாக வழங்கும் அறிமுகப் பயிற்சி வளமாகும். பாலினத் தனிமுறையின் அடிப்படைகள் மீது உங்கள் கல்வியை தொடங்க இந்த கையேடு முக்கியமாகத் திகழ்கின்றது."
   }
 ]
