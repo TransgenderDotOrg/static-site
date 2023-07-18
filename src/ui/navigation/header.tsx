@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 import {
   Box,
   Popover,
+  Popper,
   SxProps,
   Typography,
   styled,
@@ -143,30 +144,22 @@ export interface MenuItemProps {
 }
 
 export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
-  const [isOpen, setIsOpen] = React.useState(false);
   const [anchorEl, setAnchorEl] = React.useState<Element | null>(null);
 
   const navigate = useNavigate();
 
   const ref = useRef<HTMLAnchorElement>(null);
 
-  // listen for clicks or escape to close the menu
+  // listen for clicks to close the menu
   React.useEffect(() => {
-    const closeMenu = () => isOpen && setIsOpen(false);
+    const closeMenu = () => anchorEl && setAnchorEl(null);
 
     document.addEventListener("click", closeMenu);
-    document.addEventListener("keyup", (e) => {
-      if (e.key === "Escape") {
-        e.stopPropagation();
-        closeMenu();
-      }
-    });
 
     return () => {
       document.removeEventListener("click", closeMenu);
-      document.removeEventListener("keyup", closeMenu);
     };
-  }, [isOpen]);
+  }, [anchorEl]);
 
   return (
     <MenuItemContainer
@@ -191,6 +184,7 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
           }
 
           if (!anchorEl) {
+            e.stopPropagation();
             setAnchorEl(ref.current);
           } else {
             setAnchorEl(null);
@@ -205,19 +199,18 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
       </a>
 
       {children && (
-        <Popover
+        <Popper
           open={Boolean(anchorEl)}
           anchorEl={anchorEl}
-          onClose={() => setAnchorEl(null)}
-          anchorOrigin={{
-            vertical: "bottom",
-            horizontal: "left",
+          popperOptions={{
+            placement: "bottom-start",
+          }}
+          sx={{
+            zIndex: 100,
           }}
         >
-          <Typography onClick={() => setAnchorEl(null)} variant="body1">
-            {children}
-          </Typography>
-        </Popover>
+          <Typography variant="body1">{children}</Typography>
+        </Popper>
       )}
     </MenuItemContainer>
   );

@@ -12,6 +12,13 @@
       src="https://www.googletagmanager.com/gtag/js?id=G-EFRVBGJ2HC"
     ></script>
     <script>
+      // if http then redirect to https
+      if (location.protocol !== "https:") {
+        location.replace(
+          `https:${location.href.substring(location.protocol.length)}`
+        );
+      }
+
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
