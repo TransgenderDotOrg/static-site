@@ -1,5 +1,12 @@
 import React, { useRef } from "react";
-import { Box, SxProps, Typography, styled, useTheme } from "@mui/material";
+import {
+  Box,
+  Popover,
+  SxProps,
+  Typography,
+  styled,
+  useTheme,
+} from "@mui/material";
 import { useLocation, useNavigate } from "react-router-dom";
 import { ReactComponent as CaratDown } from "../../assets/carat-down.svg";
 import { ReactComponent as SearchIcon } from "../../assets/search.svg";
@@ -8,7 +15,6 @@ import { ReactComponent as MenuIcon } from "../../assets/menu.svg";
 import { ReactComponent as EscapeButton } from "../../assets/escape-button.svg";
 import logoUrl from "../../assets/logo.svg";
 import { Button } from "../button";
-import { useTranslation } from "react-i18next";
 import i18n from "../../i18n";
 import tags from "../../../tags.json";
 
@@ -138,6 +144,7 @@ export interface MenuItemProps {
 
 export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
   const [isOpen, setIsOpen] = React.useState(false);
+  const [anchorEl, setAnchorEl] = React.useState<Element | null>(null);
 
   const navigate = useNavigate();
 
@@ -178,11 +185,16 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
           if (href) {
             e.preventDefault();
 
-            if (!children || (children && isOpen)) {
+            if (!children || (children && anchorEl)) {
               navigate(href);
             }
           }
-          setIsOpen(!isOpen);
+
+          if (!anchorEl) {
+            setAnchorEl(ref.current);
+          } else {
+            setAnchorEl(null);
+          }
         }}
       >
         <HeaderTypography>
@@ -192,25 +204,20 @@ export const MenuItem = ({ href, title, children, sx }: MenuItemProps) => {
         </HeaderTypography>
       </a>
 
-      {children && isOpen && (
-        <Typography
-          variant="body1"
-          sx={{
-            display: "block",
-            position: "absolute",
-            left: 0,
-            top: "100%",
-
-            "@media (max-width: 1200px)": {
-              position: "unset",
-              marginTop: "0.5rem",
-              left: "unset",
-              top: "unset",
-            },
+      {children && (
+        <Popover
+          open={Boolean(anchorEl)}
+          anchorEl={anchorEl}
+          onClose={() => setAnchorEl(null)}
+          anchorOrigin={{
+            vertical: "bottom",
+            horizontal: "left",
           }}
         >
-          {children}
-        </Typography>
+          <Typography onClick={() => setAnchorEl(null)} variant="body1">
+            {children}
+          </Typography>
+        </Popover>
       )}
     </MenuItemContainer>
   );

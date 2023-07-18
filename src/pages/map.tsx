@@ -23,16 +23,18 @@ export const Marker = (props: MarkerProps) => {
   const [anchorEl, setAnchorEl] = React.useState<null | Element>(null);
 
   return (
-    <div style={{ position: "relative" }}>
-      <MarkerIcon
-        onClick={(e) => setAnchorEl(e.currentTarget)}
-        style={{
-          position: "absolute",
-          bottom: 0,
-          left: "calc(50% - 10px)",
-          cursor: "pointer",
-        }}
-      />
+    <>
+      <div style={{ position: "relative" }}>
+        <MarkerIcon
+          onClick={(e) => setAnchorEl(e.currentTarget)}
+          style={{
+            position: "absolute",
+            bottom: 0,
+            left: "calc(50% - 10px)",
+            cursor: "pointer",
+          }}
+        />
+      </div>
       <Menu
         anchorEl={anchorEl}
         open={Boolean(anchorEl)}
@@ -117,7 +119,7 @@ export const Marker = (props: MarkerProps) => {
           </Typography>
         )}
       </Menu>
-    </div>
+    </>
   );
 };
 
@@ -152,6 +154,9 @@ export const MapPage = () => {
       }}
     >
       <GoogleMapReact
+        options={{
+          fullscreenControl: false,
+        }}
         bootstrapURLKeys={{
           key: process.env.GOOGLE_MAPS_API_KEY ?? "",
         }}
