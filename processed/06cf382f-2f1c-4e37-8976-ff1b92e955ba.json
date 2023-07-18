@@ -1,0 +1,29 @@
+{
+  "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+  "title": "North Shore Alliance of Gay, Lesbian, Bisexual and Transgender Youth (NAGLY)",
+  "description": "NAGLY's mission is to honor, respect, educate, and empower GLBTQ+ youth. They foster a community through local programs and support services, including youth and adult groups and various community activities. They offer mental health resources, provide healthcare education, and offer many opportunities for the LGBTQ+ community to connect and share their experiences.",
+  "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+  "externalUrl": "https://www.nagly.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "mental-health",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": "Salem, MA, USA",
+  "phoneNumber": "978-224-2102",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Salem",
+  "county": "Essex County",
+  "latLng": [
+    42.5197473,
+    -70.8954626
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+  "title": "Margie’s Hope",
+  "description": "Margie’s Hope was founded in 2011 by Jacob Nash. Our history and purpose has been to enrich the lives of Transgender, Non-Binary, and Gender Expansive people in the community. Margie’s Hope offers resources and support through various community programs and a not for profit resale store.",
+  "slug": "margies-hope",
+  "externalUrl": "https://www.margieshope.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services",
+    "support-groups",
+    "youth-services",
+    "community-stories",
+    "education-awareness",
+    "clothing"
+  ],
+  "address": null,
+  "phoneNumber": "(440) 857-0611",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "info@margieshope.org",
+  "socialMedia": null
+}

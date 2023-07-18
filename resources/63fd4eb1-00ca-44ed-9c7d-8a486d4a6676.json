@@ -1,0 +1,121 @@
+{
+  "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+  "slug": "brave-space-alliance",
+  "externalUrl": "https://bravespacealliance.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+  "phoneNumber": "(872) 333-5199",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Chicago",
+  "county": "Cook County",
+  "latLng": [
+    41.7997305,
+    -87.5885496
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+    "twitterUrl": "https://twitter.com/BSAllianceChi",
+    "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+    "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance is the first Black-led, trans-led LGBTQ+ Center located on the South Side of Chicago, providing affirming and culturally competent services for the entire LGBTQ+ community of Chicago."
+    },
+    "fr-FR": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance est le premier centre LGBTQ+ dirigé par des Noirs et des trans, situé sur le côté sud de Chicago, fournissant des services affirmatifs et culturellement compétents pour toute la communauté LGBTQ+ de Chicago."
+    },
+    "id-ID": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance adalah Pusat LGBTQ+ pertama yang dipimpin oleh orang kulit hitam dan trans di sisi Selatan Chicago, menyediakan layanan yang mendukung dan kompeten secara budaya untuk seluruh komunitas LGBTQ+ di Chicago."
+    },
+    "es-ES": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance es el primer Centro LGBTQ+ dirigido por negros y trans ubicado en el lado sur de Chicago, proporcionando servicios afirmativos y culturalmente competentes para toda la comunidad LGBTQ+ de Chicago."
+    },
+    "pt-PT": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance é o primeiro Centro LGBTQ+ liderado por negros e trans localizado no lado sul de Chicago, fornecendo serviços afirmativos e culturalmente competentes para toda a comunidade LGBTQ+ de Chicago."
+    },
+    "ja-JP": {
+      "title": "ブレイブ・スペース・アライアンス",
+      "description": "ブレイブ・スペース・アライアンスは、シカゴ南部に位置する最初のブラックリード、トランスリードLGBTQ+センターで、シカゴの全LGBTQ+コミュニティに対して肯定的で文化的に適応したサービスを提供しています。"
+    },
+    "tr-TR": {
+      "title": "Cesur Uzay İttifakı",
+      "description": "Cesur Uzay İttifakı, Chicago'nun Güney Yakası'nda bulunan ilk Siyah liderli ve trans liderli LGBTQ+ Merkezi'dir, Chicago'nun tüm LGBTQ+ topluluğuna onaylayıcı ve kültürel olarak yetkin hizmetler sağlar."
+    },
+    "sw-KE": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance ni kituo cha kwanza cha LGBTQ+ kinachoongozwa na watu weusi na wale wa jinsia mbalimbali kilichopo upande wa kusini mwa Chicago, kinatoa huduma zinazokubalika na zilizo na uwezo wa kitamaduni kwa jumuiya nzima ya LGBTQ+ ya Chicago."
+    },
+    "vi-VN": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance là Trung tâm LGBTQ+ đầu tiên do người da đen và người chuyển giới lãnh đạo, tọa lạc ở phía Nam Chicago, cung cấp dịch vụ xác nhận và văn hóa cho toàn bộ cộng đồng LGBTQ+ của Chicago."
+    },
+    "uk-UA": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance - центр, керований чорними та трансгендерними людьми, є першим LGBTQ+ центром, розташованим на Південному заході Чикаго, що надає підтримуючі та культурно компетентні послуги для всієї LGBTQ+ громади Чикаго."
+    },
+    "zh-CN": {
+      "title": "勇敢空间联盟",
+      "description": "勇敢空间联盟是位于芝加哥南侧的首个由黑人领导、跨性别领导的LGBTQ+中心，为芝加哥整个LGBTQ+社区提供肯定和文化适应的服务。"
+    },
+    "ru-RU": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance - это первый Центр LGBTQ+, возглавляемый темнокожими и трансгендерами, расположенный на южной стороне Чикаго, предоставляющий утверждающие и культурно компетентные услуги для всего сообщества LGBTQ+ Чикаго."
+    },
+    "de-DE": {
+      "title": "Brave Space Alliance",
+      "description": "Die Brave Space Alliance ist das erste von Schwarzen geleitete, trans-geleitete LGBTQ+ Zentrum, das sich auf der Südseite von Chicago befindet und bejahende und kulturell kompetente Dienstleistungen für die gesamte LGBTQ+ Gemeinschaft von Chicago bereitstellt."
+    },
+    "ar-SA": {
+      "title": "تحالف الفضاء الشجاع",
+      "description": "تحالف الفضاء الشجاع هو أول مركز يقوده الأشخاص السود والمتحولون جنسياً في مجتمع LGBTQ+ والذي يقع في الجانب الجنوبي من شيكاغو، يقدم خدمات مؤكدة ومتوافقة ثقافياً لكل مجتمع LGBTQ+ في شيكاغو."
+    },
+    "ko-KR": {
+      "title": "브레이브 스페이스 얼라이언스",
+      "description": "브레이브 스페이스 얼라이언스는 시카고 남부에 위치한 첫 번째 흑인 지도자, 트랜스 지도자가 이끄는 LGBTQ+ 센터로, 시카고 전체 LGBTQ+ 커뮤니티를 위한 긍정적이고 문화적으로 적절한 서비스를 제공합니다."
+    },
+    "ur-PK": {
+      "title": "بریو سپیس الائنس",
+      "description": "بریو سپیس الائنس شکاگو کے ساؤتھ سائڈ پر واقع ایل جی بی ٹی کیو + سینٹر کی پہلی بلیک-لیڈ، ٹرانس-لیڈ ہے ، جو شکاگو کے پورے ایل جی بی ٹی کیو + کمیونٹی کے لئے تصدیق و تکمیل کی خدمات فراہم کرتا ہے."
+    },
+    "hi-IN": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance शिकागो के दक्षिण यानी चिकागो के South Side में स्थित पहला काले और ट्रान्सजेंडर नेतृत्व वाला LGBTQ+ केंद्र है, जो शिकागो के पूरे LGBTQ+ समुदाय के लिए स्वीकार्य और सांस्कृतिक योग्य सेवाएं प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance হলেন প্রথম কালো-নেতৃত্বাধীন, ট্রান্স-নেতৃত্বাধীন এলজিবিটিকিউ+ কেন্দ্র যা শিকাগোর দক্ষিণ পাশে অবস্থিত, পুরো শিকাগোর এলজিবিটিকিউ+ সম্প্রদায়ের জন্য সমর্থনমূলক এবং সাংস্কৃতিগতভাবে যোগ্য পরিষেবা প্রদান করে।"
+    },
+    "mr-IN": {
+      "title": "Brave Space Alliance",
+      "description": "ब्रेव स्पेस अलायन्स ही शिकागोच्या दक्षिण बाजूला असलेली पहिली कृष्णनेतृत्वाची, ट्रान्स-नेतृत्वाची LGBTQ+ सेंटर आहे, ज्याने शिकागोच्या संपूर्ण LGBTQ+ समुदायासाठी गुंतवणूक करणारी आणि सांस्कृतिकरूपे सुयोग्य सेवा दिलेली आहे."
+    },
+    "te-IN": {
+      "title": "Brave Space Alliance",
+      "description": "Brave Space Alliance అనేది తొలి నలుమూలల నేతృత్వంలోని, ట్రాన్స్-నేతృత్వమైన LGBTQ+ కేంద్రం అది చికాగో నగరం యొక్క దక్షిణ భాగంలో స్థితి చేసింది, చికాగో యొక్క మొత్తం LGBTQ+ సముదాయానికి ఆత్మీయంగా మరియు సంస్కృతికంగా సమీకృత సేవలను అందిస్తుంది."
+    },
+    "ta-IN": {
+      "title": "பிரேவ் ஸ்பேஸ் அலையன்ஸ்",
+      "description": "பிரேவ் ஸ்பேஸ் அலையன்ஸ் முதன்முதனமாக சிகாகோவின் தெற்கு பகுதியில் உள்ள முதலில் பிளாக்-வழிகாட்டிய, ட்ரான்ஸ்-வழிகாட்டிய புருஷங்களின் மிகவும் மதிப்புள்ள மையத்திருப்பது, சிகாகோவின் முழுவதுமான புருஷங்களின் அழகு மற்றும் பண்புக்கு உரிய சேவைகளை வழங்குகிறது."
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+  "slug": "identity-alaska",
+  "externalUrl": "https://www.identityalaska.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "education-awareness",
+    "community-stories",
+    "support-groups"
+  ],
+  "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+  "phoneNumber": "(907) 865-3247",
+  "country": "US",
+  "provinceOrState": "AK",
+  "city": "Anchorage",
+  "county": "Anchorage Municipality",
+  "latLng": [
+    61.1955918,
+    -149.8774355
+  ],
+  "email": "info@identityinc.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/IdentityInc",
+    "twitterUrl": null,
+    "instagramUrl": "https://www.instagram.com/identityalaska/",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Identity Alaska",
+      "description": "Alaska-based nonprofit community center and health clinic providing resources, programs, and healthcare for the LGBTQIA2S+ and allied community."
+    },
+    "es-ES": {
+      "title": "Identidad Alaska",
+      "description": "Centro comunitario y clínica de salud sin fines de lucro con sede en Alaska que proporciona recursos, programas y atención médica para la comunidad LGBTQIA2S+ y aliada."
+    },
+    "pt-PT": {
+      "title": "Identidade Alasca",
+      "description": "Centro comunitário sem fins lucrativos e clínica de saúde com base no Alasca que fornece recursos, programas e assistência à saúde para a comunidade LGBTQIA2S+ e aliada."
+    },
+    "id-ID": {
+      "title": "Identitas Alaska",
+      "description": "Pusat komunitas dan klinik kesehatan nirlaba berbasis di Alaska yang menyediakan sumber daya, program, dan perawatan kesehatan untuk komunitas LGBTQIA2S+ dan sekutu."
+    },
+    "zh-CN": {
+      "title": "阿拉斯加的身份",
+      "description": "位于阿拉斯加的非营利社区中心和健康诊所，为LGBTQIA2S+及其盟友社区提供资源，计划和健府资源。"
+    },
+    "ru-RU": {
+      "title": "Идентичность Аляска",
+      "description": "Некоммерческий общественный центр и медицинская клиника на базе Аляски, предоставляющие ресурсы, программы и медицинское обслуживание для сообщества LGBTQIA2S+ и союзников."
+    },
+    "fr-FR": {
+      "title": "Identité Alaska",
+      "description": "Centre communautaire et clinique de santé à but non lucratif basé en Alaska fournissant des ressources, des programmes et des soins de santé pour la communauté LGBTQIA2S+ et alliée."
+    },
+    "de-DE": {
+      "title": "Identität Alaska",
+      "description": "Alaska-basiertes gemeinnütziges Gemeindezentrum und Gesundheitsklinik, welche Ressourcen, Programme und Gesundheitsversorgung für die LGBTQIA2S+ und verbündete Gemeinschaft bereitstellt."
+    },
+    "tr-TR": {
+      "title": "Identity Alaska",
+      "description": "Alaska merkezli, kâr amacı gütmeyen bir toplum merkezi ve sağlık kliniği, LGBTQIA2S+ ve müttefik topluluk için kaynaklar, programlar ve sağlık hizmetleri sunmaktadır."
+    },
+    "ko-KR": {
+      "title": "Identity Alaska",
+      "description": "알래스카 기반 비영리 커뮤니티 센터 및 보건 클리닉이 LGBTQIA2S+ 및 동맹 커뮤니티를 위한 자원, 프로그램, 그리고 건강 관리를 제공합니다."
+    },
+    "sw-KE": {
+      "title": "Utambulisho Alaska",
+      "description": "Kituo cha jamii kisicho na faida na kituo cha afya kilicho msingi wa Alaska kinatoa rasilimali, mipango, na huduma za afya kwa jumuia ya LGBTQIA2S+ na jumuiya iliyounganika."
+    },
+    "ur-PK": {
+      "title": "شناخت الاسکا",
+      "description": "الاسکا کا غیر منفعتی کمیونٹی سنٹر اور صحت کا کلینک جو وسائل، پروگرام, اور صحت کی دیکھ بھال فراہم کرتا ہے LGBTQIA2S + اور متحدہ برادری کے لئے۔"
+    },
+    "vi-VN": {
+      "title": "Identity Alaska",
+      "description": "Trung tâm cộng đồng và phòng khám y tế phi lợi nhuận tại Alaska cung cấp tài nguyên, chương trình và dịch vụ y tế cho cộng đồng LGBTQIA2S+ và đồng minh."
+    },
+    "ja-JP": {
+      "title": "アイデンティティ・アラスカ",
+      "description": "アラスカ州に基づく非営利団体のコミュニティセンターとヘルスクリニックで、LGBTQIA2S+および同盟コミュニティに対してリソース、プログラム、およびヘルスケアを提供しています。"
+    },
+    "ar-SA": {
+      "title": "هوية ألاسكا",
+      "description": "مركز مجتمع وعيادة صحة غير ربحية مقرها ألاسكا توفر الموارد والبرامج والرعاية الصحية للمجتمع LGBTQIA2S+ والمجتمع التحالف."
+    },
+    "uk-UA": {
+      "title": "Ідентичність Аляска",
+      "description": "Благодійний громадський центр та клініка, які базуються на Алясці, надають ресурси, програми та медичне обслуговування для LGBTQIA2S+ та сприязнених спільнот."
+    },
+    "mr-IN": {
+      "title": "आयडेंटिटी अलास्का",
+      "description": "अलास्का-आधारित नॉनप्रॉफिट समुदाय केंद्र आणि आरोग्य क्लिनिक ज्या माध्यमातून LGBTQIA2S+ आणि संबंधीत समुदायासाठी संसाधने, कार्यक्रमे आणि आरोग्यसेवा प्रदान करत आहे."
+    },
+    "hi-IN": {
+      "title": "आइडेंटिटी अलास्का",
+      "description": "LGBTQIA2S+ और संबंधित समुदाय के लिए संसाधन, कार्यक्रम और स्वास्थ्य सेवा प्रदान करने वाला अलास्का-आधारित गैर-लाभकारी समुदाय केंद्र और स्वास्थ्य क्लिनिक।"
+    },
+    "bn-BD": {
+      "title": "আইডেন্টিটি আলাস্কা",
+      "description": "এলজিবিটিকিআইএ২এস+ এবং সমর্থক সম্প্রদায়ের জন্য সম্পদ, প্রোগ্রাম এবং স্বাস্থ্যসেবা প্রদানের আলাস্কা-ভিত্তিক অলাভজনক সম্প্রদায় কেন্দ্র এবং স্বাস্থ্য ক্লিনিক।"
+    },
+    "ta-IN": {
+      "title": "ஐடென்டிட்டி அலாஸ்கா",
+      "description": "LGBTQIA2S+ மற்றும் சேர்ந்த சமுதாயத்திற்கு வளங்கள், திட்டங்கள், மற்றும் சுகாதார ஆலோசனை வழங்கும் அலாஸ்கா-அடிப்படை மாசு மையத்தின் மற்றும் சுகாதார மருத்துவமனையின் விவரம்."
+    },
+    "te-IN": {
+      "title": "ఐడెంటిటీ అలాస్కా",
+      "description": "ఎల్‌జిబిటీక్యూఐఏ2ఎస్+ మరియు సూత్రధార సంఘానికి సంస్థలు, ప్రోగ్రాములు మరియు ఆరోగ్య సువిధలను అందించే అలాస్కా-ఆధారిత లాభహీన సంఘ కేంద్రం మరియు ఆరోగ్య క్లినిక్."
+    }
+  }
+}

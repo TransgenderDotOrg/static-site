@@ -1,0 +1,107 @@
+{
+  "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+  "slug": "topsurgery-net",
+  "externalUrl": "https://www.topsurgery.net/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net is a comprehensive resource for individuals seeking information on FTM top surgery procedures. The resource provides details on various types of surgical procedures, how to find a surgeon, information on costs and insurance, FAQs, and other relevant resources for transmasculine and non-binary individuals pursuing top surgery. It also includes educational content such as book recommendations, video tutorials, and articles on related topics."
+    },
+    "es-ES": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net es un recurso integral para las personas que buscan información sobre los procedimientos de cirugía superior FTM. El recurso proporciona detalles sobre varios tipos de procedimientos quirúrgicos, cómo encontrar un cirujano, información sobre costos y seguros, preguntas frecuentes y otros recursos relevantes para las personas transmasculinas y no binarias que persiguen la cirugía superior. También incluye contenido educativo como recomendaciones de libros, tutoriales en video y artículos sobre temas relacionados."
+    },
+    "pt-PT": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net é um recurso abrangente para indivíduos em busca de informações sobre procedimentos de cirurgia de topo FTM. O recurso fornece detalhes sobre vários tipos de procedimentos cirúrgicos, como encontrar um cirurgião, informações sobre custos e seguro, FAQs e outros recursos relevantes para indivíduos transmasculinos e não-binários que buscam a cirurgia de topo. Também inclui conteúdo educacional, como recomendações de livros, tutoriais em vídeo e artigos sobre tópicos relacionados."
+    },
+    "de-DE": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net ist eine umfassende Ressource für Personen, die Informationen zu FTM-Top-Operationen suchen. Die Ressource bietet Details zu verschiedenen Arten von chirurgischen Eingriffen, wie man einen Chirurgen findet, Informationen zu Kosten und Versicherungen, FAQs und andere relevante Ressourcen für transmaskuline und nicht-binäre Personen, die eine Top-Operation anstreben. Es beinhaltet auch Bildungsinhalte wie Buchempfehlungen, Video-Tutorials und Artikel zu verwandten Themen."
+    },
+    "fr-FR": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net est une ressource complète pour les individus à la recherche d'informations sur les procédures de chirurgie du haut du corps FTM. La ressource fournit des détails sur divers types de procédures chirurgicales, comment trouver un chirurgien, des informations sur les coûts et les assurances, les FAQ et d'autres ressources pertinentes pour les individus transmasculins et non-binaires cherchant à subir une chirurgie du haut du corps. Il comprend également du contenu éducatif tel que des recommandations de livres, des tutoriels vidéo, et des articles sur des sujets connexes."
+    },
+    "tr-TR": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net, FTM top cerrahi prosedürleri hakkında bilgi arayan bireyler için kapsamlı bir kaynaktır. Kaynak, çeşitli türlerdeki cerrahi prosedürler, bir cerrah bulma, maliyet ve sigorta bilgileri, SSS ve top cerrahisi uygulamayı planlayan translar ve non-binary bireyler için diğer ilgili kaynaklar hakkında ayrıntılar sağlar. Ayrıca kitap önerileri, video eğitimleri ve ilgili konulardaki makaleler gibi eğitici içerikler de içerir."
+    },
+    "id-ID": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net adalah sumber daya komprehensif bagi individu yang mencari informasi tentang prosedur operasi top FTM. Sumber daya ini menyediakan detail tentang berbagai jenis prosedur operasi, cara mencari seorang dokter bedah, informasi tentang biaya dan asuransi, FAQ, dan sumber daya relevan lainnya untuk individu transmasculine dan non-binary yang mengejar operasi top. Ini juga mencakup konten edukatif seperti rekomendasi buku, tutorial video, dan artikel tentang topik terkait."
+    },
+    "zh-CN": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net是一个全面的资源，供寻求FTM顶部手术程序信息的个体使用。该资源提供了各种类型的手术程序、如何找到外科医生、费用和保险信息、常见问题以及对于正进行顶部手术的跨性别男性和非二元性别个体的其他相关资源的详细信息。它还包含了如书籍推荐、视频教程和与相关主题有关的文章等教育性内容。"
+    },
+    "ko-KR": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net은 FTM 상체 수술 절차에 대한 정보를 찾는 개인들을 위한 종합적인 자원입니다. 이 자원은 다양한 종류의 수술 절차, 수술사를 찾는 방법, 비용 및 보험에 대한 정보, 자주 묻는 질문, 상체 수술을 추구하는 트랜스매스큘린 및 논바이너리 개인들을 위한 기타 관련 자원에 대한 세부 정보를 제공합니다. 또한 책 추천, 비디오 튜토리얼, 관련 주제에 대한 기사와 같은 교육적인 내용도 포함하고 있습니다."
+    },
+    "sw-KE": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net ni rasilimali kamili kwa watu wanaotafuta habari kuhusu taratibu za upasuaji wa juu wa FTM. Rasilimali inatoa maelezo kuhusu aina mbalimbali za taratibu za upasuaji, jinsi ya kupata daktari wa upasuaji, habari kuhusu gharama na bima, maswali yanayoulizwa mara kwa mara, na rasilimali zingine zinazohusiana kwa watu wa jinsia-sio-maana na wasio wa kawaida wanaof pursuing ufuatiliaji wa upasuaji wa juu. Pia inajumuisha maudhui ya elimu kama vile mapendekezo ya vitabu, mafunzo ya video, na makala juu ya mada zinazohusiana."
+    },
+    "ja-JP": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.netは、FTMトップサージェリープロシージャに関する情報を求めている人々向けの包括的なリソースです。このリソースでは、各種の手術手順、外科医の探し方、費用や保険に関する情報、FAQ、トップサージェリーを追求するトランスマスキュリンおよびノンバイナリーの方々のためのその他の関連リソースについて詳しく説明されています。また、書籍の推奨、ビデオチュートリアル、関連トピックの記事などの教育的なコンテンツも含まれています。"
+    },
+    "vi-VN": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net là một nguồn thông tin toàn diện dành cho những người đang tìm kiếm thông tin về các phẫu thuật FTM top surgery. Nguồn thông tin cung cấp chi tiết về các loại phẫu thuật khác nhau, cách tìm bác sĩ phẫu thuật, thông tin về chi phí và bảo hiểm, câu hỏi thường gặp, và các nguồn thông tin khác liên quan đến việc thực hiện phẫu thuật cho những người chuyển giới nam và những người không xác định giới tính. Nó cũng bao gồm các nội dung giáo dục như đề xuất sách, video hướng dẫn, và các bài viết về các chủ đề liên quan."
+    },
+    "ru-RU": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net - это всесторонний ресурс для людей, ищущих информацию о процедурах верхней хирургии FTM. Ресурс предоставляет подробности о различных видах хирургических процедур, как найти хирурга, информацию о стоимости и страховании, часто задаваемые вопросы и другие релевантные ресурсы для трансмаскулинных и небинарных индивидов, преследующих верхнюю хирургию. Он также включает образовательный контент, такой как рекомендации книг, видеоуроки и статьи на связанные темы."
+    },
+    "uk-UA": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net - це всеосяжний ресурс для осіб, які шукають інформацію про процедури FTM верхньої хірургії. Ресурс надає деталі про різні типи хірургічних процедур, як знайти хірурга, інформацію про витрати та страхування, ЧаПи, та інші відповідні ресурси для трансмаскулінних та небінарних осіб, які проводять верхню хірургію. Він також включає освітній контент, такий як рекомендації книг, відеоуроків та статей на пов'язані теми."
+    },
+    "mr-IN": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net हे FTM टॉप सर्जरी प्रक्रियांची माहिती शोधणार्या व्यक्तींसाठी व्यापक संसाधन आहे. हा संसाधन विविध प्रकारच्या शल्यक्रिया, सर्जन मिळवण्याची माहिती, खर्च आणि विमा, प्रश्नोत्तरे, आणि टॉप सर्जरीसाठी जाणाण्यासाठी अन्य संबंधित संसाधन यांचा विवरण पुरवते. त्यात अनुषंगातिल विषयांवरील लेखे, पुस्तकांची शिफारसी, व्हिडिओ ट्यूटोरियल यांचा समावेश असलेला शैक्षणिक मजकूरही आहे."
+    },
+    "ar-SA": {
+      "title": "TopSurgery.net",
+      "description": "يعد TopSurgery.net موردًا شاملاً للأفراد الذين يبحثون عن معلومات حول إجراءات جراحة الأعلى لـ FTM. يوفر الموارد تفاصيل عن أنواع مختلفة من الإجراءات الجراحية، كيفية العثور على جراح، معلومات عن التكاليف و التأمين، الأسئلة المتكررة، وغيرها من الموارد ذات الصلة للأفراد غير الثنائيين وذوي الهوية الجنسانية الذكورية الذين يرغبون في إجراء جراحة الأعلى. كما يتضمن محتوى تعليمي مثل توصيات الكتب، والدروس التعليمية بالفيديو، والمقالات حول المواضيع ذات الصلة."
+    },
+    "ur-PK": {
+      "title": "ٹاپسرجری.نیٹ",
+      "description": "ٹاپسرجری.نیٹ ایک جامع وسیلہ ہے جو FTM ٹاپ سرجری کے طریقہ کاروں پر معلومات حاصل کرنے کے تلاش میں افراد کے لئے ہے. اس وسیلے میں مختلف قسم کے سرجیکل طریقہ کاروں ، سرجن کے تلاش کرنے کے طریقے ، خرچ اور بیمہ پر معلومات ، عمومی سوالات، اور ٹاپ سرجری کے پیچھے جانے والے خودسری مرد و غیر بائنری افراد کے لئے معاشرتی وسائل پر تفصیلات فراہم کرتا ہے. یہ تعلیمی مواد بھی شامل ہوتے ہیں جیسے کتابوں کی سفارشات ، ویڈیو ٹیوٹوریلز ، اور متعلقہ موضوعات پر مضامین."
+    },
+    "hi-IN": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net एफटीएम टॉप सर्जरी प्रक्रियाओं की जानकारी की खोज कर रहे व्यक्तियों के लिए एक व्यापक संसाधन है। इस संसाधन में विभिन्न प्रकार की सर्जिकल प्रक्रियाओं, सर्जन का चयन कैसे करें, लागत और बीमा पर जानकारी, सामान्य प्रश्न, और टॉप सर्जरी की पीछे जा रहे ट्रांसमास्कुलिन और गैर-बाइनरी व्यक्ति के लिए अन्य संबंधित संसाधनों पर विस्तार से जानकारी प्रदान करता है। इसमें पुस्तक की सिफारिशों, वीडियो ट्यूटोरियल्स, और संबंधित विषयों पर लेख जैसी शैक्षिक सामग्री भी शामिल है।"
+    },
+    "bn-BD": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net হলো FTM টপ সার্জারি পদ্ধতিগুলোর তথ্যের জন্য গুরুত্বপূর্ণ সংস্থান। এই সংস্থানটি বিভিন্ন ধরনের সার্জিকল পদ্ধতি, সার্জন কীভাবে খুঁজে পেতে হবে, খরচ এবং বীমা সম্পর্কিত তথ্য, প্রশ্নোত্তর এবং টপ সার্জারির ক্ষেত্রে ট্রান্সম্যাসকুলিন এবং নন-বাইনারি ব্যক্তিদের জন্য অন্যান্য প্রাসঙ্গিক সংস্থান প্রদান করে। এটি বই সুপারিশ, ভিডিও টিউটোরিয়াল এবং সম্পর্কিত বিষয়গুলোর উপর নিবন্ধ সহ শিক্ষামূলক সামগ্রী অন্তর্ভুক্ত করে।"
+    },
+    "ta-IN": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net என்பது FTM மேல் அறுவை சிகிச்சை செயல்பாடுகள் குறித்த தகவல் தேடும் நபர்களுக்கான ஒரு விரிவான வளங்கள் ஆகும். இந்த வளம் பல்வேறு வகையான அறுவை சிகிச்சை செயல்பாடுகள், அறுவை மருத்துவரைக் கண்டறியும் வழிகள், சிகிச்சை செலவுகள் மற்றும் காப்பீட்டு தகவல்கள், அடிக்கடி கேட்கப்படும் கேள்விகள், மேல் அறுவை சிகிச்சைக்காக தொழிலாளர்களைக் கேட்கும் மிக முக்கியமான வளங்களுக்கும் அச்சுறுத்தல்களை வழங்குகிறது. இது புத்தக பரிந்துரைகள், வீடியோ முழுமைப்பாடுகள், தொடர்புடைய விஷயங்களில் கட்டுரைகள் முதலியன கல்வி உள்ளடக்கங்களையும் ஏற்கனவே கொண்டுள்ளது."
+    },
+    "te-IN": {
+      "title": "TopSurgery.net",
+      "description": "TopSurgery.net అనేది FTM టాప్ శస్త్రచికిత్స క్రమాలపై సమాచారాన్ని శోధిస్తున్న వ్యక్తులకు ఒక పూర్తి సమాచార వనరు. ఈ వనరు వివిధ రకాల శస్త్రచికిత్స క్రమాలు, శస్త్రచికిత్సకుడను ఎలా కనుగొనవచ్చు, ఖర్చులు మరియు ఇన్సురెన్స్ పై సమాచారం, మరియు ట్రాన్స్మాస్కులైన్ మరియు అనాబధ్యత వ్యక్తులకు టాప్ శస్త్రచికిత్సను ప్రారంభించే క్రింది సమాచారంతో సహా అనేక ప్రస్తుత వనరులను అందిస్తుంది. ఇది పుస్తక సిఫారసులు, వీడియో ట్యుటోరియల్లు, మరియు సంబంధిత విషయాలపై వ్యాసాలను కూడా కలిగి ఉంటుంది."
+    }
+  }
+}

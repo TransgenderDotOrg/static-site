@@ -1,0 +1,28 @@
+{
+  "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+  "title": "Hawaii LGBT Legacy Foundation",
+  "description": "A non-profit organisation committed to supporting and promoting the LGBTQ+ community in Hawaii. It hosts a variety of projects and events including Honolulu Pride, Rainbow Town Hall and Coming Out Stories. It also provides a range of resources and support services.",
+  "slug": "hawaii-lgbt-legacy-foundation",
+  "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+  "tags": [
+    "community-stories",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": "Honolulu, HI, USA",
+  "phoneNumber": "808.369.2000",
+  "country": "US",
+  "provinceOrState": "HI",
+  "city": "Honolulu",
+  "county": "Honolulu County",
+  "latLng": [
+    21.3098845,
+    -157.8581401
+  ],
+  "email": "info@hawaiilgbtlegacy.com",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+    "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+    "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+  "title": "Equality California",
+  "description": "Equality California is an organization that brings the voices of LGBTQ+ people and allies to institutions of power in California and across the United States, striving to create a world that is healthy, just, and fully equal for all LGBTQ+ people. They advance civil rights and social justice and work tirelessly on behalf of those they serve. They provide programs, publications, legislations, endorsements and several ways to take action.",
+  "slug": "equality-california",
+  "externalUrl": "https://www.eqca.org/",
+  "tags": [
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "social-services",
+    "support-groups"
+  ],
+  "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+  "phoneNumber": "(323) 848-9801",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Los Angeles",
+  "county": "Los Angeles County",
+  "latLng": [
+    34.0500954,
+    -118.2531648
+  ],
+  "email": null,
+  "socialMedia": {}
+}

@@ -1,0 +1,117 @@
+{
+  "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+  "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+  "externalUrl": "https://www.gendergp.com/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health",
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/gendergp",
+    "twitterUrl": "https://twitter.com/GenderGP",
+    "instagramUrl": "https://www.instagram.com/gendergp",
+    "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "GenderGP: Comprehensive Support for Transgender Individuals",
+      "description": "GenderGP offers a comprehensive suite of services encompassing advocacy, advice, healthcare, and a range of complementary services for trans people globally. The platform provides an avenue for transgender individuals to access gender-affirming healthcare, legal transition assistances, and social transition supports. Through its globally accessible digital platform, GenderGP is committed to enabling trans people to live their lives more comfortably and authentically."
+    },
+    "fr-FR": {
+      "title": "GenderGP : Soutien complet pour les personnes transgenres",
+      "description": "GenderGP propose une gamme complète de services comprenant le plaidoyer, les conseils, les soins de santé et une gamme de services complémentaires pour les personnes trans dans le monde entier. La plateforme fournit un moyen pour les individus transgenres d'accéder aux soins de santé affirmant le genre, aux aides à la transition légale et aux soutiens à la transition sociale. Grâce à sa plateforme numérique accessible dans le monde entier, GenderGP s'engage à permettre aux personnes trans de vivre leur vie plus confortablement et de manière plus authentique."
+    },
+    "pt-PT": {
+      "title": "GenderGP: Suporte Abrangente para Indivíduos Transgêneros",
+      "description": "A GenderGP oferece um conjunto abrangente de serviços que abrange defesa, aconselhamento, assistência à saúde e uma variedade de serviços complementares para pessoas trans globalmente. A plataforma oferece uma via para indivíduos transgêneros acessarem assistência à saúde afirmativa de gênero, assistências legais para transição e apoios à transição social. Através de sua plataforma digital acessível globalmente, a GenderGP está comprometida em permitir que pessoas trans vivam suas vidas de maneira mais confortável e autêntica."
+    },
+    "id-ID": {
+      "title": "GenderGP: Dukungan Menyeluruh untuk Individu Transgender",
+      "description": "GenderGP menawarkan rangkaian layanan lengkap yang mencakup advokasi, saran, kesehatan, dan berbagai layanan pelengkap untuk orang-orang trans di seluruh dunia. Platform ini menyediakan jalur bagi individu transgender untuk mengakses perawatan kesehatan yang mengesahkan gender, bantuan transisi hukum, dan dukungan transisi sosial. Melalui platform digitalnya yang dapat diakses secara global, GenderGP berkomitmen untuk memungkinkan orang-orang trans menjalani hidup mereka dengan lebih nyaman dan otentik."
+    },
+    "de-DE": {
+      "title": "GenderGP: Umfassende Unterstützung für transgeschlechtliche Personen",
+      "description": "GenderGP bietet eine umfassende Palette von Dienstleistungen, die Fürsprache, Beratung, Gesundheitsversorgung und eine Reihe von ergänzenden Diensten für transgeschlechtliche Menschen weltweit umfassen. Die Plattform bietet transgeschlechtlichen Personen einen Zugang zur geschlechtsbestätigenden Gesundheitsversorgung, rechtlicher Übergangshilfe und sozialer Übergangsunterstützung. Durch seine weltweit zugängliche digitale Plattform ist GenderGP bestrebt, transgeschlechtlichen Personen ein komfortableres und authentischeres Leben zu ermöglichen."
+    },
+    "es-ES": {
+      "title": "GenderGP: Soporte integral para personas transgénero",
+      "description": "GenderGP ofrece una suite integral de servicios que abarca defensa, asesoramiento, atención médica y una variedad de servicios complementarios para personas trans en todo el mundo. La plataforma proporciona una vía para que las personas transgénero accedan a atención médica afirmante de género, asistencias de transición legal y apoyos de transición social. A través de su plataforma digital accesible a nivel mundial, GenderGP está comprometido a permitir que las personas trans vivan sus vidas de manera más cómoda y auténtica."
+    },
+    "sw-KE": {
+      "title": "GenderGP: Msaada Kamili kwa Watu binafsi wa Jinsia ya Kijinsia",
+      "description": "GenderGP inatoa seti kamili ya huduma zinazojumuisha utetezi, ushauri, huduma za afya, na huduma mbalimbali zinazolingana kwa watu wa trans ulimwenguni. Jukwaa hutoa njia kwa watu binafsi wa jinsia ya kubadilisha kupata huduma za afya zinazounga mkono jinsia, misaada ya kisheria ya mpito, na misaada ya mpito ya kijamii. Kupitia jukwaa lake la kidigitali linalopatikana ulimwenguni, GenderGP inajitolea kuwawezesha watu wa trans kuishi maisha yao kwa urahisi zaidi na ya kweli."
+    },
+    "ja-JP": {
+      "title": "GenderGP：トランスジェンダーのための包括的なサポート",
+      "description": "GenderGPは、世界中のトランスジェンダーの人々のための援護、アドバイス、ヘルスケア、そして一連の補完サービスを提供しています。このプラットフォームは、トランスジェンダーの個人が性別を確認するヘルスケア、法的な移行支援、社会的な移行支援へのアクセスを提供します。そのグローバルにアクセス可能なデジタルプラットフォームを通じて、GenderGPはトランスジェンダーの人々がより快適で真実の暮らしを送ることを可能にすることにコミットメントしています。"
+    },
+    "ru-RU": {
+      "title": "GenderGP: Полноценная поддержка для трансгендерных лиц",
+      "description": "GenderGP предлагает полный спектр услуг, включая адвокацию, советы, медицинское обслуживание, а также целый ряд вспомогательных услуг для трансгендерных людей по всему миру. Платформа предоставляет трансгендерным людям возможность получать медицинскую помощь, поддерживающую их гендерную идентичность, ассистирование при юридическом переходе, и поддержку социального перехода. С помощью своей цифровой платформы, доступной на глобальном уровне, GenderGP стремится сделать жизнь трансгендерных людей более комфортной и искренней."
+    },
+    "zh-CN": {
+      "title": "GenderGP：为跨性别个体提供全方位支持",
+      "description": "GenderGP提供一套全面的服务，包括倡导，建议，医疗保健，以及为全球跨性别人士提供一系列补充服务。该平台为跨性别个体提供了获取性别确认医疗保健，法律过渡援助和社交过渡支持的途径。通过其全球可以访问的数字平台，GenderGP致力于启用跨性别人士更舒适，真实地生活自己的生活。"
+    },
+    "tr-TR": {
+      "title": "GenderGP: Transgender Bireylere Kapsamlı Destek",
+      "description": "GenderGP, global olarak trans bireylere yönelik savunuculuk, tavsiye, sağlık hizmetleri ve tamamlayıcı hizmetlerin kapsamlı bir paketini sunar. Platform, transgender bireylerin cinsiyet onaylayıcı sağlık hizmetlerine, yasal geçiş yardımlarına ve sosyal geçiş desteklerine erişim sağlar. Küresel olarak erişilebilir dijital platformu aracılığıyla, GenderGP, trans bireylerin yaşamlarını daha rahat ve otantik bir şekilde sürdürmelerini sağlamaya kendini adamıştır."
+    },
+    "ko-KR": {
+      "title": "GenderGP: 트랜스젠더 개인을 위한 종합 지원",
+      "description": "GenderGP는 대변, 조언, 건강 관리, 그리고 전 세계 트랜스 인구를 위한 다양한 보완 서비스를 포괄하는 종합적인 서비스 제공합니다. 이 플랫폼은 트랜스젠더 개인들이 성적 확증 건강 관리, 법적 전환 지원, 그리고 사회적 전환 지원을 이용할 수 있는 경로를 제공합니다. 세계적으로 이용할 수 있는 디지털 플랫폼을 통해, GenderGP는 트랜스 인구가 좀 더 편안하고 진정성있게 삶을 살 수 있도록 헌신하고 있습니다."
+    },
+    "vi-VN": {
+      "title": "GenderGP: Hỗ Trợ Toàn Diện Cho Cá Nhân Chuyển Giới",
+      "description": "GenderGP cung cấp một bộ dịch vụ toàn diện bao gồm ủy quyền, lời khuyên, chăm sóc sức khỏe và một loạt các dịch vụ bổ sung cho người chuyển giới trên toàn thế giới. Nền tảng này cung cấp một lối vào cho cá nhân chuyển giới để truy cập vào chăm sóc sức khỏe phù hợp với giới tính, hỗ trợ chuyển đổi pháp lý và hỗ trợ chuyển đổi xã hội. Thông qua nền tảng số tiếp cận được trên toàn cầu, GenderGP cam kết giúp người chuyển giới sống cuộc sống thoải mái và chân thực hơn."
+    },
+    "uk-UA": {
+      "title": "GenderGP: Повноцінна підтримка для трансгендерних осіб",
+      "description": "GenderGP пропонує всеосяжний спектр послуг, що включає в себе пропагування, поради, медичне обслуговування та ряд додаткових послуг для транс людей по всьому світу. Платформа забезпечує можливість для трансгендерних осіб отримати доступ до медичного обслуговування, юридичних послуг з трансформації статі та соціальну підтримку під час переходу. За допомогою своєї цифрової платформи, доступної у всьому світі, GenderGP прагне надати можливість транс людям жити більш комфортно та автентично."
+    },
+    "ar-SA": {
+      "title": "GenderGP: دعم شامل لأفراد متحولي الجنس",
+      "description": "تقدم GenderGP مجموعة شاملة من الخدمات تشمل الدعوة والنصائح والرعاية الصحية ومجموعة من الخدمات المكملة للأشخاص المتحولين جنسيًا عالميًا. توفر النظام مسارًا لأفراد متحولي الجنس للوصول إلى الرعاية الصحية المؤكدة للجنس، ومساعدات الانتقال القانونية، ودعم الانتقال الاجتماعي. من خلال منصتها الرقمية التي يمكن الوصول إليها عالميًا، تلتزم GenderGP بتمكين الأشخاص المتحولين جنسيًا من العيش بشكل أكثر راحة وأصالة."
+    },
+    "ur-PK": {
+      "title": "جینڈرجی پی: ٹرانسجینڈر افراد کے لئے جامع سپورٹ",
+      "description": "جینڈرجی پی ٹرانس لوگوں کے لئے سلجھاؤ, مشورہ, صحت کی خدمات اور مکمل خدمات کا ایک جامع سلسلہ فراہم کرتی ہے جو عالمگیر طور پر قابل رسائی ہیں۔ یہ پلیٹ فارم ٹرانسجینڈر افراد کے لئے جنس تصدیقی صحت کے خدمات، قانونی ترقی کی مدد، اور سماجی ترقی کے سپورٹ تک رسائی فراہم کرتا ہے۔ جینڈر جی پی اپنے عالمگیر طور پر قابل رسائی ڈیجیٹل پلیٹ فارم کے ذریعے ٹرانس لوگوں کو اپنی زندگی زیادہ آرامدہ اور اصلی طریقے سے گزارنے کے لئے پرعزم ہے۔"
+    },
+    "mr-IN": {
+      "title": "GenderGP: ट्रान्सजेंडर व्यक्तींसाठी समग्र सहाय्य",
+      "description": "GenderGP म्हणजे पक्षपाती समर्थन, सल्ला, आरोग्यसेवा, आणि ट्रान्सजेंडर लोकांसाठी जगभरातील अतिरिक्त सेवांची एक समग्र सेवा देते. हे प्लॅटफॉर्म ट्रान्सजेंडर व्यक्तींना लिंग-स्थायी आरोग्य सेवा प्रवेश, कायदेशीर संक्रमण मदत, आणि सामाजिक संक्रमण सहाय्य मिळविण्यास एक मार्ग देते. त्याच्या जगभरातील उपलब्ध डिजिटल प्लॅटफॉर्ममार्गी, GenderGP हे ट्रान्सजेंडर लोकांना त्यांचे आयुष्य अधिक सहज आणि अभिप्रेत जगण्यास सक्षम करण्याचे प्रतिबद्ध आहे."
+    },
+    "bn-BD": {
+      "title": "GenderGP: ট্রান্সজেন্ডার ব্যক্তিদের জন্য বিস্তৃত সমর্থন",
+      "description": "GenderGP ট্রান্সজেন্ডার ব্যক্তিদের জন্য উদ্যোগ, পরামর্শ, স্বাস্থ্য সেবা এবং বিভিন্ন সহায়ী সেবা নিয়ে একটি সম্পূর্ণ প্যাকেজ অফার করে। এই প্ল্যাটফর্মটি ট্রান্সজেন্ডার ব্যক্তিদের জন্য লিঙ্গ-সমর্থন স্বাস্থ্যসেবা, আইনগত পরিবর্তনের সহায়তা এবং সামাজিক পরিবর্তনের সমর্থনের জন্য একটি বিকল্প পথ প্রদান করে। তার বিশ্বব্যাপী অভ্যন্তরে প্রবেশযোগ্য ডিজিটাল প্ল্যাটফর্মের মাধ্যমে, GenderGP ট্রান্সজেন্ডার ব্যক্তিদের তাদের জীবন আরও সুবিধাজনক এবং আসলি ভাবে বাঁচার জন্য প্রতিশ্রুতিবদ্ধ।"
+    },
+    "hi-IN": {
+      "title": "GenderGP: ट्रांसजेंडर व्यक्तियों के लिए व्यापक समर्थन",
+      "description": "GenderGP वैश्विक रूप से ट्रांस लोगों के लिए वकालत, सलाह, स्वास्थ्य सेवाएं और एक श्रृंखला की पूरक सेवाओं का एक व्यापक सेट ऑफर करता है। यह प्लेटफॉर्म ट्रांसजेंडर व्यक्तियों के लिए लिंग संरेखण स्वास्थ्य सेवाओं, कानूनी संक्रमण सहायता और सामाजिक संक्रमण समर्थन तक पहुँच प्रदान करता है। अपने वैश्विक रूप से सुलभ डिजिटल प्लेटफॉर्म के माध्यम से, GenderGP ट्रांस लोगों को उनके जीवन को अधिक सुविधाजनक और प्रामाणिक रूप से जीने में समर्पित है।"
+    },
+    "ta-IN": {
+      "title": "GenderGP: மாறுபட்ட ஆண்டு சார்ந்தோருக்கான முழுமையான ஆதரவு",
+      "description": "GenderGP ஆதாரம், ஆலோசனை, சுகாதார நிறுவனங்கள் மற்றும் உலகளாவிய மாறுபட்ட ஆண்டு சார்ந்தோருக்கு இணைப்பிலான பிற சேவைகளையேற்ப ஒரு பரிந்துரைந்துவருகின்றது. இந்த மேடை மாறுபட்ட ஆண்டு சார்ந்தோருக்கு ஆண்டாகின்ற சுகாதார நிறுவனங்கள், சட்ட மாற்றம் உதவி மற்றும் சமூக மாற்றத்தில் ஆதரவை அணுக ஒரு வழிவகுக்களை வழங்குகிறது. அதன் உலகளவில் அணுகுமுகமான மின்னணு மேடையின் மூலம், GenderGP மாறுபட்ட ஆண்டு சார்ந்தோருக்கு அவர்கள் வாழ்க்கையை மேலும் இலகுவாக மற்றும் அகிலத்தை வந்து நிற்கவேண்டும் என்பதை வழங்குவதில் திட்டமிட்டுள்ளது."
+    },
+    "te-IN": {
+      "title": "GenderGP: ట్రాన్స్‌జెండర్ వ్యక్తులకు సమగ్ర మద్దతు",
+      "description": "ప్రపంచవ్యాప్తంగా ట్రాన్స్‌జెండర్ వ్యక్తులకు లోపల హీరోస్ఫీర్, సమాచారం, ఆరోగ్యసేవలు మరియు సంబంధిత సేవల కొత్త సేవలు అందిస్తున్నాయి. వేదించే వేదించే వేదించే వేదించే వేదికగా మార్పు స్వీకరించే ఆరోగ్యసేవల ప్రాప్యతను, చట్టప్రక్రియల సహాయాన్ని మరియు సామాజిక మార్పు మద్దతును ప్రాప్తి చేసే మార్గం అందిస్తుంది. దీని ప్రపంచవ్యాప్తంగా ప్రాప్యమైన డిజిటల్ వేదిక ద్వారా, జెండెర్జిపి ట్రాన్స్‌జెండర్ వ్యక్తులను మరింత ఆనందదాయకంగా మరియు ఖచ్చితంగా బతికే స్వచ్ఛందంగా ఉండడానికి మార్గం వేదించడానికి ఉత్సాహిస్తుంది."
+    }
+  }
+}

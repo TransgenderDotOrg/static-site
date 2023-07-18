@@ -1,0 +1,110 @@
+{
+  "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+  "slug": "human-rights-campaign",
+  "externalUrl": "https://www.hrc.org/",
+  "tags": [
+    "legal",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "us",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/HRC",
+    "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+    "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+    "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Human Rights Campaign",
+      "description": "Human Rights Campaign fights for the rights and equality of the LGBTQ+ community. They aim to end discrimination and advance pro-equality policies through education, advocacy, and mobilization. They also provide resources for those in the LGBTQ+ community to get involved in their local areas."
+    },
+    "de-DE": {
+      "title": "Human Rights Campaign",
+      "description": "Die Human Rights Campaign setzt sich für die Rechte und Gleichheit der LGBTQ+ Gemeinschaft ein. Sie zielen darauf ab, Diskriminierung zu beenden und pro-Gleichheitsrichtlinien durch Bildung, Fürsprache und Mobilisierung voranzutreiben. Sie bieten auch Ressourcen für diejenigen in der LGBTQ+ Gemeinschaft, um sich in ihren lokalen Bereichen zu engagieren."
+    },
+    "es-ES": {
+      "title": "Campaña de Derechos Humanos",
+      "description": "La Campaña de Derechos Humanos lucha por los derechos y la igualdad de la comunidad LGBTQ+. Su objetivo es poner fin a la discriminación y promover políticas pro-igualdad a través de la educación, la defensa y la movilización. También proporcionan recursos para aquellos en la comunidad LGBTQ+ para involucrarse en sus áreas locales."
+    },
+    "id-ID": {
+      "title": "Kampanye Hak Asasi Manusia",
+      "description": "Kampanye Hak Asasi Manusia berjuang untuk hak dan kesetaraan komunitas LGBTQ+. Mereka bertujuan untuk mengakhiri diskriminasi dan mendorong kebijakan pro-kesetaraan melalui pendidikan, advokasi, dan mobilisasi. Mereka juga menyediakan sumber daya bagi mereka yang berada di komunitas LGBTQ+ untuk terlibat di daerah lokal mereka."
+    },
+    "zh-CN": {
+      "title": "人权运动",
+      "description": "人权运动致力于为LGBTQ+社区的权利和平等而战。他们旨在通过教育，倡导和动员来终止歧视并推进支持平等的政策。他们还为LGBTQ+社区中的人提供资源，帮助他们在自己的本地区参与其中。"
+    },
+    "pt-PT": {
+      "title": "Campanha pelos Direitos Humanos",
+      "description": "A Campanha pelos Direitos Humanos luta pelos direitos e igualdade da comunidade LGBTQ+. Eles visam acabar com a discriminação e promover políticas pró-igualdade por meio de educação, advocacia e mobilização. Eles também fornecem recursos para aqueles na comunidade LGBTQ+ se envolverem em suas áreas locais."
+    },
+    "ja-JP": {
+      "title": "人権運動",
+      "description": "人権運動は、LGBTQ+コミュニティの権利と平等のために戦います。彼らは教育、提唱、動員を通じて差別を終わらせ、プロ平等の政策を推進することを目指しています。また、LGBTQ+コミュニティの人々が地元のエリアで活動に参加するためのリソースも提供しています。"
+    },
+    "sw-KE": {
+      "title": "Kampeni za Haki za Binadamu",
+      "description": "Kampeni za Haki za Binadamu inapigania haki na usawa wa jamii ya LGBTQ+. Wanalenga kumaliza ubaguzi na kusonga mbele sera za pro-usawa kupitia elimu, utetezi, na uhamasishaji. Pia wanatoa rasilimali kwa wale katika jamii ya LGBTQ+ kushiriki katika maeneo yao ya kawaida."
+    },
+    "ko-KR": {
+      "title": "인권 캠페인",
+      "description": "인권 캠페인은 LGBTQ+ 커뮤니티의 권리와 평등을 위해 싸웁니다. 그들은 교육, 옹호, 그리고 동원을 통해 차별을 종결하고 찬성하는 평등 정책을 선진화하는 것을 목표로 합니다. 또한 LGBTQ+ 커뮤니티의 사람들이 그들의 지역에서 참여하려는 자원을 제공합니다."
+    },
+    "fr-FR": {
+      "title": "Campagne pour les droits de l'homme",
+      "description": "La Campagne pour les droits de l'homme se bat pour les droits et l'égalité de la communauté LGBTQ+. Ils visent à mettre fin à la discrimination et à promouvoir des politiques pro-égalité par l'éducation, le plaidoyer et la mobilisation. Ils fournissent également des ressources à ceux de la communauté LGBTQ+ pour s'impliquer dans leurs régions locales."
+    },
+    "tr-TR": {
+      "title": "İnsan Hakları Kampanyası",
+      "description": "İnsan Hakları Kampanyası, LGBTQ+ topluluğunun hakları ve eşitliği için mücadele eder. Ayrımcılığı sona erdirmeyi ve eğitim, savunuculuk ve seferberlik yoluyla pro-eşitlik politikalarını ilerletmeyi hedeflerler. Ayrıca LGBTQ+ topluluğundan kişilere yerel bölgelerinde faaliyet göstermeleri için kaynaklar sağlarlar."
+    },
+    "uk-UA": {
+      "title": "Кампанія за права людини",
+      "description": "Кампанія за права людини бореться за права та рівність спільноти LGBTQ+. Вони прагнуть припинити дискримінацію та просувати політики на користь рівності за допомогою освіти, захисту прав і мобілізації. Вони також надають ресурси для тих, хто перебуває в спільноті LGBTQ+, щоб вони могли приєднатися до роботи на локальному рівні."
+    },
+    "ar-SA": {
+      "title": "حملة حقوق الإنسان",
+      "description": "تقاتل حملة حقوق الإنسان من أجل حقوق ومساواة مجتمع LGBTQ+. هم يهدفون إلى إنهاء التمييز وتقدم السياسات الموالية للمساواة من خلال التعليم، والدعوة، والتعبئة. كما أنهم يقدمون الموارد لأولئك في مجتمع LGBTQ+ للمشاركة في مناطقهم المحلية."
+    },
+    "vi-VN": {
+      "title": "Chiến dịch Quyền Con người",
+      "description": "Chiến dịch Quyền Con người chiến đấu vì quyền lợi và sự bình đẳng của cộng đồng LGBTQ+. Họ nhằm mục đích chấm dứt sự phân biệt và thúc đẩy các chính sách ủng hộ bình đẳng thông qua giáo dục, vận động và tập hợp. Họ cũng cung cấp các nguồn lực cho những người trong cộng đồng LGBTQ+ để tham gia vào các khu vực địa phương của họ."
+    },
+    "ru-RU": {
+      "title": "Кампания за права человека",
+      "description": "Кампания за права человека борется за права и равенство сообщества LGBTQ+. Их цель - положить конец дискриминации и продвигать политику за равенство через образование, защиту прав и мобилизацию. Они также предоставляют ресурсы для тех, кто находится в сообществе LGBTQ+, чтобы включаться в жизнь своего местного региона."
+    },
+    "ur-PK": {
+      "title": "انسانی حقوق مہم",
+      "description": "انسانی حقوق مہم LGBTQ+ برادری کے حقوق اور برابری کے لئے لڑتا ہے۔ ان کا مقصد تعصب کو ختم کرنا اور تعلیم، وکالت اور موبائلائزیشن کے ذریعے مساوات پسندانہ پالیسیوں کو آگے بڑھانا ہے۔ وہ LGBTQ+ برادری کے ان لوگوں کے لئے بھی وسائل فراہم کرتے ہیں جو اپنے مقامی علاقوں میں شامل ہونا چاہتے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "मानव अधिकार अभियान",
+      "description": "मानव अधिकार अभियान LGBTQ+ समुदाय के अधिकारों और समानता के लिए लड़ता है। वे शिक्षा, वकालत, और मोबाइलाइजेशन के माध्यम से भेदभाव को समाप्त करने और प्रो-समानता नीतियों को बढ़ावा देने का लक्ष्य रखते हैं। वे यह भी संसाधन प्रदान करते हैं जो LGBTQ+ समुदाय में रहने वाले लोगों को उनके स्थानीय क्षेत्रों में शामिल होने में सहायता करते हैं।"
+    },
+    "mr-IN": {
+      "title": "मानवी हक्क अभियान",
+      "description": "मानवी हक्क अभियान एलजीबीटिक्यू + समुदायाच्या हक्कांसाठी आणि समानतेसाठी लढतो. त्यांचा लक्ष्य शिक्षण, वक्तव्य, आणि मोबाईलायझेशन द्वारे भेदभाव थांबविण्यासाठी आणि प्रो-समानता धोरणे सुरू करण्यास आहे. ते लोकल क्षेत्रांमध्ये सक्रिय होण्यासाठी एलजीबीटिक्यू+ समुदायासाठी संसाधने पुरवतात."
+    },
+    "bn-BD": {
+      "title": "মানবাধিকার প্রচারণা",
+      "description": "মানবাধিকার প্রচারণা লিঙ্গযৌন অমৈতিক কমিউনিটির অধিকার এবং সমতা নিয়ে যুদ্ধ করে। শিক্ষা, সমর্থন এবং সচেতনতার মাধ্যমে তারা বৈষম্য বন্ধ করতে এবং সমতা উন্নয়নের পক্ষে পলিসি চালিয়ে যেতে চায়। তারা নিজেদের স্থানীয় এলাকায় লিপি কমিউনিটিতে সম্পৃক্ত হওয়ার জন্য সম্পদ সরবরাহ করে।"
+    },
+    "ta-IN": {
+      "title": "மனித உரிமைகள் போராட்டம்",
+      "description": "மனித உரிமைகள் போராட்டம் LGBTQ+ சமுதாயத்தின் உரிமைகளுக்கும் சமமானத்துவத்திற்கும் போராடுகின்றது. அவர்கள் கல்வி, மேலும் முகாமாதி, மற்றும் அணிகலன்களின் மூலம் வேதித்துவியேற்றுவதை முடிக்க முயற்சிக்கின்றனர். அவர்கள், தங்களுக்கு உள்ளார் மாவட்டத்தில் ஈடுபட முயற்சியும் LGBT+ சமூகத்திற்கு ஆதாரங்களையும் வழங்குகின்றனர்."
+    },
+    "te-IN": {
+      "title": "మానవ హక్కుల ప్రచారణ",
+      "description": "మానవ హక్కుల ప్రచారణ ఎల్జీబీటీక్యూ+ సముదాయానికి సమానత్వం మరియు హక్కుల కోసం పోరాడుతుంది. వారు విద్యా, మేధాజ్ఞాణ మరియు ప్రజాస్వామ్యం ద్వారా భేదభావాన్ని ముగియించి, ప్రో-సమానత విధానాలను ప్రోత్సహిసేందుకు ప్రయత్నిస్తారు. అవి తమ స్థానిక ప్రదేశాలలో పాల్గొనవలసిన వారికి ఎల్జీబిటీక్యూ+ సముదాయానికి వనరులు అందిస్తుంది."
+    }
+  }
+}

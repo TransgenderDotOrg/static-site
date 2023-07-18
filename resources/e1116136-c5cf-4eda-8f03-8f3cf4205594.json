@@ -1,0 +1,121 @@
+{
+  "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+  "slug": "center-on-halsted",
+  "externalUrl": "https://www.centeronhalsted.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+  "phoneNumber": "773.472.6469",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Chicago",
+  "county": "Cook County",
+  "latLng": [
+    41.9488291,
+    -87.6499407
+  ],
+  "email": "mail@centeronhalsted.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+    "twitterUrl": "http://twitter.com/CenteronHalsted",
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Center on Halsted",
+      "description": "Chicago's community center dedicated to advancing the Lesbian, Gay, Bisexual, Transgender (LGBT) and Queer (+) community through providing service programs, events, trainings, and resources. Including services for HIV/AIDS & STD, Behavioral Health, Anti-violence and special programs for the youth and seniors."
+    },
+    "fr-FR": {
+      "title": "Centre sur Halsted",
+      "description": "Le centre communautaire de Chicago dédié à la promotion de la communauté Lesbienne, Gay, Bisexuelle, Transgenre (LGBT) et Queer (+) en fournissant des programmes de service, des événements, des formations et des ressources. Y compris des services pour le VIH/SIDA & MST, la santé comportementale, l'anti-violence et des programmes spéciaux pour les jeunes et les seniors."
+    },
+    "es-ES": {
+      "title": "Center on Halsted",
+      "description": "Centro comunitario de Chicago dedicado a avanzar en la comunidad Lesbiana, Gay, Bisexual, Transgénero (LGBT) y Queer (+) a través de la provisión de programas de servicios, eventos, capacitaciones y recursos. Incluyendo servicios para VIH/SIDA & ETS, Salud Conductual, Anti-violencia y programas especiales para jóvenes y personas mayores."
+    },
+    "pt-PT": {
+      "title": "Center on Halsted",
+      "description": "Centro comunitário de Chicago dedicado a avançar a comunidade Lésbica, Gay, Bissexual, Transgênero (LGBT) e Queer (+) através do fornecimento de programas de serviço, eventos, treinamentos e recursos. Incluindo serviços para HIV/AIDS & DST, Saúde Comportamental, Anti-violência e programas especiais para jovens e idosos."
+    },
+    "sw-KE": {
+      "title": "Center on Halsted",
+      "description": "Kituo cha jamii cha Chicago kilichojitolea kukuza jamii ya Lesbian, Gay, Bisexual, Transgender (LGBT) na Queer (+) kupitia kutoa programu za huduma, matukio, mafunzo, na rasilimali. Ikiwa ni pamoja na huduma za HIV/AIDS & STD, Afya ya Tabia, Kupambana na jeuri na programu maalum kwa vijana na wazee."
+    },
+    "tr-TR": {
+      "title": "Center on Halsted",
+      "description": "Chicago'nun, Lezbiyen, Gay, Biseksüel, Transgender (LGBT) ve Queer (+) topluluğunu ilerletmeye adanmış toplum merkezi. Hizmet programları, etkinlikler, eğitimler ve kaynaklar sağlama yoluyla. HIV/AIDS & STD, Davranışsal Sağlık, Şiddete Karşı ve gençler ve yaşlılar için özel programlar dahil hizmetler sunar."
+    },
+    "id-ID": {
+      "title": "Center on Halsted",
+      "description": "Pusat komunitas Chicago yang berdedikasi untuk memajukan komunitas Lesbian, Gay, Biseksual, Transgender (LGBT) dan Queer (+) melalui penyediaan program pelayanan, acara, pelatihan, dan sumber daya. Termasuk layanan untuk HIV/AIDS & STD, Kesehatan Perilaku, Anti-kekerasan dan program khusus untuk pemuda dan orang tua."
+    },
+    "de-DE": {
+      "title": "Center on Halsted",
+      "description": "Chicagos Gemeindezentrum, dem es sich widmet, die lesbische, schwule, bisexuelle, transgender (LGBT) und queer (+) Gemeinschaft voranzubringen, indem es Serviceprogramme, Veranstaltungen, Schulungen und Ressourcen bereitstellt. Dazu gehören Dienste für HIV/AIDS & STD, psychische Gesundheit, Anti-Gewalt und spezielle Programme für Jugendliche und Senioren."
+    },
+    "ja-JP": {
+      "title": "Center on Halsted",
+      "description": "シカゴのコミュニティセンターで、レズビアン、ゲイ、バイセクシャル、トランスジェンダー（LGBT）およびクィア（+）コミュニティの向上を目指してサービスプログラム、イベント、トレーニング、リソースを提供しています。 HIV/AIDS＆STD、行動健康、反暴力、そして若者や高齢者のための特別プログラムも含まれます。"
+    },
+    "ko-KR": {
+      "title": "Center on Halsted",
+      "description": "시카고의 커뮤니티 센터로 레즈비언, 게이, 양성애자, 성전환자(LGBT) 및 퀴어(+) 커뮤니티 발전을 위해 서비스 프로그램, 이벤트, 교육, 자료를 제공합니다. HIV/AIDS 및 STD, 행동 건강, 반폭력 및 청소년 및 노인을 위한 특별 프로그램을 포함합니다."
+    },
+    "vi-VN": {
+      "title": "Center on Halsted",
+      "description": "Trung tâm cộng đồng của Chicago dành cho việc thúc đẩy cộng đồng Lesbian, Gay, Bisexual, Transgender (LGBT) và Queer (+) thông qua việc cung cấp các chương trình dịch vụ, sự kiện, đào tạo và nguồn lực. Bao gồm các dịch vụ cho HIV/AIDS & STD, Sức khỏe hành vi, Chống bạo lực và các chương trình đặc biệt cho thanh thiếu niên và người cao tuổi."
+    },
+    "zh-CN": {
+      "title": "哈尔斯特德中心",
+      "description": "芝加哥的社区中心，致力于通过提供服务计划、活动、培训和资源来推动女同性恋、男同性恋、双性恋、跨性别（LGBT）和酷儿(+)社区的进步。包括为HIV/AIDS和性病、行为健康、反暴力以及青少年和老年人的特别项目提供服务。"
+    },
+    "ar-SA": {
+      "title": "مركز هالستيد",
+      "description": "مركز مجتمع شيكاغو المخصص لتقدم مجتمع الأقليات الجنسية والجنسانية (LGBT) والكوير (+) من خلال تقديم برامج الخدمة والأحداث والتدريبات والموارد. بما في ذلك الخدمات للإيدز والأمراض المنقولة جنسياً (STD)، الصحة السلوكية، مكافحة العنف وبرامج خاصة للشباب وكبار السن."
+    },
+    "uk-UA": {
+      "title": "Center on Halsted",
+      "description": "Чиказький громадський центр, присвячений розвитку спільноти лесбійок, геїв, бісексуалів, трансгендерів (ЛГБТ) та квір особистостей, за допомогою надання службових програм, подій, тренінгів і ресурсів. У тому числі служби для ІВС / СНІДу і статевих хвороб, поведінкового здоров'я, протидії насильству та спеціальних програм для молоді та пенсіонерів."
+    },
+    "ru-RU": {
+      "title": "Центр на Хальстеде",
+      "description": "Общественный центр Чикаго, посвященный продвижению сообщества лесбиянок, геев, бисексуалов, трансгендеров (ЛГБТ) и квир-сообщества путем предоставления программ услуг, мероприятий, обучений и ресурсов. Включая услуги по ВИЧ/СПИДу и половым заболеваниям, поведенческому здоровью, борьбе с насилием, а также специальные программы для молодежи и пожилых людей."
+    },
+    "mr-IN": {
+      "title": "हॅलस्टेड केंद्र",
+      "description": "चिकागोचे समुदाय केंद्र, ज्याचे अस्तित्व लेस्बियन, गे, बायसेक्स्युअल, ट्रान्सजेंडर (एलजीबीटी) आणि क्विअर (+) समुदायाच्या प्रगतीसाठी समर्पित आहे. यामध्ये HIV/AIDS आणि STD, वर्तन स्वास्थ्य, हिंसाविरोधी आणि तरुणांसाठीच्या विशेष कार्यक्रमांसह आघाडीची सेवा कार्यक्रमे, सायंकाळी, प्रशिक्षण आणि संसाधने प्रदान करणारा."
+    },
+    "ur-PK": {
+      "title": "ہالسٹڈ کا مرکز",
+      "description": "شکاگو کا کمیونٹی کا مرکز جو خصوصی طور پر لیسبین، گے، بائسیکشل، ٹرانسجینڈر (ایل جی بی ٹی) اور کوئیر (+) کمیونٹی کی ترقی کے لئے وقف ہے ، جو خدماتی پروگرامز، واقعات، تربیتی سیشنز ، اور وسائل فراہم کرتے ہیں۔ جن میں ایچ آئی وی / ایڈیز اور ایس ٹی ڈی ، بیہیویریل صحت ، خلاف-تشدد اور خصوصی پروگرام شامل ہیں جو نوجوانوں اور بزرگوں کے لئے ہیں۔"
+    },
+    "hi-IN": {
+      "title": "हॉल्स्टेड केंद्र",
+      "description": "चिकागो का सामुदायिक केंद्र जो लेस्बियन, गे, बाइसेक्सुअल, ट्रांसजेंडर (लगभगभगभगभगभगभग) और क्वीर (+) समुदाय की प्रगति करने के लिए समर्पित है, सेवा कार्यक्रम, इवेंट, प्रशिक्षण, और संसाधन प्रदान करके। HIV/AIDS और संक्रामक रोग, मानसिक स्वास्थ्य, हिंसा के खिलाफ और युवा और वरिष्ठ नागरिकों के लिए विशेष कार्यक्रमों सहित सेवाएं।"
+    },
+    "bn-BD": {
+      "title": "Center on Halsted",
+      "description": "শিকাগোর সম্প্রদায় কেন্দ্র যা লেসবিয়ান, গে, বাইসেক্সুয়াল, ট্রান্সজেন্ডার (এলজিবিটি) এবং কিউয়ার (+) সম্প্রদায়ের উন্নয়নে নিবেদিত। পরিষেবা প্রোগ্রাম, ইভেন্ট, প্রশিক্ষণ এবং সংস্থান প্রদানের মাধ্যমে। এটি এইচআইভি / এইডস এবং এসটিডি, আচরণাত্মক স্বাস্থ্য, অ্যান্টি-ভয়েন্স এবং যুবক এবং প্রাঙ্গণ সম্প্রদায়ের জন্য বিশেষ প্রোগ্রাম সহ সেবা প্রদান করে।"
+    },
+    "ta-IN": {
+      "title": "Center on Halsted",
+      "description": "சிகாகோவின் சமூக மையம், லெஸ்பியன், கேம், பைசெக்சுவல், டிரான்ஸ்ஜென்டர் (LGBT) மற்றும் கியூயர் (+) சமூகத்தை முன்னேற்றுவதற்கான சேவை திட்டங்கள், நிகழ்வுகள், தகுதியணி மற்றும் வளங்களை வழங்குவதுக்கு சமர்ப்பிக்கப்பட்டுள்ளது. இதில் ஏதிவியல் / பாலுறவு நோய்கள், மன நோய்கள், வெற்றுமொழி மற்றும் இளைஞர்களுக்கு மற்றும் மூத்தவர்களுக்கு சிறப்பு திட்டங்கள் அடங்கும்."
+    },
+    "te-IN": {
+      "title": "Center on Halsted",
+      "description": "చికాగోలో స్వకీయ కేంద్రం యొక్క సమర్పణి, జోడుసేవలు కార్యక్రమాలు, శిక్షణలు, మరియు వనరులనుంచి సముదాయానికి సహాయం అందించిన లేస్బీయన్, గేల్, బ్స్క్షుల్, ట్రాన్స్జెండర్ (పోలెన్) మరియు కోయర్ (+) సముదాయం. ఇదిగో చేరినవి సర్వీసేస్ HIV/AIDS మరియు STD, ప్రవర్తన ఆరోగ్యం, అంటి-విలెన్స్ మరియు యువతి మరియు ప్రాబల్యంగానికి ప్రత్యేక కార్యక్రమాలు."
+    }
+  }
+}

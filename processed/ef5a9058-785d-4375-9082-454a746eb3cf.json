@@ -1,0 +1,27 @@
+{
+  "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+  "title": "Transgender Health Program at Massachusetts General Hospital",
+  "description": "The Transgender Health Program at Massachusetts General Hospital provides personalized, up to date and high quality medical care for transgender individuals, youth, and caregivers. The program offers various resources, answers to frequently asked questions, and a specialized care team.",
+  "slug": "transgender-health-program-massachusetts-general-hospital",
+  "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "address": "55 Fruit St, Boston, MA 02114, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "latLng": [
+    42.3625677,
+    -71.0687661
+  ],
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/massgeneral",
+    "twitterUrl": "https://www.twitter.com/massgeneral",
+    "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+  }
+}

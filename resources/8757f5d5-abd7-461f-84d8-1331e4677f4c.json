@@ -1,0 +1,113 @@
+{
+  "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+  "slug": "gender-justice-league",
+  "externalUrl": "https://www.genderjusticeleague.org/",
+  "tags": [
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+  "phoneNumber": "206-538-0423",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6142754,
+    -122.3171383
+  ],
+  "email": "info@genderjusticeleague.org",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+    "twitterUrl": "https://twitter.com/genderjusticewa",
+    "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+    "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League is a civil and human rights organization that focuses on elevating the rights of trans & gender diverse communities in Washington State and beyond. GJL was founded in Seattle, WA in 2012 by a group of long-time trans, queer, and allied activists. They focus on advocacy, providing a safe house program, resources, and special events."
+    },
+    "pt-PT": {
+      "title": "Gender Justice League",
+      "description": "A Gender Justice League é uma organização de direitos civis e humanos que se concentra em elevar os direitos das comunidades trans e de gênero diverso no estado de Washington e além. A GJL foi fundada em Seattle, WA em 2012 por um grupo de ativistas trans, queer e aliados de longa data. Eles se concentram em advocacia, fornecendo um programa de casa segura, recursos e eventos especiais."
+    },
+    "id-ID": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League adalah organisasi hak sipil dan manusia yang berfokus pada peningkatan hak komunitas trans & beragam gender di Negara Bagian Washington dan lebih jauh lagi. GJL didirikan di Seattle, WA pada tahun 2012 oleh sekelompok aktivis trans, queer, dan sekutu yang sudah lama. Mereka berfokus pada advokasi, menyediakan program rumah aman, sumber daya, dan acara khusus."
+    },
+    "fr-FR": {
+      "title": "Ligue de Justice de Genre",
+      "description": "La Ligue de Justice de Genre est une organisation des droits civils et humains qui se concentre sur l'élévation des droits des communautés trans & de diversité de genre dans l'État de Washington et au-delà. La GJL a été fondée à Seattle, WA en 2012 par un groupe de militants trans, queer et alliés de longue date. Ils se concentrent sur le plaidoyer, la fourniture d'un programme de maison sûre, des ressources et des événements spéciaux."
+    },
+    "es-ES": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League es una organización de derechos civiles y humanos que se centra en elevar los derechos de las comunidades trans y de género diverso en el estado de Washington y más allá. GJL fue fundada en Seattle, WA en 2012 por un grupo de activistas trans, queer y aliados de larga data. Se centran en la defensa, proporcionar un programa de casa segura, recursos y eventos especiales."
+    },
+    "zh-CN": {
+      "title": "性别公正联盟",
+      "description": "性别公正联盟是一家专注于提升华盛顿州及更远地区的跨性别和性别多元社区权益的公民和人权组织。GJL于2012年由一群长期的跨性别、酷儿和盟友活动家在西雅图，华盛顿州成立。他们专注于倡导权益，提供安全屋计划，资源以及特别活动。"
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Adalet Ligi",
+      "description": "Cinsiyet Adalet Ligi, Washington Eyaleti ve ötesindeki trans ve cinsiyet çeşitliliği topluluklarının haklarını yükseltmeye odaklanan bir sivil ve insan hakları örgütüdür. GJL, trans, queer ve müttefik aktivistlerden oluşan bir grup tarafından 2012 yılında Seattle, WA'da kuruldu. Savunuculuk, güvenli ev programı, kaynaklar ve özel etkinlikler sunmaya odaklanırlar."
+    },
+    "ko-KR": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League는 워싱턴 주 및 그 이상의 지역에서 trans 및 성 다양성 커뮤니티의 권리를 강조하는 시민 및 인권 조직입니다. GJL은 2012년 워싱턴 주 시애틀에서 오랫동안 trans, queer, 그리고 동맹 활동가들의 그룹에 의해 설립되었습니다. 그들은 옹호, 안전하우스 프로그램 제공, 리소스 및 특별 행사에 초점을 맞추고 있습니다."
+    },
+    "de-DE": {
+      "title": "Gender Justice League",
+      "description": "Die Gender Justice League ist eine Organisation für Zivil- und Menschenrechte, die sich auf die Stärkung der Rechte von trans & geschlechtlich vielfältigen Gemeinschaften im Bundesstaat Washington und darüber hinaus konzentriert. GJL wurde 2012 in Seattle, WA, von einer Gruppe langjähriger trans, queer und verbündeter Aktivisten gegründet. Sie konzentrieren sich auf Advocacy, bieten ein Safe-House-Programm, Ressourcen und besondere Veranstaltungen an."
+    },
+    "sw-KE": {
+      "title": "Jukwaa la Haki za Jinsia",
+      "description": "Jukwaa la Haki za Jinsia ni shirika la haki za kiraia na za binadamu linalolenga kuinua haki za jamii zilizo na trans & jinsia mbalimbali huko Washington State na zaidi. GJL iliundwa huko Seattle, WA mnamo 2012 na kikundi cha wanaharakati wa muda mrefu trans, queer, na washirika. Wanazingatia utetezi, kutoa mpango wa nyumba salama, rasilimali, na matukio maalum."
+    },
+    "vi-VN": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League là một tổ chức nhân quyền và dân quyền tập trung nâng cao quyền lợi của các cộng đồng chuyển giới và đa dạng giới tính ở bang Washington và hơn thế nữa. GJL được thành lập tại Seattle, WA vào năm 2012 bởi một nhóm các nhà hoạt động lâu năm về các vấn đề chuyển giới, queer và đồng minh. Họ tập trung vào lãnh vực biện hộ, cung cấp chương trình nhà an toàn, tài nguyên và sự kiện đặc biệt."
+    },
+    "ja-JP": {
+      "title": "ジェンダー・ジャスティス・リーグ",
+      "description": "ジェンダー・ジャスティス・リーグは、ワシントン州およびそれを超える地域のトランス・ジェンダー多様性コミュニティの権利の向上に焦点を当てた市民権と人権の組織です。GJLは、長年にわたるトランス、クィア、そして同盟者の活動家のグループによって、2012年にシアトル、WAで設立されました。彼らは、アドボカシー、安全ハウスプログラムの提供、リソース、特別イベントに焦点を当てています。"
+    },
+    "ru-RU": {
+      "title": "Лига Гендерного Справедливости",
+      "description": "Лига Гендерного Справедливости - это организация по защите гражданских и человеческих прав, которая сосредоточена на повышении прав трансгендерных и гендерно-разнообразных сообществ в штате Вашингтон и за его пределами. GJL была основана в Сиэтле, штат Вашингтон, в 2012 году группой активистов трансгендер, квир и союзников. Они сосредоточены на проведении пропаганды, предоставлении программы безопасного дома, ресурсов и специальных мероприятий."
+    },
+    "ar-SA": {
+      "title": "رابطة العدالة الجندرية",
+      "description": "رابطة العدالة الجندرية هي منظمة حقوق الإنسان والمدنية تركز على رفع حقوق المجتمعات العابرة والمتنوعة جندرياً في ولاية واشنطن وما بعدها. تأسست GJL في سياتل، واشنطن في عام 2012 من قبل مجموعة من النشطاء المثليين والعابرين والحلفاء منذ زمن طويل. يركزون على الدعوة إلى المصالح، وتوفير برنامج بيت آمن، والموارد، والأحداث الخاصة."
+    },
+    "uk-UA": {
+      "title": "Ліга гендерної справедливості",
+      "description": "Ліга гендерної справедливості - це організація з прав людини та громадянських прав, яка зосереджується на піднесенні прав трансів та гендерно різноманітних спільнот у штаті Вашингтон і за його межами. GJL була заснована у Сіетлі, штат Вашингтон, у 2012 році групою давніх транс-активістів, квірів і союзників. Вони зосереджуються на захисті прав, наданні програми безпечного будинку, ресурсів та спеціальних заходів."
+    },
+    "ur-PK": {
+      "title": "جنسی انصاف لیگ",
+      "description": "جنسی انصاف لیگ ایک سول اور انسانی حقوق کی تنظیم ہے جو ٹرانس اور متنوع معاشرے کے حقوق کو اونچا کرنے پر توجہ دیتی ہے واشنگٹن اسٹیٹ اور اس کے آگے۔ GJL کو 2012 میں سیاٹل, WA میں ٹرانس, خاموش, اور متحدہ کارکنوں کی ایک گروہ نے بنایا تھا۔ وہ ایڈوکیسی, محفوظ ہاؤس پروگرام, وسائل, اور خصوصی تقریبوں پر توجہ دیتے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "लिंग न्याय लीग",
+      "description": "लिंग न्याय लीग ही एक नागरिक आणि मानवी हक्क संस्था आहे जी वाशिंग्टन राज्य आणि तत्पर्यांतील ट्रान्स आणि लिंग विविध समुदायांच्या हक्कांचा स्तर उच्च करण्यास मग्न असते. GJL ही सिएटल, WA मध्ये 2012 मध्ये वर्षांपासून ट्रान्स, क्वीर आणि संपर्कीय कार्यकर्त्यांच्या एक गटाने स्थापन केलेली आहे. ते प्रतिनिधित्व, सुरक्षित घर कार्यक्रम, संसाधने आणि विशेष कार्यक्रमांवर लक्ष केंद्रित करतात."
+    },
+    "hi-IN": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League एक नागरिक और मानव अधिकार संगठन है जो वाशिंगटन राज्य और उससे परे के ट्रांस और लिंग विविध समुदायों के अधिकारों को उन्नत करने पर केंद्रित है। GJL का स्थापना 2012 में सीएटल, WA में एक समूह द्वारा की गई थी, जिसमें लंबे समय तक ट्रांस, क्वीर और सहयोगी कार्यकर्ताओं थे। वे नीतिगत विचारधारा, सुरक्षित घर कार्यक्रम, संसाधन, और विशेष घटनाओं पर ध्यान केंद्रित करते हैं।"
+    },
+    "bn-BD": {
+      "title": "জেন্ডার জাস্টিস লিগ",
+      "description": "জেন্ডার জাস্টিস লিগ একটি নাগরিক এবং মানবাধিকার সংস্থা যা ওয়াশিংটন স্টেট এবং তার বাইরেও ট্রান্স এবং জেন্ডার বৈচিত্র্যমূলক সম্প্রদায়ের অধিকার উচ্চায়নের উপর মনোনিবেশ করে। জেন্ডার জাস্টিস লিগ টি সিয়াটল, ওয়া এ 2012 সালে একটি দীর্ঘ সময়ের ট্রান্স, কুয়ার, এবং সহযোগী কর্মীদের দ্বারা প্রতিষ্ঠিত হয়েছিল। তারা উদ্যোগ, নিরাপদ বাড়ি প্রোগ্রাম, সম্পদ, এবং বিশেষ ইভেন্ট উপর মনোনিবেশ করে।"
+    },
+    "ta-IN": {
+      "title": "Gender Justice League",
+      "description": "Gender Justice League என்பது வாஷிங்டன் மாநிலத்தில் மற்றும் அதன் வெளியில் மாறுபட்ட பாலின சமூகங்களின் உரிமைகளை உயர்த்துவித்தலுக்கு மேலாண்மையாகப் பூரண மற்றும் மனித உரிமைகள் அமைப்பாகும். GJL என்பது 2012ஆம் ஆண்டில் சியாட்டில், WA நகரில் தீண்டிய கால மாறுபட்ட பாலினது, கீரி, மற்றும் சேர்ந்த செயல்பாட்டாளராக்களால் நிறுவப்பட்டது. அவர்கள் மேலாண்மை, பாதுகாப்பு வீட்டு திட்டத்திற்கு கூடுதல் வழங்குவது, வளங்கள், மற்றும் சிறப்பு நிகழ்வுகள் மேல் மையத்துக்கு பின்னோக்கி செல்லலாம்."
+    },
+    "te-IN": {
+      "title": "జెండర్ జస్టిస్ లీగ్",
+      "description": "జెండర్ జస్టిస్ లీగ్ అనేది వాషింగ్టన్ రాష్ట్రం మరియు దానికి పైగా ట్రాన్స్ & జెండర్ వైవిధ్య సముదాయాల హక్కులను స్థాయిపెంచే సివిల్ మరియు మానవ హక్కుల సంఘం. జెండర్ జస్టిస్ లీగ్ అనేది 2012లో సియాటిల్, వా లో నిరంతర ట్రాన్స్, కువీర్, మరియు సిహించిన కార్యకర్తల గుంపును స్థాపించింది. వారు గతిష్ఠత పై, సురక్షిత హౌస్ ప్రోగ్రామ్ను అందిస్తారు, వనరులు, మరియు ప్రత్యేక సంఘటనలు."
+    }
+  }
+}

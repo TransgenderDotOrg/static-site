@@ -1,0 +1,109 @@
+{
+  "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+  "slug": "gender-confirmation-center",
+  "externalUrl": "https://www.genderconfirmation.com/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+  "phoneNumber": "(415) 780-1515",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "SF",
+  "county": "San Francisco County",
+  "latLng": [
+    37.7896952,
+    -122.4078356
+  ],
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Gender Confirmation Center",
+      "description": "The Gender Confirmation Center provides comprehensive gender-affirming care, through multiple types of procedures and treatment plans, for the transgender, nonbinary, and gender diverse community."
+    },
+    "es-ES": {
+      "title": "Centro de Confirmación de Género",
+      "description": "El Centro de Confirmación de Género proporciona atención integral de afirmación de género, a través de varios tipos de procedimientos y planes de tratamiento, para la comunidad transgénero, no binaria y diversa en cuanto al género."
+    },
+    "fr-FR": {
+      "title": "Centre de Confirmation de Genre",
+      "description": "Le Centre de Confirmation de Genre offre des soins globaux affirmant le genre, par le biais de plusieurs types de procédures et de plans de traitement, pour la communauté transgenre, non binaire et diversifiée en matière de genre."
+    },
+    "pt-PT": {
+      "title": "Centro de Confirmação de Gênero",
+      "description": "O Centro de Confirmação de Gênero oferece cuidados abrangentes de afirmação de gênero, por meio de diversos tipos de procedimentos e planos de tratamento, para a comunidade transgênero, não binária e diversa em relação ao gênero."
+    },
+    "zh-CN": {
+      "title": "性别确认中心",
+      "description": "性别确认中心通过多种类型的手术和治疗计划，为跨性别、无性别和性别多元化的社区提供全面的性别肯定护理。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Kuthibitisha Jinsia",
+      "description": "Kituo cha Kuthibitisha Jinsia hutoa huduma kamili ya kuafiki jinsia, kupitia aina anuwai za taratibu na mipango ya matibabu, kwa jamii ya transgender, nonbinary, na jinsia anuwai."
+    },
+    "de-DE": {
+      "title": "Zentrum für Geschlechtsbestätigung",
+      "description": "Das Zentrum für Geschlechtsbestätigung bietet umfassende geschlechtsbestätigende Versorgung, durch verschiedene Arten von Verfahren und Behandlungsplänen, für die Transgender-, Nicht-Binären-, und geschlechtlich vielfältige Gemeinschaft."
+    },
+    "ko-KR": {
+      "title": "성별 확인 센터",
+      "description": "성별 확인 센터는 완전한 성적 인정을 제공하며, 다양한 종류의 절차와 치료 계획을 통해, 트랜스젠더, 비이진, 그리고 성 다양성 커뮤니티를 대상으로 서비스를 제공합니다."
+    },
+    "id-ID": {
+      "title": "Pusat Konfirmasi Jenis Kelamin",
+      "description": "Pusat Konfirmasi Jenis Kelamin menyediakan perawatan penegasan jenis kelamin yang komprehensif, melalui berbagai jenis prosedur dan rencana perawatan, untuk komunitas transgender, nonbinary, dan beragam jenis kelamin."
+    },
+    "tr-TR": {
+      "title": "Cinsiyet Onaylama Merkezi",
+      "description": "Cinsiyet Onaylama Merkezi, trans, nonbinary ve cinsiyet çeşitliliği olan topluluk için kapsamlı cinsiyet onaylayıcı bakım sağlar, çeşitli türden prosedürler ve tedavi planları aracılığıyla."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Xác nhận Giới tính",
+      "description": "Trung tâm Xác nhận Giới tính cung cấp chăm sóc khẳng định giới tính toàn diện, thông qua nhiều loại phương pháp và kế hoạch điều trị, cho cộng đồng chuyển giới, không nhị phân và đa dạng giới tính."
+    },
+    "ja-JP": {
+      "title": "ジェンダー確認センター",
+      "description": "ジェンダー確認センターは、さまざまな種類の手続きと治療計画を通じて、トランスジェンダー、ノンバイナリー、ジェンダーダイバーシティコミュニティに包括的なジェンダーアファーミングケアを提供します。"
+    },
+    "uk-UA": {
+      "title": "Центр підтвердження статі",
+      "description": "Центр підтвердження статі надає всеосяжну підтримку в підтвердженні статі, через різноманітні види процедур та планів лікування, для трансгендерної, небінарної та гендерно-різноманітної спільноти."
+    },
+    "ar-SA": {
+      "title": "مركز تأكيد الجنس",
+      "description": "يقدم مركز تأكيد الجنس رعاية مكرسة وشاملة للجنس، من خلال العديد من الإجراءات وخطط العلاج، للمتحولين جنسيا وذوي الهوية الجندرية التي تختلف عن الأعراف الاجتماعية."
+    },
+    "ur-PK": {
+      "title": "جنسی تصدیق سینٹر",
+      "description": "جنسی تصدیق سینٹر مکمل جنسی تصدیق کی دیکھ بھال فراہم کرتا ہے، مختلف قسم کے طریقہ کاروں اور علاج کے منصوبوں کے ذریعے، ٹرانسجنڈر، غیر بائنری، اور جنسی تنوع والے برادری کے لئے."
+    },
+    "ru-RU": {
+      "title": "Центр подтверждения гендерной принадлежности",
+      "description": "Центр подтверждения гендерной принадлежности предлагает всестороннюю поддержку в вопросах гендера, включая разнообразные виды процедур и планов лечения, для трансгендерных людей, людей с нетрадиционной гендерной идентичностью и общества гендерного разнообразия."
+    },
+    "hi-IN": {
+      "title": "लिंग पुष्टिकरण केंद्र",
+      "description": "लिंग पुष्टिकरण केंद्र ट्रांसजेंडर, गैर-बाइनरी, और जेंडर विविध समुदाय के लिए कई प्रकार की प्रक्रियाओं और उपचार योजनाओं के माध्यम से व्यापक लिंग-स्थापन देखभाल प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "জেন্ডার নিশ্চিতকরণ কেন্দ্র",
+      "description": "জেন্ডার নিশ্চিতকরণ কেন্দ্র প্রদান করে সম্পূর্ণ লিঙ্গ-সমর্থক যত্ন, এর মাধ্যমে বহু ধরনের প্রক্রিয়া এবং চিকিত্সা পরিকল্পনাগুলি, ট্রান্সজেন্ডার, ননবাইনারি, এবং লিঙ্গ বৈচিত্র্যমূলক সম্প্রদায়ের জন্য।"
+    },
+    "mr-IN": {
+      "title": "लिंग पुष्टी केंद्र",
+      "description": "लिंग पुष्टी केंद्र म्हणजे, वेगवेगळ्या प्रकारची पद्धती आणि उपचार योजनांद्वारे, ट्रान्सजेंडर, नॉनबायनरी, आणि लिंगानुसार वेगवेगळ्या समुदायांसाठी सम्पूर्णतः लिंग स्थायीकरण सेवा प्रदान करते."
+    },
+    "ta-IN": {
+      "title": "பாலின் உறுதிப்படுத்தல் மையம்",
+      "description": "பாலின் உறுதிப்படுத்தல் மையம், பல்வேறு வகைகளான சிகிச்சைகள் ல்ிணிகளிடம் மூலம், மாற்றுபாலி, அல்லாத இருபாலி, மற்றும் பால்கலவேறு சமுதாயத்திற்கு முழுமையான பால் -உறுதிப்படுத்தும் பேராண்மைக்காகக் காரே வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "జెండర్ నిర్ధారణ సెంటర్",
+      "description": "జెండర్ నిర్ధరణ సెంటర్ ట్రాన్స్ జెండర్, నాన్బైనరీ మరియు జెండర్ వివిధ సముదాయంలోని వ్యక్తులకు అనేక రకాల ప్రక్రియలు మరియు చికిత్సా ప్రణాళికల ద్వారా సమగ్ర జెండర్-అఖండిత పరిచర్యను అందిస్తుంది."
+    }
+  }
+}

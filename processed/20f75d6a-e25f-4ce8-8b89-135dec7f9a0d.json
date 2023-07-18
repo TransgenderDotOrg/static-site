@@ -1,0 +1,26 @@
+{
+  "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+  "title": "Human Rights Campaign",
+  "description": "Human Rights Campaign fights for the rights and equality of the LGBTQ+ community. They aim to end discrimination and advance pro-equality policies through education, advocacy, and mobilization. They also provide resources for those in the LGBTQ+ community to get involved in their local areas.",
+  "slug": "human-rights-campaign",
+  "externalUrl": "https://www.hrc.org/",
+  "tags": [
+    "legal",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "us",
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/HRC",
+    "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+    "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+    "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+  }
+}

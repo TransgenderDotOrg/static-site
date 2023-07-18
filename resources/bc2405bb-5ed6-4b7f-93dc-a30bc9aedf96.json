@@ -1,0 +1,115 @@
+{
+  "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+  "slug": "pride-center-san-antonio",
+  "externalUrl": "https://pridecentersa.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "San Antonio",
+  "county": "Bexar",
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+    "twitterUrl": "https://twitter.com/PrideCenterSA",
+    "instagramUrl": "https://www.instagram.com/pridecentersa/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center San Antonio serves the lesbian, gay, bisexual, transgender, questioning, and ally community. They host a variety of programs, events, and resources, including support groups, therapy, STI testing, and more. They aim to work in alliance with existing services within the community."
+    },
+    "es-ES": {
+      "title": "Pride Center San Antonio",
+      "description": "El Pride Center San Antonio brinda servicios a la comunidad lésbica, gay, bisexual, transgénero, en cuestionamiento, y aliados. Organizan una variedad de programas, eventos y recursos, incluyendo grupos de apoyo, terapia, pruebas de ITS y más. Su objetivo es trabajar en alianza con los servicios existentes dentro de la comunidad."
+    },
+    "id-ID": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center San Antonio melayani komunitas lesbian, gay, biseksual, transgender, berpertanyaan, dan sekutu. Mereka menjadi tuan rumah berbagai program, acara, dan sumber daya, termasuk kelompok dukungan, terapi, pengujian STI, dan lainnya. Mereka bertujuan bekerja dalam aliansi dengan layanan yang ada di dalam komunitas."
+    },
+    "pt-PT": {
+      "title": "Pride Center San Antonio",
+      "description": "O Pride Center San Antonio serve a comunidade lésbica, gay, bissexual, transgênero, questionadora e aliada. Eles hospedam uma variedade de programas, eventos e recursos, incluindo grupos de apoio, terapia, testes de IST e mais. Eles visam trabalhar em aliança com os serviços existentes na comunidade."
+    },
+    "de-DE": {
+      "title": "Pride Center San Antonio",
+      "description": "Das Pride Center San Antonio dient der lesbischen, schwulen, bisexuellen, transsexuellen, fragenden und verbündeten Gemeinschaft. Sie organisieren eine Vielzahl von Programmen, Veranstaltungen und Ressourcen, einschließlich Selbsthilfegruppen, Therapie, STI-Testungen und mehr. Sie streben eine Zusammenarbeit mit bestehenden Diensten innerhalb der Gemeinschaft an."
+    },
+    "fr-FR": {
+      "title": "Pride Center San Antonio",
+      "description": "Le Pride Center San Antonio sert la communauté lesbienne, gay, bisexuelle, transgenre, en questionnement et alliée. Ils accueillent une variété de programmes, d'événements et de ressources, y compris des groupes de soutien, de la thérapie, des tests IST, et plus encore. Ils visent à travailler en alliance avec les services existants au sein de la communauté."
+    },
+    "tr-TR": {
+      "title": "Pride Merkezi San Antonio",
+      "description": "Pride Merkezi San Antonio, lezbiyen, eşcinsel, biseksüel, trans, sorgulayan ve müttefik topluluğa hizmet vermektedir. Destek grupları, terapi, STI testleri ve daha fazlası dahil olmak üzere çeşitli programlar, etkinlikler ve kaynaklar düzenlerler. Topluluk içindeki mevcut hizmetlerle birlikte çalışmayı hedeflerler."
+    },
+    "zh-CN": {
+      "title": "圣安东尼奥骄傲中心",
+      "description": "圣安东尼奥骄傲中心服务于女同性恋、男同性恋、双性恋、跨性别者，有疑问者和盟友社区。他们主办各种各样的项目，活动和资源，包括支持群体，治疗，性病检测等等。他们的目标是与社区内的现有服务形成联盟。"
+    },
+    "sw-KE": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center San Antonio inahudumia jamii ya wasagaji, mashoga, bisekshuali, waliobadili jinsia, wanajiuliza, na washirika. Wao ni wenyeji wa aina mbalimbali za programu, matukio, na rasilimali, pamoja na vikundi vya msaada, tiba, upimaji wa STI, na zaidi. Wanajitahidi kufanya kazi kwa muungano na huduma zilizopo ndani ya jamii."
+    },
+    "ko-KR": {
+      "title": "프라이드 센터 샌안토니오",
+      "description": "프라이드 센터 샌안토니오는 레즈비언, 게이, 바이섹슈얼, 트랜스젠더, 질문하는 사람들, 그리고 동맹 커뮤니티를 대상으로 서비스를 제공합니다. 그들은 여러 프로그램, 이벤트, 그리고 자원을 제공하며, 그 중에는 지원 그룹, 치료, 성병 검사 등이 포함됩니다. 그들의 목표는 커뮤니티 내에서 기존의 서비스와 연합하여 작업하는 것입니다."
+    },
+    "ru-RU": {
+      "title": "Центр гордости Сан-Антонио",
+      "description": "Центр гордости Сан-Антонио служит лесбийскому, гей, бисексуальному, трансгендерному, рассматривающему и союзническому сообществам. Они проводят множество программ, мероприятий и ресурсов, включая группы поддержки, терапию, тестирование на ИППП и многое другое. Они стремятся работать в альянсе с существующими услугами в сообществе."
+    },
+    "vi-VN": {
+      "title": "Trung Tâm Pride San Antonio",
+      "description": "Trung Tâm Pride San Antonio phục vụ cộng đồng lesbian, gay, song tính, chuyển giới, đang nghi vấn và đồng minh. Họ tổ chức nhiều chương trình, sự kiện và cung cấp tài nguyên, bao gồm các nhóm hỗ trợ, liệu pháp, kiểm tra STI và hơn thế nữa. Họ nhằm mục đích làm việc liên minh với các dịch vụ hiện có trong cộng đồng."
+    },
+    "ja-JP": {
+      "title": "プライドセンター・サンアントニオ",
+      "description": "プライドセンター・サンアントニオは、レズビアン、ゲイ、バイセクシャル、トランスジェンダー、自問自答している人々、そして味方のコミュニティにサービスを提供しています。彼らはサポートグループ、セラピー、性感染症の検査など、さまざまなプログラム、イベント、リソースを提供しています。彼らの目指すところは、コミュニティ内の既存のサービスと連携して働くことです。"
+    },
+    "ar-SA": {
+      "title": "مركز الفخر سان انطونيو",
+      "description": "يخدم مركز الفخر سان انطونيو المثليين والثنائيين والمتحولين جنسياً والمستفهمين والحلفاء. يستضيفون مجموعة متنوعة من البرامج والأحداث والموارد، بما في ذلك مجموعات الدعم، العلاج، اختبار الأمراض المنقولة جنسيا، وأكثر. يهدفون إلى العمل بالتحالف مع الخدمات الموجودة ضمن المجتمع."
+    },
+    "hi-IN": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center San Antonio समलैंगिक, समलैंगिक, द्विलिंगी, त्रिलिंगी, सवाल करने वाले, और सहयोगी समुदाय की सेवा करता है। वे एक विविधता कार्यक्रमों, कार्यक्रमों, और संसाधनों, समर्थन समूहों, चिकित्सा, STI परीक्षण, और अधिक सहित मेजबानी करते हैं। वे समुदाय के भीतर मौजूदा सेवाओं के साथ गठबंधन में काम करने का लक्ष्य रखते हैं।"
+    },
+    "uk-UA": {
+      "title": "Центр Гордісті Сан-Антоніо",
+      "description": "Центр Гордісті Сан-Антоніо служить спільноті лесбійок, геїв, бісексуалів, трансгендерів, людей, які вияснюють свою сексуальну орієнтацію, та союзників. Вони проводять різноманітні програми, заходи та надають ресурси, включаючи групи підтримки, терапію, тестування на ІПІН та більше. Вони прагнуть працювати в союзі з існуючими послугами в межах спільноти."
+    },
+    "bn-BD": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center San Antonio লেসবিয়ান, গে, বাইসেক্সুয়াল, ট্রান্সজেন্ডার, প্রশ্নকৃতন, ও বন্ধু সম্প্রদায়ের সেবা করে। তারা বিভিন্ন কর্মসূচি, ইভেন্ট, এবং সংস্থান হোস্ট করে, যেমন সমর্থন দল, চিকিৎসা, স্টি পরীক্ষা, এবং আরও অনেক অনেক কিছু। তারা চেষ্টা করে যেন সম্প্রদায়ের বিদ্যমান সেবাসমূহের সাথে অনুসন্ধান করুন।"
+    },
+    "mr-IN": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center San Antonio ही सहकार्याच्या, समलिंगी, बहुलिंगी, लिंगांतर, प्रश्नवचन आणि मित्र समुदायाची सेवा करते. त्यांनी समर्थन समूह, उपचार, एसटीआय चाचणी आणि अधिकांशित मदतीसाठी विविध कार्यक्रमे, कार्यक्रमी आणि संसाधने आयोजित करतात. त्यांचे उद्दीष्ट समाजातील अस्तित्वात असलेल्या सेवांसह संघटनात काम करणे आहे."
+    },
+    "ur-PK": {
+      "title": "Pride Center San Antonio",
+      "description": "Pride Center سان انٹونیو خواجہ سرا، ہم جنس پرست، دو جنس پرست، ٹرانسجینڈر، سوال کرنے والے، اور متحدہ کمیونٹی کی خدمت کرتا ہے۔ وہ مختلف پروگرام، تقریبات، اور وسائل میزبانی کرتے ہیں، جسمیں سپورٹ گروپس، تھراپی، STI ٹیسٹنگ، اور مزید شامل ہیں۔ وہ یہ توقع کرتے ہیں کہ کمیونٹی کے موجودہ خدمات کے ساتھ اتحاد کرکے کام کریں۔"
+    },
+    "ta-IN": {
+      "title": "பெருமை மையம் சான் அண்டோனியோ",
+      "description": "பெருமை மையம் சான் அண்டோனியோ லெஸ்பியன், கேஜே, பைசெக்சுவல், திருநங்கை, கேள்வியலூரி, ஆண்ட் ஆள்லி சமுதாயத்தை சேவிக்கின்றன. அவர்கள் ஒவ்வொரு நிகழ்வுகள், நிகழ்வுகள், மற்றும் வளங்கள், ஆதரவு குழுக்கள், சிகிச்சை, சுட்டக்குறிப்பு பரிசோதனை, மேலும் அதனையேயாம், சம்பந்தப்பட்ட சேவைகளுடன் கூட்டுச்சேரலில் செயல்பட நோக்குகின்றன."
+    },
+    "te-IN": {
+      "title": "ప్రౌడ్ సెంటర్ సాన్ ఆంటోనియో",
+      "description": "ప్రౌడ్ సెంటర్ సాన్ ఆంటోనియో లెస్బియన్, గే, బైసెక్సుయల్, ట్రాన్స్జెండర్, ప్రశ్నిస్తున్నవారు, మరియు సహకారి సముదాయాన్ని సేవ చేస్తుంది. అభిప్రేతమైన కార్యక్రమాలు, ఈవెంట్లు, మరియు వనరులు, సహాయ సమూహాలు, చికిత్సా, STI పరీక్షలు, మరింత లాంటివిని హోస్ట్ చేస్తుంది. వారు సముదాయాలో ఉన్న సేవలతో సహకారం చేయుటకు ప్రయత్నిస్తుంది."
+    }
+  }
+}

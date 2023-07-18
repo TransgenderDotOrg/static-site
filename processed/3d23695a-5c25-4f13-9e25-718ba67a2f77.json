@@ -1,0 +1,35 @@
+{
+  "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+  "title": "Identity Alaska",
+  "description": "Alaska-based nonprofit community center and health clinic providing resources, programs, and healthcare for the LGBTQIA2S+ and allied community.",
+  "slug": "identity-alaska",
+  "externalUrl": "https://www.identityalaska.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "education-awareness",
+    "community-stories",
+    "support-groups"
+  ],
+  "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+  "phoneNumber": "(907) 865-3247",
+  "country": "US",
+  "provinceOrState": "AK",
+  "city": "Anchorage",
+  "county": "Anchorage Municipality",
+  "latLng": [61.1955918, -149.8774355],
+  "email": "info@identityinc.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/IdentityInc",
+    "twitterUrl": null,
+    "instagramUrl": "https://www.instagram.com/identityalaska/",
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

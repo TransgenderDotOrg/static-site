@@ -1,0 +1,25 @@
+{
+  "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+  "title": "Gender Confirmation Center",
+  "description": "The Gender Confirmation Center provides comprehensive gender-affirming care, through multiple types of procedures and treatment plans, for the transgender, nonbinary, and gender diverse community.",
+  "slug": "gender-confirmation-center",
+  "externalUrl": "https://www.genderconfirmation.com/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+  "phoneNumber": "(415) 780-1515",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "SF",
+  "county": "San Francisco County",
+  "latLng": [
+    37.7896952,
+    -122.4078356
+  ],
+  "email": null,
+  "socialMedia": null
+}

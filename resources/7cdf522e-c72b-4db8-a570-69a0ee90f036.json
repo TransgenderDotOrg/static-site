@@ -1,0 +1,106 @@
+{
+  "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+  "slug": "centerlink-the-community-of-lgbtq-centers",
+  "externalUrl": "https://www.lgbtqcenters.org",
+  "tags": [
+    "mental-health",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "CenterLink, The Community of LGBTQ Centers",
+      "description": "CenterLink is an international nonprofit organization and member-based association of LGBTQ centers and other organizations serving their local and regional communities. Their mission is to strengthen, support, and connect LGBTQ community centers, providing essential services, promoting growth, wellness, and connectivity in over 325 LGBTQ communities worldwide."
+    },
+    "zh-CN": {
+      "title": "CenterLink，LGBTQ中心社区",
+      "description": "CenterLink是一个国际性的非营利组织和LGBTQ中心以及其他服务于当地和区域社区的组织的成员型协会。他们的使命是加强、支持和连接LGBTQ社区中心，提供必要的服务，促进在全球325个以上的LGBTQ社区中的成长，健康和连通性。"
+    },
+    "de-DE": {
+      "title": "CenterLink, Die Gemeinschaft der LGBTQ-Zentren",
+      "description": "CenterLink ist eine internationale gemeinnützige Organisation und eine auf Mitgliedern basierende Vereinigung von LGBTQ-Zentren und anderen Organisationen, die ihren lokalen und regionalen Gemeinschaften dienen. Ihre Mission ist es, LGBTQ-Gemeinschaftszentren zu stärken, zu unterstützen und zu vernetzen, wesentliche Dienstleistungen zu erbringen, Wachstum, Wohlbefinden und Konnektivität in über 325 LGBTQ-Gemeinschaften weltweit zu fördern."
+    },
+    "es-ES": {
+      "title": "CenterLink, La Comunidad de Centros LGBTQ",
+      "description": "CenterLink es una organización internacional sin fines de lucro y una asociación basada en miembros de centros LGBTQ y otras organizaciones que sirven a sus comunidades locales y regionales. Su misión es fortalecer, apoyar y conectar los centros comunitarios LGBTQ, proporcionando servicios esenciales, promoviendo el crecimiento, el bienestar y la conectividad en más de 325 comunidades LGBTQ en todo el mundo."
+    },
+    "id-ID": {
+      "title": "CenterLink, Komunitas Pusat LGBTQ",
+      "description": "CenterLink adalah organisasi nirlaba internasional dan asosiasi berbasis anggota dari pusat LGBTQ dan organisasi lainnya yang melayani komunitas lokal dan regional mereka. Misi mereka adalah untuk memperkuat, mendukung, dan menghubungkan pusat komunitas LGBTQ, memberikan layanan penting, mempromosikan pertumbuhan, kesejahteraan, dan konektivitas di lebih dari 325 komunitas LGBTQ di seluruh dunia."
+    },
+    "tr-TR": {
+      "title": "CenterLink, LGBTQ Merkezlerin Topluluğu",
+      "description": "CenterLink, LGBTQ merkezleri ve yerel ve bölgesel topluluklarına hizmet veren diğer kuruluşların uluslararası bir kar amacı gütmeyen organizasyonu ve üye tabanlı bir derneğidir. Misyonları, LGBTQ topluluk merkezlerini güçlendirmek, desteklemek ve birbirine bağlamaktır, 325'ten fazla LGBTQ topluluğunda temel hizmetler sağlar, büyümeyi, sağlığı ve bağlantıyı teşvik eder."
+    },
+    "fr-FR": {
+      "title": "CenterLink, La Communauté des Centres LGBTQ",
+      "description": "CenterLink est une organisation internationale à but non lucratif et une association de membres de centres LGBTQ et d'autres organisations au service de leurs communautés locales et régionales. Leur mission est de renforcer, soutenir et connecter les centres communautaires LGBTQ, fournissant des services essentiels, favorisant la croissance, le bien-être et la connectivité dans plus de 325 communautés LGBTQ dans le monde entier."
+    },
+    "pt-PT": {
+      "title": "CenterLink, A Comunidade de Centros LGBTQ",
+      "description": "O CenterLink é uma organização internacional sem fins lucrativos e uma associação baseada em membros de centros LGBTQ e outras organizações que atendem suas comunidades locais e regionais. Sua missão é fortalecer, apoiar e conectar os centros comunitários LGBTQ, fornecendo serviços essenciais, promovendo crescimento, bem-estar e conectividade em mais de 325 comunidades LGBTQ em todo o mundo."
+    },
+    "vi-VN": {
+      "title": "CenterLink, Cộng đồng các Trung tâm LGBTQ",
+      "description": "CenterLink là một tổ chức phi lợi nhuận quốc tế và hiệp hội dựa trên thành viên của các trung tâm LGBTQ và các tổ chức khác phục vụ cộng đồng địa phương và khu vực của họ. Sứ mệnh của họ là tăng cường, hỗ trợ, và kết nối các trung tâm cộng đồng LGBTQ, cung cấp các dịch vụ thiết yếu, thúc đẩy sự phát triển, sức khỏe, và kết nối trong hơn 325 cộng đồng LGBTQ trên toàn thế giới."
+    },
+    "ja-JP": {
+      "title": "CenterLink、LGBTQ センターのコミュニティ",
+      "description": "CenterLinkは、LGBTQセンターや地域コミュニティをサポートする他の組織の国際的な非営利組織であり、会員ベースの協会です。その使命は、LGBTQコミュニティセンターを強化、サポート、接続し、必要なサービスを提供し、成長、健康、コネクティビティを促進し、全世界の325以上のLGBTQコミュニティで活動しています。"
+    },
+    "ko-KR": {
+      "title": "CenterLink, LGBTQ 센터 커뮤니티",
+      "description": "CenterLink는 LGBTQ 센터 및 기타 기관들이 지역 및 지역 사회를 위해 활동하는 국제적인 비영리 단체 및 멤버 기반 협회입니다. 그들의 임무는, 필수 서비스를 제공하고 성장, 웰니스, 연결성을 증진함으로써 LGBTQ 커뮤니티 센터를 강화, 지원, 연결하는 것이며, 전 세계 325개 이상의 LGBTQ 커뮤니티에서 활동하고 있습니다."
+    },
+    "ar-SA": {
+      "title": "CenterLink، المجتمع لمراكز LGBTQ",
+      "description": "CenterLink هي منظمة غير ربحية دولية وجمعية تعتمد على الأعضاء من مراكز LGBTQ والمنظمات الأخرى التي تخدم مجتمعاتها المحلية والإقليمية. مهمتهم هي تعزيز ودعم وربط مراكز المجتمع LGBTQ، وتقديم الخدمات الأساسية، وتعزيز النمو والعافية، والاتصال في أكثر من 325 مجتمعًا لـ LGBTQ على مستوى العالم."
+    },
+    "sw-KE": {
+      "title": "CenterLink, Jumuiya ya Vituo vya LGBTQ",
+      "description": "CenterLink ni shirika la kimataifa lisilo la faida na chama cha wanachama cha vituo vya LGBTQ na mashirika mengine yanayohudumia jamii zao za mitaa na za kikanda. Jukumu lao ni kuimarisha, kusaidia, na kuunganisha vituo vya jamii ya LGBTQ, kutoa huduma muhimu, kukuza ukuaji, ustawi, na uunganisho katika zaidi ya jumuiya za LGBTQ 325 ulimwenguni kote."
+    },
+    "uk-UA": {
+      "title": "CenterLink, Спільнота Центрів LGBTQ",
+      "description": "CenterLink - це міжнародна некомерційна організація та асоціація на основі членства центрів LGBTQ та інших організацій, які обслуговують свої місцеві та регіональні спільноти. Їхня місія - зміцнити, підтримати та зв’язати центри спільноти LGBTQ, надаючи необхідні послуги, сприяючи росту, благополуччю та зв'язку в понад 325 спільнотах LGBTQ у всьому світі."
+    },
+    "ur-PK": {
+      "title": "CenterLink، LGBTQ کے مراکز کی کمیونٹی",
+      "description": "CenterLink ایک بین الاقوامی غیر متنفع تنظیم اور LGBTQ مراکز اور دیگر تنظیموں کی رکن بنیادی ایسوسی ایشن ہے جو اپنی مقامی اور علاقائی برادریوں کی خدمت کر رہی ہیں۔ ان کا مشن ہے کہ وہ مضبوط کریں، مدد کریں، اور LGBTQ کمیونٹی کے مراکز سے جڑیں، ضروری خدمات فراہم کریں، بڑھوتری، صحتمندی، اور کنیکٹوٹی کی ترویج کریں LGBTQ برادریوں میں دنیا بھر میں 325 سے زیادہ."
+    },
+    "ru-RU": {
+      "title": "CenterLink, Сообщество центров ЛГБТК",
+      "description": "CenterLink - это международная некоммерческая организация и ассоциация на основе членства центров ЛГБТК и других организаций, обслуживающих местные и региональные сообщества. Их миссия - укреплять, поддерживать и соединять центры сообщества ЛГБТК, предоставлять важные услуги, способствовать росту, благополучию и связности в более чем 325 мировых сообществах ЛГБТК."
+    },
+    "hi-IN": {
+      "title": "CenterLink, समलैंगिक सेंटर्स का समुदाय",
+      "description": "CenterLink एक अंतरराष्ट्रीय गैर-लाभकारी संगठन है और LGBTQ केंद्रों और अन्य संगठनों का सदस्य-आधारित संघ है जो अपने स्थानीय और क्षेत्रीय समुदायों की सेवा कर रहे हैं। उनका मिशन है LGBTQ समुदाय केंद्रों को मजबूत, सहारा देने और जोड़ने का कार्य करना, आवश्यक सेवायें प्रदान करना, वृद्धि, स्वास्थ्य और संवेदनशीलता को बढ़ावा देना संपूर्ण विश्व में 325 से अधिक LGBTQ समुदायों में।"
+    },
+    "mr-IN": {
+      "title": "CenterLink, LGBTQ केंद्रांच्या समुदाय",
+      "description": "CenterLink ही एक आंतरराष्ट्रीय नॉनप्रॉफिट संघटना आणि LGBTQ केंद्रांची आणि इतर संघटनांची सदस्य-आधारित संघटना आहे ज्या त्यांच्या स्थानिक आणि प्रदेशिक समुदायांना सेवा देतात. त्यांच्या ध्येयात्मक म्हणजे, प्रमुख सेवा, वाढ, आरोग्य आणि  जगभरातील 325 पेक्षा अधिक LGBTQ समुदायांमध्ये कनेक्टिव्हिटी प्रवर्धन करण्यासाठी LGBTQ समुदाय केंद्रे सबळीकरणारे, मदत करणारे आणि कनेक्ट करणारे."
+    },
+    "bn-BD": {
+      "title": "CenterLink, এলজিবিটিকিউ কেন্দ্রসমূহের সম্প্রদায়",
+      "description": "CenterLink একটি আন্তর্জাতিক অলাভজনক সংস্থা এবং এলজিবিটিকিউ কেন্দ্র এবং অন্যান্য সংস্থা যা তাদের স্থানীয় এবং অঞ্চলিক সম্প্রদায়ের পরিবেশনা করে। তাদের লক্ষ্য হলো এলজিবিটিকিউ কমিউনিটি কেন্দ্রগুলিকে শক্তিশালী করা, সমর্থসাধারন এবং যোগাযোগ করা, প্রয়োজনীয় সেবা প্রদানকারী, বিকাশ, স্বাস্থ্যরক্ষা এবং যোগাযোগ উন্নয়নে উদ্যোগী হতে 325 টিরও বেশি এলজিবিটিকিউ সম্প্রদায় বিশ্বব্যাপী।"
+    },
+    "te-IN": {
+      "title": "CenterLink, LGBTQ కేంద్రాల కమ్యూనిటీ",
+      "description": "CenterLink అంతర్జాతీయ స్వయంసేవక సంస్థ మరియు LGBTQ కేంద్రాలు మరియు ఇతర సంస్థలకు సభ్యత్వ ఆధారిత సంఘం. వారి లక్ష్యం బలపరచు, మద్దతు అందించు మరియు LGBTQ సముదాయ కేంద్రాలను కనెక్ట్ చేసేందుకు, తప్పనిసరి సేవలను అందిస్తుంది, వృద్ధి, ఆరోగ్యం, మరియు కనెక్టివిటీను ప్రోత్సహిస్తుంది 325 కంటే ఎక్కువ LGBTQ సముదాయాల్లో ప్రపంచవ్యాప్తంగా."
+    },
+    "ta-IN": {
+      "title": "CenterLink, LGBTQ மையங்களின் சமூகம்",
+      "description": "CenterLink என்பது ஒரு சர்வதேச அல்லாதுமய அமைப்பு மற்றும் LGBTQ மையங்கள் மற்றும் அவர்கள் உள்ளூர் மற்றும் மாநில சமூகங்களை சேவிக்கும் ஏனைய அமைப்புகளின் உறுப்பினர் வாழ்க்கை அமைப்பு. அவர்களின் கருத்து LGBTQ சமூக மையங்களைப் பலப்படுத்துவது, ஆதரவு வழங்குவது மற்றும் இணைக்குவது, அவசியமான சேவைகளைவழங்குவது, வளர்ச்சியை முன்னெச்சுவது, ஆரோக்கியத்தை மற்றும் இணையுமையை உலகெங்கும் 325-ற்கும் அதிகமான LGBTQ சமூகங்களில் புகழ்ச்சியை வாழ்க்கைக்கு முன்னேற்றுவது."
+    }
+  }
+}

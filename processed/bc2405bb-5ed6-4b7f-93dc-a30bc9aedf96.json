@@ -1,0 +1,31 @@
+{
+  "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+  "title": "Pride Center San Antonio",
+  "description": "Pride Center San Antonio serves the lesbian, gay, bisexual, transgender, questioning, and ally community. They host a variety of programs, events, and resources, including support groups, therapy, STI testing, and more. They aim to work in alliance with existing services within the community.",
+  "slug": "pride-center-san-antonio",
+  "externalUrl": "https://pridecentersa.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "San Antonio",
+  "county": "Bexar",
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+    "twitterUrl": "https://twitter.com/PrideCenterSA",
+    "instagramUrl": "https://www.instagram.com/pridecentersa/"
+  }
+}

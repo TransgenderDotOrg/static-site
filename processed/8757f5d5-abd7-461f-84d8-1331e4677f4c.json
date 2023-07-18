@@ -1,0 +1,29 @@
+{
+  "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+  "title": "Gender Justice League",
+  "description": "Gender Justice League is a civil and human rights organization that focuses on elevating the rights of trans & gender diverse communities in Washington State and beyond. GJL was founded in Seattle, WA in 2012 by a group of long-time trans, queer, and allied activists. They focus on advocacy, providing a safe house program, resources, and special events.",
+  "slug": "gender-justice-league",
+  "externalUrl": "https://www.genderjusticeleague.org/",
+  "tags": [
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+  "phoneNumber": "206-538-0423",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6142754,
+    -122.3171383
+  ],
+  "email": "info@genderjusticeleague.org",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+    "twitterUrl": "https://twitter.com/genderjusticewa",
+    "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+    "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+  "title": "Center on Halsted",
+  "description": "Chicago's community center dedicated to advancing the Lesbian, Gay, Bisexual, Transgender (LGBT) and Queer (+) community through providing service programs, events, trainings, and resources. Including services for HIV/AIDS & STD, Behavioral Health, Anti-violence and special programs for the youth and seniors.",
+  "slug": "center-on-halsted",
+  "externalUrl": "https://www.centeronhalsted.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "community-stories",
+    "education-awareness"
+  ],
+  "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+  "phoneNumber": "773.472.6469",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Chicago",
+  "county": "Cook County",
+  "latLng": [41.9488291, -87.6499407],
+  "email": "mail@centeronhalsted.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+    "twitterUrl": "http://twitter.com/CenteronHalsted",
+    "instagramUrl": null,
+    "youtubeUrl": null,
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

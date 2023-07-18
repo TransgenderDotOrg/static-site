@@ -36,6 +36,34 @@
     "description": "Trung tâm Tự hào Hạt San Mateo là một tổ chức mô hình hợp tác và là nơi dừng chân cho cộng đồng LGBTQ+. Chúng tôi cung cấp các chương trình và dịch vụ mạnh mẽ để hỗ trợ các thành viên của cộng đồng LGBTQ+ ở mọi lứa tuổi, bao gồm giáo dục, đào tạo, sự kiện cộng đồng, nhóm hỗ trợ bạn bè, lập trình hàng ngày, liệu pháp lâm sàng, và quản lý trường hợp."
   },
   {
+    "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+    "slug": "hawaii-lgbt-legacy-foundation",
+    "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Honolulu, HI, USA",
+    "phoneNumber": "808.369.2000",
+    "country": "US",
+    "provinceOrState": "HI",
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "latLng": [
+      21.3098845,
+      -157.8581401
+    ],
+    "email": "info@hawaiilgbtlegacy.com",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+      "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+      "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+    },
+    "title": "Quỹ Di sản LGBT Hawaii",
+    "description": "Một tổ chức phi lợi nhuận cam kết hỗ trợ và quảng bá cộng đồng LGBTQ+ ở Hawaii. Nó tổ chức một loạt các dự án và sự kiện bao gồm Honolulu Pride, Rainbow Town Hall và Coming Out Stories. Nó cũng cung cấp một loạt các nguồn lực và dịch vụ hỗ trợ."
+  },
+  {
     "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
     "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
     "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
@@ -57,6 +85,35 @@
     "socialMedia": null,
     "title": "Hiểu và Hỗ trợ Chuyển giới ở Trẻ em và Cha Mẹ",
     "description": "Bài viết tiếng Đức này cung cấp một hướng dẫn toàn diện cho các gia đình đang đối mặt với việc chuyển giới ở cha mẹ hoặc trẻ em. Nó cung cấp thông tin về các quy trình và nguồn lực chính, cung cấp hướng dẫn từ việc hiểu và chấp nhận tình hình đến việc theo đuổi các phương pháp điều trị liên quan."
+  },
+  {
+    "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+    "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+    "externalUrl": "https://www.nagly.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Salem, MA, USA",
+    "phoneNumber": "978-224-2102",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "latLng": [
+      42.5197473,
+      -70.8954626
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Liên minh Thanh thiếu niên Đồng tính, Song tính và Chuyển giới Bắc Bờ (NAGLY)",
+    "description": "Sứ mệnh của NAGLY là tôn trọng, giáo dục và trao quyền cho thanh thiếu niên GLBTQ+. Họ xây dựng cộng đồng thông qua các chương trình địa phương và dịch vụ hỗ trợ, bao gồm các nhóm thanh thiếu niên và người lớn cùng các hoạt động cộng đồng khác nhau. Họ cung cấp nguồn lực về sức khỏe tâm thần, cung cấp giáo dục về chăm sóc sức khỏe, và tạo ra nhiều cơ hội cho cộng đồng LGBTQ+ để kết nối và chia sẻ kinh nghiệm của họ."
   },
   {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
@@ -272,6 +329,37 @@
     "description": "Minus18 là tổ chức từ thiện của Úc nhằm cải thiện cuộc sống của giới trẻ LGBTQIA+. Họ giải quyết vấn đề cô lập xã hội bằng cách tạo ra không gian mà các bạn trẻ có thể thuộc về, được tôn vinh và kết bạn. Họ cũng cung cấp đào tạo, tài nguyên và chiến dịch kỹ thuật số LGBTQIA+, với mục tiêu tạo ra một Úc không phân biệt đối xử. Mục tiêu của họ là trang bị cho các bạn trẻ những kỹ năng và cơ hội cần thiết để đứng đầu trong việc thúc đẩy thay đổi."
   },
   {
+    "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+    "slug": "youth-eastside-services",
+    "externalUrl": "https://www.youtheastsideservices.org/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources"
+    ],
+    "address": "Kirkland, WA, USA",
+    "phoneNumber": "425-747-4937",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Kirkland",
+    "county": "King County",
+    "latLng": [
+      47.6768927,
+      -122.2059833
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+      "twitterUrl": "https://twitter.com/YouthEastside",
+      "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+      "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+    },
+    "title": "Youth Eastside Services",
+    "description": "Youth Eastside Services (YES) là một tổ chức phi lợi nhuận cung cấp các dịch vụ sức khỏe tâm thần và lạm dụng chất cực kỳ toàn diện cho thanh niên và gia đình họ, không phân biệt khả năng trả tiền. Tọa lạc ở Washington, các dịch vụ của nó bao gồm tư vấn, liệu pháp, hỗ trợ cho cộng đồng LGBTQ+, và các chương trình cộng đồng đa dạng."
+  },
+  {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
     "slug": "us-trans-survey",
     "externalUrl": "https://www.ustranssurvey.org/",
@@ -330,6 +418,57 @@
     },
     "title": "nonbinary.ch - Một nguồn tài nguyên cho những người không nhị phân",
     "description": "Một trang web Thụy Sĩ toàn diện cung cấp thông tin và tài nguyên liên quan đến giới tính không nhị phân. Nó được dự định để giúp những người đang khám phá giới tính của bản thân, hoặc những người tương tác với những người không nhị phân, bằng cách làm cho kiến thức cơ bản dễ dàng tiếp cận. Trang web cũng là nơi chứa blog, bản tin và liên kết đến các nguồn tài nguyên bên ngoài liên quan như sách, phim và nghiên cứu."
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "Chiến dịch Quyền Con người",
+    "description": "Chiến dịch Quyền Con người chiến đấu vì quyền lợi và sự bình đẳng của cộng đồng LGBTQ+. Họ nhằm mục đích chấm dứt sự phân biệt và thúc đẩy các chính sách ủng hộ bình đẳng thông qua giáo dục, vận động và tập hợp. Họ cũng cung cấp các nguồn lực cho những người trong cộng đồng LGBTQ+ để tham gia vào các khu vực địa phương của họ."
+  },
+  {
+    "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+    "slug": "gender-confirmation-center",
+    "externalUrl": "https://www.genderconfirmation.com/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+    "phoneNumber": "(415) 780-1515",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "SF",
+    "county": "San Francisco County",
+    "latLng": [
+      37.7896952,
+      -122.4078356
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Trung tâm Xác nhận Giới tính",
+    "description": "Trung tâm Xác nhận Giới tính cung cấp chăm sóc khẳng định giới tính toàn diện, thông qua nhiều loại phương pháp và kế hoạch điều trị, cho cộng đồng chuyển giới, không nhị phân và đa dạng giới tính."
   },
   {
     "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
@@ -530,6 +669,29 @@
     "description": "Tổ chức đại diện hàng đầu Queensland cho những cá nhân chuyển giới, đa dạng giới tính, và non-binary từ năm 1990. Họ cung cấp hỗ trợ, biện hộ, dịch vụ và tổ chức các sự kiện xã hội để phục vụ cộng đồng chuyển giới."
   },
   {
+    "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+    "slug": "topsurgery-net",
+    "externalUrl": "https://www.topsurgery.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TopSurgery.net",
+    "description": "TopSurgery.net là một nguồn thông tin toàn diện dành cho những người đang tìm kiếm thông tin về các phẫu thuật FTM top surgery. Nguồn thông tin cung cấp chi tiết về các loại phẫu thuật khác nhau, cách tìm bác sĩ phẫu thuật, thông tin về chi phí và bảo hiểm, câu hỏi thường gặp, và các nguồn thông tin khác liên quan đến việc thực hiện phẫu thuật cho những người chuyển giới nam và những người không xác định giới tính. Nó cũng bao gồm các nội dung giáo dục như đề xuất sách, video hướng dẫn, và các bài viết về các chủ đề liên quan."
+  },
+  {
     "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
     "slug": "jim-collins-foundation",
     "externalUrl": "https://jimcollinsfoundation.org/",
@@ -628,6 +790,27 @@
     "description": "Queermed Deutschland là một danh bạ các bác sĩ, nhà trị liệu và phòng khám được cộng đồng LGBTQIA+ ở Đức giới thiệu. Mục tiêu là chống lại sự phân biệt đối xử trong hệ thống y tế, đảm bảo sự chăm sóc sức khỏe tôn trọng và nhạy cảm cho tất cả. Nó bao gồm các tùy chọn bổ sung khác nhau trong phiếu khảo sát ẩn danh để phù hợp với các cá nhân đa dạng trong cộng đồng."
   },
   {
+    "id": "3ae6370f-e83a-4b6f-93e1-918d4258c31a",
+    "slug": "how-to-wear-a-packer",
+    "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "Cách Mặc Một Packer",
+    "description": "Bài viết này cung cấp hướng dẫn về cách mặc packer, bao gồm các mẹo về vị trí, chọn kích cỡ phù hợp, cách đặt packer của bạn nên như thế nào và những cách giữ packer ở đúng chỗ. Nó phục vụ như một nguồn tham khảo giáo dục cho những người trong cộng đồng transmasculine và non-binary muốn tìm hiểu thêm về việc đóng gói."
+  },
+  {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
     "slug": "northern-territory-aids-and-hepatitis-council-inc",
     "externalUrl": "https://www.ntahc.org.au/",
@@ -671,6 +854,44 @@
     "description": "Một nguồn tài nguyên trực tuyến đáng tin cậy cho những người đang tìm kiếm kiến thức, sự hỗ trợ, và sự hiểu biết về rối loạn giới tính. Trang web của họ cung cấp một lượng lớn thông tin, tài nguyên, và kết nối cộng đồng để trao quyền cho mọi người trên hành trình của họ. Từ các hướng dẫn toàn diện về danh tính giới tính và chuyển đổi giới tính đến những câu chuyện cá nhân và lời khuyên từ chuyên gia, họ nỗ lực tạo nên một không gian an toàn và bao quát cho tất cả mọi người."
   },
   {
+    "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+    "slug": "identity-alaska",
+    "externalUrl": "https://www.identityalaska.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness",
+      "community-stories",
+      "support-groups"
+    ],
+    "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+    "phoneNumber": "(907) 865-3247",
+    "country": "US",
+    "provinceOrState": "AK",
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "latLng": [
+      61.1955918,
+      -149.8774355
+    ],
+    "email": "info@identityinc.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/IdentityInc",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/identityalaska/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Identity Alaska",
+    "description": "Trung tâm cộng đồng và phòng khám y tế phi lợi nhuận tại Alaska cung cấp tài nguyên, chương trình và dịch vụ y tế cho cộng đồng LGBTQIA2S+ và đồng minh."
+  },
+  {
     "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
     "slug": "unitarian-universalist-association",
     "externalUrl": "https://www.uua.org/",
@@ -694,6 +915,28 @@
     "socialMedia": null,
     "title": "Hiệp hội Unitarian Universalist",
     "description": "Một cộng đồng tinh thần có tâm trí rộng mở, tình yêu rộng lượng hỗ trợ mọi người dẫn dắt cuộc sống với công lý, tình yêu, học hỏi và hy vọng. Cộng đồng này chào đón sự đa dạng bao gồm cộng đồng chuyển giới và khuyến nghị tham gia tích cực vào các hành động nhằm tạo công lý. Họ cũng cung cấp tài nguyên, hỗ trợ và tuyên truyền cho các vấn đề xã hội khác nhau."
+  },
+  {
+    "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+    "slug": "personalized-pronoun-dressing-room",
+    "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Phòng Thử Thẩm Quyền",
+    "description": "Tài nguyên tương tác này cung cấp các ví dụ về các bộ đại từ được sử dụng trong ngữ cảnh khác nhau. Nó có thể tùy chỉnh với bất kỳ tên nào bạn muốn, điều này hỗ trợ trong việc khám phá và hiểu về các đại từ cá nhân. Công cụ này hữu ích cho cộng đồng người chuyển giới, đặc biệt đối với những người đang khám phá đại từ mới hoặc giáo dục người khác về việc sử dụng đại từ."
   },
   {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
@@ -821,6 +1064,31 @@
     "description": "Dự án Luật Sylvia Rivera làm việc để đảm bảo rằng tất cả mọi người đều tự do xác định danh tính và biểu hiện giới tính, bất kể thu nhập hoặc chủng tộc, và không phải đối mặt với quấy rối, phân biệt đối xử hoặc bạo lực. SRLP cung cấp giúp đỡ pháp lý, tổ chức các chiến dịch, thực hiện các khóa đào tạo, và điều hành một Ủy ban Tư vấn Người tù. Sự tham gia của cộng đồng được khuyến khích thông qua đóng góp, tình nguyện và thành viên."
   },
   {
+    "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+    "slug": "allentown-womens-center",
+    "externalUrl": "https://allentownwomenscenter.com/",
+    "tags": [
+      "healthcare",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+    "phoneNumber": "(484) 821-0821",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Bethlehem",
+    "county": "Northampton County",
+    "latLng": [
+      40.6728208,
+      -75.37561989999999
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Trung tâm Phụ nữ Allentown",
+    "description": "Nhà cung cấp dịch vụ chăm sóc sức khỏe toàn diện, chuyên về các dịch vụ phục vụ cho nhiều nhóm dân số khác nhau, bao gồm cộng đồng chuyển giới. Các dịch vụ bao gồm thủ tục phá thai, chăm sóc phụ khoa, các dịch vụ xác nhận giới tính và chứng nhận y tế về marijuana, cùng với nhiều dịch vụ khác."
+  },
+  {
     "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
     "slug": "erin-in-the-morning",
     "externalUrl": "https://www.erininthemorning.com/",
@@ -877,6 +1145,27 @@
     ],
     "title": "EqualDex.com",
     "description": "Một nền tảng trực tuyến đổi mới mà mục tiêu là tạo ra một nguồn tài nguyên toàn diện và cập nhật cho quyền lợi LGBTQ+ toàn cầu. Trang web của họ cung cấp một cơ sở dữ liệu trung tâm về luật pháp, chính sách và thái độ xã hội đối với quyền lợi LGBTQ+ từ khắp nơi trên thế giới. Bằng việc vẽ bản đồ và trực quan hóa dữ liệu về bình đẳng, sự bao trùm, và bảo vệ pháp lý, EqualDex.com cung cấp một công cụ mạnh mẽ cho các nhà hoạt động, nhà nghiên cứu, và cá nhân mong muốn hiểu và đấu tranh cho quyền lợi LGBTQ+ trên phạm vi toàn cầu. Khám phá các bản đồ tương tác của họ, duyệt các thông tin cụ thể của từng quốc gia, và cập nhật thông tin về những tiến bộ và thách thức mới nhất mà cộng đồng LGBTQ+ trên toàn thế giới đang đối mặt."
+  },
+  {
+    "id": "5075ae0b-ac8b-4bc5-9f42-ffdb587784cb",
+    "slug": "how-to-pack-ftm-with-socks-diy-packer",
+    "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
+    "tags": [
+      "transmasculine",
+      "clothing",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Cách đóng gói ftm với vớ | DIY Packer",
+    "description": "Bài viết blog này cung cấp hướng dẫn toàn diện về cách tạo một gói tự chế bằng vớ và các vật liệu giá rẻ khác. Cũng bao gồm các phương thức tự làm thay thế cho các phôi giả FTM khác để giúp những người chuyển giới sang nam cảm thấy thoải mái và chính chất hơn."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1011,6 +1300,70 @@
     },
     "title": "Transgender Victoria",
     "description": "TGV là tổ chức hàng đầu của Victoria cho những người chuyển giới và đa giới tính. Chúng tôi làm việc để đạt được công lý, công bằng và sự bao gồm cho cộng đồng của chúng tôi, đối tác của họ, gia đình, bạn bè và đồng minh. Chúng tôi cung cấp các nguồn lực, đào tạo, ủng hộ, và dịch vụ hỗ trợ nhằm vào kết quả xã hội, kinh tế, sức khỏe, phúc lợi, và sức khỏe tâm thần cho cộng đồng người chuyển giới."
+  },
+  {
+    "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+    "slug": "margies-hope",
+    "externalUrl": "https://www.margieshope.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "support-groups",
+      "youth-services",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": "(440) 857-0611",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@margieshope.org",
+    "socialMedia": null,
+    "title": "Hi vọng của Margie",
+    "description": "Hi vọng của Margie được thành lập vào năm 2011 bởi Jacob Nash. Lịch sử và mục đích của chúng tôi là làm giàu cuộc sống của những người chuyển giới, không nhị phân và giới tính mở rộng trong cộng đồng. Hi vọng của Margie cung cấp tài nguyên và hỗ trợ thông qua các chương trình cộng đồng khác nhau và cửa hàng tái bán không nhằm mục đích lợi nhuận."
+  },
+  {
+    "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+    "slug": "brave-space-alliance",
+    "externalUrl": "https://bravespacealliance.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+    "phoneNumber": "(872) 333-5199",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.7997305,
+      -87.5885496
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+      "twitterUrl": "https://twitter.com/BSAllianceChi",
+      "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+      "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+    },
+    "title": "Brave Space Alliance",
+    "description": "Brave Space Alliance là Trung tâm LGBTQ+ đầu tiên do người da đen và người chuyển giới lãnh đạo, tọa lạc ở phía Nam Chicago, cung cấp dịch vụ xác nhận và văn hóa cho toàn bộ cộng đồng LGBTQ+ của Chicago."
   },
   {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
@@ -1211,6 +1564,33 @@
     "description": "Một tổ chức y tế ở Nam Úc cung cấp các dịch vụ lâm sàng, tư vấn về sức khỏe tình dục và giáo dục, đào tạo liên quan đến sức khỏe tình dục và sinh sản và kỹ năng tương tác. Nó cũng cung cấp hỗ trợ và các dịch vụ bao quát cho cộng đồng LGBTIQA+. Họ cũng tham gia vào việc kỷ niệm và ủng hộ cho quyền lợi và sự công nhận của cộng đồng người chuyển giới và đa giới tính quốc tế."
   },
   {
+    "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+    "slug": "boston-alliance-of-lgbtq-youth-bagly",
+    "externalUrl": "https://www.bagly.org/",
+    "tags": [
+      "youth-services",
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "28 Court Square, Boston, MA 02108, USA",
+    "phoneNumber": "(617) 227-4313",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3585686,
+      -71.05938739999999
+    ],
+    "email": "mmccarron@bagly.org",
+    "socialMedia": {
+      "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+    },
+    "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+    "description": "BAGLY là một tổ chức do thanh niên dẫn dắt, được người lớn hỗ trợ, nhằm đấu tranh cho các chương trình, chính sách và dịch vụ dành cho cộng đồng thanh niên LGBTQ+. BAGLY cung cấp một loạt các nguồn lực và chương trình bao gồm dịch vụ y tế, công lý về thực phẩm, phát triển lãnh đạo thanh niên, và nhiều hơn nữa. BAGLY ưu tiên nhu cầu của thanh niên LGBTQ+ màu sắc, thanh niên chuyển giới và không xác định giới tính, và thanh niên LGBTQ+ không có nhà."
+  },
+  {
     "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
     "slug": "zoe-belle-gender-collective",
     "externalUrl": "https://zbgc.org.au/",
@@ -1233,6 +1613,28 @@
     "socialMedia": null,
     "title": "Zoe Belle Gender Collective",
     "description": "Zoe Belle Gender Collective là một tổ chức ủng hộ do cộng đồng người chuyển giới và đa giới tính dẫn dắt, cung cấp đào tạo chuyên nghiệp, các buổi hội thảo và hỗ trợ cho cộng đồng LGBTQI+. Tổ chức này cung cấp nguồn lực và hỗ trợ cho các dịch vụ cộng đồng, người lao động, gia đình và bạn bè, cũng như cá nhân đa giới tính và chuyển giới. Gần đây, nó cũng đã ra mắt Transfemme, một sáng kiến phòng ngừa bạo lực của nam giới cis đối với phụ nữ chuyển giới."
+  },
+  {
+    "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+    "slug": "centerlink-the-community-of-lgbtq-centers",
+    "externalUrl": "https://www.lgbtqcenters.org",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "CenterLink, Cộng đồng các Trung tâm LGBTQ",
+    "description": "CenterLink là một tổ chức phi lợi nhuận quốc tế và hiệp hội dựa trên thành viên của các trung tâm LGBTQ và các tổ chức khác phục vụ cộng đồng địa phương và khu vực của họ. Sứ mệnh của họ là tăng cường, hỗ trợ, và kết nối các trung tâm cộng đồng LGBTQ, cung cấp các dịch vụ thiết yếu, thúc đẩy sự phát triển, sức khỏe, và kết nối trong hơn 325 cộng đồng LGBTQ trên toàn thế giới."
   },
   {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
@@ -1262,6 +1664,33 @@
     "email": "info@genderdiversity.org",
     "title": "Đa dạng giới tính",
     "description": "Đa dạng giới tính cải thiện sự ổn định của trẻ em và người lớn thuộc mọi danh tính và biểu hiện giới tính bằng cách cung cấp giáo dục, nâng cao nhận thức, và đem lại cái nhìn sâu sắc vào phạm vi rộng lớn hơn của trải nghiệm con người. Chúng tôi còn hỗ trợ trong việc tạo ra môi trường hỗ trợ và không phân biệt đối xử tại các trường học, đội thể thao, nơi làm việc, và nhà cung cấp dịch vụ y tế cho các cá nhân chuyển đổi giới tính và đa dạng giới tính."
+  },
+  {
+    "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+    "slug": "equality-california",
+    "externalUrl": "https://www.eqca.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+    "phoneNumber": "(323) 848-9801",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0500954,
+      -118.2531648
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Equality California",
+    "description": "Equality California là một tổ chức mang giọng nói của những người LGBTQ+ và đồng minh đến các cơ quan quyền lực ở California và khắp Hoa Kỳ, nỗ lực tạo ra một thế giới lành mạnh, công bằng và hoàn toàn bình đẳng cho tất cả mọi người LGBTQ+. Họ thúc đẩy quyền công dân và công lý xã hội và không ngừng làm việc vì những người mà họ phục vụ. Họ cung cấp các chương trình, ấn phẩm, luật, lời chứng thực và nhiều cách thức để hành động."
   },
   {
     "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
@@ -1322,6 +1751,35 @@
     "town": "Manhattan",
     "title": "Quỹ Pháp lý & Giáo dục Transgender (TLDEF)",
     "description": "TLDEF cam kết chấm dứt sự phân biệt đối xử dựa trên danh tính và biểu hiện giới tính và đạt được sự bình đẳng cho người chuyển giới thông qua giáo dục cộng đồng, kiện tụng vụ án thử nghiệm, dịch vụ pháp lý trực tiếp và nỗ lực chính sách công cộng. Họ cung cấp các dịch vụ như dự án thay đổi tên, kiện tụng tác động và dự án sức khỏe chuyển giới. Nó cũng cung cấp các cập nhật về các vấn đề pháp lý liên quan đang ảnh hưởng đến cộng đồng người chuyển giới."
+  },
+  {
+    "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+    "slug": "gender-justice-league",
+    "externalUrl": "https://www.genderjusticeleague.org/",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+    "phoneNumber": "206-538-0423",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6142754,
+      -122.3171383
+    ],
+    "email": "info@genderjusticeleague.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+      "twitterUrl": "https://twitter.com/genderjusticewa",
+      "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+      "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+    },
+    "title": "Gender Justice League",
+    "description": "Gender Justice League là một tổ chức nhân quyền và dân quyền tập trung nâng cao quyền lợi của các cộng đồng chuyển giới và đa dạng giới tính ở bang Washington và hơn thế nữa. GJL được thành lập tại Seattle, WA vào năm 2012 bởi một nhóm các nhà hoạt động lâu năm về các vấn đề chuyển giới, queer và đồng minh. Họ tập trung vào lãnh vực biện hộ, cung cấp chương trình nhà an toàn, tài nguyên và sự kiện đặc biệt."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -1652,6 +2110,57 @@
     "description": "Một nguồn thông tin toàn diện về rối loạn giới tính được cung cấp bởi hướng dẫn chăm sóc sức khỏe 1177 tại Thụy Điển, thảo luận về nó là gì, cảm thấy như thế nào, cách tìm kiếm sự giúp đỡ và các lựa chọn điều trị khác nhau. Nó phục vụ bằng cách cung cấp thông tin chi tiết cho những người đang trải qua rối loạn giới tính và hỗ trợ họ trong hành trình của mình."
   },
   {
+    "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+    "slug": "chest-binding-101",
+    "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Hướng dẫn Đóng Bìa 101: Mẹo An Toàn Khi Buộc Ngực",
+    "description": "Hướng dẫn toàn diện từ Point of Pride, cung cấp mẹo và tài nguyên về việc đóng bìa an toàn. Cung cấp thông tin về các kiểu bìa, quy tắc an toàn khi đóng bìa, và tài nguyên để mua bìa ngực. Hướng đến những người mong muốn có vẻ bề ngoài ngực phẳng hơn, đặc biệt là những người chuyển giới, không nhị phân, và cá nhân giới tính lưỡng tính."
+  },
+  {
+    "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+    "slug": "metro-trans-umbrella-group",
+    "externalUrl": "https://www.stlmetrotrans.org/",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MO",
+    "city": "Saint Louis",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+    },
+    "title": "Nhóm Ô dù Metro Trans",
+    "description": "Một tổ chức phi lợi nhuận cấp cỏ tại Saint Louis, làm việc tận tụy để tạo ra cộng đồng bao dung và hỗ trợ hơn cho những người chuyển giới. Cung cấp dịch vụ như lưu thông thực phẩm, kiểm tra STI, hỗ trợ thay đổi tên, quần áo xác nhận giới tính và sự kiện hàng tuần để tăng cường lẫn nhau và hướng tới bình đẳng."
+  },
+  {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
     "slug": "pronoun-dressing-room",
     "externalUrl": "http://www.pronouns.failedslacker.com/",
@@ -1672,6 +2181,31 @@
     "socialMedia": null,
     "title": "Phòng Thay Đổi Đại Từ",
     "description": "Phòng Thay Đổi Đại Từ cung cấp một không gian trực tuyến nơi cá nhân có thể thử và khám phá các bộ đại từ khác nhau để xem những cái nào phù hợp với họ. Trang web này giúp cộng đồng người chuyển giới dễ dàng hơn trong việc lựa chọn đại từ, cho phép họ thấy đại từ khác nhau sẽ trông như thế nào trong những ngữ cảnh khác nhau."
+  },
+  {
+    "id": "aac7385e-58e6-4839-be0e-b637b1021437",
+    "slug": "bradbury-sullivan-lgbt-community-center",
+    "externalUrl": "https://www.bradburysullivancenter.org/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "522 W Maple St, Allentown, PA 18101, USA",
+    "phoneNumber": "(610) 347-9988",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "latLng": [
+      40.60245,
+      -75.46774780000001
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Trung tâm Cộng đồng LGBT Bradbury-Sullivan",
+    "description": "Trung tâm Cộng đồng LGBT Bradbury-Sullivan cung cấp một không gian sôi động, bao dung tại Lehigh Valley, Pennsylvania cho tất cả cư dân LGBTQ+ của khu vực. Nó cung cấp các chương trình cộng đồng, giải quyết các rào cản chăm sóc thông qua các chương trình sức khỏe của mình, tổ chức lễ hội Pride hàng năm và làm việc hướng đến việc tăng cường công bằng thông qua Viện Giáo dục LGBTQ+ của mình."
   },
   {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
@@ -1905,6 +2439,37 @@
     },
     "title": "Queer Lexikon",
     "description": "Queer Lexikon là một nguồn thông tin trực tuyến cung cấp thông tin rộng rãi và hỗ trợ cho cộng đồng queer. Bao gồm các chủ đề phong phú từ sự đa dạng về tình dục, tình cảm, giới tính đến sức khỏe tinh thần và nhóm hỗ trợ. Đây là một trung tâm cho giáo dục, nâng cao nhận thức và câu chuyện cộng đồng."
+  },
+  {
+    "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+    "slug": "pride-center-san-antonio",
+    "externalUrl": "https://pridecentersa.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "TX",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+      "twitterUrl": "https://twitter.com/PrideCenterSA",
+      "instagramUrl": "https://www.instagram.com/pridecentersa/"
+    },
+    "title": "Trung Tâm Pride San Antonio",
+    "description": "Trung Tâm Pride San Antonio phục vụ cộng đồng lesbian, gay, song tính, chuyển giới, đang nghi vấn và đồng minh. Họ tổ chức nhiều chương trình, sự kiện và cung cấp tài nguyên, bao gồm các nhóm hỗ trợ, liệu pháp, kiểm tra STI và hơn thế nữa. Họ nhằm mục đích làm việc liên minh với các dịch vụ hiện có trong cộng đồng."
   },
   {
     "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
@@ -2228,6 +2793,29 @@
     "description": "Tư vấn Trans & Queer East Bay cung cấp các dịch vụ theo quy mô trượt bao gồm: Trị liệu cá nhân tọa lạc tại trung tâm Berkeley, CA Hỗ trợ qua việc khám phá giới tính và chuyển đổi Thư giới thiệu cho hormones và phẫu thuật Đào tạo chuyên nghiệp cho các nhà cung cấp sức khỏe tâm thần, sinh viên và nhà tuyển dụng. Sam Davis là một người chuyển giới, giới tính mờ Lisenced Clinical Social Worker (LCSW) chuyên về việc làm việc với các thiếu niên và người lớn trans, queer, giới tính hoà mình và giới tính không tuân thủ. Họ có 16 năm kinh nghiệm là người cung cấp sức khỏe tâm thần tại East Bay, bao gồm việc hỗ trợ nhóm hỗ trợ ngang hàng, giáo dục cộng đồng tại các hội nghị LGBTQI và 9 năm thực hành lâm sàng và tư vấn khủng hoảng cho những người bị cô lập nặng nề tại Quận Alameda. Họ là một người ủng hộ mạnh mẽ và cam kết với lịch sử tổ chức dài hạn đại diện cho những người bị đẩy lề."
   },
   {
+    "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+    "slug": "lgbtq-health-services-by-cdph",
+    "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": "(916) 558-1784",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Sacramento",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Dịch vụ sức khỏe LGBTQ+ do CDPH cung cấp",
+    "description": "Sở Y tế Công cộng California (CDPH) phục vụ sức khỏe cho tất cả người California bao gồm cả cộng đồng Lesbian, Gay, Bisexual và Transgender (LGBT). Họ cung cấp các nguồn lực để hiểu về các vấn đề sức khỏe thường gặp nhất ảnh hưởng đến cộng đồng LGBT, các sàng lọc cần thiết ở các giai đoạn khác nhau của cuộc sống và các công cụ cho một lối sống khỏe mạnh."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2279,6 +2867,43 @@
     "town": "Manhattan",
     "title": "Bình đẳng Gia đình",
     "description": "Bình đẳng Gia đình là một tổ chức phi lợi nhuận dédicated to bảo vệ và hỗ trợ các gia đình LGBTQ+. Họ đấu tranh cho các quyền bảo vệ pháp lý, cung cấp tài nguyên và giáo dục, và tích cực đấu tranh cho quyền lợi LGBTQ+. Tổ chức này tạo ra các sự kiện và giúp kết nối các gia đình với nhau và cộng đồng LGBTQ+ rộng lớn hơn."
+  },
+  {
+    "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+    "slug": "center-on-halsted",
+    "externalUrl": "https://www.centeronhalsted.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+    "phoneNumber": "773.472.6469",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.9488291,
+      -87.6499407
+    ],
+    "email": "mail@centeronhalsted.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+      "twitterUrl": "http://twitter.com/CenteronHalsted",
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Center on Halsted",
+    "description": "Trung tâm cộng đồng của Chicago dành cho việc thúc đẩy cộng đồng Lesbian, Gay, Bisexual, Transgender (LGBT) và Queer (+) thông qua việc cung cấp các chương trình dịch vụ, sự kiện, đào tạo và nguồn lực. Bao gồm các dịch vụ cho HIV/AIDS & STD, Sức khỏe hành vi, Chống bạo lực và các chương trình đặc biệt cho thanh thiếu niên và người cao tuổi."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -2430,6 +3055,33 @@
     "description": "Transgendermap.com là một nguồn tài nguyên trực tuyến nhằm cung cấp thông tin và hướng dẫn thực tế cho những người đang thắc mắc về giới tính của mình hoặc đang nằm ở một đâu đó trên phổ giới tính chuyển đổi. Trang web bao gồm một loạt các chủ đề như hiểu về thuật ngữ transgender, quá trình chuyển đổi, vấn đề pháp lý, chăm sóc sức khỏe và nhiều câu chuyện cá nhân. Mục tiêu của nó là giúp cá nhân điều hướng hành trình cá nhân của mình bằng cách cung cấp một 'bản đồ' hoặc hướng dẫn về nhiều khía cạnh của giới tính và trải nghiệm transgender. Vui lòng truy cập trang web thực sự để nhận thông tin mới nhất và chính xác nhất."
   },
   {
+    "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+    "slug": "transgender-health-program-massachusetts-general-hospital",
+    "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": "55 Fruit St, Boston, MA 02114, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3625677,
+      -71.0687661
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/massgeneral",
+      "twitterUrl": "https://www.twitter.com/massgeneral",
+      "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+    },
+    "title": "Chương trình Sức khỏe cho Người chuyển giới tại Bệnh viện Tổng hợp Massachusetts",
+    "description": "Chương trình Sức khỏe cho Người chuyển giới tại Bệnh viện Tổng hợp Massachusetts cung cấp dịch vụ chăm sóc y tế cá nhân hóa, cập nhật và chất lượng cao cho các cá nhân chuyển giới, thanh thiếu niên, và người chăm sóc. Chương trình cung cấp nhiều nguồn lực khác nhau, trả lời các câu hỏi thường gặp, và một đội ngũ chăm sóc chuyên biệt."
+  },
+  {
     "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
     "slug": "the-genderaid",
     "externalUrl": "https://genderaid.org/en",
@@ -2576,6 +3228,31 @@
     "description": "RFSL là một tổ chức Thụy Điển hoạt động với và vì quyền lợi của cộng đồng LGBTQ. Họ cung cấp các nguồn lực quan trọng, hỗ trợ cộng đồng, giáo dục & nâng cao nhận thức, hướng dẫn pháp lý, dịch vụ chăm sóc sức khỏe và nhiều hơn nữa cho cộng đồng chuyển giới. RFSL cũng thúc đẩy quyền lợi LGBTQ ở mức độ quốc tế."
   },
   {
+    "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+    "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+    "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+    "tags": [
+      "transfeminine",
+      "mental-health",
+      "youth-services",
+      "support-groups"
+    ],
+    "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+    "phoneNumber": "(773) 935-3151",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.936299,
+      -87.6448942
+    ],
+    "email": "BaylieR@howardbrown.org",
+    "socialMedia": null,
+    "title": "Nhóm Tài nguyên và Biện hộ cho Giới trẻ Chuyển giới (TYRA)",
+    "description": "TYRA là một nhóm hỗ trợ dành cho giới trẻ chuyển giới và còn đang tìm hiểu, dưới 24 tuổi, để gặp gỡ mọi người, tiếp thu thông tin và được sự hỗ trợ từ bạn bè cùng trang lứa. Phiên họp diễn ra vào mỗi Thứ Năm từ 5:00 chiều đến 7:00 tối."
+  },
+  {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
     "slug": "apotheek-all-about-medication",
     "externalUrl": "https://www.apotheek.nl/",
@@ -2594,6 +3271,65 @@
     "socialMedia": null,
     "title": "Apotheek.nl - Tất cả về Thuốc",
     "description": "Một nguồn thông tin đáng tin cậy  về các loại thuốc khác nhau. Trang web bao gồm video, các sự kiện mạng hiện hành về sức khỏe, thông tin về tiêm chủng, coronavirus và dịch vụ chăm sóc tại hiệu thuốc. Nó cung cấp thông tin bằng tiếng Hà Lan và dịch 50 loại thuốc quan trọng cho người tị nạn Ukraine."
+  },
+  {
+    "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+    "slug": "transgender-equality-id-documents-center",
+    "externalUrl": "https://transequality.org/documents",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "latLng": [
+      38.9034383,
+      -77.03503719999999
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Trung tâm Hồ sơ Giới tính Chuyển đổi Bình đẳng",
+    "description": "Một nguồn tài nguyên toàn diện giúp các cá nhân cập nhật tên và giới tính của họ trên các ID và hồ sơ của tiểu bang và liên bang. Nó cung cấp thông tin về các điểm chính sách cho từng tiểu bang và các bước cho các quy trình khác nhau bao gồm cập nhật hộ chiếu, hồ sơ an sinh xã hội, hồ sơ quân sự / cựu chiến binh, v.v."
+  },
+  {
+    "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+    "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+    "externalUrl": "https://www.gendergp.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/gendergp",
+      "twitterUrl": "https://twitter.com/GenderGP",
+      "instagramUrl": "https://www.instagram.com/gendergp",
+      "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "GenderGP: Hỗ Trợ Toàn Diện Cho Cá Nhân Chuyển Giới",
+    "description": "GenderGP cung cấp một bộ dịch vụ toàn diện bao gồm ủy quyền, lời khuyên, chăm sóc sức khỏe và một loạt các dịch vụ bổ sung cho người chuyển giới trên toàn thế giới. Nền tảng này cung cấp một lối vào cho cá nhân chuyển giới để truy cập vào chăm sóc sức khỏe phù hợp với giới tính, hỗ trợ chuyển đổi pháp lý và hỗ trợ chuyển đổi xã hội. Thông qua nền tảng số tiếp cận được trên toàn cầu, GenderGP cam kết giúp người chuyển giới sống cuộc sống thoải mái và chân thực hơn."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

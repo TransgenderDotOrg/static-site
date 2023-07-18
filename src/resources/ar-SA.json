@@ -36,6 +36,34 @@
     "description": "مركز سان ماتيو كاونتي للفخر هو منظمة نموذج تعاون ومحطة واحدة لخدمة المجتمع المثلي. نحن نقدم برامج وخدمات قوية لدعم أعضاء المجتمع المثلي من جميع الأعمار، بما في ذلك التعليم، التدريب، الأحداث المجتمعية، مجموعات الدعم النظير، برمجة يومية، العلاج السريري، والإدارة الحالة."
   },
   {
+    "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+    "slug": "hawaii-lgbt-legacy-foundation",
+    "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Honolulu, HI, USA",
+    "phoneNumber": "808.369.2000",
+    "country": "US",
+    "provinceOrState": "HI",
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "latLng": [
+      21.3098845,
+      -157.8581401
+    ],
+    "email": "info@hawaiilgbtlegacy.com",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+      "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+      "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+    },
+    "title": "مؤسسة هاواي لتراث المثليين",
+    "description": "منظمة غير ربحية ملتزمة بدعم وترويج المجتمع LGBTQ+ في هاواي. يستضيف مجموعة متنوعة من المشاريع والأحداث بما في ذلك فخر هونولولو، وحديقة المطر القوس وقصص الخروج من الخزانة. كما يوفر مجموعة من الموارد وخدمات الدعم."
+  },
+  {
     "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
     "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
     "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
@@ -57,6 +85,35 @@
     "socialMedia": null,
     "title": "فهم ودعم التحول الجنسي في الأطفال والآباء",
     "description": "يقدم هذا المقال الألماني دليلًا شاملاً للعائلات التي تتعامل مع التحول الجنسي في الأباء أو الأطفال. يوفر معلومات حول الإجراءات والموارد الرئيسية، ويقدم إرشادات من فهم وقبول الوضع إلى متابعة العلاجات ذات الصلة."
+  },
+  {
+    "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+    "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+    "externalUrl": "https://www.nagly.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Salem, MA, USA",
+    "phoneNumber": "978-224-2102",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "latLng": [
+      42.5197473,
+      -70.8954626
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "شباب الشمال للمثليين والمثليات والثنائيين والمتحولين جنسيًا (NAGLY)",
+    "description": "تتألف مهمة NAGLY من تكريم واحترام وتثقيف وتمكين شباب GLBTQ+. إنها تعزز من تواصل المجتمع من خلال البرامج المحلية وخدمات الدعم، بما في ذلك مجموعات الشباب والكبار وأنشطة المجتمع المختلفة. يقدمون الموارد الصحية النفسية، ويوفرون التعليم الصحي، ويقدمون العديد من الفرص للمجتمع LGBTQ + للتواصل ومشاركة تجاربهم."
   },
   {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
@@ -272,6 +329,36 @@
     "description": "Minus18 هي منظمة خيرية في أستراليا تعمل على تحسين حياة الشباب من المجتمع LGBTQIA+. وهي تتعامل مع العزلة الاجتماعية من خلال إنشاء مساحات حيث ينتمي الشباب، ويتم الاحتفاء بهم ويمكنهم تكوين صداقات. كما أنهم يقدمون تدريبات LGBTQIA+، وموارد، وحملات رقمية، بهدف إنشاء أستراليا خالية من التمييز. هدفهم هو تجهيز الشباب بالمهارات والفرص التي يحتاجونها ليكونوا في طليعة قيادة التغيير."
   },
   {
+    "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+    "slug": "youth-eastside-services",
+    "externalUrl": "https://www.youtheastsideservices.org/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources"
+    ],
+    "address": "Kirkland, WA, USA",
+    "phoneNumber": "425-747-4937",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Kirkland",
+    "county": "King County",
+    "latLng": [
+      47.6768927,
+      -122.2059833
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+      "twitterUrl": "https://twitter.com/YouthEastside",
+      "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+      "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+    },
+    "description": "تعتبر مؤسسة خدمات الشباب في الجانب الشرقي (YES) منظمة غير ربحية تقدم خدمات الصحة العقلية ومكافحة تعاطي المواد الإدمانية للشباب وأسرهم، بغض النظر عن قدرتهم على الدفع. تقع في واشنطن ، خدماتها تشمل  الارشاد النفسي، العلاج، الدعم للمجتمع LGBTQ+، وبرامج المجتمع المختلفة."
+  },
+  {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
     "slug": "us-trans-survey",
     "externalUrl": "https://www.ustranssurvey.org/",
@@ -330,6 +417,57 @@
     },
     "title": "nonbinary.ch - مورد للأشخاص غير الثنائيين",
     "description": "موقع سويسري شامل يقدم معلومات وموارد تتعلق بالهويات الجندرية غير الثنائية. يُقصد به مساعدة الأشخاص الذين يستكشفون هوية الجنس الخاصة بهم، أو أولئك الذين يتفاعلون مع الأشخاص غير الثنائيين، من خلال توفير المعرفة الأساسية بطريقة سهلة الوصول إليها. يستضيف الموقع أيضًا مدونة، ونشرة إخبارية، وروابط لموارد خارجية ذات صلة مثل الكتب والأفلام والأبحاث."
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "حملة حقوق الإنسان",
+    "description": "تقاتل حملة حقوق الإنسان من أجل حقوق ومساواة مجتمع LGBTQ+. هم يهدفون إلى إنهاء التمييز وتقدم السياسات الموالية للمساواة من خلال التعليم، والدعوة، والتعبئة. كما أنهم يقدمون الموارد لأولئك في مجتمع LGBTQ+ للمشاركة في مناطقهم المحلية."
+  },
+  {
+    "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+    "slug": "gender-confirmation-center",
+    "externalUrl": "https://www.genderconfirmation.com/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+    "phoneNumber": "(415) 780-1515",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "SF",
+    "county": "San Francisco County",
+    "latLng": [
+      37.7896952,
+      -122.4078356
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "مركز تأكيد الجنس",
+    "description": "يقدم مركز تأكيد الجنس رعاية مكرسة وشاملة للجنس، من خلال العديد من الإجراءات وخطط العلاج، للمتحولين جنسيا وذوي الهوية الجندرية التي تختلف عن الأعراف الاجتماعية."
   },
   {
     "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
@@ -530,6 +668,29 @@
     "description": "هي الهيئة القصوى في كوينزلاند التي تمثل الأشخاص المتحولين جنسيا، والأشخاص ذوي الهوية الجندرية المتنوعة، والأشخاص غير الثنائيين منذ عام 1990. تقدم هذه الجمعية الدعم والدعوة والخدمات وتنظم الفعاليات الاجتماعية لخدمة المجتمع المتحول جنسيا."
   },
   {
+    "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+    "slug": "topsurgery-net",
+    "externalUrl": "https://www.topsurgery.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TopSurgery.net",
+    "description": "يعد TopSurgery.net موردًا شاملاً للأفراد الذين يبحثون عن معلومات حول إجراءات جراحة الأعلى لـ FTM. يوفر الموارد تفاصيل عن أنواع مختلفة من الإجراءات الجراحية، كيفية العثور على جراح، معلومات عن التكاليف و التأمين، الأسئلة المتكررة، وغيرها من الموارد ذات الصلة للأفراد غير الثنائيين وذوي الهوية الجنسانية الذكورية الذين يرغبون في إجراء جراحة الأعلى. كما يتضمن محتوى تعليمي مثل توصيات الكتب، والدروس التعليمية بالفيديو، والمقالات حول المواضيع ذات الصلة."
+  },
+  {
     "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
     "slug": "jim-collins-foundation",
     "externalUrl": "https://jimcollinsfoundation.org/",
@@ -628,6 +789,27 @@
     "description": "Queermed Deutschland هو دليل للأطباء والمعالجين والعيادات الموصى بها من قبل المجتمع LGBTQIA+ في ألمانيا. الهدف هو مكافحة التمييز في النظام الصحي، وضمان تقديم الرعاية الصحية الاحترامية والحساسة للجميع. يتضمن العديد من الخيارات الإضافية في الاستبيان المجهول بهدف خدمة الأفراد المتنوعين ضمن المجتمع."
   },
   {
+    "id": "3ae6370f-e83a-4b6f-93e1-918d4258c31a",
+    "slug": "how-to-wear-a-packer",
+    "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "كيفية ارتداء Packer",
+    "description": "تقدم هذه المقالة إرشادات حول كيفية ارتداء packer، بما في ذلك النصائح حول التوجيه، واختيار الحجم المناسب، وكيف يجب أن يتم وضع packer الخاص بك، والطرق للحفاظ على packer في مكانه. يعتبر الدليل مصدرا تعليميا لأولئك في المجتمع المتحول جنسيا وغير الثنائي الذين يرغبون في معرفة المزيد عن الحزم."
+  },
+  {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
     "slug": "northern-territory-aids-and-hepatitis-council-inc",
     "externalUrl": "https://www.ntahc.org.au/",
@@ -671,6 +853,44 @@
     "description": "مورد موثوق على الإنترنت للأفراد الذين يبحثون عن المعرفة، والدعم، والتفهم حول اضطراب الهوية الجنسية. يوفر موقعهم الإلكتروني ثروة من المعلومات والموارد وروابط المجتمع لتمكين الأفراد في رحلتهم. من الدلائل الشاملة حول الهوية الجنسية والانتقال إلى القصص الشخصية والنصائح الخبيرة، يسعون إلى خلق مساحة آمنة وشاملة للجميع."
   },
   {
+    "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+    "slug": "identity-alaska",
+    "externalUrl": "https://www.identityalaska.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness",
+      "community-stories",
+      "support-groups"
+    ],
+    "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+    "phoneNumber": "(907) 865-3247",
+    "country": "US",
+    "provinceOrState": "AK",
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "latLng": [
+      61.1955918,
+      -149.8774355
+    ],
+    "email": "info@identityinc.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/IdentityInc",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/identityalaska/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "هوية ألاسكا",
+    "description": "مركز مجتمع وعيادة صحة غير ربحية مقرها ألاسكا توفر الموارد والبرامج والرعاية الصحية للمجتمع LGBTQIA2S+ والمجتمع التحالف."
+  },
+  {
     "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
     "slug": "unitarian-universalist-association",
     "externalUrl": "https://www.uua.org/",
@@ -694,6 +914,28 @@
     "socialMedia": null,
     "title": "جمعية الوحدانية اليونيتارية",
     "description": "مجتمع روحي بفتح العقل والقلب يدعم الأشخاص في قيادة حياة العدل والحب والتعلم والأمل. يشمل المجتمع التنوع بما في ذلك المجتمع عبر الجنسين ويشجع على المشاركة الفعالة في أعمال العدل. كما أنهم يقدمون الموارد والدعم والدعوة للعديد من القضايا الاجتماعية."
+  },
+  {
+    "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+    "slug": "personalized-pronoun-dressing-room",
+    "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "غرفة تغيير الضمائر الشخصية",
+    "description": "يوفر هذا المورد التفاعلي أمثلة لمجموعات الضمائر المختلفة المستخدمة في السياق. الأمر الذي يمكن تخصيصه مع أي اسم تريده، يساعد في استكشاف وفهم الضمائر الشخصية. هذه الأداة مفيدة للمجتمع المتحول جنسيًا، خاصة لأولئك الذين يت探ون الضمائر الجديدة أو يعلمون الآخرين على استخدام الضمير."
   },
   {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
@@ -821,6 +1063,31 @@
     "description": "يعمل مشروع سيلفيا ريفيرا للقانون على ضمان حق الجميع في تقرير هوية الجندر والتعبير عنها بحرية، بغض النظر عن الدخل أو العرق، ودون التعرض للتحرش أو التمييز أو العنف. يقدم SRLP المساعدة القانونية، وينظم الحملات، ويجري التدريبات، ويدير لجنة الاستشارية للسجناء. يتم تشجيع مشاركة المجتمع من خلال التبرعات، والتطوع، والعضوية."
   },
   {
+    "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+    "slug": "allentown-womens-center",
+    "externalUrl": "https://allentownwomenscenter.com/",
+    "tags": [
+      "healthcare",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+    "phoneNumber": "(484) 821-0821",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Bethlehem",
+    "county": "Northampton County",
+    "latLng": [
+      40.6728208,
+      -75.37561989999999
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "مركز النتاون للنساء",
+    "description": "مزود رعاية صحية شامل متخصص في الخدمات التي تلبية احتياجات شريحة واسعة من الجمهور بما في ذلك المجتمع المتحول جنسياً. تشمل الخدمات مجموعة من الإجراءات التجهيض، الرعاية النسائية، الخدمات المؤكدة للجنس، وشهادة القنب الطبية بين الخدمات الأخرى."
+  },
+  {
     "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
     "slug": "erin-in-the-morning",
     "externalUrl": "https://www.erininthemorning.com/",
@@ -877,6 +1144,27 @@
     ],
     "title": "EqualDex.com",
     "description": "منصة عبر الإنترنت مبتكرة تهدف إلى إنشاء مورد شامل ومحدث لحقوق LGBTQ+ العالمية. يوفر موقعهم قاعدة بيانات مركزية للقوانين والسياسات والمواقف المجتمعية تجاه حقوق LGBTQ+ في جميع أنحاء العالم. من خلال رسم البيانات وتصويرها بشكل بصري على الإنصاف والشمولية والحماية القانونية، يقدم EqualDex.com أداة قوية للنشطاء والباحثين والأفراد الذين يسعون لفهم والدعوة إلى حقوق LGBTQ+ على نطاق عالمي. استكشف خرائطهم التفاعلية، وتصفح الملفات الشخصية الخاصة بالبلد، وابق على اطلاع على أحدث التطورات والتحديات التي تواجه مجتمع LGBTQ+ في جميع أنحاء العالم."
+  },
+  {
+    "id": "5075ae0b-ac8b-4bc5-9f42-ffdb587784cb",
+    "slug": "how-to-pack-ftm-with-socks-diy-packer",
+    "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
+    "tags": [
+      "transmasculine",
+      "clothing",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "كيفية تجهيز ftm بالجوارب | DIY Packer",
+    "description": "يقدم هذا المنشور على المدونة دليلًا شاملاً حول كيفية صنع حامل منزلي باستخدام الجوارب وغيرها من المواد المتوفرة بأسعار معقولة. يتضمن أيضًا بدائل DIY لغيرها من الأطراف الاصطناعية FTM لمساعدة الأفراد الذين يتحولون جنسيًا إلى المالين للشعور بالراحة والأصالة أكثر."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1011,6 +1299,70 @@
     },
     "title": "ترانزجندر فيكتوريا",
     "description": "ترانزجندر فيكتوريا هي الجهة الرائدة في فيكتوريا للأشخاص ذوي الهوية الجندرية المختلفة. نعمل على تحقيق العدالة والمساواة والاندماج لمجتمعاتنا وشركائها وعائلاتها وأصدقائها وحلفائها. نقدم مجموعة متنوعة من الموارد والتدريب والدعم والخدمات الموجهة للنتائج الاجتماعية والاقتصادية والصحية والرفاهية والصحة العقلية للمجتمع الترانزجندر."
+  },
+  {
+    "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+    "slug": "margies-hope",
+    "externalUrl": "https://www.margieshope.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "support-groups",
+      "youth-services",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": "(440) 857-0611",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@margieshope.org",
+    "socialMedia": null,
+    "title": "أمل مارجي",
+    "description": "تأسست أمل مارجي في عام 2011 بواسطة جاكوب ناش. تاريخنا وغرضنا كان دائمًا تحسين حياة الأشخاص غير الثنائيين والمتحولين جنسياً والذين يتسعون جنسيًا في المجتمع. تقدم أمل مارجي الموارد والدعم من خلال البرامج المجتمعية المختلفة ومتجر إعادة البيع غير الربحي."
+  },
+  {
+    "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+    "slug": "brave-space-alliance",
+    "externalUrl": "https://bravespacealliance.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+    "phoneNumber": "(872) 333-5199",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.7997305,
+      -87.5885496
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+      "twitterUrl": "https://twitter.com/BSAllianceChi",
+      "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+      "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+    },
+    "title": "تحالف الفضاء الشجاع",
+    "description": "تحالف الفضاء الشجاع هو أول مركز يقوده الأشخاص السود والمتحولون جنسياً في مجتمع LGBTQ+ والذي يقع في الجانب الجنوبي من شيكاغو، يقدم خدمات مؤكدة ومتوافقة ثقافياً لكل مجتمع LGBTQ+ في شيكاغو."
   },
   {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
@@ -1209,6 +1561,33 @@
     "description": "منظمة صحية في جنوب أستراليا تقدم الخدمات السريرية، والإرشاد الصحي الجنسي والتعليم والتدريب المتعلق بالصحة الجنسية والإنجابية ومهارات العلاقات. كما يقدم الدعم والخدمات المتضمنة لمجتمع LGBTIQA+. كما أنهم يشاركون في الاحتفال والدعوة إلى حقوق واعتراف مجتمعات الترانسجندر والجنس الآخر على الصعيد الدولي."
   },
   {
+    "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+    "slug": "boston-alliance-of-lgbtq-youth-bagly",
+    "externalUrl": "https://www.bagly.org/",
+    "tags": [
+      "youth-services",
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "28 Court Square, Boston, MA 02108, USA",
+    "phoneNumber": "(617) 227-4313",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3585686,
+      -71.05938739999999
+    ],
+    "email": "mmccarron@bagly.org",
+    "socialMedia": {
+      "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+    },
+    "title": "تحالف بوسطن للشباب اللذين ينتمون للمجموعات الجنسية والجنسانية المتنوعة (BAGLY)",
+    "description": "BAGLY هي منظمة يقودها الشباب ويدعمها الكبار وتدافع عن البرامج والسياسات والخدمات الموجهة للشباب ضمن مجتمع المجموعات الجنسية والجنسانية المتنوعة. وهي تقدم مجموعة متنوعة من الموارد والبرامج تشمل خدمات الرعاية الصحية، والعدالة الغذائية، وتطوير القيادة بين الشباب، وأكثر من ذلك. يعتبر BAGLY إحتياجات الشباب الذين ينتمون للمجموعات الجنسية والجنسانية المتنوعة من الألوان، والشباب غير المتماشيين مع الجنسين التقليديين، والشباب المشردين الذين ينتمون للمجموعات الجنسية والجنسانية المتنوعة كأولوية."
+  },
+  {
     "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
     "slug": "zoe-belle-gender-collective",
     "externalUrl": "https://zbgc.org.au/",
@@ -1231,6 +1610,28 @@
     "socialMedia": null,
     "title": "Zoe Belle Gender Collective",
     "description": "Zoe Belle Gender Collective هي منظمة تطالب بقيادة الأحاديث المتحولة والمتنوعة جنسياً وتقدم التدريب المهني وورش العمل والدعم للمجتمع LGBTQI+. تقدم الموارد والمساعدة لخدمات المجتمع والعمال والأسر والأصدقاء والأفراد المتحولين والمتنوعين جنسياً. كما أطلقت مؤخرًا Transfemme ، وهي مبادرة وقائية ضد العنف الذي يمارسه الرجال السيسجنديين تجاه النساء المتحولات."
+  },
+  {
+    "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+    "slug": "centerlink-the-community-of-lgbtq-centers",
+    "externalUrl": "https://www.lgbtqcenters.org",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "CenterLink، المجتمع لمراكز LGBTQ",
+    "description": "CenterLink هي منظمة غير ربحية دولية وجمعية تعتمد على الأعضاء من مراكز LGBTQ والمنظمات الأخرى التي تخدم مجتمعاتها المحلية والإقليمية. مهمتهم هي تعزيز ودعم وربط مراكز المجتمع LGBTQ، وتقديم الخدمات الأساسية، وتعزيز النمو والعافية، والاتصال في أكثر من 325 مجتمعًا لـ LGBTQ على مستوى العالم."
   },
   {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
@@ -1260,6 +1661,33 @@
     "email": "info@genderdiversity.org",
     "title": "التنوع الجنسي",
     "description": "يعمل التنوع الجنسي على تحسين رفاهية الأطفال والبالغين من كافة الهويات والتعبيرات الجنسية من خلال توفير التعليم وزيادة الوعي وتقديم الرؤية حول النطاق الأوسع من التجربة البشرية. كما نقوم بالمساعدة في خلق بيئات داعمة وغير تمييزية في المدارس والفرق الرياضية وأماكن العمل ومقدمي الرعاية الصحية للأفراد من المتحولين جنسيا والذين يتمتعون بتنوع جنسي."
+  },
+  {
+    "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+    "slug": "equality-california",
+    "externalUrl": "https://www.eqca.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+    "phoneNumber": "(323) 848-9801",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0500954,
+      -118.2531648
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Equality California",
+    "description": "تعتبر Equality California منظمة تُحضر أصوات الأشخاص من المثليين و المزدوجين الجنس و المتحولين جنسياً و المغايير و الحلفاء إلى مؤسسات السلطة في كاليفورنيا و في جميع أنحاء الولايات المتحدة، تسعى إلى خلق عالم يكون فيه الجميع بصحة جيدة، عادل، ومتساوي بالكامل بالنسبة للأشخاص من المثليين و المزدوجين الجنس و المتحولين جنسياً و المغايير. هم يعززون حقوق المواطنين و العدالة الاجتماعية، و يعملون بلا كلل نيابة عن أولئك الذين يخدمونهم. يقدمون برامج، منشورات، تشريعات، توصيات، و العديد من الطرق لاتخاذ الإجراء."
   },
   {
     "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
@@ -1320,6 +1748,35 @@
     "town": "Manhattan",
     "title": "صندوق الدفاع القانوني والتعليم للمتحولين جنسيًا (TLDEF)",
     "description": "يعمل TLDEF على إنهاء التمييز بناءً على هوية الجنس والتعبير عنه وتحقيق المساواة للأشخاص المتحولين جنسياً من خلال التوعية العامة، والدعاوى القضائية الاختبارية، والخدمات القانونية المباشرة، والجهود السياسة العامة. يقدمون خدمات متنوعة مثل مشروع تغيير الاسم، والدعاوى القضائية ذات الأثر، ومشروع الصحة trans. كما أنه يوفر تحديثات حول القضايا القانونية ذات الصلة التي تؤثر على المجتمع المتحول جنسيًا."
+  },
+  {
+    "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+    "slug": "gender-justice-league",
+    "externalUrl": "https://www.genderjusticeleague.org/",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+    "phoneNumber": "206-538-0423",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6142754,
+      -122.3171383
+    ],
+    "email": "info@genderjusticeleague.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+      "twitterUrl": "https://twitter.com/genderjusticewa",
+      "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+      "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+    },
+    "title": "رابطة العدالة الجندرية",
+    "description": "رابطة العدالة الجندرية هي منظمة حقوق الإنسان والمدنية تركز على رفع حقوق المجتمعات العابرة والمتنوعة جندرياً في ولاية واشنطن وما بعدها. تأسست GJL في سياتل، واشنطن في عام 2012 من قبل مجموعة من النشطاء المثليين والعابرين والحلفاء منذ زمن طويل. يركزون على الدعوة إلى المصالح، وتوفير برنامج بيت آمن، والموارد، والأحداث الخاصة."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -1650,6 +2107,57 @@
     "description": "مورد شامل حول اضطراب الهوية الجندرية يقدمه دليل الرعاية الصحية 1177 في السويد، يناقش ما هو، كيف يشعر الشخص، كيفية طلب المساعدة والخيارات المختلفة للعلاجات. يقدم معلومات تفصيلية لأولئك الذين يعانون من اضطراب الهوية الجندرية ويدعمهم في رحلتهم."
   },
   {
+    "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+    "slug": "chest-binding-101",
+    "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "الربط 101: نصائح لربط صدرك بأمان",
+    "description": "دليل شامل من Point of Pride، يوفر نصائح وموارد حول ربط الصدر بأمان. يوفر معلومات حول أنماط الرابطات، قواعد الربط الآمن، وموارد للحصول على ملابس داخلية لتثبيت الصدر. موجه لأي شخص يرغب في ظهور صدر أكثر تسطيحًا، بالتركيز بشكل خاص على الأفراد المتحولين جنسياً، وغير الثنائيين، والأفراد ذوي الهوية الجندرية المتقلبة."
+  },
+  {
+    "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+    "slug": "metro-trans-umbrella-group",
+    "externalUrl": "https://www.stlmetrotrans.org/",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MO",
+    "city": "Saint Louis",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+    },
+    "title": "مجموعة Metro Trans Umbrella",
+    "description": "منظمة غير ربحية تعمل على مستوى الجذور تقع في سانت لويس، تعمل بتفاني لخلق مجتمع أكثر شمولية ودعماً للأفراد الذين يعبرون عن جنسهم. تقدم خدمات مثل مخزن الطعام، اختبار الأمراض المنقولة جنسياً, مساعدة تغيير الاسم، الملابس المؤكدة للجندر والأحداث الأسبوعية لتمكين بعضهم البعض والعمل نحو المساواة."
+  },
+  {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
     "slug": "pronoun-dressing-room",
     "externalUrl": "http://www.pronouns.failedslacker.com/",
@@ -1670,6 +2178,31 @@
     "socialMedia": null,
     "title": "غرفة تبديل الضمائر",
     "description": "توفر غرفة تبديل الضمائر مساحة على الإنترنت حيث يمكن للأفراد اختبار واستكشاف مجموعات مختلفة من الضمائر لرؤية الأفضل لهم. يسهل الموقع اتخاذ القرار بخصوص اختيار الضمير للمجتمع المتحول جنسياً، مما يسمح لهم برؤية كيفية ظهور الضمائر المختلفة في سياقات مختلفة."
+  },
+  {
+    "id": "aac7385e-58e6-4839-be0e-b637b1021437",
+    "slug": "bradbury-sullivan-lgbt-community-center",
+    "externalUrl": "https://www.bradburysullivancenter.org/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "522 W Maple St, Allentown, PA 18101, USA",
+    "phoneNumber": "(610) 347-9988",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "latLng": [
+      40.60245,
+      -75.46774780000001
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Bradbury-Sullivan مركز المجتمع LGBT",
+    "description": "يقدم مركز Bradbury-Sullivan لمجتمع LGBT مساحة حيوية وشاملة في وادي Lehigh في بنسلفانيا لجميع سكان المنطقة من LGBTQ+. يقدم برامج المجتمع، يتصدى للعوائق أمام الرعاية من خلال برامجه الصحية، ينظم مهرجان الفخر السنوي ويعمل نحو زيادة العدالة من خلال معهد التعليم LGBT+ الخاص به."
   },
   {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
@@ -1903,6 +2436,37 @@
     },
     "title": "كوير ليكسيكون",
     "description": "كوير ليكسيكون هو مورد على الإنترنت يوفر معلومات واستشارات واسعة للمجتمع الكوير. يغطي المواضيع المتنوعة من الجنس، الرومانسية، التنوع الجندري إلى الصحة العقلية ومجموعات الدعم. إنه محور للتعليم، والوعي، وقصص المجتمع."
+  },
+  {
+    "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+    "slug": "pride-center-san-antonio",
+    "externalUrl": "https://pridecentersa.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "TX",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+      "twitterUrl": "https://twitter.com/PrideCenterSA",
+      "instagramUrl": "https://www.instagram.com/pridecentersa/"
+    },
+    "title": "مركز الفخر سان انطونيو",
+    "description": "يخدم مركز الفخر سان انطونيو المثليين والثنائيين والمتحولين جنسياً والمستفهمين والحلفاء. يستضيفون مجموعة متنوعة من البرامج والأحداث والموارد، بما في ذلك مجموعات الدعم، العلاج، اختبار الأمراض المنقولة جنسيا، وأكثر. يهدفون إلى العمل بالتحالف مع الخدمات الموجودة ضمن المجتمع."
   },
   {
     "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
@@ -2226,6 +2790,29 @@
     "description": "تقدم استشارات East Bay Trans & Queer خدمات بمقياس متزلج تشمل: العلاج الفردي والذي يقع في موقع مركزي في بيركلي، كاليفورنيا. الدعم من خلال استكشاف الجنس والانتقال، رسائل توصية للهرمونات والجراحة، وتدريبات مهنية لمقدمي الرعاية الصحية النفسية، الطلاب، وأصحاب العمل. سام ديفيس هو عامل اجتماعي سريري مرخص ، محول جنسيا ، وهو مختص في العمل مع المراهقين والبالغين الذين يظهرون كمثلي الجنس، المثليين، المحولين جنسيا، والذين لا يحددون جنسهم. لديهم 16 عامًا من الخبرة كمقدم للرعاية الصحية العقلية في East Bay، بما في ذلك تسهيل دعم مجموعات الأقران، والتعليم المجتمعي في المؤتمرات LGBTQI، و9 سنوات من الممارسة السريرية والاستشارة في الأزمات مع الأشخاص المهمشين بشدة لمقاطعة ألاميدا. إنهم مدافع قوي وملتزم لديه تاريخ طويل في التنظيم نيابة عن الأشخاص المهمشين."
   },
   {
+    "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+    "slug": "lgbtq-health-services-by-cdph",
+    "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": "(916) 558-1784",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Sacramento",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "خدمات الصحة LGBTQ+ من قبل CDPH",
+    "description": "يقدم قسم الصحة العامة في كاليفورنيا (CDPH) الرعاية الصحية لجميع سكان كاليفورنيا بما فيهم مجتمعات الليزبيان والمثليين والمزدوجين الجنس والمتحولين جنسياً (LGBT). وهم يوفرون الموارد لفهم القضايا الصحية التي تؤثر في الغالب على مجتمع LGBT، والفحوصات اللازمة في مراحل الحياة المختلفة، والأدوات الخاصة بنمط حياة صحي."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2277,6 +2864,43 @@
     "town": "Manhattan",
     "title": "مساواة العائلة",
     "description": "مساواة العائلة هي منظمة غير هادفة للربح مكرسة لحماية ودعم العائلات LGBTQ+. يناضلون من أجل الحماية القانونية، يوفرون الموارد والتعليم، ويدافعون بنشاط عن حقوق LGBTQ+. تستضيف هذه المنظمة أحداثًا مختلفة وتساعد في ربط العائلات ببعضها البعض والمجتمع LGBTQ+ الأوسع."
+  },
+  {
+    "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+    "slug": "center-on-halsted",
+    "externalUrl": "https://www.centeronhalsted.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+    "phoneNumber": "773.472.6469",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.9488291,
+      -87.6499407
+    ],
+    "email": "mail@centeronhalsted.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+      "twitterUrl": "http://twitter.com/CenteronHalsted",
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "مركز هالستيد",
+    "description": "مركز مجتمع شيكاغو المخصص لتقدم مجتمع الأقليات الجنسية والجنسانية (LGBT) والكوير (+) من خلال تقديم برامج الخدمة والأحداث والتدريبات والموارد. بما في ذلك الخدمات للإيدز والأمراض المنقولة جنسياً (STD)، الصحة السلوكية، مكافحة العنف وبرامج خاصة للشباب وكبار السن."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -2428,6 +3052,33 @@
     "description": "موقع Transgendermap.com هو مورد عبر الإنترنت يهدف إلى تقديم معلومات عملية وإرشادات للأشخاص الذين يتساءلون حول هويتهم الجندرية أو الموجودين في أي مكان على طيف المتحولين جنسيا. يتضمن الموقع نطاقًا واسعًا من الموضوعات مثل فهم مصطلحات المتحولين جنسيا، عمليات الانتقال، القضايا القانونية، الرعاية الصحية، والعديد من القصص الشخصية. هدفها هو مساعدة الأفراد على التنقل في رحلاتهم الشخصية من خلال تقديم 'خريطة' أو دليل للعديد من جوانب الهوية الجندرية وتجارب المتحولين جنسيا. يرجى زيارة الموقع الفعلي للحصول على المعلومات الأكثر حداثة ودقة."
   },
   {
+    "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+    "slug": "transgender-health-program-massachusetts-general-hospital",
+    "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": "55 Fruit St, Boston, MA 02114, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3625677,
+      -71.0687661
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/massgeneral",
+      "twitterUrl": "https://www.twitter.com/massgeneral",
+      "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+    },
+    "title": "برنامج الصحة للأشخاص المتحولين جنسياً في مستشفى ماساتشوستس العام",
+    "description": "يقدم برنامج الصحة للأشخاص المتحولين جنسياً في مستشفى ماساتشوستس العام الرعاية الطبية الشخصية، المحدثة وعالية الجودة لأفراد المتحولين جنسياً، والشباب، ومقدمي الرعاية. يقدم البرنامج مختلف الموارد، الأجوبة على الأسئلة الشائعة، وفريق رعاية متخصص."
+  },
+  {
     "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
     "slug": "the-genderaid",
     "externalUrl": "https://genderaid.org/en",
@@ -2574,6 +3225,31 @@
     "description": "تعمل RFSL كمنظمة سويدية مع ولصالح حقوق LGBTQ. يقدمون الموارد الضرورية، والدعم المجتمعي، التعليم والتوعية، التوجيه القانوني، الخدمات الصحية وغيرها للمجتمع المتحول. تروج RFSL لحقوق LGBTQ على المستوى الدولي."
   },
   {
+    "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+    "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+    "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+    "tags": [
+      "transfeminine",
+      "mental-health",
+      "youth-services",
+      "support-groups"
+    ],
+    "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+    "phoneNumber": "(773) 935-3151",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.936299,
+      -87.6448942
+    ],
+    "email": "BaylieR@howardbrown.org",
+    "socialMedia": null,
+    "title": "مجموعة (TYRA) للدعم والدفاع عن حقوق الشباب المتحولين جنسيا",
+    "description": "TYRA هي مجموعة دعم للشباب المتحولين جنسيا والمتساؤلين عنه، تحت سن 24، للقاء الأشخاص، الحصول على المعلومات، والحصول على الدعم من أقرانهم. تتم الجلسة كل خميس من الساعة 5:00 مساءً إلى 7:00 مساءً."
+  },
+  {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
     "slug": "apotheek-all-about-medication",
     "externalUrl": "https://www.apotheek.nl/",
@@ -2592,6 +3268,65 @@
     "socialMedia": null,
     "title": "Apotheek.nl - كل شيء عن الأدوية",
     "description": "مورد يوفر معلومات موثوقة حول الأدوية المختلفة. الموقع يتضمن مقاطع فيديو، وأحدث الأخبار في مجال الصحة، ومعلومات عن التطعيم، وفيروس كورونا، ورعاية الصيدلة. يقدم الموقع المعلومات باللغة الهولندية ويترجم 50 دواء رئيسي للاجئين الأوكرانيين."
+  },
+  {
+    "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+    "slug": "transgender-equality-id-documents-center",
+    "externalUrl": "https://transequality.org/documents",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "latLng": [
+      38.9034383,
+      -77.03503719999999
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "مركز الهوية لحقوق المتحولين جنسيًا",
+    "description": "مصدر شامل يساعد الأفراد في تحديث اسمهم وجنسهم على الهويات والسجلات الفدرالية والولائية. يوفر معلومات عن درجات السياسات لكل ولاية وخطوات للعديد من العمليات بما في ذلك تحديث جوازات السفر، سجلات الضمان الاجتماعي، سجلات الجنود والمحاربين القدامى، إلخ."
+  },
+  {
+    "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+    "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+    "externalUrl": "https://www.gendergp.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/gendergp",
+      "twitterUrl": "https://twitter.com/GenderGP",
+      "instagramUrl": "https://www.instagram.com/gendergp",
+      "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "GenderGP: دعم شامل لأفراد متحولي الجنس",
+    "description": "تقدم GenderGP مجموعة شاملة من الخدمات تشمل الدعوة والنصائح والرعاية الصحية ومجموعة من الخدمات المكملة للأشخاص المتحولين جنسيًا عالميًا. توفر النظام مسارًا لأفراد متحولي الجنس للوصول إلى الرعاية الصحية المؤكدة للجنس، ومساعدات الانتقال القانونية، ودعم الانتقال الاجتماعي. من خلال منصتها الرقمية التي يمكن الوصول إليها عالميًا، تلتزم GenderGP بتمكين الأشخاص المتحولين جنسيًا من العيش بشكل أكثر راحة وأصالة."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

@@ -1,0 +1,112 @@
+{
+  "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+  "slug": "hawaii-lgbt-legacy-foundation",
+  "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+  "tags": [
+    "community-stories",
+    "education-awareness",
+    "support-groups"
+  ],
+  "address": "Honolulu, HI, USA",
+  "phoneNumber": "808.369.2000",
+  "country": "US",
+  "provinceOrState": "HI",
+  "city": "Honolulu",
+  "county": "Honolulu County",
+  "latLng": [
+    21.3098845,
+    -157.8581401
+  ],
+  "email": "info@hawaiilgbtlegacy.com",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+    "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+    "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "A non-profit organisation committed to supporting and promoting the LGBTQ+ community in Hawaii. It hosts a variety of projects and events including Honolulu Pride, Rainbow Town Hall and Coming Out Stories. It also provides a range of resources and support services."
+    },
+    "pt-PT": {
+      "title": "Fundação Hawaii LGBT Legacy",
+      "description": "Uma organização sem fins lucrativos comprometida em apoiar e promover a comunidade LGBTQ+ no Havaí. Ela hospeda uma variedade de projetos e eventos, incluindo Honolulu Pride, Rainbow Town Hall e Coming Out Stories. Também fornece uma série de recursos e serviços de apoio."
+    },
+    "tr-TR": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "Hawaii'deki LGBTQ+ topluluğunu desteklemeye ve tanıtmaya adanmış kar amacı gütmeyen bir organizasyon. Honolulu Pride, Rainbow Town Hall ve Coming Out Stories dahil olmak üzere çeşitli projeler ve etkinlikler düzenler. Ayrıca çeşitli kaynaklar ve destek hizmetleri sağlar."
+    },
+    "sw-KE": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "Shirika lisilo la faida lililojitolea kusaidia na kukuza jamii ya LGBTQ+ nchini Hawaii. Linakuwa mwenyeji wa miradi na hafla anuwai ikiwa ni pamoja na Honolulu Pride, Rainbow Town Hall na Coming Out Stories. Pia hutoa rasilimali anuwai na huduma za usaidizi."
+    },
+    "fr-FR": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "Une organisation à but non lucratif dédiée à soutenir et promouvoir la communauté LGBTQ+ à Hawaï. Elle organise une variété de projets et événements, y compris Honolulu Pride, Rainbow Town Hall et Coming Out Stories. Elle fournit également une gamme de ressources et de services de soutien."
+    },
+    "zh-CN": {
+      "title": "夏威夷LGBT遗产基金会",
+      "description": "这是一个致力于支持和推广夏威夷LGBTQ+社区的非营利组织。它举办各种项目和活动，包括檀香山骄傲游行、彩虹镇大厅和出柜故事。它还提供一系列的资源和支持服务。"
+    },
+    "de-DE": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "Eine gemeinnützige Organisation, die sich der Unterstützung und Förderung der LGBTQ+ Gemeinschaft in Hawaii widmet. Sie veranstaltet eine Vielzahl von Projekten und Veranstaltungen, einschließlich Honolulu Pride, Rainbow Town Hall und Coming Out Geschichten. Sie bietet auch eine Reihe von Ressourcen und Unterstützungsdiensten an."
+    },
+    "ko-KR": {
+      "title": "하와이 LGBT 유산 재단",
+      "description": "하와이의 LGBTQ+ 커뮤니티를 지원하고 촉진하는 비영리 단체입니다. 그것은 호놀룰루 프라이드, 레인보우 타운 홀 그리고 커밍 아웃 스토리를 포함한 다양한 프로젝트와 이벤트를 주최합니다. 또한 다양한 자원과 지원 서비스를 제공합니다."
+    },
+    "id-ID": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "Organisasi nirlaba yang berkomitmen untuk mendukung dan mempromosikan komunitas LGBTQ+ di Hawaii. Organisasi ini menyelenggarakan berbagai proyek dan acara termasuk Honolulu Pride, Rainbow Town Hall dan Coming Out Stories. Organisasi ini juga menyediakan berbagai sumber daya dan layanan dukungan."
+    },
+    "ru-RU": {
+      "title": "Фонд наследия LGBT Гавайи",
+      "description": "Некоммерческая организация, стремящаяся поддерживать и продвигать сообщество LGBTQ+ на Гавайях. Она организует разнообразные проекты и мероприятия, включая Гавайский гей-парад, Радужный городской холл и истории о каминг-ауте. Она также предоставляет широкий спектр ресурсов и услуг поддержки."
+    },
+    "uk-UA": {
+      "title": "Фонд спадщини LGBT Hawaii",
+      "description": "Некомерційна організація, що прагне підтримувати та просувати спільноту LGBTQ+ на Гаваях. Вона організовує різноманітні проекти та заходи, включаючи Гонолулу Прайд, Радуга Міської Ради та історії про Coming Out. Вона також надає ряд ресурсів та служби підтримки."
+    },
+    "ja-JP": {
+      "title": "ハワイ LGBT レガシー財団",
+      "description": "ハワイの LGBTQ+ コミュニティの支援と推進に専念する非営利団体。ホノルルプライド、レインボータウンホール、カミングアウトストーリーズを含むさまざまなプロジェクトやイベントを主催します。また、さまざまなリソースやサポートサービスを提供します。"
+    },
+    "es-ES": {
+      "title": "Fundación Legado LGBT de Hawái",
+      "description": "Una organización sin fines de lucro comprometida a apoyar y promover la comunidad LGBTQ+ en Hawái. Acoge una variedad de proyectos y eventos incluyendo el Orgullo de Honolulu, el Ayuntamiento del Arco Iris y las Historias de Salida del Clóset. También proporciona una gama de recursos y servicios de apoyo."
+    },
+    "vi-VN": {
+      "title": "Quỹ Di sản LGBT Hawaii",
+      "description": "Một tổ chức phi lợi nhuận cam kết hỗ trợ và quảng bá cộng đồng LGBTQ+ ở Hawaii. Nó tổ chức một loạt các dự án và sự kiện bao gồm Honolulu Pride, Rainbow Town Hall và Coming Out Stories. Nó cũng cung cấp một loạt các nguồn lực và dịch vụ hỗ trợ."
+    },
+    "ar-SA": {
+      "title": "مؤسسة هاواي لتراث المثليين",
+      "description": "منظمة غير ربحية ملتزمة بدعم وترويج المجتمع LGBTQ+ في هاواي. يستضيف مجموعة متنوعة من المشاريع والأحداث بما في ذلك فخر هونولولو، وحديقة المطر القوس وقصص الخروج من الخزانة. كما يوفر مجموعة من الموارد وخدمات الدعم."
+    },
+    "mr-IN": {
+      "title": "हवाई LGBT लेगेसी फाउंडेशन",
+      "description": "हवाईतील LGBTQ+ समुदायाची समर्थन आणि प्रोत्साहन करणारे एक ना-फायदेशीर संघटना. ती होनोलुलु प्राईड, रेन्बो टाऊन हॉल आणि कमिंग आऊट स्टोरीजसहित वेगवेगळ्या प्रकल्पांची आणि कार्यक्रमांची मेजबानी करते. ती संसाधने आणि समर्थन सेवांचा ही व्यापक विभाग प्रदान करते."
+    },
+    "ur-PK": {
+      "title": "ہوائی LGBT لیگیسی فاؤنڈیشن",
+      "description": "ایک غیر منافع پر مشتمل تنظیم جو ہوائی میں LGBTQ+ کمیونٹی کی حمایت اور ترویج کے لئے پابند ہے۔ یہ ہونولولو پرائڈ، رینبو ٹاؤن ہال اور کمنگ آؤٹ سٹوریز سمیت مختلف منصوبوں اور تقریبات کا میزبان ہوتا ہے۔ اس کے علاوہ یہ مختلف وسائل اور سپورٹ سروسز بھی فراہم کرتا ہے۔"
+    },
+    "hi-IN": {
+      "title": "हवाई एलजीबीटीक्यू लीगेसी फाउंडेशन",
+      "description": "एक गैर-लाभ संगठन जो हवाई में एलजीबीटीक्यू+ समुदाय को समर्थन और समर्थन करने के लिए प्रतिबद्ध है। यह होनोलुलु प्राइड, रैनबो टाउन हॉल और कमिंग आउट स्टोरीज सहित विभिन्न परियोजनाओं और इवेंट्स मेज़बानी करता है। यह संसाधनों और सहायता सेवाओं की एक श्रृंखला भी प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "হাওয়াই LGBT লেগাসি ফাউন্ডেশন",
+      "description": "একটি অলাভজনক প্রতিষ্ঠান যা হাওয়াইতে LGBTQ+ সম্প্রদায়ের সমর্থন এবং প্রচারে নিশ্চিত। এটি হোনোলুলু প্রাইড, রেইনবো টাওন হল এবং কামিং আউট স্টোরিজ সহ বিভিন্ন প্রকল্প এবং ইভেন্ট আয়োজন করে। এটি এককাঠের জন্য একটি বিস্তারিত সম্পদ এবং সমর্থান সেবা সরবরাহ করে।"
+    },
+    "ta-IN": {
+      "title": "ஹவாய் LGBT பாரம்பரிய அமைப்பு",
+      "description": "ஹவாயியில் LGBTQ+ சமுதாயத்தை ஆதரிக்க மற்றும் முன்னேறுவதற்கு உள்ளதாக அமைந்துள்ள ஒரு முன்னாளிப் பணி அமைப்பு. இது ஹொனொலுலு பெருமை, ரேன்போவ் டவுன் ஹால் மற்றும் கமிங் அவுட் ஸ்டோரீஸ் உள்ளிட்ட பல்வேறு திட்டங்களையும், நிகழ்வுகளையும் வைப்பதாகும். இதனால் பல்வேறு மூலைகள் மற்றும் ஆதரவு சேவைகளையும் வழங்குவது."
+    },
+    "te-IN": {
+      "title": "Hawaii LGBT Legacy Foundation",
+      "description": "హవాయి లోని LGBTQ+ సముదాయానికి మద్దతు మరియు ప్రోత్సహించేందుకు ఇబ్బందిలేని సంస్థ హవాయి లెజీకీ ఫౌండేషన్. ఇది హొనొలులు ప్రౌద్యోగికి, రేన్బో టౌన్ హాల్ మరియు కమింగౌట్ స్టోరీస్ మొదలుగు ప్రాజెక్టుల మరియు ఈవెంట్స్ ని ఆర్గనైజ్ చేస్తుంది. ఇది వనరులకు సహాయక సేవలు మరియు వనరులను మద్దతు చేసే సమాచారాన్ని కూడా అందిస్తుంది."
+    }
+  }
+}

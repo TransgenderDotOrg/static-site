@@ -1,0 +1,29 @@
+{
+  "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+  "title": "Metro Trans Umbrella Group",
+  "description": "A grassroots nonprofit organization located in Saint Louis, working dedicatedly to create a more inclusive and supportive community for transgender individuals. Provides services like a food pantry, STI Testing, name change assistance, gender affirming clothes and weekly events to empower each other and work towards equality.",
+  "slug": "metro-trans-umbrella-group",
+  "externalUrl": "https://www.stlmetrotrans.org/",
+  "tags": [
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "community-stories",
+    "education-awareness",
+    "clothing"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MO",
+  "city": "Saint Louis",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+  }
+}

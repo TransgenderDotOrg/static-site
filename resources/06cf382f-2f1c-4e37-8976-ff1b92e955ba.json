@@ -1,0 +1,113 @@
+{
+  "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+  "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+  "externalUrl": "https://www.nagly.org/",
+  "tags": [
+    "youth-services",
+    "support-groups",
+    "mental-health",
+    "education-awareness",
+    "community-stories"
+  ],
+  "address": "Salem, MA, USA",
+  "phoneNumber": "978-224-2102",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Salem",
+  "county": "Essex County",
+  "latLng": [
+    42.5197473,
+    -70.8954626
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "North Shore Alliance of Gay, Lesbian, Bisexual and Transgender Youth (NAGLY)",
+      "description": "NAGLY's mission is to honor, respect, educate, and empower GLBTQ+ youth. They foster a community through local programs and support services, including youth and adult groups and various community activities. They offer mental health resources, provide healthcare education, and offer many opportunities for the LGBTQ+ community to connect and share their experiences."
+    },
+    "pt-PT": {
+      "title": "North Shore Alliance of Gay, Lesbian, Bisexual and Transgender Youth (NAGLY)",
+      "description": "A missão da NAGLY é honrar, respeitar, educar e capacitar jovens GLBTQ+. Eles promovem uma comunidade através de programas locais e serviços de apoio, incluindo grupos de jovens e adultos e várias atividades comunitárias. Eles oferecem recursos de saúde mental, fornecem educação em saúde e oferecem muitas oportunidades para a comunidade LGBTQ+ se conectar e compartilhar suas experiências."
+    },
+    "zh-CN": {
+      "title": "北岸同性恋、双性恋、和跨性别青年联盟 (NAGLY)",
+      "description": "NAGLY的任务是尊重、尊敬、教育和赋权GLBTQ+青年。他们通过当地的程序和支持服务，包括青年和成人团体以及各种社区活动，来建立一个社区。他们提供心理健康资源，提供医疗保健教育，并为LGBTQ+社区提供许多机会来连接和分享他们的经验。"
+    },
+    "es-ES": {
+      "title": "Alianza de Jóvenes Gay, Lesbianas, Bisexuales y Transgénero de North Shore (NAGLY)",
+      "description": "La misión de NAGLY es honrar, respetar, educar y empoderar a los jóvenes GLBTQ+. Fomentan una comunidad a través de programas locales y servicios de apoyo, incluyendo grupos de jóvenes y adultos y diversas actividades comunitarias. Ofrecen recursos de salud mental, proporcionan educación sobre atención médica y ofrecen muchas oportunidades para que la comunidad LGBTQ+ se conecte y comparta sus experiencias."
+    },
+    "id-ID": {
+      "title": "Aliansi Remaja Gay, Lesbian, Biseksual dan Transgender Pantai Utara (NAGLY)",
+      "description": "Misi NAGLY adalah untuk menghormati, menghargai, mendidik, dan memberdayakan pemuda GLBTQ+. Mereka memupuk sebuah komunitas melalui program lokal dan layanan dukungan, termasuk kelompok pemuda dan dewasa serta berbagai aktivitas komunitas. Mereka menawarkan sumber daya kesehatan mental, menyediakan pendidikan kesehatan, dan menawarkan banyak kesempatan bagi komunitas LGBTQ+ untuk terhubung dan berbagi pengalaman mereka."
+    },
+    "de-DE": {
+      "title": "North Shore Alliance of Gay, Lesbian, Bisexual and Transgender Youth (NAGLY)",
+      "description": "Die Mission von NAGLY besteht darin, GLBTQ+ Jugendliche zu ehren, respektieren, zu bilden und zu stärken. Sie fördern eine Gemeinschaft durch lokale Programme und Unterstützungsdienste, einschließlich Jugend- und Erwachsenengruppen und verschiedenen Gemeinschaftsaktivitäten. Sie bieten Ressourcen für die psychische Gesundheit, bieten Gesundheitsbildung und bieten viele Möglichkeiten für die LGBTQ+ Gemeinschaft, sich zu vernetzen und ihre Erfahrungen zu teilen."
+    },
+    "fr-FR": {
+      "title": "Alliance du Nord pour les jeunes gays, lesbiennes, bisexuels et transgenres (NAGLY)",
+      "description": "La mission de NAGLY est d'honorer, de respecter, d'éduquer et d'émanciper les jeunes GLBTQ+. Ils favorisent une communauté à travers des programmes locaux et des services de soutien, y compris des groupes pour les jeunes et les adultes et diverses activités communautaires. Ils offrent des ressources en santé mentale, fournissent une éducation sur la santé et offrent de nombreuses opportunités pour la communauté LGBTQ+ de se connecter et de partager leurs expériences."
+    },
+    "sw-KE": {
+      "title": "North Shore Alliance of Gay, Lesbian, Bisexual na Transgender Youth (NAGLY)",
+      "description": "Lengo la NAGLY ni kuheshimu, kuheshimu, kuelimisha, na kuwawezesha vijana wa GLBTQ+. Wanaendeleza jamii kupitia mipango na huduma za msaada za mitaa, pamoja na vikundi vya vijana na watu wazima na shughuli mbalimbali za jamii. Wanatoa rasilimali za afya ya akili, wanatoa elimu ya huduma ya afya, na wanatoa fursa nyingi kwa jamii ya LGBTQ+ kuungana na kushiriki uzoefu wao."
+    },
+    "vi-VN": {
+      "title": "Liên minh Thanh thiếu niên Đồng tính, Song tính và Chuyển giới Bắc Bờ (NAGLY)",
+      "description": "Sứ mệnh của NAGLY là tôn trọng, giáo dục và trao quyền cho thanh thiếu niên GLBTQ+. Họ xây dựng cộng đồng thông qua các chương trình địa phương và dịch vụ hỗ trợ, bao gồm các nhóm thanh thiếu niên và người lớn cùng các hoạt động cộng đồng khác nhau. Họ cung cấp nguồn lực về sức khỏe tâm thần, cung cấp giáo dục về chăm sóc sức khỏe, và tạo ra nhiều cơ hội cho cộng đồng LGBTQ+ để kết nối và chia sẻ kinh nghiệm của họ."
+    },
+    "ja-JP": {
+      "title": "北岸同性愛者、レズビアン、バイセクシャル、トランスジェンダーの若者たちの連盟 (NAGLY)",
+      "description": "NAGLYのミッションは、GLBTQ+の若者たちを敬うこと、尊重すること、教育すること、そしてエンパワーメントすることです。彼らは地元のプログラムや支援サービスを通じてコミュニティを育て、青少年と大人のグループやさまざまなコミュニティ活動を含みます。彼らはメンタルヘルスリソースを提供し、ヘルスケア教育を提供し、そして LGBTQ+コミュニティがつながり、彼らの経験を共有する機会をたくさん提供します。"
+    },
+    "ru-RU": {
+      "title": "Союз геев, лесбиянок, бисексуалов и трансгендеров Северного Берега (NAGLY)",
+      "description": "Миссия NAGLY - уважать, образовывать и поддерживать молодёжь GLBTQ+. Они создают сообщество через местные программы и службы поддержки, включая группы для молодежи и взрослых, а также различные общественные мероприятия. Они предлагают ресурсы по психическому здоровью, проводят образовательные программы в области здравоохранения и предлагают множество возможностей для общения и обмена опытом внутри LGBTQ+ сообщества."
+    },
+    "tr-TR": {
+      "title": "Kuzey Sahili Gay, Lezbiyen, Biseksüel ve Transgender Gençlik İttifakı (NAGLY)",
+      "description": "NAGLY'nin misyonu, GLBTQ+ gençlerini onurlandırmak, saygı göstermek, eğitmek ve güçlendirmektir. Yerel programlar ve destek hizmetleri aracılığıyla bir topluluk oluştururlar, genç ve yetişkin grupları ve çeşitli topluluk aktiviteleri sunarlar. Onlar zihinsel sağlık kaynakları sunar, sağlık eğitimi sağlar ve LGBTQ+ topluluğunun bağlantı kurması ve deneyimlerini paylaşması için birçok fırsat sunarlar."
+    },
+    "ko-KR": {
+      "title": "북숄어 게이, 레즈비언, 양성애자 및 트랜스젠더 청소년 연맹 (NAGLY)",
+      "description": "NAGLY의 임무는 GLBTQ+ 청소년들에게 명예를 인정하고, 존중하고, 교육하고, 권한을 부여하는 것입니다. 그들은 지역 프로그램 및 지원 서비스를 통해 커뮤니티를 육성하며, 청소년 및 성인 그룹과 다양한 커뮤니티 활동을 포함합니다. 그들은 정신건강 자원을 제공하고, 건강관리 교육을 제공하며, LGBTQ+ 커뮤니티가 서로의 경험을 연결하고 공유할 수 있는 많은 기회를 제공합니다."
+    },
+    "ar-SA": {
+      "title": "شباب الشمال للمثليين والمثليات والثنائيين والمتحولين جنسيًا (NAGLY)",
+      "description": "تتألف مهمة NAGLY من تكريم واحترام وتثقيف وتمكين شباب GLBTQ+. إنها تعزز من تواصل المجتمع من خلال البرامج المحلية وخدمات الدعم، بما في ذلك مجموعات الشباب والكبار وأنشطة المجتمع المختلفة. يقدمون الموارد الصحية النفسية، ويوفرون التعليم الصحي، ويقدمون العديد من الفرص للمجتمع LGBTQ + للتواصل ومشاركة تجاربهم."
+    },
+    "uk-UA": {
+      "title": "Північно-берегове об'єднання молоді геїв, лесбієк, бісексуалів та трансгендерів (NAGLY)",
+      "description": "Місія NAGLY - шанувати, поважати, освітлювати та заохочувати молодь GLBTQ+. Вони підтримують громаду через місцеві програми та служби підтримки, включаючи молодіжні та дорослі групи та різноманітні громадські активності. Вони пропонують ресурси з питань психічного здоров'я, надають освітній матеріал з питань охорони здоров'я, та пропонують багато можливостей для спільноти LGBTQ+ об'єднатися та поділитися своїми досвідами."
+    },
+    "hi-IN": {
+      "title": "उत्तरी तट गे, लेस्बियन, बाइसेक्सुअल और ट्रांसजेंडर युवा (NAGLY) का गठबंधन",
+      "description": "NAGLY का लक्ष्य गौरव, सम्मान, शिक्षा और GLBTQ+ युवाओं को सशक्त करना है। वे स्थानीय कार्यक्रमों और सहायता सेवाओं के माध्यम से एक समुदाय का निर्माण करते हैं, जिसमें युवा और वयस्क समूहों और विभिन्न सामुदायिक गतिविधियों के साथ साथ शामिल है। वे मानसिक स्वास्थ्य संसाधन प्रदान करते हैं, स्वास्थ्य शिक्षा प्रदान करते हैं, और LGBTQ+ समुदाय को अपने अनुभवों को साझा करने और जुड़ने के कई अवसर प्रदान करते हैं।"
+    },
+    "bn-BD": {
+      "title": "উত্তর শোর সমবাদী, সমলিঙ্গী, দ্বিলিঙ্গী এবং ট্রান্সজেন্ডার যুবক-যুবতীর জোট (NAGLY)",
+      "description": "NAGLY এর লক্ষ্য হলো, সম্মান, সম্মান, শিখানও এবং এজিএলবিটিকু নির্ভর করান। তারা স্থানীয় প্রোগ্রাম এবং সমর্থন পরিষেবা মাধ্যমে একটি সম্প্রদায় গড়ে তুলেন, অন্তত: যুবক এবং প্রাপ্তবয়স্ক দল এবং বিভিন্ন সম্প্রদায় ক্রিয়াকলাপ। তারা মানসিক স্বাস্থ্য সম্পদ সরবরাহ করেন, স্বাস্থ্যসেবা শিক্ষা প্রদান করতে রাজি হন এবং এলজিবিটিকু + সম্প্রদায়ের জন্য অনেক পরো সংযোগ করতে এবং তাদের অভিজ্ঞতা ভাগ করার সুযোগ উপলব্ধ করায়।"
+    },
+    "ur-PK": {
+      "title": "شمالی کنارہ اتحاد برائے ہم جنس پرست، لڑکے، خواجہ سرا اور نوع مخالفت پسند نوجوان (NAGLY)",
+      "description": "NAGLY کا مشن ہے کہ وہ GLBTQ+ نوجوانوں کی تعظیم، احترام، تعلیم، اور تقویت کریں۔ وہ مقامی پروگراموں اور سپورٹ سروسز کے ذریعے ایک کمیونٹی پیدا کرتے ہیں، جن میں نوجوانوں اور بالغوں کے گروہوں اور مختلف کمیونٹی سرگرمیوں شامل ہیں۔ وہ ذہنی صحت کے وسائل مہیا کرتے ہیں، ہیلتھ کیئر تعلیم فراہم کرتے ہیں، اور LGBTQ+ کمیونٹی کے لئے اپنے تجربات کو شیئر کرنے کے لئے کثیر مواقع پیش کرتے ہیں۔"
+    },
+    "mr-IN": {
+      "title": "उत्तर घाटी गुट समलैंगिक, समलैंगी, द्वीसंवेदनी आणि त्रिलिंगी तरुणांचे संघ (NAGLY)",
+      "description": "NAGLYच्या ध्येयांमध्ये GLBTQ+ तरुणांची आदरांकिता, सन्मान, शिक्षण आणि सशक्तीकरण करणे असते. त्यांच्याकडे स्थानिक कार्यक्रमे आणि सहाय्य सेवा द्वारे समुदायाचे वाढवण्यासाठी संधी आहे, त्यामध्ये तरुणांच्या आणि प्रौढ समूहांच्या आणि विविध समुदायी क्रियाकलापांच्या समावेश असतात. त्यांनी मानसिक आरोग्य संसाधने प्रदान केली आहेत, आरोग्य शिक्षण प्रदान केलेले आहे, आणि LGBTQ+ समुदायाला जोडण्याच्या व त्यांच्या अनुभवांना सामायिक करण्याच्या अनेक संधी प्रदान केलेली आहेत."
+    },
+    "ta-IN": {
+      "title": "வட கடலோர அல்லையான கோவிங்கழி, லெஸ்பியன், இருநலமைக்குரிய, மற்றும் முனைமை இளைஞர்கள் (NAGLY)",
+      "description": "NAGLY-ன் முதல்வகையானது GLBTQ+ இயல்பு கொண்ட இளைஞர்களை மதிப்பிட, மேலதிகமாக கவனமாக குக் கொண்டிருந்து, கல்வியாக்க, மற்றும் அதிகரிப்பு தது. அவர்கள் உள்ளூர் திட்டங்கள் மற்றும் ஆதரவு சேவைகள் மூலம் நலிக்கைப் உண்டாக்குகின்றனர், இது இளைஞர் மற்றும் பெரிய குழுக்களையும், பல்வேறு சமுதாயக் செயல்பாடுகளையும் அடங்குகின்றது. அவர்கள் மானசிக சுகாதார வளங்களை வழங்குகின்றனர், சுகாதார கல்வியை வழங்குகின்றனர், மற்றும் LGBTQ+ சமுதாயத்தில் அதிகபட்சமாக அல்லது பெரும்பட்சமாக அவர்களின் அனுபவங்களை இணைப்புக் கலந்துகொள்ள, ஆதரிப்பு வழங்குகின்றனர்."
+    },
+    "te-IN": {
+      "title": "ఉత్తర తీర గే అలైయన్స్ ఆఫ్ గే, లెస్బియన్, బైసెక్స్యుఅల్ మరియు ట్రాన్స్జెండర్ యువత (NAGLY)",
+      "description": "NAGLY యొక్క లక్ష్యం గేయ్, లెస్బియన్, బైసెక్స్యుఅల్, ట్రాన్స్జెండర్ యువతను గౌరవించడం, గౌరవించడం, పఠించడం మరియు ప్రేరేపించడం. వారు స్థానిక కార్యక్రమాలు మరియు మద్దతు సేవలు ద్వారా ఒక సముదాయాన్ని పోషిస్తారు, ఇది యువత మరియు వయసు వ్యాపార గుంపులు మరియు వివిధ సముదాయ చర్యలను చేరుస్తుంది. వారు మానసిక స్వాస్థ్య వనరులను అందిస్తారు, ఆరోగ్య విద్య ప్రాథమిక బోధనను అందిస్తారు, మరియు LGBTQ+ సముదాయానికి అనేక అవకాశాలను ప్రకటిస్తారు మరియు వారి అనుభవాలను పంచుకోవడానికి."
+    }
+  }
+}

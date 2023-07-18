@@ -1,0 +1,113 @@
+{
+  "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+  "slug": "metro-trans-umbrella-group",
+  "externalUrl": "https://www.stlmetrotrans.org/",
+  "tags": [
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "community-stories",
+    "education-awareness",
+    "clothing"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MO",
+  "city": "Saint Louis",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Metro Trans Umbrella Group",
+      "description": "A grassroots nonprofit organization located in Saint Louis, working dedicatedly to create a more inclusive and supportive community for transgender individuals. Provides services like a food pantry, STI Testing, name change assistance, gender affirming clothes and weekly events to empower each other and work towards equality."
+    },
+    "id-ID": {
+      "title": "Metro Trans Umbrella Group",
+      "description": "Sebuah organisasi nirlaba berbasis komunitas yang berlokasi di Saint Louis, bekerja dengan penuh dedikasi untuk menciptakan komunitas yang lebih inklusif dan mendukung bagi individu transgender. Menyediakan layanan seperti gudang makanan, tes ISPA, bantuan perubahan nama, pakaian yang membenarkan gender dan acara mingguan untuk memberdayakan satu sama lain dan bekerja menuju kesetaraan."
+    },
+    "es-ES": {
+      "title": "Grupo Umbrella de Metro Trans",
+      "description": "Una organización sin fines de lucro de base situada en Saint Louis, que trabaja dedicadamente para crear una comunidad más inclusiva y de apoyo para las personas transgénero. Proporciona servicios como una despensa de alimentos, pruebas de ITS, asistencia para el cambio de nombre, ropa que afirma el género y eventos semanales para empoderarse mutuamente y trabajar hacia la igualdad."
+    },
+    "pt-PT": {
+      "title": "Metro Trans Umbrella Group",
+      "description": "Uma organização sem fins lucrativos de base localizada em Saint Louis, trabalhando dedicadamente para criar uma comunidade mais inclusiva e solidária para indivíduos transgêneros. Fornece serviços como uma despensa de comida, teste de IST, assistência para mudança de nome, roupas de afirmação de gênero e eventos semanais para capacitar uns aos outros e trabalhar em direção à igualdade."
+    },
+    "fr-FR": {
+      "title": "Groupe Parapluie de Trans Metro",
+      "description": "Une organisation à but non lucratif de base située à Saint Louis, qui travaille avec dévouement pour créer une communauté plus inclusive et solidaire pour les individus transgenres. Fournit des services comme une banque alimentaire, des tests IST, une assistance pour le changement de nom, des vêtements affirmant le genre et des événements hebdomadaires pour se valoriser mutuellement et travailler vers l'égalité."
+    },
+    "zh-CN": {
+      "title": "地铁跨性别伞组织",
+      "description": "这是一个位于圣路易斯的草根非营利组织，致力于为跨性别者创建一个更包容和支持性的社区。提供如食品储藏室，性病检测，名称更改助手，性别认同的衣物，以及每周的活动，以互相赋权并努力实现平等。"
+    },
+    "de-DE": {
+      "title": "Metro Trans Regenschirm-Gruppe",
+      "description": "Eine gemeinnützige Basisorganisation, die in Saint Louis ansässig ist und sich engagiert darum bemüht, eine inklusivere und unterstützende Gemeinschaft für Transgender-Personen zu schaffen. Bietet Dienstleistungen an wie eine Lebensmittelkammer, STI-Tests, Unterstützung bei Namensänderungen, geschlechtsbejahende Kleidung und wöchentliche Veranstaltungen, um sich gegenseitig zu bestärken und auf Gleichheit hinzuarbeiten."
+    },
+    "tr-TR": {
+      "title": "Metro Trans Şemsiye Grubu",
+      "description": "Saint Louis'ta bulunan, transgender bireyler için daha kapsayıcı ve destekleyici bir topluluk oluşturmayı hedefleyen bir sivil toplum kuruluşudur. Gıda bankası, STI testi, isim değişikliği yardımı, cinsiyet onaylayıcı giysiler ve birbirimizi güçlendirme ve eşitliğe doğru çalışma amaçlı haftalık etkinlikler gibi hizmetler sunmaktadır."
+    },
+    "sw-KE": {
+      "title": "Kundi la Metro Trans Umbrella",
+      "description": "Shirika la wasio na faida la msingi lililopo Saint Louis, linafanya kazi kwa bidii kuunda jamii inayojumuisha zaidi na inayounga mkono kwa watu wanaobadilisha jinsia. Hutoa huduma kama chakula cha pantry, upimaji wa STI, msaada wa kubadilisha jina, nguo zinazokubaliana na jinsia na matukio ya kila wiki kuwawezesha kila mmoja na kufanya kazi kuelekea usawa."
+    },
+    "ru-RU": {
+      "title": "Metro Trans Umbrella Group",
+      "description": "Общественная некоммерческая организация, расположенная в Сент-Луисе, усердно работающая над созданием более инклюзивного и поддерживающего сообщества для трансгендерных личностей. Предоставляет услуги, такие как продовольственная помощь, тестирование на ППИ, помощь в смене имени, одежда, подтверждающая пол, и еженедельные мероприятия для взаимного укрепления и работы над равенством."
+    },
+    "vi-VN": {
+      "title": "Nhóm Ô dù Metro Trans",
+      "description": "Một tổ chức phi lợi nhuận cấp cỏ tại Saint Louis, làm việc tận tụy để tạo ra cộng đồng bao dung và hỗ trợ hơn cho những người chuyển giới. Cung cấp dịch vụ như lưu thông thực phẩm, kiểm tra STI, hỗ trợ thay đổi tên, quần áo xác nhận giới tính và sự kiện hàng tuần để tăng cường lẫn nhau và hướng tới bình đẳng."
+    },
+    "ko-KR": {
+      "title": "메트로 트랜스 우산 그룹",
+      "description": "세인트루이스에 위치한 비영리 기초 시민단체로, 트랜스젠더 개개인에게 더 포괄적이고 지원적인 커뮤니티를 만들기 위해 헌신적으로 일하고 있습니다. 식품 저장소, 성병 검사, 이름 변경 도움, 성정체성을 인정하는 옷류 및 서로를 강화하고 평등으로 나아가기 위한 주간 행사 등의 서비스를 제공합니다."
+    },
+    "ja-JP": {
+      "title": "メトロトランスアンブレラグループ",
+      "description": "セントルイスに拠点を置く地域密着型の非営利組織で、トランスジェンダーの個々の人々のためのより包括的で支援的なコミュニティを作り出すために献身的に働いています。食糧パントリー、STI検査、名前変更支援、ジェンダー適応衣類、そして毎週のイベントを提供し、お互いを力づけ、平等に向けて働く。"
+    },
+    "ar-SA": {
+      "title": "مجموعة Metro Trans Umbrella",
+      "description": "منظمة غير ربحية تعمل على مستوى الجذور تقع في سانت لويس، تعمل بتفاني لخلق مجتمع أكثر شمولية ودعماً للأفراد الذين يعبرون عن جنسهم. تقدم خدمات مثل مخزن الطعام، اختبار الأمراض المنقولة جنسياً, مساعدة تغيير الاسم، الملابس المؤكدة للجندر والأحداث الأسبوعية لتمكين بعضهم البعض والعمل نحو المساواة."
+    },
+    "uk-UA": {
+      "title": "Metro Trans Umbrella Group",
+      "description": "Громадська організація, що базується у Сент-Луїсі, яка працює задля створення більш включного та підтримуваного співтовариства для трансгендерних особистостей. Надає послуги, як-от продуктова камера, тестування на СНІД, допомогу у зміні імені, одяг, що підтверджує стать, та щотижневі заходи для зміцнення взаємодії та роботи над рівністю."
+    },
+    "ur-PK": {
+      "title": "میٹرو ٹرانس امبریلا گروپ",
+      "description": "سینٹ لوئس میں واقع ایک گراؤنڈروٹس غیر منفعت بخش تنظیم ہے جو ٹرانس جندر افراد کے لئے زیادہ شامل فردیت اور تعاون فراہم کرنے کے لئے مصممانہ کام کررہی ہے. خدمات میں خوراک کا خزانہ ، STI ٹیسٹنگ ، نام تبدیل کرنے کی مدد، جنسیائی توثیق کرنے والا لباس اور متسلسل واقعات شامل ہیں تاکہ آپس میں تعاون اور مساوات کی جانب کام کیا جاسکے."
+    },
+    "hi-IN": {
+      "title": "मेट्रो ट्रांस अम्ब्रेला समूह",
+      "description": "सेंट लुईस में स्थित एक घास की जड़ वाले गैर-लाभकारी संगठन, यह समर्पित रूप से ट्रांसजेंडर व्यक्तियों के लिए एक अधिक समावेशी और सहारा देने वाले समुदाय का निर्माण करने के लिए काम कर रहा है। खाद्य पैंट्री, एसटीआई परीक्षण, नाम परिवर्तन सहायता, लिंग पुष्टि वस्त्र और हर सप्ताह घटनाएं प्रदान करता है जो एक-दूसरे को सशक्त बनाने और समानता की ओर काम करने के लिए।"
+    },
+    "mr-IN": {
+      "title": "मेट्रो ट्रांस अम्ब्रेला ग्रुप",
+      "description": "सेंट लुईसमध्ये स्थित एका ग्रासरूट नॉनप्रॉफिट संघटनेचे वापर. ट्रांसजेंडर व्यक्तींसाठी अधिक समावेशी आणि समर्थनात्मक समुदाय तयार करण्यासाठी एकाग्रतेने काम करत आहे. अन्नपंथ, एसटीआय परीक्षण, नाव बदलास मदत, लिंग समर्थक वस्त्रे आणि प्रत्येक इतरांना सशक्त करण्यासाठी आणि समतेच्या दिशेने काम करण्यासाठी साप्ताहिक कार्यक्रमांची सेवा प्रदान करत आहे."
+    },
+    "ta-IN": {
+      "title": "மெட்ரோ ட்ரான்ஸ் அம்பிரல்லா குழு",
+      "description": "செயின்ட் லூயிஸில் அமைந்துள்ள ஒரு கிழகு முக்கியத்தொகுதியாக வேலை செய்கிறது, திருநங்கை நபர்களுக்கான மேலும் ஆக்கப்பூர்வமான மற்றும் ஆதரவுள்ள சமூகத்தை உருவாக்க முயற்சி செய்கிறது. உணவு சூப்பர்மார்க்கெட்டினைப் போன்ற சேவைகளை வழங்குகின்றது, STI சோத்துதல், பெயர் மாற்ற உதவிகோல்கள், பாலின உறுதி ஆண்ட ஆடைகள், மற்றும் ஒவ்வொரு வாரமும் ஒருவரை மேம்படுத்துவதற்கு நிகழ்வுகள் நடத்தி சமத்திற்கு நேராக செயல்படுவது."
+    },
+    "bn-BD": {
+      "title": "মেট্রো ট্রান্স অম্ব্রেলা গ্রুপ",
+      "description": "সেন্ট লুইসে অবস্থিত একটি গ্রাসরুট অলাভজনক প্রতিষ্ঠান যা ট্রান্সজেন্ডার ব্যক্তিদের জন্য একটি অধিক সমাবেশী এবং সমর্থনযোগ্য সম্প্রদায় গঠনে নিবিড়ভাবে কাজ করছে। খাবারের প্যান্ট্রি, এসটিআই পরীক্ষা, নাম পরিবর্তন সহায়তা, লিঙ্গ অনুসরণশীল জামাকাপর এবং প্রতিসপ্তাহে ইভেন্ট রয়েছে যা একে অপরকে শক্তি দিতে এবং সমানতা অর্জনে কাজ করে।"
+    },
+    "te-IN": {
+      "title": "Metro Trans Umbrella సమూహం",
+      "description": "Saint Louis లో ఉన్ని, ట్రాన్స్జెండర్ వ్యక్తుల కోసం మరింత సమావేశకరమైన మరియు మద్దతుగా ఉన్న సంఘంగా పనిచేసే ఒక గ్రాస్రూట్స్ గైరుపంజీకృత సంస్థ. ఆహార అంగీరస్థానం లాంటి సేవలు అందిస్తుంది, STI పరీక్ష, పేరు మార్చడం లో సహాయం, లింగ నిర్ధారణ దృష్టిలో బట్టలు మరియు ప్రతి వారం సంఘటించే సంఘటనలు ఇదరు మధ్య శక్తినీ పెంచడానికి మరియు సమానత్వానికి పనిచేయడానికి."
+    }
+  }
+}

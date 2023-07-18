@@ -1,0 +1,111 @@
+{
+  "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+  "slug": "margies-hope",
+  "externalUrl": "https://www.margieshope.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services",
+    "support-groups",
+    "youth-services",
+    "community-stories",
+    "education-awareness",
+    "clothing"
+  ],
+  "address": null,
+  "phoneNumber": "(440) 857-0611",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": "info@margieshope.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Margie’s Hope",
+      "description": "Margie’s Hope was founded in 2011 by Jacob Nash. Our history and purpose has been to enrich the lives of Transgender, Non-Binary, and Gender Expansive people in the community. Margie’s Hope offers resources and support through various community programs and a not for profit resale store."
+    },
+    "de-DE": {
+      "title": "Margies Hoffnung",
+      "description": "Margies Hoffnung wurde 2011 von Jacob Nash gegründet. Unsere Geschichte und unser Zweck war es, das Leben von Transgender, Nicht-Binären und Geschlechtserweiterten Menschen in der Gemeinschaft zu bereichern. Margies Hoffnung bietet Ressourcen und Unterstützung durch verschiedene Gemeinschaftsprogramme und einen gemeinnützigen Wiederverkaufsladen."
+    },
+    "es-ES": {
+      "title": "La Esperanza de Margie",
+      "description": "La Esperanza de Margie fue fundada en 2011 por Jacob Nash. Nuestra historia y propósito ha sido enriquecer las vidas de las personas Transgénero, No Binarias y de Género Expansivo en la comunidad. La Esperanza de Margie ofrece recursos y apoyo a través de varios programas comunitarios y una tienda de reventa sin fines de lucro."
+    },
+    "fr-FR": {
+      "title": "L’espoir de Margie",
+      "description": "L’espoir de Margie a été fondé en 2011 par Jacob Nash. Notre histoire et notre but ont été d'enrichir la vie des personnes transgenres, non binaires et de genre expansif dans la communauté. L’espoir de Margie offre des ressources et du soutien à travers divers programmes communautaires et une boutique de revente à but non lucratif."
+    },
+    "sw-KE": {
+      "title": "Margie’s Hope",
+      "description": "Margie’s Hope ilianzishwa mwaka 2011 na Jacob Nash. Historia yetu na kusudi limekuwa kuboresha maisha ya watu wa Transgender, Non-Binary, na Gender Expansive katika jamii. Margie’s Hope inatoa rasilimali na msaada kupitia mipango mbalimbali ya jamii na duka la kuuza tena ambalo si la faida."
+    },
+    "id-ID": {
+      "title": "Harapan Margie",
+      "description": "Harapan Margie didirikan pada tahun 2011 oleh Jacob Nash. Sejarah dan tujuan kami adalah untuk memperkaya kehidupan orang-orang Transgender, Non-Binary, dan Gender Expansive dalam komunitas. Harapan Margie menawarkan sumber daya dan dukungan melalui berbagai program komunitas dan toko penjualan ulang yang bukan untuk mencari keuntungan."
+    },
+    "tr-TR": {
+      "title": "Margie’nin Umutları",
+      "description": "Margie’nin Umutları, Jacob Nash tarafından 2011'de kuruldu. Tarihçemiz ve amacımız, topluluktaki Transgender, Non-Binary ve Cinsiyet Genişleyen insanların yaşamlarını zenginleştirmek olmuştur. Margie’nin Umutları, çeşitli topluluk programları ve kar amacı gütmeyen bir yeniden satış mağazası aracılığıyla kaynaklar ve destek sunmaktadır."
+    },
+    "pt-PT": {
+      "title": "Esperança da Margie",
+      "description": "Esperança da Margie foi fundada em 2011 por Jacob Nash. Nossa história e propósito têm sido enriquecer a vida das pessoas Transgênero, Não-Binárias e de Gender Expansive na comunidade. Esperança da Margie oferece recursos e suporte através de vários programas comunitários e uma loja de revenda sem fins lucrativos."
+    },
+    "zh-CN": {
+      "title": "玛吉的希望",
+      "description": "玛吉的希望由雅各布·纳什在2011年创立。我们的历史和目的是致力于丰富社区中的跨性别者，非二元性别者和性别开放者的生活。玛吉的希望通过各种社区程序和一个非营利性的二手商店提供资源和支持。"
+    },
+    "ko-KR": {
+      "title": "마기의 희망",
+      "description": "마기의 희망은 2011년에 제이콥 나쉬에 의해 설립되었습니다. 우리의 역사와 목적은 커뮤니티의 트랜스젠더, 비이진, 그리고 성차이 확장성을 가진 사람들의 삶을 풍요롭게 하는 것이었습니다. 마기의 희망은 다양한 커뮤니티 프로그램과 이익을 목적으로 하지 않는 재판매 상점을 통해 자원과 지원을 제공합니다."
+    },
+    "ru-RU": {
+      "title": "Надежда Марджи",
+      "description": "Надежда Марджи была основана в 2011 году Джейкобом Нэшем. Наша история и цель - обогащение жизни трансгендеров, небинарных и людей с расширенным гендерным идентификатором в сообществе. Надежда Марджи предлагает ресурсы и поддержку через различные общественные программы и магазин перепродажи без прибыли."
+    },
+    "ja-JP": {
+      "title": "マージーズ・ホープ",
+      "description": "マージーズ・ホープは2011年にジェイコブ・ナッシュによって設立されました。我々の歴史と目的は、トランスジェンダー、ノンバイナリー、ジェンダー包括的な人々の生活をコミュニティ内で豊かにすることでした。マージーズ・ホープは、さまざまなコミュニティプログラムと非営利のリセールストアを通じてリソースとサポートを提供しています。"
+    },
+    "vi-VN": {
+      "title": "Hi vọng của Margie",
+      "description": "Hi vọng của Margie được thành lập vào năm 2011 bởi Jacob Nash. Lịch sử và mục đích của chúng tôi là làm giàu cuộc sống của những người chuyển giới, không nhị phân và giới tính mở rộng trong cộng đồng. Hi vọng của Margie cung cấp tài nguyên và hỗ trợ thông qua các chương trình cộng đồng khác nhau và cửa hàng tái bán không nhằm mục đích lợi nhuận."
+    },
+    "ar-SA": {
+      "title": "أمل مارجي",
+      "description": "تأسست أمل مارجي في عام 2011 بواسطة جاكوب ناش. تاريخنا وغرضنا كان دائمًا تحسين حياة الأشخاص غير الثنائيين والمتحولين جنسياً والذين يتسعون جنسيًا في المجتمع. تقدم أمل مارجي الموارد والدعم من خلال البرامج المجتمعية المختلفة ومتجر إعادة البيع غير الربحي."
+    },
+    "uk-UA": {
+      "title": "Надія Маргі",
+      "description": "Надія Маргі була заснована в 2011 році Джейкобом Нашем. Наша історія та мета полягає в тому, щоб збагатити життя трансгендерних, небінарних та людей з розширеним гендером у спільноті. Надія Маргі пропонує ресурси та підтримку через різні програми громадської діяльності та магазин перепродажу, що не є прибутковим."
+    },
+    "ur-PK": {
+      "title": "مارجی کی امید",
+      "description": "مارجی کی امید 2011 میں جیکب نیش کی جانب سے قائم کی گئی تھی۔ ہمارا تاریخ اور مقصد ٹرانسجینڈر، نان-بائنری، اور جنسی توسیع پذیر افراد کی زندگیوں کو بہتر بنانے کا ہے۔ مارجی کی امید مختلف کمیونٹی پروگراموں اور غیر منافع بخش ری سیل سٹور کے ذریعے وسائل اور سپورٹ فراہم کرتی ہے۔"
+    },
+    "hi-IN": {
+      "title": "मार्जी की आशा",
+      "description": "मार्जी की आशा का स्थापना 2011 में जैकब नैश द्वारा की गई थी। हमारा इतिहास और उद्देश्य समुदाय में ट्रांसजेंडर, गैर-याथार्थिक, और लिंग विस्तारित लोगों की जीवन को समृद्ध करना रहा है। मार्जी की आशा विभिन्न समुदाय कार्यक्रमों के माध्यम से संसाधन और सहारा प्रदान करती है और एक गैर-लाभकारी पुनर्विक्रेता स्टोर के द्वारा।"
+    },
+    "bn-BD": {
+      "title": "মার্জির আশা",
+      "description": "মার্জির আশা ২০১১ সালে জ্যাকব ন্যাশ দ্বারা প্রতিষ্ঠিত হয়েছিল। আমাদের ইতিহাস ও লক্ষ্য হয়েছে সম্প্রদায়ের ট্রান্সজেন্ডার, নন-বাইনারি এবং জেন্ডার এক্সপ্যান্সিভ মানুষদের জীবন সমৃদ্ধ করা। মার্জির আশা বিভিন্ন সম্প্রদায় কর্মসূচী এবং একটি অলাভজনক পুনঃবিক্রয় দোকানের মাধ্যমে সম্পদ এবং সমর্থন অফার করে।"
+    },
+    "mr-IN": {
+      "title": "मार्गीची आशा",
+      "description": "मार्गीची आशा ही 2011 मध्ये जेकब नाश यांनी स्थापन केलेली आहे. आमचे इतिहास आणि उद्दिष्ट ट्रान्सजेंडर, नॉन-बायनरी, आणि जेंडर एक्स्पांसिव लोकांच्या आयुष्यात समृद्धी निघवणे आहे. मार्गीची आशा विविध समुदायिक कार्यक्रमांच्या माध्यमातून आणि ना फायदा साठवणार्‍या पुनर्विक्री दुकानाच्या माध्यमातून संसाधने आणि समर्थन प्रदान करते."
+    },
+    "ta-IN": {
+      "title": "மார்ஜி'ஸ் ஹோப்",
+      "description": "மார்ஜி'ஸ் ஹோப் 2011 ஆம் ஆண்டு ஜேக்கோப் நாஷ் ஆல் தொடங்கப்பட்டது. நம் வரலாறு மற்றும் நோக்கம் அணைத்து மக்கள் வாழ்வை வளர்க்குவது, பாலின மேல் அமைந்தவர்கள், பின் வினை மாறியவர்கள் மற்றும் பாலின விஸ்தரிப்புமிக்க மக்களை சமூகத்தில். மார்ஜி'ஸ் ஹோப் பல்வேறு சமூக அமைப்புகளுக்கும் மற்றும் ஒரு முனைப்படு மின்னஞ்சல் கடையைவிட ஆதாரங்களை மற்றும் ஆதரவை வழங்குகின்றது."
+    },
+    "te-IN": {
+      "title": "మార్జీయుస్ హోప్",
+      "description": "మార్జీయుస్ హోప్ ని జకాబ్ నాష్ 2011లో స్థాపించారు. మా చరిత్ర మరియు ఉద్దేశం, సముదాయంలోని ట్రాన్స్‌జెండర్, నాన్-బైనరీ, మరియు లింగ విస్థార వ్యక్తుల జీవితాన్ని సమృద్ధ చేయడమే. మార్జీయుస్ హోప్ వివిధ సముదాయ కార్యక్రమాలు మరియు లాభం కోసం కాదు అమ్మకానున్న కిరాణా దుకాణం ద్వారా వనరులు మరియు మద్దతు అందిస్తుంది."
+    }
+  }
+}

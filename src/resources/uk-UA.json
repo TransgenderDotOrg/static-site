@@ -36,6 +36,34 @@
     "description": "Прайд-центр округу Сан-Матео - це модель співпраці та універсальний центр для спільноти LGBTQ+. Ми пропонуємо потужні програми та послуги для підтримки членів спільноти LGBTQ+ всіх вікових категорій, включаючи освіту, навчання, спільнотні заходи, групи однолітків, щоденну програмування, клінічну терапію та кейс-менеджмент."
   },
   {
+    "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+    "slug": "hawaii-lgbt-legacy-foundation",
+    "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Honolulu, HI, USA",
+    "phoneNumber": "808.369.2000",
+    "country": "US",
+    "provinceOrState": "HI",
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "latLng": [
+      21.3098845,
+      -157.8581401
+    ],
+    "email": "info@hawaiilgbtlegacy.com",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+      "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+      "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+    },
+    "title": "Фонд спадщини LGBT Hawaii",
+    "description": "Некомерційна організація, що прагне підтримувати та просувати спільноту LGBTQ+ на Гаваях. Вона організовує різноманітні проекти та заходи, включаючи Гонолулу Прайд, Радуга Міської Ради та історії про Coming Out. Вона також надає ряд ресурсів та служби підтримки."
+  },
+  {
     "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
     "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
     "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
@@ -57,6 +85,35 @@
     "socialMedia": null,
     "title": "Розуміння та підтримка транссексуальності у дітей та батьків",
     "description": "Ця німецька стаття пропонує всеосяжний посібник для сімей, які стикаються з транссексуальністю у батьків або дітей. Вона надає інформацію про ключові процедури та ресурси, пропонуючи настанови від розуміння та прийняття ситуації до переслідування відповідних лікувань."
+  },
+  {
+    "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+    "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+    "externalUrl": "https://www.nagly.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Salem, MA, USA",
+    "phoneNumber": "978-224-2102",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "latLng": [
+      42.5197473,
+      -70.8954626
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Північно-берегове об'єднання молоді геїв, лесбієк, бісексуалів та трансгендерів (NAGLY)",
+    "description": "Місія NAGLY - шанувати, поважати, освітлювати та заохочувати молодь GLBTQ+. Вони підтримують громаду через місцеві програми та служби підтримки, включаючи молодіжні та дорослі групи та різноманітні громадські активності. Вони пропонують ресурси з питань психічного здоров'я, надають освітній матеріал з питань охорони здоров'я, та пропонують багато можливостей для спільноти LGBTQ+ об'єднатися та поділитися своїми досвідами."
   },
   {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
@@ -272,6 +329,37 @@
     "description": "Minus18 - це благодійна організація в Австралії, яка покращує життя молоді LGBTQIA+. Вони борються з соціальною ізоляцією, створюючи простори, де молоді люди належать, їх відзначають і де вони можуть знайти друзів. Вони також пропонують навчання LGBTQIA+, ресурси та цифрові кампанії, метою яких є створення Австралії, вільної від дискримінації. Їхня мета - оснастити молодь навичками та можливостями, які їм потрібні, щоб бути на передовій змін."
   },
   {
+    "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+    "slug": "youth-eastside-services",
+    "externalUrl": "https://www.youtheastsideservices.org/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources"
+    ],
+    "address": "Kirkland, WA, USA",
+    "phoneNumber": "425-747-4937",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Kirkland",
+    "county": "King County",
+    "latLng": [
+      47.6768927,
+      -122.2059833
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+      "twitterUrl": "https://twitter.com/YouthEastside",
+      "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+      "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+    },
+    "title": "Youth Eastside Services",
+    "description": "Youth Eastside Services (YES) - це некомерційна організація, яка надає всеосяжні послуги з охорони психічного здоров'я та боротьби зі зловживанням речовин молоді та їхнім родинам, незалежно від їх здатності платити. Розташовані в Вашингтоні, їх послуги включають консультації, терапію, підтримку для громади LGBTQ + та різні програми, засновані на громадськості."
+  },
+  {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
     "slug": "us-trans-survey",
     "externalUrl": "https://www.ustranssurvey.org/",
@@ -330,6 +418,57 @@
     },
     "title": "nonbinary.ch - Ресурс для людей, що не вписуються в бінарну систему статевої ідентичності",
     "description": "Цей швейцарський сайт надає інформацію та ресурси, пов'язані з не-бінарними статевими ідентичностями. Він призначений для того, щоб допомогти особам, що досліджують власну статеву ідентичність, або тим, хто взаємодіє з не-бінарними особами, роблячи базові знання легкодоступними. На сайті також розміщено блог, розсилку новин та посилання на актуальні зовнішні ресурси, такі як книги, фільми та дослідження."
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "Кампанія за права людини",
+    "description": "Кампанія за права людини бореться за права та рівність спільноти LGBTQ+. Вони прагнуть припинити дискримінацію та просувати політики на користь рівності за допомогою освіти, захисту прав і мобілізації. Вони також надають ресурси для тих, хто перебуває в спільноті LGBTQ+, щоб вони могли приєднатися до роботи на локальному рівні."
+  },
+  {
+    "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+    "slug": "gender-confirmation-center",
+    "externalUrl": "https://www.genderconfirmation.com/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+    "phoneNumber": "(415) 780-1515",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "SF",
+    "county": "San Francisco County",
+    "latLng": [
+      37.7896952,
+      -122.4078356
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Центр підтвердження статі",
+    "description": "Центр підтвердження статі надає всеосяжну підтримку в підтвердженні статі, через різноманітні види процедур та планів лікування, для трансгендерної, небінарної та гендерно-різноманітної спільноти."
   },
   {
     "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
@@ -530,6 +669,29 @@
     "description": "Головне представництво Квінсленду, яке представляє трансгендерів, людей з різноманітним гендерним самовизначенням та небінарних осіб з 1990 року. Вони надають підтримку, заступництво, послуги та організовують соціальні заходи для трансгендерної спільноти."
   },
   {
+    "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+    "slug": "topsurgery-net",
+    "externalUrl": "https://www.topsurgery.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TopSurgery.net",
+    "description": "TopSurgery.net - це всеосяжний ресурс для осіб, які шукають інформацію про процедури FTM верхньої хірургії. Ресурс надає деталі про різні типи хірургічних процедур, як знайти хірурга, інформацію про витрати та страхування, ЧаПи, та інші відповідні ресурси для трансмаскулінних та небінарних осіб, які проводять верхню хірургію. Він також включає освітній контент, такий як рекомендації книг, відеоуроків та статей на пов'язані теми."
+  },
+  {
     "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
     "slug": "jim-collins-foundation",
     "externalUrl": "https://jimcollinsfoundation.org/",
@@ -628,6 +790,27 @@
     "description": "Queermed Deutschland - це довідник лікарів, терапевтів та медичних установ, рекомендованих спільнотою LGBTQIA+ в Німеччині. Мета полягає в боротьбі із дискримінацією в системі охорони здоров'я, гарантуючи поважне та чутливе обслуговування для всіх. Він включає різні додаткові можливості в анонімному опитуванні для задоволення потреб різноманітних осіб у співтоваристві."
   },
   {
+    "id": "3ae6370f-e83a-4b6f-93e1-918d4258c31a",
+    "slug": "how-to-wear-a-packer",
+    "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "Як носити пакер",
+    "description": "Ця стаття надає рекомендації щодо носіння пакера, включаючи поради про позиціонування, вибір правильного розміру, як має бути розташований ваш пакер, та способи тримати пакер на місці. Вона слугує освітнім ресурсом для тих, хто знаходиться у трансмаскулінній та небінарній спільнотах, і хоче дізнатися більше про пакінг."
+  },
+  {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
     "slug": "northern-territory-aids-and-hepatitis-council-inc",
     "externalUrl": "https://www.ntahc.org.au/",
@@ -671,6 +854,44 @@
     "description": "Надійний онлайн-ресурс для людей, які шукають знання, підтримку та розуміння гендерної дисфорії. Їх веб-сайт надає багато інформації, ресурсів та зв'язків з громадою, щоб заохочувати людей у їхньому шляху. Від всеосяжних посібників про гендерну ідентичність та перехід до особистих історій та професійних порад, вони прагнуть створити безпечне та інклюзивне середовище для всіх."
   },
   {
+    "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+    "slug": "identity-alaska",
+    "externalUrl": "https://www.identityalaska.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness",
+      "community-stories",
+      "support-groups"
+    ],
+    "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+    "phoneNumber": "(907) 865-3247",
+    "country": "US",
+    "provinceOrState": "AK",
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "latLng": [
+      61.1955918,
+      -149.8774355
+    ],
+    "email": "info@identityinc.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/IdentityInc",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/identityalaska/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Ідентичність Аляска",
+    "description": "Благодійний громадський центр та клініка, які базуються на Алясці, надають ресурси, програми та медичне обслуговування для LGBTQIA2S+ та сприязнених спільнот."
+  },
+  {
     "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
     "slug": "unitarian-universalist-association",
     "externalUrl": "https://www.uua.org/",
@@ -694,6 +915,28 @@
     "socialMedia": null,
     "title": "Асоціація Юнітарійських Універсалістів",
     "description": "Толерантна, сердечна духовна спільнота, що підтримує людей у житті, сповненому справедливості, любові, навчання та надії. Ця спільнота різноманітна, вона включає трансгендерну спільноту і заохочує активну участь у діях на пошану справедливості. Вони також пропонують ресурси, підтримку і заступництво в різноманітних соціальних питаннях."
+  },
+  {
+    "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+    "slug": "personalized-pronoun-dressing-room",
+    "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Персоналізована Роздягальня Займенників",
+    "description": "Цей інтерактивний ресурс надає приклади різних наборів займенників, використаних в контексті. Він є налаштовуваним за будь-яким ім'ям, яке ви хотіли б, що сприяє дослідженню та розумінню особистих займенників. Цей інструмент є корисним для трансгендерної спільноти, особливо для тих, хто досліджує нові займенники або освітлює інших використанні займенників."
   },
   {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
@@ -821,6 +1064,31 @@
     "description": "Юридичний проект Сильвії Рівера працює над гарантуванням того, що всі люди мають право вільно визначати свою статеву приналежність і самовираження, незалежно від доходів або раси, і без страху зазнавати домагання, дискримінації або насильства. SRLP надає юридичну допомогу, організовує кампанії, проводить тренінги та керує Комітетом консультативних в'язнів. Спільнотна участь заохочується через пожертви, волонтерство та членство."
   },
   {
+    "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+    "slug": "allentown-womens-center",
+    "externalUrl": "https://allentownwomenscenter.com/",
+    "tags": [
+      "healthcare",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+    "phoneNumber": "(484) 821-0821",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Bethlehem",
+    "county": "Northampton County",
+    "latLng": [
+      40.6728208,
+      -75.37561989999999
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Центр жінок Allentown",
+    "description": "Повноцінний постачальник медичних послуг, спеціалізація якого заходить сервіси, що відповідають широкому спектру демографічних груп, включаючи трансгендерну спільноту. Послуги варіюють від процедур аборту, гінекологічного догляду, послуг, що підтверджують стать, а також сертифікація медичної марихуани та інших."
+  },
+  {
     "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
     "slug": "erin-in-the-morning",
     "externalUrl": "https://www.erininthemorning.com/",
@@ -877,6 +1145,27 @@
     ],
     "title": "EqualDex.com",
     "description": "Інноваційна онлайн-платформа, що має на меті створити всеосяжний та актуальний ресурс для глобальних прав LGBTQ+. Їх веб-сайт надає централізовану базу даних законів, політик та суспільних ставлення до прав LGBTQ+ зі всього світу. Візуалізуючи та відображаючи дані про рівність, інклюзивність та правовий захист, EqualDex.com пропонує потужний інструмент для активістів, дослідників та осіб, які прагнуть зрозуміти та відстоювати права LGBTQ+ на глобальному рівні. Досліджуйте їхні інтерактивні карти, переглядайте профілі конкретних країн та слідкуйте за останніми досягненнями та викликами, з якими стикається співтовариство LGBTQ+ у всьому світі."
+  },
+  {
+    "id": "5075ae0b-ac8b-4bc5-9f42-ffdb587784cb",
+    "slug": "how-to-pack-ftm-with-socks-diy-packer",
+    "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
+    "tags": [
+      "transmasculine",
+      "clothing",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Як упакувати ftm за допомогою шкарпеток | DIY Packer",
+    "description": "Цей блоговий пост пропонує детальний путівник, як зробити домашній пакер за допомогою шкарпеток та інших доступних матеріалів. Також включає DIY альтернативи для інших протезів FTM, щоб допомогти трансмаскулінним особам відчувати себе більш комфортно та автентично."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1011,6 +1300,70 @@
     },
     "title": "Трансгендер Вікторія",
     "description": "TGV є провідним органом Вікторії для транс та гендерно різноманітних людей. Ми працюємо, щоб досягти справедливості, рівності та включення для наших спільнот, їх партнерів, сімей, друзів та союзників. Ми надаємо різноманітні ресурси, навчання, захист прав та послуги підтримки, спрямовані на соціальні, економічні, охорони здоров'я, благополуччя та психічного здоров'я для трансгендерної спільноти."
+  },
+  {
+    "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+    "slug": "margies-hope",
+    "externalUrl": "https://www.margieshope.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "support-groups",
+      "youth-services",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": "(440) 857-0611",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@margieshope.org",
+    "socialMedia": null,
+    "title": "Надія Маргі",
+    "description": "Надія Маргі була заснована в 2011 році Джейкобом Нашем. Наша історія та мета полягає в тому, щоб збагатити життя трансгендерних, небінарних та людей з розширеним гендером у спільноті. Надія Маргі пропонує ресурси та підтримку через різні програми громадської діяльності та магазин перепродажу, що не є прибутковим."
+  },
+  {
+    "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+    "slug": "brave-space-alliance",
+    "externalUrl": "https://bravespacealliance.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+    "phoneNumber": "(872) 333-5199",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.7997305,
+      -87.5885496
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+      "twitterUrl": "https://twitter.com/BSAllianceChi",
+      "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+      "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+    },
+    "title": "Brave Space Alliance",
+    "description": "Brave Space Alliance - центр, керований чорними та трансгендерними людьми, є першим LGBTQ+ центром, розташованим на Південному заході Чикаго, що надає підтримуючі та культурно компетентні послуги для всієї LGBTQ+ громади Чикаго."
   },
   {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
@@ -1211,6 +1564,33 @@
     "description": "Організація охорони здоров'я в Південній Австралії, яка надає клінічні послуги, консультування з питань сексуального здоров'я та освіту та навчання, пов'язані з сексуальним та репродуктивним здоров'ям та вміннями у стосунках. Вона також надає підтримку та інклюзивні послуги для спільноти LGBTIQA+. Вони також беруть участь у святкуванні та захисті прав та визнання міжнародних трансгендерних та гендерно різноманітних спільнот."
   },
   {
+    "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+    "slug": "boston-alliance-of-lgbtq-youth-bagly",
+    "externalUrl": "https://www.bagly.org/",
+    "tags": [
+      "youth-services",
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "28 Court Square, Boston, MA 02108, USA",
+    "phoneNumber": "(617) 227-4313",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3585686,
+      -71.05938739999999
+    ],
+    "email": "mmccarron@bagly.org",
+    "socialMedia": {
+      "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+    },
+    "title": "Бостонський альянс молоді ЛГБТК+ (BAGLY)",
+    "description": "BAGLY це молодіжна організація, яка отримує підтримку дорослих і прагне до впливу на програми, політику та послуги для молодіжної громади ЛГБТК+. Вона надає цілий ряд ресурсів і програм, включаючи медичні послуги, продовольчу справедливість, розвиток молодіжного лідерства та багато іншого. BAGLY пріоритизує потреби лгбтк+ молоді кольорових осіб, трансгендерної та осіб, що не вписуються в загальноприйняті гендерні норми, а також бездомних молодих людей ЛГБТК+."
+  },
+  {
     "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
     "slug": "zoe-belle-gender-collective",
     "externalUrl": "https://zbgc.org.au/",
@@ -1233,6 +1613,28 @@
     "socialMedia": null,
     "title": "Гендерний Колектив Зої Бель",
     "description": "Гендерний Колектив Зої Бель - це організація-провідник, керована транс і гендерно різноманітними людьми, яка пропонує професійні тренування, семінари та підтримку для спільноти LGBTQI+. Він забезпечує ресурси та допомогу для громадськіх служб, працівників, сім'й та друзів, а також для транс і гендерно різноманітних особистостей. Нещодавно він запустив Transfemme, запобіжну ініціативу проти насильства чоловіків-сісок на транс жінок."
+  },
+  {
+    "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+    "slug": "centerlink-the-community-of-lgbtq-centers",
+    "externalUrl": "https://www.lgbtqcenters.org",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "CenterLink, Спільнота Центрів LGBTQ",
+    "description": "CenterLink - це міжнародна некомерційна організація та асоціація на основі членства центрів LGBTQ та інших організацій, які обслуговують свої місцеві та регіональні спільноти. Їхня місія - зміцнити, підтримати та зв’язати центри спільноти LGBTQ, надаючи необхідні послуги, сприяючи росту, благополуччю та зв'язку в понад 325 спільнотах LGBTQ у всьому світі."
   },
   {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
@@ -1262,6 +1664,33 @@
     "email": "info@genderdiversity.org",
     "title": "Статева різноманітність",
     "description": "Статева різноманітність покращує благополуччя дітей та дорослих усіх статевих ідентичностей і виражень, забезпечуючи освіту, підвищуючи обізнаність та надаючи зрозуміння широкого спектра людського досвіду. Ми також допомагаємо у створенні підтримуючих та нетолерантних дискримінаційних середовищ в школах, спортивних командах, місцях роботи та у надавачів медичних послуг для трансгендерних осіб та осіб з різноманітністю статі."
+  },
+  {
+    "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+    "slug": "equality-california",
+    "externalUrl": "https://www.eqca.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+    "phoneNumber": "(323) 848-9801",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0500954,
+      -118.2531648
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Equality California",
+    "description": "Equality California - це організація, яка привносить голоси ЛГБТК+ людей та союзників до інституцій влади в Каліфорнії та по всіх Сполучених Штатах з метою створення світу, який є здоровим, справедливим та повністю рівним для всіх ЛГБТК+ людей. Вони розвивають громадянські права та соціальну справедливість та неутомно працюють від імені тих, кого обслуговують. Вони надають програми, публікації, законодавство, схвалення та кілька способів втручання."
   },
   {
     "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
@@ -1322,6 +1751,35 @@
     "town": "Manhattan",
     "title": "Фонд правової оборони та освіти трансгендерів (TLDEF)",
     "description": "TLDEF прагне припинити дискримінацію засновану на гендерній ідентичності і виразі та досягти рівності для трансгендерних людей через громадську освіту, судовий аналіз конкретних випадків, прямі юридичні послуги та зусилля у сфері громадської політики. Вони надають різні послуги, такі як зміна проекту імені, вплив на судову практику та проект здоров'я трансгендерних осіб. Він також надає оновлення про відповідні юридичні питання, що впливають на трансгендерну спільноту."
+  },
+  {
+    "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+    "slug": "gender-justice-league",
+    "externalUrl": "https://www.genderjusticeleague.org/",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+    "phoneNumber": "206-538-0423",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6142754,
+      -122.3171383
+    ],
+    "email": "info@genderjusticeleague.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+      "twitterUrl": "https://twitter.com/genderjusticewa",
+      "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+      "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+    },
+    "title": "Ліга гендерної справедливості",
+    "description": "Ліга гендерної справедливості - це організація з прав людини та громадянських прав, яка зосереджується на піднесенні прав трансів та гендерно різноманітних спільнот у штаті Вашингтон і за його межами. GJL була заснована у Сіетлі, штат Вашингтон, у 2012 році групою давніх транс-активістів, квірів і союзників. Вони зосереджуються на захисті прав, наданні програми безпечного будинку, ресурсів та спеціальних заходів."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -1652,6 +2110,57 @@
     "description": "Повний ресурс про дисфорію статі, наданий охоронним руководом 1177 у Швеції, обговорюючи, що це таке, як це відчувається, як шукати допомогу та різні варіанти лікування. Він служить наданням детальної інформації для тих, хто зазнає дисфорії статі, та підтримку їх на їхньому шляху."
   },
   {
+    "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+    "slug": "chest-binding-101",
+    "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "В'язання 101: Поради щодо безпечного в'язання грудей",
+    "description": "Повне керівництво від Point of Pride, яке надає поради та ресурси по безпечному в'язанню грудей. Надає інформацію про стилі в'язання, правила безпечного в'язання та ресурси для придбання грудних в'язок. Покликаний задовольнити потреби кожного, хто бажає плоскішого вигляду грудей, з особливим акцентом на трансгендерних осіб, небінарних та гендерквірних осіб."
+  },
+  {
+    "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+    "slug": "metro-trans-umbrella-group",
+    "externalUrl": "https://www.stlmetrotrans.org/",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MO",
+    "city": "Saint Louis",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+    },
+    "title": "Metro Trans Umbrella Group",
+    "description": "Громадська організація, що базується у Сент-Луїсі, яка працює задля створення більш включного та підтримуваного співтовариства для трансгендерних особистостей. Надає послуги, як-от продуктова камера, тестування на СНІД, допомогу у зміні імені, одяг, що підтверджує стать, та щотижневі заходи для зміцнення взаємодії та роботи над рівністю."
+  },
+  {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
     "slug": "pronoun-dressing-room",
     "externalUrl": "http://www.pronouns.failedslacker.com/",
@@ -1672,6 +2181,31 @@
     "socialMedia": null,
     "title": "Роздягальня займенників",
     "description": "Роздягальня займенників надає онлайн-простір, де особи можуть протестувати та досліджувати різні набори займенників, щоб побачити, які з них їм більше підходять. Веб-сайт спрощує прийняття рішень щодо вибору займенників для трансгендерної спільноти, дозволяючи їм побачити, як різні займенники можуть виглядати в різних контекстах."
+  },
+  {
+    "id": "aac7385e-58e6-4839-be0e-b637b1021437",
+    "slug": "bradbury-sullivan-lgbt-community-center",
+    "externalUrl": "https://www.bradburysullivancenter.org/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "522 W Maple St, Allentown, PA 18101, USA",
+    "phoneNumber": "(610) 347-9988",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "latLng": [
+      40.60245,
+      -75.46774780000001
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Комунікаційний центр LGBT Bradbury-Sullivan",
+    "description": "Комунікаційний центр LGBT Bradbury-Sullivan забезпечує живий, інклюзивний простір в Лехайській долині Пенсильванії для всіх мешканців регіону LGBTQ+. Він пропонує комунікаційні програми, усуває бар'єри до охорони здоров'я через свої програми здоров'я, організовує щорічний фестиваль гордості та працює над підвищенням рівності через свій Освітній інститут LGBTQ+."
   },
   {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
@@ -1905,6 +2439,37 @@
     },
     "title": "Queer Lexikon",
     "description": "Queer Lexikon - це онлайн-ресурс, який надає обширну інформацію та підтримку для квір-спільноти. Він охоплює теми, що варіюються від сексуальної, романтичної, гендерної різноманітності до питань психічного здоров'я і груп підтримки. Це центр освіти, інформування та історій спільноти."
+  },
+  {
+    "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+    "slug": "pride-center-san-antonio",
+    "externalUrl": "https://pridecentersa.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "TX",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+      "twitterUrl": "https://twitter.com/PrideCenterSA",
+      "instagramUrl": "https://www.instagram.com/pridecentersa/"
+    },
+    "title": "Центр Гордісті Сан-Антоніо",
+    "description": "Центр Гордісті Сан-Антоніо служить спільноті лесбійок, геїв, бісексуалів, трансгендерів, людей, які вияснюють свою сексуальну орієнтацію, та союзників. Вони проводять різноманітні програми, заходи та надають ресурси, включаючи групи підтримки, терапію, тестування на ІПІН та більше. Вони прагнуть працювати в союзі з існуючими послугами в межах спільноти."
   },
   {
     "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
@@ -2228,6 +2793,29 @@
     "description": "Центр \"Східна Затока - Рада для Транс і Квір\" пропонує послуги за скальованими цінами, які включають: Індивідуальну терапію, що знаходиться в центрі Берклі, штат Каліфорнія, підтримку в процесі дослідження гендерної самоідентифікації та переходу, рекомендаційні листи для прийому гормонів і проведення операцій, професійні навчання студентам, роботодавцям та працівникам у сфері психічного здоров'я. Сем Девіс - трансгендер, що відносять себе до гендерно-квир, та ліцензований клінічний соціальний працівник (LCSW), спеціалізований на роботі з транс, квір, гендерно-квір та невизначеними за статтю підлітками та дорослими. Вони мають 16 років досвіду роботи в сфері психічного здоров'я у Східній Затоці, включаючи проведення групових занять з підтримки однолітків, спільнотна освіта на конференціях LGBTQI, та 9 років клінічної практики та кризового консультування сильно маргіналізованих людей для округу Аламеда. Вони є сильним та відданим захисником з довгою історією організації в захист маргіналізованих людей."
   },
   {
+    "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+    "slug": "lgbtq-health-services-by-cdph",
+    "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": "(916) 558-1784",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Sacramento",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Медичні послуги для LGBTQ+ від CDPH",
+    "description": "Департамент громадського здоров'я Каліфорнії (CDPH) працює зі здоров'ям усіх каліфорнійців, включаючи спільноту лесбійок, геїв, бісексуалів та трансгендерів (LGBT). Вони надають ресурси для розуміння проблем здоров'я, які найчастіше впливають на LGBT спільноту, необхідні обстеження на різних етапах життя, та інструменти для здорового способу життя."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2279,6 +2867,43 @@
     "town": "Manhattan",
     "title": "Рівність у сім’ї",
     "description": "Рівність у сім’ї - це некомерційна організація, яка присвячена захисту та підтримці сімей LGBTQ+. Вони борються за юридичний захист, надають ресурси та освіту, та активно допомагають правам LGBTQ+. Ця організація проводить різноманітні заходи та допомагає з'єднати сім'ї одна з одною та зі широкою спільнотою LGBTQ+."
+  },
+  {
+    "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+    "slug": "center-on-halsted",
+    "externalUrl": "https://www.centeronhalsted.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+    "phoneNumber": "773.472.6469",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.9488291,
+      -87.6499407
+    ],
+    "email": "mail@centeronhalsted.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+      "twitterUrl": "http://twitter.com/CenteronHalsted",
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Center on Halsted",
+    "description": "Чиказький громадський центр, присвячений розвитку спільноти лесбійок, геїв, бісексуалів, трансгендерів (ЛГБТ) та квір особистостей, за допомогою надання службових програм, подій, тренінгів і ресурсів. У тому числі служби для ІВС / СНІДу і статевих хвороб, поведінкового здоров'я, протидії насильству та спеціальних програм для молоді та пенсіонерів."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -2430,6 +3055,33 @@
     "description": "Transgendermap.com - це онлайн-ресурс, метою якого є надання практичної інформації та керівництва людям, які ставлять питання про свою гендерну ідентичність або є десь на трансгендерному спектрі. Веб-сайт включає велику кількість тем, таких як розуміння термінології трансгендерів, процеси переходу, юридичні питання, охорона здоров'я, а також численні особисті історії. Його метою є допомога людям рухатися по їх особистим маршрутам, надаючи 'карту' чи посібник до багатьох аспектів гендерної ідентичності та трансгендерного досвіду. Будь ласка, відвідайте актуальний сайт для отримання найбільш актуальної та точної інформації."
   },
   {
+    "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+    "slug": "transgender-health-program-massachusetts-general-hospital",
+    "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": "55 Fruit St, Boston, MA 02114, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3625677,
+      -71.0687661
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/massgeneral",
+      "twitterUrl": "https://www.twitter.com/massgeneral",
+      "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+    },
+    "title": "Програма здоров'я трансгендерних осіб в Генеральній госпіталі Массачусетсу",
+    "description": "Програма здоров'я трансгендерних осіб в Генеральній госпіталі Массачусетсу надає персоналізовану, актуальну та високоякісну медичну допомогу для трансгендерних осіб, молоді та осіб, що їх доглядають. Програма пропонує різні ресурси, відповіді на часті запитання та спеціалізовану команду догляду."
+  },
+  {
     "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
     "slug": "the-genderaid",
     "externalUrl": "https://genderaid.org/en",
@@ -2576,6 +3228,31 @@
     "description": "RFSL - це шведська організація, яка працює з правами LGBTQ та за них. Вони надають критично важливі ресурси, підтримку спільноти, освіту та просвіту, правову допомогу, медичні послуги та багато іншого для трансгендерної спільноти. RFSL також просуває права LGBTQ на міжнародному рівні."
   },
   {
+    "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+    "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+    "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+    "tags": [
+      "transfeminine",
+      "mental-health",
+      "youth-services",
+      "support-groups"
+    ],
+    "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+    "phoneNumber": "(773) 935-3151",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.936299,
+      -87.6448942
+    ],
+    "email": "BaylieR@howardbrown.org",
+    "socialMedia": null,
+    "title": "Група ресурсів та пропаганди для трансгендерної молоді (TYRA)",
+    "description": "TYRA - це група підтримки для трансгендерної та сумніваючоїся молоді до 24 років, щоб зустрічати людей, отримувати інформацію та отримувати підтримку від однолітків. Засідання проводяться щочетверга з 17:00 до 19:00."
+  },
+  {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
     "slug": "apotheek-all-about-medication",
     "externalUrl": "https://www.apotheek.nl/",
@@ -2594,6 +3271,65 @@
     "socialMedia": null,
     "title": "Apotheek.nl - все про ліки",
     "description": "Ресурс, що надає надійну інформацію про різноманітні медикаменти. Сайт включає відео, актуальні новини у сфері здоров'я, інформацію про вакцинацію, коронавірус та аптечний догляд. Він надає інформацію голландською мовою та перекладає 50 ключових медикаментів для українських біженців."
+  },
+  {
+    "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+    "slug": "transgender-equality-id-documents-center",
+    "externalUrl": "https://transequality.org/documents",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "latLng": [
+      38.9034383,
+      -77.03503719999999
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Центр документів щодо трансгендерної рівності",
+    "description": "Ресурс, що надає всеосяжну допомогу людям у оновленні ім'я та статі в документах державного та федерального зразка. Це включає інформацію щодо політичних оцінок для кожної держави та кроки різних процесів, включаючи оновлення паспортів, записів соціального забезпечення, військових/ветеранських записів тощо."
+  },
+  {
+    "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+    "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+    "externalUrl": "https://www.gendergp.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/gendergp",
+      "twitterUrl": "https://twitter.com/GenderGP",
+      "instagramUrl": "https://www.instagram.com/gendergp",
+      "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "GenderGP: Повноцінна підтримка для трансгендерних осіб",
+    "description": "GenderGP пропонує всеосяжний спектр послуг, що включає в себе пропагування, поради, медичне обслуговування та ряд додаткових послуг для транс людей по всьому світу. Платформа забезпечує можливість для трансгендерних осіб отримати доступ до медичного обслуговування, юридичних послуг з трансформації статі та соціальну підтримку під час переходу. За допомогою своєї цифрової платформи, доступної у всьому світі, GenderGP прагне надати можливість транс людям жити більш комфортно та автентично."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

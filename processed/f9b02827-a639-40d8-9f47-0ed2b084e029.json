@@ -1,0 +1,26 @@
+{
+  "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+  "title": "Transgender Equality ID Documents Center",
+  "description": "A comprehensive resource that helps individuals to update their name and gender on state and federal IDs and records. It provides information on policy grades for each state and steps for various processes including updating passports, social security records, military/veteran records, etc.",
+  "slug": "transgender-equality-id-documents-center",
+  "externalUrl": "https://transequality.org/documents",
+  "tags": [
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+  "phoneNumber": "(202) 642-4542",
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Washington",
+  "latLng": [
+    38.9034383,
+    -77.03503719999999
+  ],
+  "email": "ncte@transequality.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

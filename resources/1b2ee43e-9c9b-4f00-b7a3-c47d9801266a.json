@@ -1,0 +1,115 @@
+{
+  "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+  "slug": "youth-eastside-services",
+  "externalUrl": "https://www.youtheastsideservices.org/",
+  "tags": [
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources"
+  ],
+  "address": "Kirkland, WA, USA",
+  "phoneNumber": "425-747-4937",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Kirkland",
+  "county": "King County",
+  "latLng": [
+    47.6768927,
+    -122.2059833
+  ],
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+    "twitterUrl": "https://twitter.com/YouthEastside",
+    "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+    "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) is a non-profit organization that provides comprehensive mental health and substance abuse services to youth and their families, regardless of their ability to pay. Located in Washington, its services cover counseling, therapy, support for LGBTQ+ community, and various community-based programs."
+    },
+    "pt-PT": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) é uma organização sem fins lucrativos que oferece serviços abrangentes de saúde mental e abuso de substâncias para jovens e suas famílias, independentemente da sua capacidade de pagar. Localizado em Washington, seus serviços abrangem aconselhamento, terapia, apoio à comunidade LGBTQ+ e vários programas comunitários."
+    },
+    "fr-FR": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) est une organisation à but non lucratif qui fournit des services complets de santé mentale et de lutte contre l'abus de substances aux jeunes et à leurs familles, indépendamment de leur capacité à payer. Situé à Washington, ses services couvrent la consultation, la thérapie, le soutien pour la communauté LGBTQ+ et divers programmes basés dans la communauté."
+    },
+    "id-ID": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) adalah organisasi nirlaba yang menyediakan layanan kesehatan mental dan penyalahgunaan zat yang komprehensif untuk pemuda dan keluarga mereka, terlepas dari kemampuan mereka untuk membayar. Berlokasi di Washington, layanannya mencakup konseling, terapi, dukungan untuk komunitas LGBTQ+, dan berbagai program berbasis komunitas."
+    },
+    "es-ES": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) es una organización sin fines de lucro que proporciona servicios integrales de salud mental y abuso de sustancias a los jóvenes y sus familias, independientemente de su capacidad para pagar. Ubicada en Washington, sus servicios abarcan asesoramiento, terapia, apoyo para la comunidad LGBTQ+ y varios programas comunitarios."
+    },
+    "tr-TR": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) ödeme yapabilme yeteneklerine bakılmaksızın gençlere ve ailelerine kapsamlı ruh sağlığı ve madde bağımlılığı hizmetleri sağlayan kâr amacı gütmeyen bir kuruluştur. Washington'da bulunan bu hizmetler arasında danışmanlık, terapi, LGBTQ+ topluluğu için destek ve çeşitli toplum tabanlı programlar yer alır."
+    },
+    "ja-JP": {
+      "title": "ユースイーストサイドサービス",
+      "description": "ユースイーストサイドサービス（YES）は、支払能力に関係なく、青少年とその家族に包括的なメンタルヘルスと薬物乱用サービスを提供する非営利団体です。ワシントンに位置するそのサービスは、カウンセリング、セラピー、LGBTQ+コミュニティへの支援、さまざまな地域ベースのプログラムをカバーしています。"
+    },
+    "vi-VN": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) là một tổ chức phi lợi nhuận cung cấp các dịch vụ sức khỏe tâm thần và lạm dụng chất cực kỳ toàn diện cho thanh niên và gia đình họ, không phân biệt khả năng trả tiền. Tọa lạc ở Washington, các dịch vụ của nó bao gồm tư vấn, liệu pháp, hỗ trợ cho cộng đồng LGBTQ+, và các chương trình cộng đồng đa dạng."
+    },
+    "ko-KR": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services(YES)는 청소년과 그들의 가족에게 심리건강 및 약물 남용 서비스를 제공하는 비영리 단체로, 지불 능력에 관계없이 서비스를 제공합니다. 워싱턴에 위치해 있으며, 그 서비스는 상담, 치료, LGBTQ+ 커뮤니티 지원, 그리고 다양한 커뮤니티 기반 프로그램을 포함합니다."
+    },
+    "de-DE": {
+      "title": "Jugenddienste Eastside",
+      "description": "Jugenddienste Eastside (YES) ist eine gemeinnützige Organisation, die umfassende geistige Gesundheits- und Drogenmissbrauchsdienste für Jugendliche und deren Familien anbietet, unabhängig von ihrer Zahlungsfähigkeit. Sie befindet sich in Washington, und ihre Dienstleistungen umfassen Beratung, Therapie, Unterstützung für die LGBTQ+-Gemeinschaft und verschiedene gemeinschaftsbasierte Programme."
+    },
+    "sw-KE": {
+      "title": "Huduma za Vijana Eastside",
+      "description": "Huduma za Vijana Eastside (YES) ni shirika lisilo la kiserikali linalotoa huduma kamili za afya ya akili na matumizi mabaya ya dawa za kulevya kwa vijana na familia zao, bila kujali uwezo wao wa kulipa. Iko Washington, huduma zake zinajumuisha ushauri, tiba, msaada kwa jamii ya LGBTQ +, na mipango mbalimbali ya jamii."
+    },
+    "ar-SA": {
+      "العنوان": "خدمات الشباب في الجانب الشرقي",
+      "description": "تعتبر مؤسسة خدمات الشباب في الجانب الشرقي (YES) منظمة غير ربحية تقدم خدمات الصحة العقلية ومكافحة تعاطي المواد الإدمانية للشباب وأسرهم، بغض النظر عن قدرتهم على الدفع. تقع في واشنطن ، خدماتها تشمل  الارشاد النفسي، العلاج، الدعم للمجتمع LGBTQ+، وبرامج المجتمع المختلفة."
+    },
+    "ru-RU": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) - это некоммерческая организация, которая предлагает всесторонние услуги по умственному здоровью и борьбе с злоупотреблением веществ молодежи и их семьям, независимо от их способности платить за это. Расположенные в Вашингтоне, ее услуги включают консультации, терапию, поддержку для сообщества LGBTQ+ и различные программы, ориентированные на сообщество."
+    },
+    "zh-CN": {
+      "title": "东区青少年服务中心",
+      "description": "东区青少年服务中心（YES）是一个非盈利组织，为青少年及其家庭提供全面的心理健康和药物滥用服务，无论他们是否有支付能力。该中心位于华盛顿，其服务涵盖咨询，治疗，对LGBTQ+社区的支持，以及各种社区基础项目。"
+    },
+    "uk-UA": {
+      "title": "Youth Eastside Services",
+      "description": "Youth Eastside Services (YES) - це некомерційна організація, яка надає всеосяжні послуги з охорони психічного здоров'я та боротьби зі зловживанням речовин молоді та їхнім родинам, незалежно від їх здатності платити. Розташовані в Вашингтоні, їх послуги включають консультації, терапію, підтримку для громади LGBTQ + та різні програми, засновані на громадськості."
+    },
+    "mr-IN": {
+      "title": "युथ ईस्टसाइड सेवा",
+      "description": "युथ ईस्टसाइड सेवा (YES) ही एक निव्हाळसंस्था आहे जी तरुणांना व त्यांच्या कुटुंबीयांना मानसिक आरोग्य व मादक द्रव्यांच्या सेवा प्रदान करते, त्यांच्या भाराचे क्षमता असो तितकीही. वाशिंगटनमध्ये स्थित असलेल्या त्याच्या सेवांमध्ये सल्लागार, उपचार, LGBTQ+ समुदायासाठीचे समर्थन, व विविध समुदायाधारित कार्यक्रम असतात."
+    },
+    "bn-BD": {
+      "title": "ইউথ ইস্টসাইড সার্ভিসেস",
+      "description": "ইউথ ইস্টসাইড সার্ভিসেস (YES) একটি অলাভজনক প্রতিষ্ঠান যা যৌবনের মানসিক স্বাস্থ্য এবং মাদকদ্রব্য আসক্তি সেবার সম্পূর্ণ সেবা প্রদান করে, তাদের পরিশোধ করার সামর্থ্য নির্বিশেষে। ওয়াশিংটনে অবস্থিত এর সেবাগুলো পরামর্শ, চিকিৎসা, LGBTQ+ সম্প্রদায়ের জন্য সমর্থন, এবং বিভিন্ন সম্প্রদায়-ভিত্তিক প্রোগ্রাম ছাড়াও আছে।"
+    },
+    "hi-IN": {
+      "title": "युवा पूर्वी सेवाएं",
+      "description": "युवा पूर्वी सेवाएं (YES) एक गैर-लाभकारी संगठन है जो युवाओं और उनके परिवारों को उनकी चुकती की क्षमता से बेख़याली से समग्र मानसिक स्वास्थ्य और मादक पदार्थ सेवाएं प्रदान करता है। वाशिंगटन में स्थित, इसकी सेवाएं परामर्श, चिकित्सा, LGBTQ+ समुदाय के लिए समर्थन, और विभिन्न समुदाय-आधारित कार्यक्रमों को कवर करती हैं।"
+    },
+    "ur-PK": {
+      "title": "یوتھ ایسٹ سائڈ سروسز",
+      "description": "یوتھ ایسٹ سائڈ سروسز (YES) ایک غیر منافع بخش تنظیم ہے جو ذہنی صحت اور مادہ کشی سے متعلق خدمات فراہم کرتی ہے تاکہ نوجوانوں اور ان کے خاندانوں کی مدد کی جاسکے، بغیر ان کی ادائیگی کی صلاحیت پر توجہ دیں. یہ واشنگٹن میں واقع ہے، اس کی خدمات میں مشاورت، تھراپی، LGBTQ+ برادری کے لئے تعاون اور مختلف کمیونٹی بیسڈ پروگرام شامل ہیں."
+    },
+    "ta-IN": {
+      "title": "Youth Eastside Services",
+      "description": "யூத் ஈஸ்ட்சைட் சர்வீஸ் (YES) ஒரு முன்னாளைச் சமாளிப்பு நிறுவனமானது அது உள்ளடக்கி, அவர்களின் செலுத்த முடிவு அல்லது முன்வைத்திருப்பு பொருந்தாத இளைஞர்களுக்கு மற்றும் அவர்களின் குடும்பத்திற்கு கடினாய மனஅழுத்தம் மற்றும் பொருளாதார வழித்த??? சேவைகளை வழங்குகிறது. இது வாஷிங்டனில் அமைந்துள்ளது, அதன் சேவைகள் ஆலோசனை, சிகிச்சை, LGBTQ+ சமுதாயத்துக்கு ஆதரவு மற்றும் பல்வேறு சமூக அடிப்படை நிகழ்வுகளை உள்ளடக்கியுள்ளன."
+    },
+    "te-IN": {
+      "title": "యూత్ ఈస్ట్‌సైడ్ సేవలు",
+      "description": "యూత్ ఈస్ట్‌సైడ్ సేవలు (YES) ఒక లాభం లేకుండా పనిచేసే సంస్థ అంగా, యువత మరియు వారి కుటుంబాలను మానసిక ఆరోగ్య మరియు మాదక ద్రవ్యల సేవలకు వ్యాపకంగా అందిస్తుంది, ఆరోగ్య పరిశోధన, చికిత్స, LGBTQ + సంఘంకు మద్దతు, మరియు వివిధ సముదాయ ఆధారిత కార్యక్రమాల జీవనంగా ఉంచబడింది. ఇది వాషింగ్టన్లో ఉంది."
+    }
+  }
+}

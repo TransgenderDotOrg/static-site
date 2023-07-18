@@ -1,0 +1,111 @@
+{
+  "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+  "slug": "boston-alliance-of-lgbtq-youth-bagly",
+  "externalUrl": "https://www.bagly.org/",
+  "tags": [
+    "youth-services",
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "address": "28 Court Square, Boston, MA 02108, USA",
+  "phoneNumber": "(617) 227-4313",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "latLng": [
+    42.3585686,
+    -71.05938739999999
+  ],
+  "email": "mmccarron@bagly.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY is a youth-led, adult-supported organization that advocates for programs, policies and services for the LGBTQ+ youth community. It provides an array of resources and programs including healthcare services, food justice, youth leadership development, and more. BAGLY prioritizes the needs of LGBTQ+ youth of color, trans and gender non-conforming youth, and homeless LGBTQ+ youth."
+    },
+    "es-ES": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY es una organización liderada por jóvenes y apoyada por adultos que aboga por programas, políticas y servicios para la comunidad juvenil LGBTQ+. Proporciona una serie de recursos y programas que incluyen servicios de atención médica, justicia alimentaria, desarrollo de liderazgo juvenil y más. BAGLY prioriza las necesidades de los jóvenes LGBTQ+ de color, jóvenes trans y no conformes con el género, y jóvenes LGBTQ+ sin hogar."
+    },
+    "fr-FR": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY est une organisation dirigée par des jeunes et soutenue par des adultes qui plaide en faveur des programmes, des politiques et des services pour la communauté des jeunes LGBTQ+. Elle fournit un éventail de ressources et de programmes, y compris des services de santé, la justice alimentaire, le développement du leadership des jeunes, et plus encore. BAGLY donne la priorité aux besoins des jeunes LGBTQ+ de couleur, des jeunes transgenres et non-conformes en matière de genre, et des jeunes LGBTQ+ sans abri."
+    },
+    "pt-PT": {
+      "title": "Aliança de Jovens LGBTQ+ de Boston (BAGLY)",
+      "description": "BAGLY é uma organização liderada por jovens, apoiada por adultos, que defende programas, políticas e serviços para a comunidade jovem LGBTQ+. Ela fornece uma variedade de recursos e programas, incluindo serviços de saúde, justiça alimentar, desenvolvimento de liderança juvenil e mais. BAGLY prioriza as necessidades de jovens LGBTQ+ de cor, jovens trans e não conformes com o gênero, e jovens LGBTQ+ sem-teto."
+    },
+    "de-DE": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY ist eine von Jugendlichen geleitete, von Erwachsenen unterstützte Organisation, die sich für Programme, Richtlinien und Dienstleistungen für die LGBTQ+ Jugendgemeinschaft einsetzt. Sie bietet eine Reihe von Ressourcen und Programmen, einschließlich Gesundheitsdienstleistungen, Nahrungsgerechtigkeit, der Entwicklung von Jugendführung und mehr. BAGLY priorisiert die Bedürfnisse von LGBTQ+ Jugendlichen mit Migrationshintergrund, Transgender- und Geschlechtsnonkonformen Jugendlichen und obdachlosen LGBTQ+ Jugendlichen."
+    },
+    "sw-KE": {
+      "title": "Muungano wa Vijana wa LGBTQ+ wa Boston (BAGLY)",
+      "description": "BAGLY ni shirika linaloongozwa na vijana, linaungwa mkono na watu wazima ambalo linatetea mipango, sera na huduma kwa jamii ya vijana wa LGBTQ+. Inatoa rasilimali na mipango mbalimbali ikiwa ni pamoja na huduma za afya, haki ya chakula, maendeleo ya uongozi wa vijana, na zaidi. BAGLY inapendelea mahitaji ya vijana wa LGBTQ+ wa rangi, vijana wasiofuata jinsia na wale ambao hawana makazi."
+    },
+    "id-ID": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY adalah organisasi yang dipimpin oleh anak muda dan didukung oleh dewasa yang menganjurkan program, kebijakan, dan layanan untuk komunitas pemuda LGBTQ+. Organisasi ini menyediakan berbagai sumber daya dan program termasuk layanan kesehatan, keadilan pangan, pengembangan kepemimpinan anak muda, dan masih banyak lagi. BAGLY memberi prioritas pada kebutuhan pemuda LGBTQ+ berkulit berwarna, pemuda trans dan yang tidak sesuai dengan gender, dan pemuda LGBTQ+ tunawisma."
+    },
+    "ko-KR": {
+      "title": "보스턴 LGBTQ+ 청소년 연합 (BAGLY)",
+      "description": "BAGLY는 청소년이 주도하고 어른이 지원하는 조직으로, LGBTQ+ 청소년 커뮤니티를 위한 프로그램, 정책, 서비스를 주장합니다. 건강 관리 서비스, 식품 공정, 청소년 리더십 개발 등 다양한 자원과 프로그램을 제공합니다. BAGLY는 컬러 인종의 LGBTQ+ 청소년, 트랜스와 성별 비준수 청소년, 그리고 노숙 LGBTQ+ 청소년의 필요를 우선시합니다."
+    },
+    "vi-VN": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY là một tổ chức do thanh niên dẫn dắt, được người lớn hỗ trợ, nhằm đấu tranh cho các chương trình, chính sách và dịch vụ dành cho cộng đồng thanh niên LGBTQ+. BAGLY cung cấp một loạt các nguồn lực và chương trình bao gồm dịch vụ y tế, công lý về thực phẩm, phát triển lãnh đạo thanh niên, và nhiều hơn nữa. BAGLY ưu tiên nhu cầu của thanh niên LGBTQ+ màu sắc, thanh niên chuyển giới và không xác định giới tính, và thanh niên LGBTQ+ không có nhà."
+    },
+    "ja-JP": {
+      "title": "ボストンLGBTQ+青年連盟 (BAGLY)",
+      "description": "BAGLYは青年主導、大人が支援する組織で、LGBTQ+の若者コミュニティ向けのプログラム、政策、サービスを支持します。保健サービス、食の公正、青年リーダーシップの発展など、さまざまなリソースとプログラムを提供しています。BAGLYは、LGBTQ+の色彩のある青年、トランスとジェンダー非適合青年、そしてホームレスのLGBTQ+青年のニーズを優先します。"
+    },
+    "zh-CN": {
+      "title": "波士顿LGBTQ+青少年联盟（BAGLY）",
+      "description": "BAGLY是一个由青少年领导，成人支持的组织，倡导为LGBTQ+青少年社区提供的程序、政策和服务。它提供了一系列的资源和项目，包括医疗服务，食品公正，青年领导力发展等等。BAGLY优先考虑LGBTQ+有色青年，转性别和性别不合规范的青年，以及无家可归的LGBTQ+青年的需求。"
+    },
+    "tr-TR": {
+      "title": "Boston Eşcinsel, Lezbiyen, Biseksüel, Trans ve Queer+ Gençlik Birliği (BAGLY)",
+      "description": "BAGLY, LGBTQ+ gençlik topluluğu için programlar, politikalar ve hizmetler savunan genç liderliği, yetişkin destekli bir organizasyondur. Sağlık hizmetleri, gıda adaleti, gençlik liderliği geliştirme ve daha fazlası dahil olmak üzere bir dizi kaynak ve program sağlar. BAGLY, renkli LGBTQ+ gençlerin, trans ve cinsiyet uyumsuz gençlerin ve evsiz LGBTQ+ gençlerin ihtiyaçlarını önceliklendirir."
+    },
+    "ru-RU": {
+      "title": "Бостонский альянс молодежи ЛГБТК+ (BAGLY)",
+      "description": "BAGLY - это организация, которую возглавляют молодые люди и поддерживают взрослые, и которая пропагандирует программы, политики и услуги для молодежного сообщества ЛГБТК+. Оно предоставляет целый ряд ресурсов и программ, включая услуги здравоохранения, справедливость в области питания, развитие молодежного лирования и многое другое. BAGLY отдает приоритет потребностям ЛГБТК+ молодежи цветного происхождения, трансгендеров и молодежи, не подчиняющейся гендерным нормам, а также бездомной молодежи ЛГБТК+."
+    },
+    "uk-UA": {
+      "title": "Бостонський альянс молоді ЛГБТК+ (BAGLY)",
+      "description": "BAGLY це молодіжна організація, яка отримує підтримку дорослих і прагне до впливу на програми, політику та послуги для молодіжної громади ЛГБТК+. Вона надає цілий ряд ресурсів і програм, включаючи медичні послуги, продовольчу справедливість, розвиток молодіжного лідерства та багато іншого. BAGLY пріоритизує потреби лгбтк+ молоді кольорових осіб, трансгендерної та осіб, що не вписуються в загальноприйняті гендерні норми, а також бездомних молодих людей ЛГБТК+."
+    },
+    "ar-SA": {
+      "title": "تحالف بوسطن للشباب اللذين ينتمون للمجموعات الجنسية والجنسانية المتنوعة (BAGLY)",
+      "description": "BAGLY هي منظمة يقودها الشباب ويدعمها الكبار وتدافع عن البرامج والسياسات والخدمات الموجهة للشباب ضمن مجتمع المجموعات الجنسية والجنسانية المتنوعة. وهي تقدم مجموعة متنوعة من الموارد والبرامج تشمل خدمات الرعاية الصحية، والعدالة الغذائية، وتطوير القيادة بين الشباب، وأكثر من ذلك. يعتبر BAGLY إحتياجات الشباب الذين ينتمون للمجموعات الجنسية والجنسانية المتنوعة من الألوان، والشباب غير المتماشيين مع الجنسين التقليديين، والشباب المشردين الذين ينتمون للمجموعات الجنسية والجنسانية المتنوعة كأولوية."
+    },
+    "hi-IN": {
+      "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+      "description": "BAGLY एक युवा-नेतृत्व वाली, वयस्क-समर्थित संगठन है जो LGBTQ+ युवा समुदाय के कार्यक्रमों, नीतियों और सेवाओं के पक्ष में वकालत करती है। इसमें स्वास्थ्य सेवाएं, खाद्य न्याय, युवा नेतृत्व विकास, और बहुत कुछ समेत विभिन्न संसाधनों और कार्यक्रमों की व्यवस्था होती है। BAGLY LGBTQ+ के रंगबिरंगी युवाओं, लिंग परिवर्तनशील तथा लिंग अस्वीकार करने वाले युवाओं, और घर बिहीन LGBTQ+ युवाओं की जरूरतों को प्राथमिकता देती है।"
+    },
+    "mr-IN": {
+      "title": "बॉस्टन एलजीबीटीक्यू+ युवक संघटना (BAGLY)",
+      "description": "BAGLY ही एक युवा-नेतृत्वीन, प्रौढांनी समर्थित संघटना आहे जी LGBTQ+ युवांसाठी योजना, धोरणे आणि सेवा उपलब्ध करून त्यांच्या पक्षातील वक्तव्य करिता उत्पीडन करते. ती आरोग्य सेवांसमोरच्या असेलेल्या संसाधनांची, अन्न न्यायाची, युवा नेतृत्व विकासाची आणि अधिक प्रकारच्या कार्यक्रमांची संधाणी प्रदान करते. BAGLY ला LGBTQ+ रंगबिरंगी, ट्रांस आणि लिंग-अणॅक्षम युवांची, आणि मजलेल्या LGBTQ+ युवांची गरजा आहेत."
+    },
+    "ur-PK": {
+      "title": "بوسٹن الائنس آف لیسبین، گے، بائسیکشل، ٹرانسجینڈر، کیویر یوتھ (BAGLY)",
+      "description": "BAGLY ایک نوجوانان کی رہنمائی والی، بالغوں کی تائید کی تنظیم ہے جو لیسبین، گے، بائسیکشل، ٹرانسجینڈر، کیویر+ یوتھ کمیونٹی کے لئے پروگرامز، پالیسیوں اور خدمات کی حمایت کرتی ہے. یہ صحت کی خدمات، غذائی انصاف، نوجوانان کی قیادت کی تربیت، اور بہت کچھ علاوہ نما کرتا ہے. BAGLY لیسبین، گے، بائسیکشل، ٹرانسجینڈر، کیویر+ نوجوانوں کی ضروریات کو ترجیح دیتی ہے جو رنگین نوجوان ہے، ٹرانس اور جنسی غیر مطابقتی نوجوان، اور بے گھر لیسبین، گے، بائسیکشل، ٹرانسجینڈر، کیویر + یوتھ."
+    },
+    "bn-BD": {
+      "title": "বস্টন অ্যালায়েন্স অফ এলজিবিটিকিউ+ ইউথ (ব্যাগলি)",
+      "description": "ব্যাগলি হ'ল একটি যুবক-নেতৃত্বাধীন, প্রাপ্তবয়স্কদের সমর্থিত সংস্থা যা এলজিবিটিকিউ+ যুবক সম্প্রদায়ের জন্য কর্মসূচি, নীতি এবং সেবা উপস্থাপনের পক্ষে সমর্থন করে। এটি স্বাস্থ্য সেবা, খাদ্য ন্যায়বিচার, যুব নেতৃত্ব বিকাশ এবং আরও অনেক কিছু অন্তর্ভুক্ত গুনগণময় সংস্থান এবং কর্মসূচি সরবরাহ করে। ব্যাগলি এলজিবিটিকিউ+ বর্ণবিচ্ছেদী যুবক, ট্রান্স এবং লিঙ্গ অসংগতিপূর্ণ যুবক, এবং হোমলেস এলজিবিটিকিউ+ যুবকের প্রয়োজনীয়তা অগ্রাধিকার দেয়।"
+    },
+    "ta-IN": {
+      "title": "பாஸ்டன் அலையன்ஸ் ஆஃப் எல்ஜிபிகியூ+ யூத் (பிஏஜிஏல்வை)",
+      "description": "BAGLY என்பது இளைஞர்கள் மேலாண்மையாளர்கள் ஆதரித்த அமைப்பு ஆகும், இது எல்ஜிபிகியூ+ இளைஞர் சமுதாயத்தின் திட்டங்களுக்கு, கொள்கைகளுக்கு மற்றும் சேவைகளுக்கு மேப்பாளர்களாக உள்ளன. இது சுகாதார சேவைகள், உணவு நீதி, இளைஞர் தலைவர்த்திகாணுதல் மேம்பாடு, மேலும் மேலும் என்று பல்வேறு வளங்கள் மற்றும் திட்டங்களை வழங்குகிறது. BAGLY, நிறத்திர எல்ஜிபிகியூ+ இளைஞர்கள், பாலின் மற்றும் பாலின் மின்னணு சேர்ந்த இளைஞர்கள், மற்றும் வீடு இல்லாத எல்ஜிபிகியூ+ இளைஞர்களின் தேவைகளை முதன்முதலில் கொள்ளுகிறது."
+    },
+    "te-IN": {
+      "title": "బోస్టన్ అలైయన్స్ ఆఫ్ LGBTQ+ యూత్ (BAGLY)",
+      "description": "BAGLY అనేది యూత్-నేతృత్వపడిన, వయోజనఃపోషించిన సంస్థ మరియు దీని లక్ష్యంగా LGBTQ+ యువజన సముదాయానికి ప్రోగ్రామ్లు, విధానాలు మరియు సేవల కోసం పోరాటాను చేస్తుంది. ఇది ఆరోగ్య సేవలు, ఆహార న్యాయం, యూత్ నాయకత్వ అభివృద్ధి, మరిన్ని ముందుగానే ప్రోగ్రామ్లు మరియు సంసాధనాలను అందిస్తుంది. BAGLY LGBTQ+ యువజనంలో రంగుబాలులు, మార్పు మరియు లింగాన్ని అభిన్నంగా చూసిన యువజన, మరియు ఆశ్రయస్థానం లేని LGBTQ+ యువజనం కోసం ప్రాధాన్యతను ఇస్తుంది."
+    }
+  }
+}

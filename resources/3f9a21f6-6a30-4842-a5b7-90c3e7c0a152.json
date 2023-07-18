@@ -1,0 +1,106 @@
+{
+  "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+  "slug": "personalized-pronoun-dressing-room",
+  "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+  "tags": [
+    "non-binary",
+    "transmasculine",
+    "transfeminine",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Personalized Pronoun Dressing Room",
+      "description": "This interactive resource provides examples of various pronoun sets used in context. It's customizable with any name you'd like, which aids in the exploration and understanding of personal pronouns. This tool is useful to the transgender community, especially to those who are exploring new pronouns or educating others on pronoun use."
+    },
+    "es-ES": {
+      "title": "Vestidor de Pronombres Personalizados",
+      "description": "Este recurso interactivo proporciona ejemplos de varios conjuntos de pronombres utilizados en contexto. Es personalizable con cualquier nombre que desees, lo que ayuda en la exploración y comprensión de los pronombres personales. Esta herramienta es útil para la comunidad transgénero, especialmente para aquellos que están explorando nuevos pronombres o educando a otros sobre el uso de pronombres."
+    },
+    "pt-PT": {
+      "title": "Vestuário Personalizado de Pronomes",
+      "description": "Este recurso interativo fornece exemplos de vários conjuntos de pronomes usados no contexto. É personalizável com qualquer nome que você queira, o que ajuda na exploração e compreensão de pronomes pessoais. Esta ferramenta é útil para a comunidade transgênero, especialmente para aqueles que estão explorando novos pronomes ou educando outros sobre o uso de pronomes."
+    },
+    "fr-FR": {
+      "title": "Vestiaire des pronoms personnalisés",
+      "description": "Cette ressource interactive fournit des exemples de différents ensembles de pronoms utilisés en contexte. Elle est personnalisable avec n'importe quel nom que vous souhaitez, ce qui aide à l'exploration et à la compréhension des pronoms personnels. Cet outil est utile à la communauté transgenre, en particulier à ceux qui explorent de nouveaux pronoms ou qui éduquent les autres sur l'utilisation des pronoms."
+    },
+    "de-DE": {
+      "title": "Personalisierte Pronom Dressing Room",
+      "description": "Diese interaktive Ressource bietet Beispiele für verschiedene Pronom-Sätze, die im Zusammenhang verwendet werden. Es ist anpassbar mit jedem Namen, den Sie möchten, der bei der Erforschung und dem Verständnis von Personalpronomen hilft. Dieses Tool ist nützlich für die Transgender-Gemeinschaft, insbesondere für diejenigen, die neue Pronomen erkunden oder andere über die Verwendung von Pronomen aufklären."
+    },
+    "id-ID": {
+      "title": "Ruang Ganti Kata Ganti Personalisasi",
+      "description": "Sumber daya interaktif ini memberikan contoh dari berbagai set kata ganti yang digunakan dalam konteks. Ini dapat disesuaikan dengan nama apa pun yang Anda inginkan, yang membantu dalam eksplorasi dan pemahaman kata ganti pribadi. Alat ini bermanfaat bagi komunitas transgender, terutama bagi mereka yang sedang mengeksplorasi kata ganti baru atau mendidik orang lain tentang penggunaan kata ganti."
+    },
+    "zh-CN": {
+      "title": "个性化代词更衣室",
+      "description": "这个互动资源提供在上下文中使用各种代词集的例子。您可以使用您喜欢的任何名称来自定义它，这有助于探索和理解个人代词。这个工具对变性人群非常有用，特别是对那些正在探索新代词或者教育他人如何使用代词的人。"
+    },
+    "tr-TR": {
+      "title": "Kişiye Özel Zamir Giyinme Odası",
+      "description": "Bu etkileşimli kaynak, çeşitli zamir setlerinin bağlamda nasıl kullanıldığına dair örnekler sunar. İstediğiniz herhangi bir isimle özelleştirilebilir, bu da kişisel zamirlerin keşfi ve anlaşılmasına yardımcı olur. Bu araç, özellikle yeni zamirler keşfeden veya başkalarına zamir kullanımını öğreten trans topluluğu için yararlıdır."
+    },
+    "ko-KR": {
+      "title": "개인화된 대명사 드레싱 룸",
+      "description": "이 인터랙티브한 자료는 다양한 대명사 세트가 본문에서 어떻게 사용되는지 예시를 제공합니다. 원하는 어떤 이름과도 커스터마이징 할 수 있어, 개인 대명사에 대한 탐색과 이해에 도움이 됩니다. 이 도구는 트랜스젠더 커뮤니티에게 유용하며, 새로운 대명사를 탐색하거나 대명사 사용에 대해 다른 이에게 교육하기 위한 사람들에게 특히 유용합니다."
+    },
+    "ru-RU": {
+      "title": "Персонализированная примерка местоимений",
+      "description": "Этот интерактивный ресурс предоставляет примеры использования различных наборов местоимений в контексте. Он настраивается на любое имя, которое вы хотите, что помогает в исследовании и понимании личных местоимений. Этот инструмент полезен для трансгендерного сообщества, особенно для тех, кто исследует новые местоимения или обучает других использованию местоимений."
+    },
+    "sw-KE": {
+      "title": "Chumba cha Kujibadilisha Majina Binafsi",
+      "description": "Rasilimali hii inayoweza kubadilishwa inatoa mifano ya seti mbalimbali za majina binafsi yanayotumika katika muktadha. Inaweza kubinafsishwa na jina lolote utakalo, ambalo linafanikisha katika uchunguzi na ufahamu wa matumizi ya majina binafsi. Zana hii ni muhimu kwa jamii ya watu wanaobadilisha jinsia zao, haswa kwa wale wanaochunguza majina mapya binafsi au kuwafundisha wengine matumizi ya majina hayo."
+    },
+    "ja-JP": {
+      "title": "パーソナライズド代名詞ドレッシングルーム",
+      "description": "このインタラクティブなリソースは、コンテキストで使用されるさまざまな代名詞セットの例を提供します。お好きな名前でカスタマイズ可能で、個人の代名詞の探求と理解を手助けします。このツールはトランスジェンダーのコミュニティに有用で、特に新しい代名詞の探求や他人への代名詞使用の教育に役立ちます。"
+    },
+    "vi-VN": {
+      "title": "Phòng Thử Thẩm Quyền",
+      "description": "Tài nguyên tương tác này cung cấp các ví dụ về các bộ đại từ được sử dụng trong ngữ cảnh khác nhau. Nó có thể tùy chỉnh với bất kỳ tên nào bạn muốn, điều này hỗ trợ trong việc khám phá và hiểu về các đại từ cá nhân. Công cụ này hữu ích cho cộng đồng người chuyển giới, đặc biệt đối với những người đang khám phá đại từ mới hoặc giáo dục người khác về việc sử dụng đại từ."
+    },
+    "ar-SA": {
+      "title": "غرفة تغيير الضمائر الشخصية",
+      "description": "يوفر هذا المورد التفاعلي أمثلة لمجموعات الضمائر المختلفة المستخدمة في السياق. الأمر الذي يمكن تخصيصه مع أي اسم تريده، يساعد في استكشاف وفهم الضمائر الشخصية. هذه الأداة مفيدة للمجتمع المتحول جنسيًا، خاصة لأولئك الذين يت探ون الضمائر الجديدة أو يعلمون الآخرين على استخدام الضمير."
+    },
+    "uk-UA": {
+      "title": "Персоналізована Роздягальня Займенників",
+      "description": "Цей інтерактивний ресурс надає приклади різних наборів займенників, використаних в контексті. Він є налаштовуваним за будь-яким ім'ям, яке ви хотіли б, що сприяє дослідженню та розумінню особистих займенників. Цей інструмент є корисним для трансгендерної спільноти, особливо для тих, хто досліджує нові займенники або освітлює інших використанні займенників."
+    },
+    "ur-PK": {
+      "title": "شخصیت سے متعلق ضمیری تیاری دار الٹی",
+      "description": "یہ تشویشی وسائل مختلف ضمیر سیٹوں کی متن میں استعمال ہونے والی مثالیں فراہم کرتا ہے۔ یہ کسی بھی نام کے ساتھ تنسیخ پذیر ہے، جو شخصی ضمیرات کی تلاش اور تفہیم میں مددگار ہے۔ یہ اوزار خصوصاً خود کو نئے ضمیرات کی تلاش یا دیگر کو ضمیر کی استعمال پر تعلیم دے رہے ہیں، کے لئے خود کو بدلنے والے برادری کے لئے مفید ہے۔"
+    },
+    "hi-IN": {
+      "title": "व्यक्तिगत सर्वनाम ड्रेसिंग रूम",
+      "description": "यह इंटरैक्टिव संसाधन प्रसंग में उपयोग किए जाने वाले विभिन्न सर्वनाम सेट के उदाहरण प्रदान करता है। इसे आपके पसंद के किसी भी नाम के साथ अनुकूलित किया जा सकता है, जो व्यक्तिगत सर्वनामों की खोज और समझ में मदद करता है। यह उपकरण ट्रांसजेंडर समुदाय के लिए उपयोगी है, विशेष रूप से उनके लिए जो नए सर्वनामों की खोज कर रहे हैं या दूसरों को सर्वनाम के उपयोग पर शिक्षित कर रहे हैं।"
+    },
+    "bn-BD": {
+      "title": "নিজস্ব সর্বনাম পরিচ্ছদ ঘর",
+      "description": "এই ইন্টারেক্টিভ সংস্থানে বিভিন্ন সর্বনাম সেট যা প্রসংগে ব্যবহৃত হয় তার উদাহরণ প্রদান করা হয়। এটি আপনার পছন্দের যে কোনও নাম নিয়ে কাস্টমাইজ করা যায়, যা ব্যক্তিগত সর্বনামের অন্বেষণ এবং বোঝার ক্ষেত্রে সাহায্য করে। এই সরঞ্জামটি ট্রান্সজেন্ডার সম্প্রদায়ের জন্য উপযুক্ত, বিশেষ করে যারা নতুন সর্বনাম অন্বেষণ করছেন বা অন্যদের সর্বনাম ব্যবহারে শিক্ষা দিচ্ছেন।"
+    },
+    "mr-IN": {
+      "title": "वैयक्तिक सर्वनाम कपड्यांची तयारीची खोली",
+      "description": "हे इंटरॅक्टिव संसाधन विशिष्ट सर्वनामांच्या संचाचे उदाहरण प्रदान करते. यात आपण कोणतेही नाव देऊ शकता, ज्यामुळे वैयक्तिक सर्वनामांची शोध व समजून घेणे सहज होते. हे साधन ट्रान्सजेंडर समाजातील लोकांसाठी उपयोगी आहे, विशेषतः त्यांना ज्यांनी नवीन सर्वनामांचे अन्वेषण किंवा अन्यांना सर्वनामांची वापर शिकविण्याची प्रयत्न केलेल्या."
+    },
+    "ta-IN": {
+      "title": "தனிப்பட்ட பிரதிப் பேரிடத்தக்க அலங்காரக் கொண்டாட்டக் கோணம்",
+      "description": "இந்த சேர்ந்த வளம் சூழலில் பயன்படுத்தப்படும் பல்வேறு பிரதிப் பேச்சைக் கொண்ட எடுத்துக்காட்டுகளை வழங்குகின்றது. இது நீங்கள் விரும்பும் எந்த பெயரினையும் மாற்றவும் முடியும் ஒவ்வொரு வகையான பிரதிப் பேச்சையும் ஆராய்வதற்கும், அறிவிவதற்கும் உதவி செய்கின்றது. இந்த கருவி மிகவும் பயனுள்ளது தனிக்கோட்பாடுகளை ஆராயும் ஆண்டிய மக்களுக்கு, குறிப்பாக புதிய பிரதிப் சொற்களை ஆராயும் அல்லது மற்றவர்களுக்கு பிரதிப் சொற்களை பயிற்சிப்படுத்தும் மக்களுக்கு."
+    },
+    "te-IN": {
+      "title": "వ్యక్తిగత ప్రానౌన్ డ్రెసింగ్ రూమ్",
+      "description": "ఈ సంవాదీ సమ్పద సందర్భానికి వాడే వివిధ ప్రానౌన్ జతుల ఉదాహరణలను అందిస్తుంది. మీరు ఇష్టపడే ఏ పేరైనా దీనికి కస్టమైజ్ చేయగలరు, ఇది వ్యక్తిగత ప్రానౌన్ల అన్వేషణ మరియు అర్థం చేకూర్చడానికి సహాయపడుతుంది. ఈ సాధనం ట్రాన్స్జెండర్ సముదాయానికి ఉపయోగకరంగా ఉంటుంది, ప్రత్యేకంగా కొత్త ప్రానౌన్లను అన్వేషిస్తున్నవారికి లేదా ప్రానౌన్ వాడకం పైన ఇతరులను విద్యావంతురచేయడానికి."
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+  "slug": "transgender-health-program-massachusetts-general-hospital",
+  "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "address": "55 Fruit St, Boston, MA 02114, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "latLng": [
+    42.3625677,
+    -71.0687661
+  ],
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/massgeneral",
+    "twitterUrl": "https://www.twitter.com/massgeneral",
+    "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Health Program at Massachusetts General Hospital",
+      "description": "The Transgender Health Program at Massachusetts General Hospital provides personalized, up to date and high quality medical care for transgender individuals, youth, and caregivers. The program offers various resources, answers to frequently asked questions, and a specialized care team."
+    },
+    "es-ES": {
+      "title": "Programa de Salud Transgénero en el Hospital General de Massachusetts",
+      "description": "El Programa de Salud Transgénero en el Hospital General de Massachusetts proporciona atención médica personalizada, actualizada y de alta calidad para individuos transgénero, jóvenes y cuidadores. El programa ofrece varios recursos, respuestas a preguntas frecuentemente hechas, y un equipo de atención especializada."
+    },
+    "tr-TR": {
+      "title": "Massachusetts General Hastanesi'nde Transgender Sağlık Programı",
+      "description": "Massachusetts General Hastanesi'ndeki Transgender Sağlık Programı, transgender bireylere, gençlere ve bakım sağlayıcılara kişiselleştirilmiş, güncel ve yüksek kaliteli tıbbi bakım sağlar. Program, çeşitli kaynaklar, sıkça sorulan sorulara yanıtlar ve uzmanlaşmış bir bakım ekibi sunar."
+    },
+    "id-ID": {
+      "title": "Program Kesehatan Transgender di Rumah Sakit Umum Massachusetts",
+      "description": "Program Kesehatan Transgender di Rumah Sakit Umum Massachusetts menyediakan perawatan medis yang personal, terkini, dan berkualitas tinggi untuk individu transgender, remaja, dan pengasuh. Program ini menawarkan berbagai sumber daya, jawaban atas pertanyaan yang sering diajukan, dan tim perawatan khusus."
+    },
+    "fr-FR": {
+      "title": "Programme de Santé Transgenre à l'Hôpital général du Massachusetts",
+      "description": "Le Programme de Santé Transgenre à l'Hôpital général du Massachusetts fournit des soins médicaux personnalisés, à jour et de haute qualité pour les individus transgenres, les jeunes et les soignants. Le programme propose diverses ressources, des réponses aux questions fréquemment posées et une équipe de soins spécialisée."
+    },
+    "de-DE": {
+      "title": "Transgender-Gesundheitsprogramm im Massachusetts General Hospital",
+      "description": "Das Transgender-Gesundheitsprogramm im Massachusetts General Hospital bietet personalisierte, aktuelle und hochwertige medizinische Versorgung für Transgender-Personen, Jugendliche und Pflegepersonen. Das Programm bietet verschiedene Ressourcen, Antworten auf häufig gestellte Fragen und ein spezialisiertes Betreuungsteam."
+    },
+    "pt-PT": {
+      "title": "Programa de Saúde Transgênero no Massachusetts General Hospital",
+      "description": "O Programa de Saúde Transgênero no Massachusetts General Hospital fornece atendimento médico personalizado, atualizado e de alta qualidade para indivíduos transgêneros, jovens e cuidadores. O programa oferece vários recursos, respostas a perguntas frequentes e uma equipe de atendimento especializada."
+    },
+    "zh-CN": {
+      "title": "马萨诸塞州综合医院的跨性别健康项目",
+      "description": "马萨诸塞州综合医院的跨性别健康项目为跨性别个体、青少年及其护理人员提供个性化、最新、高质量的医疗护理。该项目提供各种资源，解答常见问题，并有专门的护理团队。"
+    },
+    "sw-KE": {
+      "title": "Mpango wa Afya ya Transjinsia katika Hospitali Kuu ya Massachusetts",
+      "description": "Mpango wa Afya ya Transjinsia katika Hospitali Kuu ya Massachusetts hutoa huduma ya matibabu inayolingana, iliyosasishwa na ya hali ya juu kwa watu wa transjinsia, vijana, na walezi. Mpango huo unatoa rasilimali mbalimbali, majibu ya maswali yanayoulizwa mara kwa mara, na timu maalum ya huduma."
+    },
+    "vi-VN": {
+      "title": "Chương trình Sức khỏe cho Người chuyển giới tại Bệnh viện Tổng hợp Massachusetts",
+      "description": "Chương trình Sức khỏe cho Người chuyển giới tại Bệnh viện Tổng hợp Massachusetts cung cấp dịch vụ chăm sóc y tế cá nhân hóa, cập nhật và chất lượng cao cho các cá nhân chuyển giới, thanh thiếu niên, và người chăm sóc. Chương trình cung cấp nhiều nguồn lực khác nhau, trả lời các câu hỏi thường gặp, và một đội ngũ chăm sóc chuyên biệt."
+    },
+    "ja-JP": {
+      "title": "マサチューセッツ総合病院のトランスジェンダー健康プログラム",
+      "description": "マサチューセッツ総合病院のトランスジェンダー健康プログラムは、トランスジェンダーの個々の人々、若者たち、そしてケアギバーのために、パーソナライズされた最新の高品質な医療ケアを提供します。このプログラムは、さまざまなリソースや、よくある質問への回答、専門のケアチームを提供しています。"
+    },
+    "ko-KR": {
+      "title": "매사추세츠 일반 병원의 트랜스젠더 건강 프로그램",
+      "description": "매사추세츠 일반 병원의 트랜스젠더 건강 프로그램은 트랜스젠더 개인, 청소년, 그리고 보호자들을 위한 개인화되고 최신, 고품질의 의료 서비스를 제공합니다. 이 프로그램은 다양한 자원, 자주 묻는 질문에 대한 답변, 및 전문 치료 팀을 제공합니다."
+    },
+    "uk-UA": {
+      "title": "Програма здоров'я трансгендерних осіб в Генеральній госпіталі Массачусетсу",
+      "description": "Програма здоров'я трансгендерних осіб в Генеральній госпіталі Массачусетсу надає персоналізовану, актуальну та високоякісну медичну допомогу для трансгендерних осіб, молоді та осіб, що їх доглядають. Програма пропонує різні ресурси, відповіді на часті запитання та спеціалізовану команду догляду."
+    },
+    "ru-RU": {
+      "title": "Программа по здравоохранению трансгендерных людей в Массачусетской общей больнице",
+      "description": "Программа по здравоохранению трансгендерных людей в Массачусетской общей больнице предлагает индивидуальный, актуальный и высококачественный медицинский уход для трансгендерных людей, молодежи и лиц, заботящихся о них. Программа предлагает различные ресурсы, ответы на часто задаваемые вопросы, а также команду специалистов по уходу."
+    },
+    "ar-SA": {
+      "title": "برنامج الصحة للأشخاص المتحولين جنسياً في مستشفى ماساتشوستس العام",
+      "description": "يقدم برنامج الصحة للأشخاص المتحولين جنسياً في مستشفى ماساتشوستس العام الرعاية الطبية الشخصية، المحدثة وعالية الجودة لأفراد المتحولين جنسياً، والشباب، ومقدمي الرعاية. يقدم البرنامج مختلف الموارد، الأجوبة على الأسئلة الشائعة، وفريق رعاية متخصص."
+    },
+    "ur-PK": {
+      "title": "میساچوسٹس جنرل ہسپتال میں ٹرانسجینڈر صحت کا پروگرام",
+      "description": "میساچوسٹس جنرل ہسپتال میں ٹرانسجینڈر صحت کا پروگرام ٹرانسجینڈر افراد، نوجوانوں اور کیئر گیورز کے لئے شخصی طور پر، بازوبست اور معیاری طبی خیازہا فراہم کرتا ہے. پروگرام مختلف وسائل، اکثر پوچھے گئے سوالات کے جوابات، اور ایک متخصص خیازہ ٹیم کی پیشکش کرتا ہے."
+    },
+    "bn-BD": {
+      "title": "ম্যাসাচুসেটস জেনারেল হাসপাতালের ট্রান্সজেন্ডার স্বাস্থ্য কর্মসূচি",
+      "description": "ম্যাসাচুসেটস জেনারেল হাসপাতালের ট্রান্সজেন্ডার স্বাস্থ্য কর্মসূচিটি ট্রান্সজেন্ডার ব্যক্তি, যুবক, এবং সহায়তাকারীদের জন্য ব্যক্তিগত, আপ টু ডেট এবং উচ্চ মানের মেডিকেল সেবা সরবরাহ করে। এই কর্মসূচি বিভিন্ন সম্পদসমূহ, সচরাচর জিজ্ঞাস্য প্রশ্নসমূহের উত্তর, এবং একটি বিশেষজ্ঞ সেবা দল অফার করে।"
+    },
+    "mr-IN": {
+      "title": "मिसिसॅच्युसेट्स जनरल हॉस्पिटलमध्ये ट्रान्झॅन्डर हेल्थ प्रोग्राम",
+      "description": "मिसिसॅच्युसेट्स जनरल हॉस्पिटलमध्ये ट्रान्झॅन्डर हेल्थ प्रोग्राम म्हणजे ट्रान्झेंडर व्यक्ती, तरुणांना आणि केअरगीवर्सना वैयक्तिकृत, अद्ययावत आणि उच्च गुणवत्ता असलेली वैद्यकीय देखभाल प्रदान करणारी प्रकल्प. ह्या प्रकल्पात विविध संसाधन, वारंवार विचारले जाणारे प्रश्न आणि विशेषज्ञ देखभालाची टीम दिलेली आहे."
+    },
+    "hi-IN": {
+      "title": "मैसाचुसेट्स जनरल हॉस्पिटल में ट्रांसजेंडर स्वास्थ्य कार्यक्रम",
+      "description": "मैसाचुसेट्स जनरल हॉस्पिटल में ट्रांसजेंडर स्वास्थ्य कार्यक्रम ट्रांसजेंडर व्यक्तियों, युवाओं और केयरगिवर्स के लिए व्यक्तिगत रूप से, अद्यतित और उच्च गुणवत्ता वाली चिकित्सा देखभाल प्रदान करता है। कार्यक्रम विभिन्न संसाधन, अक्सर पूछे जाने वाले प्रश्नों के उत्तर और एक विशेषज्ञ देखभाल टीम प्रदान करता है।"
+    },
+    "te-IN": {
+      "title": "మాసాచుసెట్స్ జనరల్ ఆసుపత్రిలో ట్రాన్స్జెండర్ ఆరోగ్య ప్రోగ్రాం",
+      "description": "మాసాచుసెట్స్ జనరల్ ఆసుపత్రిలోని ట్రాన్స్జెండర్ ఆరోగ్య ప్రోగ్రాం ట్రాన్స్జెండర్ వ్యక్తులు, యువత, కేర్ గివర్లను ఉద్దేశించిన వ్యక్తిగత, తాజాగా మరియు అత్యుత్తమ వైద్య సేవలను అందిస్తుంది. ఈ ప్రోగ్రాం వివిధ వనరులు, తరచుగా అడుగునే ప్రశ్నలకు సమాధానాలు మరియు యాదృిచ్ఛిక పరిచర్య జట్టును అందిస్తుంది."
+    },
+    "ta-IN": {
+      "title": "மாசசூசெட்ஸ் பொது மருத்துவமனையில் மையமான ஆரோக்கிய நிகழ்வு",
+      "description": "மாசசூசெட்ஸ் பொது மருத்துவமனையில் உள்ள மையமான ஆரோக்கிய நிகழ்வு மையமானவர்கள், இளம் வயதினர், மற்றும் பராமரிக்கும் ஆலோசகர்களுக்கு தனிப்பட்ட, தற்போதைய மற்றும் உயர்தரமான மருத்துவ பராமரிப்பை வழங்குகிறது. இந்த நிகழ்வு பல்வேறு வளங்களை, அடிக்கடி கேட்கப்படும் கேள்விகளுக்கு பதில்களை, மற்றும் ஒரு சிறப்பு பராமரிப்பு குழுவை வழங்குகிறது."
+    }
+  }
+}

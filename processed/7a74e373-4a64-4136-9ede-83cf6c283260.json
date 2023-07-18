@@ -1,0 +1,27 @@
+{
+  "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+  "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+  "description": "BAGLY is a youth-led, adult-supported organization that advocates for programs, policies and services for the LGBTQ+ youth community. It provides an array of resources and programs including healthcare services, food justice, youth leadership development, and more. BAGLY prioritizes the needs of LGBTQ+ youth of color, trans and gender non-conforming youth, and homeless LGBTQ+ youth.",
+  "slug": "boston-alliance-of-lgbtq-youth-bagly",
+  "externalUrl": "https://www.bagly.org/",
+  "tags": [
+    "youth-services",
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "address": "28 Court Square, Boston, MA 02108, USA",
+  "phoneNumber": "(617) 227-4313",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "latLng": [
+    42.3585686,
+    -71.05938739999999
+  ],
+  "email": "mmccarron@bagly.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+  }
+}

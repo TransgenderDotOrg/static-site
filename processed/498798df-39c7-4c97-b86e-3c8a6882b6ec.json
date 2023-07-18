@@ -1,0 +1,25 @@
+{
+  "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+  "title": "Allentown Women’s Center",
+  "description": "A comprehensive healthcare provider that specializes in services catering to a wide array of demographic including the transgender community. Services range from abortion procedures, gynecology care, gender-affirming services, and medical marijuana certification amongst others.",
+  "slug": "allentown-womens-center",
+  "externalUrl": "https://allentownwomenscenter.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+  "phoneNumber": "(484) 821-0821",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Bethlehem",
+  "county": "Northampton County",
+  "latLng": [
+    40.6728208,
+    -75.37561989999999
+  ],
+  "email": null,
+  "socialMedia": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+  "title": "GenderGP: Comprehensive Support for Transgender Individuals",
+  "description": "GenderGP offers a comprehensive suite of services encompassing advocacy, advice, healthcare, and a range of complementary services for trans people globally. The platform provides an avenue for transgender individuals to access gender-affirming healthcare, legal transition assistances, and social transition supports. Through its globally accessible digital platform, GenderGP is committed to enabling trans people to live their lives more comfortably and authentically.",
+  "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+  "externalUrl": "https://www.gendergp.com/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health",
+    "youth-services",
+    "education-awareness"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null,
+    "facebookUrl": "https://www.facebook.com/gendergp",
+    "twitterUrl": "https://twitter.com/GenderGP",
+    "instagramUrl": "https://www.instagram.com/gendergp",
+    "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+    "tiktokUrl": null,
+    "twitchUrl": null,
+    "patreonUrl": null
+  }
+}

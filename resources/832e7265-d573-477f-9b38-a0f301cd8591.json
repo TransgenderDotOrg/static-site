@@ -1,0 +1,111 @@
+{
+  "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+  "slug": "equality-california",
+  "externalUrl": "https://www.eqca.org/",
+  "tags": [
+    "legal",
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "social-services",
+    "support-groups"
+  ],
+  "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+  "phoneNumber": "(323) 848-9801",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Los Angeles",
+  "county": "Los Angeles County",
+  "latLng": [
+    34.0500954,
+    -118.2531648
+  ],
+  "email": null,
+  "socialMedia": {},
+  "i18n": {
+    "en-US": {
+      "title": "Equality California",
+      "description": "Equality California is an organization that brings the voices of LGBTQ+ people and allies to institutions of power in California and across the United States, striving to create a world that is healthy, just, and fully equal for all LGBTQ+ people. They advance civil rights and social justice and work tirelessly on behalf of those they serve. They provide programs, publications, legislations, endorsements and several ways to take action."
+    },
+    "pt-PT": {
+      "title": "Equality California",
+      "description": "Equality California é uma organização que traz as vozes de pessoas LGBTQ+ e aliadas às instituições de poder na Califórnia e em todo os Estados Unidos, esforçando-se para criar um mundo que seja saudável, justo e totalmente igual para todas as pessoas LGBTQ+. Eles promovem direitos civis e justiça social e trabalham incansavelmente em nome daqueles a quem servem. Eles fornecem programas, publicações, legislações, endossos e várias maneiras de agir."
+    },
+    "fr-FR": {
+      "title": "Equality California",
+      "description": "Equality California est une organisation qui apporte les voix des personnes LGBTQ+ et des alliés aux institutions de pouvoir en Californie et à travers les États-Unis, s'efforçant de créer un monde qui est sain, juste et entièrement égal pour toutes les personnes LGBTQ+. Ils font progresser les droits civiques et la justice sociale et travaillent sans relâche au nom de ceux qu'ils servent. Ils fournissent des programmes, des publications, des législations, des approbations et plusieurs façons de prendre des mesures."
+    },
+    "es-ES": {
+      "title": "Equality California",
+      "description": "Equality California es una organización que trae las voces de las personas LGBTQ+ y sus aliados a las instituciones de poder en California y en todo Estados Unidos, esforzándose por crear un mundo que sea saludable, justo y completamente igualitario para todas las personas LGBTQ+. Promueven los derechos civiles y la justicia social y trabajan incansablemente en nombre de aquellos a quienes sirven. Proporcionan programas, publicaciones, legislaciones, respaldos y varias formas de tomar acción."
+    },
+    "de-DE": {
+      "title": "Equality California",
+      "description": "Equality California ist eine Organisation, die die Stimmen von LGBTQ+ Menschen und Verbündeten zu den Machtinstitutionen in Kalifornien und in den gesamten Vereinigten Staaten bringt, mit dem Ziel, eine Welt zu schaffen, die für alle LGBTQ+ Menschen gesund, gerecht und vollständig gleich ist. Sie fördern Bürgerrechte und soziale Gerechtigkeit und arbeiten unermüdlich im Dienste derer, die sie repräsentieren. Sie bieten Programme, Veröffentlichungen, Gesetze, Unterstützungen und verschiedene Möglichkeiten, aktive Maßnahmen zu ergreifen."
+    },
+    "id-ID": {
+      "title": "Equality California",
+      "description": "Equality California adalah sebuah organisasi yang membawa suara orang-orang LGBTQ+ dan sekutunya ke lembaga-lembaga kekuasaan di California dan di seluruh Amerika Serikat, berjuang untuk menciptakan dunia yang sehat, adil, dan sepenuhnya sama untuk semua orang LGBTQ+. Mereka memajukan hak-hak sipil dan keadilan sosial dan bekerja tanpa lelah atas nama mereka yang mereka layani. Mereka menyediakan program, publikasi, legislasi, dukungan dan beberapa cara untuk mengambil tindakan."
+    },
+    "sw-KE": {
+      "title": "Equality California",
+      "description": "Equality California ni shirika ambalo linawaletea sauti za watu wa LGBTQ+ na washirika kwa taasisi za mamlaka huko California na kote Marekani, likijitahidi kujenga ulimwengu ambao ni wa afya, haki, na usawa kamili kwa watu wote wa LGBTQ+. Wanasonga mbele haki za kiraia na haki ya kijamii na kufanya kazi bila kuchoka kwa niaba ya wale wanaowahudumia. Wanaandaa mipango, machapisho, sheria, maafikiano na njia kadhaa za kuchukua hatua."
+    },
+    "tr-TR": {
+      "title": "Equality California",
+      "description": "Equality California, LGBTQ+ insanlarının ve müttefiklerinin seslerini Kaliforniya'daki ve Amerika Birleşik Devletleri'ndeki güç kurumlarına taşıyan bir organizasyondur. Tüm LGBTQ+ insanlar için sağlıklı, adil ve tamamen eşit bir dünya yaratmayı hedeflerler. Sivil hakları ve sosyal adaleti ilerletirler ve hizmet verdikleri kişiler adına yorulmadan çalışırlar. Programlar, yayınlar, yasa tasarıları, onaylar ve eyleme geçme şekilleri sağlarlar."
+    },
+    "ja-JP": {
+      "title": "Equality California",
+      "description": "Equality Californiaは、LGBTQ+の人々とその支持者の声をカリフォルニア州と全米の権力機関に届け、全てのLGBTQ+の人々にとって健康で公正で平等な世界を目指す組織です。彼らは市民権と社会正義を前進させ、彼らがサービスを提供する人々のために絶えず努力します。彼らはプログラム、出版物、法案、推薦、および行動を起こすいくつかの方法を提供しています。"
+    },
+    "ko-KR": {
+      "title": "Equality California",
+      "description": "Equality California는 LGBTQ+ 사람들과 동맹자들의 목소리를 캘리포니아 및 전미의 힘의 기관으로 가져와 모든 LGBTQ+ 사람들이 건강하고, 공정하며, 완전히 평등한 세상을 창출하려고 노력하는 조직입니다. 그들은 민권과 사회 정의를 추진하며, 그들이 섬기는 이들을 위해 끊임없이 노력합니다. 그들은 프로그램, 출판물, 법률, 지지와 행동을 취할 수 있는 몇 가지 방법을 제공합니다."
+    },
+    "zh-CN": {
+      "title": "加利福尼亚平等",
+      "description": "加利福尼亚平等是一个将LGBTQ+人群及其盟友的声音带到加利福尼亚和全美的权力机构的组织，他们努力创造一个对所有LGBTQ+人群健康、公正且全面平等的世界。他们推动民权和社会公正，为他们服务的人们无所不用其极地工作。他们提供程序、出版物、法规、认可和多种采取行动的方式。"
+    },
+    "ru-RU": {
+      "title": "Equality California",
+      "description": "Equality California - это организация, которая представляет голоса людей ЛГБТК+ и их союзников в органах власти в Калифорнии и по всей территории Соединенных Штатов в стремлении создать мир, который был бы здоровым, справедливым и полностью равным для всех людей ЛГБТК+. Они содействуют продвижению гражданских прав и социальной справедливости, упорно работая от имени тех, кому они служат. Они предоставляют программы, публикации, законодательство, одобрения и несколько способов принять активное участие."
+    },
+    "vi-VN": {
+      "title": "Equality California",
+      "description": "Equality California là một tổ chức mang giọng nói của những người LGBTQ+ và đồng minh đến các cơ quan quyền lực ở California và khắp Hoa Kỳ, nỗ lực tạo ra một thế giới lành mạnh, công bằng và hoàn toàn bình đẳng cho tất cả mọi người LGBTQ+. Họ thúc đẩy quyền công dân và công lý xã hội và không ngừng làm việc vì những người mà họ phục vụ. Họ cung cấp các chương trình, ấn phẩm, luật, lời chứng thực và nhiều cách thức để hành động."
+    },
+    "uk-UA": {
+      "title": "Equality California",
+      "description": "Equality California - це організація, яка привносить голоси ЛГБТК+ людей та союзників до інституцій влади в Каліфорнії та по всіх Сполучених Штатах з метою створення світу, який є здоровим, справедливим та повністю рівним для всіх ЛГБТК+ людей. Вони розвивають громадянські права та соціальну справедливість та неутомно працюють від імені тих, кого обслуговують. Вони надають програми, публікації, законодавство, схвалення та кілька способів втручання."
+    },
+    "ar-SA": {
+      "title": "Equality California",
+      "description": "تعتبر Equality California منظمة تُحضر أصوات الأشخاص من المثليين و المزدوجين الجنس و المتحولين جنسياً و المغايير و الحلفاء إلى مؤسسات السلطة في كاليفورنيا و في جميع أنحاء الولايات المتحدة، تسعى إلى خلق عالم يكون فيه الجميع بصحة جيدة، عادل، ومتساوي بالكامل بالنسبة للأشخاص من المثليين و المزدوجين الجنس و المتحولين جنسياً و المغايير. هم يعززون حقوق المواطنين و العدالة الاجتماعية، و يعملون بلا كلل نيابة عن أولئك الذين يخدمونهم. يقدمون برامج، منشورات، تشريعات، توصيات، و العديد من الطرق لاتخاذ الإجراء."
+    },
+    "ur-PK": {
+      "title": "Equality California",
+      "description": " برابری کیلیفونیا ایک تنظیم ہے جو کیلیفونیا اور سارے امریکہ کی قوتِ مدبرانہ اداروں میں LGBTQ+ لوگوں اور حامیوں کے آوازوں کو لاتی ہے، پوری کوشش کرتی ہے کہ ایک دنیا پیدا کرے جو تمام LGBTQ+ لوگوں کے لئے صحت مند، انصاف بخش اور مکمل طور پر برابر ہو۔ وہ شہری حقوق اور سماجی انصاف کی ترقی کرتے ہیں اور ان کی خدمت میں جن لوگوں کے لئے وہ بلا تعطل کام کرتے ہیں۔ وہ پروگرام، مطبوعات، قانون سازی، توصیہ کردگی اور کئی طریقے فراہم کرتے ہیں جن پر عمل کرنے کا موقع ملتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "समानता कॅलिफॉर्निया",
+      "description": "समानता कॅलिफॉर्निया ही एक संघटना आहे जी LGBTQ+ लोकांच्या आणि मित्रांच्या आवाज कॅलिफॉर्निया आणि अमेरिकेतील सत्तेच्या संस्थांपर्यंत आणते, सर्व LGBTQ+ लोकांसाठी एक स्वस्थ, न्याययुक्त आणि पूर्णपणे समान जग तयार करण्याचा प्रयास करते. ते नागरिक अधिकार आणि सामाजिक न्यायाच्या सुधारणांमध्ये आधी राहतात व ज्यांच्यावर त्यांचा काम आहे त्यांच्या वतीने तरतरीत काम करतात. त्यांनी कार्यक्रमे, प्रकाशने, कायदे, मंजूरी आणि क्रियाशीलता घेण्याचे अनेक मार्ग प्रदान केलेले आहेत."
+    },
+    "hi-IN": {
+      "title": "Equality California",
+      "description": "Equality California एक संगठन है जो LGBTQ+ लोगों और सहयोगियों की आवाज़ों को कैलिफोर्निया और संयुक्त राज्य अमेरिका के शक्ति के संस्थानों तक ले जाती है, और एक ऐसी दुनिया बनाने का प्रयास करती है जो सभी LGBTQ+ लोगों के लिए स्वस्थ, न्यायपूर्ण और पूरी तरह से समान हो। वे नागरिक अधिकार और सामाजिक न्याय को बढ़ावा देते हैं और उन लोगों की तरफ से थक कर काम करते हैं जिनकी सेवा वे करते हैं। वे कार्यक्रम, प्रकाशन, विधायिका, समर्थन और क्रियाकलाप करने के कई तरीके प्रदान करते हैं।"
+    },
+    "bn-BD": {
+      "title": "Equality California",
+      "description": "Equality California হল একটি সংস্থা যা LGBTQ+ মানুষের এবং অঙ্গীকারকারীদের কন্ঠস্বরকে ক্যালিফোর্নিয়া এবং মার্কিন যুক্তরাষ্ট্রের বিভিন্ন ক্ষমতাস্থানে পৌঁছে দেয়, যার উদ্দেশ্য হল সৃষ্টি করা একটি পৃথিবী যেখানে সমস্ত LGBTQ+ মানুষের জন্য সুস্থ, যুক্তিসম্মত এবং সম্পূর্ণ সমান জন্য সৃষ্টি করা। তারা নাগরিক অধিকার এবং সামাজিক ন্যায়ের উন্নয়নে কাজ করে থাকে এবং যাদের তারা পরিবহন করেন তাঁদের উপর অবিরত কাজ করে থাকে। তারা প্রোগ্রাম, প্রকাশনা, আইন-বিধি, সমর্থন এবং কর্মসূচি নিয়ে কাজ করার বিভিন্ন পদ্ধতি সরবরাহ করে।"
+    },
+    "te-IN": {
+      "title": "Equality California",
+      "description": "Equality California అనేది LGBTQ+ ప్రజలు మరియు సూచకుల కంటె యొక్క కంటెగా కలిఫోర్నియా మరియు మొత్తం అమెరికా యొక్క శక్తి సంస్థలకు ఓ శబ్దాన్ని తీసుకుస్తుంది, అన్ని LGBTQ+ ప్రజల కోసం ఆరోగ్యదాయకమైన, నిషేధమైన మరియు సంపూర్ణమైన సమానతా ప్రపంచాన్ని సృష్టించేందుకు ప్రయత్నిస్తుంది. వారు నాగరిక హక్కులు మరియు సామాజిక న్యాయాన్ని సాగిస్తారు మరియు వారు సేవిస్తున్న వారి వేగాన పని చేస్తారు. వారు కార్యక్రమాలు, ప్రచురణలు, నిబంధనలు, అనుమోదనలు మరియు చర్యలను తీసుకోవడానికి అనేక మార్గాలను అందిస్తారు."
+    },
+    "ta-IN": {
+      "title": "Equality California",
+      "description": "Equality California என்பது LGBTQ+ மக்கள் மற்றும் அவர்களின் ஆதரவாளர்களின் குரலை கலிபோர்னியா மற்றும் ஐக்கிய அமெரிக்காவின் அதிகார நிறுவனங்களுக்கு கொண்டுவரும் அமைப்பு ஆகும், அனைத்து LGBTQ+ மக்களுக்கும் ஆரோக்கியமான, நியாயமான, முழுவதுமாக சமமான உலகத்தை உருவாக்க முயற்சிக்கும். அவர்கள் சிவில் உரிமைகளையும் சமூக நீதியையும் முன்னேற்றும் முயற்சி செய்கின்றனர் மற்றும் அவர்கள் சேவையாற்றும் அவர்களுக்காக முடிவற்றாக உழைக்கின்றனர். அவர்கள் நிகழ்வுகள், புத்தகங்கள், சட்டங்கள், ஆதரவுகள் மற்றும் செயல்பட பல வழிகளை வழங்குகின்றனர்."
+    }
+  }
+}

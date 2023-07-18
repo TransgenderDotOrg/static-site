@@ -1,0 +1,106 @@
+{
+  "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+  "slug": "chest-binding-101",
+  "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "clothing"
+  ],
+  "address": null,
+  "phoneNumber": null,
+  "country": null,
+  "provinceOrState": null,
+  "city": null,
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Binding 101: Tips to Bind Your Chest Safely",
+      "description": "A comprehensive guide from Point of Pride, providing tips and resources on safe chest binding. Provides information on styles of binders, rules for safe binding, and resources for acquiring chest binders. Aimed at anyone who desires a flatter chest appearance, with particular focus on trans, non-binary, and genderqueer individuals."
+    },
+    "zh-CN": {
+      "title": "绑胸101：安全绑胸的提示",
+      "description": "Point of Pride提供的全面指南，提供了关于安全绑胸的提示和资源。提供有关束胸衣样式，安全绑胸规则和获取胸部束带的资源的信息。面向任何希望胸部平坦的人，特别关注跨性别、非二元和性别酷儿个体。"
+    },
+    "pt-PT": {
+      "title": "Amarração 101: Dicas para amarrar seu peito com segurança",
+      "description": "Um guia abrangente de Point of Pride, fornecendo dicas e recursos sobre a amarração segura do peito. Fornece informações sobre estilos de amarração, regras para amarrações seguras e recursos para a aquisição de amarradores de peito. Voltado para qualquer pessoa que deseja uma aparência de peito mais achatada, com um foco particular em indivíduos trans, não-binários e de gênero fluido."
+    },
+    "de-DE": {
+      "title": "Binding 101: Tipps für sicheres Chest Binding",
+      "description": "Ein umfassender Leitfaden von Point of Pride, der Tipps und Ressourcen für sicheres Chest Binding bereitstellt. Liefert Informationen zu verschiedenen Binder-Stilen, Regeln für sicheres Binden und Ressourcen zum Erwerb von Chest Bindern. Zielt auf alle ab, die ein flacheres Brustaussehen wünschen, mit besonderem Fokus auf trans, non-binären und genderqueeren Personen."
+    },
+    "es-ES": {
+      "title": "Encuadernación 101: Consejos para encuadernar tu pecho de manera segura",
+      "description": "Una guía completa de Point of Pride, que proporciona consejos y recursos sobre la encuadernación segura del pecho. Proporciona información sobre estilos de encuadernadores, reglas para la encuadernación segura y recursos para adquirir encuadernadores de pecho. Dirigido a cualquier persona que desee una apariencia de pecho más plana, con un enfoque particular en individuos trans, no binarios y de género queer."
+    },
+    "id-ID": {
+      "title": "Pembelajaran Dasar 101: Tips untuk Menyembunyikan Dada Anda dengan Aman",
+      "description": "Panduan lengkap dari Point of Pride, menyediakan tips dan sumber daya tentang penyembunyian dada yang aman. Menyediakan informasi tentang gaya-gaya pembelit, aturan untuk pembelitan yang aman, dan sumber daya untuk mendapatkan pembelit dada. Ditujukan untuk siapa saja yang menginginkan penampilan dada yang lebih datar, dengan fokus khusus pada individu trans, non-binary, dan genderqueer."
+    },
+    "ko-KR": {
+      "title": "바인딩 101: 안전한 가슴 바인딩 팁",
+      "description": "프라이드의 포인트에서 제공하는 종합적인 가이드로, 안전한 가슴 바인딩에 대한 팁과 자료를 제공합니다. 바인더의 스타일, 안전한 바인딩을 위한 규칙, 가슴 바인더를 구입할 수 있는 자원에 대한 정보를 제공합니다. 가슴의 외관을 더 평평하게 원하는 사람들을 대상으로 하며, 특히 트랜스, 비바이너리, 그리고 젠더퀴어 개인에게 초점을 맞추고 있습니다."
+    },
+    "fr-FR": {
+      "title": "Mise en relation 101: Conseils pour lier votre poitrine en toute sécurité",
+      "description": "Un guide complet de Point of Pride, fournissant des conseils et des ressources sur la liaison thoracique sûre. Fournit des informations sur les styles de reliures, les règles pour une liaison sûre et des ressources pour acquérir des reliures thoraciques. Destiné à tous ceux qui désirent une apparence de poitrine plus plate, avec une attention particulière sur les individus trans, non-binaires et de genre queer."
+    },
+    "ja-JP": {
+      "title": "バインディング101：安全に胸をバインドするためのヒント",
+      "description": "Point of Prideからの包括的なガイドで、安全な胸のバインディングに関するヒントとリソースを提供します。バインダーのスタイルに関する情報、安全なバインディングのための規則、胸用バインダーを手に入れるためのリソースを提供します。よりフラットな胸の外観を望むすべての人を対象としていますが、特にトランス、ノンバイナリ、ジェンダークイアな個人に焦点を当てています。"
+    },
+    "sw-KE": {
+      "title": "Kufunga 101: Vidokezo vya Kufunga Kifua chako kwa Usalama",
+      "description": "Mwongozo kamili kutoka kwa Point of Pride, ukiutoa vidokezo na rasilimali kuhusu kufunga kifua kwa usalama. Unatoa habari juu ya mitindo ya vifungo, kanuni za kufunga salama, na rasilimali za kupata vifunga vya kifua. Imelengwa kwa mtu yeyote anayetamani kuonekana kwa kifua kilicho kavu, haswa kwa watu wanaojitambulisha kama trans, wasio na jinsia, na watu wenye jinsia mbalimbali."
+    },
+    "tr-TR": {
+      "title": "Bağlama 101: Göğsünüzü Güvenli Bir Şekilde Bağlama İpuçları",
+      "description": "Göğüs bağlama konusunda güvenli ipuçları ve kaynaklar sağlayan Pride Noktası'ndan kapsamlı bir rehber. Bağlayıcıların stilleri, güvenli bağlama kuralları ve göğüs bağlayıcılarının edinilmesi için kaynaklar hakkında bilgi verir. Daha düz bir göğüs görünümü isteyen herkese yönelik, özellikle trans, non-binary ve genderqueer bireyler üzerinde durulmuştur."
+    },
+    "ru-RU": {
+      "title": "Введение в биндинг 101: Советы по безопасному биндингу груди",
+      "description": "Исчерпывающее руководство от Point of Pride, предлагающее советы и ресурсы по безопасному биндингу груди. Предоставляет информацию о стилях биндеров, правила безопасного биндинга и ресурсы для приобретения биндеров для груди. Направлено на кого угодно, кто желает более плоский вид груди, с особым акцентом на транс, небинарных и гендерквир индивидов."
+    },
+    "ar-SA": {
+      "title": "الربط 101: نصائح لربط صدرك بأمان",
+      "description": "دليل شامل من Point of Pride، يوفر نصائح وموارد حول ربط الصدر بأمان. يوفر معلومات حول أنماط الرابطات، قواعد الربط الآمن، وموارد للحصول على ملابس داخلية لتثبيت الصدر. موجه لأي شخص يرغب في ظهور صدر أكثر تسطيحًا، بالتركيز بشكل خاص على الأفراد المتحولين جنسياً، وغير الثنائيين، والأفراد ذوي الهوية الجندرية المتقلبة."
+    },
+    "vi-VN": {
+      "title": "Hướng dẫn Đóng Bìa 101: Mẹo An Toàn Khi Buộc Ngực",
+      "description": "Hướng dẫn toàn diện từ Point of Pride, cung cấp mẹo và tài nguyên về việc đóng bìa an toàn. Cung cấp thông tin về các kiểu bìa, quy tắc an toàn khi đóng bìa, và tài nguyên để mua bìa ngực. Hướng đến những người mong muốn có vẻ bề ngoài ngực phẳng hơn, đặc biệt là những người chuyển giới, không nhị phân, và cá nhân giới tính lưỡng tính."
+    },
+    "ur-PK": {
+      "title": "بائنڈنگ 101: اپنے چھاتی کو محفوظ طور پر بائنڈ کرنے کے ٹپس",
+      "description": "پوائنٹ آف پرائیڈ سے ایک جامع گائیڈ، محفوظ چھاتی بائنڈنگ پر ٹپس اور وسائل فراہم کرتی ہے۔ بائنڈرز کی اندازوں، محفوظ بائنڈنگ کے اصولوں اور چھاتی بائنڈرز حاصل کرنے کے وسائل پر معلومات فراہم کرتے ہیں۔ خاص طور پر ٹرانس، غیر بائنری، اور جنسی قربت والے افراد پر توجہ دیتے ہوئے، جو کھلا چھاتی کی ظاہریت چاہتے ہیں۔"
+    },
+    "uk-UA": {
+      "title": "В'язання 101: Поради щодо безпечного в'язання грудей",
+      "description": "Повне керівництво від Point of Pride, яке надає поради та ресурси по безпечному в'язанню грудей. Надає інформацію про стилі в'язання, правила безпечного в'язання та ресурси для придбання грудних в'язок. Покликаний задовольнити потреби кожного, хто бажає плоскішого вигляду грудей, з особливим акцентом на трансгендерних осіб, небінарних та гендерквірних осіб."
+    },
+    "hi-IN": {
+      "title": "बंधन 101: अपना छाति सुरक्षित रखने के लिए टिप्स",
+      "description": "Point of Pride से एक व्यापक मार्गदर्शिका, जो सुरक्षित छाती बंधन पर टिप्स और संसाधन प्रदान करती है। बाइंडर्स की शैलियों पर जानकारी प्रदान करती है, सुरक्षित बंधन के नियम, और छाती बाइंडर्स प्राप्त करने के लिए संसाधन। उन सभी लोगों के लिए तात्पर्य जो एक समतल छाती की उपस्थिति चाहते हैं, और विशेष रूप से ट्रांस, गैर-बाइनरी, और लिंगविशिष्ट व्यक्तियों पर ध्यान केंद्रित।"
+    },
+    "mr-IN": {
+      "title": "बाइंडिंग १०१: आपल्या छातीचा सुरक्षितपणे बांधण्यासाठी टिप्स",
+      "description": "पॉईंट ऑफ प्राईडकडून एक व्यापक मार्गदर्शक, सुरक्षित छाती बांधण्यावरील टिप्स आणि संसाधने प्रदान करत आहे. बँडर्सच्या शैलींवर, सुरक्षित बांधण्यासाठी नियमांवर माहिती आणि छाती बांदणार्‍या संसाधनांसाठी माहिती प्रदान करते. विशेषतः ट्रांस, नॉन-बायनरी आणि जेंडरक्विअर व्यक्तींच्या दृष्टीने छातीचा फ्लॅट व्याक्तिमत्व इच्छीत असलेल्या कोणत्याही व्यक्तींसाठी."
+    },
+    "ta-IN": {
+      "title": "பைண்டிங் 101: உங்கள் மார்பை பாதுகாப்பாக பைண்ட் செய்வது தொடர்பான ஆலோசனைகள்",
+      "description": "Point of Pride இயக்கியம், பாதுகாப்பாக மார்ப பைண்டிங் குறித்து ஆலோசனைகள் மற்றும் வளங்களை வழங்கும் நிரந்தர வழிகாட்டி. பைண்டர்களின் வடிவங்கள், பாதுகாப்பான பைண்டிங்களுக்கான விதிகள், மற்றும் மார்ப பைண்டர்களை பெறுவதற்கான வளங்கள் தொடர்பான தகவல்களை வழங்குகிறது. மிகச்சிறந்த மார்ப தோற்றத்தை விரும்புவதற்காக, மிகுந்த கவனம் டிரான்ஸ், நான்-பைனரி, மற்றும் ஜெண்டர்க்வீர் நபர்களுக்கு சுருக்கப்பட்டுள்ளது."
+    },
+    "te-IN": {
+      "title": "బైండింగ్ 101: మీ ఛాతిని భద్రంగా బైండ్ చేయడానికి చిట్కాలు",
+      "description": "పాయింట్ ఆఫ్ ప్రైడ్ నుండి ఒక సంపూర్ణ మార్గదర్శకం, భద్రంగా ఛాతి బైండింగ్ పై చిట్కాలు మరియు వనరులను అందిస్తుంది. బైండర్ల యొక్క శైలులు, భద్రంగా బైండింగ్ కోసం నియమాలు, మరియు ఛాతి బైండర్లను పొందడానికి వనరుల పై సమాచారం అందిస్తుంది. ప్రత్యేకంగా ట్రాన్స్, నాన్-బైనరీ, మరియు జెండర్కీయర్ వ్యక్తుల మేల ప్రధాన దృష్టిపెట్టి, ఎవరైనా స్థిర ఛాతి రూపానికి కోరుతున్నారు."
+    },
+    "bn-BD": {
+      "title": "ব্যান্ডিং ১০১: আপনার বুকের নিরাপদে ব্যান্ড লাগানোর পরামর্শ",
+      "description": "পয়েন্ট অফ প্রাইডের একটি সম্পূর্ণ গাইড, যা নিরাপদ বুক ব্যান্ডিং উপর পরামর্শ এবং সম্পদ সরবরাহ করে। বুক ব্যান্ডারের বিভিন্ন স্টাইল, নিরাপদ ব্যান্ডিং এর নিয়মাবলী এবং বুক ব্যান্ডার অর্জনের সম্পদের তথ্য সরবরাহ করে। এটি যারা নিজের বুকের আরও সাজানো চেহারা চান তাদের উদ্দীপনায় উন্মুক্ত, বিশেষ ভাবে ট্রান্স, নন-বাইনারী, এবং জেন্ডারকয়েয়ার ব্যক্তিদের দিকে মনোনিবেশ করা হয়েছে।"
+    }
+  }
+}

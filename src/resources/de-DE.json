@@ -36,6 +36,34 @@
     "description": "Das San Mateo County Pride Center ist eine Modellorganisation in Zusammenarbeit und eine Anlaufstelle für die LGBTQ+ Gemeinschaft. Wir bieten umfangreiche Programme und Dienstleistungen zur Unterstützung von LGBTQ+ Gemeinschaftsmitgliedern aller Altersgruppen, einschließlich Bildung, Training, Gemeindeveranstaltungen, Peer-Support-Gruppen, tägliche Programme, klinische Therapie und Fallmanagement."
   },
   {
+    "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+    "slug": "hawaii-lgbt-legacy-foundation",
+    "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Honolulu, HI, USA",
+    "phoneNumber": "808.369.2000",
+    "country": "US",
+    "provinceOrState": "HI",
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "latLng": [
+      21.3098845,
+      -157.8581401
+    ],
+    "email": "info@hawaiilgbtlegacy.com",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+      "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+      "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+    },
+    "title": "Hawaii LGBT Legacy Foundation",
+    "description": "Eine gemeinnützige Organisation, die sich der Unterstützung und Förderung der LGBTQ+ Gemeinschaft in Hawaii widmet. Sie veranstaltet eine Vielzahl von Projekten und Veranstaltungen, einschließlich Honolulu Pride, Rainbow Town Hall und Coming Out Geschichten. Sie bietet auch eine Reihe von Ressourcen und Unterstützungsdiensten an."
+  },
+  {
     "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
     "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
     "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
@@ -57,6 +85,35 @@
     "socialMedia": null,
     "title": "Verständnis und Unterstützung für Transsexualität bei Kindern und Eltern",
     "description": "Dieser deutsche Artikel bietet einen umfassenden Leitfaden für Familien, die mit Transsexualität bei Eltern oder Kindern konfrontiert sind. Er bietet Informationen über wichtige Vorgänge und Ressourcen, von der Verständigung und Akzeptanz der Situation bis hin zur Suche nach relevanten Behandlungen."
+  },
+  {
+    "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+    "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+    "externalUrl": "https://www.nagly.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Salem, MA, USA",
+    "phoneNumber": "978-224-2102",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "latLng": [
+      42.5197473,
+      -70.8954626
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "North Shore Alliance of Gay, Lesbian, Bisexual and Transgender Youth (NAGLY)",
+    "description": "Die Mission von NAGLY besteht darin, GLBTQ+ Jugendliche zu ehren, respektieren, zu bilden und zu stärken. Sie fördern eine Gemeinschaft durch lokale Programme und Unterstützungsdienste, einschließlich Jugend- und Erwachsenengruppen und verschiedenen Gemeinschaftsaktivitäten. Sie bieten Ressourcen für die psychische Gesundheit, bieten Gesundheitsbildung und bieten viele Möglichkeiten für die LGBTQ+ Gemeinschaft, sich zu vernetzen und ihre Erfahrungen zu teilen."
   },
   {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
@@ -272,6 +329,37 @@
     "description": "Minus18 ist eine australische Wohltätigkeitsorganisation, die das Leben von LGBTQIA+ Jugendlichen verbessert. Sie bekämpfen soziale Isolation, indem sie Räume schaffen, in denen junge Menschen dazugehören, gefeiert werden und Freunde finden können. Sie bieten auch LGBTQIA+ Training, Ressourcen und digitale Kampagnen an, mit dem Ziel, ein Australien frei von Diskriminierung zu schaffen. Ihr Ziel ist es, junge Menschen mit den Fähigkeiten und Möglichkeiten auszustatten, die sie benötigen, um an der Spitze des Wandels zu stehen."
   },
   {
+    "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+    "slug": "youth-eastside-services",
+    "externalUrl": "https://www.youtheastsideservices.org/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources"
+    ],
+    "address": "Kirkland, WA, USA",
+    "phoneNumber": "425-747-4937",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Kirkland",
+    "county": "King County",
+    "latLng": [
+      47.6768927,
+      -122.2059833
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+      "twitterUrl": "https://twitter.com/YouthEastside",
+      "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+      "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+    },
+    "title": "Jugenddienste Eastside",
+    "description": "Jugenddienste Eastside (YES) ist eine gemeinnützige Organisation, die umfassende geistige Gesundheits- und Drogenmissbrauchsdienste für Jugendliche und deren Familien anbietet, unabhängig von ihrer Zahlungsfähigkeit. Sie befindet sich in Washington, und ihre Dienstleistungen umfassen Beratung, Therapie, Unterstützung für die LGBTQ+-Gemeinschaft und verschiedene gemeinschaftsbasierte Programme."
+  },
+  {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
     "slug": "us-trans-survey",
     "externalUrl": "https://www.ustranssurvey.org/",
@@ -330,6 +418,57 @@
     },
     "title": "nonbinary.ch - Eine Ressource für nicht-binäre Personen",
     "description": "Eine umfassende schweizerische Website mit Informationen und Ressourcen zu nicht-binären Geschlechtsidentitäten. Sie soll Personen helfen, die ihre eigene Geschlechtsidentität erforschen, oder solche, die mit nicht-binären Personen interagieren, indem sie grundlegendes Wissen leicht zugänglich macht. Die Seite beherbergt auch einen Blog, einen Newsletter und Links zu relevanten externen Ressourcen wie Büchern, Filmen und Forschungsarbeiten."
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "Human Rights Campaign",
+    "description": "Die Human Rights Campaign setzt sich für die Rechte und Gleichheit der LGBTQ+ Gemeinschaft ein. Sie zielen darauf ab, Diskriminierung zu beenden und pro-Gleichheitsrichtlinien durch Bildung, Fürsprache und Mobilisierung voranzutreiben. Sie bieten auch Ressourcen für diejenigen in der LGBTQ+ Gemeinschaft, um sich in ihren lokalen Bereichen zu engagieren."
+  },
+  {
+    "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+    "slug": "gender-confirmation-center",
+    "externalUrl": "https://www.genderconfirmation.com/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+    "phoneNumber": "(415) 780-1515",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "SF",
+    "county": "San Francisco County",
+    "latLng": [
+      37.7896952,
+      -122.4078356
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Zentrum für Geschlechtsbestätigung",
+    "description": "Das Zentrum für Geschlechtsbestätigung bietet umfassende geschlechtsbestätigende Versorgung, durch verschiedene Arten von Verfahren und Behandlungsplänen, für die Transgender-, Nicht-Binären-, und geschlechtlich vielfältige Gemeinschaft."
   },
   {
     "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
@@ -530,6 +669,29 @@
     "description": "Queenslands Spitzenorganisation, die Transgender, geschlechtlich vielfältige und nicht-binäre Personen seit 1990 vertritt. Sie bieten Unterstützung, Fürsprache, Dienstleistungen und organisieren soziale Veranstaltungen, um der Transgender-Gemeinschaft zu dienen."
   },
   {
+    "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+    "slug": "topsurgery-net",
+    "externalUrl": "https://www.topsurgery.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TopSurgery.net",
+    "description": "TopSurgery.net ist eine umfassende Ressource für Personen, die Informationen zu FTM-Top-Operationen suchen. Die Ressource bietet Details zu verschiedenen Arten von chirurgischen Eingriffen, wie man einen Chirurgen findet, Informationen zu Kosten und Versicherungen, FAQs und andere relevante Ressourcen für transmaskuline und nicht-binäre Personen, die eine Top-Operation anstreben. Es beinhaltet auch Bildungsinhalte wie Buchempfehlungen, Video-Tutorials und Artikel zu verwandten Themen."
+  },
+  {
     "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
     "slug": "jim-collins-foundation",
     "externalUrl": "https://jimcollinsfoundation.org/",
@@ -628,6 +790,27 @@
     "description": "Queermed Deutschland ist ein Verzeichnis von Ärzten, Therapeuten und Praxen, die von der LGBTQIA+ Gemeinschaft in Deutschland empfohlen werden. Ziel ist es, die Diskriminierung im Gesundheitswesen zu bekämpfen und sicherzustellen, dass jeder Mensch eine respektvolle und sensible Gesundheitsversorgung erhält. Es beinhaltet verschiedene zusätzliche Optionen im anonymen Fragebogen, um verschiedene Individuen innerhalb der Gemeinschaft zu berücksichtigen."
   },
   {
+    "id": "3ae6370f-e83a-4b6f-93e1-918d4258c31a",
+    "slug": "how-to-wear-a-packer",
+    "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "Wie man einen Packer trägt",
+    "description": "Dieser Artikel bietet Anleitung dazu, wie man einen Packer trägt, einschließlich Tipps zur Positionierung, Auswahl der richtigen Größe, wie Ihr Packer platziert werden sollte und Möglichkeiten, Ihren Packer in Position zu halten. Er dient als Bildungsressource für diejenigen in der transmaskulinen und nicht-binären Gemeinschaft, die mehr über Packing erfahren möchten."
+  },
+  {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
     "slug": "northern-territory-aids-and-hepatitis-council-inc",
     "externalUrl": "https://www.ntahc.org.au/",
@@ -671,6 +854,44 @@
     "description": "Eine vertrauenswürdige Online-Ressource für Personen, die Wissen, Unterstützung und Verständnis für Geschlechtsdysphorie suchen. Ihre Website bietet eine Fülle von Informationen, Ressourcen und Gemeinschaftsverbindungen, um Menschen auf ihrer Reise zu stärken. Von umfassenden Leitfäden über Geschlechtsidentität und Transition bis hin zu persönlichen Geschichten und Expertenratschlägen streben sie an, einen sicheren und inklusiven Raum für alle zu schaffen."
   },
   {
+    "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+    "slug": "identity-alaska",
+    "externalUrl": "https://www.identityalaska.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness",
+      "community-stories",
+      "support-groups"
+    ],
+    "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+    "phoneNumber": "(907) 865-3247",
+    "country": "US",
+    "provinceOrState": "AK",
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "latLng": [
+      61.1955918,
+      -149.8774355
+    ],
+    "email": "info@identityinc.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/IdentityInc",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/identityalaska/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Identität Alaska",
+    "description": "Alaska-basiertes gemeinnütziges Gemeindezentrum und Gesundheitsklinik, welche Ressourcen, Programme und Gesundheitsversorgung für die LGBTQIA2S+ und verbündete Gemeinschaft bereitstellt."
+  },
+  {
     "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
     "slug": "unitarian-universalist-association",
     "externalUrl": "https://www.uua.org/",
@@ -694,6 +915,28 @@
     "socialMedia": null,
     "title": "Unitarische Universalistenvereinigung",
     "description": "Eine aufgeschlossene, warmherzige spirituelle Gemeinschaft, die Menschen darin unterstützt, ein Leben in Gerechtigkeit, Liebe, Lernen und Hoffnung zu führen. Die Gemeinschaft schätzt Vielfalt, einschließlich der Transgender-Gemeinschaft, und ermutigt zu aktiver Teilnahme an Gerechtigkeitshandlungen. Sie bieten auch Ressourcen, Unterstützung und Fürsprache für verschiedene soziale Themen an."
+  },
+  {
+    "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+    "slug": "personalized-pronoun-dressing-room",
+    "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Personalisierte Pronom Dressing Room",
+    "description": "Diese interaktive Ressource bietet Beispiele für verschiedene Pronom-Sätze, die im Zusammenhang verwendet werden. Es ist anpassbar mit jedem Namen, den Sie möchten, der bei der Erforschung und dem Verständnis von Personalpronomen hilft. Dieses Tool ist nützlich für die Transgender-Gemeinschaft, insbesondere für diejenigen, die neue Pronomen erkunden oder andere über die Verwendung von Pronomen aufklären."
   },
   {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
@@ -821,6 +1064,31 @@
     "description": "Das Sylvia Rivera Law Project arbeitet daran zu garantieren, dass alle Menschen frei darin sind, ihre Geschlechtsidentität und Ausdruck selbst zu bestimmen, unabhängig von Einkommen oder Rasse, und ohne Belästigung, Diskriminierung oder Gewalt zu begegnen. SRLP bietet juristische Hilfe, organisiert Kampagnen, führt Schulungen durch und betreibt ein Gefangenenberatungskomitee. Gemeinschaftliches Engagement wird durch Spenden, ehrenamtliche Arbeit und Mitgliedschaft gefördert."
   },
   {
+    "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+    "slug": "allentown-womens-center",
+    "externalUrl": "https://allentownwomenscenter.com/",
+    "tags": [
+      "healthcare",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+    "phoneNumber": "(484) 821-0821",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Bethlehem",
+    "county": "Northampton County",
+    "latLng": [
+      40.6728208,
+      -75.37561989999999
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Allentown Frauenzentrum",
+    "description": "Ein umfassender Gesundheitsdienstleister, der sich auf Dienstleistungen spezialisiert hat, die sich an eine breite Palette von Bevölkerungsgruppen richten, einschließlich der Transgender-Gemeinschaft. Die Dienstleistungen reichen von Abtreibungsverfahren über gynäkologische Versorgung, geschlechtsbestätigende Dienstleistungen bis hin zu Zertifizierungen für medizinisches Marihuana und andere."
+  },
+  {
     "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
     "slug": "erin-in-the-morning",
     "externalUrl": "https://www.erininthemorning.com/",
@@ -877,6 +1145,27 @@
     ],
     "title": "EqualDex.com",
     "description": "Eine innovative Online-Plattform, die darauf abzielt, eine umfassende und aktuelle Ressource für globale LGBTQ+ Rechte zu schaffen. Ihre Webseite bietet eine zentralisierte Datenbank von Gesetzen, Richtlinien und gesellschaftlichen Einstellungen gegenüber LGBTQ+ Rechten aus der ganzen Welt. Durch das Kartieren und Visualisieren von Daten über Gleichheit, Inklusivität und Rechtsschutz bietet EqualDex.com ein leistungsstarkes Werkzeug für Aktivisten, Forscher und Personen, die LGBTQ+ Rechte auf globaler Ebene verstehen und dafür eintreten wollen. Erkunden Sie ihre interaktiven Karten, durchsuchen Sie länderspezifische Profile und bleiben Sie informiert über die neuesten Fortschritte und Herausforderungen, die die LGBTQ+ Gemeinschaft weltweit trifft."
+  },
+  {
+    "id": "5075ae0b-ac8b-4bc5-9f42-ffdb587784cb",
+    "slug": "how-to-pack-ftm-with-socks-diy-packer",
+    "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
+    "tags": [
+      "transmasculine",
+      "clothing",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Wie man mit Socken ftm packt | DIY Packer",
+    "description": "Dieser Blogbeitrag bietet einen umfassenden Leitfaden, wie man mit Socken und anderen erschwinglichen Materialien einen selbstgemachten Packer herstellt. Enthält auch DIY-Alternativen für andere FTM-Prothesen, um transmaskulinen Personen zu helfen, sich wohler und authentischer zu fühlen."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1011,6 +1300,70 @@
     },
     "title": "Transgender Victoria",
     "description": "TGV ist Victorias führende Organisation für trans und geschlechtsvielfältige Menschen. Wir arbeiten daran, Gerechtigkeit, Gleichheit und Inklusion für unsere Gemeinschaften, ihre Partner, Familien, Freunde und Verbündeten zu erreichen. Wir stellen verschiedene Ressourcen bereit, bieten Schulungen, Interessenvertretung und Unterstützungsdienste an, die auf die sozialen, wirtschaftlichen, gesundheitlichen, Wohlbefinden und mentalen Gesundheitsergebnisse für die Transgender-Gemeinschaft abzielen."
+  },
+  {
+    "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+    "slug": "margies-hope",
+    "externalUrl": "https://www.margieshope.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "support-groups",
+      "youth-services",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": "(440) 857-0611",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@margieshope.org",
+    "socialMedia": null,
+    "title": "Margies Hoffnung",
+    "description": "Margies Hoffnung wurde 2011 von Jacob Nash gegründet. Unsere Geschichte und unser Zweck war es, das Leben von Transgender, Nicht-Binären und Geschlechtserweiterten Menschen in der Gemeinschaft zu bereichern. Margies Hoffnung bietet Ressourcen und Unterstützung durch verschiedene Gemeinschaftsprogramme und einen gemeinnützigen Wiederverkaufsladen."
+  },
+  {
+    "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+    "slug": "brave-space-alliance",
+    "externalUrl": "https://bravespacealliance.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+    "phoneNumber": "(872) 333-5199",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.7997305,
+      -87.5885496
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+      "twitterUrl": "https://twitter.com/BSAllianceChi",
+      "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+      "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+    },
+    "title": "Brave Space Alliance",
+    "description": "Die Brave Space Alliance ist das erste von Schwarzen geleitete, trans-geleitete LGBTQ+ Zentrum, das sich auf der Südseite von Chicago befindet und bejahende und kulturell kompetente Dienstleistungen für die gesamte LGBTQ+ Gemeinschaft von Chicago bereitstellt."
   },
   {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
@@ -1211,6 +1564,33 @@
     "description": "Eine Gesundheitsorganisation in Südaustralien, die klinische Dienstleistungen, Sexualgesundheitsberatung und Ausbildung und Training im Zusammenhang mit sexueller und reproduktiver Gesundheit und Beziehungsfähigkeiten bereitstellt. Sie bietet auch Unterstützung und integrative Dienstleistungen für die LGBTIQA+ Gemeinschaft. Sie beteiligen sich auch an Feierlichkeiten und Advocacy für internationale Transgender- und geschlechtsdiverse Gemeinschaften Rechte und Anerkennung."
   },
   {
+    "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+    "slug": "boston-alliance-of-lgbtq-youth-bagly",
+    "externalUrl": "https://www.bagly.org/",
+    "tags": [
+      "youth-services",
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "28 Court Square, Boston, MA 02108, USA",
+    "phoneNumber": "(617) 227-4313",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3585686,
+      -71.05938739999999
+    ],
+    "email": "mmccarron@bagly.org",
+    "socialMedia": {
+      "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+    },
+    "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+    "description": "BAGLY ist eine von Jugendlichen geleitete, von Erwachsenen unterstützte Organisation, die sich für Programme, Richtlinien und Dienstleistungen für die LGBTQ+ Jugendgemeinschaft einsetzt. Sie bietet eine Reihe von Ressourcen und Programmen, einschließlich Gesundheitsdienstleistungen, Nahrungsgerechtigkeit, der Entwicklung von Jugendführung und mehr. BAGLY priorisiert die Bedürfnisse von LGBTQ+ Jugendlichen mit Migrationshintergrund, Transgender- und Geschlechtsnonkonformen Jugendlichen und obdachlosen LGBTQ+ Jugendlichen."
+  },
+  {
     "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
     "slug": "zoe-belle-gender-collective",
     "externalUrl": "https://zbgc.org.au/",
@@ -1233,6 +1613,28 @@
     "socialMedia": null,
     "title": "Zoe Belle Gender Kollektiv",
     "description": "Das Zoe Belle Gender Kollektiv ist eine von trans und geschlechtlich diversen Menschen geleitete Interessenvertretungsorganisation, die professionelle Schulungen, Workshops und Unterstützung für die LGBTQI+ Gemeinschaft bietet. Sie stellt Ressourcen und Hilfe für Gemeindedienste, Arbeitnehmer, Familien und Freunde sowie trans und geschlechtlich diverse Personen bereit. Kürzlich hat sie Transfemme ins Leben gerufen, eine präventive Initiative gegen Gewalt von cis Männern gegenüber trans Frauen."
+  },
+  {
+    "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+    "slug": "centerlink-the-community-of-lgbtq-centers",
+    "externalUrl": "https://www.lgbtqcenters.org",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "CenterLink, Die Gemeinschaft der LGBTQ-Zentren",
+    "description": "CenterLink ist eine internationale gemeinnützige Organisation und eine auf Mitgliedern basierende Vereinigung von LGBTQ-Zentren und anderen Organisationen, die ihren lokalen und regionalen Gemeinschaften dienen. Ihre Mission ist es, LGBTQ-Gemeinschaftszentren zu stärken, zu unterstützen und zu vernetzen, wesentliche Dienstleistungen zu erbringen, Wachstum, Wohlbefinden und Konnektivität in über 325 LGBTQ-Gemeinschaften weltweit zu fördern."
   },
   {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
@@ -1262,6 +1664,33 @@
     "email": "info@genderdiversity.org",
     "title": "Geschlechtervielfalt",
     "description": "Geschlechtervielfalt verbessert das Wohlbefinden von Kindern und Erwachsenen aller Geschlechtsidentitäten und -ausdrücke, indem sie Bildung bereitstellt, das Bewusstsein schärft und Einblick in das breitere Spektrum menschlicher Erfahrungen bietet. Wir helfen auch dabei, unterstützende und diskriminierungsfreie Umgebungen in Schulen, Sportteams, Arbeitsplätzen und bei Gesundheitsdienstleistern für transsexuelle und geschlechtsdiverse Individuen zu schaffen."
+  },
+  {
+    "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+    "slug": "equality-california",
+    "externalUrl": "https://www.eqca.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+    "phoneNumber": "(323) 848-9801",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0500954,
+      -118.2531648
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Equality California",
+    "description": "Equality California ist eine Organisation, die die Stimmen von LGBTQ+ Menschen und Verbündeten zu den Machtinstitutionen in Kalifornien und in den gesamten Vereinigten Staaten bringt, mit dem Ziel, eine Welt zu schaffen, die für alle LGBTQ+ Menschen gesund, gerecht und vollständig gleich ist. Sie fördern Bürgerrechte und soziale Gerechtigkeit und arbeiten unermüdlich im Dienste derer, die sie repräsentieren. Sie bieten Programme, Veröffentlichungen, Gesetze, Unterstützungen und verschiedene Möglichkeiten, aktive Maßnahmen zu ergreifen."
   },
   {
     "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
@@ -1322,6 +1751,35 @@
     "town": "Manhattan",
     "title": "Transgender Legal Defense & Education Fund (TLDEF)",
     "description": "Die TLDEF setzt sich für das Ende der Diskriminierung aufgrund von Geschlechtsidentität und Ausdruck ein und strebt die Gleichberechtigung für Transgender-Personen durch öffentliche Bildung, Testfallklagen, direkte Rechtsdienstleistungen und öffentliche politische Bemühungen an. Sie bieten verschiedene Dienstleistungen an, wie das Änderungsprojekt für Namen, Wirkungsklagen und das Projekt für Trans-Gesundheit. Außerdem werden Updates zu rechtlichen Fragen bereitgestellt, die die Transgender-Gemeinschaft betreffen."
+  },
+  {
+    "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+    "slug": "gender-justice-league",
+    "externalUrl": "https://www.genderjusticeleague.org/",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+    "phoneNumber": "206-538-0423",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6142754,
+      -122.3171383
+    ],
+    "email": "info@genderjusticeleague.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+      "twitterUrl": "https://twitter.com/genderjusticewa",
+      "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+      "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+    },
+    "title": "Gender Justice League",
+    "description": "Die Gender Justice League ist eine Organisation für Zivil- und Menschenrechte, die sich auf die Stärkung der Rechte von trans & geschlechtlich vielfältigen Gemeinschaften im Bundesstaat Washington und darüber hinaus konzentriert. GJL wurde 2012 in Seattle, WA, von einer Gruppe langjähriger trans, queer und verbündeter Aktivisten gegründet. Sie konzentrieren sich auf Advocacy, bieten ein Safe-House-Programm, Ressourcen und besondere Veranstaltungen an."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -1652,6 +2110,57 @@
     "description": "Eine umfassende Ressource zur Geschlechtsdysphorie, bereitgestellt von dem 1177 Gesundheitsführer in Schweden, die diskutiert, was es ist, wie es sich anfühlt, wie man Hilfe sucht und verschiedene Behandlungsoptionen. Es dient durch die Bereitstellung von detaillierten Informationen für diejenigen, die Geschlechtsdysphorie erleben und sie auf ihrer Reise unterstützen."
   },
   {
+    "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+    "slug": "chest-binding-101",
+    "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Binding 101: Tipps für sicheres Chest Binding",
+    "description": "Ein umfassender Leitfaden von Point of Pride, der Tipps und Ressourcen für sicheres Chest Binding bereitstellt. Liefert Informationen zu verschiedenen Binder-Stilen, Regeln für sicheres Binden und Ressourcen zum Erwerb von Chest Bindern. Zielt auf alle ab, die ein flacheres Brustaussehen wünschen, mit besonderem Fokus auf trans, non-binären und genderqueeren Personen."
+  },
+  {
+    "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+    "slug": "metro-trans-umbrella-group",
+    "externalUrl": "https://www.stlmetrotrans.org/",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MO",
+    "city": "Saint Louis",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+    },
+    "title": "Metro Trans Regenschirm-Gruppe",
+    "description": "Eine gemeinnützige Basisorganisation, die in Saint Louis ansässig ist und sich engagiert darum bemüht, eine inklusivere und unterstützende Gemeinschaft für Transgender-Personen zu schaffen. Bietet Dienstleistungen an wie eine Lebensmittelkammer, STI-Tests, Unterstützung bei Namensänderungen, geschlechtsbejahende Kleidung und wöchentliche Veranstaltungen, um sich gegenseitig zu bestärken und auf Gleichheit hinzuarbeiten."
+  },
+  {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
     "slug": "pronoun-dressing-room",
     "externalUrl": "http://www.pronouns.failedslacker.com/",
@@ -1672,6 +2181,31 @@
     "socialMedia": null,
     "title": "Pronomen Ankleidezimmer",
     "description": "Das Pronomen Ankleidezimmer bietet einen Online-Raum, in dem Einzelpersonen verschiedene Pronomen-Sets ausprobieren und erkunden können, um zu sehen, welche für sie passend sind. Die Webseite erleichtert die Entscheidungsfindung bei der Auswahl von Pronomen für die Transgender-Gemeinschaft und ermöglicht es ihnen zu sehen, wie verschiedene Pronomen in unterschiedlichen Kontexten aussehen könnten."
+  },
+  {
+    "id": "aac7385e-58e6-4839-be0e-b637b1021437",
+    "slug": "bradbury-sullivan-lgbt-community-center",
+    "externalUrl": "https://www.bradburysullivancenter.org/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "522 W Maple St, Allentown, PA 18101, USA",
+    "phoneNumber": "(610) 347-9988",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "latLng": [
+      40.60245,
+      -75.46774780000001
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Bradbury-Sullivan LGBT Community Center",
+    "description": "Das Bradbury-Sullivan LGBT Community Center bietet einen lebendigen, inklusiven Raum im Lehigh Valley in Pennsylvania für alle LGBTQ+ Bewohner der Region. Es bietet Gemeinschaftsprogramme, befasst sich mit Barrieren zur Versorgung durch seine Gesundheitsprogramme, organisiert jährlich das Pride-Festival und arbeitet durch sein LGBTQ+ Education Institute daran, die Gerechtigkeit zu erhöhen."
   },
   {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
@@ -1905,6 +2439,37 @@
     },
     "title": "Queer Lexikon",
     "description": "Das Queer Lexikon ist eine Online-Ressource, die umfangreiche Informationen und Unterstützung für die Queer-Community bietet. Es werden Themen von sexueller, romantischer, geschlechtlicher Vielfalt bis hin zu psychischer Gesundheit und Unterstützungsgruppen behandelt. Es ist eine Plattform für Bildung, Bewusstsein und Geschichten aus der Community."
+  },
+  {
+    "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+    "slug": "pride-center-san-antonio",
+    "externalUrl": "https://pridecentersa.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "TX",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+      "twitterUrl": "https://twitter.com/PrideCenterSA",
+      "instagramUrl": "https://www.instagram.com/pridecentersa/"
+    },
+    "title": "Pride Center San Antonio",
+    "description": "Das Pride Center San Antonio dient der lesbischen, schwulen, bisexuellen, transsexuellen, fragenden und verbündeten Gemeinschaft. Sie organisieren eine Vielzahl von Programmen, Veranstaltungen und Ressourcen, einschließlich Selbsthilfegruppen, Therapie, STI-Testungen und mehr. Sie streben eine Zusammenarbeit mit bestehenden Diensten innerhalb der Gemeinschaft an."
   },
   {
     "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
@@ -2228,6 +2793,29 @@
     "description": "Die East Bay Trans & Queer Beratung bietet gleitende Skalen-Dienstleistungen an, die Folgendes beinhalten: Individuelle Therapie zentral gelegen in Berkeley, CA Unterstützung bei der Geschlechtsforschung und -überleitung Empfehlungsschreiben für Hormone und Operationen Professionelle Schulungen für Anbieter im Bereich der geistigen Gesundheit, Studenten und Arbeitgeber. Sam Davis ist ein transgender, genderqueer lizenzierter klinischer Sozialarbeiter (LCSW), der sich auf die Arbeit mit trans, queer, genderqueer und gender-nonkonformen Jugendlichen und Erwachsenen spezialisiert hat. Sie haben 16 Jahre Erfahrung als Anbieter im Bereich der geistigen Gesundheit in der East Bay, einschließlich der Moderation von Peer-Support-Gruppen, der Gemeindebildung auf LGBTQI-Konferenzen und 9 Jahre klinischer Praxis und Krisenberatung mit stark marginalisierten Menschen für den County of Alameda. Sie sind ein starker und engagierter Verfechter mit einer langen Geschichte der Organisation im Interesse marginalisierter Menschen."
   },
   {
+    "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+    "slug": "lgbtq-health-services-by-cdph",
+    "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": "(916) 558-1784",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Sacramento",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "LGBTQ+ Gesundheitsdienste von CDPH",
+    "description": "Das California Department of Public Health (CDPH) kümmert sich um die Gesundheit aller Kalifornier, einschließlich der lesbischen, schwulen, bisexuellen und transsexuellen (LGBT) Gemeinschaften. Sie stellen Ressourcen bereit, um Gesundheitsprobleme zu verstehen, die die LGBT-Gemeinschaft am häufigsten betreffen, notwendige Untersuchungen in verschiedenen Lebensphasen und Werkzeuge für einen gesunden Lebensstil."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2279,6 +2867,43 @@
     "town": "Manhattan",
     "title": "Familiengleichheit",
     "description": "Familiengleichheit ist eine gemeinnützige Organisation, die sich dem Schutz und der Unterstützung von LGBTQ+ Familien widmet. Sie kämpfen für rechtlichen Schutz, bieten Ressourcen und Bildung an und setzen sich aktiv für LGBTQ+ Rechte ein. Diese Organisation veranstaltet verschiedene Events und hilft Familien, sich mit einander und der breiteren LGBTQ+ Gemeinschaft zu vernetzen."
+  },
+  {
+    "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+    "slug": "center-on-halsted",
+    "externalUrl": "https://www.centeronhalsted.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+    "phoneNumber": "773.472.6469",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.9488291,
+      -87.6499407
+    ],
+    "email": "mail@centeronhalsted.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+      "twitterUrl": "http://twitter.com/CenteronHalsted",
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Center on Halsted",
+    "description": "Chicagos Gemeindezentrum, dem es sich widmet, die lesbische, schwule, bisexuelle, transgender (LGBT) und queer (+) Gemeinschaft voranzubringen, indem es Serviceprogramme, Veranstaltungen, Schulungen und Ressourcen bereitstellt. Dazu gehören Dienste für HIV/AIDS & STD, psychische Gesundheit, Anti-Gewalt und spezielle Programme für Jugendliche und Senioren."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -2430,6 +3055,33 @@
     "description": "Transgendermap.com ist eine Online-Ressource, die darauf abzielt, praktische Informationen und Anleitungen für Menschen bereitzustellen, die ihre Geschlechtsidentität in Frage stellen oder irgendwo auf dem Transgender-Spektrum sind. Die Website umfasst eine Vielzahl von Themen wie das Verständnis von Transgender-Terminologie, Übergangsprozesse, rechtliche Fragen, Gesundheitsversorgung und zahlreiche persönliche Geschichten. Ihr Ziel ist es, Einzelpersonen dabei zu helfen, ihre persönlichen Reisen zu navigieren, indem sie eine 'Karte' oder einen Leitfaden zu den vielen Aspekten der Geschlechtsidentität und Transgender-Erfahrungen bietet. Bitte besuchen Sie die tatsächliche Website für die aktuellsten und genauesten Informationen."
   },
   {
+    "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+    "slug": "transgender-health-program-massachusetts-general-hospital",
+    "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": "55 Fruit St, Boston, MA 02114, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3625677,
+      -71.0687661
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/massgeneral",
+      "twitterUrl": "https://www.twitter.com/massgeneral",
+      "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+    },
+    "title": "Transgender-Gesundheitsprogramm im Massachusetts General Hospital",
+    "description": "Das Transgender-Gesundheitsprogramm im Massachusetts General Hospital bietet personalisierte, aktuelle und hochwertige medizinische Versorgung für Transgender-Personen, Jugendliche und Pflegepersonen. Das Programm bietet verschiedene Ressourcen, Antworten auf häufig gestellte Fragen und ein spezialisiertes Betreuungsteam."
+  },
+  {
     "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
     "slug": "the-genderaid",
     "externalUrl": "https://genderaid.org/en",
@@ -2576,6 +3228,31 @@
     "description": "RFSL ist eine schwedische Organisation, die mit und für LGBTQ-Rechte arbeitet. Sie bietet entscheidende Ressourcen, Gemeinschaftsunterstützung, Bildung & Bewusstseinsbildung, rechtliche Beratung, Gesundheitsdienste und mehr für die Transgender-Gemeinschaft an. RFSL setzt sich auch auf internationaler Ebene für LGBTQ-Rechte ein."
   },
   {
+    "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+    "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+    "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+    "tags": [
+      "transfeminine",
+      "mental-health",
+      "youth-services",
+      "support-groups"
+    ],
+    "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+    "phoneNumber": "(773) 935-3151",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.936299,
+      -87.6448942
+    ],
+    "email": "BaylieR@howardbrown.org",
+    "socialMedia": null,
+    "title": "Transgender-Jugendressourcen und Advocacy (TYRA) Gruppe",
+    "description": "TYRA ist eine Unterstützungsgruppe für transsexuelle und sich fragende Jugendliche, 24 und darunter, um Menschen zu treffen, sich zu informieren und von ihren Kollegen unterstützt zu werden. Die Sitzung findet jeden Donnerstag von 17:00 Uhr bis 19:00 Uhr statt."
+  },
+  {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
     "slug": "apotheek-all-about-medication",
     "externalUrl": "https://www.apotheek.nl/",
@@ -2594,6 +3271,65 @@
     "socialMedia": null,
     "title": "Apotheek.nl - Alles über Medikamente",
     "description": "Eine Ressource, die zuverlässige Informationen über verschiedene Medikamente bietet. Die Seite umfasst Videos, aktuelle Angelegenheiten in der Gesundheit, Informationen zu Impfungen, Coronavirus und Apothekenpflege. Sie bietet Informationen auf Niederländisch und übersetzt 50 Schlüsselmedikamente für ukrainische Flüchtlinge."
+  },
+  {
+    "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+    "slug": "transgender-equality-id-documents-center",
+    "externalUrl": "https://transequality.org/documents",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "latLng": [
+      38.9034383,
+      -77.03503719999999
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Transgender Equality ID Dokumente Zentrum",
+    "description": "Eine umfassende Ressource, die Personen dabei hilft, ihren Namen und ihr Geschlecht in staatlichen und bundesweiten Ausweisen und Aufzeichnungen zu aktualisieren. Sie bietet Informationen über Policy-Bewertungen für jeden Staat und Schritte für verschiedene Prozesse, einschließlich der Aktualisierung von Pässen, Sozialversicherungsaufzeichnungen, militärischen/veteranischen Aufzeichnungen usw."
+  },
+  {
+    "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+    "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+    "externalUrl": "https://www.gendergp.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/gendergp",
+      "twitterUrl": "https://twitter.com/GenderGP",
+      "instagramUrl": "https://www.instagram.com/gendergp",
+      "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "GenderGP: Umfassende Unterstützung für transgeschlechtliche Personen",
+    "description": "GenderGP bietet eine umfassende Palette von Dienstleistungen, die Fürsprache, Beratung, Gesundheitsversorgung und eine Reihe von ergänzenden Diensten für transgeschlechtliche Menschen weltweit umfassen. Die Plattform bietet transgeschlechtlichen Personen einen Zugang zur geschlechtsbestätigenden Gesundheitsversorgung, rechtlicher Übergangshilfe und sozialer Übergangsunterstützung. Durch seine weltweit zugängliche digitale Plattform ist GenderGP bestrebt, transgeschlechtlichen Personen ein komfortableres und authentischeres Leben zu ermöglichen."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

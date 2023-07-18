@@ -1,0 +1,109 @@
+{
+  "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+  "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+  "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+  "tags": [
+    "transfeminine",
+    "mental-health",
+    "youth-services",
+    "support-groups"
+  ],
+  "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+  "phoneNumber": "(773) 935-3151",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Chicago",
+  "county": "Cook County",
+  "latLng": [
+    41.936299,
+    -87.6448942
+  ],
+  "email": "BaylieR@howardbrown.org",
+  "socialMedia": null,
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Youth Resource and Advocacy (TYRA) Group",
+      "description": "TYRA is a support group for transgender and questioning youth, 24 and under, to meet people, get informed, and be supported by their peers. The session happens every Thursday from 5:00 pm to 7:00 pm."
+    },
+    "es-ES": {
+      "title": "Grupo de Recursos y Defensa para Jóvenes Transgénero (TYRA)",
+      "description": "TYRA es un grupo de apoyo para jóvenes transgénero y en cuestionamiento, de 24 años y menores, para conocer gente, informarse y recibir el apoyo de sus pares. La sesión se lleva a cabo todos los jueves de 5:00 p.m. a 7:00 p.m."
+    },
+    "zh-CN": {
+      "title": "跨性别青年资源和倡导（TYRA）小组",
+      "description": "TYRA是一个支持24岁及以下的跨性别和质疑自身性别的青少年的群组，让他们可以认识新的人，获取信息，并得到同龄人的支持。本组每周四的下午5:00到7:00有活动。"
+    },
+    "tr-TR": {
+      "title": "Transgender Gençlik Kaynak ve Savunma (TYRA) Grubu",
+      "description": "TYRA, transseksüel ve soru işaretleri olan gençlerin, 24 yaş ve altı, insanlarla tanışmak, bilgi edinmek ve akranları tarafından desteklenmek için bir destek grubudur. Oturum her Perşembe 17:00'den 19:00'a kadar gerçekleşir."
+    },
+    "de-DE": {
+      "title": "Transgender-Jugendressourcen und Advocacy (TYRA) Gruppe",
+      "description": "TYRA ist eine Unterstützungsgruppe für transsexuelle und sich fragende Jugendliche, 24 und darunter, um Menschen zu treffen, sich zu informieren und von ihren Kollegen unterstützt zu werden. Die Sitzung findet jeden Donnerstag von 17:00 Uhr bis 19:00 Uhr statt."
+    },
+    "id-ID": {
+      "title": "Grup Sumber Daya dan Advokasi Remaja Transgender (TYRA)",
+      "description": "TYRA adalah grup dukungan untuk remaja transgender dan yang sedang mencari jati diri, 24 tahun ke bawah, untuk bertemu orang, mendapatkan informasi, dan didukung oleh teman sebaya mereka. Sesi ini berlangsung setiap Kamis dari pukul 17.00 hingga 19.00."
+    },
+    "pt-PT": {
+      "title": "Grupo de Recursos e Advocacia para Jovens Transgêneros (TYRA)",
+      "description": "TYRA é um grupo de apoio para jovens transgêneros e em questionamento, de até 24 anos, para conhecer pessoas, obter informações e receber apoio de seus pares. A sessão acontece todas as quintas-feiras, das 17:00 às 19:00."
+    },
+    "fr-FR": {
+      "title": "Groupe de Ressources et de Plaidoyer pour les Jeunes Transgenres (TYRA)",
+      "description": "TYRA est un groupe de soutien pour les jeunes transgenres et en questionnement, de 24 ans et moins, pour rencontrer des personnes, s'informer, et être soutenu par leurs pairs. La session se déroule tous les jeudis de 17h00 à 19h00."
+    },
+    "sw-KE": {
+      "title": "Kikundi cha Vijana Wanaobadilisha Jinsia na Utetezi (TYRA)",
+      "description": "TYRA ni kikundi cha msaada kwa vijana wanaobadilisha jinsia na wanaojiuliza, wenye umri wa chini ya miaka 24, kukutana na watu, kupata habari, na kupata msaada kutoka kwa rika lao. Kikao hufanyika kila Alhamisi kuanzia saa 11:00 jioni hadi saa 1:00 usiku."
+    },
+    "ru-RU": {
+      "title": "Группа ресурсов и инициатив для трансгендерных молодых людей (TYRA)",
+      "description": "TYRA - это группа поддержки для трансгендеров и молодых людей, которые задают себе вопросы, в возрасте до 24 лет, где они могут встретить людей, получить информацию и получить поддержку от сверстников. Сессия проводится каждый четверг с 17:00 до 19:00."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダー・ユース・リソース・アンド・アドヴォカシー（TYRA）グループ",
+      "description": "TYRAは、24歳以下のトランスジェンダーと自己を問い直す若者のための支援グループであり、人々に出会い、情報を得て、仲間から支援を受けることができます。セッションは毎週木曜日の午後5時から7時まで行われます。"
+    },
+    "uk-UA": {
+      "title": "Група ресурсів та пропаганди для трансгендерної молоді (TYRA)",
+      "description": "TYRA - це група підтримки для трансгендерної та сумніваючоїся молоді до 24 років, щоб зустрічати людей, отримувати інформацію та отримувати підтримку від однолітків. Засідання проводяться щочетверга з 17:00 до 19:00."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 청소년 자원 및 옹호 (TYRA) 그룹",
+      "description": "TYRA는 트랜스젠더 및 의문을 가진 청소년들, 24세 이하, 사람들을 만나 정보를 얻고 동료들에게 지원 받을 수 있는 지원 그룹입니다. 이 모임은 매주 목요일 오후 5시에서 오후 7시까지 진행됩니다."
+    },
+    "vi-VN": {
+      "title": "Nhóm Tài nguyên và Biện hộ cho Giới trẻ Chuyển giới (TYRA)",
+      "description": "TYRA là một nhóm hỗ trợ dành cho giới trẻ chuyển giới và còn đang tìm hiểu, dưới 24 tuổi, để gặp gỡ mọi người, tiếp thu thông tin và được sự hỗ trợ từ bạn bè cùng trang lứa. Phiên họp diễn ra vào mỗi Thứ Năm từ 5:00 chiều đến 7:00 tối."
+    },
+    "ur-PK": {
+      "title": "ٹرانسجینڈر یوتھ زرعیمل و ایڈووکیسی (ٹائرا) گروپ",
+      "description": "ٹائرا ایک سپورٹ گروپ ہے جو ٹرانسجینڈر اور سوال کرنے والے نوجوانوں کے لئے، 24 اور زیر کی عمر، لوگوں سے ملنے، مطلع ہونے، اور اپنے ہم عمر لوگوں کے ذریعہ سمرٹھن کرنے کے لئے۔ یہ سیشن ہر جمعرات کو شام 5:00 بجے سے 7:00 بجے تک ہوتا ہے۔"
+    },
+    "mr-IN": {
+      "title": "त्रांसजेंडर युवक संसाधन व समर्थन (TYRA) गट",
+      "description": "TYRA हे एक समर्थन गट आहे ज्यामध्ये 24 वर्षाखालील त्रांसजेंडर आणि प्रश्नांच्या युवकांना लोकांशी भेटायला, माहिती मिळवायला आणि त्यांच्या समान वयोगटांकडून समर्थन मिळवायला संधी मिळते. ह्या सत्राची वेळ ही प्रत्येक गुरूवारी सायंकाळी 5:00 ते 7:00 आहे."
+    },
+    "ar-SA": {
+      "title": "مجموعة (TYRA) للدعم والدفاع عن حقوق الشباب المتحولين جنسيا",
+      "description": "TYRA هي مجموعة دعم للشباب المتحولين جنسيا والمتساؤلين عنه، تحت سن 24، للقاء الأشخاص، الحصول على المعلومات، والحصول على الدعم من أقرانهم. تتم الجلسة كل خميس من الساعة 5:00 مساءً إلى 7:00 مساءً."
+    },
+    "ta-IN": {
+      "title": "மாற்றுத் தன்மை இளைஞர் வழங்கும் மற்றும் ஆதரிக்கும் (TYRA) குழு",
+      "description": "TYRA என்பது, மாற்றுத் தன்மை மற்றும் அந்த கேள்விக்கு உள்ள இளைஞர்களுக்கு, 24 ஆகியோர் கீழ் ஆதரவு குழு, மக்களை சந்திக்க, தகவல் பெற, மற்றும் அவரவர் சகலரால் ஆதரவு பெறுவதற்கு. அமைப்பு ஒவ்வோரு வியாழன் முதல் 5:00 மணிக்கு முதல் 7:00 மணிக்கு வரை நடைபெறுகிறது."
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर युवा संसाधन और मुखर समूह (TYRA)",
+      "description": "TYRA एक सहायता समूह है जो 24 और उससे कम आयु के संदेहित और ट्रांसजेंडर युवाओं के लिए लोगों से मिलने, सूचना प्राप्त करने और अपने सहकर्मियों द्वारा समर्थित होने का उद्देश्य रखता है। यह सत्र हर गुरुवार को 5:00 बजे से 7:00 बजे तक होता है।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার নবযুবক সম্পদ এবং উদ্যোগ (TYRA) দল",
+      "description": "TYRA একটি সমর্থন দল, যেখানে ট্রান্সজেন্ডার এবং প্রশ্নকর্তা যৌবনের জন্য, 24 বছর এবং তার চেয়ে কম, লোকদের সাথে মিলতে, তথ্য পেতে, এবং তাদের সহকর্মীদের দ্বারা সমর্থিত হতে পারে। এই সেশনটি প্রতি বৃহস্পতিবার 5:00 অপরাহ্ণ থেকে 7:00 অপরাহ্ণ পর্যন্ত হয়।"
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్జెండర్ యువజన సంసాధన మరియు అభిప్రేరణ (TYRA) సమూహం",
+      "description": "TYRA ఒక ట్రాన్స్జెండర్ మరియు ప్రశ్నించడం తొలగించే యువజనానికి కైచీకించే ఒక సమూహం, 24 కి క్రింద, ప్రజలను కలుసుకోవడానికి, సమాచారాన్ని పొందడానికి మరియు తమ జాతుల ద్వారా మద్దతు పొందడానికి. ఈ అధివేశనం ప్రతి గురువారం 5:00 గంటల నుండి 7:00 గంటల వరకు జరుగుతుంది."
+    }
+  }
+}

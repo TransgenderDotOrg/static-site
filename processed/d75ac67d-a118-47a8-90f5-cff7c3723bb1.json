@@ -1,0 +1,23 @@
+{
+  "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+  "title": "LGBTQ+ Health Services by CDPH",
+  "description": "The California Department of Public Health (CDPH) caters to the health of all Californians including the Lesbian, Gay, Bisexual, and Transgender (LGBT) communities. They provide resources to understand health issues that most often impact the LGBT community, necessary screenings at various life stages, and tools for a healthy lifestyle.",
+  "slug": "lgbtq-health-services-by-cdph",
+  "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "address": null,
+  "phoneNumber": "(916) 558-1784",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Sacramento",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

@@ -36,6 +36,34 @@
     "description": "サンマテオ郡プライドセンターは、LGBTQ+コミュニティのためのコラボレーションモデル組織およびワンストップショップです。 私たちは、教育、トレーニング、コミュニティイベント、ピアサポートグループ、日常のプログラミング、臨床療法、ケース管理など、すべての年齢のLGBTQ+コミュニティメンバーをサポートするための充実したプログラムとサービスを提供しています。"
   },
   {
+    "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+    "slug": "hawaii-lgbt-legacy-foundation",
+    "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Honolulu, HI, USA",
+    "phoneNumber": "808.369.2000",
+    "country": "US",
+    "provinceOrState": "HI",
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "latLng": [
+      21.3098845,
+      -157.8581401
+    ],
+    "email": "info@hawaiilgbtlegacy.com",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+      "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+      "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+    },
+    "title": "ハワイ LGBT レガシー財団",
+    "description": "ハワイの LGBTQ+ コミュニティの支援と推進に専念する非営利団体。ホノルルプライド、レインボータウンホール、カミングアウトストーリーズを含むさまざまなプロジェクトやイベントを主催します。また、さまざまなリソースやサポートサービスを提供します。"
+  },
+  {
     "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
     "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
     "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
@@ -57,6 +85,35 @@
     "socialMedia": null,
     "title": "子供や親のトランスセクシャリティを理解し支える",
     "description": "このドイツの記事では、親や子供のトランスセクシャリティに直面する家族に向けて包括的なガイドを提供しています。重要な手続きやリソースについての情報を提供し、状況を理解し受け入れることから関連する治療に進むまでのガイダンスを提供しています。"
+  },
+  {
+    "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+    "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+    "externalUrl": "https://www.nagly.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Salem, MA, USA",
+    "phoneNumber": "978-224-2102",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "latLng": [
+      42.5197473,
+      -70.8954626
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "北岸同性愛者、レズビアン、バイセクシャル、トランスジェンダーの若者たちの連盟 (NAGLY)",
+    "description": "NAGLYのミッションは、GLBTQ+の若者たちを敬うこと、尊重すること、教育すること、そしてエンパワーメントすることです。彼らは地元のプログラムや支援サービスを通じてコミュニティを育て、青少年と大人のグループやさまざまなコミュニティ活動を含みます。彼らはメンタルヘルスリソースを提供し、ヘルスケア教育を提供し、そして LGBTQ+コミュニティがつながり、彼らの経験を共有する機会をたくさん提供します。"
   },
   {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
@@ -272,6 +329,37 @@
     "description": "Minus18は、LGBTQIA+の若者の生活を向上させるオーストラリアの慈善団体です。彼らは社会的孤立を解消するために、若者たちが属し、称賛され、友達を作ることができる空間を創造します。また、LGBTQIA+のトレーニング、リソース、デジタルキャンペーンを提供し、差別のないオーストラリアを創造することを目指しています。彼らの目標は、若者たちが変革を推進する最前線に立つためのスキルと機会を提供することです。"
   },
   {
+    "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+    "slug": "youth-eastside-services",
+    "externalUrl": "https://www.youtheastsideservices.org/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources"
+    ],
+    "address": "Kirkland, WA, USA",
+    "phoneNumber": "425-747-4937",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Kirkland",
+    "county": "King County",
+    "latLng": [
+      47.6768927,
+      -122.2059833
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+      "twitterUrl": "https://twitter.com/YouthEastside",
+      "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+      "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+    },
+    "title": "ユースイーストサイドサービス",
+    "description": "ユースイーストサイドサービス（YES）は、支払能力に関係なく、青少年とその家族に包括的なメンタルヘルスと薬物乱用サービスを提供する非営利団体です。ワシントンに位置するそのサービスは、カウンセリング、セラピー、LGBTQ+コミュニティへの支援、さまざまな地域ベースのプログラムをカバーしています。"
+  },
+  {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
     "slug": "us-trans-survey",
     "externalUrl": "https://www.ustranssurvey.org/",
@@ -330,6 +418,57 @@
     },
     "title": "nonbinary.ch - ノンバイナリーな個々人のためのリソース",
     "description": "ノンバイナリー性別アイデンティティに関連する情報とリソースを提供する包括的なスイスのウェブサイトです。それは、自身の性別アイデンティティを探求している個々人、またはノンバイナリーな個々人と交流している人々を支援することを目的としており、基礎的な知識を容易に利用可能にしています。このサイトでは、ブログ、ニュースレター、書籍、映画、研究などの関連する外部リソースへのリンクもホストしています。"
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "人権運動",
+    "description": "人権運動は、LGBTQ+コミュニティの権利と平等のために戦います。彼らは教育、提唱、動員を通じて差別を終わらせ、プロ平等の政策を推進することを目指しています。また、LGBTQ+コミュニティの人々が地元のエリアで活動に参加するためのリソースも提供しています。"
+  },
+  {
+    "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+    "slug": "gender-confirmation-center",
+    "externalUrl": "https://www.genderconfirmation.com/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+    "phoneNumber": "(415) 780-1515",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "SF",
+    "county": "San Francisco County",
+    "latLng": [
+      37.7896952,
+      -122.4078356
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "ジェンダー確認センター",
+    "description": "ジェンダー確認センターは、さまざまな種類の手続きと治療計画を通じて、トランスジェンダー、ノンバイナリー、ジェンダーダイバーシティコミュニティに包括的なジェンダーアファーミングケアを提供します。"
   },
   {
     "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
@@ -530,6 +669,29 @@
     "description": "1990年以来、トランスジェンダー、ジェンダーダイバーシティ、ノンバイナリーの個々を代表するクイーンズランドの最高機関。彼らはトランスジェンダーコミュニティに役立つように、サポート、擁護、サービスを提供し、社会イベントを組織します。"
   },
   {
+    "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+    "slug": "topsurgery-net",
+    "externalUrl": "https://www.topsurgery.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TopSurgery.net",
+    "description": "TopSurgery.netは、FTMトップサージェリープロシージャに関する情報を求めている人々向けの包括的なリソースです。このリソースでは、各種の手術手順、外科医の探し方、費用や保険に関する情報、FAQ、トップサージェリーを追求するトランスマスキュリンおよびノンバイナリーの方々のためのその他の関連リソースについて詳しく説明されています。また、書籍の推奨、ビデオチュートリアル、関連トピックの記事などの教育的なコンテンツも含まれています。"
+  },
+  {
     "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
     "slug": "jim-collins-foundation",
     "externalUrl": "https://jimcollinsfoundation.org/",
@@ -628,6 +790,27 @@
     "description": "Queermed Deutschlandは、ドイツのLGBTQIA+コミュニティによって推奨される医師、セラピスト、医療機関のディレクトリです。目的は、医療制度における差別を撲滅し、すべての人に対して敬意をもって感じ取れる医療を提供することです。コミュニティ内の多様な個々の人々に対応するため、匿名アンケートにはさまざまな追加オプションが含まれています。"
   },
   {
+    "id": "3ae6370f-e83a-4b6f-93e1-918d4258c31a",
+    "slug": "how-to-wear-a-packer",
+    "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "パッカーの着用方法",
+    "description": "この記事はパッカーの着用方法についてのガイダンスを提供します。配置のヒント、適切なサイズの選び方、パッカーをどのように配置するべきか、パッカーを固定する方法などについて説明しています。これは、パッキングについてもっと学びたいと願うトランスマスキュリンコミュニティやノンバイナリコミュニティの方々にとっての教育リソースとして役立ちます。"
+  },
+  {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
     "slug": "northern-territory-aids-and-hepatitis-council-inc",
     "externalUrl": "https://www.ntahc.org.au/",
@@ -671,6 +854,44 @@
     "description": "ジェンダー違和症について知識を求め、サポートを必要としている個々のための信頼できるオンラインリソースです。彼らのウェブサイトは情報、リソース、コミュニティとのつながりを提供し、個々の旅を強化します。ジェンダーアイデンティティとトランジションに関する包括的なガイドから個人の話や専門家のアドバイスまで、すべての人に対する安全で包括的なスペースを作り出すことを目指しています。"
   },
   {
+    "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+    "slug": "identity-alaska",
+    "externalUrl": "https://www.identityalaska.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness",
+      "community-stories",
+      "support-groups"
+    ],
+    "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+    "phoneNumber": "(907) 865-3247",
+    "country": "US",
+    "provinceOrState": "AK",
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "latLng": [
+      61.1955918,
+      -149.8774355
+    ],
+    "email": "info@identityinc.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/IdentityInc",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/identityalaska/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "アイデンティティ・アラスカ",
+    "description": "アラスカ州に基づく非営利団体のコミュニティセンターとヘルスクリニックで、LGBTQIA2S+および同盟コミュニティに対してリソース、プログラム、およびヘルスケアを提供しています。"
+  },
+  {
     "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
     "slug": "unitarian-universalist-association",
     "externalUrl": "https://www.uua.org/",
@@ -694,6 +915,28 @@
     "socialMedia": null,
     "title": "ユニタリアンユニバーサリスト協会",
     "description": "公正、愛、学習、希望に満ちた生活を送る人々を支援する、心と心が開かれた精神的コミュニティです。このコミュニティは多様性を包括し、トランスジェンダーコミュニティを含め、公正な行為に積極的に参加することを奨励しています。さらに、さまざまな社会問題に対するリソース、支援、提唱も提供しています。"
+  },
+  {
+    "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+    "slug": "personalized-pronoun-dressing-room",
+    "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "パーソナライズド代名詞ドレッシングルーム",
+    "description": "このインタラクティブなリソースは、コンテキストで使用されるさまざまな代名詞セットの例を提供します。お好きな名前でカスタマイズ可能で、個人の代名詞の探求と理解を手助けします。このツールはトランスジェンダーのコミュニティに有用で、特に新しい代名詞の探求や他人への代名詞使用の教育に役立ちます。"
   },
   {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
@@ -821,6 +1064,31 @@
     "description": "シルビア・リベラ法律プロジェクトは、すべての人々が所得や人種にかかわらず、ハラスメント、差別、暴力に直面することなくジェンダーアイデンティティと表現を自己決定できるように保証するために活動しています。 SRLPは法律支援を提供し、キャンペーンを組織し、研修を行い、囚人諮問委員会を運営しています。寄付、ボランティア活動、会員登録を通じてコミュニティの参加が奨励されています。"
   },
   {
+    "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+    "slug": "allentown-womens-center",
+    "externalUrl": "https://allentownwomenscenter.com/",
+    "tags": [
+      "healthcare",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+    "phoneNumber": "(484) 821-0821",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Bethlehem",
+    "county": "Northampton County",
+    "latLng": [
+      40.6728208,
+      -75.37561989999999
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "オレンタウン女性センター",
+    "description": "トランスジェンダーコミュニティを含む広範な人口に対応したサービスを専門とする包括的なヘルスケアプロバイダー。サービスは、中絶手術、婦人科ケア、性別確認サービス、医療用マリファナ認定などがあります。"
+  },
+  {
     "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
     "slug": "erin-in-the-morning",
     "externalUrl": "https://www.erininthemorning.com/",
@@ -877,6 +1145,27 @@
     ],
     "title": "EqualDex.com",
     "description": "包括的で最新の世界のLGBTQ+の権利に関するリソースを作成することを目指して開発された革新的なオンラインプラットフォームです。そのウェブサイトは、世界中のLGBTQ+の権利に対する法律、政策、社会的態度の集中データベースを提供しています。平等、包含性、法的保護についてのデータをマッピングし、視覚化することで、EqualDex.comは、活動家、研究者、そして世界規模でLGBTQ+の権利を理解し、主張しようとする個人にとって強力なツールを提供します。彼らのインタラクティブな地図を探索し、国別のプロファイルを参照し、世界中のLGBTQ+コミュニティが直面する最新の進歩と課題について情報を得てください。"
+  },
+  {
+    "id": "5075ae0b-ac8b-4bc5-9f42-ffdb587784cb",
+    "slug": "how-to-pack-ftm-with-socks-diy-packer",
+    "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
+    "tags": [
+      "transmasculine",
+      "clothing",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "靴下を使ってFTMを詰める方法 | DIYパッカー",
+    "description": "このブログ投稿では、靴下やその他の手頃な素材を使用して自作のパッカーを作る方法についての包括的なガイドを提供します。また、トランスマスキュリンの個人がより快適で本物の感じるための他のFTMの義肢に対するDIYの代替案も含まれています。"
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1011,6 +1300,70 @@
     },
     "title": "トランスジェンダービクトリア",
     "description": "TGVは、トランスとジェンダーダイバーシティな人々のためのビクトリア州の主導的な組織です。私たちは、私たちのコミュニティ、そのパートナー、家族、友人、そして同盟者のための正義、均等性、包摂を実現するために働いています。私たちは、トランスジェンダーコミュニティの社会、経済、健康、福祉、心の健康の結果を目指して、さまざまなリソース、トレーニング、擁護、および支援サービスを提供しています。"
+  },
+  {
+    "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+    "slug": "margies-hope",
+    "externalUrl": "https://www.margieshope.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "support-groups",
+      "youth-services",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": "(440) 857-0611",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@margieshope.org",
+    "socialMedia": null,
+    "title": "マージーズ・ホープ",
+    "description": "マージーズ・ホープは2011年にジェイコブ・ナッシュによって設立されました。我々の歴史と目的は、トランスジェンダー、ノンバイナリー、ジェンダー包括的な人々の生活をコミュニティ内で豊かにすることでした。マージーズ・ホープは、さまざまなコミュニティプログラムと非営利のリセールストアを通じてリソースとサポートを提供しています。"
+  },
+  {
+    "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+    "slug": "brave-space-alliance",
+    "externalUrl": "https://bravespacealliance.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+    "phoneNumber": "(872) 333-5199",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.7997305,
+      -87.5885496
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+      "twitterUrl": "https://twitter.com/BSAllianceChi",
+      "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+      "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+    },
+    "title": "ブレイブ・スペース・アライアンス",
+    "description": "ブレイブ・スペース・アライアンスは、シカゴ南部に位置する最初のブラックリード、トランスリードLGBTQ+センターで、シカゴの全LGBTQ+コミュニティに対して肯定的で文化的に適応したサービスを提供しています。"
   },
   {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
@@ -1211,6 +1564,33 @@
     "description": "南オーストラリアの健康組織で、臨床サービス、性的健康に関するカウンセリングや教育、性と生殖に関する健康や関係スキルに関連した教育と研修を提供しています。また、LGBTIQA+コミュニティーのためのサポートと包括的なサービスを提供しています。国際的なトランスジェンダーと性的多様性を持つコミュニティの権利と認知のために祝賀し、支持する活動にも参加しています。"
   },
   {
+    "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+    "slug": "boston-alliance-of-lgbtq-youth-bagly",
+    "externalUrl": "https://www.bagly.org/",
+    "tags": [
+      "youth-services",
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "28 Court Square, Boston, MA 02108, USA",
+    "phoneNumber": "(617) 227-4313",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3585686,
+      -71.05938739999999
+    ],
+    "email": "mmccarron@bagly.org",
+    "socialMedia": {
+      "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+    },
+    "title": "ボストンLGBTQ+青年連盟 (BAGLY)",
+    "description": "BAGLYは青年主導、大人が支援する組織で、LGBTQ+の若者コミュニティ向けのプログラム、政策、サービスを支持します。保健サービス、食の公正、青年リーダーシップの発展など、さまざまなリソースとプログラムを提供しています。BAGLYは、LGBTQ+の色彩のある青年、トランスとジェンダー非適合青年、そしてホームレスのLGBTQ+青年のニーズを優先します。"
+  },
+  {
     "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
     "slug": "zoe-belle-gender-collective",
     "externalUrl": "https://zbgc.org.au/",
@@ -1233,6 +1613,28 @@
     "socialMedia": null,
     "title": "ゾーイ・ベル・ジェンダー・コレクティブ",
     "description": "ゾーイ・ベル・ジェンダー・コレクティブは、トランスジェンダーやジェンダー多様性を尊重する活動を主導する組織で、専門的な訓練、ワークショップ、そしてLGBTQI+コミュニティの支援を提供しています。コミュニティサービス、労働者、家族や友人、トランスジェンダーやジェンダー多様性の個々人のためのリソースと支援を提供しています。また、最近では、シスジェンダーの男性によるトランスジェンダーの女性に対する暴力を防ぐためのイニシアチブ、トランスフェムを立ち上げました。"
+  },
+  {
+    "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+    "slug": "centerlink-the-community-of-lgbtq-centers",
+    "externalUrl": "https://www.lgbtqcenters.org",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "CenterLink、LGBTQ センターのコミュニティ",
+    "description": "CenterLinkは、LGBTQセンターや地域コミュニティをサポートする他の組織の国際的な非営利組織であり、会員ベースの協会です。その使命は、LGBTQコミュニティセンターを強化、サポート、接続し、必要なサービスを提供し、成長、健康、コネクティビティを促進し、全世界の325以上のLGBTQコミュニティで活動しています。"
   },
   {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
@@ -1262,6 +1664,33 @@
     "email": "info@genderdiversity.org",
     "title": "ジェンダー・ダイバーシティ",
     "description": "ジェンダー・ダイバーシティは、教育を提供し、認識を高め、人間経験の広範な範囲を示すことで、すべてのジェンダー・アイデンティティと表現の子供と大人の幸福を改善します。また、トランスジェンダーとジェンダー多様性を持つ個人のために、学校、スポーツチーム、職場、健康保険提供者の中で支援的で差別のない環境を作るのを手伝います。"
+  },
+  {
+    "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+    "slug": "equality-california",
+    "externalUrl": "https://www.eqca.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+    "phoneNumber": "(323) 848-9801",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0500954,
+      -118.2531648
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Equality California",
+    "description": "Equality Californiaは、LGBTQ+の人々とその支持者の声をカリフォルニア州と全米の権力機関に届け、全てのLGBTQ+の人々にとって健康で公正で平等な世界を目指す組織です。彼らは市民権と社会正義を前進させ、彼らがサービスを提供する人々のために絶えず努力します。彼らはプログラム、出版物、法案、推薦、および行動を起こすいくつかの方法を提供しています。"
   },
   {
     "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
@@ -1322,6 +1751,35 @@
     "town": "Manhattan",
     "title": "トランスジェンダー法律防衛＆教育基金（TLDEF）",
     "description": "TLDEFは、ジェンダーアイデンティティと表現に基づく差別の終結に取り組み、公共の教育、テストケース訴訟、直接の法的サービス、および公共政策の努力を通じてトランスジェンダーの人々の平等を達成することを目指しています。彼らは名前変更プロジェクト、インパクト訴訟、トランスヘルスプロジェクトなどの様々なサービスを提供しています。また、トランスジェンダーコミュニティに影響を与える関連法律問題の最新情報も提供しています。"
+  },
+  {
+    "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+    "slug": "gender-justice-league",
+    "externalUrl": "https://www.genderjusticeleague.org/",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+    "phoneNumber": "206-538-0423",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6142754,
+      -122.3171383
+    ],
+    "email": "info@genderjusticeleague.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+      "twitterUrl": "https://twitter.com/genderjusticewa",
+      "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+      "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+    },
+    "title": "ジェンダー・ジャスティス・リーグ",
+    "description": "ジェンダー・ジャスティス・リーグは、ワシントン州およびそれを超える地域のトランス・ジェンダー多様性コミュニティの権利の向上に焦点を当てた市民権と人権の組織です。GJLは、長年にわたるトランス、クィア、そして同盟者の活動家のグループによって、2012年にシアトル、WAで設立されました。彼らは、アドボカシー、安全ハウスプログラムの提供、リソース、特別イベントに焦点を当てています。"
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -1652,6 +2110,57 @@
     "description": "スウェーデンの1177ヘルスケアガイドによって提供されるジェンダー不安に関する包括的なリソースで、それが何であるか、どのような感じであるか、どのように援助を求めるか、さまざまな治療オプションについて説明しています。ジェンダー不安を経験している人々に詳細な情報を提供し、彼らの旅を支援するためのサービスを提供しています。"
   },
   {
+    "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+    "slug": "chest-binding-101",
+    "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "バインディング101：安全に胸をバインドするためのヒント",
+    "description": "Point of Prideからの包括的なガイドで、安全な胸のバインディングに関するヒントとリソースを提供します。バインダーのスタイルに関する情報、安全なバインディングのための規則、胸用バインダーを手に入れるためのリソースを提供します。よりフラットな胸の外観を望むすべての人を対象としていますが、特にトランス、ノンバイナリ、ジェンダークイアな個人に焦点を当てています。"
+  },
+  {
+    "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+    "slug": "metro-trans-umbrella-group",
+    "externalUrl": "https://www.stlmetrotrans.org/",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MO",
+    "city": "Saint Louis",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+    },
+    "title": "メトロトランスアンブレラグループ",
+    "description": "セントルイスに拠点を置く地域密着型の非営利組織で、トランスジェンダーの個々の人々のためのより包括的で支援的なコミュニティを作り出すために献身的に働いています。食糧パントリー、STI検査、名前変更支援、ジェンダー適応衣類、そして毎週のイベントを提供し、お互いを力づけ、平等に向けて働く。"
+  },
+  {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
     "slug": "pronoun-dressing-room",
     "externalUrl": "http://www.pronouns.failedslacker.com/",
@@ -1672,6 +2181,31 @@
     "socialMedia": null,
     "title": "代名詞の試着室",
     "description": "代名詞の試着室は、個々の人々がどのセットの代名詞が自分に合っているかを探求し、試すためのオンラインスペースを提供します。このウェブサイトは、トランスジェンダーのコミュニティが異なる文脈での異なる代名詞がどのように見えるかを見ることにより、代名詞の選択を容易にします。"
+  },
+  {
+    "id": "aac7385e-58e6-4839-be0e-b637b1021437",
+    "slug": "bradbury-sullivan-lgbt-community-center",
+    "externalUrl": "https://www.bradburysullivancenter.org/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "522 W Maple St, Allentown, PA 18101, USA",
+    "phoneNumber": "(610) 347-9988",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "latLng": [
+      40.60245,
+      -75.46774780000001
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "ブラッドベリー-サリバンLGBTコミュニティセンター",
+    "description": "ブラッドベリー-サリバンLGBTコミュニティセンターは、ペンシルベニア州リーハイバレーのすべてのLGBTQ+住民のための活気ある包括的なスペースを提供します。コミュニティのプログラミングを提供し、その健康プログラムを通じてケアへの障壁に取り組み、毎年のプライドフェスティバルを組織し、LGBTQ+教育研究所を通じて公平性を高めるための作業を行っています。"
   },
   {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
@@ -1905,6 +2439,37 @@
     },
     "title": "クィアレキシコン",
     "description": "クィアレキシコンは、クィアコミュニティに広範な情報とサポートを提供するオンラインリソースです。性的、ロマンチック、性別の多様性からメンタルヘルスや支援グループまで、さまざまなトピックをカバーしています。教育、意識向上、そしてコミュニティのストーリーのハブとなっています。"
+  },
+  {
+    "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+    "slug": "pride-center-san-antonio",
+    "externalUrl": "https://pridecentersa.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "TX",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+      "twitterUrl": "https://twitter.com/PrideCenterSA",
+      "instagramUrl": "https://www.instagram.com/pridecentersa/"
+    },
+    "title": "プライドセンター・サンアントニオ",
+    "description": "プライドセンター・サンアントニオは、レズビアン、ゲイ、バイセクシャル、トランスジェンダー、自問自答している人々、そして味方のコミュニティにサービスを提供しています。彼らはサポートグループ、セラピー、性感染症の検査など、さまざまなプログラム、イベント、リソースを提供しています。彼らの目指すところは、コミュニティ内の既存のサービスと連携して働くことです。"
   },
   {
     "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
@@ -2228,6 +2793,29 @@
     "description": "イーストベイ トランス & クィア カウンセリングは、以下のようなスライディングスケールのサービスを提供しています: バークレー、CAに位置する個人療法、ジェンダーの探求と移行を通じたサポート、ホルモンや手術の推薦状、精神保健提供者、学生、雇用者向けの専門トレーニング。サム・デイビスは、トランスジェンダー、ジェンダークィアのライセンスを持つ臨床社会福祉士（LCSW）で、トランスジェンダー、クィア、ジェンダークィア、ジェンダー非適合の10代と大人との勤務に特化しています。彼らは、イーストベイの精神保健プロバイダーとして16年の経験を持ち、LGBTQIカンファレンスでのコミュニティ教育、アラメダ郡での発達した人々への臨床実践と危機カウンセリング9年、ピアサポートグループの促進を含みます。彼らは、マージナル化された人々を代表しての長期間に及ぶ組織化の歴史を持つ強力で専念した支持者です。"
   },
   {
+    "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+    "slug": "lgbtq-health-services-by-cdph",
+    "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": "(916) 558-1784",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Sacramento",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "CDPHによるLGBTQ+健康サービス",
+    "description": "カリフォルニア州公衆衛生局 (CDPH) は、レズビアン、ゲイ、バイセクシャル、トランスジェンダー (LGBT) のコミュニティを含むすべてのカリフォルニア州民の健康を配慮しています。彼らは、LGBTコミュニティに最も多く影響を与える健康問題を理解するリソースを提供し、様々なライフステージで必要なスクリーニングを行い、健康的なライフスタイルのためのツールを提供します。"
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2279,6 +2867,43 @@
     "town": "Manhattan",
     "title": "ファミリー・イコーリティ",
     "description": "ファミリー・イコーリティは、LGBTQ+の家族を保護しサポートするために専念する非営利団体です。彼らは法的保護を求め、リソースと教育を提供し、積極的にLGBTQ+の権利を主張します。この組織はさまざまなイベントを主催し、家族同士を互いに、そして広範なLGBTQ+コミュニティにつなげる手助けをします。"
+  },
+  {
+    "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+    "slug": "center-on-halsted",
+    "externalUrl": "https://www.centeronhalsted.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+    "phoneNumber": "773.472.6469",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.9488291,
+      -87.6499407
+    ],
+    "email": "mail@centeronhalsted.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+      "twitterUrl": "http://twitter.com/CenteronHalsted",
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Center on Halsted",
+    "description": "シカゴのコミュニティセンターで、レズビアン、ゲイ、バイセクシャル、トランスジェンダー（LGBT）およびクィア（+）コミュニティの向上を目指してサービスプログラム、イベント、トレーニング、リソースを提供しています。 HIV/AIDS＆STD、行動健康、反暴力、そして若者や高齢者のための特別プログラムも含まれます。"
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -2430,6 +3055,33 @@
     "description": "Transgendermap.comは、自身のジェンダーアイデンティティに疑問を持つ人々や、トランスジェンダーのスペクトル上にいる人々に対して、実用的な情報とガイダンスを提供することを目指したオンラインリソースです。ウェブサイトには、トランスジェンダーの用語の理解、遷移プロセス、法的問題、医療ケア、数多くの個人的なストーリーなど、幅広いトピックが含まれています。その目標は、ジェンダーアイデンティティとトランスジェンダーの経験の多くの側面への「マップ」またはガイドを提供することにより、個々の人々が自身の旅をナビゲートするのを助けることです。最新で正確な情報を得るために、実際のサイトを訪れてください。"
   },
   {
+    "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+    "slug": "transgender-health-program-massachusetts-general-hospital",
+    "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": "55 Fruit St, Boston, MA 02114, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3625677,
+      -71.0687661
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/massgeneral",
+      "twitterUrl": "https://www.twitter.com/massgeneral",
+      "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+    },
+    "title": "マサチューセッツ総合病院のトランスジェンダー健康プログラム",
+    "description": "マサチューセッツ総合病院のトランスジェンダー健康プログラムは、トランスジェンダーの個々の人々、若者たち、そしてケアギバーのために、パーソナライズされた最新の高品質な医療ケアを提供します。このプログラムは、さまざまなリソースや、よくある質問への回答、専門のケアチームを提供しています。"
+  },
+  {
     "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
     "slug": "the-genderaid",
     "externalUrl": "https://genderaid.org/en",
@@ -2576,6 +3228,31 @@
     "description": "RFSLは、LGBTQの権利に関連する仕事を行うスウェーデンの組織です。彼らはトランスジェンダーコミュニティに対して重要なリソース、コミュニティのサポート、教育と意識向上、法律の指導、健康サービスなどを提供します。また、RFSLは国際レベルでLGBTQの権利を推進しています。"
   },
   {
+    "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+    "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+    "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+    "tags": [
+      "transfeminine",
+      "mental-health",
+      "youth-services",
+      "support-groups"
+    ],
+    "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+    "phoneNumber": "(773) 935-3151",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.936299,
+      -87.6448942
+    ],
+    "email": "BaylieR@howardbrown.org",
+    "socialMedia": null,
+    "title": "トランスジェンダー・ユース・リソース・アンド・アドヴォカシー（TYRA）グループ",
+    "description": "TYRAは、24歳以下のトランスジェンダーと自己を問い直す若者のための支援グループであり、人々に出会い、情報を得て、仲間から支援を受けることができます。セッションは毎週木曜日の午後5時から7時まで行われます。"
+  },
+  {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
     "slug": "apotheek-all-about-medication",
     "externalUrl": "https://www.apotheek.nl/",
@@ -2594,6 +3271,65 @@
     "socialMedia": null,
     "title": "Apotheek.nl - 薬に関する全て",
     "description": "さまざまな薬に関する信頼性のある情報を提供するリソース。このサイトにはビデオ、健康に関する最新ニュース、ワクチン、コロナウイルス、薬局のケアに関する情報が含まれています。オランダ語の情報を提供し、ウクライナの難民向けに50種類の主要な薬の情報を翻訳しています。"
+  },
+  {
+    "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+    "slug": "transgender-equality-id-documents-center",
+    "externalUrl": "https://transequality.org/documents",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "latLng": [
+      38.9034383,
+      -77.03503719999999
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "トランスジェンダーの平等性 ID ドキュメントセンター",
+    "description": "個人が州と連邦のIDと記録に自分の名前と性別を更新するのを支援する包括的なリソースです。各州の方針の評価と、パスポートの更新、社会保障記録、軍/退役軍人の記録などのさまざまなプロセスの手順に関する情報を提供します。"
+  },
+  {
+    "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+    "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+    "externalUrl": "https://www.gendergp.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/gendergp",
+      "twitterUrl": "https://twitter.com/GenderGP",
+      "instagramUrl": "https://www.instagram.com/gendergp",
+      "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "GenderGP：トランスジェンダーのための包括的なサポート",
+    "description": "GenderGPは、世界中のトランスジェンダーの人々のための援護、アドバイス、ヘルスケア、そして一連の補完サービスを提供しています。このプラットフォームは、トランスジェンダーの個人が性別を確認するヘルスケア、法的な移行支援、社会的な移行支援へのアクセスを提供します。そのグローバルにアクセス可能なデジタルプラットフォームを通じて、GenderGPはトランスジェンダーの人々がより快適で真実の暮らしを送ることを可能にすることにコミットメントしています。"
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

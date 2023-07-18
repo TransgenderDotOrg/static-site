@@ -1,0 +1,107 @@
+{
+  "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+  "slug": "lgbtq-health-services-by-cdph",
+  "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "address": null,
+  "phoneNumber": "(916) 558-1784",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Sacramento",
+  "county": null,
+  "latLng": null,
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "LGBTQ+ Health Services by CDPH",
+      "description": "The California Department of Public Health (CDPH) caters to the health of all Californians including the Lesbian, Gay, Bisexual, and Transgender (LGBT) communities. They provide resources to understand health issues that most often impact the LGBT community, necessary screenings at various life stages, and tools for a healthy lifestyle."
+    },
+    "de-DE": {
+      "title": "LGBTQ+ Gesundheitsdienste von CDPH",
+      "description": "Das California Department of Public Health (CDPH) kümmert sich um die Gesundheit aller Kalifornier, einschließlich der lesbischen, schwulen, bisexuellen und transsexuellen (LGBT) Gemeinschaften. Sie stellen Ressourcen bereit, um Gesundheitsprobleme zu verstehen, die die LGBT-Gemeinschaft am häufigsten betreffen, notwendige Untersuchungen in verschiedenen Lebensphasen und Werkzeuge für einen gesunden Lebensstil."
+    },
+    "es-ES": {
+      "title": "Servicios de Salud LGBTQ+ por CDPH",
+      "description": "El Departamento de Salud Pública de California (CDPH) atiende la salud de todos los californianos, incluyendo las comunidades de Lesbianas, Gays, Bisexuales y Transgéneros (LGBT). Proporcionan recursos para entender los problemas de salud que más a menudo impactan a la comunidad LGBT, revisiones necesarias en varias etapas de la vida y herramientas para un estilo de vida saludable."
+    },
+    "zh-CN": {
+      "title": "CDPH提供的LGBTQ+健康服务",
+      "description": "加利福尼亚州公共卫生部(CDPH)致力于服务所有加利福尼亚人的健康，包括同性恋、双性恋和跨性别（LGBT）社区。他们提供资源，以理解最常影响LGBT社区的健康问题，提供各种生活阶段所需的筛查，以及保持健康生活方式的工具。"
+    },
+    "id-ID": {
+      "title": "Layanan Kesehatan LGBTQ+ oleh CDPH",
+      "description": "Departemen Kesehatan Umum California (CDPH) melayani kesehatan semua orang California termasuk komunitas Lesbian, Gay, Biseksual, dan Transgender (LGBT). Mereka menyediakan sumber daya untuk memahami masalah kesehatan yang paling sering mempengaruhi komunitas LGBT, skrining yang diperlukan pada berbagai tahap kehidupan, dan alat untuk gaya hidup yang sehat."
+    },
+    "fr-FR": {
+      "title": "Services de santé LGBTQ+ par CDPH",
+      "description": "Le California Department of Public Health (CDPH) s'occupe de la santé de tous les Californiens, y compris les communautés lesbiennes, gay, bisexuelles et transgenres (LGBT). Ils fournissent des ressources pour comprendre les problèmes de santé qui impactent le plus souvent la communauté LGBT, des dépistages nécessaires à diverses étapes de la vie, et des outils pour un mode de vie sain."
+    },
+    "tr-TR": {
+      "title": "CDPH tarafından LGBTQ+ Sağlık Hizmetleri",
+      "description": "California Halk Sağlığı Departmanı (CDPH), Lezbiyen, Gay, Biseksüel ve Transgender (LGBT) toplulukları da dahil olmak üzere tüm Californialılara hizmet vermektedir. Onlar, en çok LGBT topluluğunu etkileyen sağlık sorunlarını anlamak için kaynaklar, çeşitli yaşam aşamalarındaki gerekli taramalar ve sağlıklı bir yaşam tarzı için gereçler sağlar."
+    },
+    "sw-KE": {
+      "title": "Huduma za Afya za LGBTQ+ kutoka CDPH",
+      "description": "Idara ya Afya ya Umma ya California (CDPH) inajihusisha na afya ya Wacalifornia wote ikiwa ni pamoja na jumuiya ya Wasagaji, Mashoga, Wazungu, na Wanaojibadilisha Jinsia (LGBT). Wanaotoa rasilimali za kuelewa masuala ya afya ambayo mara nyingi yanaathiri jumuiya ya LGBT, uchunguzi unaohitajika katika hatua mbalimbali za maisha, na zana za maisha yenye afya."
+    },
+    "pt-PT": {
+      "title": "Serviços de Saúde LGBTQ+ pela CDPH",
+      "description": "O Departamento de Saúde Pública da Califórnia (CDPH) atende à saúde de todos os californianos, incluindo as comunidades Lésbicas, Gays, Bissexuais e Transgender (LGBT). Eles fornecem recursos para entender as questões de saúde que mais frequentemente impactam a comunidade LGBT, exames necessários em várias fases da vida e ferramentas para um estilo de vida saudável."
+    },
+    "ru-RU": {
+      "title": "Услуги по здоровью LGBTQ+ от CDPH",
+      "description": "Департамент общественного здоровья Калифорнии (CDPH) заботится о здоровье всех калифорнийцев, включая лесбийскую, гейскую, бисексуальную и трансгендерные (LGBT) общины. Они предоставляют ресурсы для понимания проблем со здоровьем, которые чаще всего влияют на сообщество LGBT, необходимые обследования на различных этапах жизни и инструменты для здорового образа жизни."
+    },
+    "vi-VN": {
+      "title": "Dịch vụ sức khỏe LGBTQ+ do CDPH cung cấp",
+      "description": "Sở Y tế Công cộng California (CDPH) phục vụ sức khỏe cho tất cả người California bao gồm cả cộng đồng Lesbian, Gay, Bisexual và Transgender (LGBT). Họ cung cấp các nguồn lực để hiểu về các vấn đề sức khỏe thường gặp nhất ảnh hưởng đến cộng đồng LGBT, các sàng lọc cần thiết ở các giai đoạn khác nhau của cuộc sống và các công cụ cho một lối sống khỏe mạnh."
+    },
+    "ja-JP": {
+      "title": "CDPHによるLGBTQ+健康サービス",
+      "description": "カリフォルニア州公衆衛生局 (CDPH) は、レズビアン、ゲイ、バイセクシャル、トランスジェンダー (LGBT) のコミュニティを含むすべてのカリフォルニア州民の健康を配慮しています。彼らは、LGBTコミュニティに最も多く影響を与える健康問題を理解するリソースを提供し、様々なライフステージで必要なスクリーニングを行い、健康的なライフスタイルのためのツールを提供します。"
+    },
+    "ar-SA": {
+      "title": "خدمات الصحة LGBTQ+ من قبل CDPH",
+      "description": "يقدم قسم الصحة العامة في كاليفورنيا (CDPH) الرعاية الصحية لجميع سكان كاليفورنيا بما فيهم مجتمعات الليزبيان والمثليين والمزدوجين الجنس والمتحولين جنسياً (LGBT). وهم يوفرون الموارد لفهم القضايا الصحية التي تؤثر في الغالب على مجتمع LGBT، والفحوصات اللازمة في مراحل الحياة المختلفة، والأدوات الخاصة بنمط حياة صحي."
+    },
+    "ko-KR": {
+      "title": "CDPH의 LGBTQ+ 건강 서비스",
+      "description": "캘리포니아 공중보건부(CDPH)는 레즈비언, 게이, 바이섹슈얼, 트랜스젠더(LGBT) 커뮤니티를 포함한 모든 캘리포니아 주민의 건강을 돌보고 있습니다. 그들은 LGBT 커뮤니티에 가장 자주 영향을 미치는 건강 문제를 이해하고, 다양한 생활 단계에서 필요한 스크리닝을 제공하며, 건강한 생활 방식을 위한 도구를 제공합니다."
+    },
+    "uk-UA": {
+      "title": "Медичні послуги для LGBTQ+ від CDPH",
+      "description": "Департамент громадського здоров'я Каліфорнії (CDPH) працює зі здоров'ям усіх каліфорнійців, включаючи спільноту лесбійок, геїв, бісексуалів та трансгендерів (LGBT). Вони надають ресурси для розуміння проблем здоров'я, які найчастіше впливають на LGBT спільноту, необхідні обстеження на різних етапах життя, та інструменти для здорового способу життя."
+    },
+    "ur-PK": {
+      "title": "CDPH کی طرف سے LGBTQ+ صحت سروسز",
+      "description": "کیلیفورنیا کا عوامی صحت ڈپارٹمنٹ (CDPH) تمام کیلیفورنیائیوں کی صحت کی خدمات مہیا کرتا ہے جن میں لیزبین ، گے ، دو جنس پسند ، اور ٹرانسجینڈر (LGBT) برادریوں شامل ہیں۔ وہ وہ وسائل فراہم کرتے ہیں جو LGBT برادری پر زیادہ تر اثر انداز ہوتے ہیں ، مختلف زندگی کے مراحل پر ضروری اسکریننگ ، اور صحتمند زندگی گزارنے کے لئے آلات سمجھنے کے لئے."
+    },
+    "hi-IN": {
+      "title": "CDPH द्वारा LGBTQ+ स्वास्थ्य सेवाएं",
+      "description": "कैलिफोर्निया विभाग औफ पब्लिक हेल्थ (CDPH) सभी कैलिफोर्नियाई लोगों के स्वास्थ्य की देखभाल करता है, जिसमें लेसबियन, गे, बाईसेक्शुअल, और ट्रांसजेंडर (LGBT) समुदाय भी शामिल हैं। वे संसाधन प्रदान करते हैं जो सबसे अधिक LGBT समुदाय पर प्रभाव डालने वाली स्वास्थ्य समस्याओं को समझने में मदद करते हैं, विभिन्न जीवन चरणों पर आवश्यक स्क्रीनिंग, और स्वस्थ जीवनशैली के लिए उपकरण।"
+    },
+    "mr-IN": {
+      "title": "CDPH द्वारे दिलेली LGBTQ+ आरोग्य सेवा",
+      "description": "कॅलिफोर्निया विभाग जन स्वास्थ्य (CDPH) लेस्बियन, गे, बायसेक्सुअल, अण्ड ट्रान्सजेंडर (LGBT) समुदायासहित सर्व कॅलिफोर्नियकरांच्या आरोग्याची काळजी घेते. ते LGBT समुदायावर सर्वाधिक परिणाम करणारी आरोग्य समस्यांची समज देणारी संसाधने पुरवतात, विविध आयुष्य टप्प्यांत होणारी आवश्यक तपासण्या, आणि स्वस्थ जीवनशैलीसाठी साधन."
+    },
+    "bn-BD": {
+      "title": "CDPH দ্বারা LGBTQ+ স্বাস্থ্য সেবা",
+      "description": "ক্যালিফোর্নিয়ার পাবলিক হেল্থ ডিপার্টমেন্ট (CDPH) লেসবিয়ান, গে, বাইসেক্সুয়াল, এবং ট্রান্সজেন্ডার (LGBT) সম্প্রদায়সহ সমস্ত ক্যালিফোর্নিয়ানদের স্বাস্থ্যে প্রয়োজনীয় সেবা প্রদান করে। তারা LGBT সম্প্রদায়কে সবচেয়ে বেশি প্রভাবিত করে এমন স্বাস্থ্য বিষয়গুলো বুঝতে সহায়তা করে, বিভিন্ন জীবন পর্যায়ে প্রয়োজনীয় স্ক্রিনিং করার জন্য সম্পদ প্রদান করে এবং সুস্থ জীবন পদ্ধতির জন্য সরঞ্জাম নির্ধারণ করে।"
+    },
+    "ta-IN": {
+      "title": "CDPH ஆல் வழங்கப்படும் LGBTQ+ சுகாதார சேவைகள்",
+      "description": "கலிஃபோர்னியா ஆணையாளர்களின் ஆணையாளரிடத்தில் உள்ள பொது சுகாதார துறை (CDPH) எனப்படும் கலிஃபோர்னியாவின் அனைத்து மக்களுக்கும் ஆரோக்கியத்தை கவனிக்கின்றது, அதில் லெஸ்பியன், கேய், பைசெக்சுவல், மற்றும் டிரான்ஸ்ஜென்டர் (LGBT) சமூகங்களும் சேர்ந்துள்ளனர். அவர்கள் LGBT சமூகத்தை அதிகமாக பாதிக்கும் ஆரோக்கியம் சம்பந்தமான பிரச்சினைகளை உணரும் வளங்களை, பல்வேறு வாழ்க்கை நிலைகளில் தேவையான தீர்வை சோதனைகளை, மற்றும் ஆரோக்கியமான வாழ்க்கை வழிமுறைக்கான கருவிகளை வழங்குகின்றனர்."
+    },
+    "te-IN": {
+      "title": "CDPH ద్వారా LGBTQ+ ఆరోగ్య సేవలు",
+      "description": "కాలిఫోర్నియా రాష్ట్ర ప్రజా ఆరోగ్య శాఖ (CDPH) లెస్బియన్, గే, బైసెక్స్యువల్, ట్రాన్స్‌జెండర్ (ఎల్‌జిబిటి) సముదాయాలను సేరించి అన్ని కాలిఫోర్నియా వాసుల ఆరోగ్యానికి కేటర్ చేస్తుంది. వారు ఎల్‌జిబిటి సముదాయానికి ఎక్కువగా ప్రభావం చూపే ఆరోగ్య సమస్యలను అర్థించడానికి సంసాధనాలను అందిస్తారు, వివిధ జీవిత దశలలో అవసరమైన స్క్రీనింగ్లు, మరియు ఆరోగ్యకర జీవన శైలి కోసం టూల్స్."
+    }
+  }
+}

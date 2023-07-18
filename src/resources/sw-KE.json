@@ -36,6 +36,34 @@
     "description": "Kituo cha Pride cha Kaunti ya San Mateo ni mfano wa shirika la ushirikiano na duka moja la LGBTQ+ community. Tunatoa mipango na huduma thabiti kusaidia wanachama wa jumuiya ya LGBTQ+ wa umri wote, ikiwa ni pamoja na elimu, mafunzo, matukio ya jamii, vikundi vya msaada wa rika, programu ya kila siku, tiba ya kliniki, na usimamizi wa kesi."
   },
   {
+    "id": "021c32b1-bd22-4b83-ad34-2faffc03ca58",
+    "slug": "hawaii-lgbt-legacy-foundation",
+    "externalUrl": "https://hawaiilgbtlegacyfoundation.com/",
+    "tags": [
+      "community-stories",
+      "education-awareness",
+      "support-groups"
+    ],
+    "address": "Honolulu, HI, USA",
+    "phoneNumber": "808.369.2000",
+    "country": "US",
+    "provinceOrState": "HI",
+    "city": "Honolulu",
+    "county": "Honolulu County",
+    "latLng": [
+      21.3098845,
+      -157.8581401
+    ],
+    "email": "info@hawaiilgbtlegacy.com",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
+      "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
+      "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
+    },
+    "title": "Hawaii LGBT Legacy Foundation",
+    "description": "Shirika lisilo la faida lililojitolea kusaidia na kukuza jamii ya LGBTQ+ nchini Hawaii. Linakuwa mwenyeji wa miradi na hafla anuwai ikiwa ni pamoja na Honolulu Pride, Rainbow Town Hall na Coming Out Stories. Pia hutoa rasilimali anuwai na huduma za usaidizi."
+  },
+  {
     "id": "04f0d550-7d16-415f-ae3f-51740223c48f",
     "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
     "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
@@ -57,6 +85,35 @@
     "socialMedia": null,
     "title": "Kuelewa na kusaidia ushoga katika watoto na wazazi",
     "description": "Makala hii ya Kijerumani inatoa mwongozo kwa familia zinazoshughulika na ushoga kwa wazazi au watoto. Inatoa taarifa kuhusu taratibu na rasilimali muhimu, kutoa mwongozo kutoka kuelewa na kukubali hali hadi kufuatilia matibabu husika."
+  },
+  {
+    "id": "06cf382f-2f1c-4e37-8976-ff1b92e955ba",
+    "slug": "north-shore-alliance-of-gay-lesbian-bisexual-and-transgender-youth",
+    "externalUrl": "https://www.nagly.org/",
+    "tags": [
+      "youth-services",
+      "support-groups",
+      "mental-health",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": "Salem, MA, USA",
+    "phoneNumber": "978-224-2102",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Salem",
+    "county": "Essex County",
+    "latLng": [
+      42.5197473,
+      -70.8954626
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "North Shore Alliance of Gay, Lesbian, Bisexual na Transgender Youth (NAGLY)",
+    "description": "Lengo la NAGLY ni kuheshimu, kuheshimu, kuelimisha, na kuwawezesha vijana wa GLBTQ+. Wanaendeleza jamii kupitia mipango na huduma za msaada za mitaa, pamoja na vikundi vya vijana na watu wazima na shughuli mbalimbali za jamii. Wanatoa rasilimali za afya ya akili, wanatoa elimu ya huduma ya afya, na wanatoa fursa nyingi kwa jamii ya LGBTQ+ kuungana na kushiriki uzoefu wao."
   },
   {
     "id": "07e16941-b605-4cf5-bab5-bdc882c51a1d",
@@ -272,6 +329,37 @@
     "description": "Minus18 ni hisani ya Australia inayoboresha maisha ya vijana wa LGBTQIA+. Wanashughulikia upweke wa kijamii kwa kuunda maeneo ambapo vijana wanastahili, wanasherehekewa na wanaweza kupata marafiki. Pia wanatoa mafunzo, rasilimali, na kampeni za dijitali za LGBTQIA+, wakilenga kuunda Australia isiyo na ubaguzi. Lengo lao ni kuwapa vijana ujuzi na fursa wanazohitaji kuwa mstari wa mbele wa kuendesha mabadiliko."
   },
   {
+    "id": "1b2ee43e-9c9b-4f00-b7a3-c47d9801266a",
+    "slug": "youth-eastside-services",
+    "externalUrl": "https://www.youtheastsideservices.org/",
+    "tags": [
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources"
+    ],
+    "address": "Kirkland, WA, USA",
+    "phoneNumber": "425-747-4937",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Kirkland",
+    "county": "King County",
+    "latLng": [
+      47.6768927,
+      -122.2059833
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/YouthEastsideServices",
+      "twitterUrl": "https://twitter.com/YouthEastside",
+      "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
+      "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
+    },
+    "title": "Huduma za Vijana Eastside",
+    "description": "Huduma za Vijana Eastside (YES) ni shirika lisilo la kiserikali linalotoa huduma kamili za afya ya akili na matumizi mabaya ya dawa za kulevya kwa vijana na familia zao, bila kujali uwezo wao wa kulipa. Iko Washington, huduma zake zinajumuisha ushauri, tiba, msaada kwa jamii ya LGBTQ +, na mipango mbalimbali ya jamii."
+  },
+  {
     "id": "1d1d694e-b73a-4c37-ae8b-288fbc81a489",
     "slug": "us-trans-survey",
     "externalUrl": "https://www.ustranssurvey.org/",
@@ -330,6 +418,57 @@
     },
     "title": "nonbinary.ch - Rasilimali kwa Watu wasio na Jinsia Maalum",
     "description": "Tovuti kamili ya Uswisi inayotoa habari na rasilimali zinazohusiana na utambulisho wa jinsia zisizo na jinsia maalum. Inakusudiwa kuwasaidia watu kutafakari utambulisho wao wa jinsia, au wale ambao hushirikiana na watu wasio na jinsia maalum, kwa kuifanya maarifa ya msingi kuwa rahisi kupatikana. Tovuti pia ina blogu, jarida, na viungo kwa rasilimali za nje kama vile vitabu, filamu, na utafiti."
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "Kampeni za Haki za Binadamu",
+    "description": "Kampeni za Haki za Binadamu inapigania haki na usawa wa jamii ya LGBTQ+. Wanalenga kumaliza ubaguzi na kusonga mbele sera za pro-usawa kupitia elimu, utetezi, na uhamasishaji. Pia wanatoa rasilimali kwa wale katika jamii ya LGBTQ+ kushiriki katika maeneo yao ya kawaida."
+  },
+  {
+    "id": "2997c10e-1e3e-473f-b7a3-b384d4897d5a",
+    "slug": "gender-confirmation-center",
+    "externalUrl": "https://www.genderconfirmation.com/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare"
+    ],
+    "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
+    "phoneNumber": "(415) 780-1515",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "SF",
+    "county": "San Francisco County",
+    "latLng": [
+      37.7896952,
+      -122.4078356
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Kituo cha Kuthibitisha Jinsia",
+    "description": "Kituo cha Kuthibitisha Jinsia hutoa huduma kamili ya kuafiki jinsia, kupitia aina anuwai za taratibu na mipango ya matibabu, kwa jamii ya transgender, nonbinary, na jinsia anuwai."
   },
   {
     "id": "2db72f6f-a5bc-4784-931d-dbe46b9657c6",
@@ -530,6 +669,29 @@
     "description": "Mwili wa kilele wa Queensland unaowakilisha watu wa jinsia ya tatu, watu wenye jinsia tofauti, na watu wasio na jinsia tangu 1990. Wanatoa msaada, utetezi, huduma na kuandaa matukio ya kijamii kuhudumia jamii ya jinsia ya tatu."
   },
   {
+    "id": "3673aa50-bad0-407d-a761-26ac57546bf3",
+    "slug": "topsurgery-net",
+    "externalUrl": "https://www.topsurgery.net/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "TopSurgery.net",
+    "description": "TopSurgery.net ni rasilimali kamili kwa watu wanaotafuta habari kuhusu taratibu za upasuaji wa juu wa FTM. Rasilimali inatoa maelezo kuhusu aina mbalimbali za taratibu za upasuaji, jinsi ya kupata daktari wa upasuaji, habari kuhusu gharama na bima, maswali yanayoulizwa mara kwa mara, na rasilimali zingine zinazohusiana kwa watu wa jinsia-sio-maana na wasio wa kawaida wanaof pursuing ufuatiliaji wa upasuaji wa juu. Pia inajumuisha maudhui ya elimu kama vile mapendekezo ya vitabu, mafunzo ya video, na makala juu ya mada zinazohusiana."
+  },
+  {
     "id": "377cdcad-ac8e-491b-96aa-13a91886c07a",
     "slug": "jim-collins-foundation",
     "externalUrl": "https://jimcollinsfoundation.org/",
@@ -628,6 +790,27 @@
     "description": "Queermed Deutschland ni orodha ya madaktari, wataalamu wa tiba na mazoezi yaliyopendekezwa na jamii ya LGBTQIA+, nchini Ujerumani. Lengo ni kupambana na ubaguzi katika mfumo wa huduma za afya, kuhakikisha huduma ya afya inayoheshimu na nyeti kwa wote. Inajumuisha chaguzi mbalimbali za ziada katika uchunguzi wa siri ili kuzingatia watu tofauti ndani ya jamii."
   },
   {
+    "id": "3ae6370f-e83a-4b6f-93e1-918d4258c31a",
+    "slug": "how-to-wear-a-packer",
+    "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": "Jinsi Ya Kuvaa Packer",
+    "description": "Makala hii inatoa mwongozo juu ya jinsi ya kuvaa packer, ikiwa ni pamoja na vidokezo kuhusu nafasi, kuchagua ukubwa unaofaa, jinsi packer yako inapaswa kuwekwa, na njia za kuweka packer yako mahali pake. Inatumikia kama rasilimali ya elimu kwa wale katika jamii ya transmasculine na isiyo ya binary ambao wanataka kujifunza zaidi kuhusu packing."
+  },
+  {
     "id": "3b112584-39e6-4ef6-9e75-a465acdea54c",
     "slug": "northern-territory-aids-and-hepatitis-council-inc",
     "externalUrl": "https://www.ntahc.org.au/",
@@ -671,6 +854,44 @@
     "description": "Rasilimali ya mkondoni inayoaminika kwa watu wanaotafuta maarifa, msaada, na uelewa kuhusu kutokujaliana na jinsia. Tovuti yao inatoa habari nyingi, rasilimali, na uhusiano wa jamii kuwawezesha watu katika safari yao. Kutoka kwenye viongozi kamili kuhusu utambulisho wa jinsia na kubadilisha hadi hadithi binafsi na ushauri wa wataalam, wanaojitahidi kuunda nafasi salama na jumuishi kwa wote."
   },
   {
+    "id": "3d23695a-5c25-4f13-9e25-718ba67a2f77",
+    "slug": "identity-alaska",
+    "externalUrl": "https://www.identityalaska.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "education-awareness",
+      "community-stories",
+      "support-groups"
+    ],
+    "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+    "phoneNumber": "(907) 865-3247",
+    "country": "US",
+    "provinceOrState": "AK",
+    "city": "Anchorage",
+    "county": "Anchorage Municipality",
+    "latLng": [
+      61.1955918,
+      -149.8774355
+    ],
+    "email": "info@identityinc.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/IdentityInc",
+      "twitterUrl": null,
+      "instagramUrl": "https://www.instagram.com/identityalaska/",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Utambulisho Alaska",
+    "description": "Kituo cha jamii kisicho na faida na kituo cha afya kilicho msingi wa Alaska kinatoa rasilimali, mipango, na huduma za afya kwa jumuia ya LGBTQIA2S+ na jumuiya iliyounganika."
+  },
+  {
     "id": "3f865b77-21e6-472e-be98-b2cfd999dafb",
     "slug": "unitarian-universalist-association",
     "externalUrl": "https://www.uua.org/",
@@ -694,6 +915,28 @@
     "socialMedia": null,
     "title": "Chama cha Unitarian Universalist",
     "description": "Jumuiya ya kiroho iliyo wazi ya akili na moyo inayosaidia watu kuongoza maisha ya haki, upendo, kujifunza, na matumaini. Jumuiya inakumbatia utofauti ikiwa ni pamoja na jumuiya ya watu wanaojibadilisha jinsia na inahimiza ushiriki hai katika vitendo vya haki. Pia wanatoa rasilimali, msaada na utetezi kwa masuala mbalimbali ya kijamii."
+  },
+  {
+    "id": "3f9a21f6-6a30-4842-a5b7-90c3e7c0a152",
+    "slug": "personalized-pronoun-dressing-room",
+    "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
+    "tags": [
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Chumba cha Kujibadilisha Majina Binafsi",
+    "description": "Rasilimali hii inayoweza kubadilishwa inatoa mifano ya seti mbalimbali za majina binafsi yanayotumika katika muktadha. Inaweza kubinafsishwa na jina lolote utakalo, ambalo linafanikisha katika uchunguzi na ufahamu wa matumizi ya majina binafsi. Zana hii ni muhimu kwa jamii ya watu wanaobadilisha jinsia zao, haswa kwa wale wanaochunguza majina mapya binafsi au kuwafundisha wengine matumizi ya majina hayo."
   },
   {
     "id": "4332f79d-1323-45ca-9b40-df63af9b7179",
@@ -821,6 +1064,31 @@
     "description": "Mradi wa Sheria wa Sylvia Rivera unafanya kazi kuhakikisha kuwa watu wote wana uhuru wa kuamua utambulisho na uonyeshaji wa jinsia, bila kujali kipato au rangi, na bila kukabiliwa na unyanyasaji, ubaguzi au vurugu. SRLP inatoa msaada wa kisheria, inaandaa kampeni, inafanya mafunzo, na inaendesha Kamati ya Ushauri ya Wafungwa. Ushiriki wa jamii unahimizwa kupitia michango, kujitolea, na uanachama."
   },
   {
+    "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+    "slug": "allentown-womens-center",
+    "externalUrl": "https://allentownwomenscenter.com/",
+    "tags": [
+      "healthcare",
+      "transfeminine",
+      "transmasculine",
+      "non-binary"
+    ],
+    "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+    "phoneNumber": "(484) 821-0821",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Bethlehem",
+    "county": "Northampton County",
+    "latLng": [
+      40.6728208,
+      -75.37561989999999
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Kituo cha Wanawake cha Allentown",
+    "description": "Mtoaji wa huduma kamili ya afya ambaye ni mtaalam katika huduma zinazowahudumia aina mbalimbali za idadi ya watu ikiwa ni pamoja na jamii ya watu wa jinsia mbalimbali. Huduma zinatoka kwenye utaratibu wa utoaji mimba, huduma za kiafya za uzazi wa mpango, huduma zinazothibitisha jinsia, na uthibitishaji wa bangi ya kitiba miongoni mwa zingine."
+  },
+  {
     "id": "499aa5dd-d3c0-42f6-a686-853672f3c71e",
     "slug": "erin-in-the-morning",
     "externalUrl": "https://www.erininthemorning.com/",
@@ -877,6 +1145,27 @@
     ],
     "title": "EqualDex.com",
     "description": "Jukwaa la mkondoni lenye ubunifu linalolenga kuunda rasilimali kamili na ya kisasa kwa haki za LGBTQ+ ulimwenguni. Tovuti yao inatoa hifadhidata kuu ya sheria, sera, na mtazamo wa jamii kuelekea haki za LGBTQ+ kutoka ulimwenguni kote. Kwa kukusanya na kuonesha data kuhusu usawa, ujumuishaji, na ulinzi wa kisheria, EqualDex.com inatoa zana yenye nguvu kwa wazalendo, watafiti, na watu binafsi wanaotaka kuelewa na kuhamasisha haki za LGBTQ+ kwenye kiwango cha kimataifa. Gundua ramani zao za kuona na kubadilika, angalia maelezo maalum ya nchi, na ujue maboresho na changamoto za hivi karibuni zinazokabili jamii ya LGBTQ+ ulimwenguni."
+  },
+  {
+    "id": "5075ae0b-ac8b-4bc5-9f42-ffdb587784cb",
+    "slug": "how-to-pack-ftm-with-socks-diy-packer",
+    "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
+    "tags": [
+      "transmasculine",
+      "clothing",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Jinsi ya kufunga ftm na soksi | DIY Packer",
+    "description": "Chapisho hili la blogu linatoa mwongozo kamili juu ya jinsi ya kutengeneza pakia ya nyumbani kwa kutumia soksi na vifaa vingine vya bei rahisi. Pia ni pamoja na mbadala za DIY kwa vifaa vingine vya uambatishaji wa FTM ili kusaidia watu wa transmasculine kujisikia vizuri zaidi na halisi."
   },
   {
     "id": "539168d5-49aa-492c-bfb0-d0a1d9bba1eb",
@@ -1011,6 +1300,70 @@
     },
     "title": "Transgender Victoria",
     "description": "TGV ni mwili unaoongoza wa watu wa jinsia tofauti na trans huko Victoria. Tunafanya kazi kufikia haki, usawa na kujumuishwa kwa jamii zetu, washirika wao, familia, marafiki, na washirika. Tunatoa rasilimali mbalimbali, mafunzo, utetezi, na huduma za msaada zilizolenga matokeo ya kijamii, kiuchumi, afya, ustawi, na afya ya akili kwa jamii ya watu wanaobadilisha jinsia."
+  },
+  {
+    "id": "613e916d-6b3b-483c-b04d-8577d34b42ca",
+    "slug": "margies-hope",
+    "externalUrl": "https://www.margieshope.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "social-services",
+      "support-groups",
+      "youth-services",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": "(440) 857-0611",
+    "country": "US",
+    "provinceOrState": "OH",
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": "info@margieshope.org",
+    "socialMedia": null,
+    "title": "Margie’s Hope",
+    "description": "Margie’s Hope ilianzishwa mwaka 2011 na Jacob Nash. Historia yetu na kusudi limekuwa kuboresha maisha ya watu wa Transgender, Non-Binary, na Gender Expansive katika jamii. Margie’s Hope inatoa rasilimali na msaada kupitia mipango mbalimbali ya jamii na duka la kuuza tena ambalo si la faida."
+  },
+  {
+    "id": "63fd4eb1-00ca-44ed-9c7d-8a486d4a6676",
+    "slug": "brave-space-alliance",
+    "externalUrl": "https://bravespacealliance.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships"
+    ],
+    "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
+    "phoneNumber": "(872) 333-5199",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.7997305,
+      -87.5885496
+    ],
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/bravespacealliance/",
+      "twitterUrl": "https://twitter.com/BSAllianceChi",
+      "instagramUrl": "https://www.instagram.com/bravespacealliance/",
+      "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
+    },
+    "title": "Brave Space Alliance",
+    "description": "Brave Space Alliance ni kituo cha kwanza cha LGBTQ+ kinachoongozwa na watu weusi na wale wa jinsia mbalimbali kilichopo upande wa kusini mwa Chicago, kinatoa huduma zinazokubalika na zilizo na uwezo wa kitamaduni kwa jumuiya nzima ya LGBTQ+ ya Chicago."
   },
   {
     "id": "682fba48-f668-4fe6-89a7-05a90193e778",
@@ -1211,6 +1564,33 @@
     "description": "Shirika la afya lililopo South Australia linatoa huduma za kitabibu, ushauri wa afya ya ngono na elimu na mafunzo yanayohusiana na afya ya uzazi na ujuzi wa mahusiano. Pia inatoa msaada na huduma jumuishi kwa jamii ya LGBTIQA+. Pia wanashiriki katika kusherehekea na kutetea haki na utambuzi wa jumuiya za kimataifa za watu wenye jinsia tofauti."
   },
   {
+    "id": "7a74e373-4a64-4136-9ede-83cf6c283260",
+    "slug": "boston-alliance-of-lgbtq-youth-bagly",
+    "externalUrl": "https://www.bagly.org/",
+    "tags": [
+      "youth-services",
+      "healthcare",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "28 Court Square, Boston, MA 02108, USA",
+    "phoneNumber": "(617) 227-4313",
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3585686,
+      -71.05938739999999
+    ],
+    "email": "mmccarron@bagly.org",
+    "socialMedia": {
+      "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
+    },
+    "title": "Muungano wa Vijana wa LGBTQ+ wa Boston (BAGLY)",
+    "description": "BAGLY ni shirika linaloongozwa na vijana, linaungwa mkono na watu wazima ambalo linatetea mipango, sera na huduma kwa jamii ya vijana wa LGBTQ+. Inatoa rasilimali na mipango mbalimbali ikiwa ni pamoja na huduma za afya, haki ya chakula, maendeleo ya uongozi wa vijana, na zaidi. BAGLY inapendelea mahitaji ya vijana wa LGBTQ+ wa rangi, vijana wasiofuata jinsia na wale ambao hawana makazi."
+  },
+  {
     "id": "7a817d4c-02db-4c00-9988-6c2dbf63a7d4",
     "slug": "zoe-belle-gender-collective",
     "externalUrl": "https://zbgc.org.au/",
@@ -1233,6 +1613,28 @@
     "socialMedia": null,
     "title": "Zoe Belle Gender Collective",
     "description": "Zoe Belle Gender Collective ni shirika la utetezi linaloongozwa na watu wa jinsia tofauti na wabadilikaji. Inatoa mafunzo ya kitaalam, warsha, na msaada kwa jamii ya LGBTQI+. Inatoa rasilimali na msaada kwa huduma za jamii, wafanyikazi, familia na marafiki, na watu wa jinsia tofauti na wabadilikaji. Pia hivi karibuni ilizindua Transfemme, mpango wa kuzuia dhidi ya unyanyasaji wa wanaume cis kwa wanawake walio na jinsia tofauti."
+  },
+  {
+    "id": "7cdf522e-c72b-4db8-a570-69a0ee90f036",
+    "slug": "centerlink-the-community-of-lgbtq-centers",
+    "externalUrl": "https://www.lgbtqcenters.org",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "CenterLink, Jumuiya ya Vituo vya LGBTQ",
+    "description": "CenterLink ni shirika la kimataifa lisilo la faida na chama cha wanachama cha vituo vya LGBTQ na mashirika mengine yanayohudumia jamii zao za mitaa na za kikanda. Jukumu lao ni kuimarisha, kusaidia, na kuunganisha vituo vya jamii ya LGBTQ, kutoa huduma muhimu, kukuza ukuaji, ustawi, na uunganisho katika zaidi ya jumuiya za LGBTQ 325 ulimwenguni kote."
   },
   {
     "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
@@ -1262,6 +1664,33 @@
     "email": "info@genderdiversity.org",
     "title": "Utofauti wa Jinsia",
     "description": "Utofauti wa Jinsia unaongeza ustawi wa watoto na watu wazima wa utambulisho na uonyeshaji wa jinsia zote kwa kutoa elimu, kuongeza uelewa, na kutoa mwanga katika uzoefu mpana zaidi wa kibinadamu. Sisi pia tunasaidia katika kuunda mazingira ya kusaidia na yasiyo ya ubaguzi katika shule, timu za michezo, sehemu za kazi, na watoa huduma za afya kwa watu walio na jinsia tofauti na wale wa jinsia mbalimbali."
+  },
+  {
+    "id": "832e7265-d573-477f-9b38-a0f301cd8591",
+    "slug": "equality-california",
+    "externalUrl": "https://www.eqca.org/",
+    "tags": [
+      "legal",
+      "healthcare",
+      "mental-health",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
+    "phoneNumber": "(323) 848-9801",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Los Angeles",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0500954,
+      -118.2531648
+    ],
+    "email": null,
+    "socialMedia": {},
+    "title": "Equality California",
+    "description": "Equality California ni shirika ambalo linawaletea sauti za watu wa LGBTQ+ na washirika kwa taasisi za mamlaka huko California na kote Marekani, likijitahidi kujenga ulimwengu ambao ni wa afya, haki, na usawa kamili kwa watu wote wa LGBTQ+. Wanasonga mbele haki za kiraia na haki ya kijamii na kufanya kazi bila kuchoka kwa niaba ya wale wanaowahudumia. Wanaandaa mipango, machapisho, sheria, maafikiano na njia kadhaa za kuchukua hatua."
   },
   {
     "id": "83a5458b-864a-4180-a176-b291ffbc7cfb",
@@ -1322,6 +1751,35 @@
     "town": "Manhattan",
     "title": "Transgender Legal Defense & Education Fund (TLDEF)",
     "description": "TLDEF imejitolea kumaliza ubaguzi unaotegemea utambulisho wa jinsia na maonyesho na kupata usawa kwa watu wa jinsia tofauti kupitia elimu ya umma, kesi za majaribio, huduma za kisheria moja kwa moja, na juhudi za sera ya umma. Wanatoa huduma mbalimbali kama mradi wa kubadilisha jina, kesi za athari na mradi wa afya ya trans. Pia inatoa sasisho kuhusu masuala ya kisheria yanayoathiri jumuiya ya watu walio na jinsia tofauti."
+  },
+  {
+    "id": "8757f5d5-abd7-461f-84d8-1331e4677f4c",
+    "slug": "gender-justice-league",
+    "externalUrl": "https://www.genderjusticeleague.org/",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
+    "phoneNumber": "206-538-0423",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.6142754,
+      -122.3171383
+    ],
+    "email": "info@genderjusticeleague.org",
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/genderjusticewa/",
+      "twitterUrl": "https://twitter.com/genderjusticewa",
+      "instagramUrl": "https://www.instagram.com/genderjusticewa/",
+      "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
+    },
+    "title": "Jukwaa la Haki za Jinsia",
+    "description": "Jukwaa la Haki za Jinsia ni shirika la haki za kiraia na za binadamu linalolenga kuinua haki za jamii zilizo na trans & jinsia mbalimbali huko Washington State na zaidi. GJL iliundwa huko Seattle, WA mnamo 2012 na kikundi cha wanaharakati wa muda mrefu trans, queer, na washirika. Wanazingatia utetezi, kutoa mpango wa nyumba salama, rasilimali, na matukio maalum."
   },
   {
     "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
@@ -1652,6 +2110,57 @@
     "description": "Rasilimali kamili kuhusu dysphoria ya jinsia inayotolewa na mwongozo wa afya wa 1177 nchini Sweden, ikijadili ni nini, inahisika vipi, jinsi ya kutafuta msaada na chaguzi tofauti za matibabu. Inatumika kwa kutoa habari za kina kwa wale wanaopitia dysphoria ya jinsia na kuwasaidia katika safari yao."
   },
   {
+    "id": "a51221f3-30ea-42a9-aac3-62cf478af10e",
+    "slug": "chest-binding-101",
+    "externalUrl": "https://www.pointofpride.org/blog/binding-101-tips-to-bind-your-chest-safely",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": null,
+    "title": "Kufunga 101: Vidokezo vya Kufunga Kifua chako kwa Usalama",
+    "description": "Mwongozo kamili kutoka kwa Point of Pride, ukiutoa vidokezo na rasilimali kuhusu kufunga kifua kwa usalama. Unatoa habari juu ya mitindo ya vifungo, kanuni za kufunga salama, na rasilimali za kupata vifunga vya kifua. Imelengwa kwa mtu yeyote anayetamani kuonekana kwa kifua kilicho kavu, haswa kwa watu wanaojitambulisha kama trans, wasio na jinsia, na watu wenye jinsia mbalimbali."
+  },
+  {
+    "id": "a57bed24-e13d-4002-8883-ef5878ff6a86",
+    "slug": "metro-trans-umbrella-group",
+    "externalUrl": "https://www.stlmetrotrans.org/",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "support-groups",
+      "community-stories",
+      "education-awareness",
+      "clothing"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MO",
+    "city": "Saint Louis",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/STLMetroTrans/"
+    },
+    "title": "Kundi la Metro Trans Umbrella",
+    "description": "Shirika la wasio na faida la msingi lililopo Saint Louis, linafanya kazi kwa bidii kuunda jamii inayojumuisha zaidi na inayounga mkono kwa watu wanaobadilisha jinsia. Hutoa huduma kama chakula cha pantry, upimaji wa STI, msaada wa kubadilisha jina, nguo zinazokubaliana na jinsia na matukio ya kila wiki kuwawezesha kila mmoja na kufanya kazi kuelekea usawa."
+  },
+  {
     "id": "a58acbca-7d7d-4c6d-8d5f-f1a281e0f8b9",
     "slug": "pronoun-dressing-room",
     "externalUrl": "http://www.pronouns.failedslacker.com/",
@@ -1672,6 +2181,31 @@
     "socialMedia": null,
     "title": "Chumba cha Kuvaa Vitenzi Vimilikishi",
     "description": "Chumba cha Kuvaa Vitenzi Vimilikishi hutoa nafasi ya mkondoni ambapo watu wana uwezo wa kujaribu na kuchunguza aina mbalimbali za vitenzi vimilikishi ili kuona kile kinachowafaa. Tovuti hii inarahisisha uamuzi katika uteuzi wa vitenzi vimilikishi kwa jamii ya watu wanaobadili jinsia, inawaruhusu kuona jinsi vitenzi vimilikishi tofauti vinavyoweza kuonekana katika muktadha tofauti."
+  },
+  {
+    "id": "aac7385e-58e6-4839-be0e-b637b1021437",
+    "slug": "bradbury-sullivan-lgbt-community-center",
+    "externalUrl": "https://www.bradburysullivancenter.org/",
+    "tags": [
+      "healthcare",
+      "education-awareness",
+      "social-services",
+      "support-groups"
+    ],
+    "address": "522 W Maple St, Allentown, PA 18101, USA",
+    "phoneNumber": "(610) 347-9988",
+    "country": "US",
+    "provinceOrState": "PA",
+    "city": "Allentown",
+    "county": "Lehigh County",
+    "latLng": [
+      40.60245,
+      -75.46774780000001
+    ],
+    "email": null,
+    "socialMedia": null,
+    "title": "Bradbury-Sullivan LGBT Community Center",
+    "description": "Bradbury-Sullivan LGBT Community Center inatoa nafasi iliyofunikwa na kushiriki katika Lehigh Valley ya Pennsylvania kwa wakazi wote wa LGBTQ+ wa mkoa huo. Inatoa programu za jamii, inashughulikia vikwazo vya huduma kupitia mipango yake ya afya, inaandaa tamasha la Pride la kila mwaka na inafanya kazi kuelekea kuongeza usawa kupitia Taasisi yake ya Elimu ya LGBTQ+."
   },
   {
     "id": "ab058b91-49cf-4733-b3a3-47ea59b31a78",
@@ -1905,6 +2439,37 @@
     },
     "title": "Queer Lexikon",
     "description": "Queer Lexikon ni rasilimali ya mtandaoni inayotoa habari na msaada mkubwa kwa jamii ya queer. Inafunika mada anuwai kuanzia uanuwai wa kijinsia, kimapenzi hadi afya ya akili na makundi ya msaada. Ni kitovu cha elimu, uhamasishaji, na hadithi za jamii."
+  },
+  {
+    "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
+    "slug": "pride-center-san-antonio",
+    "externalUrl": "https://pridecentersa.org/",
+    "tags": [
+      "transmasculine",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "TX",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/PrideCenterSA",
+      "twitterUrl": "https://twitter.com/PrideCenterSA",
+      "instagramUrl": "https://www.instagram.com/pridecentersa/"
+    },
+    "title": "Pride Center San Antonio",
+    "description": "Pride Center San Antonio inahudumia jamii ya wasagaji, mashoga, bisekshuali, waliobadili jinsia, wanajiuliza, na washirika. Wao ni wenyeji wa aina mbalimbali za programu, matukio, na rasilimali, pamoja na vikundi vya msaada, tiba, upimaji wa STI, na zaidi. Wanajitahidi kufanya kazi kwa muungano na huduma zilizopo ndani ya jamii."
   },
   {
     "id": "bc49f848-fa04-47ff-af81-cb500214ce61",
@@ -2228,6 +2793,29 @@
     "description": "East Bay Trans & Queer Counseling inatoa huduma za mfumo wa alama ambazo zinajumuisha: Tiba ya kibinafsi iliyo katikati ya Berkeley, CA Support kupitia utambuzi wa jinsia na mabadiliko Barua za mapendekezo za homoni na upasuaji Mafunzo ya kitaalamu kwa wasambazaji wa afya ya akili, wanafunzi, na waajiri. Sam Davis ni Mfanyakazi wa Jamii wa Kliniki (LCSW) anayebadilisha jinsia, genderqueer na anabobea katika kufanya kazi na vijana na watu wazima wa trans, queer, genderqueer, na wanaobadilisha jinsia. Wana uzoefu wa miaka 16 kama mtoaji wa afya ya akili huko East Bay, ikiwa ni pamoja na uratibu wa kundi la msaada wa wenzao, elimu ya jamii kwenye mikutano ya LGBTQI, na miaka 9 ya mazoezi ya kliniki na ushauri wa mzozo kwa watu walio kwenye ukingo mkubwa sana kwa Kaunti ya Alameda. Wao ni mtetezi imara na aliyejitolea na historia ndefu ya kuandaa kwa niaba ya watu walio kwenye ukingo."
   },
   {
+    "id": "d75ac67d-a118-47a8-90f5-cff7c3723bb1",
+    "slug": "lgbtq-health-services-by-cdph",
+    "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": null,
+    "phoneNumber": "(916) 558-1784",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Sacramento",
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Huduma za Afya za LGBTQ+ kutoka CDPH",
+    "description": "Idara ya Afya ya Umma ya California (CDPH) inajihusisha na afya ya Wacalifornia wote ikiwa ni pamoja na jumuiya ya Wasagaji, Mashoga, Wazungu, na Wanaojibadilisha Jinsia (LGBT). Wanaotoa rasilimali za kuelewa masuala ya afya ambayo mara nyingi yanaathiri jumuiya ya LGBT, uchunguzi unaohitajika katika hatua mbalimbali za maisha, na zana za maisha yenye afya."
+  },
+  {
     "id": "dcb18ebe-596d-4d3e-a409-542f06a109a7",
     "slug": "seahorse-victoria-club",
     "externalUrl": "https://seahorsevic.com.au/",
@@ -2279,6 +2867,43 @@
     "town": "Manhattan",
     "title": "Usawa wa Familia",
     "description": "Usawa wa Familia ni shirika lisilo la kibiashara lililowakilishwa kuwalinda na kuwasaidia familia za LGBTQ+. Wanalenga kwa kulinda haki za kisheria, kutoa rasilimali na elimu, na wanazingatia sana haki za LGBTQ+. Shirika hili linakutisha matukio mbalimbali na linasaidia kuunganisha familia na jamii pana ya LGBTQ+."
+  },
+  {
+    "id": "e1116136-c5cf-4eda-8f03-8f3cf4205594",
+    "slug": "center-on-halsted",
+    "externalUrl": "https://www.centeronhalsted.org/",
+    "tags": [
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "community-stories",
+      "education-awareness"
+    ],
+    "address": "3656 N Halsted St, Chicago, IL 60613, USA",
+    "phoneNumber": "773.472.6469",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.9488291,
+      -87.6499407
+    ],
+    "email": "mail@centeronhalsted.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "http://www.facebook.com/CenterOnHalsted",
+      "twitterUrl": "http://twitter.com/CenteronHalsted",
+      "instagramUrl": null,
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Center on Halsted",
+    "description": "Kituo cha jamii cha Chicago kilichojitolea kukuza jamii ya Lesbian, Gay, Bisexual, Transgender (LGBT) na Queer (+) kupitia kutoa programu za huduma, matukio, mafunzo, na rasilimali. Ikiwa ni pamoja na huduma za HIV/AIDS & STD, Afya ya Tabia, Kupambana na jeuri na programu maalum kwa vijana na wazee."
   },
   {
     "id": "e20d344a-9e07-44b6-8b9e-c21554a1cda6",
@@ -2430,6 +3055,33 @@
     "description": "Transgendermap.com ni rasilimali ya mtandaoni yenye lengo la kutoa habari za vitendo na mwongozo kwa watu ambao wanajiuliza kuhusu utambulisho wao wa jinsia au wako popote katika wigo wa transgender. Tovuti inajumuisha anuwai kubwa ya mada kama vile kuelewa istilahi ya transgender, mchakato wa mpito, maswala ya kisheria, huduma ya afya, na hadithi nyingi za kibinafsi. Lengo lake ni kuwasaidia watu kusafiri katika safari zao binafsi kwa kutoa 'ramani' au mwongozo kwa upande mwingi wa utambulisho wa jinsia na uzoefu wa transgender. Tafadhali tembelea tovuti halisi kwa habari sahihi na za sasa zaidi."
   },
   {
+    "id": "ef5a9058-785d-4375-9082-454a746eb3cf",
+    "slug": "transgender-health-program-massachusetts-general-hospital",
+    "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
+    "tags": [
+      "healthcare",
+      "mental-health"
+    ],
+    "address": "55 Fruit St, Boston, MA 02114, USA",
+    "phoneNumber": null,
+    "country": "US",
+    "provinceOrState": "MA",
+    "city": "Boston",
+    "county": "Suffolk County",
+    "latLng": [
+      42.3625677,
+      -71.0687661
+    ],
+    "email": null,
+    "socialMedia": {
+      "facebookUrl": "https://www.facebook.com/massgeneral",
+      "twitterUrl": "https://www.twitter.com/massgeneral",
+      "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
+    },
+    "title": "Mpango wa Afya ya Transjinsia katika Hospitali Kuu ya Massachusetts",
+    "description": "Mpango wa Afya ya Transjinsia katika Hospitali Kuu ya Massachusetts hutoa huduma ya matibabu inayolingana, iliyosasishwa na ya hali ya juu kwa watu wa transjinsia, vijana, na walezi. Mpango huo unatoa rasilimali mbalimbali, majibu ya maswali yanayoulizwa mara kwa mara, na timu maalum ya huduma."
+  },
+  {
     "id": "ef7f242d-4d3a-4615-ab35-422dcc90f493",
     "slug": "the-genderaid",
     "externalUrl": "https://genderaid.org/en",
@@ -2576,6 +3228,31 @@
     "description": "RFSL ni shirika la Sweden linalofanya kazi na na kwa haki za LGBTQ. Wana provide rasilimali muhimu, msaada wa jumuiya, elimu na uelewa, mwongozo wa kisheria, huduma za afya, na zaidi kwa jamii ya watu watransgender. RFSL pia inakuza haki za LGBTQ kwenye ngazi ya kimataifa."
   },
   {
+    "id": "f5c7d768-5bf7-489c-aeac-0d2ff868223b",
+    "slug": "transgender-youth-resource-and-advocacy-tyra-group",
+    "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
+    "tags": [
+      "transfeminine",
+      "mental-health",
+      "youth-services",
+      "support-groups"
+    ],
+    "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
+    "phoneNumber": "(773) 935-3151",
+    "country": "US",
+    "provinceOrState": "IL",
+    "city": "Chicago",
+    "county": "Cook County",
+    "latLng": [
+      41.936299,
+      -87.6448942
+    ],
+    "email": "BaylieR@howardbrown.org",
+    "socialMedia": null,
+    "title": "Kikundi cha Vijana Wanaobadilisha Jinsia na Utetezi (TYRA)",
+    "description": "TYRA ni kikundi cha msaada kwa vijana wanaobadilisha jinsia na wanaojiuliza, wenye umri wa chini ya miaka 24, kukutana na watu, kupata habari, na kupata msaada kutoka kwa rika lao. Kikao hufanyika kila Alhamisi kuanzia saa 11:00 jioni hadi saa 1:00 usiku."
+  },
+  {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
     "slug": "apotheek-all-about-medication",
     "externalUrl": "https://www.apotheek.nl/",
@@ -2594,6 +3271,65 @@
     "socialMedia": null,
     "title": "Apotheek.nl - Yote kuhusu Dawa",
     "description": "Rasilimali inayotoa habari za kuaminika kuhusu dawa mbalimbali. Tovuti hii inajumuisha video, mambo ya sasa ya afya, habari kuhusu chanjo, coronavirus, na huduma ya dawa. Inatoa habari kwa Kiholanzi na inatafsiri dawa 50 muhimu kwa wakimbizi wa Ukraine."
+  },
+  {
+    "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+    "slug": "transgender-equality-id-documents-center",
+    "externalUrl": "https://transequality.org/documents",
+    "tags": [
+      "legal",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "DC",
+    "city": "Washington",
+    "latLng": [
+      38.9034383,
+      -77.03503719999999
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null
+    },
+    "title": "Kituo cha Nyaraka za Usawa wa Jinsia ya Mtangazaji",
+    "description": "Rasilimali kamili inayosaidia watu kusasisha jina lao na jinsia kwenye vitambulisho na rekodi za serikali ya majimbo na ya shirikisho. Inatoa habari kuhusu daraja la sera kwa kila jimbo na hatua za michakato mbalimbali ikiwa ni pamoja na kusasisha hati za kusafiria, rekodi za usalama wa jamii, rekodi za kijeshi/veterani, nk."
+  },
+  {
+    "id": "fc69ee0b-d5ea-4a0a-8f1f-5330bf5367ee",
+    "slug": "gendergp-comprehensive-support-for-transgender-individuals",
+    "externalUrl": "https://www.gendergp.com/",
+    "tags": [
+      "healthcare",
+      "legal",
+      "mental-health",
+      "youth-services",
+      "education-awareness"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/gendergp",
+      "twitterUrl": "https://twitter.com/GenderGP",
+      "instagramUrl": "https://www.instagram.com/gendergp",
+      "youtubeUrl": "https://www.youtube.com/channel/UCU1mUfFhtdIRZiWADXqPtnw",
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "GenderGP: Msaada Kamili kwa Watu binafsi wa Jinsia ya Kijinsia",
+    "description": "GenderGP inatoa seti kamili ya huduma zinazojumuisha utetezi, ushauri, huduma za afya, na huduma mbalimbali zinazolingana kwa watu wa trans ulimwenguni. Jukwaa hutoa njia kwa watu binafsi wa jinsia ya kubadilisha kupata huduma za afya zinazounga mkono jinsia, misaada ya kisheria ya mpito, na misaada ya mpito ya kijamii. Kupitia jukwaa lake la kidigitali linalopatikana ulimwenguni, GenderGP inajitolea kuwawezesha watu wa trans kuishi maisha yao kwa urahisi zaidi na ya kweli."
   },
   {
     "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",

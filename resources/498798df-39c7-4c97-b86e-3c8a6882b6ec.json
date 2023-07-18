@@ -1,0 +1,109 @@
+{
+  "id": "498798df-39c7-4c97-b86e-3c8a6882b6ec",
+  "slug": "allentown-womens-center",
+  "externalUrl": "https://allentownwomenscenter.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
+  "phoneNumber": "(484) 821-0821",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Bethlehem",
+  "county": "Northampton County",
+  "latLng": [
+    40.6728208,
+    -75.37561989999999
+  ],
+  "email": null,
+  "socialMedia": {},
+  "i18n": {
+    "en-US": {
+      "title": "Allentown Women’s Center",
+      "description": "A comprehensive healthcare provider that specializes in services catering to a wide array of demographic including the transgender community. Services range from abortion procedures, gynecology care, gender-affirming services, and medical marijuana certification amongst others."
+    },
+    "es-ES": {
+      "title": "Centro de Mujeres de Allentown",
+      "description": "Un proveedor de atención médica integral que se especializa en servicios dirigidos a una amplia gama de demografía, incluida la comunidad transgénero. Los servicios varían desde procedimientos de aborto, cuidado ginecológico, servicios de afirmación de género y certificación de marihuana medicinal, entre otros."
+    },
+    "fr-FR": {
+      "title": "Centre des Femmes d’Allentown",
+      "description": "Un fournisseur de soins de santé complet qui se spécialise dans des services répondant à une large gamme de démographie incluant la communauté transgenre. Les services vont des procédures d'avortement, des soins gynécologiques, des services de confirmation de genre, et la certification de marijuana médicale entre autres."
+    },
+    "id-ID": {
+      "title": "Pusat Wanita Allentown",
+      "description": "Penyedia layanan kesehatan komprehensif yang mengkhususkan diri pada layanan yang melayani berbagai demografi termasuk komunitas transgender. Layanan meliputi prosedur aborsi, perawatan ginekologi, layanan penguatan gender, dan sertifikasi marijuana medis di antara lainnya."
+    },
+    "pt-PT": {
+      "title": "Centro Para Mulheres de Allentown",
+      "description": "Um provedor de saúde abrangente que se especializa em serviços atendendo a uma ampla gama de demografia, incluindo a comunidade transgênero. Os serviços variam desde procedimentos de aborto, assistência ginecológica, serviços de afirmação de gênero e certificação de maconha medicinal, entre outros."
+    },
+    "zh-CN": {
+      "title": "阿伦敦妇女中心",
+      "description": "一家提供全面医疗服务的机构，专门为包括跨性别社区在内的各种人群提供服务。服务范围从堕胎手术、妇科护理、性别认同服务，到医用大麻认证等。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Wanawake cha Allentown",
+      "description": "Mtoaji wa huduma kamili ya afya ambaye ni mtaalam katika huduma zinazowahudumia aina mbalimbali za idadi ya watu ikiwa ni pamoja na jamii ya watu wa jinsia mbalimbali. Huduma zinatoka kwenye utaratibu wa utoaji mimba, huduma za kiafya za uzazi wa mpango, huduma zinazothibitisha jinsia, na uthibitishaji wa bangi ya kitiba miongoni mwa zingine."
+    },
+    "tr-TR": {
+      "title": "Allentown Kadınlar Merkezi",
+      "description": "Transgender topluluğu da dahil olmak üzere geniş bir demografik kitleye hizmet sunan bir sağlık hizmetleri sağlayıcısıdır. Hizmetler, kürtaj prosedürleri, jinekolojik bakım, cinsiyeti onaylayan hizmetler ve tıbbi marihuana sertifikasyonu gibi konulara kadar uzanır."
+    },
+    "ja-JP": {
+      "title": "オレンタウン女性センター",
+      "description": "トランスジェンダーコミュニティを含む広範な人口に対応したサービスを専門とする包括的なヘルスケアプロバイダー。サービスは、中絶手術、婦人科ケア、性別確認サービス、医療用マリファナ認定などがあります。"
+    },
+    "de-DE": {
+      "title": "Allentown Frauenzentrum",
+      "description": "Ein umfassender Gesundheitsdienstleister, der sich auf Dienstleistungen spezialisiert hat, die sich an eine breite Palette von Bevölkerungsgruppen richten, einschließlich der Transgender-Gemeinschaft. Die Dienstleistungen reichen von Abtreibungsverfahren über gynäkologische Versorgung, geschlechtsbestätigende Dienstleistungen bis hin zu Zertifizierungen für medizinisches Marihuana und andere."
+    },
+    "ko-KR": {
+      "title": "Allentown 여성 센터",
+      "description": "트랜스젠더 커뮤니티를 포함한 다양한 인구층을 대상으로 한 서비스를 전문으로 하는 종합적인 건강관리 공급자입니다. 서비스는 낙태 시술, 산부인과 치료, 성 인증 서비스, 그리고 의료용 마리화나 인증 등을 포함합니다."
+    },
+    "ru-RU": {
+      "title": "Женский центр Allentown",
+      "description": "Многофункциональный медицинский провайдер, специализирующийся на услугах, ориентированных на широкую демографию, включая трансгендерное сообщество. Услуги варьируются от процедур аборта, обслуживания в области гинекологии, гендерного подтверждения, сертификации медицинской марихуаны и многого другого."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Phụ nữ Allentown",
+      "description": "Nhà cung cấp dịch vụ chăm sóc sức khỏe toàn diện, chuyên về các dịch vụ phục vụ cho nhiều nhóm dân số khác nhau, bao gồm cộng đồng chuyển giới. Các dịch vụ bao gồm thủ tục phá thai, chăm sóc phụ khoa, các dịch vụ xác nhận giới tính và chứng nhận y tế về marijuana, cùng với nhiều dịch vụ khác."
+    },
+    "uk-UA": {
+      "title": "Центр жінок Allentown",
+      "description": "Повноцінний постачальник медичних послуг, спеціалізація якого заходить сервіси, що відповідають широкому спектру демографічних груп, включаючи трансгендерну спільноту. Послуги варіюють від процедур аборту, гінекологічного догляду, послуг, що підтверджують стать, а також сертифікація медичної марихуани та інших."
+    },
+    "ur-PK": {
+      "title": "الن ٹاؤن وؤمئن سینٹر",
+      "description": "ایک جامع ہیلتھ کیئر فراہم کرنے والا جو خصوصی خدمات میں مہارت رکھتا ہے جو ٹرانسجینڈر کمیونٹی سمیت بہت بڑے مردم شماری کی خواہشات کے لئے ہیں۔ خدمات میں اسقاط حمل کے طریقے، زنانہ ہیلتھ کی دیکھ بھال، جندر تصدیق کی خدمات، اور طبی معیار کا سرٹیفکیشن شامل ہے۔"
+    },
+    "ar-SA": {
+      "title": "مركز النتاون للنساء",
+      "description": "مزود رعاية صحية شامل متخصص في الخدمات التي تلبية احتياجات شريحة واسعة من الجمهور بما في ذلك المجتمع المتحول جنسياً. تشمل الخدمات مجموعة من الإجراءات التجهيض، الرعاية النسائية، الخدمات المؤكدة للجنس، وشهادة القنب الطبية بين الخدمات الأخرى."
+    },
+    "mr-IN": {
+      "title": "ऍलनटाउन महिला केंद्र",
+      "description": "अर्थात ट्रांसजेंडर समुदाय सहित विविध अंतर्गतपूर्वकांना विशेष सेवा देणारे एक संपूर्ण आरोग्य देणारे प्रदाता. सेवांमध्ये गर्भपात क्रियाकलाप, स्त्री रोग विभागीय ती देखभाल, लिंग सुदृढ करणारी सेवाए, व वैद्यकीय मारिजुआना प्रमाणन इतरांसह."
+    },
+    "hi-IN": {
+      "title": "Allentown महिला केंद्र",
+      "description": "एक व्यापक हेल्थकेयर प्रदाता जो ट्रांसजेंडर समुदाय सहित विभिन्न जनसांख्यिकी में सेवाओं की विशेषज्ञता रखता है। सेवाएं गर्भपात प्रक्रियाओं, महिला रोग विशेषज्ञ सेवाओं, लिंग-समर्थन सेवाओं, और औषधीय भांग प्रमाणीकरण आदि की अपेक्षाकृत की जाती हैं।"
+    },
+    "ta-IN": {
+      "title": "ஆலென்டௌன் பெண்களின் மையம்",
+      "description": "மூலிகை சார் உறுதிப்படுத்தல், பாலின உறுதிகள் ஆகியவற்றுக்கு மற்றும் பின்னணி, மற்றும் மருத்துவ சேவைகள் அனைவரும் கொண்ட ஒரு ஒருங்கிணைந்த சுகாதார வழங்குநர் சார்ந்துள்ளது. சேவைகள் விபரீதமாக வித்தியாசமாக உள்ளன."
+    },
+    "bn-BD": {
+      "title": "এলেনটাউন মহিলা কেন্দ্র",
+      "description": "একটি সম্পূর্ণ স্বাস্থ্যসেবা প্রদানকারী যা সম্প্রসারণশীল সেবায় বিশেষজ্ঞ, যা ট্রান্সজেন্ডার সম্প্রদায় সহ বিভিন্ন জনসংখ্যাকে উদ্দেশ্য করে। সেবাগুলি অবর্তন প্রক্রিয়া, গাইনেকোলজি যত্ন, লিঙ্গ-সমর্থনকারী সেবা এবং মেডিকেল মারিজুয়ানা সার্টিফিকেশন সহ অন্যান্য সেবা নিয়ে বিস্তারিত হয়েছে।"
+    },
+    "te-IN": {
+      "title": "అలెంటౌన్ వోమెన్స్ సెంటర్",
+      "description": "ట్రాన్స్‌జెండర్ కమ్యూనిటీని పోలిచే విశాలమైన డెమోగ్రాఫిక్‌ను హుదోగించే సేవలకు ప్రత్యేకతను ఉచ్చారించే క్రిందా ఆరోగ్య సేవలను అందిస్తున్న పరిపూర్ణ ఆరోగ్యసేవ పంపిణీదారు. సేవల వ్యాప్తిలో గర్భపాత కర్మకాండాలు, లేడీస్ మనోవైజ్ఞానిక చార్యలు, జెండర్-ఆమోదించే సేవలు, మరియు మెడికల్ మారిజువానా సర్టిఫికేషన్ మరియు ఇతరాలు ఉన్నాయి."
+    }
+  }
+}

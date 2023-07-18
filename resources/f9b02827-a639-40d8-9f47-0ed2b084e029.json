@@ -1,0 +1,110 @@
+{
+  "id": "f9b02827-a639-40d8-9f47-0ed2b084e029",
+  "slug": "transgender-equality-id-documents-center",
+  "externalUrl": "https://transequality.org/documents",
+  "tags": [
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+  "phoneNumber": "(202) 642-4542",
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Washington",
+  "latLng": [
+    38.9034383,
+    -77.03503719999999
+  ],
+  "email": "ncte@transequality.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  },
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Equality ID Documents Center",
+      "description": "A comprehensive resource that helps individuals to update their name and gender on state and federal IDs and records. It provides information on policy grades for each state and steps for various processes including updating passports, social security records, military/veteran records, etc."
+    },
+    "id-ID": {
+      "title": "Pusat Dokumen Identitas Kesetaraan Transgender",
+      "description": "Sumber daya komprehensif yang membantu individu untuk memperbarui nama dan jenis kelamin mereka pada ID dan catatan negara dan federal. Ini menyediakan informasi tentang nilai kebijakan untuk setiap negara dan langkah-langkah untuk berbagai proses termasuk pembaruan paspor, catatan keamanan sosial, catatan militer / veteran, dll."
+    },
+    "tr-TR": {
+      "title": "Transgender Eşitliği Kimlik Belgesi Merkezi",
+      "description": "Bireylerin adlarını ve cinsiyetlerini devlet ve federal kimliklerinde ve kayıtlarında güncellemelerine yardımcı olan kapsamlı bir kaynak. Her eyalet için politika notları hakkında bilgi sağlar ve pasaportların güncellenmesi, sosyal güvenlik kayıtları, askeri/gazi kayıtları vb. çeşitli süreçler için adımlar sunar."
+    },
+    "fr-FR": {
+      "title": "Centre d'égalité des documents d'identité pour les personnes transgenres",
+      "description": "Une ressource complète qui aide les individus à mettre à jour leur nom et leur sexe sur les identifiants et les dossiers de l'état et fédéraux. Elle fournit des informations sur les notes de politique pour chaque état et les étapes pour divers processus, y compris la mise à jour des passeports, des dossiers de sécurité sociale, des dossiers militaires / vétérans, etc."
+    },
+    "de-DE": {
+      "title": "Transgender Equality ID Dokumente Zentrum",
+      "description": "Eine umfassende Ressource, die Personen dabei hilft, ihren Namen und ihr Geschlecht in staatlichen und bundesweiten Ausweisen und Aufzeichnungen zu aktualisieren. Sie bietet Informationen über Policy-Bewertungen für jeden Staat und Schritte für verschiedene Prozesse, einschließlich der Aktualisierung von Pässen, Sozialversicherungsaufzeichnungen, militärischen/veteranischen Aufzeichnungen usw."
+    },
+    "zh-CN": {
+      "title": "跨性别平等身份证件中心",
+      "description": "这是一个综合性资源，帮助个人在州和联邦身份证件和记录上更新他们的名字和性别。它提供了每个州的政策等级信息以及各种流程的步骤，包括更新护照、社会保障记录、军事/退伍军人记录等。"
+    },
+    "es-ES": {
+      "title": "Centro de Documentos de Identidad para la Igualdad Transgénero",
+      "description": "Un recurso integral que ayuda a las personas a actualizar su nombre y género en identificaciones y registros estatales y federales. Proporciona información sobre las calificaciones de políticas para cada estado y los pasos para varios procesos, incluyendo la actualización de pasaportes, registros de seguridad social, registros militares/veteranos, etc."
+    },
+    "ja-JP": {
+      "title": "トランスジェンダーの平等性 ID ドキュメントセンター",
+      "description": "個人が州と連邦のIDと記録に自分の名前と性別を更新するのを支援する包括的なリソースです。各州の方針の評価と、パスポートの更新、社会保障記録、軍/退役軍人の記録などのさまざまなプロセスの手順に関する情報を提供します。"
+    },
+    "sw-KE": {
+      "title": "Kituo cha Nyaraka za Usawa wa Jinsia ya Mtangazaji",
+      "description": "Rasilimali kamili inayosaidia watu kusasisha jina lao na jinsia kwenye vitambulisho na rekodi za serikali ya majimbo na ya shirikisho. Inatoa habari kuhusu daraja la sera kwa kila jimbo na hatua za michakato mbalimbali ikiwa ni pamoja na kusasisha hati za kusafiria, rekodi za usalama wa jamii, rekodi za kijeshi/veterani, nk."
+    },
+    "pt-PT": {
+      "title": "Centro de Documentos de Identidade para a Igualdade Transgênero",
+      "description": "Um recurso abrangente que ajuda indivíduos a atualizar seu nome e gênero em identificações e registros estaduais e federais. Ele fornece informações sobre as notas das políticas para cada estado e passos para vários processos, incluindo a atualização de passaportes, registros de segurança social, registros militares/veteranos, etc."
+    },
+    "ru-RU": {
+      "title": "Центр по равенству трансгендеров в документах удостоверяющих личность",
+      "description": "Обширный ресурс, помогающий людям обновить свое имя и пол в государственных и федеральных документах и записях. Он предоставляет информацию о оценке политики каждого штата и шагах различных процессов, включая обновление паспортов, записей социального обеспечения, военных/ветеранских записей и т.д."
+    },
+    "vi-VN": {
+      "title": "Trung tâm Hồ sơ Giới tính Chuyển đổi Bình đẳng",
+      "description": "Một nguồn tài nguyên toàn diện giúp các cá nhân cập nhật tên và giới tính của họ trên các ID và hồ sơ của tiểu bang và liên bang. Nó cung cấp thông tin về các điểm chính sách cho từng tiểu bang và các bước cho các quy trình khác nhau bao gồm cập nhật hộ chiếu, hồ sơ an sinh xã hội, hồ sơ quân sự / cựu chiến binh, v.v."
+    },
+    "ko-KR": {
+      "title": "트랜스젠더 평등 ID 문서 센터",
+      "description": "개인이 주 및 연방 ID 및 기록에 이름과 성별을 업데이트하는 데 도움이 되는 종합적인 자원입니다. 각 주의 정책 등급 정보와 여권 업데이트, 사회보장 기록, 군인/전우 기록 등 다양한 프로세스에 대한 단계를 제공합니다."
+    },
+    "uk-UA": {
+      "title": "Центр документів щодо трансгендерної рівності",
+      "description": "Ресурс, що надає всеосяжну допомогу людям у оновленні ім'я та статі в документах державного та федерального зразка. Це включає інформацію щодо політичних оцінок для кожної держави та кроки різних процесів, включаючи оновлення паспортів, записів соціального забезпечення, військових/ветеранських записів тощо."
+    },
+    "ar-SA": {
+      "title": "مركز الهوية لحقوق المتحولين جنسيًا",
+      "description": "مصدر شامل يساعد الأفراد في تحديث اسمهم وجنسهم على الهويات والسجلات الفدرالية والولائية. يوفر معلومات عن درجات السياسات لكل ولاية وخطوات للعديد من العمليات بما في ذلك تحديث جوازات السفر، سجلات الضمان الاجتماعي، سجلات الجنود والمحاربين القدامى، إلخ."
+    },
+    "mr-IN": {
+      "title": "ट्रान्सजेंडर समतानुसार पहचानपत्रे केंद्र",
+      "description": "हे एक संकल्पित संसाधन आहे ज्यामुळे व्यक्ती त्यांचे नाव आणि लिंग स्थानिक व फेडरल ओळखपत्रांवर अद्ययावत करू शकतात. त्यात प्रत्येक राज्याकरिता धोरणांच्या माहिती देणार्या नीती गुण, पासपोर्ट, सोशल सिक्युरिटी रेकॉर्ड्स, सैनिक / सैन्य सेवांसाठीच्या विविध प्रक्रियांच्या पायर्‍या देणारी ही वेबसाइट आहे."
+    },
+    "ur-PK": {
+      "title": "ٹرانس جینڈر برابری شناختی دستاویزات مرکز",
+      "description": "ایک جامع وسیلہ جو افراد کی مدد کرتا ہے تاکہ وہ اپنا نام اور جنسیت کو ریاستی اور فیڈرل شناختی دستاویزات اور ریکارڈز پر اپ ڈیٹ کر سکیں۔ یہ ہر ریاست کے لیے پالیسی گریڈز کی معلومات فراہم کرتا ہے اور مختلف عمل کے لئے اقدامات کا تفصیل پیش کرتا ہے جیسے پاسپورٹ کو تازہ کرنا، سوشل سیکیورٹی ریکارڈز، فوجی / ویٹران ریکارڈز وغیرہ۔"
+    },
+    "hi-IN": {
+      "title": "ट्रांसजेंडर समानता आईडी दस्तावेज़ केंद्र",
+      "description": "यह एक व्यापक संसाधन है जो व्यक्तियों को अपने नाम और लिंग को राज्य और केंद्रीय आईडी और रिकॉर्ड्स पर अपडेट करने में मदद करता है। यह प्रत्येक राज्य के लिए नीति ग्रेड की जानकारी प्रदान करता है और पासपोर्ट, सोशल सिक्युरिटी रिकॉर्ड्स, सैन्य / सैनिक रिकॉर्ड्स, आदि को अपडेट करने के लिए विभिन्न प्रक्रियाओं के लिए कदम प्रदान करता है।"
+    },
+    "bn-BD": {
+      "title": "ট্রান্সজেন্ডার সমতা আইডি দলিল কেন্দ্র",
+      "description": "একটি সম্পূর্ণ সংস্থান যা ব্যক্তিদের স্টেট এবং ফেডারেল আইডি এবং রেকর্ডগুলিতে তাদের নাম এবং লিঙ্গ আপডেট করতে সাহায্য করে। এটি প্রতিটি রাজ্যের নীতিমালা গ্রেডের তথ্য সরবরাহ করে এবং পাসপোর্ট আপডেট, সামাজিক নিরাপত্তি রেকর্ড, সামরিক/ভেটারান রেকর্ড ইত্যাদি বিভিন্ন প্রক্রিয়ার জন্য পদক্ষেপ সরবরাহ করে।"
+    },
+    "ta-IN": {
+      "title": "மாற்று பாலினத்து சமத்துவ அடையாள ஆவணங்கள் மையம்",
+      "description": "மக்கள் தமது பெயர் மற்றும் பாலினத்தை மாநில மற்றும் கேந்திர அடையாள ஆவணங்களில் மேம்படுத்த உதவும் ஒரு ஒழுங்குபெற்ற வளங்கள். இது ஒவ்வொரு மாநிலத்திற்கும் கொள்கை தரங்கள் மற்றும் பாஸ்போர்ட்களை, சமூக பாதுகாப்பு பதிவேடுகளை, மிலிட்டரி/முதன்முதலியர் பதிவேடுகளை போன்றவற்றை மேம்படுத்தல் ஆகிய பல்வேறு செயல்முறைகளுக்கான படிகள் பற்றி தகவல் வழங்குகிறது."
+    },
+    "te-IN": {
+      "title": "ట్రాన్స్‌జెండర్ సమానత్వ గుర్తింపు పత్రాల కేంద్రం",
+      "description": "వ్యక్తులు తమ పేరు మరియు లింగాన్ని రాష్ట్ర మరియు కేంద్ర గుర్తింపు పత్రాలు మరియు రికార్డులు నవీకరించేందుకు సహాయపడే సమగ్ర వనరు. ప్రతి రాష్ట్రంలో విధాన గ్రేడ్ల పట్టికలపై సమాచారం అందిస్తుంది మరియు పాస్పోర్ట్‌లను నవీకరించడం, సోషల్ సెక్యూరిటీ రికార్డులను నవీకరించడం, సైన్య/వేటరన్ రికార్డులను నవీకరించడం మొదలైన వివిధ ప్రక్రియల కోసం దశలను అందిస్తుంది."
+    }
+  }
+}
