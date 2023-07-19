@@ -1,6 +1,7 @@
 import webpack from "webpack";
 import { fileURLToPath } from "url";
 import path from "path";
+import fs from 'node:fs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -25,6 +26,11 @@ export default {
     path: path.resolve(__dirname, "docs"),
   },
   devServer: {
+    https: {
+      key: fs.readFileSync('./localhost-key.pem'),
+        cert: fs.readFileSync('./localhost.pem'),
+        ca: fs.readFileSync('./rootCA.pem')
+    },
     static: {
       directory: path.join(__dirname, "src"),
     },
