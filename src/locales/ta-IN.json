@@ -37,5 +37,8 @@
   "footer.description": "வளங்கள், ஆதரவு மற்றும் திறந்த இணைந்து வேலை செய்வதன் மூலம் திருநங்கை சமுதாயத்தை சக்திவாய்வு செய்யும். ஒன்றுகூடி வேலை செய்தால், நாம் வித்தியாசம் ஏற்படுத்தலாம்.",
   "footer.terms-of-service": "சேவை விதிமுறைகள்",
   "footer.privacy-policy": "தனியுரிமை கொள்கை",
-  "header.menuitem.map": "வரைபடம்"
+  "header.menuitem.map": "வரைபடம்",
+  "tags.endocrinologists": "தாதுமரம் மருத்துவர்கள்",
+  "tags.surgeons": "அறுவை மருத்துவர்கள்",
+  "tags.informed-consent-clinics": "தகவல் முடிவொண்ட ஆரோக்கியக் கல்வி மையங்கள்"
 }

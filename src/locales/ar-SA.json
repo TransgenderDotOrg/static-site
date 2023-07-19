@@ -37,5 +37,8 @@
   "footer.terms-of-service": "شروط الخدمة",
   "footer.privacy-policy": "سياسة الخصوصية",
   "footer.description": "تمكين المجتمع الترانسجندر من خلال الموارد والدعم والتعاون المفتوح. بالعمل معًا ، يمكننا أن نحقق فرقًا.",
-  "header.menuitem.map": "خريطة"
+  "header.menuitem.map": "خريطة",
+  "tags.endocrinologists": "أطباء الغدد الصماء",
+  "tags.surgeons": "جراحين",
+  "tags.informed-consent-clinics": "عيادات الموافقة المستنيرة"
 }

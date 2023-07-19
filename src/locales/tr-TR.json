@@ -37,5 +37,8 @@
   "footer.terms-of-service": "Hizmet Şartları",
   "footer.description": "Kaynaklar, destek ve açık işbirliği ile trans bireylerin topluluğunu güçlendirme. Birlikte çalışarak, fark yaratabiliriz.",
   "footer.privacy-policy": "Gizlilik Politikası",
-  "header.menuitem.map": "Harita"
+  "header.menuitem.map": "Harita",
+  "tags.endocrinologists": "Endokrinologlar",
+  "tags.surgeons": "Cerrahlar",
+  "tags.informed-consent-clinics": "Bilgilendirilmiş Onay Klinikleri"
 }

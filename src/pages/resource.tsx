@@ -392,7 +392,7 @@ export const ResourcePage = () => {
                 marginLeft: "1.25rem",
               }}
             >
-              {(currentPage - 1) * 20 + 1}-
+              {!!currentPageData.length && `${(currentPage - 1) * 20 + 1}-`}
               {(currentPage - 1) * 20 + currentPageData.length} of{" "}
               {filteredResources.length}
             </Box>

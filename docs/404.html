@@ -13,7 +13,7 @@
     ></script>
     <script>
       // if http then redirect to https
-      if (location.protocol !== "https:") {
+      if (location.hostname !== "localhost" && location.protocol !== "https:") {
         location.replace(
           `https:${location.href.substring(location.protocol.length)}`
         );
