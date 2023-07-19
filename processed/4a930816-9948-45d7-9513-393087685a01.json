@@ -5,10 +5,13 @@
   "slug": "trans-health-sa",
   "externalUrl": "https://www.transhealthsa.com/",
   "tags": [
-    "healthcare",
+    "transmasculine",
+    "transfeminine",
     "legal",
+    "healthcare",
     "social-services",
     "support-groups",
+    "parent-family-resources",
     "education-awareness"
   ],
   "address": null,
@@ -23,5 +26,9 @@
     "facebookUrl": "https://www.facebook.com/TransHealthSA",
     "googleMapsUrl": null,
     "yelpUrl": null
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

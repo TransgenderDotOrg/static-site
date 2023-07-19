@@ -7,12 +7,13 @@
   "tags": [
     "transmasculine",
     "transfeminine",
-    "non-binary",
+    "healthcare",
     "mental-health",
     "social-services",
     "support-groups",
+    "parent-family-resources",
     "education-awareness",
-    "healthcare"
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": "02 9519 7599",
@@ -22,5 +23,12 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "online-platform",
+    "healthcare-provider",
+    "support-group"
+  ]
 }

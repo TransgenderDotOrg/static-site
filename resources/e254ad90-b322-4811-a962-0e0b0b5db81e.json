@@ -3,10 +3,10 @@
   "slug": "transgender-michigan",
   "externalUrl": "https://www.transgendermichigan.org/",
   "tags": [
-    "advocacy",
+    "transmasculine",
+    "transfeminine",
     "support-groups",
-    "education-awareness",
-    "community-stories"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": "855-345-TGMI",
@@ -102,5 +102,11 @@
       "title": "டிரான்ஸ்ஜென்டர் மிச்ஹிகன்",
       "description": "டிரான்ஸ்ஜென்டர் மிச்ஹிகனின் முதன்மை பணிக்குழுவு மிசிகன் மாநிலத்தில் கூட்டணிகளை உருவாக்குவதாகும், மற்றும் பாலின அஸ்வீகரிப்பு மற்றும் பாலின மாறான சமூகங்களை ஒன்றிணைத்து சக்தி வழங்குவதாகும் மேல் விளக்கத்தை, ஆதரவை மற்றும் கல்வியை வழங்குவதை உள்ளடக்கி."
     }
-  }
+  },
+  "title": "TRANSGENDER MICHIGAN",
+  "description": "Transgender Michigan’s primary mission is to provide advocacy, support and education while serving to create coalitions in the state of Michigan to unify and empower transgender and gender non-conformist communities.",
+  "organizationType": [
+    "non-profit-organization",
+    "support-group"
+  ]
 }

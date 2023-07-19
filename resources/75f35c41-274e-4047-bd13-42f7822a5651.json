@@ -4,7 +4,12 @@
   "externalUrl": "https://www.nqttcn.com/",
   "tags": [
     "mental-health",
-    "social-services"
+    "healthcare",
+    "social-services",
+    "education-awareness",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
   ],
   "address": "Baltimore, MD 21211, USA",
   "phoneNumber": null,
@@ -106,5 +111,11 @@
       "title": "జాతీయ క్వియర్ & ట్రాన్స్ థెరాపిస్ట్స్ యొక్క రంగు నెట్వర్క్",
       "description": "జాతీయ క్వియర్ & ట్రాన్స్ థెరాపిస్ట్స్ యొక్క రంగు నెట్వర్క్ ఒక హీలింగ్ జస్టిస్ సంస్థ అని పక్కన ఉంది దీనికి కేటాయించినది క్వియర్ మరియు ట్రాన్స్ ప్రజలు యొక్క మెంటల్ హెల్త్ను మార్చడానికి. వారు సామాజిక న్యాయం కొరకు ఉన్న కలహాల మధ్య పని చేస్తున్నారు మరియు మెంటల్ హెల్త్ యొక్క రంగానికి."
     }
-  }
+  },
+  "title": "National Queer & Trans Therapists of Color Network",
+  "description": "The National Queer & Trans Therapists of Color Network is a healing justice organization committed to transforming mental health for queer and trans people of color. They work at the intersection of movements for social justice and the field of mental health.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

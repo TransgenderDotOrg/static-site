@@ -9,7 +9,9 @@
     "healthcare",
     "education-awareness",
     "parent-family-resources",
-    "support-groups"
+    "mental-health",
+    "community-stories",
+    "legal"
   ],
   "address": null,
   "phoneNumber": null,
@@ -19,5 +21,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

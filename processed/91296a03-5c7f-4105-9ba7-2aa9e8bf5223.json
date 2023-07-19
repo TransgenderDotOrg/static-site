@@ -5,11 +5,10 @@
   "slug": "parents-of-gender-diverse-children",
   "externalUrl": "https://www.pgdc.org.au/",
   "tags": [
-    "parent-family-resources",
     "support-groups",
+    "parent-family-resources",
     "education-awareness",
-    "mental-health",
-    "youth-services"
+    "social-services"
   ],
   "address": null,
   "phoneNumber": "03 9663 6733",
@@ -19,5 +18,9 @@
   "county": null,
   "latLng": null,
   "email": "info@pgdc.org.au",
-  "socialMedia": {}
+  "socialMedia": {},
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

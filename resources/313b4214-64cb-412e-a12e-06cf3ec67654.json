@@ -3,12 +3,11 @@
   "slug": "open-doors-youth-service",
   "externalUrl": "https://www.opendoors.net.au/",
   "tags": [
-    "mental-health",
-    "social-services",
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "education-awareness"
+    "education-awareness",
+    "mental-health"
   ],
   "address": null,
   "phoneNumber": null,
@@ -106,5 +105,12 @@
       "title": "ওপেন ডোর্স ইউথ সার্ভিস",
       "description": "দক্ষিণ পূর্ব কোয়েন্সল্যান্ডের LGBTIQAP+ যুবকদের এবং তাদের পরিবারগুলিকে সমর্থন করা। মানসিক স্বাস্থ্য পরামর্শ, গ্রুপ চিকিৎসা প্রোগ্রামগুলি, সামাজিক সহায়তা, প্রয়োজনীয় খাবার ও স্বাস্থ্য পরিষেবা প্রদান, স্থিতিশীল চাকরি ও আবাসন নিশ্চিত করা, এবং স্কুল, কর্মস্থল, এবং পরিবারগুলির সাথে প্রশিক্ষণ এবং শিক্ষা পরিচালনা করা।"
     }
-  }
+  },
+  "title": "Open Doors Youth Service",
+  "description": "Supporting LGBTIQAP+ youth and their families in South East Queensland. Providing services like mental health counselling, group therapy programs, social supports, providing essential food & sanitary items, securing stable employment and housing, and conducting training & education with schools, workplaces, and families.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "educational-institution"
+  ]
 }

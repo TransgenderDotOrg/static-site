@@ -6,7 +6,8 @@
     "youth-services",
     "support-groups",
     "mental-health",
-    "education-awareness"
+    "educational-institution",
+    "community-stories"
   ],
   "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
   "phoneNumber": null,
@@ -105,5 +106,12 @@
       "title": "Colors+ యూత్ సెంటర్",
       "description": "Colors+ లకుబో గాయపడిన యువత మరియు మిత్రులను బలపరుచుతుంది. వ్యక్తిగత మరియు సముదాయ భలపై ఆధారపడి ప్రోత్సహిస్తుంది. LGBTQ+ యువత మరియు మిత్రుల కోసం కార్యక్రమాలను అందిస్తుంది, వ్యక్తిగత, జంటలు, మరియు కుటుంబ కౌన్సెలింగ్ సేవలు మొదలైనవి."
     }
-  }
+  },
+  "title": "Colors+ Youth Center",
+  "description": "Colors+ strengthens the LGBTQ+ youth and allies by promoting individual and community wellness. Provides programs for LGBTQ+ youth and allies such as individual, couples, and family counseling services.",
+  "organizationType": [
+    "local-office",
+    "non-profit-organization",
+    "community-center"
+  ]
 }

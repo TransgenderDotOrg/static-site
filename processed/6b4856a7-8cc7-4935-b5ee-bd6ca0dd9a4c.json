@@ -5,11 +5,10 @@
   "slug": "plume-transgender-nonbinary-healthcare",
   "externalUrl": "https://getplume.co/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
     "healthcare",
-    "support-groups"
+    "support-groups",
+    "legal",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -25,5 +24,9 @@
     "youtube": "https://www.youtube.com/channel/UC_n1AJ_PeVNSPt14kjmSeTw",
     "linkedin": "https://www.linkedin.com/company/plume-healthcare",
     "tiktok": "https://www.tiktok.com/@get.plume"
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

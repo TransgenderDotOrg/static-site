@@ -4,9 +4,8 @@
   "externalUrl": "https://www.gendergp.com/",
   "tags": [
     "healthcare",
-    "legal",
-    "mental-health",
     "youth-services",
+    "support-groups",
     "education-awareness"
   ],
   "address": null,
@@ -113,5 +112,11 @@
       "title": "GenderGP: ట్రాన్స్‌జెండర్ వ్యక్తులకు సమగ్ర మద్దతు",
       "description": "ప్రపంచవ్యాప్తంగా ట్రాన్స్‌జెండర్ వ్యక్తులకు లోపల హీరోస్ఫీర్, సమాచారం, ఆరోగ్యసేవలు మరియు సంబంధిత సేవల కొత్త సేవలు అందిస్తున్నాయి. వేదించే వేదించే వేదించే వేదించే వేదికగా మార్పు స్వీకరించే ఆరోగ్యసేవల ప్రాప్యతను, చట్టప్రక్రియల సహాయాన్ని మరియు సామాజిక మార్పు మద్దతును ప్రాప్తి చేసే మార్గం అందిస్తుంది. దీని ప్రపంచవ్యాప్తంగా ప్రాప్యమైన డిజిటల్ వేదిక ద్వారా, జెండెర్జిపి ట్రాన్స్‌జెండర్ వ్యక్తులను మరింత ఆనందదాయకంగా మరియు ఖచ్చితంగా బతికే స్వచ్ఛందంగా ఉండడానికి మార్గం వేదించడానికి ఉత్సాహిస్తుంది."
     }
-  }
+  },
+  "title": "GenderGP: Comprehensive Support for Transgender Individuals",
+  "description": "GenderGP offers a comprehensive suite of services encompassing advocacy, advice, healthcare, and a range of complementary services for trans people globally. The platform provides an avenue for transgender individuals to access gender-affirming healthcare, legal transition assistances, and social transition supports. Through its globally accessible digital platform, GenderGP is committed to enabling trans people to live their lives more comfortably and authentically.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

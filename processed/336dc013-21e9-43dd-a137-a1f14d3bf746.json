@@ -8,13 +8,15 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "legal",
     "healthcare",
     "mental-health",
     "social-services",
     "youth-services",
     "support-groups",
-    "education-awareness"
+    "parent-family-resources",
+    "education-awareness",
+    "community-stories",
+    "artists-creators"
   ],
   "address": "1185 Arthur St, Eugene, OR 97402, USA",
   "phoneNumber": "541-321-0872",
@@ -27,5 +29,10 @@
     -123.1244504
   ],
   "email": "info@transponderoregon.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "educational-institution"
+  ]
 }

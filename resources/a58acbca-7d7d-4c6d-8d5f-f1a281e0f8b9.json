@@ -3,9 +3,9 @@
   "slug": "pronoun-dressing-room",
   "externalUrl": "http://www.pronouns.failedslacker.com/",
   "tags": [
-    "non-binary",
     "transmasculine",
     "transfeminine",
+    "non-binary",
     "education-awareness"
   ],
   "address": null,
@@ -102,5 +102,10 @@
       "title": "సర్వనామ దుస్తుల గది",
       "description": "సర్వనామ దుస్తుల గది వ్యక్తులు వేర్వేరు సర్వనామాల గుంపులను పరీక్షించగాను, అన్వేషించగాను ఆన్లైన్ స్థలాన్ని అందిస్తుంది అంవర్తించే వారికి ఏ వేర్వేరు సర్వనామాలు సరైనవి అనిపిస్తాయో చూడటానికి. త్రాన్స్జెండర్ సముదాయంలో సర్వనామ ఎంపిక తీసుకోవడంలో సులభమైన నిర్ణయాలను తీసుకోవడానికి ఈ వెబ్‌సైట్ సౌకర్యం చేస్తుంది, వారు వేర్వేరు సందర్భాల్లో వేర్వేరు సర్వనామాలు ఎలా కనిపిస్తాయో చూడటానికి అనుమతించుంది."
     }
-  }
+  },
+  "title": "Pronoun Dressing Room",
+  "description": "The Pronoun Dressing Room provides an online space where individuals can test out and explore different sets of pronouns to see which ones feel right for them. The website facilitates easier decision making in pronoun selection for the transgender community, allowing them to see how different pronouns might look in different contexts.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

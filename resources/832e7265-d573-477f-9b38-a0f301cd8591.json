@@ -4,11 +4,8 @@
   "externalUrl": "https://www.eqca.org/",
   "tags": [
     "legal",
-    "healthcare",
-    "mental-health",
     "education-awareness",
-    "social-services",
-    "support-groups"
+    "social-services"
   ],
   "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
   "phoneNumber": "(323) 848-9801",
@@ -107,5 +104,11 @@
       "title": "Equality California",
       "description": "Equality California என்பது LGBTQ+ மக்கள் மற்றும் அவர்களின் ஆதரவாளர்களின் குரலை கலிபோர்னியா மற்றும் ஐக்கிய அமெரிக்காவின் அதிகார நிறுவனங்களுக்கு கொண்டுவரும் அமைப்பு ஆகும், அனைத்து LGBTQ+ மக்களுக்கும் ஆரோக்கியமான, நியாயமான, முழுவதுமாக சமமான உலகத்தை உருவாக்க முயற்சிக்கும். அவர்கள் சிவில் உரிமைகளையும் சமூக நீதியையும் முன்னேற்றும் முயற்சி செய்கின்றனர் மற்றும் அவர்கள் சேவையாற்றும் அவர்களுக்காக முடிவற்றாக உழைக்கின்றனர். அவர்கள் நிகழ்வுகள், புத்தகங்கள், சட்டங்கள், ஆதரவுகள் மற்றும் செயல்பட பல வழிகளை வழங்குகின்றனர்."
     }
-  }
+  },
+  "title": "Equality California",
+  "description": "Equality California is an organization that brings the voices of LGBTQ+ people and allies to institutions of power in California and across the United States, striving to create a world that is healthy, just, and fully equal for all LGBTQ+ people. They advance civil rights and social justice and work tirelessly on behalf of those they serve. They provide programs, publications, legislations, endorsements and several ways to take action.",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

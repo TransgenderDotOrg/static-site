@@ -4,9 +4,9 @@
   "externalUrl": "https://allentownwomenscenter.com/",
   "tags": [
     "healthcare",
-    "transfeminine",
-    "transmasculine",
-    "non-binary"
+    "legal",
+    "mental-health",
+    "education-awareness"
   ],
   "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
   "phoneNumber": "(484) 821-0821",
@@ -105,5 +105,11 @@
       "title": "అలెంటౌన్ వోమెన్స్ సెంటర్",
       "description": "ట్రాన్స్‌జెండర్ కమ్యూనిటీని పోలిచే విశాలమైన డెమోగ్రాఫిక్‌ను హుదోగించే సేవలకు ప్రత్యేకతను ఉచ్చారించే క్రిందా ఆరోగ్య సేవలను అందిస్తున్న పరిపూర్ణ ఆరోగ్యసేవ పంపిణీదారు. సేవల వ్యాప్తిలో గర్భపాత కర్మకాండాలు, లేడీస్ మనోవైజ్ఞానిక చార్యలు, జెండర్-ఆమోదించే సేవలు, మరియు మెడికల్ మారిజువానా సర్టిఫికేషన్ మరియు ఇతరాలు ఉన్నాయి."
     }
-  }
+  },
+  "title": "Allentown Women’s Center",
+  "description": "A comprehensive healthcare provider that specializes in services catering to a wide array of demographic including the transgender community. Services range from abortion procedures, gynecology care, gender-affirming services, and medical marijuana certification amongst others.",
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

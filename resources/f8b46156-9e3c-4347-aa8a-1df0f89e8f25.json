@@ -3,8 +3,7 @@
   "slug": "apotheek-all-about-medication",
   "externalUrl": "https://www.apotheek.nl/",
   "tags": [
-    "healthcare",
-    "education-awareness"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -100,5 +99,11 @@
       "title": "Apotheek.nl - ఔషధాల గురించి అన్నీ",
       "description": "వివిధ మందుల గురించి విశ్వసనీయ సమాచారాన్ని అందించే ఒక సంపన్న వనరు. ఈ సైట్ లో వీడియోలు, ఆరోగ్య లో ప్రస్తుత విచారాలు, టీకా పెట్టించుట మరియు కరోనా వైరస్, ఫార్మసీ కేర్ పై సమాచారం ఉంటుంది. దానిని డచ్ భాషలో అందిస్తుంది మరియు ఉక్రెయిన్ ఆశ్రయార్థుల కోసం 50 కీ మందులను అనువదిస్తుంది."
     }
-  }
+  },
+  "title": "Apotheek.nl - All about Medication",
+  "description": "A resource offering reliable information about various medications. The site includes videos, current affairs in health, information on vaccination, coronavirus, and pharmacy care. It provides information in Dutch and translates 50 key medications for Ukrainian refugees.",
+  "organizationType": [
+    "national-organization",
+    "online-platform"
+  ]
 }

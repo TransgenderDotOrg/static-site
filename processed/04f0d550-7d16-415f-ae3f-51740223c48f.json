@@ -5,11 +5,9 @@
   "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
   "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
   "tags": [
-    "transmasculine",
-    "transfeminine",
-    "youth-services",
+    "education-awareness",
     "parent-family-resources",
-    "education-awareness"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -19,5 +17,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform"
+  ]
 }

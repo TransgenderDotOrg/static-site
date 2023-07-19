@@ -4,7 +4,9 @@
   "externalUrl": "https://www.queersexed.org/",
   "tags": [
     "education-awareness",
-    "support-groups"
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
   ],
   "address": null,
   "phoneNumber": null,
@@ -104,5 +106,11 @@
       "title": "క్వియర్ సెక్స్ ఎడ్ పాడ్‌కాస్ట్",
       "description": "లెస్బియన్, గే, బైసెక్సుయల్, ట్రాన్స్‌జెండర్, జెండర్ క్వియర్, జెండర్ ఫ్లూయిడ్, అజెండర్ ప్రజలు, పాలిగమౌస్ ప్రజలు, అసెక్సుయల్ ప్రజలు, అంగవైకల్యం ఉన్న ప్రజలు మరియు మరిన్ని కోసం నారేటివ్స్‌కు మరియు అనుభూతులకు 'క్వియర్' సెక్స్ ఎడ్ ఆసక్తిని పూర్తిగా కలుగుచున్న పాడ్‌కాస్ట్ సరీసమూహం. ఈ సముదాయాలకు తగిన సెక్స్ ఎడ్యుకేషన్ మరియు మీడియా ప్రతిపాదన లేకపోవడం మరియు దీని వల్లే సామాజిక స్థిగ్మాలను పోరాడాలను ప్రపంచపెట్టింది."
     }
-  }
+  },
+  "title": "Queer Sex Ed Podcast",
+  "description": "A podcast series that aims to ‘queer’ sex ed in order to intentionally include narratives and experiences of lesbian, gay, bisexual, transgender, gender queer, gender fluid, agender people, polyamorous people, asexual people, people with disabilities and more. The show addresses the lack of appropriate sex education and media representation for these communities, and seeks to fight the associated social stigmas.",
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

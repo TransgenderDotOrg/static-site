@@ -6,10 +6,12 @@
   "externalUrl": "https://transgenderlawcenter.org/",
   "tags": [
     "transmasculine",
+    "non-binary",
     "transfeminine",
     "legal",
     "healthcare",
-    "education-awareness"
+    "education-awareness",
+    "legal-service"
   ],
   "address": "Oakland, CA 94612, USA",
   "phoneNumber": "510-587-9696",
@@ -22,5 +24,10 @@
     -122.2682245
   ],
   "email": "info@transgenderlawcenter.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "legal-service",
+    "non-profit-organization"
+  ]
 }

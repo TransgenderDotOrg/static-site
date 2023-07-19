@@ -6,11 +6,11 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "legal",
     "healthcare",
     "mental-health",
     "social-services",
     "support-groups",
+    "community-stories",
     "education-awareness"
   ],
   "address": "911 E Pike St #221, Seattle, WA 98122, USA",
@@ -113,5 +113,12 @@
       "title": "Ingersoll Gender Center",
       "description": "ట్రాన్స్జెండర్ మరియు జెండర్ నాన్కన్ఫార్మింగ్ ప్రజల ద్వారా మరియు వారి కోసం ఓ సంస్థ మూలంగా పరస్పర మద్దతు నిబంధన కోసం సహపఠి సమూహాలు నడుపుతూ, సంసాధనాలను నవిగేట్ చేయడంలో మేరా చేయుతూ, సముదాయ వ్యవస్థాపన, మరియు విద్యా - మన సమూహపూర్తి స్వయం నిర్ణయత్వం కోసం అన్ని చేయడం."
     }
-  }
+  },
+  "title": "Ingersoll Gender Center",
+  "description": "An organization by and for transgender and gender nonconforming people providing mutual support through peer led support groups, advocating in navigating resources, community organizing, and education — all in the pursuit of our collective self-determination.",
+  "organizationType": [
+    "community-center",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

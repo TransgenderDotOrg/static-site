@@ -13,7 +13,10 @@
     "social-services",
     "youth-services",
     "support-groups",
-    "education-awareness"
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness",
+    "friendly-businesses"
   ],
   "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
   "phoneNumber": "1-306-665-1224",
@@ -29,5 +32,11 @@
     "facebookUrl": "https://www.facebook.com/outsaskatoon/",
     "twitterUrl": "https://twitter.com/OUTSaskatoon",
     "instagramUrl": "https://www.instagram.com/outsaskatoon/"
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "online-platform",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

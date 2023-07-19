@@ -5,7 +5,10 @@
   "slug": "gender-dysphoria-1177-vaardguiden",
   "externalUrl": "https://www.1177.se/liv--halsa/konsidentitet-och-sexuell-laggning/konsdysfori/",
   "tags": [
-    "healthcare"
+    "healthcare",
+    "mental-health",
+    "legal",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -15,5 +18,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "government-entity",
+    "healthcare-provider"
+  ]
 }

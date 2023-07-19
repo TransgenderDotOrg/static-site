@@ -6,7 +6,6 @@
   "externalUrl": "https://www.oaklandlgbtqcenter.org/",
   "tags": [
     "transmasculine",
-    "non-binary",
     "transfeminine",
     "legal",
     "healthcare",
@@ -14,11 +13,9 @@
     "social-services",
     "youth-services",
     "support-groups",
-    "parent-family-resources",
     "education-awareness",
     "financial-aid-scholarships",
-    "community-stories",
-    "partner-resources"
+    "community-stories"
   ],
   "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
   "phoneNumber": "510-882-2286",
@@ -26,7 +23,10 @@
   "provinceOrState": "CA",
   "city": "Oakland",
   "county": "Alameda County",
-  "latLng": [37.8103802, -122.2459822],
+  "latLng": [
+    37.8103802,
+    -122.2459822
+  ],
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
@@ -37,5 +37,12 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "healthcare-provider",
+    "support-group",
+    "legal-service"
+  ]
 }

@@ -5,10 +5,11 @@
   "slug": "stuttgarter-declaration-gender-self-determined",
   "externalUrl": "https://die-erklaerung.de/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "legal",
-    "healthcare",
-    "mental-health",
-    "education-awareness"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +19,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform"
+  ]
 }

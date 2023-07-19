@@ -4,12 +4,10 @@
   "externalUrl": "https://www.stonewall.com.au/",
   "tags": [
     "healthcare",
-    "HIV",
-    "STI",
-    "sex-workers",
-    "transfeminine",
-    "transmasculine",
-    "non-binary"
+    "support-groups",
+    "sexual-health",
+    "HIV-medicine",
+    "transgender-health"
   ],
   "address": "52 Newmarket Rd, Windsor QLD 4030, Australia",
   "phoneNumber": "07 3857 1222",
@@ -108,5 +106,10 @@
       "title": "స్టోన్వాల్ మెడికల్ సెంటర్ మరియు సెక్సుయల్ హెల్త్ క్లినిక్ – బ్రిస్బేన్",
       "description": "1995 నుండి స్టోన్వాల్ మెడికల్ సెంటర్ గర్వించినట్లుగా బ్రిస్బేన్ యొక్క లెస్బియన్, గే, బైసెక్షుయల్, ట్రాన్స్జెండర్, ఇంటర్సెక్స్ మరియు ఆలోచన చేసే / ప్రశ్నించే వారు (LGBTQIA+), లైంగిక ఉపాధ్యాయులు మరియు నేరు / హెటరోసెక్షుయల్ సముదాయాన్ని సేవించారు. క్లినిక్ HIV PEP & PrEP, STI పరీక్ష, సెక్స్ పనిదారుల కోసం సంప్రదింపులు, ట్రాన్స్జెండర్ మరియు జెండర్ వైవిధ్యాలను గురించిన మెడికల్ చర్య, స్టెరాయిడ్ & చిత్రం పెంపు మాండు పర్యవేక్షణ, మరియు ఇతర రిఫరల్లరటు వంటి సేవలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Stonewall Medical Centre and Sexual Health Clinic – Brisbane",
+  "description": "Stonewall Medical Centre has been proudly servicing the general health and sexual health of Brisbane’s lesbian, gay, bisexual, transgender, intersex and queer / questioning (LGBTQIA+), sex workers and the straight / heterosexual community since 1995. The clinic provides a variety of services including HIV PEP & PrEP, STI testing, consultations for sex workers, medical care for transgender and gender diverse individuals, steroid & image enhancing drug monitoring, and referrals among others.",
+  "organizationType": [
+    "healthcare-provider"
+  ]
 }

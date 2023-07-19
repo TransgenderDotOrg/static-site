@@ -3,9 +3,12 @@
   "slug": "erin-in-the-morning",
   "externalUrl": "https://www.erininthemorning.com/",
   "tags": [
+    "transmasculine",
+    "non-binary",
     "transfeminine",
     "legal",
     "healthcare",
+    "community-stories",
     "education-awareness"
   ],
   "email": "null",
@@ -98,5 +101,10 @@
       "title": "ఉదయంలో ఈరిన్",
       "description": "ట్రాన్స్ చట్టపు మరియు జీవనం పై వార్తలు మరియు చర్చ. ఈరిన్ రీడ్ చేత · అధిక 38,000 చందాదారులు"
     }
-  }
+  },
+  "title": "Erin In The Morning",
+  "description": "News and discussion on trans legislation and life. By Erin Reed · Over 38,000 subscribers",
+  "organizationType": [
+    "online-platform"
+  ]
 }

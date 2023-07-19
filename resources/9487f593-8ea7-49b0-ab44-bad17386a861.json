@@ -4,7 +4,8 @@
   "externalUrl": "https://2pass.clinic/en/ffs/procedures",
   "tags": [
     "transfeminine",
-    "healthcare"
+    "healthcare",
+    "surgeons"
   ],
   "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
   "phoneNumber": null,
@@ -107,5 +108,11 @@
       "title": "ముఖ స్త్రీయీకరణ శస్త్ర చికిత్సలు",
       "description": "2pass క్లినిక్ తరంగంలోకి మారుతున్న త్రాన్స్ మహిళలకు సహాయం చేయడానికి వివిధ శస్త్ర చికిత్సలు అందిస్తుంది. వీటిలో ముఖం మరియు శరీరం స్త్రీయీకరణ శస్త్ర చికిత్సలు, శాశ్వత రేముకు తొలగించడం మరియు రేము కింపు చికిత్సలు ఉంటాయి. ఈ వనరు ప్రతి భళి వివరమైన సమాచారాన్ని అందిస్తుంది మరియు వారి ప్రయాణానికి దగ్గర ఎంపికలు చేసేందుకు త్రాన్స్ మహిళలను మార్గదర్శించింది."
     }
-  }
+  },
+  "title": "Facial Feminization Surgery Procedures",
+  "description": "2pass Clinic offers a variety of surgical procedures to help transgender women transition. These include Facial and Body Feminization Surgeries, Permanent Hair Removal and Hair Transplant treatments. This resource provides detailed information on each FFS procedures and helps guide trans women in making the right choices for their journey.",
+  "organizationType": [
+    "healthcare-provider",
+    "online-platform"
+  ]
 }

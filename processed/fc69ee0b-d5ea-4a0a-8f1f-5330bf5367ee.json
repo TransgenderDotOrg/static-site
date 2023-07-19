@@ -6,9 +6,8 @@
   "externalUrl": "https://www.gendergp.com/",
   "tags": [
     "healthcare",
-    "legal",
-    "mental-health",
     "youth-services",
+    "support-groups",
     "education-awareness"
   ],
   "address": null,
@@ -29,5 +28,9 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

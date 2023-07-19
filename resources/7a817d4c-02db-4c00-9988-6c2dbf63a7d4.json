@@ -3,9 +3,17 @@
   "slug": "zoe-belle-gender-collective",
   "externalUrl": "https://zbgc.org.au/",
   "tags": [
-    "education-awareness",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
     "social-services",
-    "support-groups"
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness"
   ],
   "address": "58 Mundy St, Bendigo VIC 3550, Australia",
   "phoneNumber": "0467 569 635",
@@ -104,5 +112,11 @@
       "title": "Zoe Belle లింగ సమూహం",
       "description": "Zoe Belle లింగ సమూహం అనేది ఒక మారుతున్న మరియు లింగ వివిధత నిర్వహించే అధికార సంస్థ అని, ఇది ప్రొఫెషనల్ శిక్షణ, పనిపాఠాలు మరియు మద్దతుని అందించుతుంది ఎల్జిబిటిక్యోఐ+ సముదాయానికి. ఇది సంఘం సేవలకు, పనివారులకు, కుటుంబ మరియు స్నేహితులకు, మారుతున్న మరియు లింగ వివిధత వ్యక్తులకు సంపన్మూలాలు మరియు సహాయం అందిస్తుంది. ఇటీవలి కాలంలో ఇది Transfemme ని ప్రారంభించింది, ఇది ఒక ముందస్తు ప్రోగ్రామ్ అయిన సిస్ పురుషుల హింస వ్యాప్తిని తప్పించే మార్గంలో పురుషల కు వ్యాప్తి అయ్యే వంతు."
     }
-  }
+  },
+  "title": "Zoe Belle Gender Collective",
+  "description": "Zoe Belle Gender Collective is a trans and gender diverse led advocacy organisation offering professional training, workshops, and support for the LGBTQI+ community. It provides resources and assistance for community services, workers, families and friends, and trans and gender diverse individuals. It also recently launched Transfemme, a preventative initiative against cis men's violence toward trans women.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

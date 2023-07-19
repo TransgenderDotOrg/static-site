@@ -8,10 +8,14 @@
     "transmasculine",
     "non-binary",
     "healthcare",
-    "mental-health",
     "support-groups",
     "education-awareness"
   ],
   "email": "info@transmann.de",
-  "socialMedia": {}
+  "socialMedia": {},
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

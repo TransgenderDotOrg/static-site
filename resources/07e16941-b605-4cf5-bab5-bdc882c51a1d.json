@@ -4,11 +4,10 @@
   "externalUrl": "https://www.queerspace.org.au/",
   "tags": [
     "mental-health",
-    "social-services",
-    "youth-services",
     "support-groups",
     "parent-family-resources",
-    "education-awareness"
+    "education-awareness",
+    "youth-services"
   ],
   "address": "100 Drummond St, Carlton VIC 3053, Australia",
   "phoneNumber": "03 9663 6733",
@@ -110,5 +109,12 @@
       "title": "Queerspace",
       "description": "Queerspace అనేది 2009లో LGBTIQ+ సముదాయాల ద్వారా LGBTIQ+ సముదాయాల కోసం ఏర్పాటు చేయబడిన ఆరోగ్య మరియు మంచిదైన మద్దతు సేవ. ఇది సంబంధాలు, కుటుంబాలు, మాతాపితలత్వం, యువత మరియు విక్టోరియా యొక్క ఉత్తర-పశ్చిమ ప్రభుత్వాంగ ప్రాంతాల్లో సామూహికగా ఉన్న సేవలను ముఖ్యంగా పట్టించుకుంటుంది. సేవలు కౌన్సిలింగ్, కేసు నిర్వహణ, అభియోగ, మద్దతు సేవలు, సహజీవన మద్దతు, వృత్తిమార్గ అభివృద్ధి, ప్రశిక్షణ మరియు సలహా అనేవి ఉన్నాయి."
     }
-  }
+  },
+  "title": "Queerspace",
+  "description": "Queerspace is an LGBTIQ+ health and wellbeing support service established in 2009 by LGBTIQ+ communities for LGBTIQ+ communities. It has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria. Services include counselling, case management, advocacy, support services, peer support, professional development, training and consulting.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "healthcare-provider"
+  ]
 }

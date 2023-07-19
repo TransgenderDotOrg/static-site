@@ -4,11 +4,12 @@
   "externalUrl": "https://www.centeronhalsted.org/",
   "tags": [
     "healthcare",
-    "mental-health",
+    "education-awareness",
     "social-services",
     "youth-services",
-    "community-stories",
-    "education-awareness"
+    "support-groups",
+    "mental-health",
+    "community-stories"
   ],
   "address": "3656 N Halsted St, Chicago, IL 60613, USA",
   "phoneNumber": "773.472.6469",
@@ -117,5 +118,11 @@
       "title": "Center on Halsted",
       "description": "చికాగోలో స్వకీయ కేంద్రం యొక్క సమర్పణి, జోడుసేవలు కార్యక్రమాలు, శిక్షణలు, మరియు వనరులనుంచి సముదాయానికి సహాయం అందించిన లేస్బీయన్, గేల్, బ్స్క్షుల్, ట్రాన్స్జెండర్ (పోలెన్) మరియు కోయర్ (+) సముదాయం. ఇదిగో చేరినవి సర్వీసేస్ HIV/AIDS మరియు STD, ప్రవర్తన ఆరోగ్యం, అంటి-విలెన్స్ మరియు యువతి మరియు ప్రాబల్యంగానికి ప్రత్యేక కార్యక్రమాలు."
     }
-  }
+  },
+  "title": "Center on Halsted",
+  "description": "Chicago's community center dedicated to advancing the Lesbian, Gay, Bisexual, Transgender (LGBT) and Queer (+) community through providing service programs, events, trainings, and resources. Including services for HIV/AIDS & STD, Behavioral Health, Anti-violence and special programs for the youth and seniors.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

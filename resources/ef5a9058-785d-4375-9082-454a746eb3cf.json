@@ -3,8 +3,13 @@
   "slug": "transgender-health-program-massachusetts-general-hospital",
   "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
   "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
     "healthcare",
-    "mental-health"
+    "youth-services",
+    "parent-family-resources",
+    "education-awareness"
   ],
   "address": "55 Fruit St, Boston, MA 02114, USA",
   "phoneNumber": null,
@@ -107,5 +112,11 @@
       "title": "மாசசூசெட்ஸ் பொது மருத்துவமனையில் மையமான ஆரோக்கிய நிகழ்வு",
       "description": "மாசசூசெட்ஸ் பொது மருத்துவமனையில் உள்ள மையமான ஆரோக்கிய நிகழ்வு மையமானவர்கள், இளம் வயதினர், மற்றும் பராமரிக்கும் ஆலோசகர்களுக்கு தனிப்பட்ட, தற்போதைய மற்றும் உயர்தரமான மருத்துவ பராமரிப்பை வழங்குகிறது. இந்த நிகழ்வு பல்வேறு வளங்களை, அடிக்கடி கேட்கப்படும் கேள்விகளுக்கு பதில்களை, மற்றும் ஒரு சிறப்பு பராமரிப்பு குழுவை வழங்குகிறது."
     }
-  }
+  },
+  "title": "Transgender Health Program at Massachusetts General Hospital",
+  "description": "The Transgender Health Program at Massachusetts General Hospital provides personalized, up to date and high quality medical care for transgender individuals, youth, and caregivers. The program offers various resources, answers to frequently asked questions, and a specialized care team.",
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

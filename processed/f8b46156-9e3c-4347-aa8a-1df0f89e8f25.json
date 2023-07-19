@@ -5,8 +5,7 @@
   "slug": "apotheek-all-about-medication",
   "externalUrl": "https://www.apotheek.nl/",
   "tags": [
-    "healthcare",
-    "education-awareness"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -16,5 +15,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "online-platform"
+  ]
 }

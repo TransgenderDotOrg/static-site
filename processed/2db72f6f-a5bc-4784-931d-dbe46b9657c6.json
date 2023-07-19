@@ -7,7 +7,8 @@
   "tags": [
     "education-awareness",
     "financial-aid-scholarships",
-    "youth-services"
+    "community-stories",
+    "non-profit-organization"
   ],
   "address": null,
   "phoneNumber": null,
@@ -17,5 +18,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "educational-institution",
+    "non-profit-organization"
+  ]
 }

@@ -20,5 +20,9 @@
   "email": null,
   "socialMedia": {
     "facebookUrl": "https://www.facebook.com/Transfamily-Australia-126186690851106/"
-  }
+  },
+  "organizationType": [
+    "support-group",
+    "non-profit-organization"
+  ]
 }

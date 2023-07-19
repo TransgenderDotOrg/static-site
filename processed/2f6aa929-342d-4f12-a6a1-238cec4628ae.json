@@ -11,11 +11,7 @@
     "legal",
     "healthcare",
     "mental-health",
-    "education-awareness",
-    "youth-services",
-    "support-groups",
-    "parent-family-resources",
-    "partner-resources"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -29,5 +25,9 @@
     "facebookUrl": "https://www.facebook.com/transgenderch",
     "twitterUrl": "https://twitter.com/tgnsch",
     "instagramUrl": "https://www.instagram.com/tgns.ch/"
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

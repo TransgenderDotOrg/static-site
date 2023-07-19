@@ -5,15 +5,11 @@
   "slug": "queer-lexikon",
   "externalUrl": "https://queer-lexikon.net/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
-    "legal",
-    "healthcare",
-    "mental-health",
-    "support-groups",
     "education-awareness",
-    "community-stories"
+    "youth-services",
+    "community-stories",
+    "online-platform",
+    "support-groups"
   ],
   "address": null,
   "phoneNumber": null,
@@ -32,5 +28,9 @@
     "tumblrUrl": "fab fa-tumblr",
     "linkedinUrl": "fab fa-linkedin-in",
     "emailUrl": "fas fa-envelope"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

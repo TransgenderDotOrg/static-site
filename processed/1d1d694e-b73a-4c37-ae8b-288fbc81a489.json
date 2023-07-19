@@ -5,11 +5,10 @@
   "slug": "us-trans-survey",
   "externalUrl": "https://www.ustranssurvey.org/",
   "tags": [
-    "education-awareness",
-    "community-stories",
-    "non-binary",
     "transmasculine",
-    "transfeminine"
+    "non-binary",
+    "transfeminine",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -19,5 +18,9 @@
   "county": null,
   "latLng": null,
   "email": "ustranssurvey@transequality.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

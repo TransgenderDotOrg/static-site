@@ -11,7 +11,10 @@
     "social-services",
     "youth-services",
     "support-groups",
-    "education-awareness"
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness",
+    "friendly-businesses"
   ],
   "address": "213 Avenue C S, Saskatoon, SK S7M 1N3, Canada",
   "phoneNumber": "1-306-665-1224",
@@ -113,5 +116,13 @@
       "title": "OUTSaskatoon: 2SLGBTQ சமுதாயத்திற்கான ஆதரவு",
       "description": "OUTSaskatoon என்பது சாஸ்காட்சுவான் மற்றும் அதன் பரிசர மண்டலத்திலுள்ள 2SLGBTQ சமுதாயத்திற்கான சமுதாய மையமும், சேவை வழங்குபவருமாகும். அவர்கள் ஆதரவு சேவைகளை, இளைஞர் வீடுகளை, பயிற்சி மற்றும் ஆராய்ச்சி சேவைகளை-அது காயத்தை குறைக்கும் முறை, கலாச்சாரமாக அறிவுறுத்தப்பட்ட, நிஷ்பக்ஷங்கேறி தேடும், மற்றும் சமுதாயப் பாதுகாப்பைக் கொண்டு வழங்குகின்றனர். அவர்கள் ஆலோசனை மற்றும் நண்பர் ஆதரவை, 2SLGBTQ இளைஞர்களுக்கான வீடுகள் (Pride Home), பயிற்சிகள் மற்றும் பயிற்சிகளை, மற்றும் பாலியல் சுகாதார மையங்களை வழங்குகின்றனர்."
     }
-  }
+  },
+  "title": "OUTSaskatoon: Support for 2SLGBTQ Community",
+  "description": "OUTSaskatoon is a community centre and service provider for the Saskatoon and area 2SLGBTQ community. They provide support services, youth housing, and education and research services through a harm reduction, culturally informed, equity-seeking, and community-based approach. They offer counselling and peer support, 2SLGBTQ youth housing (Pride Home), workshops and training, and sexual health clinics.",
+  "organizationType": [
+    "community-center",
+    "online-platform",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

@@ -16,5 +16,10 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

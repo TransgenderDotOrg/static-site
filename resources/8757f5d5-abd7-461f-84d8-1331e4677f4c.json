@@ -3,9 +3,18 @@
   "slug": "gender-justice-league",
   "externalUrl": "https://www.genderjusticeleague.org/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
     "support-groups",
-    "education-awareness"
+    "parent-family-resources",
+    "education-awareness",
+    "financial-aid-scholarships"
   ],
   "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
   "phoneNumber": "206-538-0423",
@@ -109,5 +118,13 @@
       "title": "జెండర్ జస్టిస్ లీగ్",
       "description": "జెండర్ జస్టిస్ లీగ్ అనేది వాషింగ్టన్ రాష్ట్రం మరియు దానికి పైగా ట్రాన్స్ & జెండర్ వైవిధ్య సముదాయాల హక్కులను స్థాయిపెంచే సివిల్ మరియు మానవ హక్కుల సంఘం. జెండర్ జస్టిస్ లీగ్ అనేది 2012లో సియాటిల్, వా లో నిరంతర ట్రాన్స్, కువీర్, మరియు సిహించిన కార్యకర్తల గుంపును స్థాపించింది. వారు గతిష్ఠత పై, సురక్షిత హౌస్ ప్రోగ్రామ్ను అందిస్తారు, వనరులు, మరియు ప్రత్యేక సంఘటనలు."
     }
-  }
+  },
+  "title": "Gender Justice League",
+  "description": "Gender Justice League is a civil and human rights organization that focuses on elevating the rights of trans & gender diverse communities in Washington State and beyond. GJL was founded in Seattle, WA in 2012 by a group of long-time trans, queer, and allied activists. They focus on advocacy, providing a safe house program, resources, and special events.",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization",
+    "local-office",
+    "legal-service"
+  ]
 }

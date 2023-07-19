@@ -3,10 +3,13 @@
   "slug": "transliving-international",
   "externalUrl": "https://transliving.co.uk/main/",
   "tags": [
+    "transmasculine",
+    "transfeminine",
     "support-groups",
     "community-stories",
-    "education-awareness",
-    "clothing"
+    "clothing",
+    "makeup",
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +105,12 @@
       "title": "Transliving International",
       "description": "Transliving International అనేది ఏక్కడ అయినా ఉండే ట్రాన్స్‌జెండర్ సముదాయానికి మద్దతు అందిస్తుంది, గ్లోబల్ క్లబ్ నైట్స్, ఈవెంట్స్, మరియు షాపింగ్ వేదికను, ఈన్లైన్ మ్యాగజైన్‌ను అందిస్తుంది. అన్ని జెండర్ వివిధతలు మరియు ట్రాన్స్‌పీపులు గురించి ప్రజల నోటికి మరిన్ని వివరాలు అందించడం ద్వారా, ఉపయోగకరమైన చిరునామాలు, సలహాలు, వ్యక్తిగత కథలు, మరియు విశేషాలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Transliving International",
+  "description": "Transliving International is a global support group for the transgender community providing an online magazine, club nights, events, and shopping platform. It amplifies the voice of all gender diverse and trans-people by offering help, advice, personal stories, and features.",
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

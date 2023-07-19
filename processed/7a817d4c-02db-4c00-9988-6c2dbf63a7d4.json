@@ -5,9 +5,17 @@
   "slug": "zoe-belle-gender-collective",
   "externalUrl": "https://zbgc.org.au/",
   "tags": [
-    "education-awareness",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
     "social-services",
-    "support-groups"
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness"
   ],
   "address": "58 Mundy St, Bendigo VIC 3550, Australia",
   "phoneNumber": "0467 569 635",
@@ -20,5 +28,9 @@
     144.2860065
   ],
   "email": "contact@zbgc.org.au",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

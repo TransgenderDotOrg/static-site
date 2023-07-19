@@ -7,9 +7,9 @@
   "tags": [
     "youth-services",
     "support-groups",
-    "mental-health",
+    "community-stories",
     "education-awareness",
-    "community-stories"
+    "artists-creators"
   ],
   "address": "Salem, MA, USA",
   "phoneNumber": "978-224-2102",
@@ -25,5 +25,10 @@
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "non-profit-organization",
+    "educational-institution"
+  ]
 }

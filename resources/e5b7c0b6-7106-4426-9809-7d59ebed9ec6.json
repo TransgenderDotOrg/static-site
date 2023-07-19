@@ -6,13 +6,12 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "legal",
     "healthcare",
+    "legal",
     "mental-health",
-    "social-services",
-    "health-providers",
-    "community-stories",
-    "education-awareness"
+    "education-awareness",
+    "endocrinologists",
+    "informed-consent-clinics"
   ],
   "address": null,
   "phoneNumber": null,
@@ -108,5 +107,12 @@
       "title": "TransHub",
       "description": "TransHub என்பது NSW மாநிலத்தில் உள்ள எல்லா பாலின மாற்றை அனுபவிப்பவர்களுக்கு, அவர்களின் அன்பில் உள்ளவர்களுக்கு, ஆதரவாளர்களுக்கு மற்றும் சுகாதார வழங்குநர்களுக்கு உள்ள மின்னணுவியல் தகவல் மற்றும் வள மேலாண்மை மேலாய். அது அவர்கள் வளர்நதோ அல்லது அவர்களின் உண்மையான மெல்லிசைகளுக்கு வளர்ந்தபோது அவர்களுக்கு அளிக்கப்படாத தேவைகளுக்கு அணுகுமுறையை வழங்குகிறது. தகவல் மருத்துவ தேவைகளில் இருந்து ஆரம்பித்து ஹார்மோன்கள், அறுவை சிகிச்சைகள் மற்றும் டாக்டர்களின் பட்டியல்கள், சமூக மற்றும் சட்ட பிரச்சினைகள் வரை மிகுந்துவிதமாக உள்ளன."
     }
-  }
+  },
+  "title": "TransHub",
+  "description": "TransHub is a digital information and resource platform for all trans and gender diverse people in NSW, their loved ones, allies and health providers. It provides access to much needed information and resources for a community that may not have had access to such as they grew up or grew towards their authentic selves. Information ranges from medical needs such as hormones, surgeries and doctor lists to social and legal issues.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

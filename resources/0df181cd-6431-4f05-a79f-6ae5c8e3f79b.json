@@ -3,10 +3,11 @@
   "slug": "stuttgarter-declaration-gender-self-determined",
   "externalUrl": "https://die-erklaerung.de/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "legal",
-    "healthcare",
-    "mental-health",
-    "education-awareness"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +103,10 @@
       "title": "Stuttgarter ప్రకటన: జెండర్. స్వం. నిర్ణయమైనది.",
       "description": "Stuttgarter ప్రకటన ట్రాన్స్జెండర్ మరియు ఇంటర్సెక్స్ వ్యక్తుల ప్రతి గౌరవయుక్త వ్యవహార ప్రాముఖ్యతను ప్రభావిస్తుంది. ఇది ట్రాన్స్జెండర్ మరియు ఇంటర్సెక్స్ వ్యక్తుల కోసం వైద్య, మానసిక చికిత్సా, సలహా, మరియు మద్దతు సేవలు నాణయంలో మానవ హక్కుల ప్రాధాన్యతను టీకా వేస్తుంది. వైద్యశాస్త్రవేత్తలు, మానసిక వైద్యశాస్త్రవేత్తలు, మానవ హక్కుల కార్యకర్తలు మరియు ఆక్రమించిన వ్యక్తులు వికసించినది, ఇది మానవ హక్కుల కార్యకర్తలు మరియు ఆక్రమించిన వ్యక్తులు వికసంచినది ఎందు ప్రామాణిస్తుంది. తన స్వంత జెండర్ నిర్ణయించే హక్కు మరియు వైద్య చికిత్సలు ఈ ఆత్మ-నిర్ణయాన్ని గౌరవించడానికి బాధ్యత."
     }
-  }
+  },
+  "title": "Stuttgarter Declaration: Gender. Self. Determined.",
+  "description": "The Stuttgarter Declaration emphasizes the importance of respectful treatment of transgender and intersex people. It underlines the significance of human rights in medical, psychotherapeutic, consulting, and support services for transgender and intersex individuals. Developed by physicians, psychotherapists, human rights activists, and affected individuals, it emphasizes the right to determine one's own gender and the obligation for medical treatments to respect this self-determination.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

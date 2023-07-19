@@ -7,7 +7,8 @@
     "transfeminine",
     "non-binary",
     "healthcare",
-    "financial-aid-scholarships"
+    "financial-aid-scholarships",
+    "clothing"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +104,10 @@
       "title": "గర్వ ప్రదేశం",
       "description": "గర్వ ప్రదేశం ఆరోగ్య మరియు సౌకర్య పరిచర్యకి అవసరమైన ట్రాన్స్ జనతకు ఆర్థిక సహాయం మరియు ప్రత్యక్ష మద్దతు అందిస్తుంది. సహాయా కార్యక్రమాలు వార్షిక ట్రాన్స్జెండర్ శస్త్రచికిత్స నిధులు, HRT ప్రవేశ నిధులు, ఎలక్ట్రోలిసిస్ మద్దతు మరియు ఉచిత ఛాతి బైండర్లు మరియు ఫెమ్ షేప్‌వేర్ అందాజు నిధిలతో సంప్రదింపబడతాయి, దీన్ని ట్రాన్స్ ప్రజలు అన్నిటిని సురక్షితంగా కనుగొనలేకపోతారు లేదా అది సాగించలేరు."
     }
-  }
+  },
+  "title": "Point of Pride",
+  "description": "Point of Pride provides financial aid and direct support to trans folks who are in need of health and wellness care. The aid programs range from annual transgender surgery funds, HRT Access funds, electrolysis support and free chest binders and femme shapewear provision to trans people who can't afford or find them safely.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

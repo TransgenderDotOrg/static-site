@@ -3,8 +3,9 @@
   "slug": "lgbtq-health-services-by-cdph",
   "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
   "tags": [
+    "legal",
     "healthcare",
-    "mental-health"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": "(916) 558-1784",
@@ -103,5 +104,10 @@
       "title": "CDPH ద్వారా LGBTQ+ ఆరోగ్య సేవలు",
       "description": "కాలిఫోర్నియా రాష్ట్ర ప్రజా ఆరోగ్య శాఖ (CDPH) లెస్బియన్, గే, బైసెక్స్యువల్, ట్రాన్స్‌జెండర్ (ఎల్‌జిబిటి) సముదాయాలను సేరించి అన్ని కాలిఫోర్నియా వాసుల ఆరోగ్యానికి కేటర్ చేస్తుంది. వారు ఎల్‌జిబిటి సముదాయానికి ఎక్కువగా ప్రభావం చూపే ఆరోగ్య సమస్యలను అర్థించడానికి సంసాధనాలను అందిస్తారు, వివిధ జీవిత దశలలో అవసరమైన స్క్రీనింగ్లు, మరియు ఆరోగ్యకర జీవన శైలి కోసం టూల్స్."
     }
-  }
+  },
+  "title": "LGBTQ+ Health Services by CDPH",
+  "description": "The California Department of Public Health (CDPH) caters to the health of all Californians including the Lesbian, Gay, Bisexual, and Transgender (LGBT) communities. They provide resources to understand health issues that most often impact the LGBT community, necessary screenings at various life stages, and tools for a healthy lifestyle.",
+  "organizationType": [
+    "government-entity"
+  ]
 }

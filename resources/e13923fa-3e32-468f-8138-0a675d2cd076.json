@@ -4,7 +4,7 @@
   "externalUrl": "https://wiki.sumianvoice.com/",
   "tags": [
     "voice-training",
-    "education-awareness"
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +102,10 @@
       "title": "స్వర వనరుల రిపాజిటరీ",
       "description": "స్వర వనరుల రిపాజిటరీని సుమి మరియు ఎమ్మ ప్రారంభించిన తెరవనిది మరియు అభివృద్ధి కూడుచేసే పరియోజన. ఆశా కలిగించే వారికి అంగీకారయోగ్య సమాచారాన్ని మరియు దిశని అందిస్తుంది. ఇది ప్రారంభకులు సాయం చేసేందుకు, పునః మరీ విద్యార్థులు మరియు ఉపాధ్యాయుల యొక్క సమగ్ర ఉల్లేఖ పరిచయం. అమ్మ, దానికి అధికారం గల అవధిలో, ఇదిది వినియోగదారుల లక్ష్యాలaku సాపేక్షంగా పని చేస్తుంది. అయినా ఇప్పటివరకు అది ప్రధానంగా స్త్రీయనత్వాన్ని ఆశ్రయిస్తుంది."
     }
-  }
+  },
+  "title": "Voice Resource Repository",
+  "description": "The Voice Resource Repository is an open and evolving project started by Sumi and Emma aiming to provide approachable information and direction for those wishing to change their voice. Focused on both feminisation and masculinisation practices, this initiative is meant to assist beginners and serve as a comprehensive reference for students and teachers alike. Though still mostly feminisation oriented, work is being carried out to make it agnostic to users' goals.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

@@ -5,8 +5,13 @@
   "slug": "transgender-health-program-massachusetts-general-hospital",
   "externalUrl": "https://www.massgeneral.org/transgender-health-program/resources",
   "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
     "healthcare",
-    "mental-health"
+    "youth-services",
+    "parent-family-resources",
+    "education-awareness"
   ],
   "address": "55 Fruit St, Boston, MA 02114, USA",
   "phoneNumber": null,
@@ -23,5 +28,9 @@
     "facebookUrl": "https://www.facebook.com/massgeneral",
     "twitterUrl": "https://www.twitter.com/massgeneral",
     "linkedinUrl": "https://www.linkedin.com/company/massachusetts-general-hospital"
-  }
+  },
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

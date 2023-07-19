@@ -3,10 +3,12 @@
   "slug": "transgender-india-transition-guide",
   "externalUrl": "https://transgenderindia.com/",
   "tags": [
+    "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
-    "education-awareness"
+    "education-awareness",
+    "endocrinologists",
+    "surgeons"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +104,12 @@
       "title": "தமிழ் மாறியமைவாத இந்தியா: உங்கள் மாற்றம் வழிகாட்டி",
       "description": "தமிழ் மாறியமைவாத இந்தியா தமிழி மாறியமைவாத சமுதாயத்திற்கு விரிவான படிப்புகள், கட்டுரைகள் மற்றும் வளங்களை வழங்குகிறது. இதற்கு ஆணிவக்குறைந்த இலவச மருத்துவ வழிகாட்டல்கள், சட்டசார்பான உரிமைகள் மற்றும் பாதுகாப்புகள், சமூக மாற்றங்கள் ஆகியவற்றுக்கு வரையான தலைப்புகளை அடங்குகின்றது, பல்வேறு துறைகளில் சிறப்பியலுடையவர்களால் நடத்தப்படும் படிப்புகளுடன்."
     }
-  }
+  },
+  "title": "Transgender India: Your Transition Guide",
+  "description": "Transgender India provides comprehensive courses, articles and resources for the transgender community in India. It includes topics ranging from hormone replacement therapy basics, legal rights and protections, to social transitions, with courses led by specialists from various fields.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

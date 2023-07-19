@@ -9,7 +9,8 @@
     "transfeminine",
     "non-binary",
     "healthcare",
-    "financial-aid-scholarships"
+    "financial-aid-scholarships",
+    "clothing"
   ],
   "address": null,
   "phoneNumber": null,
@@ -19,5 +20,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

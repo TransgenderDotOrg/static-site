@@ -6,7 +6,6 @@
   "externalUrl": "https://transguysupply.com/blogs/news/how-to-wear-a-packer",
   "tags": [
     "transmasculine",
-    "non-binary",
     "clothing"
   ],
   "address": null,
@@ -17,5 +16,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": {}
+  "socialMedia": {},
+  "organizationType": [
+    "online-platform"
+  ]
 }

@@ -4,10 +4,12 @@
   "externalUrl": "https://transgenderlawcenter.org/",
   "tags": [
     "transmasculine",
+    "non-binary",
     "transfeminine",
     "legal",
     "healthcare",
-    "education-awareness"
+    "education-awareness",
+    "legal-service"
   ],
   "address": "Oakland, CA 94612, USA",
   "phoneNumber": "510-587-9696",
@@ -106,5 +108,12 @@
       "title": "ట్రాన్స్‌జెండర్ లా సెంటర్",
       "description": "ట్రాన్స్‌జెండర్ లా సెంటర్ అనేది అన్ని వ్యక్తుల స్వేచ్ఛా నిర్ణయాన్ని ప్రోత్సహించే దేశీయ సొంతం సంఘం లో అతిపెద్దది. శక్తివంతమైన సమరధనలు మరియు ప్రచురణలను నిర్వహిస్తూ, సెంటర్ బహుళమైన తిరుగుదుదలు మరియు ప్రశ్నలను ఎదుర్కోనే ట్రాన్స్‌జెండర్ వ్యక్తులను మార్గదర్శిస్తుంది. టిఎల్‌సి కూడా దీర్ఘకాలిక, దేశీయ, ట్రాన్స్‌జెండర్‌లేదా స్వతంత్రత కోసం చలించే చట్టాలయోను పౌరులను సామర్థ్యం కల్పిస్తుంది."
     }
-  }
+  },
+  "title": "Transgender Law Center",
+  "description": "Transgender Law Center is the largest national trans-led organization advocating self-determination for all people. By maintaining robust resources and publications, the Center guides individuals through common legal challenges and questions transgender people encounter. TLC also empowers communities towards a long-term, national, trans-led movement for liberation.",
+  "organizationType": [
+    "national-organization",
+    "legal-service",
+    "non-profit-organization"
+  ]
 }

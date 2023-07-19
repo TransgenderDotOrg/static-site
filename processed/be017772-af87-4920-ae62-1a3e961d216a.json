@@ -5,8 +5,12 @@
   "slug": "transamsterdam",
   "externalUrl": "https://www.transamsterdam.nl/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "education-awareness",
     "artists-creators",
-    "education-awareness"
+    "community-stories"
   ],
   "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
   "phoneNumber": null,
@@ -22,5 +26,11 @@
   "socialMedia": {
     "linktr": "linktr.ee/transamsterdam"
   },
-  "town": "Amsterdam-Oost"
+  "town": "Amsterdam-Oost",
+  "organizationType": [
+    "local-office",
+    "community-center",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

@@ -8,7 +8,8 @@
     "youth-services",
     "support-groups",
     "mental-health",
-    "education-awareness"
+    "educational-institution",
+    "community-stories"
   ],
   "address": "21430 Lorain Rd #400, Fairview Park, OH 44126, USA",
   "phoneNumber": null,
@@ -21,5 +22,10 @@
     -81.8579082
   ],
   "email": "info@colorsplus.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "local-office",
+    "non-profit-organization",
+    "community-center"
+  ]
 }

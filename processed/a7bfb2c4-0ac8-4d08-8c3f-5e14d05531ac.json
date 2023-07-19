@@ -6,7 +6,9 @@
   "externalUrl": "https://www.queersexed.org/",
   "tags": [
     "education-awareness",
-    "support-groups"
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
   ],
   "address": null,
   "phoneNumber": null,
@@ -20,5 +22,9 @@
     "patreonUrl": "https://www.patreon.com/queersexed",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/queer-sex-ed-podcast/id1335434343",
     "stitcherUrl": "https://www.stitcher.com/show/queer-sex-ed-podcast"
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

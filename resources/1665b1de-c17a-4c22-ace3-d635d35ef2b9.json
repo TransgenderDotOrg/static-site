@@ -8,10 +8,11 @@
     "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
     "social-services",
+    "youth-services",
+    "support-groups",
     "education-awareness",
-    "support-groups"
+    "community-events"
   ],
   "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
   "phoneNumber": "+49 (0) 30 – 23 94 98 96",
@@ -110,5 +111,11 @@
       "title": "Bundesverband Trans* e.V.",
       "description": "Bundesverband Trans* e.V. ஆகும் அது ஜெர்மனியில் திருநங்கைகளாக அடையாளம் காட்டுவதையும் அவர்களுக்குரிய உரிமைகளுக்குக் குவார் செய்வதையும் நாடு மட்டத்தில் சங்க அமைப்பு. இது திருநங்கையினரது, பாலினப் படிமம் மாறுவது, பாலினம் அலங்காரங்கள், முந்திரி வகையான, மற்றும் கூடுதல் ஆகியவற்றைக் கொண்டவர்களையேக் குறிக்கின்றது. அவர்கள் இந்த சமூகத்தின் நிலையானவற்றை மேம்படுத்துவதற்கான சட்ட, அரசியல், மற்றும் மருத்துவ மாற்றத்தை நோக்கிக் கொண்டு பயிற்சிகளைக் கட்டமைக்கின்றனர், ஆலோசனைகளை வழங்குகின்றனர், மற்றும் புத்தகங்களை வெளியிடுகின்றனர்."
     }
-  }
+  },
+  "title": "Bundesverband Trans* e.V.",
+  "description": "Bundesverband Trans* e.V. is a national association that advocates for the rights of trans* persons in Germany, including those identifying as transsexual, transgender, genderqueer, non-binary, and trans*. They aim for the legal, political, and medical reform to improve the conditions for this community by organizing workshops, offering consultation, and releasing publications.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

@@ -4,9 +4,11 @@
   "externalUrl": "https://www.familyequality.org/",
   "tags": [
     "legal",
-    "education-awareness",
+    "social-services",
+    "support-groups",
     "parent-family-resources",
-    "support-groups"
+    "education-awareness",
+    "community-stories"
   ],
   "address": "475 Park Ave S #2100, New York, NY 10016, USA",
   "phoneNumber": null,
@@ -106,5 +108,11 @@
       "title": "குடும்ப சமம்",
       "description": "குடும்ப சமம் என்பது LGBT+ குடும்பங்களை பாதுகாக்க மற்றும் ஆதரவு வழங்கும் ஒரு ஆலோசக அமைப்புக்கு உரியது. அவர்கள் சட்ட பாதுகாப்புகளுக்கு போராடுகின்றனர், வளங்களையும் கல்வியையும் வழங்குகின்றனர் மற்றும் LGBT+ உரிமைகளுக்கு முன்னேற்றப் போரிக்கையிடுகின்றனர். இந்த அமைப்பு விவித நிகழ்வுகளை நடத்துகின்றது மற்றும் குடும்பங்களை ஒன்றுகூட்டி, அதன் மூலம் அவர்களை LGBT+ சமூகத்துடன் இணைக்கின்றது."
     }
-  }
+  },
+  "title": "Family Equality",
+  "description": "Family Equality is a non-profit organization dedicated to protecting and supporting LGBTQ+ families. They fight for legal protections, provide resources and education, and actively advocate for LGBTQ+ rights. This organization hosts various events and helps connect families to each other and the broader LGBTQ+ community.",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

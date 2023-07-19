@@ -3,10 +3,10 @@
   "slug": "deifydeify-qtibipoc-collective",
   "externalUrl": "https://linktr.ee/deifycbr",
   "tags": [
-    "social-services",
-    "support-groups",
+    "non-binary",
     "community-stories",
-    "education-awareness"
+    "education-awareness",
+    "support-groups"
   ],
   "address": null,
   "phoneNumber": null,
@@ -104,5 +104,12 @@
       "title": "DEiFYDEiFYQTIBIPOC సమూహం Ngunnawal, Ngunawal మరియు Ngambri దేశంలో ఉంది",
       "description": "ఇది DEiFYQTIBIPOC సముదాయానికి ఒక సమూహిక సమావేశం. సమూహం Queer Masculinities Zine మరియు వారి ప్రత్యేక ప్లేలిస్ట్ గురించి కూడా చర్చించబోతోంది."
     }
-  }
+  },
+  "title": "DEiFYDEiFYQTIBIPOC Collective residing on Ngunnawal, Ngunawal and Ngambri Country",
+  "description": "This is a collective meeting for the DEiFYQTIBIPOC community. The group will also discuss the Queer Masculinities Zine and their specific playlist.",
+  "organizationType": [
+    "community-center",
+    "online-platform",
+    "support-group"
+  ]
 }

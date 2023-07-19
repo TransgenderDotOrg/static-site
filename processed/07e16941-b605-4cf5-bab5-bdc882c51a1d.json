@@ -6,11 +6,10 @@
   "externalUrl": "https://www.queerspace.org.au/",
   "tags": [
     "mental-health",
-    "social-services",
-    "youth-services",
     "support-groups",
     "parent-family-resources",
-    "education-awareness"
+    "education-awareness",
+    "youth-services"
   ],
   "address": "100 Drummond St, Carlton VIC 3053, Australia",
   "phoneNumber": "03 9663 6733",
@@ -18,10 +17,18 @@
   "provinceOrState": "VIC",
   "city": "Carlton",
   "county": "City of Melbourne",
-  "latLng": [-37.8043894, 144.9681606],
+  "latLng": [
+    -37.8043894,
+    144.9681606
+  ],
   "email": "enquiries@ds.org.au",
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "healthcare-provider"
+  ]
 }

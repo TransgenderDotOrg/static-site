@@ -3,7 +3,10 @@
   "slug": "jordan-ross-communication-services",
   "externalUrl": "https://www.jordanrosscommunication.com/",
   "tags": [
-    "voice-training"
+    "voice-training",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
   ],
   "socialMedia": {
     "yelpUrl": null,
@@ -101,5 +104,11 @@
       "title": "జోర్డాన్ రోస్ కమ్యునికేషన్ సర్వీసెస్",
       "description": "జోర్డాన్ రోస్ ట్రాన్స్, క్వీర్ మరియు జెండర్ నాన్-కన్ఫార్మింగ్ వ్యక్తుల కోసం ప్రసంగ, స్వరం మరియు కమ్యునికేషన్ కోచింగ్‌ను అందిస్తున్నారు. అతను 1-మీద-1 కోచింగ్, ఆన్‌లైన్ కోర్సులు, ఈవెంట్స్, మరియు 'వాయిస్ వితిన్ కోచింగ్ ప్రోగ్రామ్'‌ను అందిస్తున్నారు. అతని దాదాపు న్యూరో-లింగ్విస్టిక్ ప్రోగ్రామింగ్, హైప్నోథెరపీ, యోగా గురుత్వం, మరియు శ్వాస కోచింగ్ ఆకలికతలతో, శారీరికమైనవి కాకుండా మానసిక, భావోద్వేగ, మరియు ఊర్జా కమ్యునికేషన్ యొక్క అంశాలను ఘట్టించడానికి ప్రయత్నిస్తుంది."
     }
-  }
+  },
+  "title": "Jordan Ross Communication Services",
+  "description": "Jordan Ross provides speech, voice and communication coaching for trans, queer and gender non-conforming individuals. He offers 1-On-1 coaching, online courses, events, and the 'Voice Within Coaching Program'. His approach incorporates neuro-linguistic programming, hypnotherapy, yoga instruction, and breath coaching, aiming to address not just physical but also mental, emotional, and energetic aspects of communication.",
+  "organizationType": [
+    "online-platform",
+    "private-practice"
+  ]
 }

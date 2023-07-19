@@ -5,10 +5,12 @@
   "slug": "bradbury-sullivan-lgbt-community-center",
   "externalUrl": "https://www.bradburysullivancenter.org/",
   "tags": [
+    "community-center",
     "healthcare",
+    "support-groups",
     "education-awareness",
-    "social-services",
-    "support-groups"
+    "legal",
+    "social-services"
   ],
   "address": "522 W Maple St, Allentown, PA 18101, USA",
   "phoneNumber": "(610) 347-9988",
@@ -21,5 +23,9 @@
     -75.46774780000001
   ],
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

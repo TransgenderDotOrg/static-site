@@ -5,12 +5,12 @@
   "slug": "freedom-centre-wa",
   "externalUrl": "https://www.freedom.org.au/",
   "tags": [
-    "youth-services",
     "mental-health",
     "social-services",
+    "youth-services",
     "support-groups",
-    "education-awareness",
-    "parent-family-resources"
+    "parent-family-resources",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -23,5 +23,9 @@
   "socialMedia": {
     "facebookUrl": "https://www.facebook.com/FreedomCentrePerth",
     "instagramUrl": "https://www.instagram.com/freedom_centre/"
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

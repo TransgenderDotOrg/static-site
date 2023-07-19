@@ -20,5 +20,8 @@
     "tumblrUrl": "https://gendercensus.tumblr.com/",
     "mastodonUrl": "https://mastodon gendercensus.com/",
     "patreonUrl": "https://www.patreon.com/gendercensus"
-  }
+  },
+  "organizationType": [
+    "online-platform"
+  ]
 }

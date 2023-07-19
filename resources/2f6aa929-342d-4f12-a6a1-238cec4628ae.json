@@ -9,11 +9,7 @@
     "legal",
     "healthcare",
     "mental-health",
-    "education-awareness",
-    "youth-services",
-    "support-groups",
-    "parent-family-resources",
-    "partner-resources"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -113,5 +109,11 @@
       "title": "TGNS ట్రాన్స్జెండర్ నెట్వర్క్ స్విట్జర్లాండ్",
       "description": "TGNS ట్రాన్స్జెండర్ వ్యక్తులకు స్విట్జర్లాండ్‌లో ఒక నెట్వర్క్. వారు చట్టపట్టాల హోదాలు అందిస్తున్నారు, చికిత్సా సుధారణలకు పనిచేస్తున్నారు, ట్రాన్స్జెండర్ సముదాయానికి మానసిక అంగసౌఖ్యం వనరులను అందిస్తున్నారు. వారు ట్రాన్స్మస్కులిన్, ట్రాన్స్ఫెమినిన్, మరియు నాన్-బైనరీగా గుర్తించే వ్యక్తులకు మద్దతును మరియు సమావేశత్వాన్ని సృష్టించేలా స్థాయిలోకి లక్ష్యించే అనేక ప్రజ్ఞా మరియు విద్యా కార్యక్రమాల్లో పాల్గొనుస్తున్నారు. TGNS కీలక సేవలు, మద్దతు గుంపులు, మరియు ట్రాన్స్జెండర్ వ్యక్తుల కుటుంబ మరియు భాగస్వాములకు వనరులను కూడా అందిస్తుంది."
     }
-  }
+  },
+  "title": "TGNS Transgender Network Switzerland",
+  "description": "TGNS is a network for transgender people in Switzerland. They provide legal advocacy, work towards healthcare reforms, and offer mental health resources to the transgender community. They engage in a variety of awareness and education programs aimed at creating a supportive and inclusive environment for individuals identifying as transmasculine, transfeminine, and non-binary. TGNS also has youth services, support groups, and resources for family and partners of transgender individuals.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

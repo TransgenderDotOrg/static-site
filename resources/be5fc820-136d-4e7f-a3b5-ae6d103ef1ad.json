@@ -5,12 +5,13 @@
   "tags": [
     "transmasculine",
     "transfeminine",
-    "non-binary",
+    "healthcare",
     "mental-health",
     "social-services",
     "support-groups",
+    "parent-family-resources",
     "education-awareness",
-    "healthcare"
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": "02 9519 7599",
@@ -106,5 +107,14 @@
       "title": "தசை மையம் இன்க்.",
       "description": "தசை மையம் இன்க். பல்வேறு தனிப்பட்ட சேவைகளை வழங்கி, தசை அடையாளத்தை ஆராயும் மேலாண்மைக்கு ஆதாரமளிக்கின்றது மற்றும் தசை முனைப்பை இளைப்பதில் உதவின்றது. அவர்கள் உண்மையான தன்னை ஆராயும் மற்றும் வாழ்ந்து கொண்டிருக்கும் பயணத்தின் ஒவ்வொரு நிலையிலும் அது மாறிப்பாட்டு மற்றும் தசை இயற்பாடு மக்களை ஆதரிக்கின்றது. அது குடிசை, வழிவகுக்கum் மேலாண்மை, கல்வி & பயில்ட்டுவக்கும், ஆலோசனையும் மாநகிக சுவாரஸ்திர சேவைகளும், குழுக்களும், செய்திகளும், வளங்களும் வழங்குகின்றது."
     }
-  }
+  },
+  "title": "The Gender Centre Inc.",
+  "description": "The Gender Centre Inc. is providing a broad range of specialised services that enables the exploration of gender identity and assistance with the alleviation of gender dysphoria. It supports trans and gender expressive people at every stage of their journey as they explore and live their authentic sense of self. It offers accommodation, case management, education & training, counseling & mental health services, groups, news, and resources.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "online-platform",
+    "healthcare-provider",
+    "support-group"
+  ]
 }

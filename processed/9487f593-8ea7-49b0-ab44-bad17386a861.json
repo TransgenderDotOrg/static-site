@@ -6,7 +6,8 @@
   "externalUrl": "https://2pass.clinic/en/ffs/procedures",
   "tags": [
     "transfeminine",
-    "healthcare"
+    "healthcare",
+    "surgeons"
   ],
   "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
   "phoneNumber": null,
@@ -23,5 +24,9 @@
     "yelpUrl": null,
     "googleMapsUrl": "https://goo.gl/maps/3KqRiEMYuCk7oDoF7"
   },
-  "town": "Berchem"
+  "town": "Berchem",
+  "organizationType": [
+    "healthcare-provider",
+    "online-platform"
+  ]
 }

@@ -13,6 +13,8 @@
     "scan-website": "ts-node scripts/scan-website.ts",
     "process-intake": "ts-node scripts/process-intake.ts",
     "convert-resources": "ts-node scripts/convert-resources.ts",
+    "update-resources": "ts-node scripts/update-resources.ts",
+    "update-processed": "ts-node scripts/update-processed.ts",
     "patch-locales": "ts-node scripts/patch-locales.ts"
   },
   "devDependencies": {

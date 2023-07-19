@@ -5,6 +5,7 @@
   "slug": "gender-affirmative-letter-access-project",
   "externalUrl": "https://thegalap.org/",
   "tags": [
+    "legal",
     "healthcare",
     "mental-health"
   ],
@@ -16,5 +17,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform",
+    "private-practice"
+  ]
 }

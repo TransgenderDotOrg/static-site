@@ -8,10 +8,11 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "social-services",
+    "mental-health",
     "youth-services",
     "support-groups",
-    "education-awareness"
+    "education-awareness",
+    "community-center"
   ],
   "address": null,
   "phoneNumber": null,
@@ -23,5 +24,12 @@
   "email": null,
   "socialMedia": {
     "instagramUrl": "https://www.instagram.com/twenty10glcs/"
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "local-office",
+    "community-center",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

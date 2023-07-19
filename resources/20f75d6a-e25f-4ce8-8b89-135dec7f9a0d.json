@@ -106,5 +106,11 @@
       "title": "మానవ హక్కుల ప్రచారణ",
       "description": "మానవ హక్కుల ప్రచారణ ఎల్జీబీటీక్యూ+ సముదాయానికి సమానత్వం మరియు హక్కుల కోసం పోరాడుతుంది. వారు విద్యా, మేధాజ్ఞాణ మరియు ప్రజాస్వామ్యం ద్వారా భేదభావాన్ని ముగియించి, ప్రో-సమానత విధానాలను ప్రోత్సహిసేందుకు ప్రయత్నిస్తారు. అవి తమ స్థానిక ప్రదేశాలలో పాల్గొనవలసిన వారికి ఎల్జీబిటీక్యూ+ సముదాయానికి వనరులు అందిస్తుంది."
     }
-  }
+  },
+  "title": "Human Rights Campaign",
+  "description": "Human Rights Campaign fights for the rights and equality of the LGBTQ+ community. They aim to end discrimination and advance pro-equality policies through education, advocacy, and mobilization. They also provide resources for those in the LGBTQ+ community to get involved in their local areas.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

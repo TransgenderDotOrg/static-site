@@ -3,8 +3,8 @@
   "slug": "trans-sask-resources",
   "externalUrl": "https://www.transsask.ca/resources/",
   "tags": [
-    "healthcare",
     "legal",
+    "healthcare",
     "support-groups",
     "education-awareness"
   ],
@@ -106,5 +106,10 @@
       "title": "ట్రాన్స్ సాస్క్ వనరులు",
       "description": "ట్రాన్స్ సాస్క్ ఒక లాభరహిత సంస్థ అనిస్తుంది ఇది ప్రమాణంగా ఉండే, లింగ అస్పష్టత, అంతర లింగ మరియు లింగ సమర్థనలేని వ్యక్తులకు, వారి భార్యలకు, కుటుంబసభ్యులకు, స్నేహితులకు, మరియు పక్షధారులకు మద్దతును అందిస్తుంది. అందించే వనరులలో ఆరోగ్య సేవలను స్థిరీకరించేందుకు మార్గదర్శకం, పేరు మార్పు మార్గదర్శకం మరియు ట్రాన్స్-సమావేశక మీడియా మార్గదర్శకం ఉంటాయి."
     }
-  }
+  },
+  "title": "Trans Sask Resources",
+  "description": "Trans Sask is a non-profit organization that provides support and acts as a resource network for trans-identified, genderqueer, intersex and gender non-conforming individuals, their spouses, family, friends, and allies. Resources offered include accessing affirming healthcare, name change guide and trans-inclusive media guide.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

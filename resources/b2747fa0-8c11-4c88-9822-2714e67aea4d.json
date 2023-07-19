@@ -3,7 +3,8 @@
   "slug": "university-of-toledo-medical-center",
   "externalUrl": "https://utmc.utoledo.edu/",
   "tags": [
-    "healthcare"
+    "healthcare",
+    "education-awareness"
   ],
   "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
   "phoneNumber": "419.383.4000",
@@ -102,5 +103,11 @@
       "title": "టోలేడో విశ్వవిద్యాలయ వైద్య కేంద్రం",
       "description": "టోలేడో విశ్వవిద్యాలయానికి చెందిన వైద్య కేంద్రం అత్యధిక విధానాలలో మెడికల్ సేవలను అందిస్తుంది, అతికించిన ఔషధనిర్మాణ నుండి ఆర్థోపేడిక్స్ మరియు పునరుద్ధరణ సేవల వరకు. ఇది వాయువ్య ఓహైయొ సముదాయానికి అత్యుత్తమ స్వాస్థ్య సేవను అందించడానికి ప్రతిబద్ధత ఉంది. కేంద్రం, రోగి సమాచారం, సందర్శక సమాచారం, బిల్లింగ్ మరియు ఇన్షూరెన్స్ మద్దతు వంటి సేవలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "University of Toledo Medical Center",
+  "description": "The University of Toledo Medical Center provides a wide range of medical services and specialties, from emergency medicine to orthopaedics and rehabilitation services. It is committed to offering the highest level of healthcare to the northwest Ohio community. The center offers services like patient information, visitor information, billing and insurance support.",
+  "organizationType": [
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

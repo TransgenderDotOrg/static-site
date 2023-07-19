@@ -3,10 +3,12 @@
   "slug": "boston-alliance-of-lgbtq-youth-bagly",
   "externalUrl": "https://www.bagly.org/",
   "tags": [
-    "youth-services",
     "healthcare",
     "mental-health",
-    "social-services"
+    "youth-services",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
   ],
   "address": "28 Court Square, Boston, MA 02108, USA",
   "phoneNumber": "(617) 227-4313",
@@ -107,5 +109,11 @@
       "title": "బోస్టన్ అలైయన్స్ ఆఫ్ LGBTQ+ యూత్ (BAGLY)",
       "description": "BAGLY అనేది యూత్-నేతృత్వపడిన, వయోజనఃపోషించిన సంస్థ మరియు దీని లక్ష్యంగా LGBTQ+ యువజన సముదాయానికి ప్రోగ్రామ్లు, విధానాలు మరియు సేవల కోసం పోరాటాను చేస్తుంది. ఇది ఆరోగ్య సేవలు, ఆహార న్యాయం, యూత్ నాయకత్వ అభివృద్ధి, మరిన్ని ముందుగానే ప్రోగ్రామ్లు మరియు సంసాధనాలను అందిస్తుంది. BAGLY LGBTQ+ యువజనంలో రంగుబాలులు, మార్పు మరియు లింగాన్ని అభిన్నంగా చూసిన యువజన, మరియు ఆశ్రయస్థానం లేని LGBTQ+ యువజనం కోసం ప్రాధాన్యతను ఇస్తుంది."
     }
-  }
+  },
+  "title": "Boston Alliance of LGBTQ+ Youth (BAGLY)",
+  "description": "BAGLY is a youth-led, adult-supported organization that advocates for programs, policies and services for the LGBTQ+ youth community. It provides an array of resources and programs including healthcare services, food justice, youth leadership development, and more. BAGLY prioritizes the needs of LGBTQ+ youth of color, trans and gender non-conforming youth, and homeless LGBTQ+ youth.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

@@ -6,11 +6,12 @@
   "externalUrl": "https://www.centeronhalsted.org/",
   "tags": [
     "healthcare",
-    "mental-health",
+    "education-awareness",
     "social-services",
     "youth-services",
-    "community-stories",
-    "education-awareness"
+    "support-groups",
+    "mental-health",
+    "community-stories"
   ],
   "address": "3656 N Halsted St, Chicago, IL 60613, USA",
   "phoneNumber": "773.472.6469",
@@ -18,7 +19,10 @@
   "provinceOrState": "IL",
   "city": "Chicago",
   "county": "Cook County",
-  "latLng": [41.9488291, -87.6499407],
+  "latLng": [
+    41.9488291,
+    -87.6499407
+  ],
   "email": "mail@centeronhalsted.org",
   "socialMedia": {
     "yelpUrl": null,
@@ -30,5 +34,9 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

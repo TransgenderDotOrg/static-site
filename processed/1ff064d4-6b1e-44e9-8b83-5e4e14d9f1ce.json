@@ -6,7 +6,8 @@
   "externalUrl": "https://www.nonbinary.ch/",
   "tags": [
     "non-binary",
-    "education-awareness"
+    "education-awareness",
+    "support-groups"
   ],
   "address": null,
   "phoneNumber": null,
@@ -21,5 +22,8 @@
     "googleMapsUrl": null,
     "youtubeUrl": "https://www.youtube.com/channel/",
     "pinterestUrl": "https://www.pinterest.com/nonbinarych/"
-  }
+  },
+  "organizationType": [
+    "online-platform"
+  ]
 }

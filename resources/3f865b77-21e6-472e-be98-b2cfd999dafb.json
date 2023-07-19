@@ -3,10 +3,9 @@
   "slug": "unitarian-universalist-association",
   "externalUrl": "https://www.uua.org/",
   "tags": [
-    "non-binary",
-    "support-groups",
+    "spiritual",
     "education-awareness",
-    "spiritual"
+    "support-groups"
   ],
   "address": "24 Farnsworth St, Boston, MA 02210, USA",
   "phoneNumber": "(617) 742-2100",
@@ -105,5 +104,11 @@
       "title": "యూనిటేరియన్ యూనివర్శలిస్ట్ అసోసియేషన్",
       "description": "న్యాయం, ప్రేమ, నేర్చుకోవడం, ఆశ కలగని జీవితాలను నడిపించే వ్యక్తులకు మద్దతు పెట్టే ముగ్గురు-ముగ్గురుగా, ఉదార మనస్సు ఉంచే ఆధ్యాత్మిక సంఘం. ఈ సంఘం వైవిధ్యాలను, అదనపుగా ట్రాన్స్‌జెండర్ సముదాయాన్ని, స్వీకరిస్తుంది మరియు న్యాయకార్యాల్లో సాక్రియ పాల్పడతను ప్రేరేపిస్తుంది. వివిధ సామాజిక సమస్యలకు వనరులు, మద్దతు మరియు అభిప్రేతిని అందిస్తుంది."
     }
-  }
+  },
+  "title": "Unitarian Universalist Association",
+  "description": "An open-minded, open-hearted spiritual community supporting people in leading lives of justice, love, learning, and hope. The community embraces diversity including the transgender community and encourages active participation in acts of justice. They also offer resources, support and advocacy for various social issues.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

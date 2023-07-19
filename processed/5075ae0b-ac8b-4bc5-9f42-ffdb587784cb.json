@@ -6,8 +6,10 @@
   "externalUrl": "https://www.emisil.com/blogs/all-blog-posts/how-to-make-an-ftm-packer-diy-packer",
   "tags": [
     "transmasculine",
+    "non-binary",
+    "education-awareness",
     "clothing",
-    "education-awareness"
+    "DIY"
   ],
   "address": null,
   "phoneNumber": null,
@@ -17,5 +19,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform"
+  ]
 }

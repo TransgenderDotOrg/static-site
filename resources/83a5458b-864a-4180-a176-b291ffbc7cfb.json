@@ -3,7 +3,6 @@
   "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
   "externalUrl": "https://www.startts.org.au/",
   "tags": [
-    "healthcare",
     "mental-health",
     "social-services",
     "education-awareness"
@@ -110,5 +109,11 @@
       "title": "येथील यंत्रणा आणि अपघातांच्या अनुभवांच्या उपचार आणि पुनर्वास साठी एनऍसडब्ल्यू सेवा",
       "description": "STARTTS म्हणजे सांस्कृतिक रितीनुसार मानसिक उपचार, समुदाय निर्देशने आणि सेवा साठी प्रशिक्षण प्रदान करते ज्याची उद्दीष्ट यंत्रणा आणि अपघातांच्या अनुभवांमुळे जितके शोधाला आलेले असे तितके लोकांना संपावण्यास मदत करण्यास मदत करण्यास आहे. त्यांचा उद्दिष्ट विविध लैंगिकतेच्या, लिंगांच्या, आणि शरीरांसाठी सुरक्षित आणि समर्थनार्थ वाहतुकीचे वातावरण तयार करण्याचा आहे, त्यातल्या शरणार्थ्यांना आणि आश्रय मागणार्‍यांना समाविष्ट करतात."
     }
-  }
+  },
+  "title": "NSW Service for the Treatment and Rehabilitation of Torture and Trauma Survivors",
+  "description": "STARTTS provides culturally relevant psychological treatment, community interventions, and training to services to help people heal from the scars of torture and refugee trauma. They aim to create a safe and supportive environment for diverse sexualities, genders, and bodies including refugees and asylum seekers.",
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider"
+  ]
 }

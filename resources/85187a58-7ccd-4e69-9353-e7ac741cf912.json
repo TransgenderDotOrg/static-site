@@ -5,7 +5,7 @@
   "tags": [
     "legal",
     "education-awareness",
-    "healthcare"
+    "non-profit-organization"
   ],
   "address": "520 8th Ave #2204, New York, NY 10018, USA",
   "phoneNumber": "646-862-9396",
@@ -110,5 +110,11 @@
       "title": "மாறுபாலினர் சட்ட வாரிசு & கல்விப் பணி (TLDEF)",
       "description": "TLDEF பாலில் அடையாளம் மற்றும் வெளிப்பாடுகளின் அடிப்படையில் இருந்து சாதிப்பரிதாபத்தை முடிக்க உழைக்கின்றது மேலும் அறிவு வளர்ச்சியின் மூலம், பிரச்சினை வழக்கு நீதியாணை, நேரடிய சட்ட சேவைகள், மற்றும் பொது கொள்கை முயற்சிகளின் மூலம் மாறுபாலி மக்களுக்கு சமம் பெறுவதை நோக்கி உழைப்பு. அவர்கள் பெயர் மாற்ற திட்டம், விளைவு மற்றும் மாறுபாலினர் சுகாதார திட்டம் போன்ற பல்வேறு சேவைகளை வழங்குகின்றனர். இது மாறுபாலி சமுதாயத்திற்கு தொடர்பான சட்ட சம்பந்தமான விஷயங்களின் மேல் புதுப்பிப்புகளையும் வழங்குகின்றது."
     }
-  }
+  },
+  "title": "Transgender Legal Defense & Education Fund (TLDEF)",
+  "description": "The TLDEF is committed to ending discrimination based upon gender identity and expression and to achieving equality for transgender people through public education, test-case litigation, direct legal services, and public policy efforts. They provide various services like name change project, impact litigation and trans health project. It also provides updates on related legal matters affecting the transgender community.",
+  "organizationType": [
+    "non-profit-organization",
+    "legal-service"
+  ]
 }

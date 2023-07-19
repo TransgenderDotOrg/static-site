@@ -4,10 +4,10 @@
   "externalUrl": "https://thorneharbour.org/",
   "tags": [
     "healthcare",
-    "support-groups",
     "mental-health",
-    "social-services",
-    "education-awareness"
+    "support-groups",
+    "education-awareness",
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +103,12 @@
       "title": "Thorne Harbour Health",
       "description": "సెక్స్, లింగం మరియు సెక్సుయాలిటీ విభిన్న సముదాయాలకు ఆరోగ్య మరియు సౌకర్యపెట్టే సేవలను అందిస్తున్న ఒక LGBTIQ+ సముదాయ నియంత్రిత సంస్థ. ఇది HIV మద్దతు మరియు నివారణ, ఆలోచనా పరామర్శ, మరియు కుటుంబ హింసా సేవలను కలిగి ఉంటుంది."
     }
-  }
+  },
+  "title": "Thorne Harbour Health",
+  "description": "A LGBTIQ+ community-controlled organisation providing health and wellbeing services for sex, gender and sexuality diverse communities, including HIV support and prevention, counselling, and family violence services.",
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider",
+    "community-center"
+  ]
 }

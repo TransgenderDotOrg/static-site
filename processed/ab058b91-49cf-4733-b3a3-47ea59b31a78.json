@@ -9,15 +9,15 @@
     "non-binary",
     "transfeminine",
     "legal",
-    "mental-health",
-    "social-services",
     "support-groups",
-    "education-awareness",
-    "financial-aid-scholarships",
-    "community-stories"
+    "financial-aid-scholarships"
   ],
   "email": "info@aplaceformarshaofficial.org",
   "socialMedia": {
     "tiktok": "https://www.tiktok.com/@aplaceformarsha"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

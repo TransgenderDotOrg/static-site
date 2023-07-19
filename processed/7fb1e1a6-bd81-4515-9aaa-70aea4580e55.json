@@ -6,21 +6,27 @@
   "externalUrl": "https://genderdiversity.org",
   "tags": [
     "education-awareness",
-    "healthcare",
     "youth-services",
-    "support-groups",
-    "parent-family-resources",
-    "social-services",
+    "healthcare",
     "non-binary",
     "transmasculine",
-    "transfeminine"
+    "transfeminine",
+    "parent-family-resources"
   ],
   "address": "6523 California Ave SW #144, Seattle, WA 98136",
   "country": "US",
   "provinceOrState": "WA",
   "city": "Seattle",
   "county": "King County",
-  "latLng": [47.544046, -122.387452],
+  "latLng": [
+    47.544046,
+    -122.387452
+  ],
   "phoneNumber": "1-833-3GENDER",
-  "email": "info@genderdiversity.org"
+  "email": "info@genderdiversity.org",
+  "organizationType": [
+    "educational-institution",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

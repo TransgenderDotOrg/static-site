@@ -4,7 +4,7 @@
   "externalUrl": "https://ftm-portal.net",
   "tags": [
     "transmasculine",
-    "education-awareness",
+    "social-services",
     "support-groups"
   ],
   "address": null,
@@ -101,5 +101,11 @@
       "title": "FTM-Portal.net",
       "description": "FTM-Portal.net सबसे बड़ा जर्मन भाषा वाला जानकारी मंच है ट्रांसमेन और अन्य ट्रांसमस्कुलिनिटीज के लिए जो विभिन्न जीवन संदर्भों पर अनुभव और सुझाव प्रदान करता है। यह संसाधन उपयोगी है किसी भी व्यक्ति के लिए जिसे जन्म के समय महिला के रूप में अभिप्रेत किया गया था जो इस प्रारंभिक वर्गीकरण के साथ पूरी तरह या आंशिक रूप से पहचानता नहीं है। ट्रांसमेन के सम्बंधियों और अन्य रुचिपूर्ण पक्ष भी पंजीकरण कर सकते हैं।"
     }
-  }
+  },
+  "title": "FTM-Portal.net",
+  "description": "FTM-Portal.net is the largest German-speaking information platform for transmen and other transmasculinities providing experiences and tips on various living situations. This resource is helpful for any person assigned female at birth who does not fully or partially identify with this initial classification. Relatives of transmen and other interested parties may also register.",
+  "organizationType": [
+    "online-platform",
+    "community-center"
+  ]
 }

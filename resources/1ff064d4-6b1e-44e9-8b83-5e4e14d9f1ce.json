@@ -4,7 +4,8 @@
   "externalUrl": "https://www.nonbinary.ch/",
   "tags": [
     "non-binary",
-    "education-awareness"
+    "education-awareness",
+    "support-groups"
   ],
   "address": null,
   "phoneNumber": null,
@@ -105,5 +106,10 @@
       "title": "nonbinary.ch - నాన్-బైనరీ వ్యక్తులకు ఒక సంపద",
       "description": "నాన్-బైనరీ లింగ గుర్తులకు సంబంధించిన సమగ్ర స్విస్ వెబ్సైటు సమాచారం మరియు వనరులను అందిస్తుంది. దీని ఉద్దేశ్యం వ్యక్తుల స్వంత లింగ గుర్తును అన్వేషిస్తున్నవారికి, లేదా నాన్-బైనరీ వ్యక్తులతో సంప్రదించే వారికి అవసరమైన జ్ఞానాన్ని సులభంగా అందించడం. ఈ సైటు కూడా ఒక బ్లాగ్, న్యూస్లెటర్, మరియు పుస్తకాలు, సినిమాలు, మరియు పవర్చలో సంబంధిత బహిరంగ వనరుల లింక్లను హోస్ట్ చేస్తుంది."
     }
-  }
+  },
+  "title": "nonbinary.ch - A Resource for Non-binary Individuals",
+  "description": "A comprehensive Swiss website providing information and resources related to non-binary gender identities. It's meant to help individuals exploring their own gender identity, or those who interact with non-binary individuals, by making foundational knowledge easily accessible. The site also hosts a blog, a newsletter, and links to relevant external resources like books, films, and research.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

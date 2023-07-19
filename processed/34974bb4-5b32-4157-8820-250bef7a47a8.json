@@ -5,10 +5,11 @@
   "slug": "australian-transgender-support-association-of-queensland",
   "externalUrl": "https://www.atsaq.org.au/",
   "tags": [
+    "transfeminine",
     "non-binary",
     "support-groups",
     "community-stories",
-    "social-services"
+    "education-awareness"
   ],
   "address": "Booval QLD 4304, Australia",
   "phoneNumber": "(07) 3705 7663",
@@ -21,5 +22,9 @@
     152.788861
   ],
   "email": "parker@atsaq.org.au",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "support-group"
+  ]
 }

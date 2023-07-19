@@ -5,10 +5,9 @@
   "slug": "acoustic-gender",
   "externalUrl": "https://acousticgender.space/",
   "tags": [
-    "transfeminine",
-    "transmasculine",
-    "non-binary",
-    "voice-training"
+    "voice-training",
+    "education-awareness",
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +17,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "educational-institution"
+  ]
 }

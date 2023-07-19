@@ -3,15 +3,24 @@
   "slug": "transgendermap",
   "externalUrl": "https://transgendermap.com",
   "tags": [
-    "transfeminine",
-    "non-binary",
     "transmasculine",
+    "non-binary",
+    "transfeminine",
     "legal",
     "healthcare",
     "mental-health",
     "social-services",
-    "community-stories",
-    "education-awareness"
+    "youth-services",
+    "parent-family-resources",
+    "partner-resources",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "voice-training",
+    "makeup",
+    "clothing",
+    "endocrinologists",
+    "surgeons",
+    "community-stories"
   ],
   "i18n": {
     "en-US": {
@@ -98,5 +107,11 @@
       "title": "பாலின மாற்று வரைபடம்",
       "description": "Transgendermap.com என்பது பாலின் அடையாளத்தை சந்தேகிக்கும் அல்லது பாலின மாற்று வரியாவில் உள்ள மக்களுக்கு பிரயோகக் கூறுகள் மற்றும் வழிகாட்டுதல்களை வழங்குவதை நோக்கி ஆன்லைன் வளமாக உள்ளது. இந்த இணையத்தளம் பாலின் மாற்று சொற்தகவல்களை உணர்வத், மாற்றம் செயல்முறைகள், சட்ட விவாதங்கள், சுகாதார, பல தனிப்பட்ட கதைகள் போன்ற பல தலைப்புகளைக் கொண்டுள்ளது. அதன் நோக்கம், 'வரைபடத்தின்' மூலமாக பாலின் அடையாளத்தின் பல பகுதிகளுக்கு வழிகாட்டல் வழங்கி தனித்த பயணங்களுக்கு மக்களை வழிகாட்டுவதாகும். மிகவும் தற்போதைய மற்றும் சரியான தகவல்களுக்கு நிஜ தளத்தை பார்வையிடுவதற்கை நல்லாக கேட்டுக்கொள்ளுகிறோம்."
     }
-  }
+  },
+  "title": "Transgender Map",
+  "description": "Transgendermap.com is an online resource aimed at providing practical information and guidance to people who are questioning their gender identity or are somewhere on the transgender spectrum. The website includes a wide range of topics like understanding transgender terminology, transition processes, legal issues, healthcare, and numerous personal stories. Its goal is to help individuals navigate their personal journeys by providing a 'map' or guide to the many aspects of gender identity and transgender experiences. Please visit the actual site for the most current and accurate information.",
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

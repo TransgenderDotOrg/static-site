@@ -24,5 +24,8 @@
     "facebookUrl": "https://www.facebook.com/HawaiiLGBTLegacy",
     "instagramUrl": "https://www.instagram.com/hawaiilgbtlegacy",
     "youtubeUrl": "https://www.youtube.com/channel/UCi_6fzEf8JgU7tikRqz6RJg"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

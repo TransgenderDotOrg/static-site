@@ -3,6 +3,7 @@
   "slug": "gender-affirmative-letter-access-project",
   "externalUrl": "https://thegalap.org/",
   "tags": [
+    "legal",
     "healthcare",
     "mental-health"
   ],
@@ -100,5 +101,11 @@
       "title": "జెండర్ ఆఫర్మేటివ్ లెటర్ యాక్సెస్ ప్రాజెక్ట్",
       "description": "గలాప్ అనేది జెండర్ ఆఫర్మేటివ్ కేర్ను అందించే స్వతంత్ర చిలినికాల కోసం ఒక వేదిక. వారు సామాజిక సేవకుల డైరెక్టరీలు, జెండర్ ఆఫర్మేటివ్ కోసం లెటర్ రాయడానికి మార్గదర్శకాలు మరియు మరిన్ని సంస్థలను అందిస్తుంది. మీరు గమనించవలసిన విషయం గలాప్ ద్వారా ఏ ప్రతిజ్ఞా సైనర్ యొక్క నైపుణ్యాలు లేదా పరిణతిని తనిఖీ చేయలేము."
     }
-  }
+  },
+  "title": "The Gender Affirmative Letter Access Project",
+  "description": "The GALAP is a platform for independent clinicians providing gender affirming care. They offer resources such as therapist directories, letter writing guides for gender affirmation and more. Please note, the skills or expertise of any pledge signer cannot be verified by GALAP.",
+  "organizationType": [
+    "online-platform",
+    "private-practice"
+  ]
 }

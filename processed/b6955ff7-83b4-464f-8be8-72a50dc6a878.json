@@ -4,7 +4,12 @@
   "description": "TransVoiceLessons offers quality voice control and liberation services for transgender and non-binary individuals aiming to sound more masculine, feminine, or androgynous.",
   "slug": "transvoicelessons",
   "externalUrl": "https://www.transvoicelessons.com/",
-  "tags": ["voice-training"],
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "voice-training"
+  ],
   "address": null,
   "phoneNumber": null,
   "country": null,
@@ -23,5 +28,8 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": "https://www.patreon.com/transvoicelessons/posts"
-  }
+  },
+  "organizationType": [
+    "online-platform"
+  ]
 }

@@ -3,10 +3,11 @@
   "slug": "centerlink-the-community-of-lgbtq-centers",
   "externalUrl": "https://www.lgbtqcenters.org",
   "tags": [
-    "mental-health",
-    "support-groups",
+    "healthcare",
     "community-stories",
-    "education-awareness"
+    "education-awareness",
+    "support-groups",
+    "youth-services"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +103,11 @@
       "title": "CenterLink, LGBTQ மையங்களின் சமூகம்",
       "description": "CenterLink என்பது ஒரு சர்வதேச அல்லாதுமய அமைப்பு மற்றும் LGBTQ மையங்கள் மற்றும் அவர்கள் உள்ளூர் மற்றும் மாநில சமூகங்களை சேவிக்கும் ஏனைய அமைப்புகளின் உறுப்பினர் வாழ்க்கை அமைப்பு. அவர்களின் கருத்து LGBTQ சமூக மையங்களைப் பலப்படுத்துவது, ஆதரவு வழங்குவது மற்றும் இணைக்குவது, அவசியமான சேவைகளைவழங்குவது, வளர்ச்சியை முன்னெச்சுவது, ஆரோக்கியத்தை மற்றும் இணையுமையை உலகெங்கும் 325-ற்கும் அதிகமான LGBTQ சமூகங்களில் புகழ்ச்சியை வாழ்க்கைக்கு முன்னேற்றுவது."
     }
-  }
+  },
+  "title": "CenterLink, The Community of LGBTQ Centers",
+  "description": "CenterLink is an international nonprofit organization and member-based association of LGBTQ centers and other organizations serving their local and regional communities. Their mission is to strengthen, support, and connect LGBTQ community centers, providing essential services, promoting growth, wellness, and connectivity in over 325 LGBTQ communities worldwide.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

@@ -6,7 +6,10 @@
   "externalUrl": "https://www.minus18.org.au/",
   "tags": [
     "youth-services",
-    "education-awareness"
+    "education-awareness",
+    "support-groups",
+    "community-stories",
+    "social-services"
   ],
   "address": null,
   "phoneNumber": null,
@@ -16,5 +19,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

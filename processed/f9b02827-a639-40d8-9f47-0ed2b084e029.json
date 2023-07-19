@@ -6,7 +6,7 @@
   "externalUrl": "https://transequality.org/documents",
   "tags": [
     "legal",
-    "support-groups",
+    "healthcare",
     "education-awareness"
   ],
   "address": "1032 15th St NW #199, Washington, DC 20005, USA",
@@ -22,5 +22,10 @@
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "government-entity"
+  ]
 }

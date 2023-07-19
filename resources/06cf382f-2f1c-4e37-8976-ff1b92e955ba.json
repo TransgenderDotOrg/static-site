@@ -5,9 +5,9 @@
   "tags": [
     "youth-services",
     "support-groups",
-    "mental-health",
+    "community-stories",
     "education-awareness",
-    "community-stories"
+    "artists-creators"
   ],
   "address": "Salem, MA, USA",
   "phoneNumber": "978-224-2102",
@@ -109,5 +109,12 @@
       "title": "ఉత్తర తీర గే అలైయన్స్ ఆఫ్ గే, లెస్బియన్, బైసెక్స్యుఅల్ మరియు ట్రాన్స్జెండర్ యువత (NAGLY)",
       "description": "NAGLY యొక్క లక్ష్యం గేయ్, లెస్బియన్, బైసెక్స్యుఅల్, ట్రాన్స్జెండర్ యువతను గౌరవించడం, గౌరవించడం, పఠించడం మరియు ప్రేరేపించడం. వారు స్థానిక కార్యక్రమాలు మరియు మద్దతు సేవలు ద్వారా ఒక సముదాయాన్ని పోషిస్తారు, ఇది యువత మరియు వయసు వ్యాపార గుంపులు మరియు వివిధ సముదాయ చర్యలను చేరుస్తుంది. వారు మానసిక స్వాస్థ్య వనరులను అందిస్తారు, ఆరోగ్య విద్య ప్రాథమిక బోధనను అందిస్తారు, మరియు LGBTQ+ సముదాయానికి అనేక అవకాశాలను ప్రకటిస్తారు మరియు వారి అనుభవాలను పంచుకోవడానికి."
     }
-  }
+  },
+  "title": "North Shore Alliance of Gay, Lesbian, Bisexual and Transgender Youth (NAGLY)",
+  "description": "NAGLY's mission is to honor, respect, educate, and empower GLBTQ+ youth. They foster a community through local programs and support services, including youth and adult groups and various community activities. They offer mental health resources, provide healthcare education, and offer many opportunities for the LGBTQ+ community to connect and share their experiences.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization",
+    "educational-institution"
+  ]
 }

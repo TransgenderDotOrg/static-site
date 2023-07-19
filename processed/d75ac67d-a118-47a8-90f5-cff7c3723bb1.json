@@ -5,8 +5,9 @@
   "slug": "lgbtq-health-services-by-cdph",
   "externalUrl": "https://www.cdph.ca.gov/Programs/CID/DOA/Pages/LGBT_Health.aspx",
   "tags": [
+    "legal",
     "healthcare",
-    "mental-health"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": "(916) 558-1784",
@@ -19,5 +20,8 @@
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null
-  }
+  },
+  "organizationType": [
+    "government-entity"
+  ]
 }

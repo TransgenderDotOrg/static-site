@@ -3,13 +3,10 @@
   "slug": "genderdysphoriafyi",
   "externalUrl": "https://genderdysphoria.fyi",
   "tags": [
+    "education-awareness",
     "transmasculine",
-    "non-binary",
     "transfeminine",
-    "mental-health",
-    "support-groups",
-    "community-stories",
-    "education-awareness"
+    "non-binary"
   ],
   "i18n": {
     "en-US": {
@@ -96,5 +93,10 @@
       "title": "genderdysphoria.fyi",
       "description": "பாலியல் குழப்பத்தை குறித்து அறிவு, ஆதரவு, மற்றும் புரிந்துணர்வு தேடும் நபர்களுக்கான நம்பிக்கையான ஆன்லைன் வளாகம். அவர்களது வலைத்தளம் தனிநபர்களின் பயணத்தில் அவர்களை ஆதரிக்க ஒரு பொதுவழிக் கேள்விகள், வளங்கள் மற்றும் சமூக இணைப்புகள் ஆகியவற்றை ஏற்படுத்துவதாக உள்ளது. பாலியல் அடையாளம் மற்றும் மாற்றத்திலிருந்து முழுமையான வழிகாட்டிகள், தனிப்பட்ட கதைகள் மற்றும் வல்லுநர் ஆலோசனைகள் வரை, அவர்கள் அனைத்துக்கும் பாலாண்மையான மற்றும் சேர்ந்து இருக்கும் இடத்தை உருவாக்க முயற்சிக்கின்றனர்."
     }
-  }
+  },
+  "title": "genderdysphoria.fyi",
+  "description": "A trusted online resource for individuals seeking knowledge, support, and understanding about gender dysphoria. Their website provides a wealth of information, resources, and community connections to empower individuals on their journey. From comprehensive guides on gender identity and transitioning to personal stories and expert advice, they strive to create a safe and inclusive space for all.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

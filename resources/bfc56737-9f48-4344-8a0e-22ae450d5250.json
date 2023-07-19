@@ -4,8 +4,8 @@
   "externalUrl": "https://pflag.org/",
   "tags": [
     "education-awareness",
-    "support-groups",
     "parent-family-resources",
+    "support-groups",
     "community-stories"
   ],
   "address": "Washington, DC, USA",
@@ -105,5 +105,11 @@
       "title": "அன்புடன் கற்றல்: 2023 பிஎஃப்எலஏகி தேசிய மாநாடு",
       "description": "இணையவலையில், தலைமையில், கற்றுக்கொள்வதில், மற்றும் அனுபவங்களைப் பகிர்வதில் பிஎஃப்எலஏகி மூலமாக அமைக்கப்பட்ட நாலு நாள் நிகழ்வு. மாநாடுகள், குழுக்கூட்டுகள் மற்றும் வழங்கல்களை நிகழ்வாக்கும் அவர்களின் நிலைத்துவ பேணியாக, சமூகத்தை புரிந்துணர்வு, சலிப்பு மற்றும் அவர்களை அன்புடன் ஏற்றுகொள்ளும்  இயல்பு, நிகழ்வான பேரிடத்தை உருவாக்குவதில் உதவும்."
     }
-  }
+  },
+  "title": "Learning With Love: The 2023 PFLAG National Convention",
+  "description": "A four-day event organized by PFLAG for connecting, networking, learning, and sharing experiences. The convention will host workshops, panels, and presentations to support their mission of creating a caring, just, and affirming world for LGBTQ+ people and those who love them.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

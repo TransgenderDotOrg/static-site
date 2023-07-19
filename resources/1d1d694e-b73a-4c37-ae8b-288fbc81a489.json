@@ -3,11 +3,10 @@
   "slug": "us-trans-survey",
   "externalUrl": "https://www.ustranssurvey.org/",
   "tags": [
-    "education-awareness",
-    "community-stories",
-    "non-binary",
     "transmasculine",
-    "transfeminine"
+    "non-binary",
+    "transfeminine",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +102,11 @@
       "title": "யூ.எஸ். Trans Survey",
       "description": "யூ.எஸ். Trans Survey ஒரு மிகப்பெரிய தளபாடும் அது அமெரிக்காவில் உள்ள மாறிய ஆணினங்களின் வாழ்க்கையை மாறியாணினங்களால் ஆய்வு செய்யும். இது 16 வயதிற்கும் மேலான அமெரிக்காவில் உள்ள பாலியல் மாறிய ஆணினம் மற்றும் nonbinary மக்களின் வாழ்க்கைகளை, அனுபவங்களை ஆய்வு செய்கிறது. இந்த கவனிப்பு மற்றும் அதன் அறிக்கைகள் மிகவும் முக்கியமான வளங்களாக உள்ளன, இது நிறத்தரவு மற்றும் மாநில அநுபவங்களைப் பொருத்தமாகக் கொண்டு மாறிய குரல்கள் மூலம் வரைவில் உருவாகிவருகின்றன."
     }
-  }
+  },
+  "title": "U.S. Trans Survey",
+  "description": "The U.S. Trans Survey is the largest survey of trans people, by trans people, in the United States. It documents the lives and experiences of trans and nonbinary people aged 16+ in the U.S. and U.S. territories. The survey and its reports have been a vital resource, including reports on the experiences of people of color and by state, helping to shape the future through trans voices.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

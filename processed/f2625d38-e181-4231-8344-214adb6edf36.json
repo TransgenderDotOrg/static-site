@@ -5,6 +5,11 @@
   "slug": "transcend-australia",
   "externalUrl": "https://transcend.org.au/",
   "tags": [
+    "non-binary",
+    "legal",
+    "healthcare",
+    "social-services",
+    "youth-services",
     "support-groups",
     "parent-family-resources",
     "education-awareness"
@@ -17,5 +22,11 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "support-group",
+    "legal-service",
+    "educational-institution"
+  ]
 }

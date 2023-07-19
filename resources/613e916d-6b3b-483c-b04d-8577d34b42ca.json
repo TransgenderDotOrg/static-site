@@ -8,10 +8,8 @@
     "transfeminine",
     "social-services",
     "support-groups",
-    "youth-services",
-    "community-stories",
-    "education-awareness",
-    "clothing"
+    "clothing",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": "(440) 857-0611",
@@ -107,5 +105,10 @@
       "title": "మార్జీయుస్ హోప్",
       "description": "మార్జీయుస్ హోప్ ని జకాబ్ నాష్ 2011లో స్థాపించారు. మా చరిత్ర మరియు ఉద్దేశం, సముదాయంలోని ట్రాన్స్‌జెండర్, నాన్-బైనరీ, మరియు లింగ విస్థార వ్యక్తుల జీవితాన్ని సమృద్ధ చేయడమే. మార్జీయుస్ హోప్ వివిధ సముదాయ కార్యక్రమాలు మరియు లాభం కోసం కాదు అమ్మకానున్న కిరాణా దుకాణం ద్వారా వనరులు మరియు మద్దతు అందిస్తుంది."
     }
-  }
+  },
+  "title": "Margie’s Hope",
+  "description": "Margie’s Hope was founded in 2011 by Jacob Nash. Our history and purpose has been to enrich the lives of Transgender, Non-Binary, and Gender Expansive people in the community. Margie’s Hope offers resources and support through various community programs and a not for profit resale store.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

@@ -6,7 +6,6 @@
     "transmasculine",
     "non-binary",
     "healthcare",
-    "mental-health",
     "support-groups",
     "education-awareness"
   ],
@@ -97,5 +96,12 @@
       "title": "TransMann e.V.",
       "description": "TransMann e.V. ஒரு சுயாதேசி, லாபக்குறை, அல்லது சமுதாய நிறுவனமாகும், அது முழுவதுமாக பெண்களிடத்தில் ஆண்களுக்கான (FzM/FtM) Trans* மற்றும் Inter*-மக்களை ஆதரிக்கும். சேவைகள் குழு கூட்டங்கள், ஆன்லைன் விபரம் மற்றும் வளங்கள், பீர்டு-பீர் ஆலோசனை, கல்வி வளங்கள் மற்றும் பொது வெளிப்பாடுகளை உள்ளடக்கியது . அவர்கள் மேலும் Trans*-அனுபவமான மருத்துவர்கள் மற்றும் ஆலோசனை செய்யும் மருத்துவர்களின் கூட்டாதிகாரப் பட்டியலை பராமரிக்கின்றனர். அவர்களின் முதன்முதலான உரிமையாளர்கள் FzM-Trans* மற்றும் Inter* மக்களாகவே இருப்பினும், அவர்கள் குடும்பத்தையும், நண்பர்களையும், தொழில்முனைவோரையும், கல்வி நிறுவனங்களையும், மற்றும் ஊழியர்களையும் ஆதரிக்க அவர்களின் வளங்களை மற்றும் ஆதரவை நீட்டிக்கின்றனர்."
     }
-  }
+  },
+  "title": "TransMann e.V.",
+  "description": "TransMann e.V. is a voluntary, non-profit organization that provides wide-range support for all Female-to-Male (FzM/FtM) Trans* and Inter*-people across Germany. The services include group meetings, online information and resources, Peer-to-Peer counseling, educational materials and public appearances. They also maintain a nationwide database of Trans*-experienced doctors and therapists. Though their primary audience is FzM-Trans* and Inter* people, they also extend their resources and support to family members, friends, partners, educational institutions, and employers.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

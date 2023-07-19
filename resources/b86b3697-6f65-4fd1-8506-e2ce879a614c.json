@@ -3,14 +3,13 @@
   "slug": "working-it-out-tasmania",
   "externalUrl": "https://www.workingitout.org.au/",
   "tags": [
-    "non-binary",
-    "transmasculine",
-    "transfeminine",
-    "mental-health",
-    "social-services",
-    "youth-services",
     "support-groups",
-    "education-awareness"
+    "education-awareness",
+    "social-services",
+    "mental-health",
+    "youth-services",
+    "community-stories",
+    "parent-family-resources"
   ],
   "address": null,
   "phoneNumber": null,
@@ -106,5 +105,12 @@
       "title": "దానిని పనిచేయడం",
       "description": "Working It Out టాస్మానియా యొక్క లైంగికత, లింగం, మరియు అంతర్జాతిస్థితి మద్దతు మరియు విద్యా సేవ. ఇది LGBTIQ+ టాస్మేనియన్ల కోసం మద్దతు మరియు అధ్యక్ష సేవలు, శాలలు, పనిమనిషులు, ప్రభుత్వం, మరియు ప్రభుత్వ ఏకాగ్రత సంస్థలు కోసం విద్యా మరియు ప్రశిక్షణ కార్యక్రమాలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Working It Out",
+  "description": "Working It Out is Tasmania's sexuality, gender, and intersex status support and education service. It provides support and advocacy services for LGBTIQ+ Tasmanians and education and training programmes to schools, workplaces, government, and non-government organizations.",
+  "organizationType": [
+    "non-profit-organization",
+    "support-group",
+    "educational-institution"
+  ]
 }

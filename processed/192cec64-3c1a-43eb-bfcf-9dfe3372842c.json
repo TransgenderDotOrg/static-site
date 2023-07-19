@@ -5,9 +5,11 @@
   "slug": "black-rainbow",
   "externalUrl": "https://blackrainbow.org.au/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "mental-health",
-    "support-groups",
-    "community-stories",
+    "social-services",
     "education-awareness"
   ],
   "address": "Darwin NT, Australia",
@@ -26,5 +28,10 @@
     "facebook": "https://www.facebook.com/blackrainbowaus/",
     "linkedin": "https://www.linkedin.com/company/black-rainbow/",
     "youtube": "https://www.youtube.com/c/BlackRainbowAustralia"
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

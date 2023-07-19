@@ -6,9 +6,9 @@
   "externalUrl": "https://shinesa.org.au/",
   "tags": [
     "healthcare",
-    "education-awareness",
+    "sexual-health",
     "mental-health",
-    "social-services",
+    "education-awareness",
     "support-groups"
   ],
   "address": "64C Woodville Rd, Woodville SA 5011, Australia",
@@ -22,5 +22,10 @@
   ],
   "email": "info@shinesa.org.au",
   "socialMedia": null,
-  "county": "Charles Sturt"
+  "county": "Charles Sturt",
+  "organizationType": [
+    "healthcare-provider",
+    "educational-institution",
+    "non-profit-organization"
+  ]
 }

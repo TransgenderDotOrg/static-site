@@ -3,9 +3,12 @@
   "slug": "lambert-house",
   "externalUrl": "https://www.lamberthouse.org/",
   "tags": [
-    "mental-health",
     "youth-services",
     "support-groups",
+    "community-stories",
+    "education-awareness",
+    "legal",
+    "mental-health",
     "social-services"
   ],
   "address": "1818 15th Ave E, Seattle, WA 98122, USA",
@@ -105,5 +108,11 @@
       "title": "లాంబెర్ట్ హౌస్",
       "description": "లాంబెర్ట్ హౌస్ సదరుపోకహా, గేయబుద్ధి, బైసెక్షువాలు, ట్రాన్స్జెండర్ మరియు ప్రశ్నాత్మక యౌవనాన్ని నాయకత్వ, సామాజిక మరియు జీవిత నైపుణ్యాల అభివృద్ధి ద్వారా ప్రేరణా చేస్తుంది. ఇది LGBTQ యౌవన పరిమాణం 10-22 వయస్సుకు సురక్షిత స్థలం, ప్రతి సంవత్సరం మరియు ముందుముందుగా జరిగే 30 కంటే ఎక్కువ కార్యక్రమాలు, క్రియాకలాపాలు, సంపదాలు మరియు సేవలు అందిస్తుంది. యౌవనులు మాత్రమే కాకుండా ఒరింటర్ నుండి నేర్చుకునే దీని మద్దతు వాతావరణం యోగ్యంగా ఉంటుంది."
     }
-  }
+  },
+  "title": "Lambert House",
+  "description": "Lambert House empowers lesbian, gay, bisexual, transgender, and questioning youth through the development of leadership, social, and life skills. This is a safe space for LGBTQ youth ages 10-22, offering over 30 different annual and ongoing programs, activities, resources, and services. Its supportive environment is suitable for youths to connect and learn from each other.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

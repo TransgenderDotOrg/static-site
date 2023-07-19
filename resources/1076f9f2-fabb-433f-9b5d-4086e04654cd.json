@@ -4,7 +4,10 @@
   "externalUrl": "https://www.lavenderrightsproject.org/",
   "tags": [
     "legal",
-    "social-services"
+    "housing",
+    "social-services",
+    "community-stories",
+    "education-awareness"
   ],
   "address": "911 E Pike St #314, Seattle, WA 98122, USA",
   "phoneNumber": "(206) 639-7955",
@@ -103,5 +106,11 @@
       "title": "லாவண்டர் உரிமைகள் திட்டம்",
       "description": "மொத்தநோக்கு சட்டவிதிகள் மற்றும் சமாஜ சேவைகள் வழியாக கருப்பு முக்கிய ஆண்டு மற்றும் பாலின மாற்று சமுதாயத்தின் வலிமையை, முக்கிய ஆற்றலை மற்றும் தலைமையை உயர்த்துகின்றது லாவண்டர் உரிமைகள் திட்டம். இது குறிப்பாக கருப்பு மாறுபாலிகள் சமுதாயத்தை ஆதரிக்கும், முழுமையான பராமரிப்பு, சட்ட சேவைகள் மற்றும் LGBTQ + நேபாளிகளுக்கு வாழ்க்கை மேம்படுத்தும் கொள்கை மற்றும் சமாஜ மாற்றத்தை ஆதரிக்கும் சட்ட சேவைகள். "
     }
-  }
+  },
+  "title": "Lavender Rights Project",
+  "description": "Lavender Rights Project elevates the power, autonomy, and leadership of the Black intersex & gender diverse community through intersectional legal and social services. It provides life-saving policy and social change advocacy, comprehensive care, and legal services to LGBTQ+ individuals, with a particular emphasis on supporting Black trans communities.",
+  "organizationType": [
+    "non-profit-organization",
+    "legal-service"
+  ]
 }

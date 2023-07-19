@@ -6,10 +6,11 @@
   "externalUrl": "https://www.theshedsupport.org.au/",
   "tags": [
     "transmasculine",
-    "mental-health",
+    "non-binary",
     "support-groups",
-    "healthcare",
-    "social-services"
+    "mental-health",
+    "community-stories",
+    "education-awareness"
   ],
   "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
   "phoneNumber": null,
@@ -22,5 +23,10 @@
     144.9730678
   ],
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "support-group",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

@@ -4,10 +4,13 @@
   "externalUrl": "https://diyhrt.cafe",
   "tags": [
     "transfeminine",
-    "non-binary",
     "transmasculine",
+    "non-binary",
     "healthcare",
-    "education-awareness"
+    "legal",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "online-platform"
   ],
   "i18n": {
     "en-US": {
@@ -94,5 +97,11 @@
       "title": "DIYHRT.cafe",
       "description": "தன்னையே செயலாக்கும் ஹார்மோன் மாற்று சிகிச்சை (HRT) ஆர்வத்தை வைத்திருக்கும் நபர்களுக்கான அறிவு மையமாக உள்ள மிகுந்த ஆன்லைன் சமூகம். அவர்களின் இணையத்தளம் தனியார செயலாக்கும் HRT க்கு தகவல்களை, வளங்களை, ஆதரவை அணுகுவது என்பது எங்கும் பாதுகாப்பான மற்றும் சேர்ந்து வாழ்வது என்பது என்று ஈர்த்தெழுதுகிறது. நீங்கள் மாற்று முறைகளை ஆராய்கிறீர்களா, மதிப்பீடு மற்றும் செயல்பாட்டில் வழிகாட்டுதலை தேடுகிறீர்களா, அல்லது ஒரே அனுபவத்தை பகிர்ந்து கொண்ட பிறருடன் தொடர்பு கொள்ள விரும்புகிறீர்களா, DIYHRT.cafe உங்கள் ஆரோக்கியம் மற்றும் நலன் பற்றிய அறிவியல் ஆக்கப்பட்ட முடிவுகளை எடுக்க உதவும் மிகுந்த முக்கியத்துவமுள்ள ஞாலங்களை, தனிப்பட்ட கதைகளை மற்றும் வல்லுநர் ஆலோசனைகளை வழங்குகிறது."
     }
-  }
+  },
+  "title": "DIYHRT.cafe",
+  "description": "A vibrant online community and hub of knowledge for individuals interested in do-it-yourself hormone replacement therapy (HRT). Their website is dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. Whether you are exploring alternative methods, seeking guidance on dosage and administration, or simply looking to connect with others who share similar experiences, DIYHRT.cafe offers a wealth of valuable insights, personal stories, and expert advice to help you make informed decisions about your health and well-being.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

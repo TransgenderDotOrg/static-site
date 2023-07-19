@@ -3,6 +3,9 @@
   "slug": "transvoicelessons",
   "externalUrl": "https://www.transvoicelessons.com/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "voice-training"
   ],
   "address": null,
@@ -109,5 +112,10 @@
       "title": "TransVoiceLessons",
       "description": "TransVoiceLessons ట్రాన్స్జెండర్ మరియు నాన్-బైనరీ వ్యక్తులకు మరింత పురుషవంతమైన, స్త్రీవంతమైన, లేదా ఆండ్రోజనె౗స్ అని అనిపించడానికి గురించిన గుణవంతమైన స్వర నియంత్రణ మరియు విమోచన సేవలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "TransVoiceLessons",
+  "description": "TransVoiceLessons offers quality voice control and liberation services for transgender and non-binary individuals aiming to sound more masculine, feminine, or androgynous.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

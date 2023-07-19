@@ -3,19 +3,16 @@
   "slug": "national-center-for-transgender-equality",
   "externalUrl": "https://transequality.org",
   "tags": [
-    "transmasculine",
     "non-binary",
-    "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
-    "social-services",
+    "education-awareness",
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "partner-resources",
-    "education-awareness",
-    "financial-aid-scholarships"
+    "community-stories",
+    "mental-health",
+    "social-services"
   ],
   "address": "1032 15th St NW #199, Washington, DC 20005, USA",
   "phoneNumber": "(202) 642-4542",
@@ -116,5 +113,11 @@
       "title": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం",
       "description": "జాతీయ ట్రాన్స్ జెండర్ సమత్వ కేంద్రం అనేది ట్రాన్స్ జెండర్ వ్యక్తులకు అర్ధంచేసుకునే మరియు అంగీకరించే విధంగా సమాజ దృష్టాంతాలను మరియు విధానాలను మార్చడానికి ప్రచారణ చేయు సంస్థ . NCTE ముప్పు (ఏజింగ్), వైలెంస్ వ్యతిరేకత, ఉద్యోగం, కుటుంబాలు, కుల (హెల్త్ & హివ్), ఇంటి కౌటుంబికత (హౌసింగ్ & బెత్తలకు లేనివారు), మరియు మరియు మరిన్ని ప్రశ్నల గురించి సమాచారం అందిస్తుంది."
     }
-  }
+  },
+  "title": "National Center for Transgender Equality",
+  "description": "The National Center for Transgender Equality is an organization advocating to change policies and societal attitudes for increased understanding and acceptance of transgender people. The NCTE provides information about issues affecting the Transgender community including aging, anti-violence, employment, families, health & HIV, housing & homelessness, and more.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

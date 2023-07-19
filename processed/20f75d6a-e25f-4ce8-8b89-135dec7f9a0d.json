@@ -22,5 +22,9 @@
     "facebookUrl": "https://www.facebook.com/humanrightscampaign",
     "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
     "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

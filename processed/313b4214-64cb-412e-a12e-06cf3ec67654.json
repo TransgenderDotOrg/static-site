@@ -5,12 +5,11 @@
   "slug": "open-doors-youth-service",
   "externalUrl": "https://www.opendoors.net.au/",
   "tags": [
-    "mental-health",
-    "social-services",
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "education-awareness"
+    "education-awareness",
+    "mental-health"
   ],
   "address": null,
   "phoneNumber": null,
@@ -22,5 +21,10 @@
   "email": null,
   "socialMedia": {
     "instagramUrl": "https://www.instagram.com/opendoorsyouthservice/"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "educational-institution"
+  ]
 }

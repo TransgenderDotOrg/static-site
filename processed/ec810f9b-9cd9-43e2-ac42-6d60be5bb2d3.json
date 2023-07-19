@@ -6,7 +6,6 @@
   "externalUrl": "https://rainbowcntr.org/",
   "tags": [
     "education-awareness",
-    "support-groups",
     "social-services"
   ],
   "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
@@ -20,5 +19,9 @@
     -122.4354485
   ],
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

@@ -3,11 +3,11 @@
   "slug": "rainbowrailroadorg",
   "externalUrl": "https://RainbowRailroad.org",
   "tags": [
-    "transfeminine",
     "non-binary",
-    "transmasculine",
     "legal",
-    "social-services"
+    "social-services",
+    "support-groups",
+    "education-awareness"
   ],
   "i18n": {
     "en-US": {
@@ -94,5 +94,10 @@
       "title": "RainbowRailroad.org",
       "description": "உலகெங்கும் முற்றுகேடு மற்றும் வன்முறைக்கு இருக்கும் LGBTQ+ நிறுவனங்களுக்கு உதவி மற்றும் சார்ந்தோர் என்பவர்களை தனிப்பட்ட மின்னணு மேடையாக அமைந்துள்ளது. தனக்குள் நிறுத்தாமையான முழுமையுடன், இந்த வலைத்தளம் உடனடியாக ஆபத்தில் இருக்கும் ஆதாரங்களுக்கு, அவர்களைத் தொடர்கதைக்கு இணைக்கின்றது, அவர்களுக்கு அவர்கள் மேற்பாடு அவர்களை அப்பத்தியிலிருந்து மேலே ஏற்றுவைக்கும் வழிமுறைகள் மற்றும் ஆதாரத் துணையை வழங்குவதாகக் கொண்டிருந்தால். உள்ளூர் நிறுவனங்களுடன் கூட்டுப்பாடுகள் மற்றும் ஏகப்பட்ட ஆதரவுள்ள வலையமைப்புகளுக்கு மூலம், RainbowRailroad.org துண்டுதடுமாறு முழுமைப்படுத்திய ஆலோசனையை, சட்டப்பேரவையை, மற்றும் மாற்று ஆதரவை வழங்குகிறது, இப்படியே ஆதாரங்களுக்கு முற்றுகேடு என்பனை விட்டு முதன்முதலில் செலுத்த வேண்டியவர்களுக்குக் காவலனாக செல்வதாகக் இருக்கும். RainbowRailroad.org முக்கியமாகக் கொண்டிருப்பது மனித உரிமைகளை, வாழ்க்கையை காப்பாற்றுவதை, மற்றும் இன்னும் ஆக்கப்பொருளான உலகை வழங்குவதை, ஆகியே சேர்ந்துகொண்டுள்ளது பொறுப்பாகக் கொண்டிருப்பது, முதிரை மக்களுக்கு அரசியலும் மற்றும் சுதந்திரத்தைக் கேட்டுவார்."
     }
-  }
+  },
+  "title": "RainbowRailroad.org",
+  "description": "A vital online platform dedicated to assisting and advocating for LGBTQ+ individuals who are facing persecution and violence worldwide. With unwavering commitment, the website connects those in immediate danger to life-saving resources, emergency assistance, and secure pathways to safety. Through partnerships with local organizations and a network of compassionate supporters, RainbowRailroad.org works tirelessly to provide advocacy, legal aid, and relocation support, enabling individuals to escape persecution and find refuge. By championing human rights, saving lives, and fostering a more inclusive world, RainbowRailroad.org serves as a beacon of hope and protection for LGBTQ+ individuals seeking safety and freedom.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

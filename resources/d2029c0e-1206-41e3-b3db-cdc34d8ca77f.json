@@ -3,12 +3,7 @@
   "slug": "refuge-restrooms",
   "externalUrl": "https://www.refugerestrooms.org/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
-    "legal",
-    "healthcare",
-    "support-groups"
+    "friendly-businesses"
   ],
   "address": null,
   "phoneNumber": null,
@@ -107,5 +102,11 @@
       "title": "রেফিউজ রেস্টরুম",
       "description": "রেফিউজ রেস্টরুম একটি ওয়েব অ্যাপ্লিকেশন যা ট্রান্সজেন্ডার, ইন্টারসেক্স, এবং লিঙ্গ অননুসারী ব্যক্তিদের জন্য নিরাপদ রেস্টরুম প্রবেশ প্রদান করার চেষ্টা করে। ব্যবহারকারীরা একটি অনুসন্ধান অবস্থানের কাছাকাছি রেস্টরুম অনুসন্ধান করতে, নতুন রেস্টরুম তালিকা যোগ করতে, এবং বিদ্যমান তালিকাগুলিতে মন্তব্য এবং রেট করতে পারে।"
     }
-  }
+  },
+  "title": "Refuge Restrooms",
+  "description": "Refuge Restrooms is a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals. Users can search for restrooms by proximity to a search location, add new restroom listings, as well as comment and rate existing listings.",
+  "organizationType": [
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

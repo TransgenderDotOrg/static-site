@@ -3,8 +3,12 @@
   "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
   "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "healthcare",
-    "education-awareness"
+    "mental-health",
+    "educational-institution"
   ],
   "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
   "phoneNumber": "+31(0)20 444 0542",
@@ -106,5 +110,11 @@
       "title": "ఆమ్స్టెర్డమ్ UMC - జెండర్ డిస్ఫోరియా కోసం నలెడ్జ్ మరియు కేర్ సెంటర్",
       "description": "ఆమ్స్టెర్డమ్ UMC యొక్క జెండర్ డిస్ఫోరియా కోసం జ్ఞాన మరియు కేర్ సెంటర్ వారి పుట్టిన జెండర్ తమ గుర్తింపుతో సరిపోలడానికి అనిపిస్తున్న ప్రజలకు వైద్య చికిత్సను మరియు మానసిక మద్దతును అందించడానికి ప్రత్యేకించి ఉంది. ఆ సెంటర్ వ్యక్తిగత వైవిధ్యాన్ని ఆశ్రయిస్తుంది, వ్యక్తిగత అవసరాలకు దీని సేవలను అనుగుణంగా సర్దుబాటు చేస్తుంది, మరియు జెండర్ అసమంజసాన్ని చికిత్సించడానికి దీని నిపుణతను అంతర్జాతీయంగా గుర్తించబడుతుంది. అదేపుడు, ట్రాన్స్జెండర్ వ్యక్తుల అర్ధాన్ని మరియు చికిత్సను మెరుగుపరచడానికి అందుబాటులో ఉంది మరియు క్రొత్త ఆరోగ్య ప్రౌఢీకరణ ప్రాధాన్యతలకు శిక్షణను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Amsterdam UMC - Kennis- en Zorgcentrum Genderdysforie",
+  "description": "The Knowledge and Care Center for Gender Dysphoria at Amsterdam UMC specializes in providing medical treatment and psychological support to people who feel their birth gender does not match their identity. The center embraces individual diversity, tailors its services to personal needs, and is recognized internationally for its expertise in treating gender incongruence. It also undertakes research to improve understanding and treatment of transgender individuals and offers training to new healthcare professionals.",
+  "organizationType": [
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

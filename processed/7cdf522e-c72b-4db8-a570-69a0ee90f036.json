@@ -5,10 +5,11 @@
   "slug": "centerlink-the-community-of-lgbtq-centers",
   "externalUrl": "https://www.lgbtqcenters.org",
   "tags": [
-    "mental-health",
-    "support-groups",
+    "healthcare",
     "community-stories",
-    "education-awareness"
+    "education-awareness",
+    "support-groups",
+    "youth-services"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +19,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

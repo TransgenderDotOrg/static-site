@@ -5,10 +5,12 @@
   "slug": "boston-alliance-of-lgbtq-youth-bagly",
   "externalUrl": "https://www.bagly.org/",
   "tags": [
-    "youth-services",
     "healthcare",
     "mental-health",
-    "social-services"
+    "youth-services",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
   ],
   "address": "28 Court Square, Boston, MA 02108, USA",
   "phoneNumber": "(617) 227-4313",
@@ -23,5 +25,9 @@
   "email": "mmccarron@bagly.org",
   "socialMedia": {
     "googleMapsUrl": "https://goo.gl/maps/DPY9vJjF5Tvf2mLj8"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

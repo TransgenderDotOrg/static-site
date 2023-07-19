@@ -6,8 +6,11 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "parent-family-resources",
+    "healthcare",
+    "mental-health",
+    "youth-services",
     "support-groups",
+    "parent-family-resources",
     "education-awareness"
   ],
   "email": null,
@@ -99,5 +102,12 @@
       "title": "عائلات المتحولين جنسيا",
       "description": "تلهم عائلات المتحولين جنسيا الأمل، وتزيد من التفهم، وتخلق مسارًا واضحًا لدعم الأطفال المتحولين جنسيا والذين يعانون من تنوع الجنس وكل من يلمس حياتهم. نحن نقدم الموارد، وننظم الأحداؤ، ونربط العائلات بجماعات الدعم."
     }
-  }
+  },
+  "title": "Trans Families",
+  "description": "Trans Families inspires hope, increases understanding, and creates a visible pathway to support trans and gender diverse children and all those who touch their lives. We provide resources, organize events, and connect families to support groups.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform",
+    "support-group"
+  ]
 }

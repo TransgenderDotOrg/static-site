@@ -6,6 +6,7 @@
     "healthcare",
     "mental-health",
     "youth-services",
+    "parent-family-resources",
     "education-awareness"
   ],
   "address": "Perkins Square, Akron, OH 44302, USA",
@@ -105,5 +106,11 @@
       "title": "பாலின் உறுதியை வலிமைப்படுத்தும் மையம்",
       "description": "Akron குழந்தைகள் மருத்துவமனை சுழற்சி மருத்துவ துறைக்குக் கீழ் பாலின் உறுதியை வலிமைப்படுத்தும் மையத்தை வழங்குகிறது. இது மாற்றுப் பாலியாகியவர்கள் மற்றும் LGBTQ+ இளைஞர்களுக்கு சேவை செய்கின்றது, விவபாதத்துவ வாழ்க்கை மருத்துவர்கள், சமூக ஊழியர்கள், உளவியலாளர்கள் மற்றும் எண்டோகிரினியலர்களின் குழுவை வழங்குகிறது. இந்த மையம் மருத்துவம் மற்றும் மன நலன் ஆதரவை வழங்கி, பால் வசதியோடு இளைஞர்கள் தங்கள் பால் அடையாளத்தை ஆராயலாம் என்ற சூழலை உருவாக்குகிறது. வழங்கப்படும் சேவைகள் அடங்க வயதாரிப்பை தடுக்கும், பால் உறுதிப்படுத்தும் ஹார்மோன்கள், மன நல பணிகளின் ஒத்திவைப்பு, நலன்சண்டை /தடுத்தற் மேம்பாடுகள் மற்றும் கல்வி/ஆதரவு பராமரிப்பு."
     }
-  }
+  },
+  "title": "Center for Gender Affirming Medicine",
+  "description": "Akron Children's Hospital offers the Center for Gender Affirming Medicine under its Adolescent Medicine department. It caters to transgender and LGBTQ+ youth, providing a team of specialist physicians, social workers, psychologists, and an endocrinologist. The center offers medical and mental health support to create a gender-diverse environment where youth can explore their gender identity. Services provided include pubertal suppression, gender-affirming hormones, mental health care coordination, well checks/preventive visits and education/supportive care.",
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

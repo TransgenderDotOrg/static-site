@@ -5,8 +5,12 @@
   "slug": "amsterdam-umc-kennis-en-zorgcentrum-genderdysforie",
   "externalUrl": "https://www.amc.nl/web/specialismen/genderdysforie.htm",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "healthcare",
-    "education-awareness"
+    "mental-health",
+    "educational-institution"
   ],
   "address": "De Boelelaan 1117, 1081 HV Amsterdam, Netherlands",
   "phoneNumber": "+31(0)20 444 0542",
@@ -22,5 +26,9 @@
   "socialMedia": {
     "instagramUrl": "https://www.instagram.com/genderteam_amsterdamumc"
   },
-  "town": "Amsterdam-Zuid"
+  "town": "Amsterdam-Zuid",
+  "organizationType": [
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

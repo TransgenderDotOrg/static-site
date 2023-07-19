@@ -5,9 +5,9 @@
   "slug": "pronoun-dressing-room",
   "externalUrl": "http://www.pronouns.failedslacker.com/",
   "tags": [
-    "non-binary",
     "transmasculine",
     "transfeminine",
+    "non-binary",
     "education-awareness"
   ],
   "address": null,
@@ -18,5 +18,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform"
+  ]
 }

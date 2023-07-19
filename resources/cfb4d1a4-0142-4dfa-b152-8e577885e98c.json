@@ -3,10 +3,14 @@
   "slug": "blaq-aboriginal-corporation",
   "externalUrl": "https://blaq.org.au/",
   "tags": [
-    "community-stories",
-    "education-awareness",
+    "legal",
+    "healthcare",
+    "mental-health",
     "social-services",
-    "support-groups"
+    "youth-services",
+    "support-groups",
+    "education-awareness",
+    "community-stories"
   ],
   "address": "Redfern NSW 2016, Australia",
   "phoneNumber": null,
@@ -105,5 +109,11 @@
       "title": "BlaQ అభోరిజినల్ సంస్థ",
       "description": "BlaQ అభోరిజినల్ కార్పోరేషన్ అనేది ఒక కమ్యూనిటీ సంస్థ జో ఇనోవేషన్, ఇన్క్లూషన్, అర్థం చేసుకోవడం మరియు మార్గదర్శక ద్వారా అభోరిజినల్ మరియు టోరేస్ స్ట్రేట్ ఐలాండర్ LGBTQ+SB సముదాయాన్ని మద్దతు చేయడానికి మరియు ప్రతిపదీరించడానికి మీడ పడుది."
     }
-  }
+  },
+  "title": "BlaQ Aboriginal Corporation",
+  "description": "BlaQ Aboriginal Corporation is a community organisation dedicated to supporting and empowering the Aboriginal and Torres Strait Islander LGBTQ+SB community through innovation, inclusion, understanding and advocacy.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

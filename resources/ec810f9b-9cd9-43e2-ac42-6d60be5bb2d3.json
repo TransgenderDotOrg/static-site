@@ -4,7 +4,6 @@
   "externalUrl": "https://rainbowcntr.org/",
   "tags": [
     "education-awareness",
-    "support-groups",
     "social-services"
   ],
   "address": "2215 Pacific Ave, Tacoma, WA 98402, USA",
@@ -104,5 +103,11 @@
       "title": "రెయిన్బో సేంటర్",
       "description": "రెయిన్బో సేంటర్ విద్యా, అభిరాధన, మరియు ఆనందోల్లాసం ద్వారా LGBTQ2SA సముదాయానికి సంపదాన్ని మరియు భద్రతను పెంచేందుకు ప్రయత్నిస్తుంది. దాంతో పాటు ఇది కోస్ట్ సాలిష్ భూమిపై జరుగుతున్న సంఘటనలను మరియు అందులోని సంస్కృతి ప్రామాణ్యాన్ని మరియు చరిత్రను గుర్తిస్తోంది."
     }
-  }
+  },
+  "title": "Rainbow Center",
+  "description": "Rainbow Center aims to boost the resources and safety of the LGBTQ2SA community through education, advocacy, and celebration. It also acknowledges the events taking place on Coast Salish land and the cultural significance and history it holds.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

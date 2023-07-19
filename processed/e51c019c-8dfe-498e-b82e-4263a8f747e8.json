@@ -4,7 +4,12 @@
   "description": "Florida's largest LGBTQ advocacy organization working towards safe and healthy schools, LGBTQ health equity, HIV advocacy, LGBTQ protections and more. The organization holds various events and has secured pro-equality supports, contributing towards transgender health care grants.",
   "slug": "equality-florida",
   "externalUrl": "https://www.eqfl.org/",
-  "tags": ["legal", "healthcare", "education-awareness"],
+  "tags": [
+    "legal",
+    "healthcare",
+    "education-awareness",
+    "non-profit-organization"
+  ],
   "address": null,
   "country": "US",
   "provinceOrState": "FL",
@@ -23,5 +28,8 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

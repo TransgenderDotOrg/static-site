@@ -5,7 +5,10 @@
   "tags": [
     "legal",
     "healthcare",
-    "education-awareness"
+    "education-awareness",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
   ],
   "address": "1905 15th St #1097, Boulder, CO 80302, USA",
   "email": null,
@@ -114,5 +117,11 @@
       "title": "Movement Advancement Project",
       "description": "மூவ்மெண்ட் அத்வான்மென்ட் ப்ரொஜெக்ட் (MAP) ஒரு சுய மையமான, முக்கியமற்ற ஆலோசனை மேலாண்மை நிறுவனமாகும். அது கடுமையான ஆராய்ச்சி, உண்மை, தொலைத்தொடர்பு மற்றும் அனைவருக்கும் சமமான வாய்ப்புகளை அதிவேகமாக ஏற்படுத்தும் உதவியை வழங்குகிறது. MAP உடல்நலம் மற்றும் மகிழ்ச்சியைப் பின்தொடர்புகொள்ள, வாழ்க்கையை வளர்க்க, அவர்கள் விரும்பும் அனைத்து ஆதரவை பெற காத்திருப்பவர்களை பராமரிக்க, அவர்கள் சமுதாயத்தில் பாதுகாப்பாக இருக்க, நாடாளுமன்ற வாழ்க்கையில் பங்கேற்க வேண்டிய அனைத்து மக்களையும் உறுதி செய்யும் பணியில் ஈடுபத்துகிறது."
     }
-  }
+  },
+  "title": "Movement Advancement Project",
+  "description": "The Movement Advancement Project (MAP) is an independent, nonprofit think tank that provides rigorous research, insight, and communications that help speed equality and opportunity for all. MAP works to ensure that all people have a fair chance to pursue health and happiness, earn a living, take care of the ones they love, be safe in their communities, and participate in civic life.",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

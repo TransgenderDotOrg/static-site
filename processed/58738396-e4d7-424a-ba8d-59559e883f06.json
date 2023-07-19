@@ -3,12 +3,13 @@
   "slug": "strandsfortransorg",
   "externalUrl": "https://strandsfortrans.org",
   "tags": [
-    "transfeminine",
-    "non-binary",
-    "transmasculine",
     "friendly-businesses",
-    "makeup"
+    "community-stories"
   ],
   "title": "strandsfortrans.org",
-  "description": "Strands For Trans is a global network of hair, beauty, and wellness industries and organizations that seek to create and inspire safe and positive experiences for all guests, especially guests from the trans community."
+  "description": "Strands For Trans is a global network of hair, beauty, and wellness industries and organizations that seek to create and inspire safe and positive experiences for all guests, especially guests from the trans community.",
+  "organizationType": [
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

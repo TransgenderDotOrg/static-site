@@ -4,8 +4,8 @@
   "externalUrl": "https://transfemscience.org",
   "tags": [
     "transfeminine",
-    "non-binary",
-    "healthcare"
+    "healthcare",
+    "education-awareness"
   ],
   "i18n": {
     "en-US": {
@@ -92,5 +92,10 @@
       "title": "transfemscience.org",
       "description": "பனிமின்மட்டும் மற்றும் அவிசெயல்பாட்டு சமுதாயத்துக்கான ஆதாரமான ஆய்வு, கல்வி மற்றும் வளங்களை வழங்குவதற்க்கு சித்தார்த்த முளவிய ஆன்லைன் மேடை, தனிப்பட்டும் பெண்ணாக்கும் ஹார்மோன் சிகிச்சை (FHT) மேல் சிப்பனுள்ளது. அவரது வலைத்தளம் FHTயின் மருத்துவ, உடல்நல, மற்றும் உளவியல் தகவல்களுக்கான விழாய்மான மையமாக சேவை செய்கிறது. அவரது நண்பர் மதிப்பியல் ஆய்வுகள், அறிஞர் கட்டுரைகள், மற்றும் நடப்பு வழிகாட்டிகளின் விரிவான சேகரிப்புமூலம், அவரது தளம் தன்னார்வலர்ச்சி மற்றும் ஆரோக்கியத்தை குறித்த அறிவுறுத்தப்பட்ட முடிவுகளையேற்பதற்கு மக்களை அதிகாரப்படுத்துகிறது."
     }
-  }
+  },
+  "title": "transfemscience.org",
+  "description": "A groundbreaking online platform dedicated to providing evidence-based research, education, and resources for the transgender and non-binary community, with a particular focus on feminizing hormone therapy (FHT). Their website serves as a vital hub for individuals seeking reliable and up-to-date information on the medical, physiological, and psychological aspects of FHT. Through their comprehensive collection of peer-reviewed studies, expert articles, and practical guides, their site empowers individuals to make informed decisions about their transition and health.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

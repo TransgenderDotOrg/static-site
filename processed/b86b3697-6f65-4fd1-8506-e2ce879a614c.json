@@ -5,14 +5,13 @@
   "slug": "working-it-out-tasmania",
   "externalUrl": "https://www.workingitout.org.au/",
   "tags": [
-    "non-binary",
-    "transmasculine",
-    "transfeminine",
-    "mental-health",
-    "social-services",
-    "youth-services",
     "support-groups",
-    "education-awareness"
+    "education-awareness",
+    "social-services",
+    "mental-health",
+    "youth-services",
+    "community-stories",
+    "parent-family-resources"
   ],
   "address": null,
   "phoneNumber": null,
@@ -22,5 +21,10 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "support-group",
+    "educational-institution"
+  ]
 }

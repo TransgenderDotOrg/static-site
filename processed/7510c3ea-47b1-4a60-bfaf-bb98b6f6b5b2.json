@@ -5,7 +5,9 @@
   "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
   "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
   "tags": [
-    "legal"
+    "legal",
+    "education-awareness",
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -15,5 +17,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

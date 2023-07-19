@@ -6,9 +6,9 @@
   "externalUrl": "https://allentownwomenscenter.com/",
   "tags": [
     "healthcare",
-    "transfeminine",
-    "transmasculine",
-    "non-binary"
+    "legal",
+    "mental-health",
+    "education-awareness"
   ],
   "address": "31 S Commerce Way #100, Bethlehem, PA 18017, USA",
   "phoneNumber": "(484) 821-0821",
@@ -21,5 +21,9 @@
     -75.37561989999999
   ],
   "email": null,
-  "socialMedia": {}
+  "socialMedia": {},
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

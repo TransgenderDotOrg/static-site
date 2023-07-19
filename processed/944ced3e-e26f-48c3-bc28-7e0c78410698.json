@@ -6,6 +6,7 @@
   "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
   "tags": [
     "legal",
+    "healthcare",
     "education-awareness"
   ],
   "phoneNumber": null,
@@ -16,5 +17,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

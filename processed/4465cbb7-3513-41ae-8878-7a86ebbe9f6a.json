@@ -5,14 +5,13 @@
   "slug": "gender-dynamix-online-education-portal",
   "externalUrl": "https://www.genderdynamix.org.za/",
   "tags": [
-    "transfeminine",
     "transmasculine",
     "non-binary",
+    "transfeminine",
     "legal",
     "healthcare",
     "education-awareness",
-    "support-groups",
-    "community-stories"
+    "non-profit-organization"
   ],
   "address": "7, 10 Anson St, Observatory, Cape Town, 7925, South Africa",
   "phoneNumber": "+27 (0)21 447 4797",
@@ -26,5 +25,10 @@
   ],
   "email": "info@genderdynamix.org.za",
   "socialMedia": null,
-  "town": "Observatory"
+  "town": "Observatory",
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

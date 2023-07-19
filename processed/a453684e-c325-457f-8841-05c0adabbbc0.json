@@ -5,9 +5,9 @@
   "slug": "the-trevor-project",
   "externalUrl": "https://www.thetrevorproject.org/",
   "tags": [
+    "mental-health",
     "youth-services",
     "support-groups",
-    "mental-health",
     "education-awareness"
   ],
   "address": "West Hollywood, CA 90069, USA",
@@ -17,7 +17,10 @@
   "provinceOrState": "CA",
   "city": "West Hollywood",
   "county": "Los Angeles County",
-  "latLng": [34.0931603, -118.3783347],
+  "latLng": [
+    34.0931603,
+    -118.3783347
+  ],
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null,
@@ -28,5 +31,10 @@
     "tiktokUrl": "https://www.tiktok.com/@trevorproject",
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

@@ -3,7 +3,9 @@
   "slug": "mapping-attacks-on-lgbtq-rights-in-u.s.-state-legislatures",
   "externalUrl": "https://www.aclu.org/legislative-attacks-on-lgbtq-rights",
   "tags": [
-    "legal"
+    "legal",
+    "education-awareness",
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -99,5 +101,11 @@
       "title": "యు.ఎస్. రాష్ట్ర నితికర్తల మీద ఎల్జిబిటిక్యు హక్కుల మీద దాడులను మ్యాపింగ్ చేస్తోంది",
       "description": "గత కొద్ది ఏళ్లలో రాష్టాలు ఎల్జిబిటిక్యు హక్కుల మీద దాడి చేసే రికార్డు సంఖ్యలో బిల్లులను ప్రగతి చేసాయి, ప్రత్యేకంగా ట్రాన్స్‌జెండర్ యౌవనాలను. దీన్ని గమనించి, ఏసియుయులు ఇవి దాడులను ట్రాక్ చేస్తోంది మరియు మన జాతీయ నెట్‌వర్క్ లో సహకారీ అంశాల మద్దతు అందిస్తోంది. ప్రతి ఏడాది మరిన్ని రాష్ట్రాలు ఎల్జిబిటిక్యు ప్రజలను రక్షించే చట్టాలను తీసుకోవాలనే పని చేస్తూ, రాష్ట్ర నితికర్తలు ట్రాన్స్‌జెండర్ ప్రజలను లక్ష్యం పెట్టి, స్థానిక రక్షణలు పరిమితించేలా మరియు మతం ఉపయోగించి భేదభావం చేయేలా బిల్లులను ప్రగతి చేస్తోంది. ఏస్సీయుయు ఈ క్రూర దాడులకు దేశవ్యాప్తంగా వ్యాఖ్యానించడం ఆపకుండా ఉంటుంది."
     }
-  }
+  },
+  "title": "Mapping Attacks on LGBTQ Rights in U.S. State Legislatures",
+  "description": "In the last few years states have advanced a record number of bills that attack LGBTQ rights, especially transgender youth. The ACLU is tracking these attacks and working with our national network of affiliates to support LGBTQ people everywhere. While more states every year work to pass laws to protect LGBTQ people, state legislatures are advancing bills that target transgender people, limit local protections, and allow the use of religion to discriminate. The ACLU will not stop speaking out against these cruel attacks nationwide.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

@@ -5,9 +5,18 @@
   "slug": "gender-justice-league",
   "externalUrl": "https://www.genderjusticeleague.org/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
     "support-groups",
-    "education-awareness"
+    "parent-family-resources",
+    "education-awareness",
+    "financial-aid-scholarships"
   ],
   "address": "1122 E Pike St #969, Seattle, WA 98122, USA",
   "phoneNumber": "206-538-0423",
@@ -25,5 +34,11 @@
     "twitterUrl": "https://twitter.com/genderjusticewa",
     "instagramUrl": "https://www.instagram.com/genderjusticewa/",
     "youtubeUrl": "https://www.youtube.com/user/GenderJusticeWA"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization",
+    "local-office",
+    "legal-service"
+  ]
 }

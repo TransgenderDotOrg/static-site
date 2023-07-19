@@ -4,13 +4,21 @@
   "description": "STARTTS is a specialist, not-for-profit organisation that provides culturally relevant psychological treatment, support, and community interventions to help people and communities heal from torture and refugee trauma and rebuild their lives in Australia. They also support LGBTQIA+ individuals from refugee and asylum seeker backgrounds.",
   "slug": "nsw-service-for-the-treatment-and-rehabilitation-of-torture-and-trauma-survivors",
   "externalUrl": "https://www.startts.org.au/",
-  "tags": ["healthcare", "mental-health", "social-services"],
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
   "phoneNumber": "+61 (0)2 9646 6700",
   "country": "AU",
   "provinceOrState": "NSW",
   "city": "Carramar",
   "address": "152/168 The Horsley Dr, Carramar NSW 2163, Australia",
-  "latLng": [-33.8801011, 150.9654668],
+  "latLng": [
+    -33.8801011,
+    150.9654668
+  ],
   "email": "stts-startts@health.nsw.gov.au",
   "socialMedia": {
     "twitterUrl": "https://twitter.com/starttsNSW",
@@ -19,5 +27,9 @@
     "linkedinUrl": "https://www.linkedin.com/company/startts/",
     "youtubeUrl": "https://www.youtube.com/user/starttsvideos"
   },
-  "county": "City of Fairfield"
+  "county": "City of Fairfield",
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider"
+  ]
 }

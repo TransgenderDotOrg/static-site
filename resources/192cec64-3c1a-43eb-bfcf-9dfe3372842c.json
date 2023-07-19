@@ -3,9 +3,11 @@
   "slug": "black-rainbow",
   "externalUrl": "https://blackrainbow.org.au/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "mental-health",
-    "support-groups",
-    "community-stories",
+    "social-services",
     "education-awareness"
   ],
   "address": "Darwin NT, Australia",
@@ -110,5 +112,12 @@
       "title": "கருப்பு இரும்பு வளைவு",
       "description": "கருப்பு இரும்பு வளைவு ஒரு தேசிய ஆபோரிஜினி மற்றும் டோர்ரெஸ் ஸ்ட்ரைட் ஐஸ்லாண்டர் எல்ஜிபிகியுடியா+எஸ்பி சமூக முயற்சி தனது சமூகத்தின் ஆரோக்யம் மற்றும் நலனுக்கு முன்னோக்கி செல்கின்றது. இது அதன் சேவைகளை நிதியாதாரமில்லாமல் பகிரங்கப் பெறுதல், சேவைக்கு கட்டணம் மற்றும் கல்வி வளங்களின் விற்பனையின் மூலம் நீடிக்க முயற்சிக்கின்றது. அவர்கள் வெளியேயே சேவைகள் தொடக்க, சமூக நிகழ்வுகளை ஆதரிக்க, சமூக மேம்பாட்டுக்குக் காசுகளை சேகரிக்கவும், ஆரோக்கிய பாதிப்புகள் மீது ஆய்வுகளை மேற்கொள்ளவும் துவக்கியுள்ளன."
     }
-  }
+  },
+  "title": "Black Rainbow",
+  "description": "Black Rainbow is a national Aboriginal and Torres Strait Islander LGBQTIA+SB volunteer social enterprise focused on the health and wellbeing of their community. This strives to extend its services, despite being unfunded, through donations, fee for service and sales of educational materials. They initiate outreach projects, support social events, and gather funds for community enhancement and research on health impacts.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

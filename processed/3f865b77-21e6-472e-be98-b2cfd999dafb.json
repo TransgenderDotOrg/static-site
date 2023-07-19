@@ -4,14 +4,25 @@
   "description": "An open-minded, open-hearted spiritual community supporting people in leading lives of justice, love, learning, and hope. The community embraces diversity including the transgender community and encourages active participation in acts of justice. They also offer resources, support and advocacy for various social issues.",
   "slug": "unitarian-universalist-association",
   "externalUrl": "https://www.uua.org/",
-  "tags": ["non-binary", "support-groups", "education-awareness", "spiritual"],
+  "tags": [
+    "spiritual",
+    "education-awareness",
+    "support-groups"
+  ],
   "address": "24 Farnsworth St, Boston, MA 02210, USA",
   "phoneNumber": "(617) 742-2100",
   "country": "US",
   "provinceOrState": "MA",
   "city": "Boston",
   "county": "Suffolk County",
-  "latLng": [42.35163259999999, -71.04857050000001],
+  "latLng": [
+    42.35163259999999,
+    -71.04857050000001
+  ],
   "email": "info@uua.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

@@ -4,9 +4,10 @@
   "externalUrl": "https://www.genderconfirmation.com/",
   "tags": [
     "transmasculine",
-    "non-binary",
     "transfeminine",
-    "healthcare"
+    "non-binary",
+    "healthcare",
+    "surgeons"
   ],
   "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
   "phoneNumber": "(415) 780-1515",
@@ -105,5 +106,11 @@
       "title": "జెండర్ నిర్ధారణ సెంటర్",
       "description": "జెండర్ నిర్ధరణ సెంటర్ ట్రాన్స్ జెండర్, నాన్బైనరీ మరియు జెండర్ వివిధ సముదాయంలోని వ్యక్తులకు అనేక రకాల ప్రక్రియలు మరియు చికిత్సా ప్రణాళికల ద్వారా సమగ్ర జెండర్-అఖండిత పరిచర్యను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Gender Confirmation Center",
+  "description": "The Gender Confirmation Center provides comprehensive gender-affirming care, through multiple types of procedures and treatment plans, for the transgender, nonbinary, and gender diverse community.",
+  "organizationType": [
+    "healthcare-provider",
+    "private-practice"
+  ]
 }

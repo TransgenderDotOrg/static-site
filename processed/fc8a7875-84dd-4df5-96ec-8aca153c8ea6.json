@@ -8,12 +8,20 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "parent-family-resources",
+    "healthcare",
+    "mental-health",
+    "youth-services",
     "support-groups",
+    "parent-family-resources",
     "education-awareness"
   ],
   "email": null,
   "phoneNumber": null,
   "address": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform",
+    "support-group"
+  ]
 }

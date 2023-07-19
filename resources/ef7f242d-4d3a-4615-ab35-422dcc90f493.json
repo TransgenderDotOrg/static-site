@@ -3,6 +3,9 @@
   "slug": "the-genderaid",
   "externalUrl": "https://genderaid.org/en",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "healthcare",
     "education-awareness"
   ],
@@ -104,5 +107,13 @@
       "title": "ది జెండరేడ్",
       "description": "ది జెండరేడ్ ఒక యౌన సామర్జనీ శస్త్ర చికిత్స కోసం నిర్ణయ సహాయక పరికరము, చికిత్స ఎంపికల గురించి పూర్తి మరియు విశ్వసనీయ సమాచారాన్ని అందించడానికి ప్రయత్నిస్తుంది. ఇది డచ్ ఆరోగ్య పరిచర్య వ్యవస్థపై ఫోకస్ చేస్తుంది, WPATH మార్గసూచులను అనుసరిస్తుంది, మరియు ఇది ప్రతి భాగంలోని ట్రాన్స్జెండర్ కమ్యూనిటీ, నాన్-బైనరీ, జెండర్ఫ్లుయిడ్, మరియు జెండర్క్వీర్ వ్యక్తులకు అభివృద్ధి చేయబడింది."
     }
-  }
+  },
+  "title": "The GenderAid",
+  "description": "The GenderAid is a decision aid for genital gender surgery, aiming to provide complete and reliable information about the treatment options. It focuses on the Dutch health care system, adhering to the guidelines of the WPATH, and has been developed for all parts of the transgender community, including non-binary, genderfluid, and genderqueer individuals.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "educational-institution",
+    "non-profit-organization"
+  ]
 }

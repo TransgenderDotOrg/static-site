@@ -3,10 +3,7 @@
   "slug": "queermed-deutschland-directory",
   "externalUrl": "https://queermed-deutschland.de/",
   "tags": [
-    "healthcare",
-    "transmasculine",
-    "non-binary",
-    "transfeminine"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -107,5 +104,12 @@
       "title": "క్విర్మెడ్ జర్మనీ డైరెక్టరీ",
       "description": "క్విర్మెడ్ జర్మనీ అనేది డాక్టర్లు, చికిత్సకులు మరియు ప్రాక్టీస్‌లు జర్మనీలోని LGBTQIA+ సముదాయం మార్గదర్శించే డైరెక్టరీ. ఆరోగ్య పరిరక్షణ వ్యవస్థలో భేదభావాన్ని ఎదుర్కొనుటకు ఈ యొక్క లక్ష్యం. అన్ని వారికీ గౌరవంతో మరియు సంవేదనాత్మక ఆరోగ్య పరిరక్షణను నిమిత్తం చేస్తుంది. సముదాయంలోని వివిధ వ్యక్తులను సర్విస్ చేయడానికి అది అనామక ప్రశ్నావళిలో అనేక అదనపు ఎంపికలను జోడిస్తుంది."
     }
-  }
+  },
+  "title": "Queermed Deutschland Directory",
+  "description": "Queermed Deutschland is a directory of doctors, therapists and practices recommended by the LGBTQIA+ community, in Germany. The aim is to combat discrimination in the healthcare system, ensuring a respectful and sensitive healthcare for all. It includes various additional options in the anonymous questionnaire to cater to diverse individuals within the community.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

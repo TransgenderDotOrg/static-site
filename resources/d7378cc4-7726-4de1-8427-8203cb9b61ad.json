@@ -6,8 +6,8 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
+    "healthcare",
     "mental-health",
-    "social-services",
     "youth-services",
     "education-awareness"
   ],
@@ -118,5 +118,11 @@
       "title": "கிழக்கு பே மாறுபட்ட பாலினத்தை அடிப்படையாக ஏற்கும் & கோயில் ஆலோசனை",
       "description": "கிழக்கு பே மாறுபட்ட பாலினத்தை அடிப்படையாக ஏற்கும் & கோயில் ஆலோசனை, சார்ந்த முதுகேலை ஆன சேவைகளை உள்ளடக்கியுள்ளது: தனிப்பட்ட ஆலோசனை பெர்க்லே, CA-வில் மையக்குவியலில் இருத்தல் பாலின ஆராய்ச்சி மற்றும் மாற்றத்தின் வழியாக ஆதரவு ஆற்றல் மற்றும் அறுவை சிகிச்சைக்குரிய அறிவிப்பு கடிதங்கள் மானசிக ஆரோக்கிய வழங்குபவர்களுக்கு, மாணவர்களுக்கு, ஊழியர்களுக்கு தொழில்நுட்ப பயிற்சி. சேம் டேவிஸ மாறுபட்ட பாலினத்தின அடிப்படையில் ஏற்கனவே உள்ளவர், ஆதாரம் இல்லாத பாலினத்தை அடிப்படையாக ஏற்கும் சமூக சேவை அலுவலர் (LCSW) மாறுபட்ட பாலினத்தின அடிப்படையில் ஏற்கும், ஆதாரம் இல்லாத பாலினத்தின அடிப்படையில் ஏற்கும் பள்ளியோட்டிகள் மற்றும் பாலை மாற்றிய இளம் மருந்து ஆராய்ச்சியுக்காக பணியாற்றுவார். அவர்கள் கிழக்கு பே மானசிக ஆரோக்கிய வழங்குபவராக 16 ஆண்டுகளிலும் அதிகமான அனுபவம் உள்ளனர், இது சமூக கல்வி மற்றும் மக்கள் ஆதரவு குழு நடத்தல், LGBTQI மாநாடுகளில் சமூக கல்வி மற்றும் அலமிடா கவுன்டியில் மிகப்பெரிய தொழில்நெறிகளுக்கு மன நேரடி ஆலோசனையிடும் 9 ஆண்டுகளும் உள்ளன. அவர்கள் நீண்ட கால அவஸ்தையில் மிக அதிகமாக ஆதரிக்கப்பட்டவர்களின் பக்கத்தில் ஒரு பலமான மற்றும் மேலும் அமைத்துவைக்கும் ஆதரவாளர்."
     }
-  }
+  },
+  "title": "East Bay Trans & Queer Counseling",
+  "description": "East Bay Trans & Queer Counseling offers sliding scale services that include: Individual Therapy centrally located in Berkeley, CA Support through gender exploration and transition Recommendation letters for hormones and surgery Professional trainings for mental health providers, students, and employers. Sam Davis is a transgender, genderqueer Licensed Clinical Social Worker (LCSW) specializing in working with trans, queer, genderqueer, and gender-nonconforming teens and adults. They have 16 years of experience as a mental health provider in the East Bay, including peer support group facilitation, community education at LGBTQI conferences, and 9 years of clinical practice and crisis counseling with severely marginalized people for the County of Alameda. They are a strong and committed advocate with a long history of organizing on behalf of marginalized people.",
+  "organizationType": [
+    "healthcare-provider",
+    "private-practice"
+  ]
 }

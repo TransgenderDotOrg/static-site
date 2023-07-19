@@ -5,12 +5,9 @@
   "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
   "externalUrl": "https://transadvice.org/",
   "tags": [
-    "transmasculine",
     "non-binary",
-    "transfeminine",
-    "mental-health",
     "support-groups",
-    "community-stories",
+    "partner-resources",
     "discord-groups"
   ],
   "address": null,
@@ -24,5 +21,10 @@
   "socialMedia": {
     "twitterUrl": "https://twitter.com/transadvice",
     "tumblrUrl": "http://transadvice.tumblr.com/"
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

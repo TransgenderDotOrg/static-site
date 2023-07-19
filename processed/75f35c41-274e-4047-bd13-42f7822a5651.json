@@ -6,7 +6,12 @@
   "externalUrl": "https://www.nqttcn.com/",
   "tags": [
     "mental-health",
-    "social-services"
+    "healthcare",
+    "social-services",
+    "education-awareness",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
   ],
   "address": "Baltimore, MD 21211, USA",
   "phoneNumber": null,
@@ -22,5 +27,9 @@
     "facebookUrl": "Facebook-f",
     "twitterUrl": "Twitter",
     "instagramUrl": "Instagram"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

@@ -3,12 +3,14 @@
   "slug": "san-mateo-county-pride-center",
   "externalUrl": "https://sanmateopride.org/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
-    "healthcare",
     "mental-health",
-    "social-services"
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness",
+    "community-stories",
+    "parent-family-resources",
+    "partner-resources"
   ],
   "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
   "phoneNumber": "650-591-0133",
@@ -16,7 +18,10 @@
   "provinceOrState": "CA",
   "city": "San Mateo",
   "county": "San Mateo County",
-  "latLng": [37.5569591, -122.3189073],
+  "latLng": [
+    37.5569591,
+    -122.3189073
+  ],
   "socialMedia": {
     "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
     "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
@@ -113,5 +118,11 @@
       "title": "சான் மத்தேயோ கவுண்டி பெருமை மையம்",
       "description": "சான் மத்தேயோ கவுண்டி பெருமை மையம் ஒரு இணையான மாதிரி அமைப்பு முனையே ஒரு நிறுவனமாகும் மற்றும் LGBTQ+ சமூகத்துக்கான ஒரு கணினிப் பொருட்காட்சியாகும். எமது சமூக உறுப்பினர்களுக்கு பயிற்சி, சமூக நிகழ்வுகள், சக ஆதரவு குழுக்கள், நாள்தோறும் நிகழ்வுகள், மன சார்பரி, மற்றும் வழக்கு மேலாண்மை ஆகியவற்றை ஆதரிக்க சக்திவாய்ந்த திட்டங்கள் மற்றும் சேவைகளை வழங்குகின்றோம்."
     }
-  }
+  },
+  "title": "San Mateo County Pride Center",
+  "description": "The San Mateo County Pride Center is a collaboration model organization and one-stop shop for the LGBTQ+ community. We offer robust programs and services to support LGBTQ+ community members of all ages, including education, training, community events, peer support groups, daily programming, clinical therapy, and case management.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

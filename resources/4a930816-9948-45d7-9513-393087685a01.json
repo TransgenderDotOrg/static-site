@@ -3,10 +3,13 @@
   "slug": "trans-health-sa",
   "externalUrl": "https://www.transhealthsa.com/",
   "tags": [
-    "healthcare",
+    "transmasculine",
+    "transfeminine",
     "legal",
+    "healthcare",
     "social-services",
     "support-groups",
+    "parent-family-resources",
     "education-awareness"
   ],
   "address": null,
@@ -107,5 +110,11 @@
       "title": "ట్రాన్స్ హెల్త్ ఎస్‌ఏ",
       "description": "ట్రాన్స్ హెల్త్ ఎస్‌ఏ అనేది దక్షిణ ఆస్ట్రేలియాలోని ట్రాన్స్జెండర్ మరియు జెండర్ వివిధతల వ్యక్తుల ఆరోగ్య అవసరాలను సమర్థించే సమాచారం మరియు మద్దతు అందించే స్వయం సేవా సమూహం. దీనిలో గౌరవానికికి వైద్యుల జాబితా, మెడికల్ మరియు లీగల్ సమాచారం, మద్దతుగా ఉన్న ఏజెన్సీలు, సంస్థలు, ప్రచురణలు, సామాజిక మరియు మద్దతు గుంపులు, ట్రాన్స్జెండర్ సముదాయం సృష్టించిన వనరులను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Trans Health SA",
+  "description": "Trans Health SA is a volunteer group that exists to provide information and support for the health needs of trans and gender diverse people in South Australia. It provides lists of respectful practitioners, medical and legal information, information about supportive agencies, organizations, publications, social and support groups, and resources created by the transgender community.",
+  "organizationType": [
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

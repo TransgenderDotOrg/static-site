@@ -5,10 +5,7 @@
   "slug": "queermed-deutschland-directory",
   "externalUrl": "https://queermed-deutschland.de/",
   "tags": [
-    "healthcare",
-    "transmasculine",
-    "non-binary",
-    "transfeminine"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -23,5 +20,10 @@
     "instagramUrl": "https://instagram.com/queermeddeutschland",
     "linkedinUrl": "https://linkedin.com/company/queermeddeutschland",
     "facebookUrl": "https://facebook.com/queermeddeutschland"
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

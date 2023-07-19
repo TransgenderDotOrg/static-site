@@ -4,7 +4,7 @@
   "externalUrl": "https://transequality.org/documents",
   "tags": [
     "legal",
-    "support-groups",
+    "healthcare",
     "education-awareness"
   ],
   "address": "1032 15th St NW #199, Washington, DC 20005, USA",
@@ -106,5 +106,12 @@
       "title": "ట్రాన్స్‌జెండర్ సమానత్వ గుర్తింపు పత్రాల కేంద్రం",
       "description": "వ్యక్తులు తమ పేరు మరియు లింగాన్ని రాష్ట్ర మరియు కేంద్ర గుర్తింపు పత్రాలు మరియు రికార్డులు నవీకరించేందుకు సహాయపడే సమగ్ర వనరు. ప్రతి రాష్ట్రంలో విధాన గ్రేడ్ల పట్టికలపై సమాచారం అందిస్తుంది మరియు పాస్పోర్ట్‌లను నవీకరించడం, సోషల్ సెక్యూరిటీ రికార్డులను నవీకరించడం, సైన్య/వేటరన్ రికార్డులను నవీకరించడం మొదలైన వివిధ ప్రక్రియల కోసం దశలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "Transgender Equality ID Documents Center",
+  "description": "A comprehensive resource that helps individuals to update their name and gender on state and federal IDs and records. It provides information on policy grades for each state and steps for various processes including updating passports, social security records, military/veteran records, etc.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "government-entity"
+  ]
 }

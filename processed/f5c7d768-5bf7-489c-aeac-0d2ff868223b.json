@@ -5,10 +5,9 @@
   "slug": "transgender-youth-resource-and-advocacy-tyra-group",
   "externalUrl": "https://queery.org/services/mental-health-services/transgender-youth-resource-and-advocacy-tyra-group/",
   "tags": [
-    "transfeminine",
     "mental-health",
-    "youth-services",
-    "support-groups"
+    "support-groups",
+    "youth-services"
   ],
   "address": "615 W Wellington Ave, Chicago, IL 60657, USA",
   "phoneNumber": "(773) 935-3151",
@@ -21,5 +20,9 @@
     -87.6448942
   ],
   "email": "BaylieR@howardbrown.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

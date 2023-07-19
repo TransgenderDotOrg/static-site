@@ -6,10 +6,10 @@
   "externalUrl": "https://thorneharbour.org/",
   "tags": [
     "healthcare",
-    "support-groups",
     "mental-health",
-    "social-services",
-    "education-awareness"
+    "support-groups",
+    "education-awareness",
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -19,5 +19,10 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider",
+    "community-center"
+  ]
 }

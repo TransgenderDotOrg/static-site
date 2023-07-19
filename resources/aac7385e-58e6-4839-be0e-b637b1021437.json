@@ -3,10 +3,12 @@
   "slug": "bradbury-sullivan-lgbt-community-center",
   "externalUrl": "https://www.bradburysullivancenter.org/",
   "tags": [
+    "community-center",
     "healthcare",
+    "support-groups",
     "education-awareness",
-    "social-services",
-    "support-groups"
+    "legal",
+    "social-services"
   ],
   "address": "522 W Maple St, Allentown, PA 18101, USA",
   "phoneNumber": "(610) 347-9988",
@@ -105,5 +107,11 @@
       "title": "Bradbury-Sullivan LGBT కమ్యూనిటీ సెంటర్",
       "description": "Bradbury-Sullivan LGBT కమ్యూనిటీ సెంటర్ పెన్సిల్వేనియా లెహై వ్యాలీలో అన్ని ప్రాంతాల ఆలోచిత రాతి అభివృద్ధి, ఆకర్షణీయ స్థలాన్ని అందిస్తుంది. ఇది సముదాయ ప్రోగ్రామింగును ఆఫర్ చేస్తుంది, దాని ఆరోగ్య ప్రోగ్రాముల ద్వారా పరాహితాలకు అడ్డుకును ఎదురించడాన్ని, వార్షిక గర్వప్రత్యేక పండుగ నిర్వహణ చేస్తుంది మరియు దాని LGBTQ+ ఎన్నిక సంస్థ ద్వారా సమతులత పెంచడానికి పనిచేస్తుంది."
     }
-  }
+  },
+  "title": "Bradbury-Sullivan LGBT Community Center",
+  "description": "Bradbury-Sullivan LGBT Community Center provides a vibrant, inclusive space in Pennsylvania's Lehigh Valley for all of the region's LGBTQ+ residents. It offers community programming, addressing barriers to care through its health programs, organizes annual Pride festival and works towards increasing equity through its LGBTQ+ Education Institute.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

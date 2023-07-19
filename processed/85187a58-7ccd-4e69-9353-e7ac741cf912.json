@@ -7,7 +7,7 @@
   "tags": [
     "legal",
     "education-awareness",
-    "healthcare"
+    "non-profit-organization"
   ],
   "address": "520 8th Ave #2204, New York, NY 10018, USA",
   "phoneNumber": "646-862-9396",
@@ -26,5 +26,9 @@
     "facebookUrl": "https://www.facebook.com/tldef",
     "googleMapsUrl": null
   },
-  "town": "Manhattan"
+  "town": "Manhattan",
+  "organizationType": [
+    "non-profit-organization",
+    "legal-service"
+  ]
 }

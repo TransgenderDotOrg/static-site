@@ -8,8 +8,8 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
+    "healthcare",
     "mental-health",
-    "social-services",
     "youth-services",
     "education-awareness"
   ],
@@ -20,7 +20,10 @@
   "provinceOrState": "CA",
   "city": "Berkeley",
   "county": "Alameda County",
-  "latLng": [37.8538725, -122.2596505],
+  "latLng": [
+    37.8538725,
+    -122.2596505
+  ],
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null,
@@ -31,5 +34,9 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "healthcare-provider",
+    "private-practice"
+  ]
 }

@@ -6,16 +6,16 @@
   "externalUrl": "https://tgv.org.au/",
   "tags": [
     "transmasculine",
-    "transfeminine",
     "non-binary",
+    "transfeminine",
     "legal",
     "healthcare",
     "mental-health",
     "social-services",
     "support-groups",
     "parent-family-resources",
-    "partner-resources",
-    "education-awareness"
+    "education-awareness",
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -29,5 +29,8 @@
     "facebookUrl": "https://www.facebook.com/TransGenderVictoria/",
     "twitterUrl": "https://twitter.com/transgendervic",
     "instagramUrl": "https://www.instagram.com/transgendervic/"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

@@ -4,7 +4,10 @@
   "externalUrl": "https://www.minus18.org.au/",
   "tags": [
     "youth-services",
-    "education-awareness"
+    "education-awareness",
+    "support-groups",
+    "community-stories",
+    "social-services"
   ],
   "address": null,
   "phoneNumber": null,
@@ -100,5 +103,11 @@
       "title": "Minus18",
       "description": "Minus18 ఆస్ట్రేలియాలోని LGBTQIA+ యువతిపై ప్రాణం మెరిగించే చరిటీ సంస్థ. వారు సోషల్ ఇసొలేషన్ ను తక్కువ చేసేందుకు, యువజనాలు చెందిన, అభినందన చేయబడిన, మరియు స్నేహితలు చేసుకోవచే స్థలాలను సృష్టిస్తారు. వారు కూడా LGBTQIA+ శిక్షణ, వనరులు, మరియు డిజిటల్ ప్రచారణలను అందిస్తారు, భేదభావం లేకుండా ఆస్ట్రేలియాను సృష్టించేందుకు ప్రయత్నించేదే లక్ష్యం. వారి లక్ష్యం మార్పును నడిపించడానికి ముందుగా ఉన్న యువజనాలకు అవసరాలు మరియు నైపుణ్యాలను అందించడం లక్ష్యం."
     }
-  }
+  },
+  "title": "Minus18",
+  "description": "Minus18 is Australia's charity improving the lives of LGBTQIA+ youth. They tackle social isolation by creating spaces where young people belong, are celebrated and can make friends. They also deliver LGBTQIA+ training, resources, and digital campaigns, aiming to create an Australia free from discrimination. Their aim is to equip young people with the skills and opportunities they need to be at the forefront of driving change.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

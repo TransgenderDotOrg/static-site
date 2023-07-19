@@ -3,15 +3,11 @@
   "slug": "queer-lexikon",
   "externalUrl": "https://queer-lexikon.net/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
-    "legal",
-    "healthcare",
-    "mental-health",
-    "support-groups",
     "education-awareness",
-    "community-stories"
+    "youth-services",
+    "community-stories",
+    "online-platform",
+    "support-groups"
   ],
   "address": null,
   "phoneNumber": null,
@@ -116,5 +112,11 @@
       "title": "క్యూర్ లెక్సికాన్",
       "description": "క్యూర్ లెక్సికాన్ అనేది క్యూర్ సముదాయానికి సమగ్ర సమాచారం మరియు మద్దతిని అందించే ఆన్లైన్ వనరు. లైంగిక, రొమాంటిక్, లింగ వైవిధ్యాల నుండి మానసిక ఆరోగ్యం మరియు మద్దతి సమూహాల వరకు విషయాలను కవర్ చేస్తుంది. ఇది విద్య, అవగాహన, మరియు సముదాయ కథల కేంద్రం."
     }
-  }
+  },
+  "title": "Queer Lexikon",
+  "description": "Queer Lexikon is an online resource providing extensive information and support for the queer community. Covering topics varying from sexual, romantic, gender diversity to mental health and support groups. It's a hub for education, awareness, and community stories.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

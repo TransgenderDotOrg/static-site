@@ -1,15 +1,15 @@
 [
   {
-    "name": "Transmasculine",
-    "value": "transmasculine"
+    "name": "Youth Services",
+    "value": "youth-services"
   },
   {
-    "name": "Non-Binary",
-    "value": "non-binary"
+    "name": "Education / Awareness",
+    "value": "education-awareness"
   },
   {
-    "name": "Transfeminine",
-    "value": "transfeminine"
+    "name": "Financial Aid / Scholarships",
+    "value": "financial-aid-scholarships"
   },
   {
     "name": "Legal",
@@ -20,6 +20,18 @@
     "value": "healthcare"
   },
   {
+    "name": "Endocrinologists",
+    "value": "endocrinologists"
+  },
+  {
+    "name": "Surgeons",
+    "value": "Surgeons"
+  },
+  {
+    "name": "Informed Consent Clinics",
+    "value": "informed-consent-clinics"
+  },
+  {
     "name": "Mental Health",
     "value": "mental-health"
   },
@@ -28,8 +40,16 @@
     "value": "social-services"
   },
   {
-    "name": "Youth Services",
-    "value": "youth-services"
+    "name": "Transmasculine",
+    "value": "transmasculine"
+  },
+  {
+    "name": "Transfeminine",
+    "value": "transfeminine"
+  },
+  {
+    "name": "Non-Binary",
+    "value": "non-binary"
   },
   {
     "name": "Support Groups",
@@ -44,28 +64,12 @@
     "value": "partner-resources"
   },
   {
-    "name": "Community Stories",
-    "value": "community-stories"
-  },
-  {
-    "name": "Education / Awareness",
-    "value": "education-awareness"
-  },
-  {
-    "name": "Financial Aid / Scholarships",
-    "value": "financial-aid-scholarships"
+    "name": "Friendly Businesses",
+    "value": "friendly-businesses"
   },
   {
     "name": "Clothing",
     "value": "clothing"
-  },
-  {
-    "name": "Artists & Creators",
-    "value": "artists-creators"
-  },
-  {
-    "name": "Friendly Businesses",
-    "value": "friendly-businesses"
   },
   {
     "name": "Makeup",
@@ -74,6 +78,14 @@
   {
     "name": "Voice Training",
     "value": "voice-training"
+  },
+  {
+    "name": "Community Stories",
+    "value": "community-stories"
+  },
+  {
+    "name": "Artists & Creators",
+    "value": "artists-creators"
   },
   {
     "name": "Discord Groups",

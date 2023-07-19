@@ -3,10 +3,9 @@
   "slug": "equaldexcom",
   "externalUrl": "https://EqualDex.com",
   "tags": [
-    "transfeminine",
-    "non-binary",
-    "transmasculine",
-    "partner-resources"
+    "legal",
+    "education-awareness",
+    "online-platform"
   ],
   "i18n": {
     "en-US": {
@@ -93,5 +92,10 @@
       "title": "EqualDex.com",
       "description": "உலக முழுவதும் சமமான அறிகுரலை பரப்பவும் ஒரே நேரத்தில் மேம்பட்டதாக இருமருமான மூல ஊழியத்தை உருவாக்குவதை நோக்கி ஒரு முதன்முதலான ஆன்லைன் மேடையாக இருக்கின்றது. அவரது இணையதளம் உலக முழுவதும் இருக்கும் சட்டங்கள், கொள்கைகள் மற்றும் சமமான உரிமைகளுக்கு சமூக அழிப்புருக்களை மதிப்பிடுகின்ற கேண்ட்ரலைஸ் டேட்டாபேஸை வழங்குகின்றது. சமத்துவ, ஆக்கப்பூர்வமான, மற்றும் சட்ட பாதுகாப்பைப் பார்த்திருக்கும் தரவை வரைபடத்தால் மற்றும் மாறுபாடுகளை வரையவும், EqualDex.com செயலாளர்களுக்கு, ஆராய்ச்சியாளர்களுக்கு, மற்றும் உலக அளவில் சமமான உரிமைகளுக்காக ஆதரவளிக்கும் விருப்புவாய்ஞ்சகளுக்கு ஒரு சக்திவாய்ந்த கருவியாக இருக்கின்றது. அவரது தொடன்படத்தலாகும் வரைபடங்களை ஆராய்ந்து பார், நாட்டைப் பிரிய சுவாரஸ்யமான விபரங்களை உலவு, மற்றும் உலக முழுவதும் சமமான உரிமைகளைப் பொறுத்தும் சமூகத்தின் அண்மைய மேம்பாடுகள் மற்றும் சவால்களை அறிய."
     }
-  }
+  },
+  "title": "EqualDex.com",
+  "description": "An innovative online platform that aims to create a comprehensive and up-to-date resource for global LGBTQ+ rights. Their website provides a centralized database of laws, policies, and societal attitudes towards LGBTQ+ rights from around the world. By mapping and visualizing data on equality, inclusivity, and legal protections, EqualDex.com offers a powerful tool for activists, researchers, and individuals seeking to understand and advocate for LGBTQ+ rights on a global scale. Explore their interactive maps, browse country-specific profiles, and stay informed about the latest advancements and challenges facing the LGBTQ+ community worldwide.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

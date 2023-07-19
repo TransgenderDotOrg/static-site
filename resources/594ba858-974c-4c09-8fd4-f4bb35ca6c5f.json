@@ -3,10 +3,12 @@
   "slug": "pacific-center-for-human-growth",
   "externalUrl": "https://www.pacificcenter.org/",
   "tags": [
-    "mental-health",
-    "support-groups",
     "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
     "youth-services",
+    "parent-family-resources",
     "education-awareness"
   ],
   "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
@@ -115,5 +117,12 @@
       "title": "Pacific மனித வளர்ச்சி மையம்",
       "description": "1973ஆம் ஆண்டில் தொடக்கப்பட்டதாக, Pacific மனித வளர்ச்சி மையம் Bay பிரதேசத்தில் மிகவும் பழைய LGBTQIA+ மையமாகும், தேசிய நிலையில் மூன்றாவது மிகவும் பழையதாகும், மேலும் அது Alameda மாவட்டத்தில் LGBTQIA+ மற்றும் QTBIPOC மக்களுக்கும் அவர்கள் குடும்பத்தினருக்கும் மட்டும் மாற்று மதிப்பு மன சுகாதார மருத்துவமனையை இயக்குகிறது."
     }
-  }
+  },
+  "title": "Pacific Center for Human Growth",
+  "description": "Founded in 1973, Pacific Center for Human Growth is the oldest LGBTQIA+ center in the Bay Area, the third oldest in the nation, and operates the only sliding scale mental health clinic for LGBTQIA+ and QTBIPOC people and their families in Alameda County.",
+  "organizationType": [
+    "community-center",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

@@ -4,14 +4,15 @@
   "externalUrl": "https://www.themckenzieproject.org/",
   "tags": [
     "transmasculine",
-    "non-binary",
     "transfeminine",
-    "legal",
+    "non-binary",
     "healthcare",
     "mental-health",
     "social-services",
     "youth-services",
     "support-groups",
+    "parent-family-resources",
+    "community-stories",
     "education-awareness"
   ],
   "address": "8390 W Flagler St STE 201, Miami, FL 33144, USA",
@@ -21,7 +22,10 @@
   "provinceOrState": "FL",
   "city": "Miami",
   "county": "Miami-Dade County",
-  "latLng": [25.769445, -80.3321284],
+  "latLng": [
+    25.769445,
+    -80.3321284
+  ],
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null,
@@ -118,5 +122,10 @@
       "title": "ది మెక్కెన్జీ ప్రాజెక్ట్",
       "description": "లింగ న్యాయానికి ప్రోత్సాహించే మరియు ట్రాన్స్జెండర్ సముదాయాన్ని సేవించే సేవలు, కార్యక్రమాలు మరియు ఈవెంట్లను అందిస్తున్న విస్తృత వనరు. సహాయక సేవలు మరియు వనరులను కలిగి ఉంటాయి, అవి ఆరోగ్య సేవలు, చట్టప్రమాణ సహాయం, మానసిక ఆరోగ్య సేవలు మరింత ఉండగలవు."
     }
-  }
+  },
+  "title": "The McKenzie Project",
+  "description": "A comprehensive resource offering services, programs and events aimed at promoting gender justice and serving the transgender community. Includes support services and resources including healthcare, legal assistance, mental health services and more.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

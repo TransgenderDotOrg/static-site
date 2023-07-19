@@ -5,13 +5,12 @@
   "slug": "trans-in-3-steps",
   "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
     "education-awareness",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
     "voice-training"
   ],
   "address": null,
@@ -24,5 +23,8 @@
   "email": "johanna4711@zohomail.eu",
   "socialMedia": {
     "githubUrl": "https://github.com/johanna4711/Trans-in-3-Schritten"
-  }
+  },
+  "organizationType": [
+    "online-platform"
+  ]
 }

@@ -4,10 +4,9 @@
   "externalUrl": "https://www.transhealthcare.org/",
   "tags": [
     "transmasculine",
-    "non-binary",
     "transfeminine",
     "healthcare",
-    "education-awareness"
+    "surgeons"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +102,11 @@
       "title": "TransHealthCare",
       "description": "TransHealthCare ఆసుపత్రి శాస్త్రజ్ఞుల యొక్క అతిపెద్ద మరియు అత్యంత సమగ్ర డేటాబేస్. ఇది ప్రపంచంలోని వేలాది ట్రాన్స్జెండర్ మరియు అ-బైనరీ వ్యక్తులు శాస్త్రజ్ఞుడుని కనుగొనేందుకు సహాయం చేసింది. వెబ్‌సైట్ ప్రసేసి, U.S. రాష్ట్రం, ఇన్షూరెన్స్ రకం, మరియు దేశాన్ని ఆధారంగా చేసుకుని శాస్త్రజ్ఞుడిని కనుగొనడానికి ఒక వేదికను అందిస్తుంది. దీనిలో తాజా శాస్త్రజ్ఞుల వార్తలు మరియు జెండర్-ఆఫర్మింగ్ శస్త్రానికి సంబంధించిన అధ్యయనాన్ని సమేత అనేక వనరులు ఉండాలి."
     }
-  }
+  },
+  "title": "TransHealthCare",
+  "description": "TransHealthCare is the largest and most comprehensive database of Gender Surgeons. It has helped thousands of transgender and non-binary people from around the world find a surgeon. The website provides a platform to find a surgeon based on procedure, U.S. State, insurance type, and country. It also hosts a variety of resources including latest surgeon news and research on gender-affirming surgery.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

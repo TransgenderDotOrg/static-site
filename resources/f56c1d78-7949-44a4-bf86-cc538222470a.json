@@ -3,10 +3,13 @@
   "slug": "camp-lilac",
   "externalUrl": "https://www.camplilac.org/",
   "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
     "youth-services",
-    "mental-health",
+    "education-awareness",
     "support-groups",
-    "education-awareness"
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +105,11 @@
       "title": "கேம்ப் லிலாக்",
       "description": "கேம்ப் லிலாக் ஒகையோவில் ஒரு கோடைக்கால முகம் ஆகும், இது மாறுபட்ட பாலினத்தையும் பாலினக் கலாசாரத்தையும் அணிக்கும் இளைஞர்களுக்கான பாதுகாப்பான, வரவேற்பு, மற்றும் ரகசியமான இடம் வழங்குகிறது. முகம் பாலினத்தைக் கொண்ட மாற்றம் அதிகரித்துள்ளது மற்றும் நிகழ்வு முகத்திரைகளின் நம்பிக்கையை அதிகரித்துக் கொள்வதற்கு வடிவமைக்கப்பட்டுள்ளது, அதே நேரத்தில் ஒரு வலுவான இத்தகைய நண்பர்களின் மன்றத்தையும் ஆதரவுதருவோர் குழுவையும் வழங்குகிறது."
     }
-  }
+  },
+  "title": "Camp Lilac",
+  "description": "Camp Lilac is a summer camp in Ohio providing a safe, welcoming, and confidential space for transgender and gender diverse youth. The camp provides an environment where gender diversity is the norm and the program is designed to instill confidence in the campers as well as provide a strong community of peers and supporters.",
+  "organizationType": [
+    "non-profit-organization",
+    "educational-institution"
+  ]
 }

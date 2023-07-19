@@ -4,11 +4,18 @@
   "externalUrl": "https://diyhrt.cafe",
   "tags": [
     "transfeminine",
-    "non-binary",
     "transmasculine",
+    "non-binary",
     "healthcare",
-    "education-awareness"
+    "legal",
+    "education-awareness",
+    "financial-aid-scholarships",
+    "online-platform"
   ],
   "title": "DIYHRT.cafe",
-  "description": "A vibrant online community and hub of knowledge for individuals interested in do-it-yourself hormone replacement therapy (HRT). Their website is dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. Whether you are exploring alternative methods, seeking guidance on dosage and administration, or simply looking to connect with others who share similar experiences, DIYHRT.cafe offers a wealth of valuable insights, personal stories, and expert advice to help you make informed decisions about your health and well-being."
+  "description": "A vibrant online community and hub of knowledge for individuals interested in do-it-yourself hormone replacement therapy (HRT). Their website is dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. Whether you are exploring alternative methods, seeking guidance on dosage and administration, or simply looking to connect with others who share similar experiences, DIYHRT.cafe offers a wealth of valuable insights, personal stories, and expert advice to help you make informed decisions about your health and well-being.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

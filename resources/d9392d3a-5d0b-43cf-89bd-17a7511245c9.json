@@ -5,8 +5,11 @@
   "tags": [
     "youth-services",
     "support-groups",
+    "education-awareness",
     "community-stories",
-    "education-awareness"
+    "financial-aid-scholarships",
+    "artists-creators",
+    "healthcare"
   ],
   "address": "112 State Ave NE, Olympia, WA 98501, USA",
   "phoneNumber": "3608884273",
@@ -105,5 +108,11 @@
       "title": "Stonewall Youth",
       "description": "Stonewall Youth একটি অলাভজনক সংস্থা যা LGBTQ+ যুবদের জন্য সমর্থন প্রদান করে। তাদের সম্পূর্ণ সাপ্তাহিক কর্মসূচিগুলি, সমর্থন গ্রুপ, এবং সম্পদগুলি কুইয়ার এবং ট্রান্স যুবদের প্রয়োজনীয়তার পরিপ্রেক্ষিতে সেবা করে। তারা খাদ্য, অপরিহার্য জিনিস, এবং যুব সংঘটনের জন্য স্পন্সরশিপ প্রদান করে। Stonewall Youth লিড করার, শিখার, এবং তাদের অভিজ্ঞতা শেয়ার করার জন্য LGBTQ+ যুবদের জন্য একটি ক্ষমতা দান করা স্থান তৈরি করার জন্য উদ্বুদ্ধ।"
     }
-  }
+  },
+  "title": "Stonewall Youth",
+  "description": "Stonewall Youth is a nonprofit organization that offers support for LGBTQ+ youth. Their comprehensive weekly programs, support groups, and resources cater to the needs of queer and trans youth. They provide food, essential items, and even sponsorship for youth fellowships. Stonewall Youth is dedicated to creating an empowering space for LGBTQ+ youth to lead, learn, and share their experiences.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

@@ -4,9 +4,8 @@
   "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
   "tags": [
     "non-binary",
-    "transmasculine",
-    "transfeminine",
-    "education-awareness"
+    "education-awareness",
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +101,10 @@
       "title": "వ్యక్తిగత ప్రానౌన్ డ్రెసింగ్ రూమ్",
       "description": "ఈ సంవాదీ సమ్పద సందర్భానికి వాడే వివిధ ప్రానౌన్ జతుల ఉదాహరణలను అందిస్తుంది. మీరు ఇష్టపడే ఏ పేరైనా దీనికి కస్టమైజ్ చేయగలరు, ఇది వ్యక్తిగత ప్రానౌన్ల అన్వేషణ మరియు అర్థం చేకూర్చడానికి సహాయపడుతుంది. ఈ సాధనం ట్రాన్స్జెండర్ సముదాయానికి ఉపయోగకరంగా ఉంటుంది, ప్రత్యేకంగా కొత్త ప్రానౌన్లను అన్వేషిస్తున్నవారికి లేదా ప్రానౌన్ వాడకం పైన ఇతరులను విద్యావంతురచేయడానికి."
     }
-  }
+  },
+  "title": "Personalized Pronoun Dressing Room",
+  "description": "This interactive resource provides examples of various pronoun sets used in context. It's customizable with any name you'd like, which aids in the exploration and understanding of personal pronouns. This tool is useful to the transgender community, especially to those who are exploring new pronouns or educating others on pronoun use.",
+  "organizationType": [
+    "educational-institution"
+  ]
 }

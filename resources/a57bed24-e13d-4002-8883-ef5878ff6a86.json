@@ -3,14 +3,14 @@
   "slug": "metro-trans-umbrella-group",
   "externalUrl": "https://www.stlmetrotrans.org/",
   "tags": [
-    "non-binary",
     "legal",
     "healthcare",
     "mental-health",
     "social-services",
     "support-groups",
-    "community-stories",
+    "parent-family-resources",
     "education-awareness",
+    "financial-aid-scholarships",
     "clothing"
   ],
   "address": null,
@@ -109,5 +109,11 @@
       "title": "Metro Trans Umbrella సమూహం",
       "description": "Saint Louis లో ఉన్ని, ట్రాన్స్జెండర్ వ్యక్తుల కోసం మరింత సమావేశకరమైన మరియు మద్దతుగా ఉన్న సంఘంగా పనిచేసే ఒక గ్రాస్రూట్స్ గైరుపంజీకృత సంస్థ. ఆహార అంగీరస్థానం లాంటి సేవలు అందిస్తుంది, STI పరీక్ష, పేరు మార్చడం లో సహాయం, లింగ నిర్ధారణ దృష్టిలో బట్టలు మరియు ప్రతి వారం సంఘటించే సంఘటనలు ఇదరు మధ్య శక్తినీ పెంచడానికి మరియు సమానత్వానికి పనిచేయడానికి."
     }
-  }
+  },
+  "title": "Metro Trans Umbrella Group",
+  "description": "A grassroots nonprofit organization located in Saint Louis, working dedicatedly to create a more inclusive and supportive community for transgender individuals. Provides services like a food pantry, STI Testing, name change assistance, gender affirming clothes and weekly events to empower each other and work towards equality.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

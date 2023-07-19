@@ -100,5 +100,11 @@
       "title": "మెడిసిన్ ఖర్చు - మందుల ఖర్చు సమాచారం",
       "description": "మందుల ఖర్చు గురించి వివరాలను అందించే ఒక సమాచారతో కూడిన వేదిక. దీనిలో మందులు రీంబర్స్మెంట్ గురించి డేటా మరియు కొన్ని మందులు అనువసరించలేని వ్యక్తులు కొరకు అందుబాటులో ఉన్న ప్రత్యామ్నాయాలు అందుస్తుంది. ఆరోగ్యశాఖ ఆర్థిక ప్లానింగ్ కొరకు ముఖ్యం."
     }
-  }
+  },
+  "title": "Medicijnkosten - Medication Costs Information",
+  "description": "An informative platform that provides details about medication costs. It offers data regarding the reimbursement of medications and alternatives available for individuals who may not afford certain medication. Important for financial planning of healthcare.",
+  "organizationType": [
+    "government-entity",
+    "online-platform"
+  ]
 }

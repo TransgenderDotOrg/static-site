@@ -4,8 +4,9 @@
   "externalUrl": "https://www.plannedparenthood.org/",
   "tags": [
     "healthcare",
-    "mental-health",
-    "education-awareness"
+    "legal",
+    "education-awareness",
+    "mental-health"
   ],
   "address": null,
   "phoneNumber": "1-800-230-7526",
@@ -101,5 +102,13 @@
       "title": "ప్లాన్నెడ్ పేరెంట్హుడ్",
       "description": "ప్లాన్నెడ్ పేరెంట్హుడ్ ప్రపంచవ్యాప్తంగా కోట్లాది ప్రజలకు అత్యవసర ప్రజనన ఆరోగ్య సేవలు, సెక్స్ విద్య, మరియు సమాచారాన్ని అందిస్తుంది. సేవలు గర్భం రోకణ, జనన నియంత్రణ, STD పరీక్షలు మరియు చికిత్స, ట్రాన్స్జెండర్ హாర్మோన్ చికిత్స, మరియు మరింత సేవలు ఉన్నాయి. ఆన్లైన్ మరియు టెలీహెల్త్ నియామక అందించబడుతున్నాయి."
     }
-  }
+  },
+  "title": "Planned Parenthood",
+  "description": "Planned Parenthood provides vital reproductive health care, sex education, and information to millions of people worldwide. Services include abortion, birth control, STD testing and treatment, transgender hormone therapy, and more. Online and telehealth appointments available.",
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

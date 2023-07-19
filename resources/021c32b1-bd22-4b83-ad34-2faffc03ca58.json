@@ -108,5 +108,10 @@
       "title": "Hawaii LGBT Legacy Foundation",
       "description": "హవాయి లోని LGBTQ+ సముదాయానికి మద్దతు మరియు ప్రోత్సహించేందుకు ఇబ్బందిలేని సంస్థ హవాయి లెజీకీ ఫౌండేషన్. ఇది హొనొలులు ప్రౌద్యోగికి, రేన్బో టౌన్ హాల్ మరియు కమింగౌట్ స్టోరీస్ మొదలుగు ప్రాజెక్టుల మరియు ఈవెంట్స్ ని ఆర్గనైజ్ చేస్తుంది. ఇది వనరులకు సహాయక సేవలు మరియు వనరులను మద్దతు చేసే సమాచారాన్ని కూడా అందిస్తుంది."
     }
-  }
+  },
+  "title": "Hawaii LGBT Legacy Foundation",
+  "description": "A non-profit organisation committed to supporting and promoting the LGBTQ+ community in Hawaii. It hosts a variety of projects and events including Honolulu Pride, Rainbow Town Hall and Coming Out Stories. It also provides a range of resources and support services.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

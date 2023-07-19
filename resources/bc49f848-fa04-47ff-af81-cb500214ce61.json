@@ -6,16 +6,13 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "legal",
     "healthcare",
-    "mental-health",
+    "education-awareness",
+    "legal",
     "social-services",
     "youth-services",
-    "support-groups",
     "parent-family-resources",
-    "partner-resources",
-    "community-stories",
-    "education-awareness"
+    "community-stories"
   ],
   "address": "Stockholm, Sweden",
   "phoneNumber": null,
@@ -119,5 +116,12 @@
       "title": "Transformering.se",
       "description": "RFSL యువత మరియు RFSL పరిచాలించే స్వీడిష్ సభ్య కేంద్రము ఏదైనా సేవ మరియు సమాచారం ఇస్తుంది అది ట్రాన్స్జెండర్ మరియు లింగ గుర్తి సమస్యలకు సంబంధించి. అంతస్తులను హక్కులు, సంబంధాలు, మరియు లింగనిర్ధారణ గుర్తి పరైన పరేక్ష ఎలా పనిచేస్తుందో కలిగి ఉంటుంది. ఇది వ్యక్తులు ట్రాన్స్జెండర్గా ఉన్నారు, వ్యక్తిగతంగా మార్పు అనుభవం ఉంది, లేదా వారు వారి లింగ గుర్తి / వ్యక్తీకరణను ప్రశ్నిస్తున్నారని, మరియు వారిని మద్దతు చేసే అభిమానులు, వృత్తివంతులు, లేదా స్వచ్ఛంద పనిచేయువారు గురించి రూపొందించబడింది."
     }
-  }
+  },
+  "title": "Transformering.se",
+  "description": "A Swedish resource hub run by RFSL Ungdom and RFSL that offers support and information related to transgender and gender identity issues. Contents include rights, relationships, and how gender-affirming care works. It is designed for individuals who are transgender, have personal trans experience, or are questioning their gender identity/expression, as well as their loved ones, professionals, or voluntary workers who support them.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

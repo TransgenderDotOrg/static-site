@@ -3,6 +3,11 @@
   "slug": "transcend-australia",
   "externalUrl": "https://transcend.org.au/",
   "tags": [
+    "non-binary",
+    "legal",
+    "healthcare",
+    "social-services",
+    "youth-services",
     "support-groups",
     "parent-family-resources",
     "education-awareness"
@@ -101,5 +106,13 @@
       "title": "ట్రాన్సెండ్ ఆస్ట్రేలియా",
       "description": "ట్రాన్సెండ్ ఆస్ట్రేలియాయు మారుపు మరియు జెండర్ వైవిధ్యత కలిగి ఉన్న పిల్లల మరియు వారి కుటుంబాల మరియు తనిఖీదారులను మద్దతు చేయడానికి, సమర్ధించడానికి మరియు వేదించడానికి ఉద్దేశించింది. వారు ఆస్ట్రేలియా అంతటా కుటుంబాలకు సమాచారం, మద్దతు మరియు రిఫరల్లను అందిస్తున్నారు మరియు మారుపు మరియు జెండర్ వైవిధ్యత కలిగి ఉన్న పిల్లల మరియు యువ వ్యక్తులను అధికారవంతులుగా మార్చి పనిచేస్తున్నారు."
     }
-  }
+  },
+  "title": "Transcend Australia",
+  "description": "Transcend Australia’s purpose is to support, affirm and celebrate the lives of trans and gender diverse children and their families and carers. They provide information, support and referrals to families across Australia and work to empower trans and gender diverse children and young people.",
+  "organizationType": [
+    "non-profit-organization",
+    "support-group",
+    "legal-service",
+    "educational-institution"
+  ]
 }

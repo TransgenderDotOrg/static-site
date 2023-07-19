@@ -6,9 +6,10 @@
   "externalUrl": "https://www.genderconfirmation.com/",
   "tags": [
     "transmasculine",
-    "non-binary",
     "transfeminine",
-    "healthcare"
+    "non-binary",
+    "healthcare",
+    "surgeons"
   ],
   "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
   "phoneNumber": "(415) 780-1515",
@@ -21,5 +22,9 @@
     -122.4078356
   ],
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "healthcare-provider",
+    "private-practice"
+  ]
 }

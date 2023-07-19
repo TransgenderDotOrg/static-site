@@ -10,10 +10,11 @@
     "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
     "social-services",
+    "youth-services",
+    "support-groups",
     "education-awareness",
-    "support-groups"
+    "community-events"
   ],
   "address": "Prinzregentenstraße 84, 10717 Berlin, Germany",
   "phoneNumber": "+49 (0) 30 – 23 94 98 96",
@@ -26,5 +27,9 @@
   ],
   "email": "info@bv-trans.de",
   "socialMedia": null,
-  "town": "Bezirk Charlottenburg-Wilmersdorf"
+  "town": "Bezirk Charlottenburg-Wilmersdorf",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

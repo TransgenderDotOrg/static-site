@@ -5,12 +5,13 @@
   "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
   "externalUrl": "https://dgti.org/",
   "tags": [
-    "transmasculine",
-    "transfeminine",
-    "non-binary",
     "legal",
     "healthcare",
-    "education-awareness"
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "non-profit-organization"
   ],
   "address": null,
   "phoneNumber": null,
@@ -27,5 +28,10 @@
     "twitterUrl": "https://twitter.com/dgti_eV",
     "instagramUrl": "https://www.instagram.com/dgti_ev/",
     "youtubeUrl": "https://www.youtube.com/channel/UCvPv3gwmnZcU5JT-06vxJrA"
-  }
+  },
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

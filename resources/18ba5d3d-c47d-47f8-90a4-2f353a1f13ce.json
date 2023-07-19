@@ -2,7 +2,12 @@
   "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
   "slug": "ftmguideorg",
   "externalUrl": "https://FTMGuide.org",
-  "tags": ["non-binary", "transmasculine", "healthcare", "clothing"],
+  "tags": [
+    "transmasculine",
+    "healthcare",
+    "clothing",
+    "education-awareness"
+  ],
   "i18n": {
     "en-US": {
       "title": "FTMGuide.org",
@@ -88,5 +93,11 @@
       "title": "FTMGuide.org",
       "description": "பெண்களிலிருந்து ஆண்களுக்கு (FTM) மாறிவரும் நபர்களை ஆதரிக்கவையாகவே எந்தனைத் தளத்துக்காக உருவாக்கப்பட்ட FTMGuide.org. அவரது இணையதளம், ஒரு நம்பிக்கையுள்ள வளமாக சேவிக்கின்றது, தமின் FTM பயணத்தில் பயணமாகும் தேவைக்கு ஏற்ப அதிகமான தகவல், வழிகாட்டல், மற்றும் சமூக இணையங்களை வழங்குகிறது. ஹார்மோன் சிகிச்சை மற்றும் அறுவை விருப்பங்கள் மீதான நடைமுறை ஆலோசனைகளிலிருந்து ஆரோக்கியக்கல்வி ஆதரவு மற்றும் தனிப்பட்ட கதைகள் வரை, FTMGuide.org நபர்களை அவர்களுக்கு தேவையான அறிவு மற்றும் வளங்களுடன் உரிமைகொள்ள அவர்களின் மாற்றத்தை தனிப்பட்ட மற்றும் தெளிவான வழியில் வழிநடத்த நோக்குகிறது."
     }
-  }
+  },
+  "title": "FTMGuide.org",
+  "description": "A comprehensive online platform dedicated to supporting individuals who are transitioning from female to male (FTM). Their website serves as a trusted resource, offering a wealth of information, guidance, and community connections for those embarking on their FTM journey. From practical advice on hormone therapy and surgical options to mental health support and personal stories, FTMGuide.org aims to empower individuals with the knowledge and resources they need to navigate their transition with confidence and clarity.",
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

@@ -3,14 +3,14 @@
   "slug": "genderdysphoriafyi",
   "externalUrl": "https://genderdysphoria.fyi",
   "tags": [
+    "education-awareness",
     "transmasculine",
-    "non-binary",
     "transfeminine",
-    "mental-health",
-    "support-groups",
-    "community-stories",
-    "education-awareness"
+    "non-binary"
   ],
   "title": "genderdysphoria.fyi",
-  "description": "A trusted online resource for individuals seeking knowledge, support, and understanding about gender dysphoria. Their website provides a wealth of information, resources, and community connections to empower individuals on their journey. From comprehensive guides on gender identity and transitioning to personal stories and expert advice, they strive to create a safe and inclusive space for all."
+  "description": "A trusted online resource for individuals seeking knowledge, support, and understanding about gender dysphoria. Their website provides a wealth of information, resources, and community connections to empower individuals on their journey. From comprehensive guides on gender identity and transitioning to personal stories and expert advice, they strive to create a safe and inclusive space for all.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

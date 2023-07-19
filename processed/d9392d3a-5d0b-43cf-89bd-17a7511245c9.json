@@ -7,8 +7,11 @@
   "tags": [
     "youth-services",
     "support-groups",
+    "education-awareness",
     "community-stories",
-    "education-awareness"
+    "financial-aid-scholarships",
+    "artists-creators",
+    "healthcare"
   ],
   "address": "112 State Ave NE, Olympia, WA 98501, USA",
   "phoneNumber": "3608884273",
@@ -21,5 +24,9 @@
     -122.9011227
   ],
   "email": "info@stonewallyouth.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

@@ -4,9 +4,10 @@
   "externalUrl": "https://www.meridianact.org.au/",
   "tags": [
     "healthcare",
+    "mental-health",
     "support-groups",
     "education-awareness",
-    "community-stories"
+    "social-services"
   ],
   "address": "Havelock House, 85 Northbourne Ave, Turner ACT 2612, Australia",
   "phoneNumber": "(02) 6257 2855",
@@ -104,5 +105,12 @@
       "title": "Meridian",
       "description": "मेरिडियन 40 సంవత్సరాలుగా LGBTIQA+ సముదాయానికి మద్దతు ఇవ్వడానికి, మరియు  అందుబాటులో ఉండడానికి, మరియు ప్రోగ్రాములను అందిస్తుంది. ఇలాంటివి HIV సేవలు, ఆరోగ్య సేవలు, లైంగిక పనిమనిషి ప్రయాణిక ప్రోగ్రాములు మరియు మరిన్ని ఉదాహరణకు కెనబెరా ప్రాంతం అగ్రగమ్యంగా ఉన్నాయి."
     }
-  }
+  },
+  "title": "Meridian",
+  "description": "Meridian has been advocating for, and supporting, the LGBTIQA+ community for over 40 years, offering a range of services and programs across the Canberra region such as HIV services, wellbeing services, sex worker outreach programs and more.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization",
+    "healthcare-provider"
+  ]
 }

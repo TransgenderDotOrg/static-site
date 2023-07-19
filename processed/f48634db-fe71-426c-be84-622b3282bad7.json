@@ -6,8 +6,9 @@
   "externalUrl": "https://www.plannedparenthood.org/",
   "tags": [
     "healthcare",
-    "mental-health",
-    "education-awareness"
+    "legal",
+    "education-awareness",
+    "mental-health"
   ],
   "address": null,
   "phoneNumber": "1-800-230-7526",
@@ -17,5 +18,11 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

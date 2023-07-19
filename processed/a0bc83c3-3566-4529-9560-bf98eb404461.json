@@ -5,10 +5,13 @@
   "slug": "transliving-international",
   "externalUrl": "https://transliving.co.uk/main/",
   "tags": [
+    "transmasculine",
+    "transfeminine",
     "support-groups",
     "community-stories",
-    "education-awareness",
-    "clothing"
+    "clothing",
+    "makeup",
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +21,10 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

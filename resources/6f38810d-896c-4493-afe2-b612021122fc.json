@@ -4,10 +4,11 @@
   "externalUrl": "https://www.theshedsupport.org.au/",
   "tags": [
     "transmasculine",
-    "mental-health",
+    "non-binary",
     "support-groups",
-    "healthcare",
-    "social-services"
+    "mental-health",
+    "community-stories",
+    "education-awareness"
   ],
   "address": "412 Lygon St, Brunswick East VIC 3057, Australia",
   "phoneNumber": null,
@@ -106,5 +107,12 @@
       "title": "ది షెడ్ మెల్బర్న్",
       "description": "ట్రాన్స్మాస్క్యులిన్ వ్యక్తులకు ధృవీకరించిన ఒన్నయిన మెల్బర్న్ ఆధారిత మద్దతు సమూహం, సమవాయ మండలి సభలు, బడి క్లబ్లు, పుస్తక క్లబ్లు, మానసిక ఆరోగ్య సంపదలు, శస్త్ర చికిత్స మరియు టెస్టోస్టెరోన్ సమాచారం మరియు మద్దతు, బైండర్ కార్యక్రమాలు, మరింత మరియు."
     }
-  }
+  },
+  "title": "The Shed Melbourne",
+  "description": "A Melbourne based support group for transmasculine individuals, offering various events and resources such as peer support meetings, gym clubs, book clubs, mental health resources, surgery and testosterone information and support, binder programmes, and more.",
+  "organizationType": [
+    "support-group",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

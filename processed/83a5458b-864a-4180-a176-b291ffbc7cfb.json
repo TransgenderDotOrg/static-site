@@ -5,7 +5,6 @@
   "slug": "nsw-treatment-and-rehabilitation-torture-trauma-survivors",
   "externalUrl": "https://www.startts.org.au/",
   "tags": [
-    "healthcare",
     "mental-health",
     "social-services",
     "education-awareness"
@@ -16,12 +15,19 @@
   "provinceOrState": "NSW",
   "city": "Carramar",
   "county": "City of Fairfield",
-  "latLng": [-33.8801011, 150.9654668],
+  "latLng": [
+    -33.8801011,
+    150.9654668
+  ],
   "email": "stts-startts@health.nsw.gov.au",
   "socialMedia": {
     "googleMapsUrl": null,
     "linkedinUrl": null,
     "facebookUrl": null,
     "youtubeUrl": null
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider"
+  ]
 }

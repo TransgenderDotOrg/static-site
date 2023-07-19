@@ -5,6 +5,8 @@
   "slug": "jim-collins-foundation",
   "externalUrl": "https://jimcollinsfoundation.org/",
   "tags": [
+    "transmasculine",
+    "transfeminine",
     "healthcare",
     "financial-aid-scholarships"
   ],
@@ -20,5 +22,9 @@
   ],
   "email": null,
   "socialMedia": null,
-  "town": "Manhattan"
+  "town": "Manhattan",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

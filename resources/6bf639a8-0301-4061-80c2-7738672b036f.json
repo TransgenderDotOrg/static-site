@@ -3,13 +3,12 @@
   "slug": "trans-in-3-steps",
   "externalUrl": "https://johanna4711.github.io/Trans-in-3-Schritten/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
     "education-awareness",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
     "voice-training"
   ],
   "address": null,
@@ -108,5 +107,10 @@
       "title": "Транс* у 3 кроках",
       "description": "Проект, що є допоміжним посібником під час переходу особи. Він включає термінологію, пов'язану з транс*, інформацію про те, як зрозуміти, чи ви є транс*, ресурси для психологічного консультування, медичні процедури, анекдотичні історії про \"coming out\", юридичну інформацію про зміну імені та гендерного статусу, а також посилання на різноманітні ресурси та послуги."
     }
-  }
+  },
+  "title": "Trans* in 3 Steps",
+  "description": "A project that serves as a guide to help during the transition of an individual. It includes terminology related to trans*, information on how to know if one is trans*, resources for psychological counseling, medical procedures, anecdotal coming out stories, legal information on changing names and gender status, as well as links to various resources and services.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

@@ -6,7 +6,8 @@
   "externalUrl": "https://www.azaleainstitute.com/",
   "tags": [
     "mental-health",
-    "healthcare",
+    "healthcare-provider",
+    "support-group",
     "education-awareness"
   ],
   "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
@@ -25,5 +26,8 @@
       "https://goo.gl/maps/DzG9aysJ1KmfnY2E9",
       "https://goo.gl/maps/CFBJqM8FbraRWeJ79"
     ]
-  }
+  },
+  "organizationType": [
+    "private-practice"
+  ]
 }

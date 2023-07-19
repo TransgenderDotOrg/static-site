@@ -6,10 +6,11 @@
   "externalUrl": "https://www.youtheastsideservices.org/",
   "tags": [
     "mental-health",
-    "social-services",
-    "youth-services",
     "support-groups",
-    "parent-family-resources"
+    "youth-services",
+    "parent-family-resources",
+    "education-awareness",
+    "social-services"
   ],
   "address": "Kirkland, WA, USA",
   "phoneNumber": "425-747-4937",
@@ -27,5 +28,10 @@
     "twitterUrl": "https://twitter.com/YouthEastside",
     "youtubeUrl": "https://www.youtube.com/channel/UCpgtkRbOez9HKFgPUXNDRuQ",
     "linkedinUrl": "https://www.linkedin.com/company/youth-eastside-services"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider",
+    "support-group"
+  ]
 }

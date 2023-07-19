@@ -13,9 +13,7 @@
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "partner-resources",
-    "community-stories",
-    "education-awareness"
+    "partner-resources"
   ],
   "address": null,
   "phoneNumber": null,
@@ -111,5 +109,12 @@
       "title": "TransFolk of WA",
       "description": "పశ్చిమ ఆస్ట్రేలియాలోని ట్రాన్స్జెండర్ వ్యక్తులు మరియు వారికి ప్రియమైన వ్యక్తుల కోసం ఒక సహకార మద్దతు సేవ. ఆన్లైన్ గుంపులు, సిఫార్సు చేసిన సేవలు మరియు వనరులు అందిస్తుంటుంది, మరియు వివిధ సంఘటనలను ఆయోజిస్తుంది."
     }
-  }
+  },
+  "title": "TransFolk of WA",
+  "description": "A peer support service for transgender people and their loved ones in Western Australia. Offering online groups, recommended services and resources, and hosting various events.",
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

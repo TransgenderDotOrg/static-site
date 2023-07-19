@@ -4,6 +4,7 @@
   "externalUrl": "https://tgeu.org/trans-rights-map-2022/",
   "tags": [
     "legal",
+    "healthcare",
     "education-awareness"
   ],
   "phoneNumber": null,
@@ -100,5 +101,11 @@
       "title": "2022 ஆண்பத்திக்கு மாறியவர்கள் உரிமைகள் மேப்பில் மேம்பட்ட முன்னேற்றம் மெதுவாகத் தயவுசெய்யும் ",
       "description": "இந்த ஆபரான்தம் TGEU ஆல் ஆஸ்இரிசுசெய்யப்பட்டதாகியதும், இது ஐரோப்பாவிலும் மத்திய ஆசியாவிலும் அ஬்தி ஆணிகளின் சட்ட உரிமைகள்கான மேம்பாட்டையும் பின்னாலுள்ளத்தையும் காட்டுகின்றது. மற்ற கண்டுபிடிப்புகளில், இது ஆசாரநிலை, வெறுப்புக் குற்றசாட்டு, சமந்தி சட்டங்கள் ஆகியவற்றுக்கு போன்ற இடங்களில் வலிமையோடு ஏற்பாடு, ஆணாக்கிய பாலின்க் அங்கீகாரத்திற்கு மனித வேண்டிய பாதுகாப்புகளை எதிர்த்து மேம்படுத்தல் என்பவற்றில் சிலவற்றை காட்டுகின்றது."
     }
-  }
+  },
+  "title": "Trans Rights Map 2022 reveals slow comeback of progress on trans rights",
+  "description": "This report by TGEU shows the progress and regression in the legal rights of trans people in Europe and Central Asia. Among other findings, it shows a weakening in areas such as asylum, hate speech, and equality laws, but progress in areas like legal gender recognition and protections against discrimination.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

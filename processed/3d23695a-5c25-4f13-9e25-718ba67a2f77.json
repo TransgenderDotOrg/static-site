@@ -5,13 +5,13 @@
   "slug": "identity-alaska",
   "externalUrl": "https://www.identityalaska.org/",
   "tags": [
+    "non-profit-organization",
     "healthcare",
     "mental-health",
-    "social-services",
-    "youth-services",
-    "education-awareness",
+    "support-groups",
     "community-stories",
-    "support-groups"
+    "education-awareness",
+    "youth-services"
   ],
   "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
   "phoneNumber": "(907) 865-3247",
@@ -19,7 +19,10 @@
   "provinceOrState": "AK",
   "city": "Anchorage",
   "county": "Anchorage Municipality",
-  "latLng": [61.1955918, -149.8774355],
+  "latLng": [
+    61.1955918,
+    -149.8774355
+  ],
   "email": "info@identityinc.org",
   "socialMedia": {
     "yelpUrl": null,
@@ -31,5 +34,10 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "healthcare-provider"
+  ]
 }

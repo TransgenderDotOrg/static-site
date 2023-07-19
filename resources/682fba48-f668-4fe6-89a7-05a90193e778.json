@@ -4,7 +4,6 @@
   "externalUrl": "https://www.oaklandlgbtqcenter.org/",
   "tags": [
     "transmasculine",
-    "non-binary",
     "transfeminine",
     "legal",
     "healthcare",
@@ -12,11 +11,9 @@
     "social-services",
     "youth-services",
     "support-groups",
-    "parent-family-resources",
     "education-awareness",
     "financial-aid-scholarships",
-    "community-stories",
-    "partner-resources"
+    "community-stories"
   ],
   "address": "3207 Lakeshore Ave, Oakland, CA 94610, USA",
   "phoneNumber": "510-882-2286",
@@ -24,7 +21,10 @@
   "provinceOrState": "CA",
   "city": "Oakland",
   "county": "Alameda County",
-  "latLng": [37.8103802, -122.2459822],
+  "latLng": [
+    37.8103802,
+    -122.2459822
+  ],
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": "https://goo.gl/maps/EnhwARKBin25SAmA6",
@@ -121,5 +121,14 @@
       "title": "ओकलॅंड LGBTQ समुदाय केंद्र",
       "description": "ओकलॅंडचे एकच निधी विनियोग 501c3, सर्व वयोगटां, सर्व समाविष्ट LGBTQ समुदाय सेवा केंद्र. सेवेमध्ये समर्थन समूह, मानसिक आरोग्य समर्थन, निवास सहाय्य, तरुण कार्यक्रम, कायद्याशास्त्रीय चौकशी, अन्नकोठर इत्यादी समाविष्ट आहे. वयस्क LGBTQ+ लोक आणि तरुणसमुदाय सदस्यांसाठी विशेष कार्यक्रमही केलेले आहे."
     }
-  }
+  },
+  "title": "Oakland LGBTQ Community Center",
+  "description": "Oakland's first ever Non-profit 501c3, all ages, all inclusive LGBTQ community service center. Services offered include support groups, mental health support, housing assistance, youth program, legal clinic, food pantry etc. Special programs are also conducted for aged LGBTQ+ people and transgender community members.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center",
+    "healthcare-provider",
+    "support-group",
+    "legal-service"
+  ]
 }

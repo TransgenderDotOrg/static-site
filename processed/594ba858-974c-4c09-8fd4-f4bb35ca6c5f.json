@@ -5,10 +5,12 @@
   "slug": "pacific-center-for-human-growth",
   "externalUrl": "https://www.pacificcenter.org/",
   "tags": [
-    "mental-health",
-    "support-groups",
     "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
     "youth-services",
+    "parent-family-resources",
     "education-awareness"
   ],
   "address": "2712 Telegraph Ave, Berkeley, CA 94705, USA",
@@ -17,7 +19,10 @@
   "provinceOrState": "CA",
   "city": "Berkeley",
   "county": "Alameda County",
-  "latLng": [37.8611143, -122.2593404],
+  "latLng": [
+    37.8611143,
+    -122.2593404
+  ],
   "socialMedia": {
     "yelpUrl": "https://www.yelp.com/biz/pacific-center-berkeley",
     "googleMapsUrl": "https://goo.gl/maps/dSnoipA7TWiDN72b7",
@@ -28,5 +33,10 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

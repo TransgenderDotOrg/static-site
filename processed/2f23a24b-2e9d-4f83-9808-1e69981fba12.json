@@ -6,7 +6,7 @@
   "externalUrl": "https://ftm-portal.net",
   "tags": [
     "transmasculine",
-    "education-awareness",
+    "social-services",
     "support-groups"
   ],
   "address": null,
@@ -17,5 +17,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform",
+    "community-center"
+  ]
 }

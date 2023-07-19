@@ -3,12 +3,9 @@
   "slug": "transadvice-peer-based-transgender-support-chat-live-support-chat",
   "externalUrl": "https://transadvice.org/",
   "tags": [
-    "transmasculine",
     "non-binary",
-    "transfeminine",
-    "mental-health",
     "support-groups",
-    "community-stories",
+    "partner-resources",
     "discord-groups"
   ],
   "address": null,
@@ -108,5 +105,12 @@
       "title": "ట్రాన్స్‌యాడ్వైజ్ పీర్ బేస్డ్ ట్రాన్స్‌జెండర్ మద్దతు చాట్. లైవ్ మద్దతు చాట్",
       "description": "ట్రాన్స్యాడ్వైజ్ ఓ సముదాయ ప్రేరణ నెట్వర్క్ మరియు దీనికి సంబంధించిన పురుష మరియు మహిళా సముదాయాల సభ్యులకు మరియు అనిశ్చిత స్థాయి కమ్మునిటీల సభ్యులకు, వారి కుటుంబ సభ్యులకు, గురువులకు, మిత్రులకు మరియు సోదారులకు మద్దతు మరియు వనరుల కోసం సురక్షిత మరియు తెరవేన స్థలం అందిస్తుంది."
     }
-  }
+  },
+  "title": "TransAdvice Peer based transgender support chat. Live Support Chat",
+  "description": "TransAdvice is a community driven network offering a safe and open space for support and resources for members of the transgender and non-binary communities, as well as their family members, significant others, friends, and allies.",
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

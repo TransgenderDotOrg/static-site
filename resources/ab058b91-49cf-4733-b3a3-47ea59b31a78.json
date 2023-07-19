@@ -7,12 +7,8 @@
     "non-binary",
     "transfeminine",
     "legal",
-    "mental-health",
-    "social-services",
     "support-groups",
-    "education-awareness",
-    "financial-aid-scholarships",
-    "community-stories"
+    "financial-aid-scholarships"
   ],
   "email": "info@aplaceformarshaofficial.org",
   "socialMedia": {
@@ -103,5 +99,11 @@
       "title": "மார்ஷாக்கான இடம்",
       "description": "மார்ஷாக்கான இடம் ஆகியவை, ஆதிகமான அபாயங்களுக்கு இருப்புவதிலிருந்து பாதுகாப்பான இடத்தில் டிரான்ஸ் நபர்கள் மற்றும் குடும்பங்களுக்கு உதவ நோக்குகின்றன. தேசத்தின் சுற்றுலாவில் முரண்டிய அண்டிரான்ஸ் சட்டங்களுக்கு எதிராக மார்ச், 2023ம் ஆண்டுக்கு அதன் பயணத்தை தொடங்கி. இப்போது APFM சிவப்புநில மாநிலங்களிலிருந்து அகதிகளை ஒரே வீட்டிற்கு ஒரு நண்பரின் வேண்டுவதைப் பொருத்துவதில் கூற்றுத் தழுவுகின்றது, மிகவும் கவனமாக ஒரே வீட்டாக."
     }
-  }
+  },
+  "title": "A Place for Marsha",
+  "description": "A Place for Marsha is one of many start-up projects aiming towards helping Trans individuals and families in increasingly dangerous states to a safer place. APFM began its journey in March of 2023 in reaction to the rise of anti-trans legislation around the nation. APFM now focuses on matching Refugees from red states as roommates, carefully handling one household at a time.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

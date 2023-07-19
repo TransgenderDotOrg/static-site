@@ -7,7 +7,9 @@
     "healthcare",
     "education-awareness",
     "parent-family-resources",
-    "support-groups"
+    "mental-health",
+    "community-stories",
+    "legal"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +105,11 @@
       "title": "ట్రాన్స్‌మాస్కులిన్‌ ప్రజననం యొక్క సమ్పూర్ణ మార్గదర్శకం",
       "description": "ట్రాన్స్‌మాస్కులిన్‌ సంపూర్ణత, గర్భం, పోస్ట్‌పార్టం, పాలచేయుట, మరియు మాతృత్వం పై సమాచారం అందించే వ్యాపక మార్గదర్శకం. ఈ వనరులో ట్రాన్స్-ఆఫర్మింగ్ ఆరోగ్య పరాచారకులు, పక్కవీతిలో పరిశోధిత ప్రశ్నలను, వివిధ వనరులను, మరియు మరింత సమాచారాన్ని ఆవిష్కరించడానికి మరియు ట్రాన్స్‌మాస్కులిన్‌ వ్యక్తులను మాతృత్వ ప్రయాణంలో మద్దతు చేయడానికి ఉన్నాయి."
     }
-  }
+  },
+  "title": "A Complete Guide to Transmasculine Reproduction",
+  "description": "A comprehensive guide offering information on transmasculine fertility, pregnancy, postpartum, lactation, and parenthood. The resource includes trans-affirming health care providers, researched FAQs, various resources and more for educating and supporting transmasculine individuals on their parenting journey.",
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

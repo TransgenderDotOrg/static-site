@@ -6,6 +6,8 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
+    "healthcare",
+    "parent-family-resources",
     "community-stories",
     "education-awareness"
   ],
@@ -103,5 +105,10 @@
       "title": "ట్రాన్స్ ఫెర్టిలిటీ కొ. షాప్ లైవ్",
       "description": "ట్రాన్స్ ఫెర్టిలిటీ కొ. షాప్ ట్రాన్స్జెండర్ ఫెర్టిలిటీ యొక్క వివిధ దృష్టాంతాలను సంబంధించి వనరులు, ప్రస్తుతాలు మరియు వ్యక్తిగత కథలను అందిస్తోంది. ఇది నేర్చుకోవడానికి, పంచుకోవడానికి మరియు ట్రాన్స్ ఫెర్టిలిటీను జరుపుకోవడానికి ఒక వేదిక."
     }
-  }
+  },
+  "title": "Trans Fertility Co. Shop Live",
+  "description": "Trans Fertility Co. Shop is providing resources, interviews and personal stories regarding diverse aspects of transgender fertility. It is a platform to learn, share and celebrate the trans fertility.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

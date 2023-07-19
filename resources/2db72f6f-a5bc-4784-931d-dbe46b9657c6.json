@@ -5,7 +5,8 @@
   "tags": [
     "education-awareness",
     "financial-aid-scholarships",
-    "youth-services"
+    "community-stories",
+    "non-profit-organization"
   ],
   "address": null,
   "phoneNumber": null,
@@ -101,5 +102,11 @@
       "title": "ది పిన్నాకల్ ఫౌండేషన్",
       "description": "ది పిన్నాకల్ ఫౌండేషన్ ఒక ఆస్ట్రేలియాన్ విద్యా చరిత్రాస్థ సంస్థ అది యువ ఎల్జిబిటిక్యూ ఆస్ట్రేలియాన్లకు విద్యా విద్యా సంస్థలు, మంటరింగ్ మరియు అవకాశాలను అందిస్తుంది. విద్యా విద్యా సంస్థలు పాఠశాలలలో పూర్తి సమయంలో చదువడానికి అందించబడుతుంది."
     }
-  }
+  },
+  "title": "The Pinnacle Foundation",
+  "description": "The Pinnacle Foundation is an Australian education charity providing scholarships, mentoring and opportunities to young LGBTQIA+ Australians. The scholarships are awarded for fulltime study at public institutions of higher education in Australia.",
+  "organizationType": [
+    "educational-institution",
+    "non-profit-organization"
+  ]
 }

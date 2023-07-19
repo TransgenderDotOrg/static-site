@@ -2,7 +2,16 @@
   "id": "18ba5d3d-c47d-47f8-90a4-2f353a1f13ce",
   "slug": "ftmguideorg",
   "externalUrl": "https://FTMGuide.org",
-  "tags": ["non-binary", "transmasculine", "healthcare", "clothing"],
+  "tags": [
+    "transmasculine",
+    "healthcare",
+    "clothing",
+    "education-awareness"
+  ],
   "title": "FTMGuide.org",
-  "description": "A comprehensive online platform dedicated to supporting individuals who are transitioning from female to male (FTM). Their website serves as a trusted resource, offering a wealth of information, guidance, and community connections for those embarking on their FTM journey. From practical advice on hormone therapy and surgical options to mental health support and personal stories, FTMGuide.org aims to empower individuals with the knowledge and resources they need to navigate their transition with confidence and clarity."
+  "description": "A comprehensive online platform dedicated to supporting individuals who are transitioning from female to male (FTM). Their website serves as a trusted resource, offering a wealth of information, guidance, and community connections for those embarking on their FTM journey. From practical advice on hormone therapy and surgical options to mental health support and personal stories, FTMGuide.org aims to empower individuals with the knowledge and resources they need to navigate their transition with confidence and clarity.",
+  "organizationType": [
+    "online-platform",
+    "educational-institution"
+  ]
 }

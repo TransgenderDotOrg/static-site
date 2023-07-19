@@ -6,14 +6,14 @@
   "externalUrl": "https://bravespacealliance.org/",
   "tags": [
     "transmasculine",
+    "non-binary",
     "transfeminine",
-    "legal",
     "healthcare",
     "mental-health",
     "social-services",
-    "support-groups",
+    "community-stories",
     "education-awareness",
-    "financial-aid-scholarships"
+    "clothing"
   ],
   "address": "1515 E 52nd Pl 3rd Floor, Chicago, IL 60615, USA",
   "phoneNumber": "(872) 333-5199",
@@ -33,5 +33,10 @@
     "twitterUrl": "https://twitter.com/BSAllianceChi",
     "instagramUrl": "https://www.instagram.com/bravespacealliance/",
     "tiktokUrl": "https://www.tiktok.com/@bravespacealliance"
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "non-profit-organization",
+    "local-office"
+  ]
 }

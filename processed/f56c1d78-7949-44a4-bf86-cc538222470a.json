@@ -5,10 +5,13 @@
   "slug": "camp-lilac",
   "externalUrl": "https://www.camplilac.org/",
   "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
     "youth-services",
-    "mental-health",
+    "education-awareness",
     "support-groups",
-    "education-awareness"
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +21,9 @@
   "county": null,
   "latLng": null,
   "email": "info@camplilac.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "educational-institution"
+  ]
 }

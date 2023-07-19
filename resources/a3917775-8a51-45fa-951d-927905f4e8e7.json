@@ -4,7 +4,8 @@
   "externalUrl": "https://www.azaleainstitute.com/",
   "tags": [
     "mental-health",
-    "healthcare",
+    "healthcare-provider",
+    "support-group",
     "education-awareness"
   ],
   "address": "2795 Front St A, Cuyahoga Falls, OH 44221, USA",
@@ -109,5 +110,10 @@
       "title": "ది అజలీయా ఇన్స్టిట్యూట్: కౌన్సిలింగ్ & వెల్నెస్ సెంటర్",
       "description": "ది అజలీయా ఇన్స్టిట్యూట్ మానసిక ఆరోగ్యం మరియు సముదాయ ఆరోగ్య సేవలను అందిస్తుంది మరియు కట్టుమనీషి ట్రామా, PTSD, దీప్రెషన్, ఆంక్ష, మరియు మరిన్ని ప్రశ్నల విశేషాంశంగా చికిత్సించే నిపుణులు. ఇన్స్టిట్యూట్ వ్యక్తిగత, కుటుంబం, మరియు గుంపు కౌన్సెలింగ్ వంటి సేవలను, మరియు శిక్షణ, కన్సుల్టేషన్, మరియు చికిత్సావేత్తలకు వృద్ధి సాధ్యతలను అందిస్తుంది."
     }
-  }
+  },
+  "title": "The Azalea Institute: Counseling & Wellness Center",
+  "description": "The Azalea Institute provides mental health and wellness services with specialties in treating a variety of concerns including complex trauma, PTSD, depression, anxiety, and more. The Institute provides services such as individual, family, and group counseling, as well as training, consultation, and professional development opportunities for clinicians.",
+  "organizationType": [
+    "private-practice"
+  ]
 }

@@ -5,8 +5,8 @@
   "slug": "trans-sask-resources",
   "externalUrl": "https://www.transsask.ca/resources/",
   "tags": [
-    "healthcare",
     "legal",
+    "healthcare",
     "support-groups",
     "education-awareness"
   ],
@@ -22,5 +22,8 @@
     "twitterUrl": "https://twitter.com/TransSask",
     "facebookUrl": "https://www.facebook.com/TransSask",
     "instagramUrl": "https://www.instagram.com/TransSask"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

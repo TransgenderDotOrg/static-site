@@ -3,11 +3,9 @@
   "slug": "understanding-and-supporting-transsexuality-in-children-and-parents",
   "externalUrl": "https://www.kinderinfo.de/ratgeber/transsexualitaet/",
   "tags": [
-    "transmasculine",
-    "transfeminine",
-    "youth-services",
+    "education-awareness",
     "parent-family-resources",
-    "education-awareness"
+    "healthcare"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +101,10 @@
       "title": "పిల్లలు మరియు తల్లిదండ్రుల్లో ట్రాన్సెక్స్యుయాలిటీని అర్ధం చేసుకోవడం మరియు మద్దతు ఇవ్వడం",
       "description": "ఈ జర్మన్ వ్యాసం తల్లిదండ్రులో లేదా పిల్లల్లో ట్రాన్సెక్స్యుయాలిటీతో ముగిసే కుటుంబాలకు సమగ్రమైన మార్గదర్శకంగా ఉంది. ఇది ప్రధాన వాయిదాలు మరియు వనరులు గురించి సమాచారం అందిస్తుంది, అర్ధం చేసుకోవడం మరియు సంస్థానాన్ని అంగీకరించటం నుండి సంబంధిత చికిత్సలు మేలుకోవడానికి మార్గదర్శనం అందిస్తుంది."
     }
-  }
+  },
+  "title": "Understanding and Supporting Transsexuality in Children and Parents",
+  "description": "This German article offers a comprehensive guide for families dealing with transsexuality in parents or children. It provides information about key procedures and resources, offering guidance from understanding and accepting the situation to pursuing relevant treatments.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

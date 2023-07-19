@@ -6,9 +6,8 @@
   "externalUrl": "https://asteine8.github.io/projects/pronoun-dressing-room/dressing-room/index.html",
   "tags": [
     "non-binary",
-    "transmasculine",
-    "transfeminine",
-    "education-awareness"
+    "education-awareness",
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +17,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "educational-institution"
+  ]
 }

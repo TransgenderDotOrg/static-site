@@ -7,13 +7,16 @@
   "tags": [
     "transmasculine",
     "transfeminine",
+    "non-binary",
     "healthcare",
     "mental-health",
     "social-services",
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "education-awareness"
+    "community-stories",
+    "education-awareness",
+    "financial-aid-scholarships"
   ],
   "address": null,
   "phoneNumber": null,
@@ -27,5 +30,9 @@
     "facebookUrl": "https://www.facebook.com/PrideCenterSA",
     "twitterUrl": "https://twitter.com/PrideCenterSA",
     "instagramUrl": "https://www.instagram.com/pridecentersa/"
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

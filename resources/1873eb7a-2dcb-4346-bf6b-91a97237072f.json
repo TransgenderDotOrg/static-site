@@ -5,7 +5,8 @@
   "tags": [
     "healthcare",
     "mental-health",
-    "social-services"
+    "support-groups",
+    "education-awareness"
   ],
   "phoneNumber": "+61 (0)2 9646 6700",
   "country": "AU",
@@ -110,5 +111,11 @@
       "title": "టార్చర్ మరియు ట్రామా సర్వైవర్ల చికిత్స మరియు పునర్వాస కోసం ఎన్‌ఎస్‌డబ్ల్యూ సేవ",
       "description": "స్టార్ట్స్ ఒక ప్రత్యేక, లాభరహిత సంస్థ అది చర్యలకు తగిన మానసిక చికిత్సను, మద్దతిని, మరియు సంఘ చర్యలను అందిస్తుంది అంటే జనాలు మరియు సంఘాలు టార్చర్ మరియు శరణాధికారి ట్రామా నుండి సర్దుబాటు చేసుకోవాలని, మరియు వారి జీవితాలను ఆస్ట్రేలియాలో పునర్నిర్మించకు సహాయం చేస్తుంది. వారు అలాగే శరణాధికారి మరియు ఆస్యులం వేదిక నుండి వచ్చిన లెస్‌బియన్, గే, బైసెక్సువల్, ట్రాన్స్‌జెండర్, ఇంటర్‌సెక్స్, క్వీర్, ఎయ్‌ప్రూస్టైవ్‌ల్లు ఉన్న వ్యక్తులను మద్దతు చేస్తుంది."
     }
-  }
+  },
+  "title": "NSW Service for the Treatment and Rehabilitation of Torture and Trauma Survivors",
+  "description": "STARTTS is a specialist, not-for-profit organisation that provides culturally relevant psychological treatment, support, and community interventions to help people and communities heal from torture and refugee trauma and rebuild their lives in Australia. They also support LGBTQIA+ individuals from refugee and asylum seeker backgrounds.",
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider"
+  ]
 }

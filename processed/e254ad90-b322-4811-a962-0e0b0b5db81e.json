@@ -5,10 +5,10 @@
   "slug": "transgender-michigan",
   "externalUrl": "https://www.transgendermichigan.org/",
   "tags": [
-    "advocacy",
+    "transmasculine",
+    "transfeminine",
     "support-groups",
-    "education-awareness",
-    "community-stories"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": "855-345-TGMI",
@@ -18,5 +18,9 @@
   "county": null,
   "latLng": null,
   "email": "info@transgendermichigan.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "support-group"
+  ]
 }

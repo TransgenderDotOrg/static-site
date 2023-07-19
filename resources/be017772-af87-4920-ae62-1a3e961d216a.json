@@ -3,8 +3,12 @@
   "slug": "transamsterdam",
   "externalUrl": "https://www.transamsterdam.nl/",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "education-awareness",
     "artists-creators",
-    "education-awareness"
+    "community-stories"
   ],
   "address": "Linnaeusstraat 89, 1093 EK Amsterdam, Netherlands",
   "phoneNumber": null,
@@ -106,5 +110,13 @@
       "title": "TransAmsterdam",
       "description": "TransAmsterdam అనేది ఆర్ట్, సంస్కృతి, మరియు అమ్స్టర్డామ్ లైఫ్ స్టైల్పై దృష్టిపెట్టిన ఒక ట్రాన్స్ సంస్థ. ఇది ట్రాన్స్జెండర్ సముదాయాన్ని వివిధ స్తంభాల ద్వారా మద్దతు చేస్తుంది. వీటిలో Trans & Friends కఫే, InClusion, మరియు ఇతర ఇవెంట్స్ ద్వారా ముంచేందుకోవాల్సిన అవసరాలు సృష్టించడం ఉంటుంది. అదేవిధంగా, ఇది వర్క్షాప్స్, అంశసూచీ సభలు, మరియు Trans Art School లో థియేటర్ నిర్మాణాల ద్వారా ప్రతిభా అభివృద్ధిని ప్రోత్సహిస్తుంది. చటువటికి, అది ట్రాన్స్జెండర్, నాన్-బైనరీ కళాకారులు, మరియు ప్రత్యక్ష కళాబృందాల కోసం కళ మరియు సంస్కృతి ప్లాట్ఫారమ్ను అందిస్తుంది."
     }
-  }
+  },
+  "title": "TransAmsterdam",
+  "description": "TransAmsterdam is a trans organization focused on art, culture, and lifestyle in Amsterdam. It supports the transgender community through various pillars. These include creating opportunities to meet via Trans & Friends café, InClusion, and other events. It also promotes talent development through workshops, themed meetings, and theater productions at Trans Art School. Finally, it offers an art and culture platform for and by transgender, non-binary artists, and performers.",
+  "organizationType": [
+    "local-office",
+    "community-center",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

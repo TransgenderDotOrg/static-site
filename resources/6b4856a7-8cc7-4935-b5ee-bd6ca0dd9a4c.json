@@ -3,11 +3,10 @@
   "slug": "plume-transgender-nonbinary-healthcare",
   "externalUrl": "https://getplume.co/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
     "healthcare",
-    "support-groups"
+    "support-groups",
+    "legal",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -109,5 +108,11 @@
       "title": "Plume",
       "description": "మారుపు మరియు అసంప్రదాయ సముదాయానికి అతిపెద్ద ఆరోగ్య పొందని అందిస్తున్నది, అది అంగీకారమైన హార్మోన్ చికిత్సను మొదలుపెట్టి, ఆంగ్లియ మరియు మందస్థితికి మందుల వరకూ ప్రయాణ మద్దతు విధానాలను అందిస్తుంది. సముదాయం యొక్క అద్వితీయ ఆరోగ్య అవసరాలను ఆళించే లోతైన అందమైన అరివితో సేవలు అందిస్తాయి, మీను ఆనుకూలమైనది, దృష్టిస్తారు మరియు ప్రేమతో ఆదుకుంటారు. మీరు మీ అంతర్ముఖ స్వభావాన్ని ఏర్పడగలిగే ప్రదేశం మరియు మీకు అవసరమైన చికిత్సను పొందగలిగే చోటు."
     }
-  }
+  },
+  "title": "Plume",
+  "description": "The largest healthcare provider for the trans and nonbinary community offering a range of services including gender-affirming hormone therapy and transition support to medications for anxiety and depression. Services are provided by a trans-led team with a deep understanding of the unique healthcare needs of the community, aimed at making you feel comfortable, seen and cared for. A place where you can be your authentic self and get the care you need.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

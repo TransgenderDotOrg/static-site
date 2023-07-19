@@ -48,21 +48,22 @@ The above content was extracted from {url}. Convert the content into a JSON obje
 
 \`\`\`
 {{
-    id: string [required]
-    title: string [required] (A short title for the resource, in en-US)
-    description: string [required] (A short description about what the resource is about and how it serves the transgender community, in en-US)
-    slug: string [required] [unique] (en-US, kebab-case)
-    externalUrl: Url (string)
-    tags: Tags{{ transmasculine, non-binary, transfeminine, legal, healthcare, mental-health, social-services, youth-services, support-groups, parent-family-resources, partner-resources, community-stories, education-awareness, financial-aid-scholarships, clothing, artists-creators, friendly-businesses, makeup, voice-training, discord-groups, spiritual }}[]
-    address: Address (string) [optional, Google Maps friendly]
-    phoneNumber: PhoneNumber (string) [optional]
-    country: Country (string) [optional] (two letter country code)
-    provinceOrState: ProvinceOrState (string) [optional] (two letter province or state code)
-    city: City (string) [optional]
-    county: County (string) [optional]
-    latLng: LatLng (string) [optional] 
-    email: Email (string) [optional]
-    socialMedia: {{ yelpUrl: Url, googleMapsUrl: Url, ... }} [optional]
+  id: string [required]
+  title: string [required] (A short title for the resource, in multiple languages)
+  description: string [required] (A short description about what the resource is about and how it serves the transgender community, in multiple languages)
+  slug: string [required] [unique] (en-US, kebab-case)
+  externalUrl: Url (string)
+  tags: Tags{{ transmasculine, non-binary, transfeminine, legal, healthcare, mental-health, social-services, youth-services, support-groups, parent-family-resources, partner-resources, community-stories, education-awareness, financial-aid-scholarships, clothing, artists-creators, friendly-businesses, makeup, voice-training, discord-groups, spiritual, endocrinologists, surgeons, informed-consent-clinics }}[]
+  organizationType: OrganizationType{{ national-organization, local-office, community-center, online-platform, healthcare-provider, informed-consent-clinic, support-group, legal-service, educational-institution, non-profit-organization, government-entity, private-practice }}[]
+  address: Address (string) [optional, Google Maps friendly]
+  phoneNumber: PhoneNumber (string) [optional]
+  country: Country (string) [optional] (two letter country code)
+  provinceOrState: ProvinceOrState (string) [optional] (two letter province or state code)
+  city: City (string) [optional]
+  county: County (string) [optional]
+  latLng: LatLng (string) [optional] 
+  email: Email (string) [optional]
+  socialMedia: {{ yelpUrl: Url, googleMapsUrl: Url, ... }} [optional]
 }}
 \`\`\``;
 const translationPrompt = new PromptTemplate({

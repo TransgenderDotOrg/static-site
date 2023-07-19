@@ -6,14 +6,17 @@
   "externalUrl": "https://www.rfsl.se/",
   "tags": [
     "transmasculine",
-    "transfeminine",
     "non-binary",
+    "transfeminine",
     "legal",
     "healthcare",
     "mental-health",
     "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
     "education-awareness",
-    "support-groups"
+    "financial-aid-scholarships"
   ],
   "address": null,
   "phoneNumber": null,
@@ -23,5 +26,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": {}
+  "socialMedia": {},
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

@@ -3,12 +3,13 @@
   "slug": "deutsche-gesellschaft-fur-transidentitat-und-intersexualitat",
   "externalUrl": "https://dgti.org/",
   "tags": [
-    "transmasculine",
-    "transfeminine",
-    "non-binary",
     "legal",
     "healthcare",
-    "education-awareness"
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "non-profit-organization"
   ],
   "address": null,
   "phoneNumber": null,
@@ -111,5 +112,12 @@
       "title": "டெயுச்சே கெசெல்சாப்ட் போர் டிரான்ஸிடென்டிடாட் உண்ட் இன்டெர்ஸெக்ஷுவலிடாட்",
       "description": "டெயுச்சே கெசெல்சாப்ட் போர் டிரான்ஸிடென்டிடாட் உண்ட் இன்டெர்ஸெக்ஷுவலிடாட் (dgti) என்பது ஜெர்மனியில் தேசிய அளவிலான தொழிற்சங்கத்தைக் குறிக்கின்றது, அது அனைத்து சமூக அளவுகளிலும் டிரான்ஸ், இன்டெர்-ஜென்டர், நான்-பைனரி, மற்றும் அஜெண்டர் மக்களின் ஏற்றுரைக்கையும், சமமானமாக முழு ஏற்றுப்பாட்டையும் எதிர்கொள்ளும். dgti பீர்டுபீர் ஆலோசனை, சட்டத்தின் தகவல், செய்திகள், மற்றும் டிரான்ஸ்* ஆலோசகர்கள் மற்றும் மருத்துவ நிபுணர்களுக்கான பல வளங்களுமான திட்டங்களை வழங்குகின்றது."
     }
-  }
+  },
+  "title": "Deutsche Gesellschaft für Transidentität und Intersexualität",
+  "description": "The Deutsche Gesellschaft für Transidentität und Intersexualität (dgti) is a nationwide professional society in Germany that advocates for the acceptance and equality of trans, inter-gender, non-binary, and agender people at all levels of society. The dgti provides peer-to-peer consultation, legal information, news, and has various resource programs for trans* consultants and medical professionals.",
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

@@ -6,10 +6,11 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "social-services",
+    "mental-health",
     "youth-services",
     "support-groups",
-    "education-awareness"
+    "education-awareness",
+    "community-center"
   ],
   "address": null,
   "phoneNumber": null,
@@ -107,5 +108,14 @@
       "title": "Twenty10",
       "description": "Twenty10 మరియు GLCS వివిధ జీవమార్పణ సేవలను ఆంధ్రప్రదేశదానికి చెందిన యువతరాలకు అందిస్తుంది, వారు లెస్బియన్, గేయ్, బైసెక్సువల్, ట్రాన్స్జెండర్ లేదా జెండర్ డివర్స్, ఇంటర్సెక్స్, క్వియర్, అసెక్షుఅల్ లేదా వారు తమ గురించి ప్రశ్నించవచ్చు. వారి సేవలు ఇన్టేక్ మరియు రిఫెరల్, ఆవాసం మరియు కేసు నిర్వహణ, కౌన్సిలింగ్, సోషల్ మద్దతు కార్యక్రమాలు, మరియు LGBTIQA+ సమావేశత్వ ప్రశిక్షణ ఉన్నాయి"
     }
-  }
+  },
+  "title": "Twenty10",
+  "description": "Twenty10 including GLCS provides various life-changing services to young people across NSW who identify as lesbian, gay, bisexual, transgender or gender diverse, intersex, queer, asexual or are questioning their identity. Their services include intake and referral, housing and case management, counseling, social support programs, and LGBTIQA+ inclusivity training",
+  "organizationType": [
+    "national-organization",
+    "local-office",
+    "community-center",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

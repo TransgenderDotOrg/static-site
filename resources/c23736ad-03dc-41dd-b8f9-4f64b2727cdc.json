@@ -3,12 +3,12 @@
   "slug": "freedom-centre-wa",
   "externalUrl": "https://www.freedom.org.au/",
   "tags": [
-    "youth-services",
     "mental-health",
     "social-services",
+    "youth-services",
     "support-groups",
-    "education-awareness",
-    "parent-family-resources"
+    "parent-family-resources",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -107,5 +107,11 @@
       "title": "స్వేచ్ఛా కేంద్రం",
       "description": "స్వేచ్ఛా కేంద్రం WA ఆధారితమైన LGBTIQA+ యువత పైబడి విపులమైన మద్దతు సేవలను అందించుతుంది, దీనిలో డ్రాప్-ఇన్ సెషన్లు, సముదాయ అభివృద్ధి, సంబంధ సమాధానం, మరియు మరెన్నో ఉన్నాయి. వారు అన్ని LGBTIQA+ యువతకు సేర్పుడు, కనెక్షన్, గౌరవానికి ఉండడానికి పని చెందుతున్నారు. వారు మాతృవర్గాలు, వృత్తివంతులు, సముదాయాలు మరియు సంస్థలకు ప్రశిక్షణ మరియు సలహాలు అందించారు."
     }
-  }
+  },
+  "title": "Freedom Centre",
+  "description": "Freedom Centre provides a broad range of support services for LGBTIQA+ young people around WA, including drop-in sessions, community development, counselling and much more. They work towards making all LGBTIQA+ young people feel included, connected and respected. They also provide training and guidance to parents, professionals, communities and organisations.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

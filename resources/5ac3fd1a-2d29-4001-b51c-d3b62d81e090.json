@@ -4,16 +4,16 @@
   "externalUrl": "https://tgv.org.au/",
   "tags": [
     "transmasculine",
-    "transfeminine",
     "non-binary",
+    "transfeminine",
     "legal",
     "healthcare",
     "mental-health",
     "social-services",
     "support-groups",
     "parent-family-resources",
-    "partner-resources",
-    "education-awareness"
+    "education-awareness",
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -113,5 +113,10 @@
       "title": "ట్రాన్స్ జెండర్ విక్టోరియా",
       "description": "TGV విక్టోరియాలోని ట్రాన్స్‌లు మరియు లింగ విభేదాల ఉన్న ప్రజల కోసం ముందును జార్చే సంస్థ. మా కమ్యూనిటీలకు, వారి భార్యభర్తలు, కుటుంభాలు, స్నేహితులు మరియు మిత్రులకు న్యాయం, సమానత్వం మరియు సమావేశం పొందడానికి మేము పనిచేస్తాము. మాకు వివిధ సంపద, శిక్షణ, మనవహక్కుల పరిరక్షణ, మరియు మదదు సేవలు ఉన్నాయి జోకు ట్రాన్స్ జెండర్ కమ్యూనిటీ కోసం సామాజిక, ఆర్థిక, ఆరోగ్య, సౌభాగ్యం, మరియు మానసిక ఆరోగ్య ఫలితాలను లక్ష్యించడానికి."
     }
-  }
+  },
+  "title": "Transgender Victoria",
+  "description": "TGV is Victoria’s leading body for trans and gender diverse people. We work to achieve justice, equity and inclusion for our communities, their partners, families, friends, and allies. We provide various resources, training, advocacy, and support services aimed at the social, economic, health, wellbeing, and mental health outcomes for the transgender community.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

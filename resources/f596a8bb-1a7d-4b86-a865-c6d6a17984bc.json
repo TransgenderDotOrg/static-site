@@ -4,14 +4,17 @@
   "externalUrl": "https://www.rfsl.se/",
   "tags": [
     "transmasculine",
-    "transfeminine",
     "non-binary",
+    "transfeminine",
     "legal",
     "healthcare",
     "mental-health",
     "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
     "education-awareness",
-    "support-groups"
+    "financial-aid-scholarships"
   ],
   "address": null,
   "phoneNumber": null,
@@ -107,5 +110,11 @@
       "title": "RFSL - లెస్బియన్, గే, బైసెక్సుయాల్, ట్రాన్స్జెండర్ మరియు క్యూయర్ హక్కుల కోసం స్వీడిష్ సంఘం",
       "description": "RFSL అనేది ఒక స్వీడిష్ సంస్థ అది ఎల్బిజిటిక్యు హక్కులతో మరియు వాటి కోసం పనిచేస్తుంది. వారు అత్యవసరమైన వనరులు, సముదాయ మద్దతు, విద్య, ప్రజ్ఞ పెరిగించే పద్ధతులు, చట్టబద్ధ మార్గదర్శన, ఆరోగ్య సేవలు మరియు ఇంకా ఎన్నెన్నో ట్రాన్స్జెండర్ సముదాయకు అందించబడతాయి. RFSL అలాగే అంతర్జాతీయ స్థాయిలో ఎల్బిజిటిక్యు హక్కుల ప్రచారాన్ని పరిపోషిస్తుంది."
     }
-  }
+  },
+  "title": "RFSL - The Swedish Federation for Lesbian, Gay, Bisexual, Transgender and Queer Rights",
+  "description": "RFSL is a Swedish organization that works with and for LGBTQ rights. They provide crucial resources, community support, education & awareness, legal guidance, health services, and more for the transgender community. RFSL also promotes LGBTQ rights on an international level.",
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization"
+  ]
 }

@@ -5,8 +5,11 @@
   "slug": "seahorse-victoria-club",
   "externalUrl": "https://seahorsevic.com.au/",
   "tags": [
-    "support-groups",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "community-stories",
+    "support-groups",
     "friendly-businesses"
   ],
   "address": "St Kilda VIC 3182, Australia",
@@ -23,5 +26,10 @@
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

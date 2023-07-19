@@ -4,6 +4,8 @@
   "externalUrl": "https://www.ntahc.org.au/",
   "tags": [
     "healthcare",
+    "support-groups",
+    "legal",
     "social-services",
     "education-awareness"
   ],
@@ -107,5 +109,11 @@
       "title": "నార్తర్న్ టెరిటరీ ఎయిడ్స్ మరియు హెపటైటిస్ కౌన్సిల్ ఇన్క్.",
       "description": "నార్తర్న్ టెరిటరీలో బ్లడ్ బోర్న్ వైరసీలకి సంఘ స్పందన. వాటి ప్రచారణాన్ని పూర్తిగా అమలు చేపడుటకు ప్రయత్నిస్తోంది. LGBTI లివింగ్‌ను మద్దతు చేయడానికి, సెక్స్ పనిమనిషి ఔట్ రీచ్‌ను ప్రచారించడానికి మరియు ఆరోగ్య ప్రచారము మరియు ఆరోగ్య క్లినిక్స్ అందించడానికి ఒక విధంగా సేవలు అందిస్తుంది."
     }
-  }
+  },
+  "title": "Northern Territory AIDS and Hepatitis Council Inc.",
+  "description": "A community response to Blood Borne Viruses in the Northern Territory, aiming to eliminate their transmission. Offers a range of services such as supporting LGBTI Living, promoting sex worker outreach, and providing health promotion and health clinics.",
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

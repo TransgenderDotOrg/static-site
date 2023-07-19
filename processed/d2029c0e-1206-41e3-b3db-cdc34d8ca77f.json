@@ -5,12 +5,7 @@
   "slug": "refuge-restrooms",
   "externalUrl": "https://www.refugerestrooms.org/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
-    "legal",
-    "healthcare",
-    "support-groups"
+    "friendly-businesses"
   ],
   "address": null,
   "phoneNumber": null,
@@ -23,5 +18,9 @@
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": null
-  }
+  },
+  "organizationType": [
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

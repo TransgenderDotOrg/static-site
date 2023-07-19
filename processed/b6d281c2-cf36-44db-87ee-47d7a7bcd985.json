@@ -8,6 +8,7 @@
     "healthcare",
     "mental-health",
     "youth-services",
+    "parent-family-resources",
     "education-awareness"
   ],
   "address": "Perkins Square, Akron, OH 44302, USA",
@@ -21,5 +22,9 @@
     -81.526519
   ],
   "email": "webmaster@akronchildrens.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization"
+  ]
 }

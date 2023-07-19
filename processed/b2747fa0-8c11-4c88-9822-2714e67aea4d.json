@@ -5,7 +5,8 @@
   "slug": "university-of-toledo-medical-center",
   "externalUrl": "https://utmc.utoledo.edu/",
   "tags": [
-    "healthcare"
+    "healthcare",
+    "education-awareness"
   ],
   "address": "3000 Arlington Ave, Toledo, OH 43614, USA",
   "phoneNumber": "419.383.4000",
@@ -18,5 +19,9 @@
     -83.61584409999999
   ],
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

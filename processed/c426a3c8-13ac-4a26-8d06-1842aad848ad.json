@@ -8,6 +8,8 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
+    "healthcare",
+    "parent-family-resources",
     "community-stories",
     "education-awareness"
   ],
@@ -19,5 +21,8 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform"
+  ]
 }

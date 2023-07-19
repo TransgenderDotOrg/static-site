@@ -6,6 +6,8 @@
   "externalUrl": "https://www.ntahc.org.au/",
   "tags": [
     "healthcare",
+    "support-groups",
+    "legal",
     "social-services",
     "education-awareness"
   ],
@@ -23,5 +25,9 @@
   "socialMedia": {
     "yelpUrl": null,
     "googleMapsUrl": "https://www.google.com/maps?q=46+Woods+StreetDARWIN+NT+0800"
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "community-center"
+  ]
 }

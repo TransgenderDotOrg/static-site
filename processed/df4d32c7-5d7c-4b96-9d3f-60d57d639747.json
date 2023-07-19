@@ -6,9 +6,11 @@
   "externalUrl": "https://www.familyequality.org/",
   "tags": [
     "legal",
-    "education-awareness",
+    "social-services",
+    "support-groups",
     "parent-family-resources",
-    "support-groups"
+    "education-awareness",
+    "community-stories"
   ],
   "address": "475 Park Ave S #2100, New York, NY 10016, USA",
   "phoneNumber": null,
@@ -22,5 +24,9 @@
   ],
   "email": null,
   "socialMedia": null,
-  "town": "Manhattan"
+  "town": "Manhattan",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

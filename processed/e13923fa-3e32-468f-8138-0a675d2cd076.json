@@ -6,7 +6,7 @@
   "externalUrl": "https://wiki.sumianvoice.com/",
   "tags": [
     "voice-training",
-    "education-awareness"
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +18,8 @@
   "email": "sumianvoice@gmail.com",
   "socialMedia": {
     "githubUrl": "https://github.com/sumiansvoice"
-  }
+  },
+  "organizationType": [
+    "online-platform"
+  ]
 }

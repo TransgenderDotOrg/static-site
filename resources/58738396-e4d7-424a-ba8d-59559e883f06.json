@@ -3,11 +3,8 @@
   "slug": "strandsfortransorg",
   "externalUrl": "https://strandsfortrans.org",
   "tags": [
-    "transfeminine",
-    "non-binary",
-    "transmasculine",
     "friendly-businesses",
-    "makeup"
+    "community-stories"
   ],
   "i18n": {
     "en-US": {
@@ -94,5 +91,11 @@
       "title": "strandsfortrans.org",
       "description": "ஸ்ட்ரான்ஸ் ஃபார் டிரான்ஸ், முதலியவற்றில் உள்ள முழுவதும் உலக அளவில் மூடி, அழகு, மற்றும் ஆரோக்கியத்தில் உள்ள தொழில்துறைகள் மற்றும் அமைப்புகளின் வலையமைப்பேது. அவை அனைத்து விருந்தினர்களுக்கும், குறிப்பாக டிரான்ஸ் சமுதாயத்தில் இருந்து வரும் விருந்தினர்களுக்கும், பாதுகாப்பான மற்றும் நேர்ம அனுபவங்களை உருவாக்குவதற்கு மற்றும் அதை ஊக்குவிக்குவதற்கு முயல்கின்றன."
     }
-  }
+  },
+  "title": "strandsfortrans.org",
+  "description": "Strands For Trans is a global network of hair, beauty, and wellness industries and organizations that seek to create and inspire safe and positive experiences for all guests, especially guests from the trans community.",
+  "organizationType": [
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

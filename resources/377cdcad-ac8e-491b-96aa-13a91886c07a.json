@@ -3,6 +3,8 @@
   "slug": "jim-collins-foundation",
   "externalUrl": "https://jimcollinsfoundation.org/",
   "tags": [
+    "transmasculine",
+    "transfeminine",
     "healthcare",
     "financial-aid-scholarships"
   ],
@@ -104,5 +106,11 @@
       "title": "జిమ్ కాలిన్స్ ఫౌండేషన్",
       "description": "జిమ్ కాలిన్స్ ఫౌండేషన్ (JCF) యొక్క లక్ష్యం జెండర్-మధ్యస్థత శస్త్ర చికిత్సకు ఆర్థిక సహాయంను ట్రాన్స్జెండర్ వ్యక్తులకు అందించడం. ఈ ఫౌండేషన్ రెండు గ్రాంట్ ఎంపికలను అందిస్తుంది; ది ఫౌండర్స్' గ్రాంట్ అంటే శస్త్ర చికిత్స ఖర్చుల 100%ను కవర్ చేస్తుంది మరియు The Krysallis Anne Hembrough Legacy Fund అంటే శస్త్ర చికిత్స ఖర్చుల యొక్క 50%ను కవర్ చేస్తుంది. ఫౌండేషన్ ఆ అత్యవసర శస్త్ర చికిత్సలను అందరు పొందగలిగేలా చేసేందుకు ప్రయతిస్తోంది, వీటికి అగ్రహంగా ఉన్నవారెవరైనా కానీ, ట్రాన్స్జెండర్ వ్యక్తులపై వ్యాప్తిగా ఉన్న భేదభావం కారణంగా, అలాంటి ఖర్చులు సాధారణంగా పూర్తి చేసేందుకు అసాధ్యమాయే పరిస్థితి."
     }
-  }
+  },
+  "title": "Jim Collins Foundation",
+  "description": "The mission of the Jim Collins Foundation (JCF) is to provide financial assistance to transgender people for gender-affirming surgeries. This foundation offers two grant options; The Founders' Grant which covers 100% of the surgical costs and The Krysallis Anne Hembrough Legacy Fund which covers 50% of surgical costs. The foundation aims to provide access to these vital surgeries for those who want it but due to prevalent discrimination against transgender people, such costs are usually impossible to meet.",
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

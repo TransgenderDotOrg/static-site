@@ -6,17 +6,14 @@
     "transmasculine",
     "non-binary",
     "transfeminine",
-    "legal",
     "healthcare",
     "mental-health",
     "social-services",
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "partner-resources",
-    "community-stories",
     "education-awareness",
-    "financial-aid-scholarships"
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": "(02) 6162 1924",
@@ -112,5 +109,13 @@
       "title": "ఒక లింగ అజెండా",
       "description": "అ లింగ అజెండా అంతర్జనాన, ట్రాన్స్ మరియు లింగ వైవిధ్యత ఉన్న వ్యక్తుల తో, వారి స్నేహితులు, కుటుంబాలు, మరియు మిత్రులు ప్రత్యామ్నాయంగా పని చేస్తుంది. విద్యాశాఖ, హక్కుల గురించి ప్రచారం, సహజాతి మద్దతు, మరియు ప్రొఫెషనల్ నెట్వర్క్స్ ద్వారా, AGA వ్యక్తులను ఒకరి నుండి మరొకరికి కలుగుజేస్తుంది మరియు సమూహ అనుభవాలను పాఠ్యాంశంగా ఉపయోగిస్తుంది. సముదాయ కోసం అనేక సంఘటనలు మరియు వనరులను అందిస్తుంది, అందులో మద్దతు సమూహాలు, శిక్షణ, విద్యా సంపద. అవి హక్కుల గురించి ప్రచారం మరియు సంక్షోభ హెల్ప్ లైన్ అందించనున్నాయి."
     }
-  }
+  },
+  "title": "A Gender Agenda",
+  "description": "A Gender Agenda works with and on behalf of intersex, trans and gender diverse people, their friends, families, and allies. Through education, advocacy, peer support, and professional networks, AGA connects people to each other and builds off the collective experiences. They offer numerous events and resources for the community, including support groups, training, educational resources. They provide advocacy and crisis helpline.",
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform",
+    "community-center",
+    "support-group"
+  ]
 }

@@ -3,9 +3,9 @@
   "slug": "the-trevor-project",
   "externalUrl": "https://www.thetrevorproject.org/",
   "tags": [
+    "mental-health",
     "youth-services",
     "support-groups",
-    "mental-health",
     "education-awareness"
   ],
   "address": "West Hollywood, CA 90069, USA",
@@ -115,5 +115,12 @@
       "title": "ది ట్రేవర్ ప్రాజెక్ట్",
       "description": "ది ట్రేవర్ ప్రాజెక్ట్ అనేది అమెరికన్ నాన్-ప్రాఫిట్ సంస్థ అంటే, LGBTQ+ యువతికి ఆత్మహత్య నివారణ సేవల అందిస్తుంది. ఆ సైట్ ట్రాన్స్‌జెండర్ సముదాయంలో ప్రయోజనకరమైన వనరులను అందిస్తుంది, దీనిలో ఆపద్వాన ప్రతిస్పందన మరియు ఆత్మహత్య నివారణ లైఫ్ లైన్, ట్రేవర్ చాట్, మరియు ట్రేవర్ టెక్స్ట్ లను కలిగిఉంటుంది, మరియు మానసిక ఆరోగ్య మీద మార్గదర్శనం, సామాజిక సేవలు, మరియు మద్దతు గుంపుల పై కూడా."
     }
-  }
+  },
+  "title": "The Trevor Project",
+  "description": "The Trevor Project is an American non-profit organization providing suicide prevention services to LGBTQ+ youth. The site provides valuable resources for the transgender community, including crisis intervention and suicide prevention lifeline, TrevorChat, and TrevorText as well as guidance on mental health, social services, and support groups.",
+  "organizationType": [
+    "national-organization",
+    "online-platform",
+    "non-profit-organization"
+  ]
 }

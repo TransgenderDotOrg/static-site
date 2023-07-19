@@ -4,10 +4,11 @@
   "externalUrl": "https://www.youtheastsideservices.org/",
   "tags": [
     "mental-health",
-    "social-services",
-    "youth-services",
     "support-groups",
-    "parent-family-resources"
+    "youth-services",
+    "parent-family-resources",
+    "education-awareness",
+    "social-services"
   ],
   "address": "Kirkland, WA, USA",
   "phoneNumber": "425-747-4937",
@@ -111,5 +112,12 @@
       "title": "యూత్ ఈస్ట్‌సైడ్ సేవలు",
       "description": "యూత్ ఈస్ట్‌సైడ్ సేవలు (YES) ఒక లాభం లేకుండా పనిచేసే సంస్థ అంగా, యువత మరియు వారి కుటుంబాలను మానసిక ఆరోగ్య మరియు మాదక ద్రవ్యల సేవలకు వ్యాపకంగా అందిస్తుంది, ఆరోగ్య పరిశోధన, చికిత్స, LGBTQ + సంఘంకు మద్దతు, మరియు వివిధ సముదాయ ఆధారిత కార్యక్రమాల జీవనంగా ఉంచబడింది. ఇది వాషింగ్టన్లో ఉంది."
     }
-  }
+  },
+  "title": "Youth Eastside Services",
+  "description": "Youth Eastside Services (YES) is a non-profit organization that provides comprehensive mental health and substance abuse services to youth and their families, regardless of their ability to pay. Located in Washington, its services cover counseling, therapy, support for LGBTQ+ community, and various community-based programs.",
+  "organizationType": [
+    "non-profit-organization",
+    "healthcare-provider",
+    "support-group"
+  ]
 }

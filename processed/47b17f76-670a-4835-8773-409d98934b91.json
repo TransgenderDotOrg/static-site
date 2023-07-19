@@ -5,13 +5,9 @@
   "slug": "sylvia-rivera-law-project",
   "externalUrl": "https://srlp.org/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
     "legal",
-    "healthcare",
-    "mental-health",
     "social-services",
+    "support-groups",
     "community-stories",
     "education-awareness"
   ],
@@ -22,7 +18,10 @@
   "city": "New York",
   "town": "Manhattan",
   "county": "New York County",
-  "latLng": [40.744576, -73.9941166],
+  "latLng": [
+    40.744576,
+    -73.9941166
+  ],
   "socialMedia": {
     "yelpUrl": "https://www.yelp.com/biz/sylvia-rivera-law-project-new-york?osq=sylvia+rivera+law+project",
     "googleMapsUrl": "https://goo.gl/maps/sjGv8qoSZPe3XE2QA",
@@ -33,5 +32,9 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "non-profit-organization",
+    "legal-service"
+  ]
 }

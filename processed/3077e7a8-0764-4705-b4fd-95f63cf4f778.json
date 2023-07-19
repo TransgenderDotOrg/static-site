@@ -16,5 +16,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "government-entity",
+    "online-platform"
+  ]
 }

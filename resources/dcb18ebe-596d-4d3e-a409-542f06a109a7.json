@@ -3,8 +3,11 @@
   "slug": "seahorse-victoria-club",
   "externalUrl": "https://seahorsevic.com.au/",
   "tags": [
-    "support-groups",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "community-stories",
+    "support-groups",
     "friendly-businesses"
   ],
   "address": "St Kilda VIC 3182, Australia",
@@ -107,5 +110,12 @@
       "title": "Seahorse Victoria Club",
       "description": "1975 ఏప్రిలికి స్థాపించబడి, Seahorse Club Victoria ట్రాన్స్జెండర్ సముదాయంలోకి సంస్థలు, కమ్మునిటీ సేవలు మరియు మద్దతును అందిస్తుంది. ఇది సేవల యొక్క ట్రాన్స్-అనుకూల డైరెక్టరీను మరియు సభ్యులు మధ్య కనెక్ట్ అవ్వడానికి ఉన్న (ఉండబోతున్న) ఆన్‌లైన్ ప్లాట్‌ఫామ్‌ను అనేకం."
     }
-  }
+  },
+  "title": "Seahorse Victoria Club",
+  "description": "Est. 1975, Seahorse Club Victoria provides resources, community service and support for the transgender community. It includes a trans-friendly directory of services and an upcoming online platform for members to connect.",
+  "organizationType": [
+    "online-platform",
+    "support-group",
+    "non-profit-organization"
+  ]
 }

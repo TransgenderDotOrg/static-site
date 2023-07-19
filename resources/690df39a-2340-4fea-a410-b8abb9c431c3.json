@@ -104,5 +104,10 @@
       "title": "பாலினம் மதிப்பீடு",
       "description": "பாலின இருப்புக்கு உள்ளே அடையாளம் காணாதவர்கள் பயன்படுத்தும் மொழியை பற்றிய தரவை கூடுதல் செய்வதாகும் பாலினம் மதிப்பீடு வருடாந்திரமான ஆய்வு. முதன்முதலில் 2015ஆம் ஆண்டுவில் நடத்தப்பட்டு வரும் இந்த ஆய்வு, காலத்தால் மாறுகின்ற பாலினம், அளவில் மாறுபாடுகளாக உள்ளது, அல்லது ஆண் / பெண் இருப்பினை விட வெளியே இருக்கும் பாலினத்தின் அனுபவத்தையும் அடையாளங்களையும், உள்ளடக்கிக் கொண்டுள்ளது. இது சேராதவர்களையும், உண்மையான அறிவையும் பராமரிக்கும் முறையில் மாறுபாடு உரிமையாளர் சமுதாயத்திற்கு சேவை செய்கிறது."
     }
-  }
+  },
+  "title": "Gender Census",
+  "description": "The Gender Census is an annual survey that collects data about the language used by people who do not identify within the gender binary. The survey, which has been conducted annually since 2015, seeks to encompass a broader range of gender experiences and identities, including those whose gender changes over time, fluctuates in intensity, or exists outside of the male/female binary. It serves the transgender community by promoting inclusivity and understanding.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

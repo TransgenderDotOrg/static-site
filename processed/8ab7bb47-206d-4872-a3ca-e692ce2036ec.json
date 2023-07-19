@@ -4,7 +4,10 @@
   "description": "This website provides a step-by-step guidance for those who want to update their name or gender in Florida. The steps include filing a petition in court, and updating Social Security card, driver license, passport, and birth certificate.",
   "slug": "florida-name-change-home",
   "externalUrl": "https://www.floridanamechange.org/",
-  "tags": ["legal", "social-services"],
+  "tags": [
+    "legal",
+    "social-services"
+  ],
   "address": null,
   "phoneNumber": null,
   "country": "US",
@@ -13,5 +16,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

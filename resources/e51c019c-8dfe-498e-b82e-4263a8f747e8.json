@@ -5,7 +5,8 @@
   "tags": [
     "legal",
     "healthcare",
-    "education-awareness"
+    "education-awareness",
+    "non-profit-organization"
   ],
   "address": null,
   "country": "US",
@@ -111,5 +112,10 @@
       "title": "Equality Florida",
       "description": "பாதுகாப்பான மற்றும் ஆரோக்கியமான பள்ளிகளுக்கு, LGBTQ சுகாதார சமமிக்கை, HIV முன்னேற்பாடு, LGBTQ பாதுகாப்பும் பலவற்றுக்கு முன்னேற்பதில் உழைப்புப் பெரும் பிளோரிடாவின் LGBTQ முன்னேற்பாடு அமைப்பு. இந்த அமைப்பு விவித நிகழ்வுகளை நிறுவுகின்றது மற்றும் மிகப்பெரிய சமத்துவ ஆதரவுகளைப் பெற்றுள்ளது, பாலின மாற்று சுகாதார மானுடர்களுக்கு அவசியமான உதவியைவிட்டு."
     }
-  }
+  },
+  "title": "Equality Florida",
+  "description": "Florida's largest LGBTQ advocacy organization working towards safe and healthy schools, LGBTQ health equity, HIV advocacy, LGBTQ protections and more. The organization holds various events and has secured pro-equality supports, contributing towards transgender health care grants.",
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

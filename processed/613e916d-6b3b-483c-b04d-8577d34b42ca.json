@@ -10,10 +10,8 @@
     "transfeminine",
     "social-services",
     "support-groups",
-    "youth-services",
-    "community-stories",
-    "education-awareness",
-    "clothing"
+    "clothing",
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": "(440) 857-0611",
@@ -23,5 +21,8 @@
   "county": null,
   "latLng": null,
   "email": "info@margieshope.org",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization"
+  ]
 }

@@ -6,8 +6,7 @@
     "transmasculine",
     "non-binary",
     "healthcare",
-    "education-awareness",
-    "financial-aid-scholarships"
+    "surgeons"
   ],
   "address": null,
   "phoneNumber": null,
@@ -103,5 +102,11 @@
       "title": "TopSurgery.net",
       "description": "TopSurgery.net అనేది FTM టాప్ శస్త్రచికిత్స క్రమాలపై సమాచారాన్ని శోధిస్తున్న వ్యక్తులకు ఒక పూర్తి సమాచార వనరు. ఈ వనరు వివిధ రకాల శస్త్రచికిత్స క్రమాలు, శస్త్రచికిత్సకుడను ఎలా కనుగొనవచ్చు, ఖర్చులు మరియు ఇన్సురెన్స్ పై సమాచారం, మరియు ట్రాన్స్మాస్కులైన్ మరియు అనాబధ్యత వ్యక్తులకు టాప్ శస్త్రచికిత్సను ప్రారంభించే క్రింది సమాచారంతో సహా అనేక ప్రస్తుత వనరులను అందిస్తుంది. ఇది పుస్తక సిఫారసులు, వీడియో ట్యుటోరియల్లు, మరియు సంబంధిత విషయాలపై వ్యాసాలను కూడా కలిగి ఉంటుంది."
     }
-  }
+  },
+  "title": "TopSurgery.net",
+  "description": "TopSurgery.net is a comprehensive resource for individuals seeking information on FTM top surgery procedures. The resource provides details on various types of surgical procedures, how to find a surgeon, information on costs and insurance, FAQs, and other relevant resources for transmasculine and non-binary individuals pursuing top surgery. It also includes educational content such as book recommendations, video tutorials, and articles on related topics.",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

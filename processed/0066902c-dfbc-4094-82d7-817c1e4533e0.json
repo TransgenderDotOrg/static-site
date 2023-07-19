@@ -5,12 +5,14 @@
   "slug": "san-mateo-county-pride-center",
   "externalUrl": "https://sanmateopride.org/",
   "tags": [
-    "transmasculine",
-    "non-binary",
-    "transfeminine",
-    "healthcare",
     "mental-health",
-    "social-services"
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness",
+    "community-stories",
+    "parent-family-resources",
+    "partner-resources"
   ],
   "address": "1021 S El Camino Real, San Mateo, CA 94402, USA",
   "phoneNumber": "650-591-0133",
@@ -18,7 +20,10 @@
   "provinceOrState": "CA",
   "city": "San Mateo",
   "county": "San Mateo County",
-  "latLng": [37.5569591, -122.3189073],
+  "latLng": [
+    37.5569591,
+    -122.3189073
+  ],
   "socialMedia": {
     "yelpUrl": "https://www.yelp.com/biz/san-mateo-county-pride-center-san-mateo",
     "googleMapsUrl": "https://goo.gl/maps/uj5ogP9y4LboxZYD9",
@@ -29,5 +34,9 @@
     "tiktokUrl": null,
     "twitchUrl": null,
     "patreonUrl": null
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

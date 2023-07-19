@@ -6,11 +6,8 @@
   "externalUrl": "https://www.eqca.org/",
   "tags": [
     "legal",
-    "healthcare",
-    "mental-health",
     "education-awareness",
-    "social-services",
-    "support-groups"
+    "social-services"
   ],
   "address": "555 W 5th St 35th floor, Los Angeles, CA 90013, USA",
   "phoneNumber": "(323) 848-9801",
@@ -23,5 +20,9 @@
     -118.2531648
   ],
   "email": null,
-  "socialMedia": {}
+  "socialMedia": {},
+  "organizationType": [
+    "non-profit-organization",
+    "national-organization"
+  ]
 }

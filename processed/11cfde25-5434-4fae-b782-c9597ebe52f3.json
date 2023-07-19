@@ -5,10 +5,10 @@
   "slug": "deifydeify-qtibipoc-collective",
   "externalUrl": "https://linktr.ee/deifycbr",
   "tags": [
-    "social-services",
-    "support-groups",
+    "non-binary",
     "community-stories",
-    "education-awareness"
+    "education-awareness",
+    "support-groups"
   ],
   "address": null,
   "phoneNumber": null,
@@ -20,5 +20,10 @@
   "email": null,
   "socialMedia": {
     "facebookUrl": "QTIBIPOC Canberra Facebook Group"
-  }
+  },
+  "organizationType": [
+    "community-center",
+    "online-platform",
+    "support-group"
+  ]
 }

@@ -4,7 +4,8 @@
   "externalUrl": "https://www.babymakingforeverybody.com/",
   "tags": [
     "parent-family-resources",
-    "education-awareness"
+    "education-awareness",
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": null,
@@ -100,5 +101,10 @@
       "title": "అన్నివారికీ పిల్లల సృష్టి",
       "description": "సాంప్రదాయిక హెటెరోసెక్సువల్-న్యూక్లియార్-ఫ్యామిలీ మోడల్ కనిపెట్టకుండా విభిన్న కుటుంబ సృష్టి పద్ధతులపై ఎలా చేయాలనే మార్గదర్శి మరియు వేడుక. LGBTQ+ మరియు సోలో మాతాపితల కోసం. ఈ పుస్తకంలో ప్రత్యమొక్కరు మాధుర్య వివరణలతో పాటు క్రమ క్రమ మార్గదర్శనాన్ని అందిస్తుంది, భవిష్యత్తు మాతాపితలకు వారి కుటుంబాలను పెంచుకునే ఏ పద్ధతి చూపుతుంది."
     }
-  }
+  },
+  "title": "Baby Making for Everybody",
+  "description": "A how-to guide and celebration of various family creation methods outside of the traditional heterosexual-nuclear-family model for LGBTQ+ and solo parents. The book provides a step-by-step guide alongside personal narratives, providing prospective parents a blueprint to grow their families.",
+  "organizationType": [
+    "online-platform"
+  ]
 }

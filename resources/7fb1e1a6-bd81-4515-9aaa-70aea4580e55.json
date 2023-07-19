@@ -4,14 +4,12 @@
   "externalUrl": "https://genderdiversity.org",
   "tags": [
     "education-awareness",
-    "healthcare",
     "youth-services",
-    "support-groups",
-    "parent-family-resources",
-    "social-services",
+    "healthcare",
     "non-binary",
     "transmasculine",
-    "transfeminine"
+    "transfeminine",
+    "parent-family-resources"
   ],
   "address": "6523 California Ave SW #144, Seattle, WA 98136",
   "country": "US",
@@ -109,5 +107,12 @@
       "title": "లింగ వైవిధ్యత",
       "description": "లింగ వైవిధ్యత అన్ని లింగ గుర్తులు మరియు ప్రకటనల కలలిగిన పిల్లలు మరియు వయోవృద్ధుల సరైనతను మెరుగుపరుచుతుంది. మనం విద్యా అందిస్తున్నాము, అవగాహనను పెంచుతున్నాము, మరియు మానవ అనుభవం యొక్క విస్తృత పరిధిలో అంతర్దృష్టిని అందిస్తున్నాము. మానం సేవించునే లింగ అనిష్ఠిత వ్యక్తుల కోసం పాఠశాలలు, క్రీడా జట్లు, ఉద్యోగ స్థలాలు, మరియు ఆరోగ్య సేవా సంచాలకుల్లో మద్దతిస్తున్నాము, మార్గదర్శించునే మరియు విభేజనాత్మకమైన పరిసరాలను సృష్టించలను."
     }
-  }
+  },
+  "title": "Gender Diversity",
+  "description": "Gender Diversity improves the well-being of children and adults of all gender identities and expression by providing education, increasing awareness, and offering insight into the wider range of human experience. We also assist in creating supportive and non-discriminatory environments in schools, sports teams, workplaces, and healthcare providers for transgender and gender diverse individuals.",
+  "organizationType": [
+    "educational-institution",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }

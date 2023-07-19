@@ -5,10 +5,12 @@
   "slug": "transgender-india-transition-guide",
   "externalUrl": "https://transgenderindia.com/",
   "tags": [
+    "transfeminine",
     "legal",
     "healthcare",
-    "mental-health",
-    "education-awareness"
+    "education-awareness",
+    "endocrinologists",
+    "surgeons"
   ],
   "address": null,
   "phoneNumber": null,
@@ -18,5 +20,10 @@
   "county": null,
   "latLng": null,
   "email": "enquiry@transgenderindia.com",
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "educational-institution"
+  ]
 }

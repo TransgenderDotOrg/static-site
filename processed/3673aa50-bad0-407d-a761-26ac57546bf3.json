@@ -8,8 +8,7 @@
     "transmasculine",
     "non-binary",
     "healthcare",
-    "education-awareness",
-    "financial-aid-scholarships"
+    "surgeons"
   ],
   "address": null,
   "phoneNumber": null,
@@ -19,5 +18,9 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider"
+  ]
 }

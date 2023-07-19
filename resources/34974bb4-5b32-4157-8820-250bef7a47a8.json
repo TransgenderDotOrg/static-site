@@ -3,10 +3,11 @@
   "slug": "australian-transgender-support-association-of-queensland",
   "externalUrl": "https://www.atsaq.org.au/",
   "tags": [
+    "transfeminine",
     "non-binary",
     "support-groups",
     "community-stories",
-    "social-services"
+    "education-awareness"
   ],
   "address": "Booval QLD 4304, Australia",
   "phoneNumber": "(07) 3705 7663",
@@ -105,5 +106,11 @@
       "title": "ఆస్ట్రేలియ ట్రాన్స్‌జెండర్ మద్దతు సంఘం, కీలకేంద్రం",
       "description": "1990 నుండి ట్రాన్స్‌జెండర్, జెండర్ వైపరీత్యం, మరియు నాను-బైనరీ వ్యక్తులను ప్రతినిధించే క్వీన్స్‌లాండ్ పరమ సమస్థ. వారు మద్దతు, ప్రతిపాదన, సేవలు అందిస్తారు మరియు ట్రాన్స్‌జెండర్ సముదాయానికి సేవ చేయడానికి సామాజిక సంఘటనలను ఏర్పాటు చేస్తారు."
     }
-  }
+  },
+  "title": "Australian Transgender Support Association of Queensland",
+  "description": "Queensland's peak body representing transgender, gender diverse, and non-binary individuals since 1990. They provide support, advocacy, services and organize social events to serve the transgender community.",
+  "organizationType": [
+    "non-profit-organization",
+    "support-group"
+  ]
 }

@@ -5,13 +5,16 @@
   "tags": [
     "transmasculine",
     "transfeminine",
+    "non-binary",
     "healthcare",
     "mental-health",
     "social-services",
     "youth-services",
     "support-groups",
     "parent-family-resources",
-    "education-awareness"
+    "community-stories",
+    "education-awareness",
+    "financial-aid-scholarships"
   ],
   "address": null,
   "phoneNumber": null,
@@ -111,5 +114,11 @@
       "title": "ప్రౌడ్ సెంటర్ సాన్ ఆంటోనియో",
       "description": "ప్రౌడ్ సెంటర్ సాన్ ఆంటోనియో లెస్బియన్, గే, బైసెక్సుయల్, ట్రాన్స్జెండర్, ప్రశ్నిస్తున్నవారు, మరియు సహకారి సముదాయాన్ని సేవ చేస్తుంది. అభిప్రేతమైన కార్యక్రమాలు, ఈవెంట్లు, మరియు వనరులు, సహాయ సమూహాలు, చికిత్సా, STI పరీక్షలు, మరింత లాంటివిని హోస్ట్ చేస్తుంది. వారు సముదాయాలో ఉన్న సేవలతో సహకారం చేయుటకు ప్రయత్నిస్తుంది."
     }
-  }
+  },
+  "title": "Pride Center San Antonio",
+  "description": "Pride Center San Antonio serves the lesbian, gay, bisexual, transgender, questioning, and ally community. They host a variety of programs, events, and resources, including support groups, therapy, STI testing, and more. They aim to work in alliance with existing services within the community.",
+  "organizationType": [
+    "community-center",
+    "non-profit-organization"
+  ]
 }

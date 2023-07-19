@@ -5,6 +5,9 @@
   "slug": "the-genderaid",
   "externalUrl": "https://genderaid.org/en",
   "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
     "healthcare",
     "education-awareness"
   ],
@@ -20,5 +23,11 @@
   ],
   "email": "info@genderaid.org",
   "socialMedia": null,
-  "town": "Amsterdam-Zuid"
+  "town": "Amsterdam-Zuid",
+  "organizationType": [
+    "online-platform",
+    "healthcare-provider",
+    "educational-institution",
+    "non-profit-organization"
+  ]
 }

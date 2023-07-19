@@ -6,7 +6,10 @@
   "externalUrl": "https://www.lavenderrightsproject.org/",
   "tags": [
     "legal",
-    "social-services"
+    "housing",
+    "social-services",
+    "community-stories",
+    "education-awareness"
   ],
   "address": "911 E Pike St #314, Seattle, WA 98122, USA",
   "phoneNumber": "(206) 639-7955",
@@ -19,5 +22,9 @@
     -122.3201635
   ],
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "non-profit-organization",
+    "legal-service"
+  ]
 }

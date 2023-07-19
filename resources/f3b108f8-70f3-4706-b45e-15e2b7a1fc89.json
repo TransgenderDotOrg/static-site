@@ -3,10 +3,9 @@
   "slug": "acoustic-gender",
   "externalUrl": "https://acousticgender.space/",
   "tags": [
-    "transfeminine",
-    "transmasculine",
-    "non-binary",
-    "voice-training"
+    "voice-training",
+    "education-awareness",
+    "online-platform"
   ],
   "address": null,
   "phoneNumber": null,
@@ -102,5 +101,10 @@
       "title": "ఆకౌస్టిక్ జెండర్",
       "description": "జెండర్ పరిప్రేషణను యొక్క స్వరాలను గ్రాహించడానికి ఇంటరాక్టివ్ విజువల్ సహాయాన్ని అందిస్తున్న ఆన్లైన్ ప్లాట్ఫారమ్. అవసరాన్ని బట్టి తమ స్వర మార్పు ప్రయాణాన్ని తెలుసుకునేందుకు ఇది యూజర్ను రికార్డు చిస్తుంది మరియు సమయం పాటు పిచ్ మరియు నినాదాన్ని విజ్ఞాన శాస్త్రం చిత్రీకరించడానికి అనుమతిస్తుంది."
     }
-  }
+  },
+  "title": "Acoustic Gender",
+  "description": "An online platform that provides an interactive visual aid for understanding how voices are perceived in terms of gender. It plots recordings of the user's voice to enable the visualization of pitch and resonance over time which can inform their voice transition journey if needed.",
+  "organizationType": [
+    "educational-institution"
+  ]
 }

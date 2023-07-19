@@ -5,18 +5,14 @@
   "slug": "guide-to-being-ally-to-transgender-and-nonbinary-youth",
   "externalUrl": "https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/",
   "tags": [
+    "transfeminine",
     "transmasculine",
     "non-binary",
-    "transfeminine",
-    "legal",
-    "healthcare",
-    "mental-health",
-    "social-services",
     "education-awareness",
     "youth-services",
+    "mental-health",
     "support-groups",
-    "parent-family-resources",
-    "partner-resources"
+    "community-stories"
   ],
   "address": null,
   "phoneNumber": "1-866-488-7386",
@@ -26,5 +22,10 @@
   "county": null,
   "latLng": null,
   "email": null,
-  "socialMedia": null
+  "socialMedia": null,
+  "organizationType": [
+    "national-organization",
+    "non-profit-organization",
+    "online-platform"
+  ]
 }
