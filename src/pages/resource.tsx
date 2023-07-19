@@ -1,5 +1,5 @@
-import React from "react";
-import { useSearchParams } from "react-router-dom";
+import React from 'react'
+import { useSearchParams } from 'react-router-dom'
 
 import {
   Box,
@@ -17,10 +17,10 @@ import tags from "../../tags.json";
 import organizationTypes from "../../organization-types.json";
 import languages from "../../languages.json";
 
-import { SearchInput } from "../ui/navigation/header";
-import useSearch from "../hooks/useSearch";
-import i18n from "../i18n";
-import { usePagination } from "../hooks/usePagination";
+import { SearchInput } from '../ui/navigation/header'
+import useSearch from '../hooks/useSearch'
+import i18n from '../i18n'
+import { usePagination } from '../hooks/usePagination'
 
 export interface Resource {
   id: string;
@@ -37,67 +37,52 @@ export interface Resource {
 }
 
 export interface PaginatorPageProps {
-  currentPage: number;
-  offset: number;
-  maxPage: number;
-  setPage: (page: number) => void;
+  currentPage: number
+  offset: number
+  maxPage: number
+  setPage: (page: number) => void
 }
 
-export const PaginatorPage = ({
-  currentPage,
-  offset,
-  maxPage,
-  setPage,
-}: PaginatorPageProps) => {
-  const page =
-    currentPage < 3
-      ? currentPage + offset - (currentPage - 1)
-      : currentPage + offset - 2;
+export const PaginatorPage = ({ currentPage, offset, maxPage, setPage }: PaginatorPageProps) => {
+  const page = currentPage < 3 ? currentPage + offset - (currentPage - 1) : currentPage + offset - 2
 
   return (
     <Box
       onClick={() => {
         if (page === currentPage || page > maxPage) {
-          return;
+          return
         }
 
-        setPage(page);
+        setPage(page)
       }}
       sx={{
         width: 24,
         height: 24,
-        display: "flex",
-        alignItems: "center",
-        cursor:
-          page === currentPage
-            ? "not-allowed"
-            : page > maxPage
-            ? "unset"
-            : "pointer",
+        display: 'flex',
+        alignItems: 'center',
+        cursor: page === currentPage ? 'not-allowed' : page > maxPage ? 'unset' : 'pointer',
       }}
     >
       {page <= maxPage && (
-        <Typography
-          variant="body1"
-          sx={{ color: page === currentPage ? "#666666" : "#0D6EFD" }}
-        >
+        <Typography variant='body1' sx={{ color: page === currentPage ? '#666666' : '#0D6EFD' }}>
           {page}
         </Typography>
       )}
     </Box>
-  );
-};
+  )
+}
 
 export const ResourcePage = () => {
-  const [isLoadingResources, setIsLoadingResources] = React.useState(true);
-  const [resources, setResources] = React.useState<Resource[]>([]);
-  const [searchParams, setSearchParams] = useSearchParams();
-  const resultsRef = React.useRef<HTMLDivElement>(null);
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const [isLoadingResources, setIsLoadingResources] = React.useState(true)
+  const [resources, setResources] = React.useState<Resource[]>([])
+  const [searchParams, setSearchParams] = useSearchParams()
+  const resultsRef = React.useRef<HTMLDivElement>(null)
 
   const queryTags = React.useMemo(
     () =>
-      decodeURIComponent(searchParams.get("tags") ?? "")
-        .split(",")
+      decodeURIComponent(searchParams.get('tags') ?? '')
+        .split(',')
         .filter(Boolean) ?? [],
     [searchParams.get("tags")]
   );
@@ -112,28 +97,29 @@ export const ResourcePage = () => {
 
   React.useEffect(() => {
     const fetchResources = async () => {
-      const pickedLanguage = [...languages, { locale_code: "en-US" }].find(
-        (l) => l.locale_code === i18n.language
-      );
+      // eslint-disable-next-line camelcase
+      const pickedLanguage = [...languages, { locale_code: 'en-US' }].find(
+        (l) => l.locale_code === i18n.language,
+      )
 
       const { default: resources } = await import(
         `../resources/${pickedLanguage?.locale_code}.json`
-      );
+      )
 
-      const resourcesArray: Resource[] = Object.values(resources);
+      const resourcesArray: Resource[] = Object.values(resources)
 
-      setResources(resourcesArray);
-      setIsLoadingResources(false);
-    };
+      setResources(resourcesArray)
+      setIsLoadingResources(false)
+    }
 
-    void fetchResources();
-  }, []);
+    void fetchResources()
+  }, [])
 
   const { results, searchValue, setSearchValue } = useSearch<Resource>({
-    defaultValue: searchParams.get("search") ?? "",
+    defaultValue: searchParams.get('search') ?? '',
     dataSet: resources,
-    keys: ["title", "description", "externalUrl"],
-  });
+    keys: ['title', 'description', 'externalUrl'],
+  })
 
   const filteredResources = React.useMemo(
     () =>
@@ -147,7 +133,7 @@ export const ResourcePage = () => {
     [results, queryTags, queryOrganizationTypes]
   );
 
-  const pageString = searchParams.get("page");
+  const pageString = searchParams.get('page')
 
   const {
     canNavigateNext,
@@ -158,59 +144,53 @@ export const ResourcePage = () => {
     nextPage,
     prevPage,
     setPage,
-  } = usePagination<Resource>(
-    filteredResources,
-    20,
-    pageString ? parseInt(pageString, 10) : 1
-  );
+  } = usePagination<Resource>(filteredResources, 20, pageString ? parseInt(pageString, 10) : 1)
 
   React.useEffect(() => {
     // reset page when search value changes or query tags change
-    setPage(1);
-  }, [searchValue, queryTags]);
+    setPage(1)
+  }, [searchValue, queryTags])
 
   React.useEffect(() => {
     // update page query param when page changes and not the first page
     if (currentPage > 1) {
-      searchParams.set("page", currentPage.toString());
+      searchParams.set('page', currentPage.toString())
 
-      setSearchParams(searchParams);
+      setSearchParams(searchParams)
     } else {
-      searchParams.delete("page");
+      searchParams.delete('page')
 
-      setSearchParams(searchParams);
+      setSearchParams(searchParams)
     }
-  }, [currentPage]);
+  }, [currentPage])
 
   React.useEffect(() => {
     if (pageString) {
-      const parsedPage = parseInt(pageString, 10);
+      const parsedPage = parseInt(pageString, 10)
 
-      setPage(parsedPage);
+      setPage(parsedPage)
     }
-  }, [pageString]);
+  }, [pageString])
 
   const setPageAndScroll = (page: number) => {
-    setPage(page);
+    setPage(page)
 
     if (resultsRef.current) {
-      resultsRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+      resultsRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' })
     }
-  };
+  }
 
   return (
-    <Box sx={{ padding: "2rem" }}>
-      <Typography variant="h3">
-        {i18n.t("header.menuitem.resources")}
-      </Typography>
-      <Typography variant="body2">{i18n.t("resources.description")}</Typography>
+    <Box sx={{ padding: '2rem' }}>
+      <Typography variant='h3'>{i18n.t('header.menuitem.resources')}</Typography>
+      <Typography variant='body2'>{i18n.t('resources.description')}</Typography>
       <Box
         sx={{
-          display: "flex",
-          flexDirection: "row",
-          marginTop: "1rem",
-          "@media (max-width: 768px)": {
-            flexDirection: "column",
+          display: 'flex',
+          flexDirection: 'row',
+          marginTop: '1rem',
+          '@media (max-width: 768px)': {
+            flexDirection: 'column',
           },
         }}
       >
@@ -307,13 +287,13 @@ export const ResourcePage = () => {
         <Box
           ref={resultsRef}
           sx={{
-            marginLeft: "1.25rem",
-            width: "100%",
-            marginRight: "1rem",
+            marginLeft: '1.25rem',
+            width: '100%',
+            marginRight: '1rem',
 
-            "@media (max-width: 768px)": {
+            '@media (max-width: 768px)': {
               marginLeft: 0,
-              marginTop: "1rem",
+              marginTop: '1rem',
             },
           }}
         >
@@ -323,60 +303,58 @@ export const ResourcePage = () => {
             }}
             onChange={(e) => {
               if (!e.target.value) {
-                searchParams.delete("search");
+                searchParams.delete('search')
               } else {
-                searchParams.set("search", e.target.value);
+                searchParams.set('search', e.target.value)
               }
-              setSearchParams(searchParams);
-              setSearchValue(e.target.value);
+              setSearchParams(searchParams)
+              setSearchValue(e.target.value)
             }}
             defaultValue={searchValue}
           />
-          <Typography variant="body1" sx={{ marginTop: "1rem" }}>
-            {currentPageData.length} {i18n.t("resources.results")}
+          <Typography variant='body1' sx={{ marginTop: '1rem' }}>
+            {currentPageData.length} {i18n.t('resources.results')}
           </Typography>
           {currentPageData.map((result, i) => (
-            <Box key={i} sx={{ marginTop: "1rem" }}>
+            <Box key={i} sx={{ marginTop: '1rem' }}>
               <Typography
-                variant="body1"
+                variant='body1'
                 sx={{
-                  fontFamily: "Mukta, sans-serif",
-                  textDecoration: "underline",
-                  color: "#0D6EFD",
-                  cursor: "pointer",
+                  fontFamily: 'Mukta, sans-serif',
+                  textDecoration: 'underline',
+                  color: '#0D6EFD',
+                  cursor: 'pointer',
                 }}
               >
-                <a href={result.externalUrl} target="_blank">
+                <a href={result.externalUrl} target='_blank' rel='noreferrer'>
                   {result.title}
                 </a>
               </Typography>
-              <Typography variant="body1" sx={{ marginTop: "0.5rem" }}>
+              <Typography variant='body1' sx={{ marginTop: '0.5rem' }}>
                 {result.description}
               </Typography>
             </Box>
           ))}
-          <Box
-            sx={{ display: "flex", flexDirection: "row", marginTop: "1rem" }}
-          >
+          <Box sx={{ display: 'flex', flexDirection: 'row', marginTop: '1rem' }}>
             <Box
               onClick={() => {
-                if (!canNavigatePrev) return;
+                if (!canNavigatePrev) return
 
-                prevPage();
+                prevPage()
                 resultsRef.current?.scrollIntoView({
-                  behavior: "smooth",
-                  block: "start",
-                });
+                  behavior: 'smooth',
+                  block: 'start',
+                })
               }}
               sx={{
                 width: 24,
                 height: 24,
-                display: "flex",
-                alignItems: "center",
-                cursor: canNavigatePrev ? "pointer" : "not-allowed",
+                display: 'flex',
+                alignItems: 'center',
+                cursor: canNavigatePrev ? 'pointer' : 'not-allowed',
 
-                "& path": {
-                  fill: canNavigatePrev ? "#0D6EFD" : "#666666",
+                '& path': {
+                  fill: canNavigatePrev ? '#0D6EFD' : '#666666',
                 },
               }}
             >
@@ -414,23 +392,23 @@ export const ResourcePage = () => {
             />
             <Box
               onClick={() => {
-                if (!canNavigateNext) return;
+                if (!canNavigateNext) return
 
-                nextPage();
+                nextPage()
                 resultsRef.current?.scrollIntoView({
-                  behavior: "smooth",
-                  block: "start",
-                });
+                  behavior: 'smooth',
+                  block: 'start',
+                })
               }}
               sx={{
                 width: 24,
                 height: 24,
-                display: "flex",
-                alignItems: "center",
-                cursor: canNavigateNext ? "pointer" : "not-allowed",
+                display: 'flex',
+                alignItems: 'center',
+                cursor: canNavigateNext ? 'pointer' : 'not-allowed',
 
-                "& path": {
-                  fill: canNavigateNext ? "#0D6EFD" : "#666666",
+                '& path': {
+                  fill: canNavigateNext ? '#0D6EFD' : '#666666',
                 },
               }}
             >
@@ -438,18 +416,17 @@ export const ResourcePage = () => {
             </Box>
             <Box
               sx={{
-                display: "flex",
-                alignItems: "center",
-                marginLeft: "1.25rem",
+                display: 'flex',
+                alignItems: 'center',
+                marginLeft: '1.25rem',
               }}
             >
               {!!currentPageData.length && `${(currentPage - 1) * 20 + 1}-`}
-              {(currentPage - 1) * 20 + currentPageData.length} of{" "}
-              {filteredResources.length}
+              {(currentPage - 1) * 20 + currentPageData.length} of {filteredResources.length}
             </Box>
           </Box>
         </Box>
       </Box>
     </Box>
-  );
-};
+  )
+}
