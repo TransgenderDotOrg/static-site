@@ -1,19 +1,10 @@
 {
   "id": "38a8db5a-098c-46b2-9f7f-e65fdf5e76bb",
-  "title": {
-    "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
-  },
-  "description": {
-    "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust."
-  },
+  "title": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+  "description": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
   "slug": "dr-donna-m-chapman-psychotherapy",
   "externalUrl": "https://dmchapman.com",
-  "tags": [
-    "mental-health",
-    "support-groups",
-    "partner-resources",
-    "friendly-businesses"
-  ],
+  "tags": ["mental-health", "support-groups", "partner-resources", "friendly-businesses"],
   "organizationType": ["private-practice", "healthcare-provider"],
   "address": "2525 Camino del Rio S # 107, San Diego, CA 92108, USA",
   "phoneNumber": "(619) 908-9908",

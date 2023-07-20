@@ -973,14 +973,8 @@
       32.767772,
       -117.137431
     ],
-    "title": {
-      "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
-      "de-DE": "Dr. Donna M. Chapman Psychotherapie, San Diego"
-    },
-    "description": {
-      "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
-      "de-DE": "Dr. Chapmans Klinik bietet emotionsfokussierte Therapie, Desensibilisierung und Wiederaufarbeitung durch Augenbewegungen (EMDR), dialektisch-behaviorale Therapie (DBT) und andere Dienstleistungen an. Ihre Praxis ist inklusiv und richtet sich speziell an die Transgender-Gemeinschaft, unterstützt beim Übergangsprozess und hilft Familien bei der Anpassung."
-    }
+    "title": "Dr. Donna M. Chapman Psychotherapie, San Diego",
+    "description": "Die Klinik von Dr. Chapman bietet emotional fokussierte Therapie, Augenbewegungs-Desensibilisierung und Wiederaufbereitung (EMDR), Dialektisch-verhaltenstherapeutisch (DBT) und andere Dienstleistungen an. Ihre Praxis ist inklusiv und richtet sich speziell an die Transgender-Gemeinschaft, unterstützt im Übergangsprozess und hilft Familien, sich anzupassen."
   },
   {
     "id": "39756524-49b2-4d50-afbe-382a06065d2d",

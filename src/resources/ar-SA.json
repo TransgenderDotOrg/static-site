@@ -972,14 +972,8 @@
       32.767772,
       -117.137431
     ],
-    "title": {
-      "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
-      "ar": "الدكتورة دونا م. شابمان للعلاج النفسي، سان دييغو"
-    },
-    "description": {
-      "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
-      "ar": "تقدم عيادة الدكتورة شابمان العلاج المركز على العواطف وعملية التجديد والتطهير لحركة العين (EMDR) والعلاج السلوكي الجدلي (DBT) وخدمات أخرى. يتضمن فحصها كل الأطياف وهو يهتم بشكل خاص بالمجتمع المتحول جنسيًا، مُساعدًا في عملية الانتقال ومُساعدة العائلات على التكيف."
-    }
+    "title": "عيادة الدكتورة دونا م. تشابمان للعلاج النفسي، سان دييغو",
+    "description": "تقدم عيادة الدكتورة تشابمان العديد من الخدمات مثل العلاج النفسي المركز على العواطف، وعلاج التحلل وإعادة التدوير بحركة العين (EMDR)، والعلاج السلوكي الجدلي (DBT). تشمل ممارساتها جميع الأشخاص وبالتحديد تقدم خدمات للمجتمع المتحول جنسياً، حيث تساعد في عملية الانتقال وتساعد العائلات على التأقلم."
   },
   {
     "id": "39756524-49b2-4d50-afbe-382a06065d2d",

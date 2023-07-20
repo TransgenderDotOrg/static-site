@@ -973,14 +973,8 @@
       32.767772,
       -117.137431
     ],
-    "title": {
-      "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
-      "uk-UA": "Психотерапія д-ра Донни М. Чепмен, Сан-Дієго"
-    },
-    "description": {
-      "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
-      "uk-UA": "Клініка д-ра Чепмен пропонує терапію з акцентом на емоції, десенсибілізацію та переробку з використанням руху очей (ЕМДР), діалектичну терапію поведінки (ДБТ) та інші послуги. Практика включає і спеціально розрахована на трансгендерну спільноту, допомагаючи в процесі переходу і допомагаючи сім'ям адаптуватися."
-    }
+    "title": "Доктор Донна М. Чапман Психотерапія, Сан-Дієго",
+    "description": "Клініка доктора Чапман пропонує терапію, спрямовану на емоції, десенсибілізацію та перепроцесування з використанням руху очей (EMDR), діалектичну поведінкову терапію (DBT) та інші послуги. Її практика є інклюзивною та спеціально орієнтованою на трансгендерну спільноту, допомагаючи в процесі переходу та допомагаючи сім'ям адаптуватися."
   },
   {
     "id": "39756524-49b2-4d50-afbe-382a06065d2d",
