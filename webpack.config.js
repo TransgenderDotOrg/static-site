@@ -26,11 +26,11 @@ export default {
     path: path.resolve(__dirname, 'docs'),
   },
   devServer: {
-    https: {
+    https: fs.existsSync('./localhost.pem') ? {
       key: fs.readFileSync('./localhost-key.pem'),
-        cert: fs.readFileSync('./localhost.pem'),
-        ca: fs.readFileSync('./rootCA.pem')
-    },
+      cert: fs.readFileSync('./localhost.pem'),
+      ca: fs.readFileSync('./rootCA.pem')
+    } : undefined,
     static: {
       directory: path.join(__dirname, 'src'),
     },
