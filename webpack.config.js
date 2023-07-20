@@ -1,29 +1,29 @@
-import webpack from "webpack";
-import { fileURLToPath } from "url";
-import path from "path";
+import webpack from 'webpack'
+import { fileURLToPath } from 'url'
+import path from 'path'
 import fs from 'node:fs';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 const EnvironmentPlugin = new webpack.EnvironmentPlugin({
-  NODE_ENV: "development",
+  NODE_ENV: 'development',
   DEBUG: true,
   GOOGLE_MAPS_API_KEY: process.env.GOOGLE_MAPS_API_KEY,
-});
+})
 
 export default {
-  mode: "development",
+  mode: 'development',
   entry: {
-    app: "./src/app.tsx",
+    app: './src/app.tsx',
   },
   resolve: {
-    extensions: [".tsx", ".ts", ".js"],
+    extensions: ['.tsx', '.ts', '.js'],
   },
   output: {
-    globalObject: "self",
-    filename: "[name].bundle.js",
-    path: path.resolve(__dirname, "docs"),
+    globalObject: 'self',
+    filename: '[name].bundle.js',
+    path: path.resolve(__dirname, 'docs'),
   },
   devServer: {
     https: {
@@ -32,7 +32,7 @@ export default {
         ca: fs.readFileSync('./rootCA.pem')
     },
     static: {
-      directory: path.join(__dirname, "src"),
+      directory: path.join(__dirname, 'src'),
     },
     compress: true,
     port: 9000,
@@ -44,25 +44,25 @@ export default {
     rules: [
       {
         test: /\.css$/,
-        use: ["style-loader", "css-loader"],
+        use: ['style-loader', 'css-loader'],
       },
       {
         test: /\.(ttf|png|jpg)$/,
-        use: ["file-loader"],
+        use: ['file-loader'],
       },
       {
         test: /\.svg$/,
-        use: ["@svgr/webpack", "url-loader"],
+        use: ['@svgr/webpack', 'url-loader'],
       },
       {
         test: /\.tsx?$/,
-        use: "ts-loader",
+        use: 'ts-loader',
         exclude: /node_modules/,
       },
       {
         test: /\.txt?$/,
-        type: "asset/source",
+        type: 'asset/source',
       },
     ],
   },
-};
+}
