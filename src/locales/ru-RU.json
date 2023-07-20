@@ -40,5 +40,6 @@
   "header.menuitem.map": "Карта",
   "tags.endocrinologists": "Эндокринологи",
   "tags.surgeons": "Хирурги",
-  "tags.informed-consent-clinics": "Клиники информированного согласия"
+  "tags.informed-consent-clinics": "Клиники информированного согласия",
+  "organization-types": "Типы организаций"
 }

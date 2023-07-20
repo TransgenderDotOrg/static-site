@@ -40,5 +40,6 @@
   "header.menuitem.map": "Carte",
   "tags.endocrinologists": "Endocrinologues",
   "tags.surgeons": "Chirurgiens",
-  "tags.informed-consent-clinics": "Cliniques de Consentement Éclairé"
+  "tags.informed-consent-clinics": "Cliniques de Consentement Éclairé",
+  "organization-types": "Types d'Organisation"
 }

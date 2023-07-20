@@ -948,6 +948,39 @@
     ]
   },
   {
+    "id": "38a8db5a-098c-46b2-9f7f-e65fdf5e76bb",
+    "slug": "dr-donna-m-chapman-psychotherapy",
+    "externalUrl": "https://dmchapman.com",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "partner-resources",
+      "friendly-businesses"
+    ],
+    "organizationType": [
+      "private-practice",
+      "healthcare-provider"
+    ],
+    "address": "2525 Camino del Rio S # 107, San Diego, CA 92108, USA",
+    "phoneNumber": "(619) 908-9908",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Diego",
+    "email": "icare@dmchapman.com",
+    "socialMedia": {},
+    "county": "San Diego County",
+    "latLng": [
+      32.767772,
+      -117.137431
+    ],
+    "title": {
+      "en-US": "Psikoterapi Dr. Donna M. Chapman, San Diego"
+    },
+    "description": {
+      "en-US": "Klinik Dr. Chapman menawarkan Terapi Berfokus Emosi, Desensitisasi dan Reproses Gerakan Mata (EMDR), Terapi Perilaku Dialektikal (DBT) dan layanan lainnya. Praktiknya inklusif dan secara khusus melayani komunitas transgender, membantu dalam proses transisi dan membantu keluarga menyesuaikan diri."
+    }
+  },
+  {
     "id": "39756524-49b2-4d50-afbe-382a06065d2d",
     "slug": "colors-plus-youth-center",
     "externalUrl": "https://www.colorsplus.org/",
@@ -3240,6 +3273,42 @@
     ]
   },
   {
+    "id": "bb161c7d-81f6-4e05-9943-bb99703597f3",
+    "slug": "transgender-archives",
+    "externalUrl": "https://www.uvic.ca/transgenderarchives/index.php",
+    "tags": [
+      "education-awareness",
+      "community-stories"
+    ],
+    "organizationType": [
+      "educational-institution"
+    ],
+    "address": "125 Wilson St, Victoria, BC V9A 6X1, Canada",
+    "phoneNumber": null,
+    "country": "CA",
+    "provinceOrState": "BC",
+    "city": "Victoria",
+    "county": "CRD",
+    "latLng": [
+      48.4316064,
+      -123.3805366
+    ],
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransArchives",
+      "facebookUrl": "https://www.facebook.com/TransArchives",
+      "instagramUrl": "https://www.instagram.com/transarchives/",
+      "youtubeUrl": "https://www.youtube.com/user/TransgenderUVic",
+      "flickrUrl": "https://www.flickr.com/photos/127803977@N03/albums"
+    },
+    "title": {
+      "en": "Arsip Transgender di Universitas Victoria"
+    },
+    "description": {
+      "en": "Arsip Transgender di Universitas Victoria berkomitmen untuk melestarikan sejarah aktivis perintis, pemimpin komunitas, dan peneliti yang telah berkontribusi pada peningkatan Trans+ dan orang-orang dengan keberagaman gender lainnya. Catatan dapat diakses oleh semua orang, tanpa biaya."
+    }
+  },
+  {
     "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
     "slug": "pride-center-san-antonio",
     "externalUrl": "https://pridecentersa.org/",
@@ -4396,6 +4465,32 @@
       "healthcare-provider",
       "non-profit-organization"
     ]
+  },
+  {
+    "id": "f6769a85-4702-4a3a-8103-521e252c3973",
+    "slug": "the-null-hypothecis",
+    "externalUrl": "https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/",
+    "tags": [
+      "community-stories",
+      "education-awareness"
+    ],
+    "organizationType": [
+      "online-platform",
+      "educational-institution"
+    ],
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": {
+      "en-US": "The Null HypotheCis"
+    },
+    "description": {
+      "en-US": "Sebuah postingan blog yang membahas konsep asumsi default identitas cisgender yang sering dipegang dalam masyarakat, dan berargumen untuk pendekatan yang lebih seimbang dalam meragukan dan memastikan identitas gender seseorang."
+    }
   },
   {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",

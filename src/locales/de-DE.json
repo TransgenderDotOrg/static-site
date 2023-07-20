@@ -40,5 +40,6 @@
   "header.menuitem.map": "Karte",
   "tags.endocrinologists": "Endokrinologen",
   "tags.surgeons": "Chirurgen",
-  "tags.informed-consent-clinics": "Einverständniserklärungs-Kliniken"
+  "tags.informed-consent-clinics": "Einverständniserklärungs-Kliniken",
+  "organization-types": "Organisationstypen"
 }

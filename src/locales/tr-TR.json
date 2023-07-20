@@ -40,5 +40,6 @@
   "header.menuitem.map": "Harita",
   "tags.endocrinologists": "Endokrinologlar",
   "tags.surgeons": "Cerrahlar",
-  "tags.informed-consent-clinics": "Bilgilendirilmiş Onay Klinikleri"
+  "tags.informed-consent-clinics": "Bilgilendirilmiş Onay Klinikleri",
+  "organization-types": "Organizasyon Türleri"
 }

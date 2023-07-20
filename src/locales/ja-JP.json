@@ -40,5 +40,6 @@
   "header.menuitem.map": "地図",
   "tags.endocrinologists": "内分泌科医",
   "tags.surgeons": "外科医",
-  "tags.informed-consent-clinics": "情報提供同意クリニック"
+  "tags.informed-consent-clinics": "情報提供同意クリニック",
+  "organization-types": "組織の種類"
 }

@@ -948,6 +948,39 @@
     ]
   },
   {
+    "id": "38a8db5a-098c-46b2-9f7f-e65fdf5e76bb",
+    "slug": "dr-donna-m-chapman-psychotherapy",
+    "externalUrl": "https://dmchapman.com",
+    "tags": [
+      "mental-health",
+      "support-groups",
+      "partner-resources",
+      "friendly-businesses"
+    ],
+    "organizationType": [
+      "private-practice",
+      "healthcare-provider"
+    ],
+    "address": "2525 Camino del Rio S # 107, San Diego, CA 92108, USA",
+    "phoneNumber": "(619) 908-9908",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "San Diego",
+    "email": "icare@dmchapman.com",
+    "socialMedia": {},
+    "county": "San Diego County",
+    "latLng": [
+      32.767772,
+      -117.137431
+    ],
+    "title": {
+      "en-US": "Dkta. Donna M. Chapman Psychotherapy, San Diego"
+    },
+    "description": {
+      "en-US": "Kliniki ya Dkta. Chapman inatoa Tiba ya Mazingira ya Kihisia, Ufahamu na Utaftaji wa Jicho (EMDR), Tiba ya Tabia ya Dialektiki (DBT) na huduma zingine. Mazoezi yake ni pamoja na kumtumikia hasa jamii ya watu wa jinsia mbili, ikisaidia katika mchakato wa mpito na kuwasaidia familia kuzoea."
+    }
+  },
+  {
     "id": "39756524-49b2-4d50-afbe-382a06065d2d",
     "slug": "colors-plus-youth-center",
     "externalUrl": "https://www.colorsplus.org/",
@@ -3240,6 +3273,42 @@
     ]
   },
   {
+    "id": "bb161c7d-81f6-4e05-9943-bb99703597f3",
+    "slug": "transgender-archives",
+    "externalUrl": "https://www.uvic.ca/transgenderarchives/index.php",
+    "tags": [
+      "education-awareness",
+      "community-stories"
+    ],
+    "organizationType": [
+      "educational-institution"
+    ],
+    "address": "125 Wilson St, Victoria, BC V9A 6X1, Canada",
+    "phoneNumber": null,
+    "country": "CA",
+    "provinceOrState": "BC",
+    "city": "Victoria",
+    "county": "CRD",
+    "latLng": [
+      48.4316064,
+      -123.3805366
+    ],
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/TransArchives",
+      "facebookUrl": "https://www.facebook.com/TransArchives",
+      "instagramUrl": "https://www.instagram.com/transarchives/",
+      "youtubeUrl": "https://www.youtube.com/user/TransgenderUVic",
+      "flickrUrl": "https://www.flickr.com/photos/127803977@N03/albums"
+    },
+    "title": {
+      "en": "Transgender Archives katika Chuo Kikuu cha Victoria"
+    },
+    "description": {
+      "en": "Maktaba ya Transgender katika Chuo Kikuu cha Victoria inajitolea kuhifadhi historia ya wanaharakati waanzilishi, viongozi wa jamii, na watafiti ambao wamechangia katika kuimarisha hali ya Trans+ na watu wengine wenye utofauti wa jinsia. Rekodi zinapatikana kwa kila mtu, bila malipo."
+    }
+  },
+  {
     "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
     "slug": "pride-center-san-antonio",
     "externalUrl": "https://pridecentersa.org/",
@@ -4396,6 +4465,32 @@
       "healthcare-provider",
       "non-profit-organization"
     ]
+  },
+  {
+    "id": "f6769a85-4702-4a3a-8103-521e252c3973",
+    "slug": "the-null-hypothecis",
+    "externalUrl": "https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/",
+    "tags": [
+      "community-stories",
+      "education-awareness"
+    ],
+    "organizationType": [
+      "online-platform",
+      "educational-institution"
+    ],
+    "country": null,
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {},
+    "title": {
+      "en-US": "The Null HypotheCis"
+    },
+    "description": {
+      "en-US": "Chapisho la blogi linalojadili dhana ya dhana ya msingi ya utambulisho wa jinsia mara nyingi iliyoshikiliwa katika jamii, na kutetea njia yenye usawa zaidi ya kuhoji na kuthibitisha utambulisho wa jinsia."
+    }
   },
   {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",

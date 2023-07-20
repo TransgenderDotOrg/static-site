@@ -1,0 +1,62 @@
+[
+  {
+    "name": "National Organization",
+    "canHavePhysicalAddress": true,
+    "value": "national-organization"
+  },
+  {
+    "name": "Local Office",
+    "canHavePhysicalAddress": true,
+    "value": "local-office"
+  },
+  {
+    "name": "Community Center",
+    "canHavePhysicalAddress": true,
+    "value": "community-center"
+  },
+  {
+    "name": "Online Platform",
+    "canHavePhysicalAddress": false,
+    "value": "online-platform"
+  },
+  {
+    "name": "Healthcare Provider",
+    "canHavePhysicalAddress": true,
+    "value": "healthcare-provider"
+  },
+  {
+    "name": "Informed Consent Clinic",
+    "canHavePhysicalAddress": true,
+    "value": "informed-consent-clinic"
+  },
+  {
+    "name": "Support Group",
+    "canHavePhysicalAddress": true,
+    "value": "support-group"
+  },
+  {
+    "name": "Legal Service",
+    "canHavePhysicalAddress": true,
+    "value": "legal-service"
+  },
+  {
+    "name": "Educational Institution",
+    "canHavePhysicalAddress": true,
+    "value": "educational-institution"
+  },
+  {
+    "name": "Non-Profit Organization",
+    "canHavePhysicalAddress": true,
+    "value": "non-profit-organization"
+  },
+  {
+    "name": "Government Entity",
+    "canHavePhysicalAddress": true,
+    "value": "government-entity"
+  },
+  {
+    "name": "Private Practice",
+    "canHavePhysicalAddress": true,
+    "value": "private-practice"
+  }
+]

@@ -1,23 +1,33 @@
 import React, { useEffect, useState } from "react";
+import { useSearchParams } from "react-router-dom";
 import TextField from "@mui/material/TextField";
 import GoogleMapReact from "google-map-react";
-import { Autocomplete, Box, Menu, Typography } from "@mui/material";
+import {
+  Autocomplete,
+  Box,
+  FormControl,
+  InputLabel,
+  Menu,
+  MenuItem,
+  Select,
+  Typography,
+} from "@mui/material";
 import { Resource } from "./resource";
 import i18n from "../i18n";
 import languages from "../../languages.json";
 import { ReactComponent as MarkerIcon } from "../assets/marker.svg";
 import { Link } from "../ui/link";
-
-const mapStyles = {
-  width: "100%",
-  height: "100%",
-};
+import organizationTypes from "../../organization-types.json";
 
 export interface MarkerProps {
   lat: number;
   lng: number;
   resource: Resource;
 }
+
+const mapOrganizationTypes = organizationTypes.filter(
+  (organizationType) => organizationType.canHavePhysicalAddress
+);
 
 export const Marker = (props: MarkerProps) => {
   const [anchorEl, setAnchorEl] = React.useState<null | Element>(null);
@@ -124,9 +134,17 @@ export const Marker = (props: MarkerProps) => {
 };
 
 export const MapPage = () => {
-  const [searchTerm, setSearchTerm] = useState("");
+  const [searchParams, setSearchParams] = useSearchParams();
 
   const [resources, setResources] = React.useState<Resource[]>([]);
+
+  const queryOrganizationTypes = React.useMemo(
+    () =>
+      decodeURIComponent(searchParams.get("organizationTypes") ?? "")
+        .split(",")
+        .filter(Boolean) ?? [],
+    [searchParams.get("organizationTypes")]
+  );
 
   React.useEffect(() => {
     const fetchResources = async () => {
@@ -146,9 +164,20 @@ export const MapPage = () => {
     void fetchResources();
   }, []);
 
+  const filteredResources = React.useMemo(
+    () =>
+      resources.filter((resource) =>
+        queryOrganizationTypes.every((type) =>
+          resource.organizationType.includes(type.toLowerCase())
+        )
+      ),
+    [resources, queryOrganizationTypes]
+  );
+
   return (
     <Box
       sx={{
+        position: "relative",
         width: "100%",
         height: "calc(100vh - 85px)",
       }}
@@ -166,7 +195,7 @@ export const MapPage = () => {
         }}
         defaultZoom={1}
       >
-        {resources
+        {filteredResources
           .filter((resource) => resource.latLng)
           .map((resource, i) => (
             <Marker
@@ -177,6 +206,69 @@ export const MapPage = () => {
             />
           ))}
       </GoogleMapReact>
+      <Box
+        sx={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          right: 0,
+          padding: "1rem",
+          opacity: 0.85,
+          background: "#fff",
+        }}
+      >
+        <FormControl
+          sx={{
+            maxWidth: "250px",
+            minWidth: "250px",
+
+            "@media (max-width: 768px)": {
+              maxWidth: "100%",
+              minWidth: "100%",
+            },
+          }}
+          size="small"
+        >
+          <InputLabel
+            sx={{
+              background: "#fff",
+              fontFamily: "Mukta, sans-serif",
+            }}
+          >
+            {i18n.t("organization-types")}
+          </InputLabel>
+          <Select
+            sx={{
+              borderRadius: "24px",
+              fontWeight: "600",
+            }}
+            onChange={(e) => {
+              const value = (e.target.value as unknown) as string[];
+
+              if (value.indexOf("") !== -1) {
+                searchParams.delete("organizationTypes");
+              } else {
+                searchParams.set(
+                  "organizationTypes",
+                  value.length ? value.join(",") : ""
+                );
+              }
+
+              setSearchParams(searchParams);
+            }}
+            value={queryOrganizationTypes}
+            multiple
+            fullWidth
+          >
+            <MenuItem value="">
+              <em>None</em>
+            </MenuItem>
+            {mapOrganizationTypes.map((type) => (
+              <MenuItem value={type.value}>{type.name}</MenuItem>
+            ))}
+          </Select>
+        </FormControl>
+      </Box>
     </Box>
   );
 };

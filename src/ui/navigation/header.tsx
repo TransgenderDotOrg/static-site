@@ -72,10 +72,10 @@ export const Menu = styled("div")({
 export const SearchStyledInput = styled("input")({
   flex: 1,
   color: "#21242B",
-  fontFamily: "Open Sans",
+  fontFamily: "Mukta, sans-serif",
   fontSize: "1rem",
   fontStyle: "normal",
-  fontWeight: 400,
+  fontWeight: 300,
   border: "none",
   boxSizing: "border-box",
   outline: "none",
@@ -114,11 +114,17 @@ export const SearchInput = ({
         flexDirection: "row",
         alignItems: "center",
         borderRadius: "24px",
-        border: "1px solid #A1AABF",
-        padding: "0.5rem 0.75rem",
+        border: "1px solid rgba(0, 0, 0, 0.23)",
+        padding: "1px calc(0.75rem + 1px)",
         width: 346,
-        "@media (max-width: 1200px)": {
-          marginTop: "0.5rem",
+        height: "36px",
+        "&:hover": {
+          borderColor: "#000",
+        },
+        "&:has(input:focus)": {
+          padding: "0 0.75rem",
+          borderColor: "#1976d2",
+          borderWidth: "2px",
         },
         ...sx,
       }}
@@ -401,6 +407,10 @@ export const Header = () => {
             }}
             sx={{
               marginLeft: "0.5rem",
+
+              "@media (max-width: 1200px)": {
+                marginTop: "0.5rem",
+              },
             }}
           />
         )}

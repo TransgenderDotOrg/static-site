@@ -40,5 +40,6 @@
   "header.menuitem.map": "지도",
   "tags.endocrinologists": "내분비학자들",
   "tags.surgeons": "외과 의사들",
-  "tags.informed-consent-clinics": "인폼드 컨센트 클리닉"
+  "tags.informed-consent-clinics": "인폼드 컨센트 클리닉",
+  "organization-types": "조직 유형"
 }

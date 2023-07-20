@@ -40,5 +40,6 @@
   "header.menuitem.map": "خريطة",
   "tags.endocrinologists": "أطباء الغدد الصماء",
   "tags.surgeons": "جراحين",
-  "tags.informed-consent-clinics": "عيادات الموافقة المستنيرة"
+  "tags.informed-consent-clinics": "عيادات الموافقة المستنيرة",
+  "organization-types": "أنواع المنظمات"
 }

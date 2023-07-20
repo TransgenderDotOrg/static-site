@@ -1,10 +1,20 @@
 import React from "react";
 import { useSearchParams } from "react-router-dom";
 
-import { Box, Checkbox, FormControlLabel, Typography } from "@mui/material";
+import {
+  Box,
+  Checkbox,
+  FormControl,
+  FormControlLabel,
+  InputLabel,
+  MenuItem,
+  Select,
+  Typography,
+} from "@mui/material";
 import { ReactComponent as ResultsLeft } from "../assets/results-left.svg";
 import { ReactComponent as ResultsRight } from "../assets/results-right.svg";
 import tags from "../../tags.json";
+import organizationTypes from "../../organization-types.json";
 import languages from "../../languages.json";
 
 import { SearchInput } from "../ui/navigation/header";
@@ -17,6 +27,7 @@ export interface Resource {
   slug: string;
   externalUrl: string;
   tags: string[];
+  organizationType: string[];
   title: string;
   description: string;
   address: string;
@@ -91,6 +102,14 @@ export const ResourcePage = () => {
     [searchParams.get("tags")]
   );
 
+  const queryOrganizationTypes = React.useMemo(
+    () =>
+      decodeURIComponent(searchParams.get("organizationTypes") ?? "")
+        .split(",")
+        .filter(Boolean) ?? [],
+    [searchParams.get("organizationTypes")]
+  );
+
   React.useEffect(() => {
     const fetchResources = async () => {
       const pickedLanguage = [...languages, { locale_code: "en-US" }].find(
@@ -118,10 +137,14 @@ export const ResourcePage = () => {
 
   const filteredResources = React.useMemo(
     () =>
-      results.filter((result) =>
-        queryTags.every((tag) => result.tags.includes(tag))
+      results.filter(
+        (result) =>
+          queryTags.every((tag) => result.tags.includes(tag)) &&
+          queryOrganizationTypes.every((type) =>
+            result.organizationType.includes(type.toLowerCase())
+          )
       ),
-    [results, queryTags]
+    [results, queryTags, queryOrganizationTypes]
   );
 
   const pageString = searchParams.get("page");
@@ -191,69 +214,95 @@ export const ResourcePage = () => {
           },
         }}
       >
-        <Box>
-          <Box
-            sx={{
-              width: 200,
-              border: `2px solid #D6D6D6`,
-              "@media (max-width: 768px)": {
-                width: "unset",
-              },
-            }}
-          >
-            <Box
-              sx={{ padding: "0.5rem 1rem", borderBottom: `2px solid #D6D6D6` }}
+        <Box
+          sx={{
+            display: "flex",
+            flexDirection: "column",
+            maxWidth: "225px",
+            minWidth: "225px",
+            "@media (max-width: 768px)": {
+              maxWidth: "100%",
+              minWidth: "100%",
+            },
+          }}
+        >
+          <FormControl sx={{}} size="small">
+            <InputLabel
+              sx={{ background: "#fff", fontFamily: "Mukta, sans-serif" }}
             >
-              <Typography
-                variant="body1"
-                sx={{
-                  fontFamily: "Mukta, sans-serif",
-                }}
-              >
-                {i18n.t("tags")}
-              </Typography>
-            </Box>
+              {i18n.t("organization-types")}
+            </InputLabel>
+            <Select
+              sx={{
+                borderRadius: "24px",
+              }}
+              onChange={(e) => {
+                const value = (e.target.value as unknown) as string[];
 
-            {tags.map((tag) => (
-              <Box
-                sx={{
-                  display: "flex",
-                  flexDirection: "row",
-                  alignItems: "center",
-                  marginTop: "0.25rem",
-                }}
-              >
-                <FormControlLabel
-                  control={<Checkbox />}
-                  checked={queryTags.includes(tag.value)}
-                  onChange={(e) => {
-                    const newQueryTags = queryTags.includes(tag.value)
-                      ? queryTags.filter((t) => t !== tag.value)
-                      : [...queryTags, tag.value];
+                if (value.indexOf("") !== -1) {
+                  searchParams.delete("organizationTypes");
+                } else {
+                  searchParams.set(
+                    "organizationTypes",
+                    value.length ? value.join(",") : ""
+                  );
+                }
 
-                    const newQueryTagsString = newQueryTags.join(",");
+                setSearchParams(searchParams);
+              }}
+              value={queryOrganizationTypes}
+              multiple
+              fullWidth
+            >
+              <MenuItem value="">
+                <em>None</em>
+              </MenuItem>
+              {organizationTypes.map((type) => (
+                <MenuItem value={type.value}>{type.name}</MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+          <FormControl
+            sx={{
+              marginTop: "1rem",
+            }}
+            size="small"
+          >
+            <InputLabel
+              sx={{
+                background: "#fff",
+                fontFamily: "Mukta, sans-serif",
+              }}
+            >
+              {i18n.t("tags")}
+            </InputLabel>
+            <Select
+              sx={{
+                borderRadius: "24px",
+              }}
+              onChange={(e) => {
+                const value = (e.target.value as unknown) as string[];
 
-                    if (newQueryTagsString) {
-                      searchParams.set("tags", newQueryTagsString);
-                    } else {
-                      searchParams.delete("tags");
-                    }
+                if (value.indexOf("") !== -1) {
+                  searchParams.delete("tags");
+                } else {
+                  searchParams.set("tags", value.length ? value.join(",") : "");
+                }
 
-                    setSearchParams(searchParams);
-                  }}
-                  label={
-                    <Typography
-                      variant="body1"
-                      sx={{ marginLeft: "0.25rem", wordBreak: "break-word" }}
-                    >
-                      {i18n.t(`tags.${tag.value}`)}
-                    </Typography>
-                  }
-                  sx={{ marginLeft: "0.15rem", flex: 1 }}
-                />
-              </Box>
-            ))}
-          </Box>
+                setSearchParams(searchParams);
+              }}
+              value={queryTags}
+              multiple
+              fullWidth
+            >
+              <MenuItem value="">
+                <em>None</em>
+              </MenuItem>
+              {tags.map((type) => (
+                <MenuItem value={type.value}>{type.name}</MenuItem>
+              ))}
+            </Select>
+          </FormControl>
         </Box>
         <Box
           ref={resultsRef}
@@ -269,7 +318,9 @@ export const ResourcePage = () => {
           }}
         >
           <SearchInput
-            sx={{ width: "auto" }}
+            sx={{
+              width: "auto",
+            }}
             onChange={(e) => {
               if (!e.target.value) {
                 searchParams.delete("search");

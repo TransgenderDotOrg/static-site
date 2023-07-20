@@ -1,0 +1,219 @@
+{
+  "id": "38a8db5a-098c-46b2-9f7f-e65fdf5e76bb",
+  "slug": "dr-donna-m-chapman-psychotherapy",
+  "externalUrl": "https://dmchapman.com",
+  "tags": [
+    "mental-health",
+    "support-groups",
+    "partner-resources",
+    "friendly-businesses"
+  ],
+  "organizationType": [
+    "private-practice",
+    "healthcare-provider"
+  ],
+  "address": "2525 Camino del Rio S # 107, San Diego, CA 92108, USA",
+  "phoneNumber": "(619) 908-9908",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "San Diego",
+  "email": "icare@dmchapman.com",
+  "socialMedia": {},
+  "county": "San Diego County",
+  "latLng": [
+    32.767772,
+    -117.137431
+  ],
+  "i18n": {
+    "en-US": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust."
+      }
+    },
+    "pt-PT": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "A clínica da Dra. Chapman oferece Terapia Focada na Emoção, Dessensibilização e Reprocessamento por meio de Movimentos Oculares (EMDR), Terapia Comportamental Dialética (DBT) e outros serviços. Sua prática é inclusiva e atende especificamente à comunidade transgênero, ajudando no processo de transição e auxiliando as famílias a se ajustarem."
+      }
+    },
+    "id-ID": {
+      "title": {
+        "en-US": "Psikoterapi Dr. Donna M. Chapman, San Diego"
+      },
+      "description": {
+        "en-US": "Klinik Dr. Chapman menawarkan Terapi Berfokus Emosi, Desensitisasi dan Reproses Gerakan Mata (EMDR), Terapi Perilaku Dialektikal (DBT) dan layanan lainnya. Praktiknya inklusif dan secara khusus melayani komunitas transgender, membantu dalam proses transisi dan membantu keluarga menyesuaikan diri."
+      }
+    },
+    "es-ES": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "La clínica de la Dra. Chapman ofrece Terapia Focalizada en las Emociones, Desensibilización y Reprocesamiento por medio del Movimiento Ocular (EMDR), Terapia Dialéctica Conductual (DBT) y otros servicios. Su práctica es inclusiva y atiende específicamente a la comunidad transgénero, asistiendo en el proceso de transición y ayudando a las familias a adaptarse."
+      }
+    },
+    "sw-KE": {
+      "title": {
+        "en-US": "Dkta. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "Kliniki ya Dkta. Chapman inatoa Tiba ya Mazingira ya Kihisia, Ufahamu na Utaftaji wa Jicho (EMDR), Tiba ya Tabia ya Dialektiki (DBT) na huduma zingine. Mazoezi yake ni pamoja na kumtumikia hasa jamii ya watu wa jinsia mbili, ikisaidia katika mchakato wa mpito na kuwasaidia familia kuzoea."
+      }
+    },
+    "tr-TR": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "Dr. Chapman'ın kliniği Duygusal Odaklı Terapi, Göz Hareketi Duyarsızlaştırma ve Yeniden İşleme (EMDR), Diyalektik Davranış Terapisi (DBT) ve diğer hizmetleri sunmaktadır. Uygulaması kapsayıcıdır ve özellikle transseksüel topluluğa hitap eder, geçiş sürecine yardımcı olur ve ailelerin uyum sağlamasına yardımcı olur."
+      }
+    },
+    "fr-FR": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "fr-FR": "Dr. Donna M. Chapman Psychothérapie, San Diego"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "fr-FR": "La clinique du Dr Chapman propose une thérapie axée sur les émotions, la désensibilisation et le retraitement par les mouvements oculaires (EMDR), la thérapie comportementale dialectique (DBT) et d'autres services. Sa pratique est inclusive et s'adresse spécifiquement à la communauté transgenre, aidant dans le processus de transition et aidant les familles à s'adapter."
+      }
+    },
+    "de-DE": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "de-DE": "Dr. Donna M. Chapman Psychotherapie, San Diego"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "de-DE": "Dr. Chapmans Klinik bietet emotionsfokussierte Therapie, Desensibilisierung und Wiederaufarbeitung durch Augenbewegungen (EMDR), dialektisch-behaviorale Therapie (DBT) und andere Dienstleistungen an. Ihre Praxis ist inklusiv und richtet sich speziell an die Transgender-Gemeinschaft, unterstützt beim Übergangsprozess und hilft Familien bei der Anpassung."
+      }
+    },
+    "zh-CN": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "zh-CN": "唐娜·M·查普曼博士心理治疗，圣地亚哥"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "zh-CN": "查普曼博士的诊所提供情绪聚焦疗法，眼动脱敏再加工（EMDR），辩证行为疗法（DBT）和其他服务。其实践包容并专门针对跨性别社区，协助过渡过程并帮助家庭适应。"
+      }
+    },
+    "vi-VN": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "vi-VN": "Tiến sĩ Donna M. Chapman Tâm lý trị liệu, San Diego"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "vi-VN": "Phòng khám của tiến sĩ Chapman cung cấp liệu pháp tập trung vào cảm xúc, chế độ giảm nhạy và tái xử lý qua chuyển động mắt (EMDR), liệu pháp hành vi đối thoại (DBT) và các dịch vụ khác. Phương pháp thực hành của nó là bao quát và đặc biệt phục vụ cho cộng đồng chuyển giới, hỗ trợ trong quá trình chuyển đổi và giúp các gia đình điều chỉnh."
+      }
+    },
+    "ar-SA": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "ar": "الدكتورة دونا م. شابمان للعلاج النفسي، سان دييغو"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "ar": "تقدم عيادة الدكتورة شابمان العلاج المركز على العواطف وعملية التجديد والتطهير لحركة العين (EMDR) والعلاج السلوكي الجدلي (DBT) وخدمات أخرى. يتضمن فحصها كل الأطياف وهو يهتم بشكل خاص بالمجتمع المتحول جنسيًا، مُساعدًا في عملية الانتقال ومُساعدة العائلات على التكيف."
+      }
+    },
+    "ja-JP": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "ja-JP": "Dr. Donna M. Chapman心理療法、サンディエゴ"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "ja-JP": "チャップマン博士のクリニックでは、感情焦点療法、眼球運動脱感作および再処理（EMDR）、弁証法的行動療法（DBT）などのサービスを提供しています。その実践方法は包括的であり、特にトランスジェンダーコミュニティに対応しており、遷移プロセスを支援し、家族が適応するのを助けています。"
+      }
+    },
+    "ko-KR": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "ko-KR": "샌디에고의 도나 M. 채프만 박사 심리치료"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "ko-KR": "채프만 박사의 클리닉은 감정 중심 치료, 눈동자 움직임 소탈화 및 재처리(Eye Movement Desensitization and Reprocessing, EMDR), 이분법적 행동 치료(Dialectical Behavior Therapy, DBT) 등의 서비스를 제공합니다. 그들의 실습은 포괄적이며 특히 트랜스젠더 커뮤니티에 맞추어져 있으며, 전환 과정을 돕고 가족들이 적응하도록 돕습니다."
+      }
+    },
+    "ur-PK": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "ڈاکٹر چیپمین کا کلینک جذباتی روشناسی تھراپی، آنکھ کی حرکت کا ہر موقع غیر حساس کرنے اور پھر ڈوبارہ تشکيل کرنے (EMDR)، مکالمہ جوئیاں رفتار تھراپی (DBT) اور دیگر خدمات پیش کرتا ہے۔ اس کی عمل ہے شامل اور خاص طور پر ٹرانسجنڈر کمیونٹی کیلئے، ٹرانسیشن عمل میں مددگار اور خاندانوں کو ترتیب دینے میں مدد کرتی ہے۔"
+      }
+    },
+    "mr-IN": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "डॉ. चैपमनच्या क्लिनिकमध्ये इमोशनली फोकस्ड थेरपी, ऑई मूवमेंट डेसेन्सटायझेशन अँड रीप्रॉसेसींग (EMDR), डायलेक्टिकल बिहेव्हियर थेरपी (DBT) आदी सेवा उपलब्ध आहेत. त्याच्या व्यवसायातील सर्व समुदायांसही समावेशकरणारे आहे, विशेषतः ट्रांसजेंडर समुदायांच्या मदतीसाठी, संक्रमण प्रक्रियेत मदत करणारे आहेत आणि कुटुंबीयांना समायोजित करण्यात मदत करणारे आहेत."
+      }
+    },
+    "ru-RU": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "ru-RU": "Доктор Донна М. Чапман, психотерапия, Сан-Диего"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "ru-RU": "Клиника доктора Чапман предлагает терапию, сфокусированную на эмоциях, десенсибилизацию и переработку движения глаз (EMDR), диалектическую поведенческую терапию (DBT) и другие услуги. Ее практика является инклюзивной и специально рассчитана на трансгендерное сообщество, помогая в процессе трансформации и помогая семьям адаптироваться."
+      }
+    },
+    "uk-UA": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "uk-UA": "Психотерапія д-ра Донни М. Чепмен, Сан-Дієго"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "uk-UA": "Клініка д-ра Чепмен пропонує терапію з акцентом на емоції, десенсибілізацію та переробку з використанням руху очей (ЕМДР), діалектичну терапію поведінки (ДБТ) та інші послуги. Практика включає і спеціально розрахована на трансгендерну спільноту, допомагаючи в процесі переходу і допомагаючи сім'ям адаптуватися."
+      }
+    },
+    "hi-IN": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "hi-IN": "डॉ. डोना एम. चैपमैन मनोचिकित्सा, सैन डिएगो"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "hi-IN": "डॉ. चैपमैन की क्लिनिक में भावनात्मक रूप से केन्द्रित चिकित्सा, नेत्र संवेदनशीलता और पुनर्प्रसंस्करण (EMDR), तर्कसंगत व्यवहार चिकित्सा (DBT) और अन्य सेवाएं उपलब्ध हैं। इसका अभ्यास सम्मिलित है और विशेष रूप से ट्रांसजेंडर समुदाय की देखभाल करता है, संक्रमण प्रक्रिया में सहायता करता है और परिवारों को समायोजित करने में मदद करता है।"
+      }
+    },
+    "te-IN": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "డాక్టర్. చాప్మన్ క్లినిక్ భావోద్రిక్త చికిత్సను, కన్ను ఉగ్రసరణ నిర్వేదనం మరియు పునరుత్పత్తి (EMDR), డయాలెక్టికల్ బిహేవియర్ థెరపీ (DBT) మరియు ఇతర సేవలను అందిస్తుంది. దాని చికిత్సా అభ్యాసం సమగ్రంగా ఉండి మరియు ప్రత్యేకంగా ట్రాన్స్జెండర్ సముదాయానికి సేవ చేస్తుంది, మార్పు ప్రక్రియను సహాయం చేస్తుంది మరియు కుటుంబాలను సరిహద్దులకు అడుగుపెడతాయి."
+      }
+    },
+    "bn-BD": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego",
+        "bn-BD": "ডঃ ডোনা এম. চ্যাপম্যান মনোচিকিত্সা, সান ডিয়েগো"
+      },
+      "description": {
+        "en-US": "Dr. Chapman's clinic offers Emotionally Focused Therapy, Eye Movement Desensitization and Reprocessing (EMDR), Dialectical Behavior Therapy (DBT) and other services. Its practice is inclusive and specifically caters to the transgender community, assisting in the transition process and helping families adjust.",
+        "bn-BD": "ডঃ চ্যাপম্যানের ক্লিনিকটি অনুভবপূর্ণ চিকিত্সায় ঝুঁকিপূর্ণ, চোখের গতিবিহ্বলতা ও পুনর্বিক্রিয়ান (EMDR), দ্বন্দ্বাতীত আচরণ চিকিত্সায় (DBT) এবং অন্যান্য সেবা দেয়। এর প্রকল্প অবিচ্ছেদ্য এবং নির্দিষ্টভাবে ট্রান্সজেন্ডার সম্প্রদায়ের জন্য চিকিত্সা প্রদান করে, পরিবর্তন প্রক্রিয়ায় সহায়তা করে এবং পরিবারগুলিকে সামঞ্জস্যের পাশাপাশি সহায়তা করে।"
+      }
+    },
+    "ta-IN": {
+      "title": {
+        "en-US": "Dr. Donna M. Chapman Psychotherapy, San Diego"
+      },
+      "description": {
+        "en-US": "டாக்டர் சாப்மனின் மருத்துவமைப்பு, உண்மையானாக சுவாரஸ்யமாக கொண்ட சிகிச்சை, கண் நகர்த்தல் நீக்குதல் மற்றும் மறுவலைப்பு (EMDR), முரண்பாட்டான செயல்பாட்டு சிகிச்சை (DBT) மற்றும் மற்ற சேவைகளை வழங்குகிறது. அதன் செயல் அனைத்தையும் சேர்ந்துகொள்ளும் மற்றும் குறிப்பாக மாற்று சமுதாயத்துக்கு சேர்ந்து, மாற்றம் செயல்முறையில் உதவுகிறது மற்றும் குடும்பங்கள் சரியாக செயல்பாடு செய்தல்."
+      }
+    }
+  }
+}
