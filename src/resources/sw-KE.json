@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "Kituo cha Kuthibitisha Jinsia hutoa huduma kamili ya kuafiki jinsia, kupitia aina anuwai za taratibu na mipango ya matibabu, kwa jamii ya transgender, nonbinary, na jinsia anuwai.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "Transgender India inatoa kozi, makala na rasilimali kamili kwa jamii ya transgender nchini India. Inajumuisha mada mbalimbali kuanzia msingi wa tiba mbadala ya homoni, haki za kisheria na ulinzi, hadi mipito ya kijamii, na kozi zinaongozwa na wataalam kutoka maeneo mbalimbali.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "Kliniki ya 2pass inatoa aina anuwai ya taratibu za upasuaji kusaidia wanawake wa jinsia mbadala katika kipindi cha mpito. Hizi ni pamoja na Upasuaji wa Kufeminishaji Uso na Mwili, Ondoa Nywele za Kudumu na matibabu ya Upandikizaji wa Nywele. Rasilimali hii inatoa taarifa za kina kuhusu kila taratibu za FFS na inasaidia kuongoza wanawake wa trans katika kufanya maamuzi sahihi kwa safari yao.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "Ramani ya Transgender",
@@ -4549,8 +4542,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

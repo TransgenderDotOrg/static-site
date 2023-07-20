@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "El Centro de Confirmación de Género proporciona atención integral de afirmación de género, a través de varios tipos de procedimientos y planes de tratamiento, para la comunidad transgénero, no binaria y diversa en cuanto al género.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "India Transgénero ofrece cursos completos, artículos y recursos para la comunidad transgénero en India. Incluye temas que van desde los fundamentos de la terapia de reemplazo hormonal, derechos legales y protecciones, hasta transiciones sociales, con cursos dirigidos por especialistas de varios campos.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2pass Clinic ofrece una variedad de procedimientos quirúrgicos para ayudar a las mujeres transgénero en su transición. Estos incluyen Cirugías de Feminización Facial y Corporal, Eliminación Permanente de Vello y tratamientos de Trasplante de Cabello. Este recurso proporciona información detallada sobre cada procedimiento de FFS y ayuda a guiar a las mujeres trans en la toma de las decisiones correctas para su viaje.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4072,9 +4068,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4090,6 +4084,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4175,8 +4170,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "Mapa Transgénero",
@@ -4553,8 +4546,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

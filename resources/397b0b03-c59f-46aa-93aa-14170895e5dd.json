@@ -6,9 +6,7 @@
     "transfeminine",
     "legal",
     "healthcare",
-    "education-awareness",
-    "endocrinologists",
-    "surgeons"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -109,7 +107,6 @@
   "description": "Transgender India provides comprehensive courses, articles and resources for the transgender community in India. It includes topics ranging from hormone replacement therapy basics, legal rights and protections, to social transitions, with courses led by specialists from various fields.",
   "organizationType": [
     "online-platform",
-    "healthcare-provider",
     "educational-institution"
   ]
 }

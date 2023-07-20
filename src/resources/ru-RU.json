@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "Центр подтверждения гендерной принадлежности предлагает всестороннюю поддержку в вопросах гендера, включая разнообразные виды процедур и планов лечения, для трансгендерных людей, людей с нетрадиционной гендерной идентичностью и общества гендерного разнообразия.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "Трансгендерная Индия предоставляет всеобъемлющие курсы, статьи и ресурсы для трансгендерного сообщества в Индии. Оно включает темы, которые варьируются от основ гормональной заместительной терапии, законодательных прав и защиты, до социальных переходов, с курсами, проводимыми специалистами из различных областей.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "Клиника 2pass предлагает целый ряд хирургических процедур для помощи в переходе трансгендерных женщин. К ним относятся операции феминизации лица и тела, постоянное удаление волос и проведение трансплантации волос. Этот ресурс предоставляет подробную информацию о каждой процедуре ФХЛ и помогает транссексуальным женщинам сделать правильный выбор на их пути.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "Карта трансгендеров",
@@ -4551,8 +4544,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

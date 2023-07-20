@@ -6,8 +6,7 @@
     "transmasculine",
     "transfeminine",
     "non-binary",
-    "healthcare",
-    "surgeons"
+    "healthcare"
   ],
   "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
   "phoneNumber": "(415) 780-1515",
@@ -111,6 +110,7 @@
   "description": "The Gender Confirmation Center provides comprehensive gender-affirming care, through multiple types of procedures and treatment plans, for the transgender, nonbinary, and gender diverse community.",
   "organizationType": [
     "healthcare-provider",
+    "surgeon",
     "private-practice"
   ]
 }

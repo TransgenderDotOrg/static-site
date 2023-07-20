@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "జెండర్ నిర్ధరణ సెంటర్ ట్రాన్స్ జెండర్, నాన్బైనరీ మరియు జెండర్ వివిధ సముదాయంలోని వ్యక్తులకు అనేక రకాల ప్రక్రియలు మరియు చికిత్సా ప్రణాళికల ద్వారా సమగ్ర జెండర్-అఖండిత పరిచర్యను అందిస్తుంది.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -860,8 +860,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -977,9 +976,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -994,7 +991,6 @@
     "description": "ట్రాన్స్జెండర్ ఇండియా భారతదేశంలోని ట్రాన్స్జెందర్ సముదాయానికి సమగ్ర కోర్సులు, వ్యాసాలు మరియు వనరులను అందిస్తుంది. దీనిలో హార్మోన్ రిప్లేస్మెంట్ చికిత్సా ప్రాథమికతలు, చట్టాధికారాలు మరియు రక్షణలు, సామాజిక మార్పులకు, వివిధ రంగాల ప్రత్యేకతల ద్వారా నడిచే కోర్సులు ఉన్నాయి.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2553,8 +2549,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2576,6 +2571,7 @@
     "description": "2pass క్లినిక్ తరంగంలోకి మారుతున్న త్రాన్స్ మహిళలకు సహాయం చేయడానికి వివిధ శస్త్ర చికిత్సలు అందిస్తుంది. వీటిలో ముఖం మరియు శరీరం స్త్రీయీకరణ శస్త్ర చికిత్సలు, శాశ్వత రేముకు తొలగించడం మరియు రేము కింపు చికిత్సలు ఉంటాయి. ఈ వనరు ప్రతి భళి వివరమైన సమాచారాన్ని అందిస్తుంది మరియు వారి ప్రయాణానికి దగ్గర ఎంపికలు చేసేందుకు త్రాన్స్ మహిళలను మార్గదర్శించింది.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4032,9 +4028,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4050,6 +4044,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4135,8 +4130,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "ట్రాన్స్‌జెండర్ మ్యాప్",
@@ -4513,8 +4506,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

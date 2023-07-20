@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "性别确认中心通过多种类型的手术和治疗计划，为跨性别、无性别和性别多元化的社区提供全面的性别肯定护理。",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "跨性别印度为印度的跨性别社区提供全面的课程、文章和资源。其内容涵盖从激素替代疗法基础，法律权利和保护，到社会过渡，课程由来自各个领域的专家主导。",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2pass诊所提供各种手术程序，以帮助跨性别女性转变。这些包括面部和身体女性化手术，永久脱毛和毛发移植治疗。这个资源为每一个FFS程序提供详细信息，帮助跨性别女性在她们的旅程中做出正确的选择。",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4072,9 +4068,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4090,6 +4084,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4175,8 +4170,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "跨性别地图",
@@ -4551,8 +4544,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

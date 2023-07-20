@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "جنسی تصدیق سینٹر مکمل جنسی تصدیق کی دیکھ بھال فراہم کرتا ہے، مختلف قسم کے طریقہ کاروں اور علاج کے منصوبوں کے ذریعے، ٹرانسجنڈر، غیر بائنری، اور جنسی تنوع والے برادری کے لئے.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "ٹرانسجینڈر انڈیا ، ہارمون تبدیلی تھریپی کی بنیادی باتوں، قانونی حقوق و تحفظ، سوشل تبدیلیوں تک، مختلف شعبوں کے ماہرین کے زیر اہتمام کورسز سمیت، انڈیا میں ٹرانسجینڈر برادری کے لیے جامع کورسز ، مضامین اور وسائل فراہم کرتا ہے۔",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2pass کلینک خواتین میں تبدیل ہونے والی خواتین کی مدد کرنے کے لئے مختلف جراحی طریقے پیش کرتا ہے. یہ چہرہ اور جسم کی خواتین کی سرجری، مستقل بالوں کا حذف اور بالوں کے منتقل کرنے کے علاجات شامل ہیں. یہ وسائل ہر FFS طریقے کار پر تفصیلی معلومات فراہم کرتا ہے اور خواتین کو ان کے سفر کے لئے صحیح انتخابات کرنے میں مدد کرتا ہے.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "ٹرانس جنڈر میپ",
@@ -4549,8 +4542,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

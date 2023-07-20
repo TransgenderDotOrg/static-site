@@ -30,6 +30,16 @@
     "value": "informed-consent-clinic"
   },
   {
+    "name": "Endocrinologist",
+    "canHavePhysicalAddress": true,
+    "value": "endocrinologist"
+  },
+  {
+    "name": "Surgeon",
+    "canHavePhysicalAddress": true,
+    "value": "surgeon"
+  },
+  {
     "name": "Support Group",
     "canHavePhysicalAddress": true,
     "value": "support-group"

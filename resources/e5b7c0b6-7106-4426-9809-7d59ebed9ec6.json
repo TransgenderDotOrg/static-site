@@ -9,9 +9,7 @@
     "healthcare",
     "legal",
     "mental-health",
-    "education-awareness",
-    "endocrinologists",
-    "informed-consent-clinics"
+    "education-awareness"
   ],
   "address": null,
   "phoneNumber": null,
@@ -113,6 +111,7 @@
   "organizationType": [
     "online-platform",
     "healthcare-provider",
+    "endocrinologist",
     "non-profit-organization"
   ]
 }

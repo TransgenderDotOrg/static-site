@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "लिंग पुष्टी केंद्र म्हणजे, वेगवेगळ्या प्रकारची पद्धती आणि उपचार योजनांद्वारे, ट्रान्सजेंडर, नॉनबायनरी, आणि लिंगानुसार वेगवेगळ्या समुदायांसाठी सम्पूर्णतः लिंग स्थायीकरण सेवा प्रदान करते.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "संवेदनशील भारत म्हणजे भारतीय संवेदनशील समुदायांसाठी विस्तृत अभ्यासक्रमे, लेख आणि संसाधने प्रदान करते. हे हॉर्मोन प्रतिस्थापन उपचाराच्या मूलभूतांपासून, कायदी हक्क आणि संरक्षण, सामाजिक स्थलांतरणांपर्यंतचे विषय आहेत, ज्या विविध क्षेत्रांतील तज्ज्ञांनी अभ्यासक्रमे नेमलेली आहेत.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2पास क्लिनिक म्हणजेच विविध प्रकारच्या शल्यक्रियांनी ट्रांसजेंडर महिलांना संकल्पनेत बदल करण्यास मदत करते. यात चेहरा व शरीर स्त्रैणीकरण शस्त्रक्रिया, कायमस्वभावी केस निवारण आणि केसप्रत्यारोपण उपचार असलेली आहेत. हे संसाधन प्रत्येक एफएफएस प्रक्रियावर विस्तृत माहिती पुरवते आणि त्यांच्या प्रवासासाठी योग्य निवड करण्यात ट्रांस महिलांना मदत करते.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "ट्रान्सजेंडर माहिती पत्रिका",
@@ -4549,8 +4542,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

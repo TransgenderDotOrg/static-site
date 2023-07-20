@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "জেন্ডার নিশ্চিতকরণ কেন্দ্র প্রদান করে সম্পূর্ণ লিঙ্গ-সমর্থক যত্ন, এর মাধ্যমে বহু ধরনের প্রক্রিয়া এবং চিকিত্সা পরিকল্পনাগুলি, ট্রান্সজেন্ডার, ননবাইনারি, এবং লিঙ্গ বৈচিত্র্যমূলক সম্প্রদায়ের জন্য।",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "ট্রান্সজেন্ডার ইন্ডিয়া ভারতীয় ট্রান্সজেন্ডার সম্প্রদায়ের জন্য সম্পূর্ণ কোর্স, নিবন্ধ এবং সম্পদ প্রদান করে। এটি হরমোন প্রতিস্থাপন চিকিৎসা মূলনীতি, আইনি অধিকার এবং সুরক্ষা, সামাজিক ট্র্যান্সিশন পর্যন্ত বিষয় অন্তর্গত করে, যা বিভিন্ন ক্ষেত্রের বিশেষজ্ঞদের নেতৃত্বে কোর্স চালানো হয়।",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2pass ক্লিনিক ট্রান্সজেন্ডার মহিলাদের পরিবর্তনে সহায়তা করার জন্য বিভিন্ন ধরণের সার্জারি পদ্ধতি অফার করে। এইগুলোর মধ্যে মুখ এবং দেহের মহিলাকরণ সার্জারি, স্থায়ী চুল অপসারণ এবং চুল স্থানান্তর চিকিত্সা অন্তর্ভুক্ত। এই সম্পদ প্রতিটি FFS পদ্ধতি সম্পর্কে বিস্তারিত তথ্য সরবরাহ করে এবং তাদের যাত্রা জন্য সঠিক পছন্দের নির্দেশনা দেয়।",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "ট্রান্সজেন্ডার মানচিত্র",
@@ -4551,8 +4544,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

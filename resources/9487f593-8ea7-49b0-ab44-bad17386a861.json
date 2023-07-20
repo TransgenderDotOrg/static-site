@@ -4,8 +4,7 @@
   "externalUrl": "https://2pass.clinic/en/ffs/procedures",
   "tags": [
     "transfeminine",
-    "healthcare",
-    "surgeons"
+    "healthcare"
   ],
   "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
   "phoneNumber": null,
@@ -113,6 +112,7 @@
   "description": "2pass Clinic offers a variety of surgical procedures to help transgender women transition. These include Facial and Body Feminization Surgeries, Permanent Hair Removal and Hair Transplant treatments. This resource provides detailed information on each FFS procedures and helps guide trans women in making the right choices for their journey.",
   "organizationType": [
     "healthcare-provider",
+    "surgeon",
     "online-platform"
   ]
 }

@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "लिंग पुष्टिकरण केंद्र ट्रांसजेंडर, गैर-बाइनरी, और जेंडर विविध समुदाय के लिए कई प्रकार की प्रक्रियाओं और उपचार योजनाओं के माध्यम से व्यापक लिंग-स्थापन देखभाल प्रदान करता है।",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "ट्रांसजेंडर इंडिया भारत में ट्रांसजेंडर समुदाय के लिए व्यापक पाठ्यक्रम, लेख और संसाधन प्रदान करता है। इसमें हार्मोन रिप्लेसमेंट थेरेपी के मूल बातें, कानूनी अधिकार और सुरक्षा, सामाजिक परिवर्तनों तक के विषय शामिल हैं, जिन्हें विभिन्न क्षेत्रों के विशेषज्ञों द्वारा नेतृत्व किया गया है।",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2pass क्लिनिक ट्रांसजेंडर महिलाओं की संक्रमण में मदद करने के लिए विभिन्न सर्जिकल प्रक्रियाओं की पेशकश करता है। इनमें फेशियल और बॉडी फेमिनाइजेशन सर्जरी, स्थायी हेयर रिमूवल और हेयर ट्रांसप्लांट उपचार शामिल हैं। यह संसाधन प्रत्येक FFS प्रक्रियाओं पर विस्तृत जानकारी प्रदान करता है और ट्रांस वीमेन्स को उनके यात्रा के लिए सही विकल्पों का चयन करने में मदद करता है।",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "ट्रांसजेंडर मैप",
@@ -4551,8 +4544,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

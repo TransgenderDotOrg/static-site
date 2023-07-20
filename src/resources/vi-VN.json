@@ -604,8 +604,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -623,6 +622,7 @@
     "description": "Trung tâm Xác nhận Giới tính cung cấp chăm sóc khẳng định giới tính toàn diện, thông qua nhiều loại phương pháp và kế hoạch điều trị, cho cộng đồng chuyển giới, không nhị phân và đa dạng giới tính.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -898,8 +898,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1015,9 +1014,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1032,7 +1029,6 @@
     "description": "Ấn Độ Chuyển Giới cung cấp các khóa học, bài viết và nguồn tài nguyên toàn diện cho cộng đồng chuyển giới ở Ấn Độ. Nó bao gồm các chủ đề từ căn bản về liệu pháp thay thế hormone, quyền hợp pháp và bảo vệ, đến chuyển đổi xã hội, với các khóa học do các chuyên gia từ nhiều lĩnh vực dẫn dắt.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2591,8 +2587,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2614,6 +2609,7 @@
     "description": "2pass Clinic cung cấp nhiều phương pháp phẫu thuật giúp phụ nữ chuyển giới chuyển đổi. Những phương pháp này bao gồm các phẫu thuật nữ hoá khuôn mặt và cơ thể, loại bỏ lông vĩnh viễn và điều trị ghép tóc. Nguồn thông tin này cung cấp thông tin chi tiết về từng phương pháp FFS và giúp hướng dẫn phụ nữ chuyển giới trong việc lựa chọn đúng cho hành trình của mình.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4070,9 +4066,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4088,6 +4082,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4173,8 +4168,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "Bản đồ Transgender",
@@ -4549,8 +4542,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,

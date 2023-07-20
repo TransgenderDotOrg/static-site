@@ -603,8 +603,7 @@
       "transmasculine",
       "transfeminine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "450 Sutter Street, 450 Sutter St, San Francisco, CA 94108, USA",
     "phoneNumber": "(415) 780-1515",
@@ -622,6 +621,7 @@
     "description": "يقدم مركز تأكيد الجنس رعاية مكرسة وشاملة للجنس، من خلال العديد من الإجراءات وخطط العلاج، للمتحولين جنسيا وذوي الهوية الجندرية التي تختلف عن الأعراف الاجتماعية.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "private-practice"
     ]
   },
@@ -897,8 +897,7 @@
     "tags": [
       "transmasculine",
       "non-binary",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1014,9 +1013,7 @@
       "transfeminine",
       "legal",
       "healthcare",
-      "education-awareness",
-      "endocrinologists",
-      "surgeons"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -1031,7 +1028,6 @@
     "description": "تقدم الهند الترانس دورات شاملة ومقالات وموارد للمجتمع الترانس في الهند. وهو يشمل مواضيع تتراوح من أساسيات العلاج بتعويض الهرمونات، حقوق وحمايات قانونية، إلى الانتقالات الاجتماعية، بقيادة متخصصين من مجالات مختلفة.",
     "organizationType": [
       "online-platform",
-      "healthcare-provider",
       "educational-institution"
     ]
   },
@@ -2588,8 +2584,7 @@
     "externalUrl": "https://2pass.clinic/en/ffs/procedures",
     "tags": [
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": "Ringlaan 39, 2600 Antwerpen, Belgium",
     "phoneNumber": null,
@@ -2611,6 +2606,7 @@
     "description": "تقدم عيادة 2pass مجموعة متنوعة من العمليات الجراحية لمساعدة النساء المتحولات جنسيا. تشمل هذه جراحات تأنيث الوجه والجسم، إزالة الشعر نهائيا وعلاجات زرع الشعر. يوفر هذا المورد معلومات مفصلة حول كل إجراء من إجراءات تأنيث الوجه ويساعد في إرشاد النساء المتحولات جنسيا في اتخاذ القرارات الصحيحة لرحلتهن.",
     "organizationType": [
       "healthcare-provider",
+      "surgeon",
       "online-platform"
     ]
   },
@@ -4067,9 +4063,7 @@
       "healthcare",
       "legal",
       "mental-health",
-      "education-awareness",
-      "endocrinologists",
-      "informed-consent-clinics"
+      "education-awareness"
     ],
     "address": null,
     "phoneNumber": null,
@@ -4085,6 +4079,7 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider",
+      "endocrinologist",
       "non-profit-organization"
     ]
   },
@@ -4170,8 +4165,6 @@
       "voice-training",
       "makeup",
       "clothing",
-      "endocrinologists",
-      "surgeons",
       "community-stories"
     ],
     "title": "خريطة المتحولين جنسيا",
@@ -4548,8 +4541,7 @@
     "tags": [
       "transmasculine",
       "transfeminine",
-      "healthcare",
-      "surgeons"
+      "healthcare"
     ],
     "address": null,
     "phoneNumber": null,
