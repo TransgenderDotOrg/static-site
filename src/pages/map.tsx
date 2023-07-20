@@ -215,7 +215,7 @@ export const MapPage = () => {
             onChange={(e) => {
               const value = (e.target.value as unknown) as string[]
 
-              if (value.indexOf('') !== -1) {
+              if (value.indexOf('') !== -1 || value.length === 0) {
                 searchParams.delete('organizationTypes')
               } else {
                 searchParams.set('organizationTypes', value.length ? value.join(',') : '')
