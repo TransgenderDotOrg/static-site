@@ -3,19 +3,17 @@ import { useSearchParams } from 'react-router-dom'
 
 import {
   Box,
-  Checkbox,
   FormControl,
-  FormControlLabel,
   InputLabel,
   MenuItem,
   Select,
   Typography,
-} from "@mui/material";
-import { ReactComponent as ResultsLeft } from "../assets/results-left.svg";
-import { ReactComponent as ResultsRight } from "../assets/results-right.svg";
-import tags from "../../tags.json";
-import organizationTypes from "../../organization-types.json";
-import languages from "../../languages.json";
+} from '@mui/material';
+import { ReactComponent as ResultsLeft } from '../assets/results-left.svg';
+import { ReactComponent as ResultsRight } from '../assets/results-right.svg';
+import tags from '../../tags.json';
+import organizationTypes from '../../organization-types.json';
+import languages from '../../languages.json';
 
 import { SearchInput } from '../ui/navigation/header'
 import useSearch from '../hooks/useSearch'
@@ -84,15 +82,15 @@ export const ResourcePage = () => {
       decodeURIComponent(searchParams.get('tags') ?? '')
         .split(',')
         .filter(Boolean) ?? [],
-    [searchParams.get("tags")]
+    [searchParams.get('tags')]
   );
 
   const queryOrganizationTypes = React.useMemo(
     () =>
-      decodeURIComponent(searchParams.get("organizationTypes") ?? "")
-        .split(",")
+      decodeURIComponent(searchParams.get('organizationTypes') ?? '')
+        .split(',')
         .filter(Boolean) ?? [],
-    [searchParams.get("organizationTypes")]
+    [searchParams.get('organizationTypes')]
   );
 
   React.useEffect(() => {
@@ -196,35 +194,35 @@ export const ResourcePage = () => {
       >
         <Box
           sx={{
-            display: "flex",
-            flexDirection: "column",
-            maxWidth: "225px",
-            minWidth: "225px",
-            "@media (max-width: 768px)": {
-              maxWidth: "100%",
-              minWidth: "100%",
+            display: 'flex',
+            flexDirection: 'column',
+            maxWidth: '225px',
+            minWidth: '225px',
+            '@media (max-width: 768px)': {
+              maxWidth: '100%',
+              minWidth: '100%',
             },
           }}
         >
           <FormControl sx={{}} size="small">
             <InputLabel
-              sx={{ background: "#fff", fontFamily: "Mukta, sans-serif" }}
+              sx={{ background: '#fff', fontFamily: 'Mukta, sans-serif' }}
             >
-              {i18n.t("organization-types")}
+              {i18n.t('organization-types')}
             </InputLabel>
             <Select
               sx={{
-                borderRadius: "24px",
+                borderRadius: '24px',
               }}
               onChange={(e) => {
                 const value = (e.target.value as unknown) as string[];
 
-                if (value.indexOf("") !== -1) {
-                  searchParams.delete("organizationTypes");
+                if (value.indexOf('') !== -1) {
+                  searchParams.delete('organizationTypes');
                 } else {
                   searchParams.set(
-                    "organizationTypes",
-                    value.length ? value.join(",") : ""
+                    'organizationTypes',
+                    value.length ? value.join(',') : ''
                   );
                 }
 
@@ -237,36 +235,36 @@ export const ResourcePage = () => {
               <MenuItem value="">
                 <em>None</em>
               </MenuItem>
-              {organizationTypes.map((type) => (
-                <MenuItem value={type.value}>{type.name}</MenuItem>
+              {organizationTypes.map((type, idx) => (
+                <MenuItem key={idx} value={type.value}>{type.name}</MenuItem>
               ))}
             </Select>
           </FormControl>
           <FormControl
             sx={{
-              marginTop: "1rem",
+              marginTop: '1rem',
             }}
             size="small"
           >
             <InputLabel
               sx={{
-                background: "#fff",
-                fontFamily: "Mukta, sans-serif",
+                background: '#fff',
+                fontFamily: 'Mukta, sans-serif',
               }}
             >
-              {i18n.t("tags")}
+              {i18n.t('tags')}
             </InputLabel>
             <Select
               sx={{
-                borderRadius: "24px",
+                borderRadius: '24px',
               }}
               onChange={(e) => {
                 const value = (e.target.value as unknown) as string[];
 
-                if (value.indexOf("") !== -1) {
-                  searchParams.delete("tags");
+                if (value.indexOf('') !== -1) {
+                  searchParams.delete('tags');
                 } else {
-                  searchParams.set("tags", value.length ? value.join(",") : "");
+                  searchParams.set('tags', value.length ? value.join(',') : '');
                 }
 
                 setSearchParams(searchParams);
@@ -278,8 +276,8 @@ export const ResourcePage = () => {
               <MenuItem value="">
                 <em>None</em>
               </MenuItem>
-              {tags.map((type) => (
-                <MenuItem value={type.value}>{type.name}</MenuItem>
+              {tags.map((type, idx) => (
+                <MenuItem key={idx} value={type.value}>{type.name}</MenuItem>
               ))}
             </Select>
           </FormControl>
@@ -299,7 +297,7 @@ export const ResourcePage = () => {
         >
           <SearchInput
             sx={{
-              width: "auto",
+              width: 'auto',
             }}
             onChange={(e) => {
               if (!e.target.value) {
