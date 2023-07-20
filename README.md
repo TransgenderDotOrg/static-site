@@ -18,6 +18,14 @@ First, install the project dependencies by running the following command:
 npm install
 ```
 
+Run the following command to generate local SSL certs:
+
+```bash
+npm run install:certs
+```
+
+Once completed install the certs and always trust them. This step is OS dependent, follow a tutorial for installing local SSL scripts accordingly.
+
 ### Development
 
 To start the project in development mode, run:
