@@ -1,15 +1,7 @@
 import React from 'react'
 import { useSearchParams } from 'react-router-dom'
 import GoogleMapReact from 'google-map-react'
-import {
-  Box,
-  FormControl,
-  InputLabel,
-  Menu,
-  MenuItem,
-  Select,
-  Typography,
-} from '@mui/material'
+import { Box, FormControl, InputLabel, Menu, MenuItem, Select, Typography } from '@mui/material'
 import { Resource } from './resource'
 import i18n from '../i18n'
 import languages from '../../languages.json'
@@ -67,7 +59,9 @@ export const Marker = (props: MarkerProps) => {
       >
         <Typography variant='body1' sx={{ fontSize: '0.65rem' }} fontWeight={500}>
           {props.resource.externalUrl ? (
-            <Link href={props.resource.externalUrl}>{props.resource.title}</Link>
+            <Link href={props.resource.externalUrl} target='_blank'>
+              {props.resource.title}
+            </Link>
           ) : (
             props.resource.title
           )}
@@ -84,7 +78,15 @@ export const Marker = (props: MarkerProps) => {
         </Typography>
         <Typography variant='body1' sx={{ fontSize: '0.65rem', marginTop: '0.25rem' }}>
           <div itemProp='address' itemScope itemType='http://schema.org/PostalAddress'>
-            {props.resource.address}
+            <Link
+              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                props.resource.address,
+              )}`}
+              target='_blank'
+              itemProp='address'
+            >
+              {props.resource.address}
+            </Link>
           </div>
         </Typography>
         {props.resource.phoneNumber && (
@@ -181,7 +183,7 @@ export const MapPage = () => {
           top: 0,
           left: 0,
           right: 0,
-          padding: '1rem',
+          padding: '0.5rem',
           opacity: 0.85,
           background: '#fff',
         }}
@@ -209,10 +211,9 @@ export const MapPage = () => {
           <Select
             sx={{
               borderRadius: '24px',
-              fontWeight: '600',
             }}
             onChange={(e) => {
-              const value = e.target.value as unknown as string[]
+              const value = (e.target.value as unknown) as string[]
 
               if (value.indexOf('') !== -1) {
                 searchParams.delete('organizationTypes')
@@ -230,7 +231,9 @@ export const MapPage = () => {
               <em>None</em>
             </MenuItem>
             {mapOrganizationTypes.map((type, index) => (
-              <MenuItem key={index} value={type.value}>{type.name}</MenuItem>
+              <MenuItem key={index} value={type.value}>
+                {type.name}
+              </MenuItem>
             ))}
           </Select>
         </FormControl>
