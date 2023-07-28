@@ -2,7 +2,7 @@ import React from 'react'
 import { useSearchParams } from 'react-router-dom'
 import GoogleMapReact from 'google-map-react'
 import { Box, FormControl, InputLabel, Menu, MenuItem, Select, Typography } from '@mui/material'
-import { Resource } from './resource'
+import { Resource, extractLangSpecificData } from './resource'
 import i18n from '../i18n'
 import languages from '../../languages.json'
 import { ReactComponent as MarkerIcon } from '../assets/marker.svg'
@@ -13,6 +13,7 @@ export interface MarkerProps {
   lat: number
   lng: number
   resource: Resource
+  localeCode: string
 }
 
 const mapOrganizationTypes = organizationTypes.filter(
@@ -60,14 +61,14 @@ export const Marker = (props: MarkerProps) => {
         <Typography variant='body1' sx={{ fontSize: '0.65rem' }} fontWeight={500}>
           {props.resource.externalUrl ? (
             <Link href={props.resource.externalUrl} target='_blank'>
-              {props.resource.title}
+              {extractLangSpecificData(props.resource.title, props.localeCode)}
             </Link>
           ) : (
-            props.resource.title
+            extractLangSpecificData(props.resource.title, props.localeCode)
           )}
         </Typography>
         <Typography variant='body1' sx={{ fontSize: '0.65rem', marginTop: '0.25rem' }}>
-          {props.resource.description}
+          {extractLangSpecificData(props.resource.description, props.localeCode)}
         </Typography>
         <Typography
           variant='body1'
@@ -121,13 +122,13 @@ export const MapPage = () => {
     [searchParams.get('organizationTypes')],
   )
 
+  // eslint-disable-next-line camelcase
+  const pickedLanguage = [...languages, { locale_code: 'en-US' }].find(
+    (l) => l.locale_code === i18n.language,
+  )
+
   React.useEffect(() => {
     const fetchResources = async () => {
-      // eslint-disable-next-line camelcase
-      const pickedLanguage = [...languages, { locale_code: 'en-US' }].find(
-        (l) => l.locale_code === i18n.language,
-      )
-
       const { default: resources } = await import(
         `../resources/${pickedLanguage?.locale_code}.json`
       )
@@ -174,7 +175,13 @@ export const MapPage = () => {
         {filteredResources
           .filter((resource) => resource.latLng)
           .map((resource, i) => (
-            <Marker key={i} lat={resource.latLng[0]} lng={resource.latLng[1]} resource={resource} />
+            <Marker
+              key={i}
+              lat={resource.latLng[0]}
+              lng={resource.latLng[1]}
+              resource={resource}
+              localeCode={pickedLanguage!.locale_code}
+            />
           ))}
       </GoogleMapReact>
       <Box

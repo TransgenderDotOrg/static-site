@@ -20,18 +20,38 @@ import useSearch from '../hooks/useSearch'
 import i18n from '../i18n'
 import { usePagination } from '../hooks/usePagination'
 
+interface IndexableResourceField {
+  [key: string]: string
+}
+
 export interface Resource {
   id: string;
   slug: string;
   externalUrl: string;
   tags: string[];
   organizationType: string[];
-  title: string;
-  description: string;
+  title: string | IndexableResourceField
+  description: string | IndexableResourceField;
   address: string;
   phoneNumber?: string;
   email?: string;
   latLng: [number, number];
+}
+
+export const extractLangSpecificData = (source: string | IndexableResourceField, localeCode: string) => {
+  const localeCodeParts = localeCode.split('-').map(l => l.toLowerCase())
+
+  if(typeof source === 'string'){
+    return source
+  }
+
+  const possibleKeys = [localeCode, ...localeCodeParts, 'en-US', 'en', 'us']
+  for(const key of possibleKeys){
+    if(key in source){
+      return source[key]
+    }
+  }
+  return ''
 }
 
 export interface PaginatorPageProps {
@@ -77,6 +97,11 @@ export const ResourcePage = () => {
   const [searchParams, setSearchParams] = useSearchParams()
   const resultsRef = React.useRef<HTMLDivElement>(null)
 
+  // eslint-disable-next-line camelcase
+  const pickedLanguage = [...languages, { locale_code: 'en-US' }].find(
+    (l) => l.locale_code === i18n.language,
+  )
+
   const queryTags = React.useMemo(
     () =>
       decodeURIComponent(searchParams.get('tags') ?? '')
@@ -95,11 +120,6 @@ export const ResourcePage = () => {
 
   React.useEffect(() => {
     const fetchResources = async () => {
-      // eslint-disable-next-line camelcase
-      const pickedLanguage = [...languages, { locale_code: 'en-US' }].find(
-        (l) => l.locale_code === i18n.language,
-      )
-
       const { default: resources } = await import(
         `../resources/${pickedLanguage?.locale_code}.json`
       )
@@ -204,7 +224,7 @@ export const ResourcePage = () => {
             },
           }}
         >
-          <FormControl sx={{}} size="small">
+          <FormControl sx={{}} size='small'>
             <InputLabel
               sx={{ background: '#fff', fontFamily: 'Mukta, sans-serif' }}
             >
@@ -232,7 +252,7 @@ export const ResourcePage = () => {
               multiple
               fullWidth
             >
-              <MenuItem value="">
+              <MenuItem value=''>
                 <em>None</em>
               </MenuItem>
               {organizationTypes.map((type, idx) => (
@@ -244,7 +264,7 @@ export const ResourcePage = () => {
             sx={{
               marginTop: '1rem',
             }}
-            size="small"
+            size='small'
           >
             <InputLabel
               sx={{
@@ -273,7 +293,7 @@ export const ResourcePage = () => {
               multiple
               fullWidth
             >
-              <MenuItem value="">
+              <MenuItem value=''>
                 <em>None</em>
               </MenuItem>
               {tags.map((type, idx) => (
@@ -325,11 +345,11 @@ export const ResourcePage = () => {
                 }}
               >
                 <a href={result.externalUrl} target='_blank' rel='noreferrer'>
-                  {result.title}
+                  {extractLangSpecificData(result.title, pickedLanguage!.locale_code)}
                 </a>
               </Typography>
               <Typography variant='body1' sx={{ marginTop: '0.5rem' }}>
-                {result.description}
+              {extractLangSpecificData(result.description, pickedLanguage!.locale_code)}
               </Typography>
             </Box>
           ))}
