@@ -1,0 +1,43 @@
+{
+  "id": "ba977fc3-ef62-4dc3-b4fe-73e0c3e5ac74",
+  "i18n": {
+    "en-US": {
+      "title": "Northwestern Medicine Health Clinic | Portland, ME",
+      "description": "Northwestern Medicine's Portland office provides a range of comprehensive health services with a deep commitment to the transgender community. Whether it's in legal, healthcare, mental-health, or social-services sector, our expert teams are dedicated to serving the unique needs of the transmasculine, transfeminine and non-binary individuals. With robust support-groups and resources for parents, partners, and youth, our goal is to create an inclusive and respectful environment for all."
+    }
+  },
+  "slug": "northwestern-medicine-health-clinic",
+  "externalUrl": "https://www.nm.org",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

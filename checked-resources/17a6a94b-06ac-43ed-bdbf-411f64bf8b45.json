@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-troy",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "17a6a94b-06ac-43ed-bdbf-411f64bf8b45",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/troy/12180/troy-health-center-2780-91020?utm_campaign=troy-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "120 Hoosick St, Troy, NY 12180, USA",
+  "phoneNumber": "+1 518-434-5678",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=650870528279740623"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Rensselaer County",
+  "city": "Troy",
+  "latLng": [
+    42.739074,
+    -73.6784308
+  ]
+}

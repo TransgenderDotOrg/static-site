@@ -1,0 +1,32 @@
+{
+  "id": "83dfa831-b70f-4b34-99cc-c1fa3fc8e0a7",
+  "i18n": {
+    "en-US": {
+      "title": "PeaceHealth - Personalized Healthcare Provider",
+      "description": "PeaceHealth aims to bring personalized healthcare for everyone, respecting the uniqueness of each individual. We provide comprehensive care services, including primary and specialty care, and ensure access to reliable health information. Focused particularly on serving the transgender community, we strive to offer a safe, comfortable and inclusive environment. Our facility underlines the significance of understanding, acceptance, and full-fledged support to make high-quality healthcare accessible for all."
+    }
+  },
+  "slug": "peacehealth-personalized-healthcare-provider",
+  "externalUrl": "https://www.peacehealth.org",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": {}
+}

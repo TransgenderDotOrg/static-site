@@ -1,0 +1,35 @@
+{
+  "id": "e6271c21-b857-4726-8eae-37f51ae79f8d",
+  "i18n": {
+    "en-US": {
+      "title": "Village Medical: Primary Care for Transgender Community",
+      "description": "Village Medical, a patient-oriented medical facility, is committed to providing healthcare that caters to the unique needs of the transgender community, offering services such as annual check-ups, diagnostic testing, illness and injury treatment, medication management, and specialist referrals. We prioritize a personalized approach to ensure our patients receive the best care and attention they need."
+    }
+  },
+  "slug": "village-medical-primary-care-for-transgender-community",
+  "externalUrl": "https://www.villagemedical.com",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": null
+  }
+}

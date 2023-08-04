@@ -1,0 +1,34 @@
+{
+  "id": "f5eafd3a-bf07-4785-ad9e-b0a44bb9b6ae",
+  "i18n": {
+    "en-US": {
+      "title": "UK Healthcare Clinic",
+      "description": "The UK Healthcare Clinic strives to support the transgender community by providing a broad range of specialised medical services. The clinic ensures the delivery of quality healthcare in a respectful, safe, and friendly environment. Our services also extend to the provision of relevant resources and support groups that cater specifically to the needs of the transgender community."
+    }
+  },
+  "slug": "uk-healthcare-clinic",
+  "externalUrl": "https://ukhealthcare.uky.edu",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "email": null,
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "socialMedia": null,
+  "county": "Cumberland County"
+}

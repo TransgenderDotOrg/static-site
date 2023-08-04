@@ -1,0 +1,29 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-south-portland",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "899e327b-5336-422d-873e-dd7e5794e8c0",
+  "externalUrl": "https://locations.borregohealth.org",
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "Cumberland County",
+  "city": "South Portland",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ]
+}

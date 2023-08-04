@@ -1,0 +1,35 @@
+{
+  "id": "1117bb5a-be21-4f8d-bc80-efd1cb8b1d19",
+  "i18n": {
+    "en-US": {
+      "title": "One Medical - Exceptional Primary Care",
+      "description": "One Medical offers exceptional primary care facilities and personalized attention to all patients, including the transgender community. The office schedules long appointments for in-depth discussions and has multiple services covering everything from chronic care to mental health issues. It offers compassionate care, recognizing the unique medical and emotional needs of transgender individuals. Practitioners are experienced in handling sensitive matters such as hormone replacement therapy, post-surgery care, and transgender-specific mental health care."
+    }
+  },
+  "slug": "one-medical-exceptional-primary-care",
+  "externalUrl": "https://www.onemedical.com",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/OneMedical",
+    "twitterUrl": "https://www.twitter.com/OneMedical",
+    "instagramUrl": "https://www.instagram.com/OneMedical"
+  }
+}

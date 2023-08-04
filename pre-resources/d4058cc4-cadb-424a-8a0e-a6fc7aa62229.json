@@ -1,0 +1,35 @@
+{
+  "id": "d4058cc4-cadb-424a-8a0e-a6fc7aa62229",
+  "i18n": {
+    "en-US": {
+      "title": "Piedmont Health: Gateway to Quality Healthcare",
+      "description": "Piedmont Health is a community-focused healthcare provider offering a wide range of services including medical, dental, senior care, and pharmacy services, among others. Our commitment to respect, compassion, and trust has made us a home for many, including the transgender community. With supportive and understanding staff, we strive to create an environment that respects your identity while providing quality healthcare tailored to your needs."
+    }
+  },
+  "slug": "piedmont-health-gateway-to-quality-healthcare",
+  "externalUrl": "https://piedmonthealth.org",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": {
+    "Facebook": "URL to Facebook",
+    "Twitter": "URL to Twitter",
+    "YouTube": "URL to YouTube"
+  }
+}

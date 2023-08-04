@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-springfield",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "387aab92-f120-4d27-9cd9-a3529e65e620",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/massachusetts/springfield/01107/western-massachusetts-health-center-2662-90610?utm_campaign=western-massachusetts-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3550 Main Street, Springfield, MA 01107, USA",
+  "phoneNumber": "+1 413-732-1620",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16024199726046018116"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Hampden County",
+  "city": "Springfield",
+  "latLng": [
+    42.126346,
+    -72.61108899999999
+  ]
+}

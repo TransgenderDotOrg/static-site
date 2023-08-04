@@ -1,0 +1,36 @@
+{
+  "id": "c11935e6-1948-489e-a637-23a52a473484",
+  "i18n": {
+    "en-US": {
+      "title": "Essentia Health - Transgender Health Services",
+      "description": "Essentia Health is an integrated health system that caters to various health needs, including those of the transgender community. We offer tailored healthcare services in an inclusive environment, ensuring each individual feels comfortable and is given the highest standard of care. Our services range from routine consultations to specialized treatments and surgeries. Also, we offer support in the form of information, patient-visitor support, and scheduling appointments online or in-person. With our commitment to serving our diverse community, we aim to be a considerable contributor towards transgender health and wellbeing."
+    }
+  },
+  "slug": "essentia-health-transgender-health-services",
+  "externalUrl": "https://www.essentiahealth.org",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "email": "null",
+  "socialMedia": {
+    "yelpUrl": "null",
+    "googleMapsUrl": "null"
+  },
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ]
+}

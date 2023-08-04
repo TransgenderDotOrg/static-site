@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Maine Family Planning",
+      "description": "Maine Family Planning provides affordable reproductive health care services for all Mainers, as well as primary care, help for new parents and families, and gender-affirming health services. Some services are available online."
+    }
+  },
+  "slug": "maine-family-planning-waterville",
+  "externalUrl": "http://www.mainefamilyplanning.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "f7da2f37-2f95-4241-af83-b7c39c00bb10",
+  "address": "18 Silver St, Waterville, ME 04901, USA",
+  "phoneNumber": "+1 207-922-3222",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=181369852409081764"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "Kennebec County",
+  "city": "Waterville",
+  "latLng": [
+    44.5485622,
+    -69.630567
+  ]
+}

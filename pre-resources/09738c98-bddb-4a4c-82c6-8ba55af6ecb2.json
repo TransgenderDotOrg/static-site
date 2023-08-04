@@ -1,0 +1,36 @@
+{
+  "id": "09738c98-bddb-4a4c-82c6-8ba55af6ecb2",
+  "i18n": {
+    "en-US": {
+      "title": "Westbrook Clinic - HIV/AIDS & STI Services",
+      "description": "Westbrook Clinic, a division of the Valley AIDS Council, is dedicated to providing comprehensive HIV/AIDS and STI health services, information and support to the community, particularly focusing on the needs of the transgender community. The clinic offers an array of medical care options, pharmaceutical services, education programs, and other resources like housing and support to those diagnosed and living with HIV/AIDS, as well as providing HIV testing services to the public. Their commitment to patient privacy, dignity, and equality make them a welcoming place for transgender individuals seeking care."
+    },
+    "es": {
+      "title": "Clínica Westbrook - Servicios de VIH/SIDA y ITS",
+      "description": "La Clínica Westbrook, una división del Valley AIDS Council, se dedica a proporcionar servicios de salud integrales para el VIH/SIDA y las ITS, información y apoyo a la comunidad, centrándose particularmente en las necesidades de la comunidad transgénero. La clínica ofrece una gama de opciones de atención médica, servicios farmacéuticos, programas de educación y otros recursos como viviendas y apoyo para las personas diagnosticadas y que viven con el VIH/SIDA, así como servicios de pruebas de VIH para el público. Su compromiso con la privacidad del paciente, la dignidad y la igualdad hacen de ellos un lugar acogedor para las personas transgénero que buscan atención."
+    }
+  },
+  "slug": "westbrook-clinic-hiv-aids-sti-services",
+  "externalUrl": "http://westbrookclinic.org/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": {}
+}

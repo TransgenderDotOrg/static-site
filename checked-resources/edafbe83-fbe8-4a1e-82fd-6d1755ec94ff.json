@@ -1,0 +1,32 @@
+{
+  "id": "edafbe83-fbe8-4a1e-82fd-6d1755ec94ff",
+  "i18n": {
+    "en-US": {
+      "title": "Metrowest Health Center",
+      "description": "A primary care clinic that serves as the principal point of healthcare services to patients of all ages. The clinic is led by general practitioners and family medicine doctors at 81B Main St, Medway, Massachusetts."
+    }
+  },
+  "slug": "metrowest-health-center",
+  "externalUrl": "https://npino.com/primary-clinic/1174693998-metrowest-health-center/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "81B Main St, Medway, MA 02053, USA",
+  "phoneNumber": "+1 508-533-4377",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Medway",
+  "latLng": [
+    42.15098,
+    -71.41097309999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1129738998173782905"
+  },
+  "county": "Norfolk County"
+}

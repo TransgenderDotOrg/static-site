@@ -1,0 +1,33 @@
+{
+  "id": "902a8f7f-59fc-4062-99df-6bf2f5b73453",
+  "i18n": {
+    "en-US": {
+      "title": "KC CARE Health Center",
+      "description": "KC CARE Health Center provides whole-person care, including medical services, behavioural health, and testing services. They are particularly catered to serving the transgender community with specific services like transgender health and sexual health. KC CARE promotes health equality and believes in healthcare as a right for everyone."
+    }
+  },
+  "slug": "kc-care-health-center",
+  "externalUrl": "https://kccare.org/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ],
+  "email": null,
+  "socialMedia": null
+}

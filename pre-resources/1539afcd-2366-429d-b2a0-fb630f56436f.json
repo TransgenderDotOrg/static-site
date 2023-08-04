@@ -1,0 +1,42 @@
+{
+  "id": "1539afcd-2366-429d-b2a0-fb630f56436f",
+  "i18n": {
+    "es-MX": {
+      "title": "Centro Ararat",
+      "description": "Centro Ararat ofrece una variedad de servicios de salud sexual, incluyendo pruebas de VIH y consulta PrEP. Nos esforzamos por crear un espacio segura y acogedora para la comunidad transgénero."
+    },
+    "en-US": {
+      "title": "Ararat Center",
+      "description": "Ararat Center provides a variety of sexual health services, including rapid HIV testing and PrEP consultation. We strive to create a safe and welcoming space for the transgender community."
+    }
+  },
+  "slug": "ararat-center",
+  "externalUrl": "http://www.centroararat.org/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "123 Main St, South Portland, ME 04106, USA",
+  "phoneNumber": "207-555-5555",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "South Portland",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/CentroArarat",
+    "twitterUrl": "https://twitter.com/CentroArarat",
+    "instagramUrl": "https://www.instagram.com/CentroArarat/",
+    "youtubeUrl": "https://www.youtube.com/channel/CentroArarat",
+    "linkedinUrl": "https://www.linkedin.com/company/CentroArarat"
+  },
+  "county": "Cumberland County",
+  "latLng": [
+    43.63507329999999,
+    -70.2873441
+  ]
+}
