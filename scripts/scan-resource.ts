@@ -30,7 +30,19 @@ const writeFile = promisify(fs.writeFile)
 
 const INPUT_DIR = path.join(__dirname, '../pre-resources')
 
-const defaultSet = {
+const defaultSet: {
+  [key: string]: {
+    i18n: {
+      [key: string]: {
+        title: string
+        description: string
+      }
+    }
+    slug: string
+    tags: string[]
+    organizationType: string[]
+  }
+} = {
   'mainefamilyplanning.org': {
     i18n: {
       'en-US': {
@@ -62,7 +74,6 @@ const defaultSet = {
         description:
           "Fenway Health Clinics provide comprehensive medical and behavioral health services, focused on delivering individualized care to all, including the transgender community. Their team of expert providers prioritizes affirming, inclusive, and personalized health care solutions to meet each patient's unique needs.",
       },
-      'other-lang': null,
     },
     slug: 'fenway',
     tags: ['healthcare'],
@@ -264,7 +275,7 @@ const defaultSet = {
   'legacycommunityhealth.org': {
     i18n: {
       'en-US': {
-        itle: 'Legacy Community Health',
+        title: 'Legacy Community Health',
         description:
           'Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay.',
       },
@@ -303,9 +314,13 @@ const defaultSet = {
     organizationType: ['healthcare-provider', 'informed-consent-clinic', 'non-profit-organization'],
   },
   'neighborcare.org': {
-    title: 'Neighborcare Health',
-    description:
-      'Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence.',
+    i18n: {
+      'en-US': {
+        title: 'Neighborcare Health',
+        description:
+          'Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence.',
+      },
+    },
     slug: 'neighborcare-health',
     tags: ['healthcare', 'mental-health', 'social-services', 'education-awareness'],
     organizationType: ['healthcare-provider', 'non-profit-organization', 'informed-consent-clinic'],
@@ -413,7 +428,7 @@ const defaultSet = {
     tags: ['healthcare', 'transmasculine', 'transfeminine', 'non-binary'],
     organizationType: ['local-office', 'informed-consent-clinic', 'healthcare-provider'],
   },
-  'www.villagemedical.com': {
+  'villagemedical.com': {
     i18n: {
       'en-US': {
         title: 'Village Medical: Primary Care for Transgender Community',
@@ -425,7 +440,7 @@ const defaultSet = {
     tags: ['healthcare', 'support-groups', 'legal'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.bassett.org': {
+  'bassett.org': {
     i18n: {
       'en-US': {
         title: 'Bassett Healthcare Network',
@@ -461,7 +476,7 @@ const defaultSet = {
     tags: ['healthcare', 'support-groups'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.uwhealth.org': {
+  'uwhealth.org': {
     i18n: {
       'en-US': {
         title: 'UW Health Transgender Healthcare Services',
@@ -480,7 +495,7 @@ const defaultSet = {
     ],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.essentiahealth.org': {
+  'essentiahealth.org': {
     i18n: {
       'en-US': {
         title: 'Essentia Health - Transgender Health Services',
@@ -492,7 +507,7 @@ const defaultSet = {
     tags: ['healthcare', 'mental-health', 'support-groups', 'education-awareness'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.nm.org': {
+  'nm.org': {
     i18n: {
       'en-US': {
         title: 'Northwestern Medicine Health Clinic | Portland, ME',
@@ -516,7 +531,7 @@ const defaultSet = {
     ],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.centraloutreach.com': {
+  'centraloutreach.com': {
     i18n: {
       'en-US': {
         title: 'Central Outreach Wellness Center',
@@ -552,7 +567,7 @@ const defaultSet = {
     tags: ['healthcare'],
     organizationType: ['healthcare-provider', 'informed-consent-clinic', 'local-office'],
   },
-  'www.peacehealth.org': {
+  'peacehealth.org': {
     i18n: {
       'en-US': {
         title: 'PeaceHealth - Personalized Healthcare Provider',
@@ -576,7 +591,7 @@ const defaultSet = {
     tags: ['healthcare', 'transfeminine', 'transmasculine', 'non-binary'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.hopkinsmedicine.org': {
+  'hopkinsmedicine.org': {
     i18n: {
       'en-US': {
         title: 'Johns Hopkins Medicine',
@@ -588,7 +603,7 @@ const defaultSet = {
     tags: ['healthcare', 'mental-health', 'education-awareness'],
     organizationType: ['local-office', 'informed-consent-clinic', 'healthcare-provider'],
   },
-  'www.metrohealth.org': {
+  'metrohealth.org': {
     i18n: {
       'en-US': {
         title: 'MetroHealth System in Cleveland',
@@ -598,23 +613,6 @@ const defaultSet = {
     },
     slug: 'metrohealth-system-in-cleveland',
     tags: ['healthcare'],
-    organizationType: ['local-office', 'informed-consent-clinic'],
-  },
-  'centroararat.org': {
-    i18n: {
-      'en-US': {
-        title: 'Centro Ararat for Health and Wellness',
-        description:
-          'Centro Ararat is a healthcare provider focusing on sexual health and well-being, with special attention to the HIV and the transgender community. With over 20 years of establishment, it offers services such as rapid HIV testing, and provides protection barriers. Centro Ararat also provides a variety of health-related resources and supports for transgender people.',
-      },
-      es: {
-        title: 'Centro Ararat para la Salud y el Bienestar',
-        description:
-          'Centro Ararat es un proveedor de atención médica que se centra en la salud y el bienestar sexual, con atención especial al VIH y la comunidad transgénero. Con más de 20 años de establecimiento, ofrece servicios como pruebas rápidas de VIH y proporciona barreras de protección. Centro Ararat también proporciona una variedad de recursos de salud y apoyos para personas transgénero.',
-      },
-    },
-    slug: 'centro-ararat-for-health-and-wellness',
-    tags: ['healthcare', 'social-services', 'support-groups'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
   'healthy.kaiserpermanente.org': {
@@ -629,7 +627,7 @@ const defaultSet = {
     tags: ['healthcare', 'mental-health', 'support-groups'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.hopeandhelp.org': {
+  'hopeandhelp.org': {
     i18n: {
       'en-US': {
         title: 'Hope & Help Center of Central Florida',
@@ -641,7 +639,7 @@ const defaultSet = {
     tags: ['healthcare', 'support-groups', 'mental-health'],
     organizationType: ['informed-consent-clinic', 'local-office'],
   },
-  'www.cancommunityhealth.org': {
+  'cancommunityhealth.org': {
     i18n: {
       'en-US': {
         title: 'CAN Community Health',
@@ -677,7 +675,7 @@ const defaultSet = {
     tags: ['transmasculine', 'transfeminine', 'non-binary', 'healthcare'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.aplahealth.org': {
+  'aplahealth.org': {
     i18n: {
       'en-US': {
         title: 'APLA Health Services',
@@ -689,7 +687,7 @@ const defaultSet = {
     tags: ['transfeminine', 'transmasculine', 'non-binary', 'healthcare', 'support-groups'],
     organizationType: ['informed-consent-clinic', 'local-office'],
   },
-  'www.centroararat.org': {
+  'centroararat.org': {
     i18n: {
       'es-MX': {
         title: 'Centro Ararat',
@@ -706,7 +704,7 @@ const defaultSet = {
     tags: ['healthcare', 'transfeminine', 'transmasculine', 'non-binary'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.onemedical.com': {
+  'onemedical.com': {
     i18n: {
       'en-US': {
         title: 'One Medical - Exceptional Primary Care',
@@ -718,7 +716,7 @@ const defaultSet = {
     tags: ['healthcare', 'informed-consent-clinic'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.uphealthsystem.com': {
+  'uphealthsystem.com': {
     i18n: {
       'en-US': {
         title: 'UP Health System',
@@ -730,7 +728,7 @@ const defaultSet = {
     tags: ['healthcare', 'support-groups'],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.mainlinehealth.org': {
+  'mainlinehealth.org': {
     i18n: {
       'en-US': {
         title: 'Main Line Health',
@@ -751,7 +749,7 @@ const defaultSet = {
     ],
     organizationType: ['local-office', 'informed-consent-clinic'],
   },
-  'www.novanthealth.org': {
+  'novanthealth.org': {
     i18n: {
       'en-US': {
         title: 'Novant Health Comprehensive Transgender Care',
@@ -1048,62 +1046,77 @@ try {
   const informedConsentClinics = JSON.parse(informedConsentClinicsText)
 
   ;(async () => {
-    for (let i = skip; i < informedConsentClinics.length; i++) {
-      const clinic = informedConsentClinics[i]
+    const chunkSize = 20
+    // Adjust the array to respect the skip
+    const informedConsentClinicsAdjusted = informedConsentClinics.slice(skip)
 
-      const defaultSetKeys = Object.keys(defaultSet)
+    const clinicChunks = Array(Math.ceil(informedConsentClinicsAdjusted.length / chunkSize))
+      .fill(null)
+      .map((_, index) => {
+        return informedConsentClinicsAdjusted.slice(index * chunkSize, (index + 1) * chunkSize)
+      })
 
-      // check if the clinic contains the domain of a default set
-      // if it does, we will use the default set instead of scraping the website
-      const defaultSetKey: keyof typeof defaultSet = defaultSetKeys.find((key) =>
-        clinic.website.includes(key),
-      ) as unknown as keyof typeof defaultSet
+    for (let i = 0; i < clinicChunks.length; i++) {
+      const chunk = clinicChunks[i]
+      // Process each chunk in parallel
+      await Promise.all(
+        chunk.map(async (clinic: any, index: number) => {
+          if (!clinic) {
+            return
+          }
 
-      if (defaultSetKey) {
-        const defaultSetClinic = defaultSet[defaultSetKey]
+          const defaultSetKeys = Object.keys(defaultSet)
 
-        const id = v4()
+          const defaultSetKey = defaultSetKeys.find((key) => clinic.website.includes(key))
 
-        const fileName = `${id}.json`
+          if (defaultSetKey) {
+            const defaultSetClinic = defaultSet[defaultSetKey]
+            const id = v4()
+            const fileName = `${id}.json`
 
-        const translatedJsonObject = await processAddress({
-          ...defaultSetClinic,
-          id,
-          externalUrl: clinic.website,
-          address: clinic.address,
-          phoneNumber: clinic.phoneNumber,
-          socialMedia: {
-            googleMapsUrl: clinic.googleMapsLink,
-          },
-        })
+            const translatedJsonObject = await processAddress({
+              ...defaultSetClinic,
+              id,
+              externalUrl: clinic.website,
+              address: clinic.address,
+              phoneNumber: clinic.phoneNumber,
+              socialMedia: {
+                googleMapsUrl: clinic.googleMapsLink,
+              },
+            })
 
-        ;(translatedJsonObject.slug = `${defaultSetClinic.slug}-${paramCase(
-          translatedJsonObject.city,
-        )}`),
-          await writeFile(
-            path.join(INPUT_DIR, fileName),
-            JSON.stringify(translatedJsonObject, null, 2),
-          )
+            translatedJsonObject.slug = `${defaultSetClinic.slug}-${paramCase(
+              translatedJsonObject.city,
+            )}`
+            await writeFile(
+              path.join(INPUT_DIR, fileName),
+              JSON.stringify(translatedJsonObject, null, 2),
+            )
 
-        console.log(`DEFAULTSET: Wrote ${fileName} to ${INPUT_DIR}`)
-      } else {
-        await processUrl(clinic)
-      }
+            console.log(`DEFAULTSET: Wrote ${fileName} to ${INPUT_DIR}`)
+          } else {
+            await processUrl(clinic)
+          }
+
+          // Log last processed index
+          const lastProcessedIndex = skip + i * chunkSize + index
+          console.log(`Last processed index: ${lastProcessedIndex}`)
+        }),
+      )
+
+      // Pause for 5 seconds
+      console.log('Pausing for 5 seconds...')
+      console.log(`Last processed index: ${skip + i * chunkSize + chunkSize - 1}`)
+      await new Promise((resolve) => setTimeout(resolve, 5000))
     }
   })()
 } catch (error) {
   ;(async () => {
-    // here we assume that the error is that skip is not a number
-    // treat it as a single url
     const url = process.argv[2]
 
     const defaultSetKeys = Object.keys(defaultSet)
 
-    // check if the clinic contains the domain of a default set
-    // if it does, we will use the default set instead of scraping the website
-    const defaultSetKey: keyof typeof defaultSet = defaultSetKeys.find((key) =>
-      url.includes(key),
-    ) as unknown as keyof typeof defaultSet
+    const defaultSetKey = defaultSetKeys.find((key) => url.includes(key))
 
     if (defaultSetKey) {
       const defaultSetClinic = defaultSet[defaultSetKey]
@@ -1120,13 +1133,8 @@ try {
         phoneNumber: '207-555-5555',
       })
 
-      ;(translatedJsonObject.slug = `${defaultSetClinic.slug}-${paramCase(
-        translatedJsonObject.city,
-      )}`),
-        await writeFile(
-          path.join(INPUT_DIR, fileName),
-          JSON.stringify(translatedJsonObject, null, 2),
-        )
+      translatedJsonObject.slug = `${defaultSetClinic.slug}-${paramCase(translatedJsonObject.city)}`
+      await writeFile(path.join(INPUT_DIR, fileName), JSON.stringify(translatedJsonObject, null, 2))
 
       console.log(`DEFAULTSET: Wrote ${fileName} to ${INPUT_DIR}`)
     } else {
