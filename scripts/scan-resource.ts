@@ -1085,6 +1085,10 @@ try {
               },
             })
 
+            if (!translatedJsonObject.city) {
+              console.log(`DEFAULTSET: No city found for ${chunkSize * i + index + skip}`)
+            }
+
             translatedJsonObject.slug = `${defaultSetClinic.slug}-${paramCase(
               translatedJsonObject.city,
             )}`
