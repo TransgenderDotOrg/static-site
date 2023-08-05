@@ -1,0 +1,32 @@
+{
+  "id": "04c4c4d0-6423-4eb7-8609-46acd4a5566c",
+  "i18n": {
+    "en-US": {
+      "title": "Carle Bloomington Primary Care: Dr. Adam D. Houghton",
+      "description": "Dr. Adam D. Houghton, a family medicine specialist at Carle Bloomington Primary Care, is a certified member of the American Academy of Family Practice. He is committed to providing comprehensive healthcare services, potentially catering to the transgender community's needs. Patients are encouraged to inquire about specific services offered."
+    }
+  },
+  "slug": "carle-bloomington-primary-care-dr-adam-d-houghton",
+  "externalUrl": "https://carle.org/find-a-doctor/2549",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "9 Heartland Dr c, Bloomington, IL 61704, USA",
+  "phoneNumber": "+1 309-663-7642",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Bloomington",
+  "latLng": [
+    40.4810772,
+    -88.93997
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=942492841237768181"
+  },
+  "county": "McLean County"
+}

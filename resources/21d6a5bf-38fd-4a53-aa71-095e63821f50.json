@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northeast-los-angeles",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "21d6a5bf-38fd-4a53-aa71-095e63821f50",
+  "externalUrl": "https://www.plannedparenthood.org/health-center?utm_campaign=closed&utm_medium=organic&utm_source=local-listing",
+  "address": "1578 Colorado Blvd, Los Angeles, CA 90041, USA",
+  "phoneNumber": "+1 800-230-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15048863017851239006"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "Northeast Los Angeles",
+  "latLng": [
+    34.1389848,
+    -118.200896
+  ]
+}

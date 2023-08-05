@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-coraopolis",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8e930978-92b4-433d-9b6f-45f75629f86d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/moon-township/15108/moon-township-health-center-2827-91470?utm_campaign=moon-township-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "935 Beaver Grade Rd #12, Coraopolis, PA 15108, USA",
+  "phoneNumber": "+1 412-264-7205",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12046799098308036385"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Allegheny County",
+  "city": "Coraopolis",
+  "latLng": [
+    40.5113124,
+    -80.2129592
+  ]
+}

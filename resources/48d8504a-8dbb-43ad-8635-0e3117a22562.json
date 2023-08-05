@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Main Line Health",
+      "description": "Main Line Health offers various healthcare services with a compassionate approach to the transgender community. From specialized mental health to legal support services, our office provides inclusive healthcare tailored to meet the unique needs of transmasculine, transfeminine, and non-binary individuals. We believe in creating an environment that recognizes and respects the individuality of every patient."
+    }
+  },
+  "slug": "main-line-health-roxborough",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "48d8504a-8dbb-43ad-8635-0e3117a22562",
+  "externalUrl": "https://www.mainlinehealth.org/",
+  "address": "7114 Ridge Ave, Philadelphia, PA 19128, USA",
+  "phoneNumber": "+1 484-476-1000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3706181457244031411"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Philadelphia County",
+  "city": "Roxborough",
+  "latLng": [
+    40.0444878,
+    -75.2310875
+  ]
+}

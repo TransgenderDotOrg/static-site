@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-northwest-seattle",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "0e58aa7c-2de2-45ec-b51f-b4185150e089",
+  "externalUrl": "http://www.neighborcare.org/clinics/neighborcare-health-meridian",
+  "address": "10521 Meridian Ave N, Seattle, WA 98133, USA",
+  "phoneNumber": "+1 206-296-4990",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17673727774483344339"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Northwest Seattle",
+  "latLng": [
+    47.7059831,
+    -122.3346171
+  ]
+}

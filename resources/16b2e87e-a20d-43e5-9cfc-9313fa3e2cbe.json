@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-vickery-meadow",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "16b2e87e-a20d-43e5-9cfc-9313fa3e2cbe",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/dallas/75231/north-dallas-shelburne-health-center-2521-91620?utm_campaign=north-dallas-shelburne-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7424 Greenville Ave Ste 101, Dallas, TX 75231, USA",
+  "phoneNumber": "+1 214-368-1485",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8634146650083772673"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Dallas County",
+  "city": "Vickery Meadow",
+  "latLng": [
+    32.8814303,
+    -96.75732769999999
+  ]
+}

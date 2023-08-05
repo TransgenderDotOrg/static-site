@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-dallas",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b5dd1691-ef8c-4e65-ad6e-313092569a25",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/dallas/75237/south-dallas-abortion-services-center-4149-91620?utm_campaign=south-dallas-abortion-services-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7989 W Virginia Dr, Dallas, TX 75237, USA",
+  "phoneNumber": "+1 214-373-1868",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8111312399236583422"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Dallas County",
+  "city": "Dallas",
+  "latLng": [
+    32.6491447,
+    -96.8763585
+  ]
+}

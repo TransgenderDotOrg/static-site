@@ -1,0 +1,33 @@
+{
+  "id": "73a712e3-6459-4428-b88e-1545832e1fec",
+  "i18n": {
+    "en-US": {
+      "title": "CareSouth Medical & Dental Services",
+      "description": "CareSouth offers various medical services including those tailored specifically for the transgender community such as behavioral health services and medical screening services. They provide a compassionate and respectful environment for all patients."
+    }
+  },
+  "slug": "caresouth-medical-dental-services",
+  "externalUrl": "https://www.caresouth.org/",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3140 Florida Blvd, Baton Rouge, LA 70806, USA",
+  "phoneNumber": "+1 225-650-2000",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Mid City South",
+  "county": "East Baton Rouge Parish",
+  "latLng": [
+    30.449847,
+    -91.156393
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4313012296687440948"
+  }
+}

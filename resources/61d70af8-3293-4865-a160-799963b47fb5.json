@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-modesto",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "61d70af8-3293-4865-a160-799963b47fb5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/modesto/95350/modesto-health-center-2527-90130?utm_campaign=modesto-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1431 McHenry Ave # 100, Modesto, CA 95350, USA",
+  "phoneNumber": "+1 209-579-2300",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9194527262174000854"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Stanislaus County",
+  "city": "Modesto",
+  "latLng": [
+    37.6648095,
+    -120.9944829
+  ]
+}

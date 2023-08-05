@@ -1,0 +1,34 @@
+{
+  "id": "d59da54e-58ba-412d-9d83-3115c691327b",
+  "i18n": {
+    "en-US": {
+      "title": "Coastal Bend Wellness Foundation",
+      "description": "The Coastal Bend Wellness Foundation( CBWF) provides comprehensive health and wellness services aimed at promoting treatment accessibility, education, and awareness for the transgender community. They offer various services including Adult Primary Care, Pediatric Care, Infectious Disease, and Substance Abuse Outpatient Treatment. They also run Project PRIDE and Project HOPE dedicated to providing support for transgender individuals. CBWF supports the transgender community through every step of their journey."
+    }
+  },
+  "slug": "coastal-bend-wellness-foundation",
+  "externalUrl": "https://www.cbwellness.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2882 Holly Rd, Corpus Christi, TX 78415, USA",
+  "phoneNumber": "+1 (361) 814-2001",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "South Side",
+  "latLng": [
+    27.7224776,
+    -97.42381320000001
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6922747368968607975"
+  },
+  "county": "Nueces County"
+}

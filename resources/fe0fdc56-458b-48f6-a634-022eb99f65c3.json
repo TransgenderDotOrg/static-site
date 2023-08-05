@@ -1,0 +1,40 @@
+{
+  "id": "fe0fdc56-458b-48f6-a634-022eb99f65c3",
+  "i18n": {
+    "en-US": {
+      "title": "Family Tree Clinic - Comprehensive Sexual Health Care and Education",
+      "description": "Family Tree Clinic has been dedicated to serving the Twin Cities metropolitan area since 1971 by providing comprehensive sexual health care and education. The clinic provides a safe environment for all individuals, including transgender community members, by offering services such as transgender hormone care, PreP and reproductive health care. Alongside healthcare, the Clinic also provides legal help for queer and transgender people, making it an inclusive and supportive resource."
+    }
+  },
+  "slug": "family-tree-clinic",
+  "externalUrl": "http://www.familytreeclinic.org/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1919 Nicollet Ave, Minneapolis, MN 55403, USA",
+  "phoneNumber": "+1 612-473-0800",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Central Minneapolis",
+  "latLng": [
+    44.963094,
+    -93.27745
+  ],
+  "email": null,
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/familytreeclinic",
+    "twitterUrl": "https://twitter.com/familytreeinc",
+    "youtubeUrl": "https://www.youtube.com/user/familytreeclinic",
+    "googleMapsUrl": "https://maps.google.com/?cid=1591274150049713680"
+  },
+  "county": "Hennepin County"
+}

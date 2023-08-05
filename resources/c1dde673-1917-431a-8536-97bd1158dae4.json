@@ -1,0 +1,38 @@
+{
+  "id": "c1dde673-1917-431a-8536-97bd1158dae4",
+  "i18n": {
+    "en-US": {
+      "title": "TRANSIT, Health Attention to Trans* Individuals",
+      "description": "TRANSIT is a local medical center located in Barcelona, Spain that offers health services tailored to transgender and non-binary individuals. These services include psychological support, information and resources for transgender health issues. They provide a safe space and LGBTQ+ friendly environment which is crucial for the wellbeing of trans community members."
+    },
+    "es": {
+      "title": "TRANSIT, Atención de Salud para Personas Trans*",
+      "description": "TRANSIT es un centro médico local ubicado en Barcelona, España que ofrece servicios de salud adaptados a individuos transgénero y no binarios. Estos servicios incluyen apoyo psicológico, información y recursos sobre problemas de salud transgénero. Proveen un espacio seguro y un ambiente amigable LGBTQ+ que es crucial para el bienestar de los miembros de la comunidad trans."
+    }
+  },
+  "slug": "transit-health-attention-to-trans-individuals",
+  "externalUrl": "https://maps.google.com/?cid=3514060371499618862",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "C/ de Numància, 23, 08029 Barcelona, Spain",
+  "phoneNumber": "+34 934 19 12 69",
+  "country": "ES",
+  "provinceOrState": "CT",
+  "city": "Barcelona",
+  "latLng": [
+    41.3817922,
+    2.1403057
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3514060371499618862"
+  },
+  "county": "B"
+}

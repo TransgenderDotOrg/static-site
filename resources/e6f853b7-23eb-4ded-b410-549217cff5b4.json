@@ -1,0 +1,34 @@
+{
+  "id": "e6f853b7-23eb-4ded-b410-549217cff5b4",
+  "i18n": {
+    "en-US": {
+      "title": "Santa Paula West Medical Group and Pediatrics",
+      "description": "Located in Santa Paula, California, Santa Paula West Medical Group and Pediatrics has been recognized for its outstanding health services provided to the LGBTQ+ community, including those who identify as transgender, non-binary, or queer, with a special focus on trans-affirming care. They are known for their empathetic and respectful treatment of all patients, making it a safe and welcoming environment for all."
+    }
+  },
+  "slug": "santa-paula-west-medical-group-and-pediatrics",
+  "externalUrl": "https://maps.google.com/?cid=12075099897243777872",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "254 W Harvard Blvd B, Santa Paula, CA 93060, USA",
+  "phoneNumber": "+18052290200",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Santa Paula",
+  "county": "Ventura County",
+  "latLng": [
+    34.3442538,
+    -119.0759699
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12075099897243777872"
+  }
+}

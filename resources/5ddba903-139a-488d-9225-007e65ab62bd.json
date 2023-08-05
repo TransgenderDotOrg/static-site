@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-north-haven",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5ddba903-139a-488d-9225-007e65ab62bd",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/north-highlands/95660/north-highlands-health-center-2201-90130?utm_campaign=north-highlands-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "5700 Watt Ave, North Highlands, CA 95660, USA",
+  "phoneNumber": "+1 916-332-5715",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11572217308628840306"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Sacramento County",
+  "city": "North Haven",
+  "latLng": [
+    38.6705137,
+    -121.3823502
+  ]
+}

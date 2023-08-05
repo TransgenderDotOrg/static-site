@@ -1,0 +1,33 @@
+{
+  "id": "b0661328-13d4-49c4-9e4a-39888305e03f",
+  "i18n": {
+    "en-US": {
+      "title": "Hands On Medicine, Offering Trans-Inclusive Healthcare",
+      "description": "Hands On Medicine is a primary care and mental health clinic that promotes health and wellness through nurturing the mind, body, and spirit. It encourages and empowers patients to take an active role in their healthcare, fostering an environment of integrated, multidisciplinary collaboration. The clinic is committed to environmental responsibility, with practices such as using reusable cloth gowns and cleaning with the least hazardous materials possible. Its services are particularly tailored to the transgender community, aiming to provide a safe, non-judgemental, and supportive healthcare experience for all patients."
+    }
+  },
+  "slug": "hands-on-medicine-trans-inclusive-healthcare",
+  "externalUrl": "http://www.handsonmedicine.net/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5311 N Vancouver Ave, Portland, OR 97217, USA",
+  "phoneNumber": "+1 503-281-0308",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "North Portland",
+  "latLng": [
+    45.5618517,
+    -122.66889
+  ],
+  "email": "info@handsonmedicine.net",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10348247179148264721"
+  },
+  "county": "Multnomah County"
+}

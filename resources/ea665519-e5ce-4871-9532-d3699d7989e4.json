@@ -1,0 +1,31 @@
+{
+  "id": "ea665519-e5ce-4871-9532-d3699d7989e4",
+  "i18n": {
+    "en-US": {
+      "title": "Sargeant Health Center - Froedtert & the Medical College of Wisconsin",
+      "description": "Located in Milwaukee, Sargeant Health Center is a part of Froedtert & the Medical College of Wisconsin health network, providing a comprehensive range of health services. They offer primary care, specialty care including infectious disease management, as well as lab and imaging services. They are committed to providing quality care tailored to the unique health needs of the transgender community. They also offer Telehealth virtual visits allowing patients to meet their providers via their mobile phones or desktop. This center strives to create a safe, inclusive, and respectful environment for all patients."
+    }
+  },
+  "slug": "sargeant-health-center-froedtert-medical-college-wisconsin",
+  "externalUrl": "https://www.froedtert.com/locations/clinic/inclusion-health-clinic-sargeant-health-center",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "840 N 87th St, Wauwatosa, WI 53226, USA",
+  "phoneNumber": "+1 414-805-2018",
+  "country": "US",
+  "provinceOrState": "WI",
+  "city": "Wauwatosa",
+  "latLng": [
+    43.0404136,
+    -88.0186519
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6652549917160842992"
+  },
+  "county": "Milwaukee County"
+}

@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Bassett Healthcare Network",
+      "description": "Bassett Healthcare Network is a comprehensive health care system offering a full range of services catered to the transgender community ensuring respectful and appropriate care for transgendere individuals. We provide services like primary care, specialty services, family dentistry, and long-term care. Our clinic embraces diversity and inclusion, promoting a positive healthcare environment for our transgender patients."
+    }
+  },
+  "slug": "bassett-healthcare-network-oneonta",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "a6c14722-1f89-4858-bccb-d89b037edc47",
+  "externalUrl": "https://www.bassett.org/locations/bassett-health-center-oneonta-125-main-street",
+  "address": "125 Main St, Oneonta, NY 13820, USA",
+  "phoneNumber": "+1 607-433-1755",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17598484500727732881"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Otsego County",
+  "city": "Oneonta",
+  "latLng": [
+    42.4529091,
+    -75.0634437
+  ]
+}

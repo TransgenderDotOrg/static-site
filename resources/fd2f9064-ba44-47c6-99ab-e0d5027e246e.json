@@ -1,0 +1,33 @@
+{
+  "id": "fd2f9064-ba44-47c6-99ab-e0d5027e246e",
+  "i18n": {
+    "en-US": {
+      "title": "Open Arms Healthcare Center",
+      "description": "Open Arms Healthcare Center is a leading provider of healthcare services, specifically designed to meet the needs of the transgender community. With emphasis on the Lesbian, Gay, Bi-sexual, Transgender, and Intersex (LGBTI) communities, Open Arms offers a range of services including preventive health, behavioral health, and pre-exposure prophylaxis (PrEP). The center is committed to creating a safe and welcoming space, offering judgement-free and quality healthcare services."
+    }
+  },
+  "slug": "open-arms-healthcare-center",
+  "externalUrl": "http://oahcc.org/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "805 E River Pl, Jackson, MS 39202, USA",
+  "phoneNumber": "+1 601-500-7660",
+  "country": "US",
+  "provinceOrState": "MS",
+  "city": "Jackson",
+  "county": "Hinds County",
+  "latLng": [
+    32.3063543,
+    -90.16412079999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8260188017182878120"
+  }
+}

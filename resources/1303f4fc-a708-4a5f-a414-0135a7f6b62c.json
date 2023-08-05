@@ -1,0 +1,37 @@
+{
+  "id": "1303f4fc-a708-4a5f-a414-0135a7f6b62c",
+  "i18n": {
+    "en-US": {
+      "title": "Boynton Health Clinic at University of Minnesota",
+      "description": "Boynton Health Clinic offers comprehensive health care for students, faculty, and staff at the University of Minnesota. Their services include specialized gender care for transgender, non-binary, and gender non-conforming individuals with services such as hormone therapy and counseling included. Boynton Health Clinic maintains an open, supportive, and inclusive environment for those in the Trans community, ensuring access to high-quality and affirming healthcare."
+    }
+  },
+  "slug": "boynton-health-clinic-university-minnesota",
+  "externalUrl": "https://boynton.umn.edu/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "410 Church St SE, Minneapolis, MN 55455, USA",
+  "phoneNumber": "+1 612-625-8400",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "University of Minnesota - Twin Cities",
+  "county": "Hennepin County",
+  "latLng": [
+    44.9721956,
+    -93.2344094
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13719770547608790683"
+  }
+}

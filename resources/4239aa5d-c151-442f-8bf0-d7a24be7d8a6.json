@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-newbury-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "4239aa5d-c151-442f-8bf0-d7a24be7d8a6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/thousand-oaks/91320/thousand-oaks-health-center-3851-90170?utm_campaign=thousand-oaks-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1200 W Hillcrest Dr, Thousand Oaks, CA 91320, USA",
+  "phoneNumber": "+1 888-898-3806",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1170629968445447473"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Ventura County",
+  "city": "Newbury Park",
+  "latLng": [
+    34.1849299,
+    -118.9070529
+  ]
+}

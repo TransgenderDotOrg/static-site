@@ -1,0 +1,32 @@
+{
+  "id": "7804801b-cd0f-42fb-bf33-e1344dfa4979",
+  "i18n": {
+    "en-US": {
+      "title": "Stanford Medicine Children’s Health Specialty Services – Sunnyvale",
+      "description": "Stanford Medicine Children’s Health Specialty Services in Sunnyvale is a patient-centered facility that provides an array of specialized pediatric and fertility services. With more than 25 clinical subspecialties, it caters to diverse health needs and champions advanced therapeutic technologies. It embraces inclusivity and pays specific attention to the healthcare needs of the transgender community, providing sensitive and customized care."
+    }
+  },
+  "slug": "stanford-medicine-childrens-health-specialty-services-sunnyvale",
+  "externalUrl": "https://www.stanfordchildrens.org/en/location/specialty-services-sunnyvale?utm_source=local&utm_medium=Yext&utm_campaign=GMB&y_source=1_MTY1NzU1MDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "1195 W Fremont Ave, Sunnyvale, CA 94087, USA",
+  "phoneNumber": "+1 408-426-5590",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Sunnyvale",
+  "latLng": [
+    37.3525707,
+    -122.0622403
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1156402275338123620"
+  },
+  "county": "Santa Clara County"
+}

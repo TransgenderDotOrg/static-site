@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-springfield",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "45f54cd0-76fc-4b12-acd0-39aa3701807b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/springfield/65807/springfield-health-center-2428-90770?utm_campaign=springfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "626 E Battlefield Rd, Springfield, MO 65807, USA",
+  "phoneNumber": "+1 417-883-3800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5651540453987441336"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "Greene County",
+  "city": "Springfield",
+  "latLng": [
+    37.1594905,
+    -93.2875655
+  ]
+}

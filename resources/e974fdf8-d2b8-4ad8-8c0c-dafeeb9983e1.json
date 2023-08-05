@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kind Clinic",
+      "description": "Kind Clinic provides no-cost sexual health services to people of all races, creeds, gender identities and expressions, immigration statuses, sexual orientations, insurance statuses, and abilities to pay. The clinic offers patient advocates with expertise serving the LGBTQIA+ community, free walk-in HIV/STI testing and treatment services, PrEP & PEP access, HIV testing & care and gender affirming care including hormone therapy."
+    }
+  },
+  "slug": "kind-clinic-greater-south-river-city",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "e974fdf8-d2b8-4ad8-8c0c-dafeeb9983e1",
+  "externalUrl": "https://kindclinic.org/kind-clinic-austin-south/",
+  "address": "2800 S I-35 Frontage Rd #103, Austin, TX 78704, USA",
+  "phoneNumber": "+1 833-937-5463",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14432706359164338888"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Travis County",
+  "city": "Greater South River City",
+  "latLng": [
+    30.2292633,
+    -97.74503059999999
+  ]
+}

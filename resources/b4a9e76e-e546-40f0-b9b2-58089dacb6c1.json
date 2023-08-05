@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-elmira",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b4a9e76e-e546-40f0-b9b2-58089dacb6c1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/elmira/14901/elmira-health-center-2349-91110?utm_campaign=elmira-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "755 E Church St, Elmira, NY 14901, USA",
+  "phoneNumber": "+1 607-734-3313",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3458819108400008162"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Chemung County",
+  "city": "Elmira",
+  "latLng": [
+    42.0941647,
+    -76.7948487
+  ]
+}

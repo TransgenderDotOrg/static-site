@@ -1,0 +1,35 @@
+{
+  "id": "5c64ee85-1a21-43ee-9aab-75054732bdef",
+  "i18n": {
+    "en-US": {
+      "title": "Casey Catherine F MD's Office",
+      "description": "Casey Catherine F MD is a family practice physician located in Charlottesville, VA. She offers informed consent clinic services, tailored to the needs of the transgender community. She provides a safe and inclusive environment for transmasculine, transfeminine and non-binary individuals, focusing on healthcare needs and ensuring comfortable experiences for every patient."
+    }
+  },
+  "slug": "casey-catherine-f-mds-office",
+  "externalUrl": "https://maps.google.com/?cid=13936795639454695115",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "Charlottesville, VA 22908, USA",
+  "phoneNumber": "+1 434-924-5348",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Jefferson Park Avenue",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13936795639454695115"
+  },
+  "latLng": [
+    38.0318885,
+    -78.49848039999999
+  ]
+}

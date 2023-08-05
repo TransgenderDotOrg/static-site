@@ -1,0 +1,30 @@
+{
+  "id": "77cb9014-59c0-4a63-a8d2-28de0780fe16",
+  "i18n": {
+    "en-US": {
+      "title": "Local Office on 207 Sulphur Springs Rd, Bryan, TX",
+      "description": "This local office located at 207 Sulphur Springs Rd, Bryan, TX is an informed consent clinic. However, there is no specific information about services tailored for the transgender community based on the provided content."
+    }
+  },
+  "slug": "local-office-207-sulphur-springs-rd-bryan-tx",
+  "externalUrl": "https://maps.google.com/?q=207+Sulphur+Springs+Rd,+Bryan,+TX+77801&ftid=0x864683d008f3586d:0xba502c892b68bca.",
+  "tags": [],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "207 Sulphur Springs Rd, Bryan, TX 77801, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Bryan",
+  "county": "Brazos County",
+  "latLng": [
+    30.63821279999999,
+    -96.3547255
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=207+Sulphur+Springs+Rd,+Bryan,+TX+77801&ftid=0x864683d008f3586d:0xba502c892b68bca."
+  }
+}

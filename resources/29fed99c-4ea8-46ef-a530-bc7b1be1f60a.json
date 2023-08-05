@@ -1,0 +1,32 @@
+{
+  "id": "29fed99c-4ea8-46ef-a530-bc7b1be1f60a",
+  "i18n": {
+    "en-US": {
+      "title": "Wake County Public Health Center",
+      "description": "Located at 10 Sunnybrook Rd, Raleigh, the Wake County Public Health Center includes a variety of services beneficial to the transgender community. Here you'll find a Prenatal Clinic, Women's Health Clinic, and a Pharmacy. These services are tailored to offer genuine understanding, thorough guidance, and affordable healthcare to transgender individuals."
+    }
+  },
+  "slug": "wake-county-public-health-center",
+  "externalUrl": "https://maps.google.com/?q=10+Sunnybrook+Rd,+Raleigh,+NC+27610&ftid=0x89ac5ebf07e65e21:0x52d707264f069388",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "10 Sunnybrook Rd, Raleigh, NC 27610, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "East Raleigh",
+  "county": "Wake County",
+  "latLng": [
+    35.7864039,
+    -78.58658249999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=10+Sunnybrook+Rd,+Raleigh,+NC+27610&ftid=0x89ac5ebf07e65e21:0x52d707264f069388"
+  }
+}

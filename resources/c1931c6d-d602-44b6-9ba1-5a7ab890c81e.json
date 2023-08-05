@@ -1,0 +1,34 @@
+{
+  "id": "c1931c6d-d602-44b6-9ba1-5a7ab890c81e",
+  "i18n": {
+    "en-US": {
+      "title": "Dimensions Clinic",
+      "description": "Dimensions Clinic is a safe and welcoming healthcare provider catering to the unique needs of the transgender community. They focus on providing an array of medical services and mental healthcare in an informed consent environment. Its team of experts are dedicated to nurturing the mental, physical and emotional well-being of their clients with empathy and professionalism."
+    }
+  },
+  "slug": "dimensions-clinic",
+  "externalUrl": "http://www.dimensionsclinic.com/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3850 17th St, San Francisco, CA 94114, USA",
+  "phoneNumber": "+1 628-217-6919",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "The Castro",
+  "county": "San Francisco County",
+  "latLng": [
+    37.7629647,
+    -122.4318162
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1330294118332536319"
+  }
+}

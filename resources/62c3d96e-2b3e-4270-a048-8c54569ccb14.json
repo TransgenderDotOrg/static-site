@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bridgeville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "62c3d96e-2b3e-4270-a048-8c54569ccb14",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/bridgeville/15017/bridgeville-health-center-2828-91470?utm_campaign=bridgeville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "533 Washington Pike Suite 203 Suite 203, Bridgeville, PA 15017, USA",
+  "phoneNumber": "+1 412-257-9880",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4051584194976800310"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Allegheny County",
+  "city": "Bridgeville",
+  "latLng": [
+    40.3575506,
+    -80.1122737
+  ]
+}

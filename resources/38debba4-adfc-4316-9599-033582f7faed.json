@@ -1,0 +1,35 @@
+{
+  "id": "38debba4-adfc-4316-9599-033582f7faed",
+  "i18n": {
+    "en-US": {
+      "title": "West Alabama Women’s Center",
+      "description": "An inclusive center providing a range of healthcare services, including pregnancy care, contraceptive options, STI/HIV testing, and gender affirming care for the trans community aged over 19. The team is committed to delivering care irrespective of income or insurance status, with many sessions achievable via telehealth."
+    }
+  },
+  "slug": "west-alabama-womens-center",
+  "externalUrl": "http://www.alabortionclinic.com/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "535 Jack Warner Pkwy, Tuscaloosa, AL 35404, USA",
+  "phoneNumber": "+1 205-556-2026",
+  "country": "US",
+  "provinceOrState": "AL",
+  "city": "Tuscaloosa",
+  "latLng": [
+    33.218655,
+    -87.530558
+  ],
+  "email": "Services@walwc.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15627816937266926009"
+  },
+  "county": "Tuscaloosa County"
+}

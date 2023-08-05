@@ -1,0 +1,32 @@
+{
+  "id": "f590cc2b-ce98-48ec-8141-84eb4a946da0",
+  "i18n": {
+    "en-US": {
+      "title": "UC Health",
+      "description": "UC Health provides comprehensive healthcare services, from orthopedics and sports medicine to neurosciences, cancer care, and transplant services, among many others. As one of the nation’s top 25 public research universities, it's dedicated to pushing the boundaries of health and medicine to provide the best care for all, including the transgender community. The overall goal is to advance healing and reduce suffering, showing a deep commitment to each patient's unique journey. UC Health champions inclusivity and provides tailored care to match the needs of each individual."
+    }
+  },
+  "slug": "uc-health",
+  "externalUrl": "https://www.uchealth.com/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "175 W Galbraith Rd, Cincinnati, OH 45216, USA",
+  "phoneNumber": "+1 513-821-0275",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Hartwell",
+  "latLng": [
+    39.2127919,
+    -84.4839085
+  ],
+  "email": null,
+  "socialMedia": null,
+  "county": "Hamilton County"
+}

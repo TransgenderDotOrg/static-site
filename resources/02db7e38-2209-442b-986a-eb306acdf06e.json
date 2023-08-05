@@ -1,0 +1,34 @@
+{
+  "id": "02db7e38-2209-442b-986a-eb306acdf06e",
+  "i18n": {
+    "en-US": {
+      "title": "Family HealthCare Network Corporate Office",
+      "description": "Family HealthCare Network provides an inclusive healthcare experience tailored to the transgender community. Offering a range of comprehensive services, they ensure patients can access specialized support regardless of their gender identity. These services include behavioral health, nutrition, optometry, pharmacy, podiatry, and a host of others. They are dedicated to delivering quality, personalized care with a unique understanding of the transgender community's health needs."
+    }
+  },
+  "slug": "family-healthcare-network-corporate-office",
+  "externalUrl": "https://www.fhcn.org/locate/corporate-office/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "305 E Center Ave, Visalia, CA 93291, USA",
+  "phoneNumber": "+1 877-960-3426",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Visalia",
+  "county": "Tulare County",
+  "latLng": [
+    36.3308447,
+    -119.2895475
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4270075808773332093"
+  }
+}

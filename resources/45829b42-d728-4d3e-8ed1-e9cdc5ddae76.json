@@ -1,0 +1,32 @@
+{
+  "id": "45829b42-d728-4d3e-8ed1-e9cdc5ddae76",
+  "i18n": {
+    "en-US": {
+      "title": "Peak Vista Community Health - Health Center at 340 Printers Pkwy",
+      "description": "A comprehensive health center offering medical and behavioral health services, including care coordination and lab testing. They are committed to ensuring a comfortable environment with thorough, diligent and professional care. Their inclusive approach caters to the transgender community, and they strive to provide health services with respect and consideration for each individual’s unique needs."
+    }
+  },
+  "slug": "peak-vista-community-health-health-center-at-340-printers-pkwy",
+  "externalUrl": "https://www.peakvista.org/location/health-center-340-printers-pkwy-colorado-springs-co-80910",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "340 Printers Pkwy, Colorado Springs, CO 80910, USA",
+  "phoneNumber": "+1 719-344-6413",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Southeast Colorado Springs",
+  "latLng": [
+    38.8271765,
+    -104.7870991
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8369674462130360324"
+  },
+  "county": "El Paso County"
+}

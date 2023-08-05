@@ -1,0 +1,33 @@
+{
+  "id": "75bc3747-99a1-4104-bb37-4ba542ce27a2",
+  "i18n": {
+    "en-US": {
+      "title": "Olsen Clinic",
+      "description": "Dr. Mark Olsen and his team at the Olsen Clinic provide health services tailored to the transgender community, including bio-identical hormone replacement therapy (HRT / BHRT) and nutritional testing. Their patient portal offers a secure platform for the exchange of information regarding personal health records and treatments, ensuring easy communication and convenience for patients."
+    }
+  },
+  "slug": "olsen-clinic",
+  "externalUrl": "http://www.olsenclinic.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5501 Willow Creek Dr #104, Springdale, AR 72762, USA",
+  "phoneNumber": "+1 479-770-4100",
+  "country": "US",
+  "provinceOrState": "AR",
+  "city": "Springdale",
+  "latLng": [
+    36.1365988,
+    -94.18437109999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12906703297215265131"
+  },
+  "county": "Washington County"
+}

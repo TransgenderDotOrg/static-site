@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-thermal",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "013e960b-7fbb-47b6-b5c0-09f774540903",
+  "externalUrl": "https://locations.borregohealth.org/centro-medico-oasis-05cc0bb863c5?y_source=1_MTAxNDIyMDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "88775 76th Ave Suite 1, Thermal, CA 92274, USA",
+  "phoneNumber": "+1 760-397-2501",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16174646848381061331"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Thermal",
+  "latLng": [
+    33.4983975,
+    -116.1153454
+  ]
+}

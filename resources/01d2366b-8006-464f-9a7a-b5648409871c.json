@@ -1,0 +1,34 @@
+{
+  "id": "01d2366b-8006-464f-9a7a-b5648409871c",
+  "i18n": {
+    "en-US": {
+      "title": "Community Health Alliance",
+      "description": "Community Health Alliance in Sun Valley Boulevard, provides comprehensive health care services to everyone including the transgender community. The health center comprises trustworthy and professional medical practitioners who are sensitive and knowledgeable about transgender health issues. Services include primary care & family medicine, women’s & reproductive health, chronic disease management, low-cost pharmacies, dental care, behavioral health programs, prescription food pantries, and insurance enrollment assistance. There's also a strong focus on care that promotes mental-health wellbeing."
+    }
+  },
+  "slug": "community-health-alliance",
+  "externalUrl": "https://www.chanevada.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5055 Sun Valley Blvd Ste 100, Sun Valley, NV 89433, USA",
+  "phoneNumber": "+1 775-329-6300",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Sun Valley",
+  "county": "Washoe County",
+  "latLng": [
+    39.5764196,
+    -119.7815525
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17417394609812982080"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6fe6ae25-a09c-4568-8a7b-b998c064216d",
+  "i18n": {
+    "en-US": {
+      "title": "Local Office - Informed Consent Clinic",
+      "description": "This local office doubles up as an informed consent clinic, ensuring the adequate provision and comprehensive understanding of healthcare needs, specifically catering to the transgender community. The office offers a safe space where transgender individuals can obtain crucial services and resources, intended to promote an inclusive environment."
+    }
+  },
+  "slug": "local-office-informed-consent-clinic",
+  "externalUrl": "https://maps.google.com/?q=7069b+Hwy+70+S,+Nashville,+TN+37221&ftid=0x8864883e6c001471:0xfc38314f5f52e911",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "7069b Hwy 70 S, Nashville, TN 37221, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Bellevue",
+  "county": "Davidson County",
+  "latLng": [
+    36.0733026,
+    -86.9182684
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=7069b+Hwy+70+S,+Nashville,+TN+37221&ftid=0x8864883e6c001471:0xfc38314f5f52e911"
+  }
+}

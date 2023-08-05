@@ -1,0 +1,32 @@
+{
+  "id": "33e31c44-b5e4-4f3a-b452-2ee8c49c3fc4",
+  "i18n": {
+    "en-US": {
+      "title": "Whatcom Family Medicine - Family Care Network",
+      "description": "Whatcom Family Medicine, part of Family Care Network, is a locally owned and operated clinic committed to providing quality health care. The clinic strives to build strong relationships with patients, creating a rewarding and positive healthcare experience. The team of board-certified physicians is approachable and sincerely care about their patients. Conveniently located in Bellingham, the clinic offers a wide range of services, ensuring that the needs of the transgender community will be met with compassion and understanding."
+    }
+  },
+  "slug": "whatcom-family-medicine-family-care-network",
+  "externalUrl": "https://www.familycarenetwork.com/clinics/whatcom-family-medicine",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3015 Squalicum Pkwy #160, Bellingham, WA 98225, USA",
+  "phoneNumber": "+13606714402",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Cornwall Park",
+  "latLng": [
+    48.7738476,
+    -122.471226
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3277045926867136989"
+  },
+  "county": "Whatcom County"
+}

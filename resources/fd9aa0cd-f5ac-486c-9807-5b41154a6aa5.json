@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "One Medical - Exceptional Primary Care",
+      "description": "One Medical offers exceptional primary care facilities and personalized attention to all patients, including the transgender community. The office schedules long appointments for in-depth discussions and has multiple services covering everything from chronic care to mental health issues. It offers compassionate care, recognizing the unique medical and emotional needs of transgender individuals. Practitioners are experienced in handling sensitive matters such as hormone replacement therapy, post-surgery care, and transgender-specific mental health care."
+    }
+  },
+  "slug": "one-medical-exceptional-primary-care-new-york",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "fd9aa0cd-f5ac-486c-9807-5b41154a6aa5",
+  "externalUrl": "https://www.onemedical.com/locations/nyc/tribeca/?utm_source=google&utm_medium=organic&utm_campaign=localseo",
+  "address": "25 Hudson St, New York, NY 10013, USA",
+  "phoneNumber": "+1 212-441-4401",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12563904639752061080"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "New York County",
+  "city": "New York",
+  "town": "Manhattan",
+  "latLng": [
+    40.7167431,
+    -74.0093855
+  ]
+}

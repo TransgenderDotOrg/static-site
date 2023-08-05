@@ -1,0 +1,35 @@
+{
+  "id": "736a0450-f9d4-484b-b067-96c9a696e283",
+  "i18n": {
+    "en-US": {
+      "title": "Texas State University Student Health Center",
+      "description": "The Texas State University Student Health Center is committed to ensuring the health and well-being of all students, including those who identify as transgender. They offer comprehensive medical care, including mental health services via the TimelyCare App. They also offer sexual violence resources and health promotion services geared towards creating a welcoming and inclusive campus environment."
+    }
+  },
+  "slug": "texas-state-university-student-health-center",
+  "externalUrl": "https://www.healthcenter.txst.edu/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "298 Student Center Dr, San Marcos, TX 78666, USA",
+  "phoneNumber": "+1 512-245-2161",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "San Marcos",
+  "latLng": [
+    29.8907305,
+    -97.9462617
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16229570692915815778"
+  },
+  "county": "Hays County"
+}

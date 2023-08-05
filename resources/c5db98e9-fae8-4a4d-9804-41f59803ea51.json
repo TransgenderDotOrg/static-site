@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-minneapolis",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c5db98e9-fae8-4a4d-9804-41f59803ea51",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/brooklyn-park/55443/brooklyn-park-health-center-2671-90720?utm_campaign=brooklyn-park-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7532 Brooklyn Blvd, Minneapolis, MN 55443, USA",
+  "phoneNumber": "+1 763-560-3050",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5345341102842828264"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Hennepin County",
+  "city": "Minneapolis",
+  "latLng": [
+    45.0920457,
+    -93.3515693
+  ]
+}

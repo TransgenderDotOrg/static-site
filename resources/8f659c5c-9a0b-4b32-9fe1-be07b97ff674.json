@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-highland-hills",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8f659c5c-9a0b-4b32-9fe1-be07b97ff674",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/san-antonio/78223/planned-parenthood-southeast-2966-91710?utm_campaign=southeast-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7022 S New Braunfels Ave #103, San Antonio, TX 78223, USA",
+  "phoneNumber": "+1 210-333-5454",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3206929128931615713"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Bexar County",
+  "city": "Highland Hills",
+  "latLng": [
+    29.3575706,
+    -98.4480275
+  ]
+}

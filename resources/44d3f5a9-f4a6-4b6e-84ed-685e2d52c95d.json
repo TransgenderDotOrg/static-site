@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lorain",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "44d3f5a9-f4a6-4b6e-84ed-685e2d52c95d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/lorain/44052/lorain-health-center-3436-91230?utm_campaign=lorain-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "200 W 9th St, Lorain, OH 44052, USA",
+  "phoneNumber": "+1 440-242-2087",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14415447810928992342"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Lorain County",
+  "city": "Lorain",
+  "latLng": [
+    41.4630697,
+    -82.17378509999999
+  ]
+}

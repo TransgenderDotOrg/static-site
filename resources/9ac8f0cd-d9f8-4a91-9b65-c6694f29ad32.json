@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-west-town",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9ac8f0cd-d9f8-4a91-9b65-c6694f29ad32",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/chicago/60642/wicker-park-health-center-2267-90430?utm_campaign=wicker-park-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1152 N Milwaukee Ave, Chicago, IL 60642, USA",
+  "phoneNumber": "+1 773-252-2240",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4127811468341024462"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "West Town",
+  "latLng": [
+    41.9025223,
+    -87.6656304
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "93c256c1-608f-464a-9c00-dac3b569efa7",
+  "i18n": {
+    "en-US": {
+      "title": "Allegheny Reproductive Health Center",
+      "description": "The Allegheny Reproductive Health Center offers gender services with dedicated transgender care, including hormone prescribing and surgical consultation. They provide patient-centered healthcare, respecting each patient's choices and autonomy to reach their health goals safely. They are committed to offering fearless, judgment-free healthcare imbued with empathy and respect."
+    }
+  },
+  "slug": "allegheny-reproductive-health-center",
+  "externalUrl": "http://www.alleghenyreproductive.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5910 Kirkwood St, Pittsburgh, PA 15206, USA",
+  "phoneNumber": "+1 412-661-8811",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "East Liberty",
+  "county": "Allegheny County",
+  "latLng": [
+    40.4622408,
+    -79.9260881
+  ],
+  "email": "arhc@alleghenyreproductive.com",
+  "socialMedia": {
+    "yelpUrl": "https://www.yelp.com/biz/allegheny-reproductive-health-center-pittsburgh",
+    "googleMapsUrl": "https://maps.google.com/?cid=3273880095443797967",
+    "facebookUrl": "https://www.facebook.com/AlleghenyReproductive/",
+    "twitterUrl": "https://twitter.com/AlleghenyRHC",
+    "instagramUrl": "https://www.instagram.com/alleghenyreproductive/"
+  }
+}

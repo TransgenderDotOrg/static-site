@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-kissimmee",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "327177fc-f360-40e9-a100-3c638e17fe22",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/kissimmee/34741/kissimmee-health-center-4144-90300?utm_campaign=kissimmee-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "610 Oak Commons Blvd, Kissimmee, FL 34741, USA",
+  "phoneNumber": "+1 407-246-1788",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16845263464565885684"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Osceola County",
+  "city": "Kissimmee",
+  "latLng": [
+    28.3013133,
+    -81.41060449999999
+  ]
+}

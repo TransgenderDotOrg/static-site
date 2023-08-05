@@ -1,0 +1,35 @@
+{
+  "id": "e4fdc713-3df0-4de2-ac19-07824b8420c2",
+  "i18n": {
+    "en-US": {
+      "title": "Bellingham Family Medicine",
+      "description": "At Mt. Shuksan Family Medicine and Dermatology, we provide comprehensive healthcare services tailored to the unique needs of the transgender community. We offer general family medicine, dermatology, and women's health services in an atmosphere that is compassionate and comfortable. We believe in treating every patient as an individual, providing not just medical care, but also an understanding and affirming environment."
+    }
+  },
+  "slug": "bellingham-family-medicine",
+  "externalUrl": "https://www.mtshuksanfamilymedicine.com/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2216 Cornwall Ave, Bellingham, WA 98225, USA",
+  "phoneNumber": "(360) 647-1900",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Bellingham",
+  "latLng": [
+    48.759783,
+    -122.4746848
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=805161502479944305"
+  },
+  "county": "Whatcom County"
+}

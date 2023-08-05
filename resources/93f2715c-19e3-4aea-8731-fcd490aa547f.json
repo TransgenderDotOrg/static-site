@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-mansfield",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "93f2715c-19e3-4aea-8731-fcd490aa547f",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/mansfield/44906/mansfield-health-center-2424-91230?utm_campaign=mansfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "384 Park Ave W, Mansfield, OH 44906, USA",
+  "phoneNumber": "+1 419-525-3075",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6179120231206455377"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Richland County",
+  "city": "Mansfield",
+  "latLng": [
+    40.7591807,
+    -82.5298839
+  ]
+}

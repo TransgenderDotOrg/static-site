@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hills-of-park-north",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b31b99c6-2fe3-4ba9-b6af-5ef6614a900e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/san-antonio/78217/planned-parenthood-northeast-2962-91710?utm_campaign=perrin-beitel-road-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "11514 Perrin Beitel, San Antonio, TX 78217, USA",
+  "phoneNumber": "+1 210-590-0202",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16128705641474730909"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Bexar County",
+  "city": "Hills of Park North",
+  "latLng": [
+    29.5448123,
+    -98.41009129999999
+  ]
+}

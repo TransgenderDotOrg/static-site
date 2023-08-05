@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-south-side",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "3fd75d8c-edeb-4d7b-a9ef-f2ae1e36d1cc",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/chicago/60628/roseland-health-center-2263-90430?utm_campaign=roseland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "11250 S Halsted St, Chicago, IL 60628, USA",
+  "phoneNumber": "+1 877-200-7745",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2254789525064443036"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "South Side",
+  "latLng": [
+    41.688852,
+    -87.6426393
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bec789c7-8bb5-4add-bec9-0cbc9456c86c",
+  "i18n": {
+    "en-US": {
+      "title": "University of Colorado School of Medicine",
+      "description": "The University of Colorado School of Medicine provides comprehensive medical education and offers lifelong interdisciplinary learning opportunities for health care professionals, including those from the transgender community. The school values diversity and promotes the understanding and inclusion of all identities and experiences within the medical field. Its inclusive environment emphasizes wellness, respect, and individuality, providing students the opportunity to become doctors who can serve the health needs of diverse communities."
+    }
+  },
+  "slug": "university-of-colorado-school-of-medicine",
+  "externalUrl": "https://medschool.cuanschutz.edu/",
+  "tags": [
+    "education-awareness",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "13001 E 17th Pl, Aurora, CO 80045, USA",
+  "phoneNumber": "+1 303-724-5000",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Fitzsimons",
+  "latLng": [
+    39.7455133,
+    -104.8375984
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10409697789815830020"
+  },
+  "county": "Adams County"
+}

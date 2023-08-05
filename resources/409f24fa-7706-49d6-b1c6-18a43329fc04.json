@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-borrego-springs",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "409f24fa-7706-49d6-b1c6-18a43329fc04",
+  "externalUrl": "https://locations.borregohealth.org/borrego-medical-clinic-c37034d85584?y_source=1_MTAxNDIyMDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "4343 Yaqui Pass Rd, Borrego Springs, CA 92004, USA",
+  "phoneNumber": "+1 760-767-5051",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15701878881481978006"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Borrego Springs",
+  "latLng": [
+    33.1939036,
+    -116.3288644
+  ]
+}

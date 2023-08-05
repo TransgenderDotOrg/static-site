@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-watertown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7821d294-5554-435f-8e5d-d6fda59088f3",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/watertown/13601/watertown-center-3328-91210?utm_campaign=watertown-center&utm_medium=organic&utm_source=local-listing",
+  "address": "160 Stone St, Watertown, NY 13601, USA",
+  "phoneNumber": "+1 315-788-8065",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1796938390646727107"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Jefferson County",
+  "city": "Watertown",
+  "latLng": [
+    43.974402,
+    -75.91324960000001
+  ]
+}

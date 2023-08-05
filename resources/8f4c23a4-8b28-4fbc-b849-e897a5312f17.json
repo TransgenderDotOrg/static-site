@@ -1,0 +1,33 @@
+{
+  "id": "8f4c23a4-8b28-4fbc-b849-e897a5312f17",
+  "i18n": {
+    "en-US": {
+      "title": "Beaumont Family Medicine - Grosse Pointe",
+      "description": "Beaumont Family Medicine provides a wide range of healthcare services for the transgender community in Grosse Pointe, Michigan. Their services include gender affirming care, hormone therapy for patients over 18, and the treatment of substance use disorders. They run on a family medicine residency program model, where resident family physicians offer patient care under the supervision of senior doctors. Now accepting video visits for convenient, secure care. Most insurance plans are accepted, and discounts are available for uninsured patients."
+    }
+  },
+  "slug": "beaumont-family-medicine-grosse-pointe",
+  "externalUrl": "https://www.beaumont.org/locations/family-medicine-gp",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "16815 E Jefferson Ave Suite 120, Grosse Pointe, MI 48230, USA",
+  "phoneNumber": "+1 586-498-4400",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Grosse Pointe",
+  "county": "Wayne County",
+  "latLng": [
+    42.3834004,
+    -82.9143466
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8163136276582269753"
+  }
+}

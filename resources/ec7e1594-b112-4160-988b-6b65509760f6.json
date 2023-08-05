@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lincoln-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "ec7e1594-b112-4160-988b-6b65509760f6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-diego/92114/euclid-avenue-francis-torbert-center-2334-90110?utm_campaign=euclid-avenue-francis-torbert-center&utm_medium=organic&utm_source=local-listing",
+  "address": "220 Euclid Ave ste 30, San Diego, CA 92114, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=722129253175094756"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Lincoln Park",
+  "latLng": [
+    32.706197,
+    -117.0853001
+  ]
+}

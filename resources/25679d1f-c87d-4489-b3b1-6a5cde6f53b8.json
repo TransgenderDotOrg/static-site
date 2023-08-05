@@ -1,0 +1,34 @@
+{
+  "id": "25679d1f-c87d-4489-b3b1-6a5cde6f53b8",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Nina Jain - Pediatric Endocrinology and Diabetes Specialist",
+      "description": "Dr. Nina Jain is a dedicated Pediatric Endocrinology and Diabetes Specialist providing comprehensive healthcare services at UNC Health in Chapel Hill, NC. She excels in treating transgender youth, being sensitive and respectful to their unique needs. She is known for her compassionate care and good communication."
+    }
+  },
+  "slug": "dr-nina-jain-pediatric-endocrinology-diabetes-specialist",
+  "externalUrl": "https://findadoc.unchealthcare.org/nc/chapel-hill/nina-jain-md-101-manning-drive",
+  "tags": [
+    "healthcare",
+    "youth-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "101 Manning Dr, Chapel Hill, NC 27514, USA",
+  "phoneNumber": "+1 984-974-7337",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Chapel Hill",
+  "latLng": [
+    35.903723,
+    -79.0494302
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18113193107794551484"
+  },
+  "county": "Orange County"
+}

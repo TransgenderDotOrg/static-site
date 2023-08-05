@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-flossmoor",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "450669ec-afad-420d-ba40-891ceb26ac86",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/flossmoor/60422/flossmoor-health-center-4360-90430?utm_campaign=flossmoor-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "19831 Governors Hwy, Flossmoor, IL 60422, USA",
+  "phoneNumber": "+1 708-960-0907",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9515919915838066611"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "Flossmoor",
+  "latLng": [
+    41.5291411,
+    -87.69747699999999
+  ]
+}

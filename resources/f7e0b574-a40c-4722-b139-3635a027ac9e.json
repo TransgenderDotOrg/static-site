@@ -1,0 +1,34 @@
+{
+  "id": "f7e0b574-a40c-4722-b139-3635a027ac9e",
+  "i18n": {
+    "en-US": {
+      "title": "Unity Care NW Health Services",
+      "description": "Unity Care NW provides comprehensive healthcare services for the transgender community including medical, dental, behavioral health, and others. They offer children's services and are an informed consent clinic which makes them an ideal choice for transgender-related healthcare. They encourage and help transgender individuals to enroll for insurance. They also have an in-house pharmacy and a 24-hour crisis line for behavioral health. Their patient resources aim at empowering patients with knowledge and tools for wellness."
+    }
+  },
+  "slug": "unity-care-nw-health-services",
+  "externalUrl": "http://unitycarenw.org/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "legal",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "220 Unity St, Bellingham, WA 98225, USA",
+  "phoneNumber": "+1 360-676-6177",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Bellingham",
+  "latLng": [
+    48.7536351,
+    -122.4761231
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11171991704920779272"
+  },
+  "county": "Whatcom County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c1b1a7eb-5bda-4957-bbcf-a13c2d41c826",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/maine/portland/04101/portland-health-center-2940-91770?utm_campaign=portland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "443 Congress St 2nd Floor, Portland, ME 04101, USA",
+  "phoneNumber": "+1 207-797-8881",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4870384804355820786"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "Cumberland County",
+  "city": "Downtown",
+  "latLng": [
+    43.6580382,
+    -70.2587075
+  ]
+}

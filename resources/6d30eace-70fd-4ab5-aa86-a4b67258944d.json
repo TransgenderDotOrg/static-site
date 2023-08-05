@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-west-englewood",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6d30eace-70fd-4ab5-aa86-a4b67258944d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/chicago/60636/englewood-health-center-2264-90430?utm_campaign=englewood-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "6059 S Ashland Ave, Chicago, IL 60636, USA",
+  "phoneNumber": "+1 773-434-3700",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16581730810159005808"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "West Englewood",
+  "latLng": [
+    41.7832509,
+    -87.66399849999999
+  ]
+}

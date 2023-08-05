@@ -1,0 +1,33 @@
+{
+  "id": "cd0fa59c-0ebd-4c9b-b7e8-73dcff67bb06",
+  "i18n": {
+    "en-US": {
+      "title": "Michele M. Larzelere, PHD",
+      "description": "An informed consent clinic run by Dr. Michele Larzelere which provides a range of mental health services for the transgender community. Their services are tailored to support individuals in their transition and beyond, providing essential resources and guidance."
+    }
+  },
+  "slug": "michele-m-larzelere-phd",
+  "externalUrl": "https://maps.google.com/?cid=12948557381020549275",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "200 W Esplanade Ave, Kenner, LA 70065, USA",
+  "phoneNumber": "+15044712750",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Kenner",
+  "latLng": [
+    30.02428219999999,
+    -90.2704274
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12948557381020549275"
+  },
+  "county": "Jefferson Parish"
+}

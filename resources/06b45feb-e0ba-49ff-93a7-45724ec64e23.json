@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-plattsburgh",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "06b45feb-e0ba-49ff-93a7-45724ec64e23",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/plattsburgh/12901/plattsburgh-clinic-3315-91210?utm_campaign=plattsburgh-clinic&utm_medium=organic&utm_source=local-listing",
+  "address": "66 Brinkerhoff St, Plattsburgh, NY 12901, USA",
+  "phoneNumber": "+1 518-561-4430",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18077507673266495265"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Clinton County",
+  "city": "Plattsburgh",
+  "latLng": [
+    44.69704960000001,
+    -73.45713610000001
+  ]
+}

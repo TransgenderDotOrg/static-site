@@ -1,0 +1,34 @@
+{
+  "id": "7590a184-2f17-43c8-819b-a77b0f23f92d",
+  "i18n": {
+    "en-US": {
+      "title": "Student Health Center",
+      "description": "A local office that provides comprehensive health and wellness services tailored for the transgender community. It focuses on informed consent and offers support to assist transgender members transition smoothly and maintain overall well-being."
+    }
+  },
+  "slug": "student-health-center",
+  "externalUrl": "https://maps.google.com/?q=Student+Health+Center+and+Undergraduate+Studies&ftid=0x87220b678b0ce1cd:0x470bb753691138c8",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Student Health Center, Albuquerque, NM 87106, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "Central Campus",
+  "county": "Bernalillo County",
+  "latLng": [
+    35.0831937,
+    -106.6188929
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Student+Health+Center+and+Undergraduate+Studies&ftid=0x87220b678b0ce1cd:0x470bb753691138c8"
+  }
+}

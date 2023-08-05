@@ -1,0 +1,34 @@
+{
+  "id": "5d6c56ec-9627-4c78-910c-4e114a840472",
+  "i18n": {
+    "en-US": {
+      "title": "Jackson Medical Group: Tailoring Healthcare to the Transgender Community",
+      "description": "Jackson Medical Group is an inclusive and welcoming healthcare provider with a commitment to serving the transgender community. We offer comprehensive, high-quality, affordable healthcare services tailored to your unique needs. Experience exceptional doctors, reliable urgent care, and superior primary healthcare services in a safe and supportive environment. We also provide telehealth visits for both primary and specialty care for your convenience. Our affiliations with most major insurance companies enhance our commitment to provide seamless and hassle-free experiences to the transgender community."
+    }
+  },
+  "slug": "jackson-medical-group",
+  "externalUrl": "http://jacksonmedicalgroup.com/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "220 Pacific Oaks Rd, Goleta, CA 93117, USA",
+  "phoneNumber": "+1 805-979-4646",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Goleta",
+  "county": "Santa Barbara County",
+  "latLng": [
+    34.4287335,
+    -119.8769166
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1411758421813320046"
+  }
+}

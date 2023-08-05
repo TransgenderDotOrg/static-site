@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-meridian",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "378167cd-b774-4bb8-8a0b-a69012eafcd0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/idaho/meridian/83642/meridian-health-center-4105-91810?utm_campaign=meridian-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2112 E Franklin Rd, Meridian, ID 83642, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6166356493519680018"
+  },
+  "country": "US",
+  "provinceOrState": "ID",
+  "county": "Ada County",
+  "city": "Meridian",
+  "latLng": [
+    43.6052787,
+    -116.3678098
+  ]
+}

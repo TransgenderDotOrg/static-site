@@ -1,0 +1,33 @@
+{
+  "id": "813bfb1d-e9b2-4a5c-90b8-58dce1b930b5",
+  "i18n": {
+    "en-US": {
+      "title": "Summa Health Pride Clinic",
+      "description": "Located in Akron, Ohio, Summa Health Pride Clinic is a dedicated resource offering health services tailored to the needs of the transgender community such as hormone therapy and post-surgery care. Committed to inclusiveness with an understanding of the unique healthcare needs of transgender individuals, the clinic ensures quality care is delivered in a welcoming, respectful, and affirming environment."
+    }
+  },
+  "slug": "summa-health-pride-clinic",
+  "externalUrl": "https://www.summahealth.org/specializedservices/pride-clinic/locations?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1260 Independence Ave, Akron, OH 44310, USA",
+  "phoneNumber": "+12348677740",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Chapel Hill",
+  "county": "Summit County",
+  "latLng": [
+    41.1096941,
+    -81.4693597
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3916571682829793338"
+  }
+}

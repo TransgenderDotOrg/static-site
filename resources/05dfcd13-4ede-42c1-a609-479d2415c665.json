@@ -1,0 +1,34 @@
+{
+  "id": "05dfcd13-4ede-42c1-a609-479d2415c665",
+  "i18n": {
+    "en-US": {
+      "title": "Washington Regional Medical Center",
+      "description": "Washington Regional Medical Center provides comprehensive healthcare services with a focus on quality and compassion. They integrate competent medical practice with culturally responsive care for the transgender community. Their staff includes experienced, skilled, and compassionate doctors, in a full range of medical specialties. In addition, they provide interpreters at no charge assisting in providing more comfortable healthcare service for people of different lingual backgrounds."
+    }
+  },
+  "slug": "washington-regional-medical-center",
+  "externalUrl": "https://www.wregional.com/main/physician-locator/House-John-131.aspx",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "146 Passion Play Rd #A, Eureka Springs, AR 72632, USA",
+  "phoneNumber": "+1 479-253-9746",
+  "country": "US",
+  "provinceOrState": "AR",
+  "city": "Eureka Springs",
+  "latLng": [
+    36.3951004,
+    -93.71069299999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14064970735223479698"
+  },
+  "county": "Carroll County"
+}

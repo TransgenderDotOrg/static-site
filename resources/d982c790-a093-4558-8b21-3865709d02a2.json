@@ -1,0 +1,38 @@
+{
+  "id": "d982c790-a093-4558-8b21-3865709d02a2",
+  "i18n": {
+    "en-US": {
+      "title": "San Francisco Community Health Center",
+      "description": "San Francisco Community Health Center provides holistic healthcare services catered to the needs of transgender and gender non-conforming individuals. The services include primary care, dental services, and behavioral health, with a special focus on transgender health. The health center operates in a Trans/GNC affirming environment fostering long term patient-healthcare provider relationships."
+    }
+  },
+  "slug": "san-francisco-community-health-center",
+  "externalUrl": "https://sfcommunityhealth.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "community-stories",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "730 Polk St, San Francisco, CA 94109, USA",
+  "phoneNumber": "+1 415-292-3400",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Little Saigon",
+  "latLng": [
+    37.7838531,
+    -122.4191138
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13452941693130008836"
+  },
+  "county": "San Francisco County"
+}

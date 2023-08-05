@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-walnut-creek",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7015967f-139a-411c-91a5-71ae3d763342",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/walnut-creek/94596/walnut-creek-health-center-2571-90200?utm_campaign=walnut-creek-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1357 Oakland Blvd, Walnut Creek, CA 94596, USA",
+  "phoneNumber": "+1 925-935-3010",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10565356144742467804"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Contra Costa County",
+  "city": "Walnut Creek",
+  "latLng": [
+    37.8978413,
+    -122.0705217
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-coliseum-industrial",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d84d732e-8449-4c70-a20a-906489c7494c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/oakland/94621/east-oakland-coliseum-health-center-4188-90130?utm_campaign=east-oakland-coliseum-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "8480 Enterprise Way, Oakland, CA 94621, USA",
+  "phoneNumber": "+1 510-746-4700",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2470206937681529051"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Alameda County",
+  "city": "Coliseum Industrial",
+  "latLng": [
+    37.7422955,
+    -122.1923823
+  ]
+}

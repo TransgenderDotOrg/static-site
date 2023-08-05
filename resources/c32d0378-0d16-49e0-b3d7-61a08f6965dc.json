@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Connectus Health - Local Informed Consent Clinic",
+      "description": "Connectus Health offers a wide range of healthcare services including Primary care, pediatrics, Behavioral health, Psychiatric services and others. Specially mindful of the transgender community, Connectus provides inclusive and accessible healthcare with utmost respect to all. This local clinic offers tailored services to meet the unique health needs of transmasculine, non-binary and transfeminine individuals."
+    }
+  },
+  "slug": "connectus-health-local-informed-consent-clinic-bransford-avenue",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "c32d0378-0d16-49e0-b3d7-61a08f6965dc",
+  "externalUrl": "https://www.connectus.org/",
+  "address": "601 Benton Ave, Nashville, TN 37204, USA",
+  "phoneNumber": "+1 615-292-9770",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8361440773070949506"
+  },
+  "country": "US",
+  "provinceOrState": "TN",
+  "county": "Davidson County",
+  "city": "Bransford Avenue",
+  "latLng": [
+    36.1312326,
+    -86.7690531
+  ]
+}

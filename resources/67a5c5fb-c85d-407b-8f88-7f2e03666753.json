@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-paris",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "67a5c5fb-c85d-407b-8f88-7f2e03666753",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/paris/75460/paris-health-center-2211-91620?utm_campaign=paris-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1735 17th St NE, Paris, TX 75460, USA",
+  "phoneNumber": "+1 903-784-1301",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18307273034731234441"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Lamar County",
+  "city": "Paris",
+  "latLng": [
+    33.6772087,
+    -95.5390693
+  ]
+}

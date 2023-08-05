@@ -1,0 +1,32 @@
+{
+  "id": "7c558ccb-a341-4297-8150-0859aced7d5c",
+  "i18n": {
+    "en-US": {
+      "title": "Community Health Network - Family Medicine and Pediatric Care - Geist",
+      "description": "Community Health Network in Geist provides comprehensive healthcare services and is inclusive in their care, ensuring all patients, including those who identify as transgender, receive the personalized care they deserve. With a team of dedicated physicians and pediatric care, they wish to keep you and your loved ones in the best health. For ease of accessibility, they offer online services via MyChart where patients can request appointments, review their health information, and more."
+    }
+  },
+  "slug": "community-health-network-family-medicine-and-pediatric-care-geist",
+  "externalUrl": "https://www.ecommunity.com/locations/cpn-geist-family-medicine-and-pediatrics",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Geist Station Shopping Center, Oaklandon Rd, Indianapolis, IN 46236, USA",
+  "phoneNumber": "+1 317-621-1111",
+  "country": "US",
+  "provinceOrState": "IN",
+  "city": "Geist",
+  "county": "Marion County",
+  "latLng": [
+    39.90411450000001,
+    -85.9583948
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7811572546648933647"
+  }
+}

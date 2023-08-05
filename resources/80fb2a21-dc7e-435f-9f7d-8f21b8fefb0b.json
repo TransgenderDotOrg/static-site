@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-athens",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "80fb2a21-dc7e-435f-9f7d-8f21b8fefb0b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/athens/45701/athens-health-center-2974-91230?utm_campaign=athens-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1005 E State St Suite W, Athens, OH 45701, USA",
+  "phoneNumber": "+1 740-593-6979",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18015189927876401923"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Athens County",
+  "city": "Athens",
+  "latLng": [
+    39.3349856,
+    -82.05488319999999
+  ]
+}

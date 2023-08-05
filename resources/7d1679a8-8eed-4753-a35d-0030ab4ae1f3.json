@@ -1,0 +1,34 @@
+{
+  "id": "7d1679a8-8eed-4753-a35d-0030ab4ae1f3",
+  "i18n": {
+    "en-US": {
+      "title": "San Ysidro Health: Comprehensive Healthcare for the Transgender Community",
+      "description": "San Ysidro Health is a compassionate health service provider with a focus on delivering inclusive care to the transgender community. Our services range from medical, dental, and behavioral health to support services addressing food, housing and health education. We also provide specialized services for people living with HIV, the senior community, and offer a safe, supportive space for LGBTQ patients and families to access resources on sexual health and relationships."
+    }
+  },
+  "slug": "san-ysidro-health-comprehensive-healthcare-for-trans",
+  "externalUrl": "http://www.syhealth.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "678 3rd Ave, Chula Vista, CA 91910, USA",
+  "phoneNumber": "+1 619-662-4100",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Chula Vista",
+  "county": "San Diego County",
+  "latLng": [
+    32.6286042,
+    -117.0752591
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11036883203372606085"
+  }
+}

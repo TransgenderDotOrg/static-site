@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "HealthQ - Comprehensive Health Services for All",
+      "description": "HealthQ provides a comprehensive range of sexual and reproductive health care, including gender affirming care and laser hair removal for gender affirmation. We are committed to providing specialized, individualized care in an inclusive and non-judgmental environment, respecting all genders, sexual orientations, and identities."
+    }
+  },
+  "slug": "healthq-comprehensive-health-services-for-all-lawrence",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "8d3813f0-962e-42a9-b5a8-68f6c0304b1d",
+  "externalUrl": "https://healthq.org/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb",
+  "address": "280 Merrimack St #544, Lawrence, MA 01843, USA",
+  "phoneNumber": "+1 978-927-9824",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2864279353582426852"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Essex County",
+  "city": "Lawrence",
+  "latLng": [
+    42.7028963,
+    -71.1504777
+  ]
+}

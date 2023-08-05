@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fort-myers",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "111479ac-c7ae-41a1-b5b2-bdd2aae64885",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/fort-myers/33966/fort-myers-health-center-2505-90300?utm_campaign=fort-myers-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "6418 Commerce Park Dr, Fort Myers, FL 33966, USA",
+  "phoneNumber": "+1 239-481-9999",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13414416668196299422"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Lee County",
+  "city": "Fort Myers",
+  "latLng": [
+    26.5484096,
+    -81.8486902
+  ]
+}

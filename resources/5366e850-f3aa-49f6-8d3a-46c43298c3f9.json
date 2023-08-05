@@ -1,0 +1,34 @@
+{
+  "id": "5366e850-f3aa-49f6-8d3a-46c43298c3f9",
+  "i18n": {
+    "en-US": {
+      "title": "Thacker, Thompson and Bernard, MD",
+      "description": "Thacker, Thompson and Bernard, MD is a community based practice specializing in Internal Medicine and Endocrinology. We focus on the health of our patients through all stages of life, including the unique health considerations and needs of the transgender community. Our endocrinology team provides specialist care for hormone-related conditions often part of transition care. Our patient-centered approach ensures that we meet the diverse and individual needs of each patient."
+    }
+  },
+  "slug": "thacker-thompson-and-bernard-md",
+  "externalUrl": "http://ttandb.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "619 Rankin St NE, Atlanta, GA 30308, USA",
+  "phoneNumber": "+1 404-874-3102",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Old Fourth Ward",
+  "latLng": [
+    33.7667968,
+    -84.3670574
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1847521001930039793"
+  },
+  "county": "Fulton County"
+}

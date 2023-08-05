@@ -1,0 +1,34 @@
+{
+  "id": "b7c477b2-9bc7-40b6-8651-9224c8f567c1",
+  "i18n": {
+    "en-US": {
+      "title": "UC Berkeley University Health Services",
+      "description": "UC Berkeley's University Health Services (UHS) provides a broad range of health services to students of all gender identities including transgender. They offer medical, mental health, insurance, and wellness programs. UHS staff is highly qualified and culturally competent, making sure to cater to the varying needs of the student population, including those of transgender students."
+    }
+  },
+  "slug": "uc-berkeley-university-health-services",
+  "externalUrl": "https://uhs.berkeley.edu/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Tang Center, 2222 Bancroft Way, Berkeley, CA 94720, USA",
+  "phoneNumber": "+1 510-642-2000",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Southside",
+  "county": "Alameda County",
+  "latLng": [
+    37.8676679,
+    -122.2642858
+  ],
+  "email": "telltang@berkeley.edu",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7815758142236499674"
+  }
+}

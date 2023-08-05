@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "HealthQ - Comprehensive Health Services for All",
+      "description": "HealthQ provides a comprehensive range of sexual and reproductive health care, including gender affirming care and laser hair removal for gender affirmation. We are committed to providing specialized, individualized care in an inclusive and non-judgmental environment, respecting all genders, sexual orientations, and identities."
+    }
+  },
+  "slug": "healthq-comprehensive-health-services-for-all-haverhill",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "946f5ea3-5468-45f7-94d9-cfd07c94a4cd",
+  "externalUrl": "https://healthq.org/locations/haverhill-ma/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb",
+  "address": "215 Summer St #16, Haverhill, MA 01830, USA",
+  "phoneNumber": "+1 978-927-9824",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13401283585083163699"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Essex County",
+  "city": "Haverhill",
+  "latLng": [
+    42.7760009,
+    -71.0679421
+  ]
+}

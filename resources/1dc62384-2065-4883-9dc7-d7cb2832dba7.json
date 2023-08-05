@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-coachella",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1dc62384-2065-4883-9dc7-d7cb2832dba7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/coachella/92236/coachella-health-center-2186-90110?utm_campaign=coachella-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "49-111 CA-111 #6a, Coachella, CA 92236, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5711856497222934424"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Coachella",
+  "latLng": [
+    33.6923087,
+    -116.1858836
+  ]
+}

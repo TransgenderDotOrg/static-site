@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-central",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "852b8b83-88a0-4d08-8b8a-2049658aaee9",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/colorado/denver/80218/denver-central-2484-90210?utm_campaign=denver-central&utm_medium=organic&utm_source=local-listing",
+  "address": "921 E 14th Ave, Denver, CO 80218, USA",
+  "phoneNumber": "+1 303-832-5069",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9215837323210214006"
+  },
+  "country": "US",
+  "provinceOrState": "CO",
+  "county": "Denver County",
+  "city": "Central",
+  "latLng": [
+    39.7386929,
+    -104.9758045
+  ]
+}

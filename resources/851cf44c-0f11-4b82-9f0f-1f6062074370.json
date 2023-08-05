@@ -1,0 +1,38 @@
+{
+  "id": "851cf44c-0f11-4b82-9f0f-1f6062074370",
+  "i18n": {
+    "en-US": {
+      "title": "Informed Consent Clinic in Pamplona",
+      "description": "This local government office in Pamplona, Navarra, Spain operates an Informed Consent Clinic providing healthcare services that are sensitive to the needs of the transgender community. It offers a safe and respectful environment to individuals identifying as transmasculine, transfeminine, non-binary and others, ensuring their healthcare experiences are based on informed decisions."
+    },
+    "es-ES": {
+      "title": "Clínica de Consentimiento Informado en Pamplona",
+      "description": "Esta oficina de gobierno local en Pamplona, Navarra, España opera una Clínica de Consentimiento Informado que proporciona servicios de salud adaptados a las necesidades de la comunidad transgénero. Ofrece un ambiente seguro y respetuoso a personas que se identifican como transmasculinas, transfemeninas, no binarias y otras, garantizando que sus experiencias de salud se basen en decisiones informadas."
+    }
+  },
+  "slug": "informed-consent-clinic-pamplona",
+  "externalUrl": "https://www.pamplona.es/verPagina.asp?idPag=20-34702",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Pamplona, Navarre, Spain",
+  "phoneNumber": "+34 848 42 27 61",
+  "country": "ES",
+  "provinceOrState": "NC",
+  "city": "Pamplona",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4991086809733477998"
+  },
+  "county": "NA",
+  "latLng": [
+    42.812526,
+    -1.6457745
+  ]
+}

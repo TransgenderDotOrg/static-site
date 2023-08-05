@@ -1,0 +1,37 @@
+{
+  "id": "f62b7bac-26a9-4d8c-a0c0-20069bfe71b5",
+  "i18n": {
+    "en-US": {
+      "title": "Identity Hormones & Healthcare",
+      "description": "Identity Hormones & Healthcare is a specialty healthcare provider for the LGBTQI+ community and its allies. The clinic offers a wide range of services including Gender Affirming Hormone Therapy, HIV and PrEP care, and Testosterone Replacement treatments. Healthcare at Identity Hormones & Healthcare is personalized, with treatments tailored to meet the specific needs of each individual. The clinic also offers telemedicine services for the convenience of patients."
+    }
+  },
+  "slug": "identity-hormones-healthcare",
+  "externalUrl": "https://identityhormones.com/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "100 E Camelback Rd #108, Phoenix, AZ 85012, USA",
+  "phoneNumber": "+1 602-354-3925",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Midtown",
+  "latLng": [
+    33.5103356,
+    -112.0726013
+  ],
+  "email": "info@identityhormones.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12760492170606143579",
+    "facebook": "https://www.facebook.com/identityhormones",
+    "instagram": "https://www.instagram.com/identityhormones/"
+  },
+  "county": "Maricopa County"
+}

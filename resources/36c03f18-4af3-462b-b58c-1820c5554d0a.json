@@ -1,0 +1,37 @@
+{
+  "id": "36c03f18-4af3-462b-b58c-1820c5554d0a",
+  "i18n": {
+    "en-US": {
+      "title": "UCI Health Pediatric Gender Diversity Program",
+      "description": "The UCI Health Pediatric Gender Diversity Program provides tailored, comprehensive health care, and support services to transgender individuals and their families. The clinic offers a wide range of medical, mental-health and social services that cater specifically to the needs of the transgender community, affirming their identity and promoting their health and well-being."
+    }
+  },
+  "slug": "uci-health-pediatric-gender-diversity-program",
+  "externalUrl": "https://www.ucihealth.org/locations/orange/pediatric-gender-diversity-program",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "101 The City Dr S, Orange, CA 92868, USA",
+  "phoneNumber": "+1 714-456-6025",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Anaheim Resort",
+  "county": "Orange County",
+  "latLng": [
+    33.7871265,
+    -117.8883391
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=24661976608726046"
+  }
+}

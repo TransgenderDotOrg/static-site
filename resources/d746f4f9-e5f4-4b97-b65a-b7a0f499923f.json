@@ -1,0 +1,32 @@
+{
+  "id": "d746f4f9-e5f4-4b97-b65a-b7a0f499923f",
+  "i18n": {
+    "en-US": {
+      "title": "Local Informed Consent Clinic at Farrington Hwy, Waianae",
+      "description": "An informed consent clinic that provides healthcare services to the transgender community, focusing on the principle of informed consent. The clinic follows the informed consent model, thereby ensuring that trans individuals have the autonomy and freedom to choose what healthcare procedures are right for them."
+    }
+  },
+  "slug": "local-informed-consent-clinic-at-farrington-hwy-waianae",
+  "externalUrl": "https://maps.google.com/?q=85-888+Farrington+Hwy,+Waianae,+HI+96792&ftid=0x7c008a4a52914fe9:0x7f69e258678a6e57",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "85-888 Farrington Hwy, Waianae, HI 96792, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "HI",
+  "city": "Waianae",
+  "county": "Honolulu County",
+  "latLng": [
+    21.4447164,
+    -158.1871065
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=85-888+Farrington+Hwy,+Waianae,+HI+96792&ftid=0x7c008a4a52914fe9:0x7f69e258678a6e57"
+  }
+}

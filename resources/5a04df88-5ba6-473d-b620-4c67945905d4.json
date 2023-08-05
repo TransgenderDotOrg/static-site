@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-st-johnsbury",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5a04df88-5ba6-473d-b620-4c67945905d4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/saint-johnsbury/05819/st-johnsbury-health-center-4092-91770?utm_campaign=st-johnsbury-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "501 Portland St, St Johnsbury, VT 05819, USA",
+  "phoneNumber": "+1 802-751-7821",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10873235617456934597"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Caledonia County",
+  "city": "St. Johnsbury",
+  "latLng": [
+    44.4211294,
+    -72.005775
+  ]
+}

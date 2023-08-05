@@ -1,0 +1,36 @@
+{
+  "id": "f777f62b-4c2f-4b6a-963c-651f54db4989",
+  "i18n": {
+    "en-US": {
+      "title": "Freeman Medical Clinic and Life Coaching",
+      "description": "Freeman Medical Clinic and Life Coaching is located in Austin, Texas. This clinic provides a variety of services tailored to the transgender community including hormone replacement therapy, mental health, gender-affirming care, and life coaching services. Doctors Georgeanne Freeman and Celeste Pitts, alongside their team, are committed to delivering personalized, comprehensive healthcare experiences. They aim to form long-lasting relationships with patients, creating a comfortable environment where patients feel heard and respected."
+    }
+  },
+  "slug": "freeman-medical-clinic-and-life-coaching",
+  "externalUrl": "https://www.freemanmedicalclinic.com/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1611 W 5th St #180, Austin, TX 78703, USA",
+  "phoneNumber": "+1 512-391-9400",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Austin",
+  "latLng": [
+    30.2736701,
+    -97.7640479
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13401263023464134919"
+  },
+  "county": "Travis County"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "50c4ac19-b476-429c-9968-4fbab6c5f083",
+  "i18n": {
+    "en-US": {
+      "title": "SF Department of Public Health",
+      "description": "The San Francisco Department of Public Health offers a range of healthcare services tailored for the transgender and nonbinary community. It provides services such as gender health, STI testing, mental health care, and substance use treatment. It is dedicated to promoting the health and well-being of all San Franciscans, with a particular focus on minority groups."
+    }
+  },
+  "slug": "sf-department-of-public-health",
+  "externalUrl": "http://www.sfdph.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "50 Dr Tom Waddell Pl, San Francisco, CA 94102, USA",
+  "phoneNumber": "+1 415-355-7400",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Civic Center",
+  "county": "San Francisco County",
+  "latLng": [
+    37.7779803,
+    -122.4186147
+  ],
+  "email": "dph.press@sfdph.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11774432127212340062"
+  }
+}

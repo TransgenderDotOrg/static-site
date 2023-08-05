@@ -1,0 +1,31 @@
+{
+  "id": "d5975c9b-e0c7-45ed-9f49-6a2ca326c4d9",
+  "i18n": {
+    "en-US": {
+      "title": "Endocrinology Services at Swedish First Hill Campus",
+      "description": "The team at Swedish First Hill Campus is committed to providing endocrinology services tailored to the unique health needs of the transgender community. Specializing in diseases of the thyroid, parathyroid, and adrenal glands, with a keen interest in diabetes and osteoporosis, their goal is to help reduce and eliminate complications of diabetes. They strive to foster an environment of understanding, acceptance, and personalized care."
+    }
+  },
+  "slug": "endocrinology-services-at-swedish-first-hill-campus",
+  "externalUrl": "https://www.swedish.org/locations/first-hill-campus/endocrinology?Is=location&y_source=1_OTU3Njc5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1124 Columbia St Suite 400, Seattle, WA 98104, USA",
+  "phoneNumber": "+1 206-215-2440",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Downtown Seattle",
+  "latLng": [
+    47.6088136,
+    -122.3251268
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5523006508169609911"
+  },
+  "county": "King County"
+}

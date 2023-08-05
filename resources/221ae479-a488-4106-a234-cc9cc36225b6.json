@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-media",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "221ae479-a488-4106-a234-cc9cc36225b6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/media/19063/media-health-center-2338-91460?utm_campaign=media-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "216 W State St, Media, PA 19063, USA",
+  "phoneNumber": "+1 610-566-2830",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14307365706194436863"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Delaware County",
+  "city": "Media",
+  "latLng": [
+    39.9181949,
+    -75.39273229999999
+  ]
+}

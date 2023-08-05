@@ -1,0 +1,37 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Whitman-Walker",
+      "description": "Whitman-Walker is a dedicated healthcare provider, offering a comprehensive range of services tailored to the transgender community. Our services include HIV/STI testing, PrEP PEP, and support relating to insurance navigation, gender affirming care, youth & family, legal services, dental health, and behavioral health. We prioritize patient care, focusing on each individual's unique needs and challenges."
+    }
+  },
+  "slug": "whitman-walker-northwest-washington",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "83a3ce70-2106-4c51-b101-c01c90f12043",
+  "externalUrl": "http://www.whitman-walker.org/",
+  "address": "1525 14th St NW, Washington, DC 20005, USA",
+  "phoneNumber": "+1 202-745-7000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5946134904542513685"
+  },
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Northwest Washington",
+  "latLng": [
+    38.91047210000001,
+    -77.0315736
+  ]
+}

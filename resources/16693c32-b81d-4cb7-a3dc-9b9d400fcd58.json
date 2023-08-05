@@ -1,0 +1,35 @@
+{
+  "id": "16693c32-b81d-4cb7-a3dc-9b9d400fcd58",
+  "i18n": {
+    "en-US": {
+      "title": "Healthcare Office at 12201 Renfert Way",
+      "description": "Located at 12201 Renfert Way, this office houses several skilled healthcare professionals including Obstetrician-gynecologists and Doctors. It offers inclusive services tailored to the specific needs of the transgender community. The assortment of dedicated physicians provides a range of specialized care to accommodate transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "healthcare-office-at-12201-renfert-way",
+  "externalUrl": "https://maps.google.com/?q=12201+Renfert+Way+%23315,+Austin,+TX+78758&ftid=0x8644cc1be0ce71ed:0x3c7a4417e98b749d",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "12201 Renfert Way Suite 315, Austin, TX 78758, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "The Centrum",
+  "county": "Travis County",
+  "latLng": [
+    30.4096574,
+    -97.7047549
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=12201+Renfert+Way+%23315,+Austin,+TX+78758&ftid=0x8644cc1be0ce71ed:0x3c7a4417e98b749d"
+  }
+}

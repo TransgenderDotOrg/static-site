@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hospital-plaza-office-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d63c0ef6-ff9b-4d7f-a6d0-9e94e514b366",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/wilmington/28401/wilmington-health-center-2595-90860?utm_campaign=wilmington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1925 Tradd Ct, Wilmington, NC 28401, USA",
+  "phoneNumber": "+1 910-762-5566",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=736351062034744803"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "New Hanover County",
+  "city": "Hospital Plaza Office Park",
+  "latLng": [
+    34.20905870000001,
+    -77.92741319999999
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "297feade-12cc-4471-8144-27bbeebf0e78",
+  "i18n": {
+    "en-US": {
+      "title": "Southwest Family Medicine Associates",
+      "description": "Located in Dallas, Texas, the Southwest Family Medicine Associates (SFMA) offer a range of medical services taking warm consideration of transgender healthcare. The team provides expertise in transgender care, alongside a plethora of medical services such as bioidentical hormone replacement, acupuncture, HIV diagnosis and treatment, and more. The SFMA fosters a safe and welcoming environment for transgender individuals to find high-quality medical assistance as per their specific needs."
+    }
+  },
+  "slug": "southwest-family-medicine-associates",
+  "externalUrl": "http://www.southwestfamilymed.com/?utm_source=gmb_auth",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "8877 Harry Hines Blvd, Dallas, TX 75247, USA",
+  "phoneNumber": "+1 214-393-2940",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Dallas",
+  "latLng": [
+    32.8387096,
+    -96.868156
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=328074770546133470"
+  },
+  "county": "Dallas County"
+}

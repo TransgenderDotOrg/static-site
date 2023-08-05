@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-stadium-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "59567140-54c5-4ebb-850c-205cacadb2b5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/durham/27704/durham-health-center-4171-90860?utm_campaign=durham-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "105 Newsom St Ste. 101 Ste. 101, Durham, NC 27704, USA",
+  "phoneNumber": "+1 919-286-2872",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12624464088194233774"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Durham County",
+  "city": "Stadium Heights",
+  "latLng": [
+    36.04088,
+    -78.9000635
+  ]
+}

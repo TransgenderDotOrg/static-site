@@ -1,0 +1,34 @@
+{
+  "id": "11a36def-72a1-46df-96ad-66bdf096dc46",
+  "i18n": {
+    "en-US": {
+      "title": "UAMS Women’s Health Center",
+      "description": "The UAMS Women’s Health Center is a comprehensive care center providing a wide range of services for women. This includes OB-GYN ultrasound, high-risk pregnancy care, uterine fibroids treatment, specialized menopause treatment, mammography, among other services. The center also hosts a Gender Clinic dedicated to providing a safe, supportive environment for transgender patients, ensuring their unique health needs are met. A team of knowledgeable health practitioners offer personalized care plans for patients, prioritizing understanding and respect for individual health journeys."
+    }
+  },
+  "slug": "uams-womens-health-center",
+  "externalUrl": "https://uamshealth.com/location/womens-center/?utm_source=google&utm_medium=gmb&utm_campaign=clinical&utm_term=location&utm_content=profile&utm_specs=womens-center",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6119 Midtown Ave, Little Rock, AR 72205, USA",
+  "phoneNumber": "+1 501-296-1800",
+  "country": "US",
+  "provinceOrState": "AR",
+  "city": "Briarwood",
+  "latLng": [
+    34.7478406,
+    -92.3452413
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11430777227926282615"
+  },
+  "county": "Pulaski County"
+}

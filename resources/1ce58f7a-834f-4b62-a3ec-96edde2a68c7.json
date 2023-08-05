@@ -1,0 +1,34 @@
+{
+  "id": "1ce58f7a-834f-4b62-a3ec-96edde2a68c7",
+  "i18n": {
+    "en-US": {
+      "title": "CU Boulder Medical Services",
+      "description": "Medical Services at CU Boulder provides comprehensive healthcare services and health education programs for CU Boulder students. The services are trans-inclusive and provide personalized care that respects each patient's journey and identity. The services include primary care, mental health care, sexual and reproductive health services, and more. They also provide resources and assistance with insurance, billing, and medical records."
+    }
+  },
+  "slug": "cu-boulder-medical-services",
+  "externalUrl": "http://www.colorado.edu/healthcenter",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "1900 Wardenburg Dr, Boulder, CO 80309, USA",
+  "phoneNumber": "+1 303-492-5101",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Boulder",
+  "county": "Boulder County",
+  "latLng": [
+    40.0052848,
+    -105.2688643
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12708688404224295790"
+  }
+}

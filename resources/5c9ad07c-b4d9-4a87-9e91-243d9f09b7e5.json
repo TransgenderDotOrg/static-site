@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-springfield",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5c9ad07c-b4d9-4a87-9e91-243d9f09b7e5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/springfield/62702/springfield-health-center-3284-90430?utm_campaign=springfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "601 Bruns Ln, Springfield, IL 62702, USA",
+  "phoneNumber": "+1 217-546-1060",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4069450282141271438"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Sangamon County",
+  "city": "Springfield",
+  "latLng": [
+    39.8085706,
+    -89.6876769
+  ]
+}

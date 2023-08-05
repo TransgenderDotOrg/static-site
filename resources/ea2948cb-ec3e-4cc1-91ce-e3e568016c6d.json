@@ -1,0 +1,36 @@
+{
+  "id": "ea2948cb-ec3e-4cc1-91ce-e3e568016c6d",
+  "i18n": {
+    "en-US": {
+      "title": "Corner Health Center",
+      "description": "Corner Health Center, established over 40 years ago, is an organization dedicated to providing comprehensive, judgment-free health and wellness care for the youth and young adults, with the vision to eliminate health disparities. The Center emphasizes its strong commitment to reproductive justice, mental health care, youth services, and educational programs. Recognizing the various challenges that members of the transgender community often face when seeking health care, it aims to create a safe and inclusive environment for transgender youth and adults."
+    }
+  },
+  "slug": "corner-health-center",
+  "externalUrl": "http://www.cornerhealth.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "47 N Huron St, Ypsilanti, MI 48197, USA",
+  "phoneNumber": "734.484.3600",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Ypsilanti",
+  "county": "Washtenaw County",
+  "latLng": [
+    42.2419644,
+    -83.6134325
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14668998641977489270"
+  }
+}

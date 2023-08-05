@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-exeter",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a73091ff-c790-4f3c-87c7-92b2ead44848",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-hampshire/exeter/03833/exeter-health-center-2739-91770?utm_campaign=exeter-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "NH-108 & High St, Exeter, NH 03833, USA",
+  "phoneNumber": "+1 603-772-9315",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8997577996732281941"
+  },
+  "country": "US",
+  "provinceOrState": "NH",
+  "county": "Rockingham County",
+  "city": "Exeter",
+  "latLng": [
+    42.98078350000001,
+    -70.944404
+  ]
+}

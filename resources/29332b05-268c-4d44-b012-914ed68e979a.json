@@ -1,0 +1,34 @@
+{
+  "id": "29332b05-268c-4d44-b012-914ed68e979a",
+  "i18n": {
+    "en-US": {
+      "title": "One Health Community Health Center",
+      "description": "One Health is a comprehensive health center offering services tailored to the transgender community. They provide primary care, behavioral health, dental care, pharmacy services and community health advocacy. Their services are integrated and holistic, ensuring each individual's unique health needs are met. Their accessible and quality health care services are designed to improve the well-being of everyone in the community."
+    }
+  },
+  "slug": "one-health-community-health-center",
+  "externalUrl": "https://www.onechc.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "515 Main St, Miles City, MT 59301, USA",
+  "phoneNumber": "+1 406-874-8711",
+  "country": "US",
+  "provinceOrState": "MT",
+  "city": "Miles City",
+  "county": "Custer County",
+  "latLng": [
+    46.4061888,
+    -105.8509869
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6416129401669531652"
+  }
+}

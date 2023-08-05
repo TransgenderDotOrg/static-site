@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Main Line Health",
+      "description": "Main Line Health offers various healthcare services with a compassionate approach to the transgender community. From specialized mental health to legal support services, our office provides inclusive healthcare tailored to meet the unique needs of transmasculine, transfeminine, and non-binary individuals. We believe in creating an environment that recognizes and respects the individuality of every patient."
+    }
+  },
+  "slug": "main-line-health-bryn-mawr",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "21ad2bd9-bb7b-471c-b7ec-6a189e38e526",
+  "externalUrl": "https://www.mainlinehealth.org/find-a-doctor/katherine-rose",
+  "address": "933 Haverford Rd, Bryn Mawr, PA 19010, USA",
+  "phoneNumber": "+1 484-337-5250",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9349920123663215076"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Delaware County",
+  "city": "Bryn Mawr",
+  "latLng": [
+    40.0154095,
+    -75.31860449999999
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a8a98a81-a35b-4467-b96d-08e69d766dc0",
+  "i18n": {
+    "en-US": {
+      "title": "Powers Family Medicine - Transgender Healthcare",
+      "description": "Powers Family Medicine is dedicated to providing head-to-toe wellness and healthcare, with a focus on transgender healthcare. Their services include aesthetic medicine, such as laser hair removal, skin resurfacing, and injectable dermal fillers and neurotoxins. Their caring team provides state of the art advice and support in a welcoming environment tailored to the needs of the transgender community."
+    }
+  },
+  "slug": "powers-family-medicine-transgender-healthcare",
+  "externalUrl": "http://www.powersfamilymedicine.com/",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "23700 Orchard Lake Rd, Farmington Hills, MI 48336, USA",
+  "phoneNumber": "+1 248-482-6222",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Farmington Hills",
+  "county": "Oakland County",
+  "latLng": [
+    42.4667332,
+    -83.3561081
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4723799584642392928"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "73415624-b1fd-4dec-b4ce-549695b3ddf7",
+  "i18n": {
+    "en-US": {
+      "title": "CrescentCare - Comprehensive Healthcare for Transgender Individuals",
+      "description": "CrescentCare is a health center providing comprehensive healthcare services with a special focus on the transgender community, including primary medical care, LGBTQ health, and gender services. The center also offers sexual health and wellness services, HIV support, legal services, and behavioral health services among others. CrescentCare is committed to strengthening the community through inclusive healthcare and education."
+    }
+  },
+  "slug": "crescentcare-comprehensive-healthcare",
+  "externalUrl": "https://www.crescentcare.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "legal",
+    "sexual-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3308 Tulane Ave, New Orleans, LA 70119, USA",
+  "phoneNumber": "+1 504-821-2601",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Mid-City",
+  "latLng": [
+    29.9646656,
+    -90.09749430000001
+  ],
+  "email": "info@crescentcare.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1568413593522984049"
+  },
+  "county": "Orleans Parish"
+}

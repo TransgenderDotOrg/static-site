@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-pottstown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7d7a4ba1-7c5d-4531-a6f7-364dba40f65d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/pottstown/19464/pottstown-health-center-2340-91460?utm_campaign=pottstown-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2081 E High St, Pottstown, PA 19464, USA",
+  "phoneNumber": "+1 610-326-8080",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4647201969126888156"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Montgomery County",
+  "city": "Pottstown",
+  "latLng": [
+    40.2444888,
+    -75.6045774
+  ]
+}

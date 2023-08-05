@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bremerton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "796c3ab1-5b02-4583-9953-f3431b6b9355",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/bremerton/98310/bremerton-health-center-2461-91810?utm_campaign=bremerton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "723 NE Riddell Rd a, Bremerton, WA 98310, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=706332542288241203"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Kitsap County",
+  "city": "Bremerton",
+  "latLng": [
+    47.6063729,
+    -122.6371462
+  ]
+}

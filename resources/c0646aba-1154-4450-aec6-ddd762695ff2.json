@@ -1,0 +1,38 @@
+{
+  "id": "c0646aba-1154-4450-aec6-ddd762695ff2",
+  "i18n": {
+    "en-US": {
+      "title": "ARCH Guelph - Supporting Transgender and Non-Cisgender Individuals",
+      "description": "ARCH Guelph provides comprehensive services to individuals in the process of navigating their gender identity, or the transgender process of a loved one. They also support people who identify as two-spirit, gender non-conforming, and non-cisgender. The services they provide includes transgender and GNC support, HIV/AIDS prevention and  treatments, support services like housing and medication assistance, harm reduction programs, education and advocacy. They actively work towards providing a healthy, stigma-free environment for everyone."
+    }
+  },
+  "slug": "arch-guelph-supporting-transgender-and-non-cisgender-individuals",
+  "externalUrl": "http://www.archguelph.ca/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "77 Westmount Rd #110, Guelph, ON M2M 4K5, Canada",
+  "phoneNumber": "+1 519-780-5298 ext. 140",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Exhibition Park",
+  "latLng": [
+    43.5499843,
+    -80.2689899
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9943437941596560891"
+  },
+  "county": "Wellington County"
+}

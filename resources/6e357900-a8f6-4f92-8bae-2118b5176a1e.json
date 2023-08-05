@@ -1,0 +1,37 @@
+{
+  "id": "6e357900-a8f6-4f92-8bae-2118b5176a1e",
+  "i18n": {
+    "en-US": {
+      "title": "Howard Brown Health",
+      "description": "Howard Brown Health in Chicago encourages and works towards inclusivity, accessibility and equal opportunities for everyone including trans communities. Offering a variety of services from youth to geriatric health, sexual & reproductive health,  to primary care, and more. The clinic accommodates and empathizes with the specific needs of trans and non-binary people, provides extensive health services and support specially designed with the transgender community in mind."
+    }
+  },
+  "slug": "howard-brown-health",
+  "externalUrl": "https://howardbrown.org/clinic_location/55th-street/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "youth-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1525 E 55th St #201, Chicago, IL 60615, USA",
+  "phoneNumber": "+1 773-388-1600",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Hyde Park",
+  "latLng": [
+    41.794974,
+    -87.58796579999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6838761219072141768"
+  },
+  "county": "Cook County"
+}

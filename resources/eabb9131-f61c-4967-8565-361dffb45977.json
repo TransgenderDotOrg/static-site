@@ -1,0 +1,36 @@
+{
+  "id": "eabb9131-f61c-4967-8565-361dffb45977",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Joseph M. Freund, MD",
+      "description": "A welcoming healthcare provider. Dr. Joseph M. Freund, based in Des Moines, Iowa, is a highly-rated family practice physician committed to offering personalized and inclusive medical services to all his patients, including the transgender community. This office promotes a supportive environment to ensure your health and wellbeing."
+    }
+  },
+  "slug": "dr-joseph-m-freund-md",
+  "externalUrl": "https://maps.google.com/?cid=511949486805375295",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "address": "4908 Franklin Ave, Des Moines, IA 50310, USA",
+  "phoneNumber": "+1 515-280-4930",
+  "country": "US",
+  "provinceOrState": "IA",
+  "city": "Waveland Park",
+  "county": "Polk County",
+  "latLng": [
+    41.6107872,
+    -93.6855186
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=511949486805375295"
+  }
+}

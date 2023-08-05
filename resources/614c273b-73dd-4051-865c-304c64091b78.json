@@ -1,0 +1,32 @@
+{
+  "id": "614c273b-73dd-4051-865c-304c64091b78",
+  "i18n": {
+    "en-US": {
+      "title": "FSU College of Medicine Internal Medicine Residency Program at TMH",
+      "description": "A comprehensive healthcare center focusing on adult primary medical care. The center follows the latest treatment guidelines and offers a range of services including chronic disease management, immunizations, lab work, minor surgeries, physicals, and psychological counseling. This location works diligently to provide a safe and inclusive environment for all patients including the transgender community."
+    }
+  },
+  "slug": "fsu-college-of-medicine-internal-medicine-residency-program-at-tmh",
+  "externalUrl": "https://www.tmh.org/location/the-fsu-college-of-medicine-internal-medicine-residency-program-at-tmh",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1300 Miccosukee Rd, Tallahassee, FL 32308, USA",
+  "phoneNumber": "+18504317900",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Tallahassee",
+  "latLng": [
+    30.4564874,
+    -84.2616255
+  ],
+  "email": "info@tmh.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5195938093756632321"
+  },
+  "county": "Leon County"
+}

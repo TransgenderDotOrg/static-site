@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UP Health System",
+      "description": "UP Health System is a local health care provider that offers a wide range of medical services. This organization is dedicated to providing quality health care for everyone in the community, including those in the transgender community. They provide a safe, non-judgmental environment where individuals can receive care that is sensitive to their needs."
+    }
+  },
+  "slug": "up-health-system-harvey",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "4831eb63-336e-411c-95a5-6835c46c737e",
+  "externalUrl": "https://www.uphealthsystem.com/locations/uphs---lakewood-harvey",
+  "address": "5089 US Hwy 41, Harvey, MI 49855, USA",
+  "phoneNumber": "+1 906-249-5589",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9015038485087092861"
+  },
+  "country": "US",
+  "provinceOrState": "MI",
+  "county": "Marquette County",
+  "city": "Harvey",
+  "latLng": [
+    46.489392,
+    -87.3507356
+  ]
+}

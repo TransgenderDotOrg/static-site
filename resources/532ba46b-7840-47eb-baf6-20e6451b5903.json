@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-south-fair-oaks",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "532ba46b-7840-47eb-baf6-20e6451b5903",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/redwood-city/94061/redwood-city-health-center-4129-90130?utm_campaign=redwood-city-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2907 El Camino Real, Redwood City, CA 94061, USA",
+  "phoneNumber": "+1 650-503-7810",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9246379662220053754"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Mateo County",
+  "city": "South Fair Oaks",
+  "latLng": [
+    37.4692387,
+    -122.2111777
+  ]
+}

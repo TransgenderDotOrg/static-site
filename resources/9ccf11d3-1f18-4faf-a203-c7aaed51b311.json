@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fairfield",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9ccf11d3-1f18-4faf-a203-c7aaed51b311",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/fairfield/94533/fairfield-health-center-2700-90200?utm_campaign=fairfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1325 Travis Blvd # C, Fairfield, CA 94533, USA",
+  "phoneNumber": "+1 707-429-8855",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17759568993769083860"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Solano County",
+  "city": "Fairfield",
+  "latLng": [
+    38.2576276,
+    -122.0519842
+  ]
+}

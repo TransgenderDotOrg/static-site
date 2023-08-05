@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kind Clinic",
+      "description": "Kind Clinic provides no-cost sexual health services to people of all races, creeds, gender identities and expressions, immigration statuses, sexual orientations, insurance statuses, and abilities to pay. The clinic offers patient advocates with expertise serving the LGBTQIA+ community, free walk-in HIV/STI testing and treatment services, PrEP & PEP access, HIV testing & care and gender affirming care including hormone therapy."
+    }
+  },
+  "slug": "kind-clinic-uptown",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "e9c06838-4246-42a9-8ecb-d970999c8cbe",
+  "externalUrl": "https://kindclinic.org/",
+  "address": "730 Isom Rd, San Antonio, TX 78216, USA",
+  "phoneNumber": "+1 833-937-5463",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7550058237320487132"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Bexar County",
+  "city": "Uptown",
+  "latLng": [
+    29.5304978,
+    -98.49005609999999
+  ]
+}

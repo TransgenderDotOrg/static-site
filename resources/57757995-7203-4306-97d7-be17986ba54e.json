@@ -1,0 +1,32 @@
+{
+  "id": "57757995-7203-4306-97d7-be17986ba54e",
+  "i18n": {
+    "en-US": {
+      "title": "UNC Family Medicine Center at Chapel Hill",
+      "description": "The UNC Family Medicine Center at Chapel Hill is a local healthcare provider offering comprehensive health services. This includes primary care, which involves providing patient-centered treatment - taking into consideration the unique health concerns and needs of each patient. They are dedicated to equity and inclusion, providing care for everyone, including members of the transgender community, ensuring they feel welcomed, understood, and their specific health needs are met."
+    }
+  },
+  "slug": "unc-family-medicine-center-at-chapel-hill",
+  "externalUrl": "https://www.uncpn.com/pn/practices-locations/the-unc-family-medicine-center-at-chapel-hill",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "590 Manning Dr, Chapel Hill, NC 27514, USA",
+  "phoneNumber": "+19849740210",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Chapel Hill",
+  "latLng": [
+    35.89896570000001,
+    -79.0376575
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6351770689455270394"
+  },
+  "county": "Orange County"
+}

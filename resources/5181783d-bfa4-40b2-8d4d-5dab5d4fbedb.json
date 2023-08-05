@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-kent",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5181783d-bfa4-40b2-8d4d-5dab5d4fbedb",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/kent/44240/kent-health-center-2849-91230?utm_campaign=kent-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "138 E Main St 2nd Floor, Kent, OH 44240, USA",
+  "phoneNumber": "+1 330-678-8011",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11830114362168039402"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Portage County",
+  "city": "Kent",
+  "latLng": [
+    41.1534758,
+    -81.35735179999999
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d067901d-25cd-4c3e-8bf9-8eb5fa528258",
+  "i18n": {
+    "en-US": {
+      "title": "A Tidewater Women's Health Clinic",
+      "description": "A Tidewater Women's Health Clinic is a reputable healthcare provider offering a vast selection of services specialized in women's health. The clinic focuses on fostering a safe, confidential, and comfortable environment for all patients, including those from the transgender community. Our team of professionals respects all unique paths to parenthood and offers informed guidance for personalised decisions regarding abortion, adoption, and birth control among our services. We are committed to providing quality, affordable care, with an assurance of confidentiality."
+    }
+  },
+  "slug": "a-tidewater-womens-health-clinic",
+  "externalUrl": "http://www.yourchoice-va.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "891 Norfolk Square, Norfolk, VA 23502, USA",
+  "phoneNumber": "+1 757-461-0011",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Norfolk Industrial Park",
+  "latLng": [
+    36.8530289,
+    -76.2327262
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10502659523598816054"
+  }
+}

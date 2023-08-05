@@ -1,0 +1,32 @@
+{
+  "id": "962b366c-20ee-40b0-90ce-34e90af8873c",
+  "i18n": {
+    "en-US": {
+      "title": "The Jones Center for Diabetes and Endocrine Wellness",
+      "description": "The Jones Center for Diabetes and Endocrine Wellness offers comprehensive specialized care for diabetes and endocrine conditions. Although they do not specifically cater to the transgender community, their diverse selection of health and wellness programs shows their commitment to inclusive care. Services include diabetes management, thyroid care, wellness programs, nutritional support, and more, which are crucial for transgender individuals who may struggle with hormone imbalance and related complications."
+    }
+  },
+  "slug": "the-jones-center-for-diabetes-and-endocrine-wellness",
+  "externalUrl": "http://thejonescenter.com/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "265 Sheraton Blvd #100, Macon, GA 31210, USA",
+  "phoneNumber": "+1 478-746-8626",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Macon",
+  "county": "Bibb County",
+  "latLng": [
+    32.9201065,
+    -83.70339039999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7437346240884990149"
+  }
+}

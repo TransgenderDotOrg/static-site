@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-southeastern-sacramento",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2ed93ea9-dfb8-477b-a9e8-057e794b3c9d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/sacramento/95820/fruitridge-health-center-2198-90130?utm_campaign=fruitridge-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "5385 Franklin Blvd Suite A-D Suite A-D, Sacramento, CA 95820, USA",
+  "phoneNumber": "+1 916-452-7305",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18106200665171442086"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Sacramento County",
+  "city": "Southeastern Sacramento",
+  "latLng": [
+    38.5262236,
+    -121.4714158
+  ]
+}

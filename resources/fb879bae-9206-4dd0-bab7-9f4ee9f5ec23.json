@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-cross-keys",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fb879bae-9206-4dd0-bab7-9f4ee9f5ec23",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/florissant/63033/north-county-health-center-2886-90770?utm_campaign=north-county-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2782 N Hwy 67, Florissant, MO 63033, USA",
+  "phoneNumber": "+1 314-921-4445",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15210116319072880278"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "St Louis County",
+  "city": "Cross Keys",
+  "latLng": [
+    38.8066318,
+    -90.30211159999999
+  ]
+}

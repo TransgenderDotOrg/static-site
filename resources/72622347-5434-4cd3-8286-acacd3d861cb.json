@@ -1,0 +1,36 @@
+{
+  "id": "72622347-5434-4cd3-8286-acacd3d861cb",
+  "i18n": {
+    "en-US": {
+      "title": "Centretown Community Health Centre",
+      "description": "The Centretown Community Health Centre offers comprehensive healthcare services with a focus on supporting caring, inclusive, and connected communities. With a variety of programs and services tailored to diverse groups, including the 2SLGBTQIA+ community, it helps serve the transmasculine, non-binary, and transfeminine members of the transgender community, addressing their specific physical health, mental health and addiction needs."
+    }
+  },
+  "slug": "centretown-community-health-centre",
+  "externalUrl": "http://www.centretownchc.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "420 Cooper St, Ottawa, ON K2P 2N6, Canada",
+  "phoneNumber": "+1 613-233-4443",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Centretown",
+  "county": "Ottawa",
+  "latLng": [
+    45.4153239,
+    -75.6978195
+  ],
+  "email": "info@centretownchc.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13172424000812879398"
+  }
+}

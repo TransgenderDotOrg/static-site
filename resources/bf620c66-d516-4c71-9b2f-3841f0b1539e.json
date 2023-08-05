@@ -1,0 +1,33 @@
+{
+  "id": "bf620c66-d516-4c71-9b2f-3841f0b1539e",
+  "i18n": {
+    "en-US": {
+      "title": "Lynwood Medical Centre",
+      "description": "Lynwood Medical Centre aims to provide holistic healthcare. They embrace clinical innovation using evidence-based principles and technological advance. The team caters to all medical needs from skin checks, general medicine, chronic disease management, to immunisations. They work to ensure the best health of the community, including the transgender community, by fostering an environment that supports disease prevention and wellness in mind, body & spirit."
+    }
+  },
+  "slug": "lynwood-medical-centre",
+  "externalUrl": "http://lynwoodmedical.com.au/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "Shop 2/1 Bungan Ln, Mona Vale NSW 2103, Australia",
+  "phoneNumber": "+61 2 8411 2151",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Mona Vale",
+  "latLng": [
+    -33.6769289,
+    151.3032059
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2627049863424832759"
+  },
+  "county": "Northern Beaches Council"
+}

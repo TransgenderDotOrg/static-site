@@ -1,0 +1,32 @@
+{
+  "id": "3eabbe94-a068-4284-8acc-bf7edaa66c83",
+  "i18n": {
+    "en-US": {
+      "title": "Baptist Health Primary Care Services",
+      "description": "Baptist Health Primary Care offers comprehensive, patient-centered healthcare to the transgender community, striving to include individuals in their health journey. Their specialist providers in family medicine, internal medicine and pediatrics are there to assist with health management, counseling, education, and early diagnosis and treatment of medical conditions. Baptist Health takes pride in providing cost-effective and fully coordinated care, always centered on patients' unique needs."
+    }
+  },
+  "slug": "baptist-health-primary-care-services",
+  "externalUrl": "https://www.baptisthealth.com/louisville/services/primary-care/locations?utm_source=g-local&utm_medium=organic&utm_content=org-local-primary&utm_campaign=lou-local-listing",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1603 Stevens Ave, Louisville, KY 40205, USA",
+  "phoneNumber": "+1 502-451-5955",
+  "country": "US",
+  "provinceOrState": "KY",
+  "city": "Deer Park",
+  "latLng": [
+    38.2275568,
+    -85.7139648
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8700114510290848777"
+  },
+  "county": "Jefferson County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northwest-seattle",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1f63ee1b-8085-4627-9b95-6deb18e36809",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/seattle/98133/northgate-health-center-3975-91810?utm_campaign=northgate-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1200 N Northgate Way, Seattle, WA 98133, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8038189362037925414"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Northwest Seattle",
+  "latLng": [
+    47.70527,
+    -122.3429976
+  ]
+}

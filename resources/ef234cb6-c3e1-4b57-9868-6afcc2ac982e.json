@@ -1,0 +1,33 @@
+{
+  "id": "ef234cb6-c3e1-4b57-9868-6afcc2ac982e",
+  "i18n": {
+    "en-US": {
+      "title": "Vibrant Health - Supportive Healthcare Provider",
+      "description": "Vibrant Health is a safe, supportive healthcare provider committed to offering respect, support, and empathy towards everyone, specifically the transgender community. Services include medical care, dental care, behavioral health, and pharmacy, readily adjusting to innovative changes for better services. Equitable access to healthcare being a human right, it puts the patient at its core, and celebrates the diversity among its clients."
+    }
+  },
+  "slug": "vibrant-health-supportive-healthcare-provider",
+  "externalUrl": "https://swbfhc.org/",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "340 Southwest Blvd, Kansas City, KS 66103, USA",
+  "phoneNumber": "+1 913-722-3100",
+  "country": "US",
+  "provinceOrState": "KS",
+  "city": "Shawnee Heights",
+  "county": "Wyandotte County",
+  "latLng": [
+    39.068767,
+    -94.6138294
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2873929208026120122"
+  }
+}

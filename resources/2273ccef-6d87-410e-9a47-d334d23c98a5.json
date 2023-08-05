@@ -1,0 +1,34 @@
+{
+  "id": "2273ccef-6d87-410e-9a47-d334d23c98a5",
+  "i18n": {
+    "en-US": {
+      "title": "Sindecuse Health Center, Western Michigan University",
+      "description": "Sindecuse Health Center is a comprehensive healthcare center located at Western Michigan University. The center provides a wide range of services including clinic and nursing services, counseling services, pharmacies and more. It tailors services to the needs of the multicultural student body and staff, including those from the transgender community. The center's counseling services emphasize a holistic approach and are very beneficial to transgender students who are in need of mental health supports."
+    }
+  },
+  "slug": "sindecuse-health-center-western-michigan-university",
+  "externalUrl": "http://www.wmich.edu/healthcenter/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "1903 W Michigan Ave, Kalamazoo, MI 49008, USA",
+  "phoneNumber": "+1 269-387-3287",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Western Michigan University/KRPH",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3381527107575098571"
+  },
+  "county": "Kalamazoo County",
+  "latLng": [
+    42.2845248,
+    -85.61022349999999
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northeast-philadelphia",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fa096f93-faa3-4d1a-bf04-68730a2d3895",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/philadelphia/19154/far-northeast-surgical-center-3441-91460?utm_campaign=far-northeast-surgical-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2751 Comly Rd, Philadelphia, PA 19154, USA",
+  "phoneNumber": "+1 215-464-2225",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5706102543615826559"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Philadelphia County",
+  "city": "Northeast Philadelphia",
+  "latLng": [
+    40.1039687,
+    -75.00002409999999
+  ]
+}

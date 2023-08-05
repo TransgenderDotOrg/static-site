@@ -1,0 +1,36 @@
+{
+  "id": "169bd8b4-3915-4ca6-93b3-1f47e26c5f31",
+  "i18n": {
+    "en-US": {
+      "title": "CentraCare Plaza",
+      "description": "CentraCare Plaza is a comprehensive healthcare service provider that firmly believes in equal care for all. We offer a broad range of services including but not limited to mental health, nutrition counseling, endocrinology, gender medicine, and more. We aim to provide optimal healthcare to the transgender community, including transfeminine, transmasculine, and non-binary individuals. Our dedicated services contribute towards a healthy physical, mental, and emotional well-being of transgender individuals, promoting a sense of inclusivity and affirmative care."
+    }
+  },
+  "slug": "centracare-plaza",
+  "externalUrl": "https://www.centracare.com/locations/centracare-plaza/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1600, 1900 Centracare Cir, St Cloud, MN 56303, USA",
+  "phoneNumber": "+1 320-252-2422",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "St Cloud",
+  "county": "Stearns County",
+  "latLng": [
+    45.5829642,
+    -94.2067623
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1395887287299670667"
+  }
+}

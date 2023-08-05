@@ -1,0 +1,33 @@
+{
+  "id": "076a396b-58d6-4c9c-8955-75f74f471469",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Helena Costales, MD - Psychiatric Clinic",
+      "description": "Dr. Helena Costales is a highly recommended Psychiatrist based in New Orleans. Having demonstrated her compassion and understanding towards her patients, regardless of their background or identity, she provides an inclusive and welcoming environment for the transgender community. Her approach to mental health services highlights the importance of respectful and personal care, making her clinic a valuable resource for transgender individuals seeking psychological support."
+    }
+  },
+  "slug": "dr-helena-costales-md-psychiatric-clinic",
+  "externalUrl": "https://maps.google.com/?cid=5007979802878264781",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2400 Canal St, New Orleans, LA 70119, USA",
+  "phoneNumber": "+1 504-412-3700",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Tulane - Gravier",
+  "county": "Orleans Parish",
+  "latLng": [
+    29.9619299,
+    -90.08478459999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5007979802878264781"
+  }
+}

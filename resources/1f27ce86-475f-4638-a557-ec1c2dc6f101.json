@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-central-arts-district",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1f27ce86-475f-4638-a557-ec1c2dc6f101",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/saint-petersburg/33701/st-petersburg-health-center-2273-90300?utm_campaign=st-petersburg-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "33 6th St S UNIT 110, St. Petersburg, FL 33701, USA",
+  "phoneNumber": "+1 727-898-8199",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4602084794390085545"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Pinellas County",
+  "city": "Central Arts District",
+  "latLng": [
+    27.7706144,
+    -82.6420577
+  ]
+}

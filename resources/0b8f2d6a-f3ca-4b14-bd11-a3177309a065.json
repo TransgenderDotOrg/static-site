@@ -1,0 +1,36 @@
+{
+  "id": "0b8f2d6a-f3ca-4b14-bd11-a3177309a065",
+  "i18n": {
+    "en-US": {
+      "title": "AIDS Project of the Ozarks Office and Clinic",
+      "description": "AIDS Project of the Ozarks (APO) offers primary medical care, counseling and testing, case management, wrap-around services to persons with HIV infection, gender affirming therapies and more. Especially centered around the needs of underserved communities, including the transgender community, offering non-biased care and services in a safe and inclusive environment."
+    }
+  },
+  "slug": "aids-project-of-the-ozarks-office-and-clinic",
+  "externalUrl": "https://apo-ozarks.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization",
+    "healthcare-provider"
+  ],
+  "address": "1636 S Glenstone Ave #100, Springfield, MO 65804, USA",
+  "phoneNumber": "+1 417-881-1900",
+  "country": "US",
+  "provinceOrState": "MO",
+  "city": "Oak Grove",
+  "latLng": [
+    37.1842041,
+    -93.2617022
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14147257490513591483"
+  },
+  "county": "Greene County"
+}

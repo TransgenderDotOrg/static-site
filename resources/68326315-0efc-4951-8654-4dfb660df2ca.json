@@ -1,0 +1,34 @@
+{
+  "id": "68326315-0efc-4951-8654-4dfb660df2ca",
+  "i18n": {
+    "en-US": {
+      "title": "Cal Poly Campus Health & Wellbeing",
+      "description": "Cal Poly Health & Wellbeing is committed to serving the transgender community at the California Polytechnic State University. The center offers Health, Counseling, and Wellbeing services, all tailored to meet the diverse health and mental wellness needs of the students including the transgender and non-binary community. The staff provides respectful, sensitive, and understanding care through various programs, services, and resources."
+    }
+  },
+  "slug": "cal-poly-campus-health-wellbeing",
+  "externalUrl": "http://www.hcs.calpoly.edu/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "1 Grand Ave, San Luis Obispo, CA 93407, USA",
+  "phoneNumber": "+1 805-756-1211",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "San Luis Obispo",
+  "latLng": [
+    35.3011322,
+    -120.6587483
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1248730941718057481"
+  },
+  "county": "San Luis Obispo County"
+}

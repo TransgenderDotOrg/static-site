@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Maine Family Planning",
+      "description": "Maine Family Planning provides affordable reproductive health care services for all Mainers, as well as primary care, help for new parents and families, and gender-affirming health services. Some services are available online."
+    }
+  },
+  "slug": "maine-family-planning-augusta",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "e9db9718-162c-410a-a60e-005511c5e005",
+  "externalUrl": "http://www.mainefamilyplanning.org/",
+  "address": "43 Gabriel Dr, Augusta, ME 04330, USA",
+  "phoneNumber": "+1 207-922-3222",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10230281795474295611"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "Kennebec County",
+  "city": "Augusta",
+  "latLng": [
+    44.3690595,
+    -69.7976153
+  ]
+}

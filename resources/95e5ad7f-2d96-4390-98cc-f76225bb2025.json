@@ -1,0 +1,32 @@
+{
+  "id": "95e5ad7f-2d96-4390-98cc-f76225bb2025",
+  "i18n": {
+    "en-US": {
+      "title": "VCU Endocrinology, Diabetes and Metabolism Clinic",
+      "description": "The Division of Endocrinology, Diabetes and Metabolism at Virginia Commonwealth University offers comprehensive care for patients with metabolic and hormonal disorders. They are acutely aware of the medical needs of the transgender community, offering hormone therapy as part of their endocrine services. Placing an emphasis on research and education keeps the clinic at the forefront of developing protocols in transgender healthcare. They strive to create an inclusive, supportive space for all of their patients."
+    }
+  },
+  "slug": "vcu-endocrinology-diabetes-metabolism-clinic",
+  "externalUrl": "https://intmed.vcu.edu/divisions/endocrinology/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "9000 Stony Point Pkwy, Richmond, VA 23235, USA",
+  "phoneNumber": "+1 804-560-8920",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Stony Point",
+  "latLng": [
+    37.55323569999999,
+    -77.5656274
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17610222236556592742"
+  }
+}

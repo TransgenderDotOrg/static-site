@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-el-cajon",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c25da775-6dcc-43b6-bbdc-6cc5dd81c550",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/el-cajon/92021/el-cajon-health-center-2329-90110?utm_campaign=el-cajon-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1685 E Main St STE 301, El Cajon, CA 92021, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4383691296925034608"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "El Cajon",
+  "latLng": [
+    32.81107470000001,
+    -116.9187535
+  ]
+}

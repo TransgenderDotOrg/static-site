@@ -1,0 +1,34 @@
+{
+  "id": "ef4d830b-256c-45f6-a53b-d2814c72aab2",
+  "i18n": {
+    "en-US": {
+      "title": "Glebe Family Medical Practice",
+      "description": "A holistic healthcare provider that offers a high standard of patient-centered medical care. They are committed to serving all communities, ensuring that everyone, including the transgender and non-binary individuals, receive the care they need. Their breadth of services includes preventive healthcare, antenatal care, family planning, mental health and counselling, among others."
+    }
+  },
+  "slug": "glebe-family-medical-practice",
+  "externalUrl": "http://gfmp.com.au/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "114 Glebe Point Rd, Glebe NSW 2037, Australia",
+  "phoneNumber": "(02) 9660 8399",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Glebe",
+  "latLng": [
+    -33.8817192,
+    151.1887309
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=426570989196539735"
+  },
+  "county": "City of Sydney"
+}

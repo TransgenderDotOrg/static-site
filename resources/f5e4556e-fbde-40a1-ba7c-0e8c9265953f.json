@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-greater-duwamish",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "f5e4556e-fbde-40a1-ba7c-0e8c9265953f",
+  "externalUrl": "http://www.neighborcare.org/contact-us",
+  "address": "1200 12th Ave S #901, Seattle, WA 98144, USA",
+  "phoneNumber": "+1 206-461-6935",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7884246465584702561"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Greater Duwamish",
+  "latLng": [
+    47.592896,
+    -122.3157758
+  ]
+}

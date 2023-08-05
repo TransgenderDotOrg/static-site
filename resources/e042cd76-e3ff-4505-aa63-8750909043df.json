@@ -1,0 +1,32 @@
+{
+  "id": "e042cd76-e3ff-4505-aa63-8750909043df",
+  "i18n": {
+    "en-US": {
+      "title": "Samaritan Family Medicine - Geary Street, Albany",
+      "description": "This inclusive and affirming family medicine clinic provided by Samaritan Health Services in Albany, Oregon, provides comprehensive healthcare services for the whole family, inclusive of the transgender community. The clinic offers behavioural health consultants, who can partner with patients to reach their health goals. Accessible services like a pharmacy, laboratory, X-ray services, and walk-in care are also available at the same location."
+    }
+  },
+  "slug": "samaritan-family-medicine-geary-street-albany",
+  "externalUrl": "https://www.samhealth.org/find-a-location/s/samaritan-family-medicine-geary-street",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1700 SE Geary St #200, Albany, OR 97322, USA",
+  "phoneNumber": "+1 541-812-5570",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Albany",
+  "latLng": [
+    44.6258998,
+    -123.0844496
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6163593617349623480"
+  },
+  "county": "Linn County"
+}

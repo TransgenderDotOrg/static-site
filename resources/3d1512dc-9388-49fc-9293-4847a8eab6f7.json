@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "APLA Health Services",
+      "description": "APLA Health provides an extensive range of services that cater to the LGBTQ+ and HIV/AIDS communities. They offer a plethora of aid ranging from primary care, sexual health services, HIV specialty care, and behavioral healthcare. Additionally, they offer transgender-specific health services, ensuring tailored care to the transgender community. Their services also extend to insurance enrollment, vaccination information, and Housing support. Committed to inclusivity and equality, APLA Health strives to deliver comprehensive healthcare for all."
+    }
+  },
+  "slug": "apla-health-services-south-los-angeles",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "3d1512dc-9388-49fc-9293-4847a8eab6f7",
+  "externalUrl": "http://www.aplahealth.org/",
+  "address": "Gleicher / Chen Health Center, 3743 S La Brea Ave, Los Angeles, CA 90016, USA",
+  "phoneNumber": "+1 323-329-9900",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14508613773664398805"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "South Los Angeles",
+  "latLng": [
+    34.0187271,
+    -118.3563291
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d27d1a1d-171c-4a26-a681-798a320ce774",
+  "i18n": {
+    "en-US": {
+      "title": "Edward M. Kennedy Community Health Center",
+      "description": "Kennedy Community Health is a compassionate healthcare provider, serving over 90 communities across Central and MetroWest Massachusetts, without discrimination based on ability to pay. The center champions inclusivity, providing accessible and high quality care to all, with a unique focus on Gender Affirming Care, catering to the specific medical and social needs of the transgender community."
+    }
+  },
+  "slug": "edward-m-kennedy-community-health-center",
+  "externalUrl": "https://www.kennedychc.org/",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "19 Tacoma St, Worcester, MA 01605, USA",
+  "phoneNumber": "+1 508-852-1805",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Booth Apartments Area",
+  "county": "Worcester County",
+  "latLng": [
+    42.3022299,
+    -71.76606110000002
+  ],
+  "email": null,
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=49815835319049176"
+  }
+}

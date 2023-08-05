@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-mishawaka",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b00c99f0-5fa9-4d20-82ea-c2176e6adbe2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/mishawaka/46545/mishawaka-health-center-2758-91810?utm_campaign=mishawaka-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3005 Grape Rd b, Mishawaka, IN 46545, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6055310452231187461"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "St Joseph County",
+  "city": "Mishawaka",
+  "latLng": [
+    41.687719,
+    -86.18749269999999
+  ]
+}

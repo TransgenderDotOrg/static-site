@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1adc4af8-f92b-4d36-830c-bec15a76cf5e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/ottawa/61350/ottawa-health-center-2631-90430?utm_campaign=ottawa-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "612 Court St, Ottawa, IL 61350, USA",
+  "phoneNumber": "+1 815-433-4111",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2786430343893787897"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Lasalle County",
+  "city": "Downtown",
+  "latLng": [
+    41.3462337,
+    -88.8417911
+  ]
+}

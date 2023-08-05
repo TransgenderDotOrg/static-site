@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-santa-barbara",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "22bf61c0-f853-4122-b595-f1584670697c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/santa-barbara/93101/santa-barbara-health-center-3268-90170?utm_campaign=santa-barbara-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "518 Garden St, Santa Barbara, CA 93101, USA",
+  "phoneNumber": "+1 888-898-3806",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4317498408511149100"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Santa Barbara County",
+  "city": "Santa Barbara",
+  "latLng": [
+    34.4210022,
+    -119.6923336
+  ]
+}

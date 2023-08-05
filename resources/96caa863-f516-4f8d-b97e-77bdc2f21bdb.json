@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "es-MX": {
+      "title": "Centro Ararat",
+      "description": "Centro Ararat ofrece una variedad de servicios de salud sexual, incluyendo pruebas de VIH y consulta PrEP. Nos esforzamos por crear un espacio segura y acogedora para la comunidad transgénero."
+    },
+    "en-US": {
+      "title": "Ararat Center",
+      "description": "Ararat Center provides a variety of sexual health services, including rapid HIV testing and PrEP consultation. We strive to create a safe and welcoming space for the transgender community."
+    }
+  },
+  "slug": "ararat-center-ponce",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "96caa863-f516-4f8d-b97e-77bdc2f21bdb",
+  "externalUrl": "https://centroararat.org/",
+  "address": "295P+H7J, Calle Concordia, Ponce, 00717, Puerto Rico",
+  "phoneNumber": "+1 787-284-5884",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2949160497522237875"
+  },
+  "country": "PR",
+  "provinceOrState": "Ponce",
+  "county": "Primero",
+  "city": "Ponce",
+  "town": "Segundo, Ponce, Puerto Rico",
+  "latLng": [
+    18.0089516,
+    -66.61437339999999
+  ]
+}

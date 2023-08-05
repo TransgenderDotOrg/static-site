@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Cedar River Clinics",
+      "description": "Cedar River Clinics provide quality health care in a safe, culturally responsive environment. They offer wellness services, free pregnancy tests, sexually transmitted infections services, insemination services, LGBTQ services, no-scalpel vasectomy, and abortion services, among others. They particularly leverage the informed consent approach for transgender and non-binary care."
+    }
+  },
+  "slug": "cedar-river-clinics-new-tacoma",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "8b02d66b-c401-4f17-8f86-919e6e0e9c60",
+  "externalUrl": "http://www.cedarriverclinics.org/",
+  "address": "1401 M.L.K. Jr Way a, Tacoma, WA 98405, USA",
+  "phoneNumber": "+1 253-473-6031",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=520397067570527289"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Pierce County",
+  "city": "New Tacoma",
+  "latLng": [
+    47.2487631,
+    -122.4506685
+  ]
+}

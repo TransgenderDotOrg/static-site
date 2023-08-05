@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-tallahassee",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8c428163-b970-40f8-ad1e-31c3f7874568",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/tallahassee/32304/tallahassee-health-center-2154-90320?utm_campaign=tallahassee-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2618 W Tennessee St, Tallahassee, FL 32304, USA",
+  "phoneNumber": "+1 850-574-7455",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3420387700931268259"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Leon County",
+  "city": "Tallahassee",
+  "latLng": [
+    30.4520914,
+    -84.3346076
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8d09109b-9753-45a0-9f76-484191ac4faf",
+  "i18n": {
+    "en-US": {
+      "title": "Jiyugaoka MC Clinic - Specialist Specialty GID Association Certified",
+      "description": "Jiyugaoka MC Clinic provides a wide range of medical treatment related to gender dysphoria, transgender care, and diagnosis of gender identity disorder. The clinic offers counselling, hormone therapy, and gender-related surgeries under the supervision of a Gender Identity Disorder (GID) Association Certified doctor. They treat patients with respect and are dedicated to providing support and assistance in dealing with various aspects of the condition."
+    },
+    "ja-JP": {
+      "title": "自由が丘MCクリニック - GID学会認定医",
+      "description": "自由が丘MCクリニックでは、性別違和、トランスジェンダー診療、性同一性障害（GID）の診断に関する幅広い医療を提供しています。ジェンダー関連の手術、ホルモン治療、カウンセリングをGID学会認定医の下で提供しています。当クリニックでは、さまざまな問題に対する支援と協力を提供し、患者の尊厳を守りながら治療に取り組んでいます。"
+    }
+  },
+  "slug": "jiyugaoka-mc-clinic-specialist-specialty-gid-association-certified",
+  "externalUrl": "https://www.gid-mcclinic.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Japan, 〒152-0035 Tokyo, Meguro City, Jiyūgaoka, 1-chōme−3−１７ グランデ自由が丘",
+  "phoneNumber": "+81 3-3717-3514",
+  "country": "JP",
+  "provinceOrState": "Tokyo",
+  "city": "Meguro City",
+  "latLng": [
+    35.6089489,
+    139.6709796
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3775911189499006231"
+  },
+  "town": "3"
+}

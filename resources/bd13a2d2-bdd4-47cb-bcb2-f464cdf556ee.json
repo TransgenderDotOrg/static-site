@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lexington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "bd13a2d2-bdd4-47cb-bcb2-f464cdf556ee",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/kentucky/lexington/40503/lexington-health-center-3291-91810?utm_campaign=lexington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "268 Southland Dr # 120, Lexington, KY 40503, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2990950168381830545"
+  },
+  "country": "US",
+  "provinceOrState": "KY",
+  "county": "Fayette County",
+  "city": "Lexington",
+  "latLng": [
+    38.0142591,
+    -84.52257259999999
+  ]
+}

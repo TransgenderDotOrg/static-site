@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "OHSU Primary Care Clinic",
+      "description": "This OHSU clinic is dedicated to serve the people in the community including the transgender individuals. It offers services like gender-affirming primary care, alongside general and specialized health care services like adult care, pediatric care, women’s health care, pregnancy care, geriatric care, behavioral health, and wellness. The clinic emphasizes on respecting each patient’s beliefs, values, cultural needs, and providing personalized care plans that makes sense for you and your family."
+    }
+  },
+  "slug": "ohsu-primary-care-clinic-scappoose",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "b421fb15-d766-4959-9403-37a62001e462",
+  "externalUrl": "https://www.ohsu.edu/primary-care/ohsu-primary-care-clinic-scappoose?utm_source=gmb&utm_medium=organic&utm_content=142146bd-d938-5950-96af-e53c08d5c790",
+  "address": "Scappoose, OR 97056, USA",
+  "phoneNumber": "+1 503-418-4222",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7532139282236063731"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Columbia County",
+  "city": "Scappoose",
+  "latLng": [
+    45.7577015,
+    -122.8780677
+  ]
+}

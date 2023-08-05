@@ -1,0 +1,33 @@
+{
+  "id": "585b0cc2-f567-4266-b712-64c8b7831131",
+  "i18n": {
+    "en-US": {
+      "title": "Bridgercare: Reproductive and Sexual Healthcare in Montana",
+      "description": "Bridgercare, located in Bozeman, Montana, is an inclusive, professional healthcare provider, offering affordable sexual and reproductive healthcare services. With a key focus on the LGBTQ+ community, they provide a safe, supportive, and empowering environment for transgender, non-binary, and LGBTQ+ individuals. They also provide education programs and resources for anti-racism, LGBTQ+ allies training, and patient services on a sliding fee scale. Their commitment to cultural competence and inclusivity, life-empowering services, and respect for patient confidentiality make them a trustworthy choice for transgender community healthcare."
+    }
+  },
+  "slug": "bridgercare-reproductive-sexual-healthcare-montana",
+  "externalUrl": "http://www.bridgercare.org/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1288 N 14th Ave #201, Bozeman, MT 59715, USA",
+  "phoneNumber": "+1 406-587-0681",
+  "country": "US",
+  "provinceOrState": "MT",
+  "city": "Bozeman",
+  "latLng": [
+    45.6926832,
+    -111.0546589
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17024288487846041328"
+  },
+  "county": "Gallatin County"
+}

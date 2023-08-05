@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-soldotna",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "49a3dfe1-78aa-4f33-95f8-7aa2fa8a99e6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/alaska/soldotna/99669/soldotna-health-center-2604-91810?utm_campaign=soldotna-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "130 E Redoubt Ave, Soldotna, AK 99669, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17383591865842952357"
+  },
+  "country": "US",
+  "provinceOrState": "AK",
+  "county": "Kenai Peninsula Borough",
+  "city": "Soldotna",
+  "latLng": [
+    60.4879774,
+    -151.07007
+  ]
+}

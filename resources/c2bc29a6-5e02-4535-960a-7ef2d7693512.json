@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-cherry",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c2bc29a6-5e02-4535-960a-7ef2d7693512",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/charlotte/28204/charlotte-health-center-2703-90860?utm_campaign=charlotte-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "700 S Torrence St, Charlotte, NC 28204, USA",
+  "phoneNumber": "+1 704-536-7233",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4787167589190040814"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Mecklenburg County",
+  "city": "Cherry",
+  "latLng": [
+    35.2088222,
+    -80.83514749999999
+  ]
+}

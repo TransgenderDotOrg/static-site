@@ -1,0 +1,33 @@
+{
+  "id": "3511bb4d-f195-4ede-a3f5-3d83b477d9c0",
+  "i18n": {
+    "en-US": {
+      "title": "Primary Care Clinic at 1601 4th Ave S",
+      "description": "A local clinic providing healthcare services, including primary care and pediatric support. Highly regarded for its inclusivity and understanding towards the transgender community, tailoring its services to their specific needs."
+    }
+  },
+  "slug": "primary-care-clinic-at-1601-4th-ave-s",
+  "externalUrl": "https://maps.google.com/?q=1601+4th+Ave+S,+Birmingham,+AL+35233&ftid=0x88891bec633646e9:0xadbf11e2a9536952",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "1601 4th Ave S, Birmingham, AL 35294, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "AL",
+  "city": "Five Points South",
+  "county": "Jefferson County",
+  "latLng": [
+    33.5065228,
+    -86.8068416
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=1601+4th+Ave+S,+Birmingham,+AL+35233&ftid=0x88891bec633646e9:0xadbf11e2a9536952"
+  }
+}

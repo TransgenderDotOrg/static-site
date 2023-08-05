@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-pembroke-pines",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "72b98970-486b-4386-a8b2-68455653617c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/pembroke-pines/33024/pembroke-pines-health-center-3917-90320?utm_campaign=pembroke-pines-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "263 N University Dr, Pembroke Pines, FL 33024, USA",
+  "phoneNumber": "+1 954-989-5747",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2496127323620379172"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Broward County",
+  "city": "Pembroke Pines",
+  "latLng": [
+    26.0115416,
+    -80.24713899999999
+  ]
+}

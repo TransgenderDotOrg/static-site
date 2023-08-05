@@ -1,0 +1,38 @@
+{
+  "id": "8d6f519b-7d0d-434b-961b-31b566981cf1",
+  "i18n": {
+    "en-US": {
+      "title": "Canopy Medical Clinic",
+      "description": "Canopy Medical Clinic, located in Fargo, ND, offers compassionate, confidential, and customized reproductive and sexual health care services. The clinic is committed to providing the most radically inclusive, gender-affirming, and sex-positive care possible. The team is adept at catering to the health needs of the LBGTQIA+ community and offers specialized transgender care. They also partner with the Ryan White federal program for mental health and support group therapy programs, ensuring comprehensive care and support."
+    }
+  },
+  "slug": "canopy-medical-clinic",
+  "externalUrl": "http://www.canopymedicalclinic.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1411 32nd St S Suite #1, Fargo, ND 58103, USA",
+  "phoneNumber": "+1 701-264-5200",
+  "country": "US",
+  "provinceOrState": "ND",
+  "city": "Westgate",
+  "latLng": [
+    46.8588548,
+    -96.830669
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7164928527087473851"
+  },
+  "county": "Cass County"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "224c0ce6-aa57-4772-8af7-f81037b4c133",
+  "i18n": {
+    "en-US": {
+      "title": "Klamath Health Partnership - Inclusive Healthcare",
+      "description": "Klamath Health Partnership is an inclusive healthcare provider that offers a variety of services to all patients, regardless of their ability to pay. We understand the unique healthcare needs of the transgender community, including transmasculine, transfeminine, and non-binary individuals. We strive to provide culturally sensitive, accessible, and high-quality healthcare services tailored to each patient's individual needs."
+    },
+    "es-ES": {
+      "title": "Klamath Health Partnership - Atención médica inclusiva",
+      "description": "Klamath Health Partnership es un proveedor de atención médica inclusiva que ofrece una variedad de servicios a todos los pacientes, independientemente de su capacidad de pago. Entendemos las necesidades de atención médica únicas de la comunidad transgénero, incluyendo personas transmasculinas, transfemeninas y no binarias. Nos esforzamos por brindar servicios de atención médica culturalmente sensibles, accesibles y de alta calidad personalizados a las necesidades individuales de cada paciente."
+    }
+  },
+  "slug": "klamath-health-partnership-inclusive-healthcare",
+  "externalUrl": "https://klamathopendoor.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2074 S 6th St, Klamath Falls, OR 97601, USA",
+  "phoneNumber": "+1 541-851-8110",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Klamath Falls",
+  "latLng": [
+    42.2152767,
+    -121.7656186
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14555968403605962485"
+  },
+  "county": "Klamath County"
+}

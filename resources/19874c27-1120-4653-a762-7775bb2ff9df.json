@@ -1,0 +1,36 @@
+{
+  "id": "19874c27-1120-4653-a762-7775bb2ff9df",
+  "i18n": {
+    "en-US": {
+      "title": "Fulcrum Health & Wellness",
+      "description": "Ensuring that healthcare is available to everyone, Fulcrum Health & Wellness offers a range of specialized services focusing on the health needs of the transgender community. They provide Hormone Replacement Therapy for transmasculine, transfeminine and non-binary persons and have a dedicated wellness center curated while keeping LGBTQ+ needs in mind."
+    }
+  },
+  "slug": "fulcrum-health-wellness",
+  "externalUrl": "https://fulcrum-clinic.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1601 SW 89th St d 100, Oklahoma City, OK 73159, USA",
+  "phoneNumber": "+1 405-546-7888",
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "South Oklahoma City",
+  "county": "Oklahoma County",
+  "latLng": [
+    35.3775178,
+    -97.54681869999999
+  ],
+  "email": "FulcrumClinicLLC@gmail.com",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/FulcrumClinic/",
+    "googleMapsUrl": "https://maps.google.com/?cid=754895566733659397"
+  }
+}

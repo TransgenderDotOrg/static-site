@@ -1,0 +1,36 @@
+{
+  "id": "56871b7d-79e9-4429-872e-b3b085a4d8a2",
+  "i18n": {
+    "en-US": {
+      "title": "Hennepin Healthcare Clinic & Specialty Center",
+      "description": "The Hennepin Healthcare Clinic & Specialty Center is a full service healthcare destination serving the transgender community among other diverse groups. Located in the heart of Minneapolis, the center prides in providing comprehensive primary care and specialty health services all under one roof. Their specialized care includes departments focused on Gender & Sexual Health, providing compassionate and expert care in these particular areas. The center's all-encompassing approach ensures that patients receive tailored care by providers who collaborate with other specialists within the facility, thereby enhancing medical outcomes."
+    }
+  },
+  "slug": "hennepin-healthcare-clinic-specialty-center",
+  "externalUrl": "https://www.hennepinhealthcare.org/clinic/clinic-and-specialty-center/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "715 S 8th St, Minneapolis, MN 55404, USA",
+  "phoneNumber": "+1 612-873-6963",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Central Minneapolis",
+  "latLng": [
+    44.9711612,
+    -93.2632212
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13061424256479301005"
+  },
+  "county": "Hennepin County"
+}

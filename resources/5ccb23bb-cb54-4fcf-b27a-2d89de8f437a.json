@@ -1,0 +1,35 @@
+{
+  "id": "5ccb23bb-cb54-4fcf-b27a-2d89de8f437a",
+  "i18n": {
+    "en-US": {
+      "title": "Phoenix Allies for Community Health",
+      "description": "Phoenix Allies for Community Health (PACH) is a nonprofit, volunteer-run clinic dedicated to providing dignified, quality care to medically marginalized people, including the transgender community. With a blend of holistic traditions and modern biomedicine, we provide much-needed primary healthcare for those with minimal access. Our services range from acupuncture to dietary education, wellness checks to prescriptions. "
+    }
+  },
+  "slug": "phoenix-allies-for-community-health",
+  "externalUrl": "http://www.azpach.org/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2902 W Clarendon Ave, Phoenix, AZ 85017, USA",
+  "phoneNumber": "+1 623-455-6470",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Alhambra",
+  "latLng": [
+    33.4927473,
+    -112.1215754
+  ],
+  "email": "contact@azpach.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16473971201568408578"
+  },
+  "county": "Maricopa County"
+}

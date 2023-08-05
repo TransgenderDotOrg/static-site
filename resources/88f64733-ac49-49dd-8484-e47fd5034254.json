@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-asheville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "88f64733-ac49-49dd-8484-e47fd5034254",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/asheville/28801/asheville-health-center-4134-90860?utm_campaign=asheville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "68 McDowell St, Asheville, NC 28801, USA",
+  "phoneNumber": "+1 828-252-7928",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11749639742675153170"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Buncombe County",
+  "city": "Asheville",
+  "latLng": [
+    35.5821781,
+    -82.5538794
+  ]
+}

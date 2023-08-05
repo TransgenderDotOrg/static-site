@@ -1,0 +1,33 @@
+{
+  "id": "0340037a-7602-4695-9ea4-5d308d1a3aa2",
+  "i18n": {
+    "en-US": {
+      "title": "Wise Patient Internal Medicine - Transgender Care in Seattle",
+      "description": "Wise Patient Internal Medicine in Seattle, WA offers comprehensive and personalized primary care services that cater to the unique healthcare needs of the transgender community. They pride themselves on their deeply personalized approach, providing excellent care in an unhurried environment. They have diverse providers in their team who can expertly attend to various medical concerns from simple to complex. This office values inclusivity and comfort, becoming not just a healthcare provider, but a partner and ally in each transgender individual's journey."
+    }
+  },
+  "slug": "wise-patient-internal-medicine-seattle",
+  "externalUrl": "http://imwisepatient.com/",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "613 19th Ave E #201, Seattle, WA 98112, USA",
+  "phoneNumber": "+1 206-466-5937",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Miller Park",
+  "latLng": [
+    47.6247967,
+    -122.3076385
+  ],
+  "email": "information@wisepatientim.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12218436112482752236"
+  },
+  "county": "King County"
+}

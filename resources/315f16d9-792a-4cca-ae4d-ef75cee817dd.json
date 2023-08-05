@@ -1,0 +1,31 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "MetroHealth System in Cleveland",
+      "description": "MetroHealth is a comprehensive healthcare provider offering various services including behavioral health, cancer treatment, obstetrics & gynecology, pharmacy programs, and a rehabilitation institute. Its commitment to inclusion, diversity, and racial equity is evident through its initiatives and resources. The healthcare provider offers a supportive and safe environment for the transgender community with resources tailored to their necessities and wellbeing."
+    }
+  },
+  "slug": "metrohealth-system-in-cleveland-rocky-river",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "315f16d9-792a-4cca-ae4d-ef75cee817dd",
+  "externalUrl": "https://www.metrohealth.org/locations/rocky-river",
+  "address": "20575 Center Ridge Rd #500, Rocky River, OH 44116, USA",
+  "phoneNumber": "+1 216-957-3200",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4367299795790906869"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Cuyahoga County",
+  "city": "Rocky River",
+  "latLng": [
+    41.4627849,
+    -81.8481848
+  ]
+}

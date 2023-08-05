@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Legacy Community Health",
+      "description": "Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay."
+    }
+  },
+  "slug": "legacy-community-health-oaks-historic-district",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "non-binary",
+    "transfeminine",
+    "transmasculine",
+    "education-awareness",
+    "youth-services"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "e09d869c-40ac-4ead-956a-be2d6fee93fb",
+  "externalUrl": "http://www.legacycommunityhealth.org/",
+  "address": "450 N 11th St, Beaumont, TX 77702, USA",
+  "phoneNumber": "+1 409-242-2577",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13793280453992827286"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Jefferson County",
+  "city": "Oaks Historic District",
+  "latLng": [
+    30.0850398,
+    -94.1294277
+  ]
+}

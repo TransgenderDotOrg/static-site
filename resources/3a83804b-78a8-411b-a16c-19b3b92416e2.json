@@ -1,0 +1,33 @@
+{
+  "id": "3a83804b-78a8-411b-a16c-19b3b92416e2",
+  "i18n": {
+    "en-US": {
+      "title": "Lake County Health Department & Community Health Center - WIC",
+      "description": "The Lake County Health Department & Community Health Center offers the Women, Infants, and Children (WIC) Program. Beyond providing potentially life-saving education and services to pregnant, breastfeeding, or postpartum women, infants, and children, they offer medical care referrals and nutrition education. Their aim is to foster a welcoming and inclusive environment for the transgender community."
+    }
+  },
+  "slug": "lake-county-health-department-community-health-center-wic",
+  "externalUrl": "https://www.lakecountyil.gov/2049/Women-Infants-Children-WIC",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2400 Belvidere Rd, Waukegan, IL 60085, USA",
+  "phoneNumber": "+1 847-377-8420",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Waukegan",
+  "county": "Lake County",
+  "latLng": [
+    42.3516556,
+    -87.8624562
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=40827350956446808"
+  }
+}

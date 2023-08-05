@@ -1,0 +1,33 @@
+{
+  "id": "0d001880-1663-4e9b-bbba-6920c95b02b8",
+  "i18n": {
+    "en-US": {
+      "title": "Healthcare Office at 3640 Middlebury Rd, Iowa City",
+      "description": "This informed consent clinic is a local office located at 3640 Middlebury Rd, Iowa City, IA. It provides valuable healthcare services for the transgender community, prioritizing patient autonomy and informed decision-making. The services include access to hormone replacement therapy (HRT), mental health support, and general healthcare services."
+    }
+  },
+  "slug": "healthcare-office-at-3640-middlebury-rd-iowa-city",
+  "externalUrl": "https://maps.google.com/?q=3640+Middlebury+Rd,+Iowa+City,+IA+52245&ftid=0x87e46bd4ba525ed1:0xabd6939c5f14e99a",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3640 Middlebury Rd, Iowa City, IA 52245, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "IA",
+  "city": "Longfellow",
+  "county": "Johnson County",
+  "latLng": [
+    41.6677671,
+    -91.4815993
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=3640+Middlebury+Rd,+Iowa+City,+IA+52245&ftid=0x87e46bd4ba525ed1:0xabd6939c5f14e99a"
+  }
+}

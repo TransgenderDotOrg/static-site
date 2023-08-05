@@ -1,0 +1,34 @@
+{
+  "id": "0883b086-47a7-4e54-a67a-44241f054cae",
+  "i18n": {
+    "en-US": {
+      "title": "AvitaCare Atlanta - Comprehensive Healthcare",
+      "description": "AvitaCare Atlanta is not just a healthcare clinic but a comprehensive health care center. We provide primary care, STI/HIV/HCV care, confidential labs and testing services. We also offer gender-affirming care including Hormone Replacement Therapy, surgical referrals, behavioral health, and self-injection training. We create an inclusive environment for transgender and gender-nonconforming patients, allowing them to be unapologetically themselves. We aim to provide quality care including an on-site pharmacy."
+    }
+  },
+  "slug": "avitacare-atlanta-comprehensive-healthcare",
+  "externalUrl": "https://avitacareatlanta.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Northwest, 2140 Peachtree Dunwoody Rd #232, Atlanta, GA 30309, USA",
+  "phoneNumber": "+1 404-231-4431",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Buckhead",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6003367036931111517"
+  },
+  "county": "Fulton County",
+  "latLng": [
+    33.8127588,
+    -84.3936117
+  ]
+}

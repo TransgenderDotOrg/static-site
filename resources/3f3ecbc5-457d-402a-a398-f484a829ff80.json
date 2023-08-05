@@ -1,0 +1,33 @@
+{
+  "id": "3f3ecbc5-457d-402a-a398-f484a829ff80",
+  "i18n": {
+    "en-US": {
+      "title": "Colorado Coalition for the Homeless Health Services",
+      "description": "A comprehensive healthcare center providing various health services to individuals and families who are experiencing homelessness or are at risk of becoming homeless. Special attention is given to the transgender community, ensuring they have access to quality healthcare in a safe and welcoming environment. Services include primary care, behavioral health care, mental health care, and substance use treatment among others."
+    }
+  },
+  "slug": "colorado-coalition-for-the-homeless-health-services",
+  "externalUrl": "https://www.coloradocoalition.org/health-services",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2130 Stout St, Denver, CO 80205, USA",
+  "phoneNumber": "+1 303-293-2220",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Five Points",
+  "latLng": [
+    39.7510297,
+    -104.9858915
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11127361747886976685"
+  },
+  "county": "Denver County"
+}

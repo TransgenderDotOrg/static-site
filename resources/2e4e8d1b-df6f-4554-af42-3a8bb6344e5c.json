@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bennington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2e4e8d1b-df6f-4554-af42-3a8bb6344e5c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/bennington/05201/bennington-health-center-2655-91770?utm_campaign=bennington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "210 South St #4, Bennington, VT 05201, USA",
+  "phoneNumber": "+1 800-230-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9803074230905764768"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Bennington County",
+  "city": "Bennington",
+  "latLng": [
+    42.8769231,
+    -73.19669660000001
+  ]
+}

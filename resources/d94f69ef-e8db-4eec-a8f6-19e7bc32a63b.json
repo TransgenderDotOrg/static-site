@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northwest-side",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d94f69ef-e8db-4eec-a8f6-19e7bc32a63b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/san-antonio/78229/planned-parenthood-south-texas-medical-center-2967-91710?utm_campaign=planned-parenthood-south-texas-medical-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2140 Babcock Rd, San Antonio, TX 78229, USA",
+  "phoneNumber": "+1 210-736-2262",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17933716797256579810"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Bexar County",
+  "city": "Northwest Side",
+  "latLng": [
+    29.5025976,
+    -98.58237849999999
+  ]
+}

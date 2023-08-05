@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-joplin",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c552b20b-82c7-4d53-bb6f-e5be5c0b5d82",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/joplin/64801/joplin-health-center-2429-90770?utm_campaign=joplin-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "710 S Illinois Ave, Joplin, MO 64801, USA",
+  "phoneNumber": "+1 417-781-6500",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12145878923560930531"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "Jasper County",
+  "city": "Joplin",
+  "latLng": [
+    37.083293,
+    -94.5028713
+  ]
+}

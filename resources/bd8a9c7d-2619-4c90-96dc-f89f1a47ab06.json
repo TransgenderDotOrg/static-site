@@ -1,0 +1,35 @@
+{
+  "id": "bd8a9c7d-2619-4c90-96dc-f89f1a47ab06",
+  "i18n": {
+    "en-US": {
+      "title": "Graves Gilbert Clinic",
+      "description": "Graves Gilbert Clinic is a multi-specialty healthcare provider with over 200 professionals offering a wide range of medical services. It actively strives to provide sensitive, compassionate care with respect to the total well being of individuals, including those from transgender communities. The clinic has specialized services to assist transgender, transfeminine, transmasculine, and non-binary individuals in a welcoming and supportive environment."
+    }
+  },
+  "slug": "graves-gilbert-clinic",
+  "externalUrl": "http://gravesgilbert.com/",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "201 Park St, Bowling Green, KY 42101, USA",
+  "phoneNumber": "+1 270-781-5111",
+  "country": "US",
+  "provinceOrState": "KY",
+  "city": "Bowling Green",
+  "latLng": [
+    36.9968113,
+    -86.43020279999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7036793382663146193"
+  },
+  "county": "Warren County"
+}

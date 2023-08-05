@@ -1,0 +1,35 @@
+{
+  "id": "5cdd5959-2f8b-4646-8763-3d431fc8046b",
+  "i18n": {
+    "en-US": {
+      "title": "Cincinnati Children's Hospital Medical Center",
+      "description": "Cincinnati Children's Hospital Medical Center provides inclusive and specialized medical care to all children including those in the transgender community. With an array of services ranging from primary care appointments to specialized surgeries, our trained professionals are committed to providing a compassionate and understanding environment. A variety of additional resources including clinical trials, support groups, spiritual guidance, emotional support are also offered. We're passionate about rewriting rule books for new standard care that is inclusive and considers the unique needs of the transgender community to ensure they receive the care they deserve."
+    }
+  },
+  "slug": "cincinnati-childrens-hospital-medical-center",
+  "externalUrl": "https://www.cincinnatichildrens.org/?utm_source=local&utm_medium=organic&utm_campaign=profile_listing&utm_content=website",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "mental-health",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3333 Burnet Ave, Cincinnati, OH 45229, USA",
+  "phoneNumber": "+1 513-636-4200",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Cincinnati",
+  "latLng": [
+    39.1403453,
+    -84.5017598
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17932816617407039346"
+  },
+  "county": "Hamilton County"
+}

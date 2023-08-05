@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Maine Family Planning",
+      "description": "Maine Family Planning provides affordable reproductive health care services for all Mainers, as well as primary care, help for new parents and families, and gender-affirming health services. Some services are available online."
+    }
+  },
+  "slug": "maine-family-planning-thomaston",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "fa80b338-dd9b-494d-891e-913cc1131d2b",
+  "externalUrl": "https://mainefamilyplanning.org/",
+  "address": "41 Buttermilk Dr, Thomaston, ME 04861, USA",
+  "phoneNumber": "+1 207-922-3222",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3428657200946855041"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "Knox County",
+  "city": "Thomaston",
+  "latLng": [
+    44.088396,
+    -69.1460034
+  ]
+}

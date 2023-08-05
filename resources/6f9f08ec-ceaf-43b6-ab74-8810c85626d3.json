@@ -1,0 +1,32 @@
+{
+  "id": "6f9f08ec-ceaf-43b6-ab74-8810c85626d3",
+  "i18n": {
+    "en-US": {
+      "title": "Mayo Clinic in Rochester, Minnesota",
+      "description": "This medical clinic provides a range of health services including cardiovascular care, oncology, and urology among others. It is an inclusive health facility that caters to the needs of the transgender community by providing a comprehensive and compassionate care environment."
+    }
+  },
+  "slug": "mayo-clinic-in-rochester-minnesota",
+  "externalUrl": "http://www.mayoclinic.org/patient-visitor-guide/minnesota/campus-buildings-maps/mayo-gonda-buildings?mc_id=us&utm_source=yext&utm_medium=l&utm_content=feature&utm_campaign=mayoclinic&geo=national&placementsite=enterprise&invsrc=other&cauid=102372&y_source=1_MzkxODQ2OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "200 1st St SW, Rochester, MN 55905, USA",
+  "phoneNumber": "+1 507-284-2511",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Downtown",
+  "latLng": [
+    44.0222932,
+    -92.4673406
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3547276407308989332"
+  },
+  "county": "Olmsted County"
+}

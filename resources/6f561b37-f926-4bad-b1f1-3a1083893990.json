@@ -1,0 +1,37 @@
+{
+  "id": "6f561b37-f926-4bad-b1f1-3a1083893990",
+  "i18n": {
+    "en-US": {
+      "title": "Veterans Affairs Medical Center",
+      "description": "A local office that serves as an Informed Consent Clinic, the Veterans Affairs Medical Center diligently works to cater for the distinct needs of the Transgender community. This is achieved through the provision of specialized healthcare, legal services, and support groups aiming to create a safe and understanding environment for Transmasculine, Transfeminine and Non-binary individuals."
+    }
+  },
+  "slug": "veterans-affairs-medical-center",
+  "externalUrl": "https://maps.google.com/?q=Veterans+Affairs+Medical+Center&ftid=0x8620a5e12cc97d49:0xf74231ac0216289",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Veterans Affairs Medical Center, 1601 Perdido St, New Orleans, LA 70112, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Central Business District",
+  "county": "Orleans Parish",
+  "latLng": [
+    29.9543097,
+    -90.0798896
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Veterans+Affairs+Medical+Center&ftid=0x8620a5e12cc97d49:0xf74231ac0216289"
+  }
+}

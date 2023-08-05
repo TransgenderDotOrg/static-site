@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-ashland",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8fa00167-2bc5-4de5-8ca3-819efa7f59b4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/ashland/97520/ashland-health-center-2370-91380?utm_campaign=ashland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1532 Siskiyou Blvd, Ashland, OR 97520, USA",
+  "phoneNumber": "+1 541-344-9411",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16364831316330269225"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Jackson County",
+  "city": "Ashland",
+  "latLng": [
+    42.1834942,
+    -122.6883802
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Main Line Health",
+      "description": "Main Line Health offers various healthcare services with a compassionate approach to the transgender community. From specialized mental health to legal support services, our office provides inclusive healthcare tailored to meet the unique needs of transmasculine, transfeminine, and non-binary individuals. We believe in creating an environment that recognizes and respects the individuality of every patient."
+    }
+  },
+  "slug": "main-line-health-bryn-mawr",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "7159cc7c-3d68-4635-b75b-fa1e1eecb39f",
+  "externalUrl": "https://www.mainlinehealth.org/main-line-healthcare/our-practices/bryn-mawr-family-practice",
+  "address": "135 S Bryn Mawr Ave #200, Bryn Mawr, PA 19010, USA",
+  "phoneNumber": "+1 610-325-1390",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1400781106542514769"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Montgomery County",
+  "city": "Bryn Mawr",
+  "latLng": [
+    40.0184162,
+    -75.3200569
+  ]
+}

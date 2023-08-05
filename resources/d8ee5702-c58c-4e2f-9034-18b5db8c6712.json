@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Johns Hopkins Medicine",
+      "description": "Johns Hopkins Medicine, located in Portland, Maine, is a renowned healthcare provider. We have a diverse team of doctors, researchers, and care providers dedicated to improving health for all through excellence in patient care, research, education, and community service. We are committed to providing inclusive and respectful care for the transgender community and emphasize mental health support, community awareness, and healthcare tailored to individual needs."
+    }
+  },
+  "slug": "johns-hopkins-medicine-dunbar-broadway",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "d8ee5702-c58c-4e2f-9034-18b5db8c6712",
+  "externalUrl": "http://www.hopkinsmedicine.org/profiles/details/zackary-berger?utm_source=Google&utm_medium=Organic&utm_campaign=Yext&utm_content=FAD&utm_keyword=zberger1-1",
+  "address": "601 N Caroline St, Baltimore, MD 21287, USA",
+  "phoneNumber": "+1 410-955-0670",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12486387021447715163"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "city": "Dunbar Broadway",
+  "latLng": [
+    39.2969338,
+    -76.5951007
+  ]
+}

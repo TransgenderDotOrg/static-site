@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-winston-salem",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "15f4719b-08c7-4488-a13d-4cf996f45175",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/winston-salem/27103/winston-salem-health-center-2845-90860?utm_campaign=winston-salem-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3000 Maplewood Ave Ste. 112, Winston-Salem, NC 27103, USA",
+  "phoneNumber": "+1 336-768-2980",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11798646483766786394"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Forsyth County",
+  "city": "Winston-Salem",
+  "latLng": [
+    36.0798514,
+    -80.29306989999999
+  ]
+}

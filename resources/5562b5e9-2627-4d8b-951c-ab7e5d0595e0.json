@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lea-s-woods",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5562b5e9-2627-4d8b-951c-ab7e5d0595e0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/tennessee/memphis/38112/memphis-health-center-midtown-3348-91550?utm_campaign=memphis-health-center-midtown&utm_medium=organic&utm_source=local-listing",
+  "address": "2430 Poplar Ave #100, Memphis, TN 38112, USA",
+  "phoneNumber": "+1 866-711-1717",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9426761480269587274"
+  },
+  "country": "US",
+  "provinceOrState": "TN",
+  "county": "Shelby County",
+  "city": "Lea's Woods",
+  "latLng": [
+    35.1396823,
+    -89.9796679
+  ]
+}

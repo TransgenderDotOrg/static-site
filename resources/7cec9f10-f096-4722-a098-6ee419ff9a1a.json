@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-saratoga-springs",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7cec9f10-f096-4722-a098-6ee419ff9a1a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/saratoga-springs/12866/saratoga-springs-center-2776-91110?utm_campaign=saratoga-springs-center&utm_medium=organic&utm_source=local-listing",
+  "address": "236 Washington St, Saratoga Springs, NY 12866, USA",
+  "phoneNumber": "+1 518-584-0041",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5662265096420623675"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Saratoga County",
+  "city": "Saratoga Springs",
+  "latLng": [
+    43.0795896,
+    -73.8012566
+  ]
+}

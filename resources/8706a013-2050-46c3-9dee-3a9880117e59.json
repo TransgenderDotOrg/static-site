@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-el-centro",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8706a013-2050-46c3-9dee-3a9880117e59",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/el-centro/92243/imperial-valley-homan-center-4182-90110?utm_campaign=imperial-valley-homan-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1463 S 4th St, El Centro, CA 92243, USA",
+  "phoneNumber": "+1 760-594-9100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4571873326961566771"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Imperial County",
+  "city": "El Centro",
+  "latLng": [
+    32.78044310000001,
+    -115.5513161
+  ]
+}

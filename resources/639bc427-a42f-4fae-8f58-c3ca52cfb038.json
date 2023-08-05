@@ -1,0 +1,35 @@
+{
+  "id": "639bc427-a42f-4fae-8f58-c3ca52cfb038",
+  "i18n": {
+    "en-US": {
+      "title": "Amity Medical Group at 6010 E W.T. Harris Blvd, Charlotte",
+      "description": "Amity Medical Group, located at 6010 E W.T. Harris Blvd, Charlotte, serves as a medical clinic and pharmacy providing healthcare services tailored to the needs of the transgender community. The clinic ensures a welcoming and inclusive space for transgender individuals, including transmasculine, non-binary, and transfeminine, for their healthcare needs."
+    }
+  },
+  "slug": "amity-medical-group-charlotte",
+  "externalUrl": "https://maps.google.com/?q=6010+E+W.T.+Harris+Blvd,+Charlotte,+NC+28215&ftid=0x88541f384a1e8085:0x299829fd7874eeaa",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6010 E W.T. Harris Blvd, Charlotte, NC 28215, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Oak Forest",
+  "county": "Mecklenburg County",
+  "latLng": [
+    35.234714,
+    -80.7340443
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=6010+E+W.T.+Harris+Blvd,+Charlotte,+NC+28215&ftid=0x88541f384a1e8085:0x299829fd7874eeaa"
+  }
+}

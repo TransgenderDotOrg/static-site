@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-newark",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c3cd7596-da46-4dff-9053-9ebc5df5d73d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/delaware/newark/19711/newark-center-2895-90240?utm_campaign=newark-center&utm_medium=organic&utm_source=local-listing",
+  "address": "140 E Delaware Ave, Newark, DE 19711, USA",
+  "phoneNumber": "+1 302-731-7801",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13901772851747708007"
+  },
+  "country": "US",
+  "provinceOrState": "DE",
+  "county": "New Castle County",
+  "city": "Newark",
+  "latLng": [
+    39.6823334,
+    -75.74773309999999
+  ]
+}

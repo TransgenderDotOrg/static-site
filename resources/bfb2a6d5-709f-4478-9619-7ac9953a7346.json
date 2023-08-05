@@ -1,0 +1,35 @@
+{
+  "id": "bfb2a6d5-709f-4478-9619-7ac9953a7346",
+  "i18n": {
+    "en-US": {
+      "title": "Peach Clinics - Prahran",
+      "description": "Located at Prahran Victoria, Peach Clinics provides electrolysis hair removal services. The clinic aims to provide a comfortable and respectful environment, and is inclusive to individuals of all identities including the transgender community, ensuring accessible and dedicated care for transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "peach-clinics-prahran",
+  "externalUrl": "https://maps.google.com/?q=shop+1/161+Greville+St,+Prahran+VIC+3181,+Australia&ftid=0x6ad6682517bedd85:0xb8fab4ebcc25170e",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Shop 1/161 Greville St, Prahran VIC 3181, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "Prahran",
+  "county": "City of Stonnington",
+  "latLng": [
+    -37.8492714,
+    144.9921581
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=shop+1/161+Greville+St,+Prahran+VIC+3181,+Australia&ftid=0x6ad6682517bedd85:0xb8fab4ebcc25170e"
+  }
+}

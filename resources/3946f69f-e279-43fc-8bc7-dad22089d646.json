@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-gilroy",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "3946f69f-e279-43fc-8bc7-dad22089d646",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/gilroy/95020/gilroy-health-center-2433-90130?utm_campaign=gilroy-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "760 Renz Ln, Gilroy, CA 95020, USA",
+  "phoneNumber": "+1 408-847-1739",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12193703668388075629"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Santa Clara County",
+  "city": "Gilroy",
+  "latLng": [
+    37.0041241,
+    -121.5558656
+  ]
+}

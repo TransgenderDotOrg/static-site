@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-williston-north",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b00482cb-3f1b-48bc-8352-6a0c652d55de",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/williston/05495/williston-health-center-3317-91770?utm_campaign=williston-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "75 Talcott Rd STE 10, Williston, VT 05495, USA",
+  "phoneNumber": "+1 802-879-4800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1979553213795383571"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Chittenden County",
+  "city": "Williston North",
+  "latLng": [
+    44.447812,
+    -73.1046495
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northeast-washington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c1ecb9ca-7377-48e4-ab38-a9ebad212ce7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/district-of-columbia/washington/20002/carol-whitehill-moses-center-4221-90230?utm_campaign=carol-whitehill-moses-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1225 4th St NE, Washington, DC 20002, USA",
+  "phoneNumber": "+1 202-347-8512",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1368982084641347217"
+  },
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Northeast Washington",
+  "latLng": [
+    38.9063311,
+    -77.00021620000001
+  ]
+}

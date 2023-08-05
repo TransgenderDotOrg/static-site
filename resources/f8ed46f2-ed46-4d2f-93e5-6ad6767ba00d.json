@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-ukiah",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f8ed46f2-ed46-4d2f-93e5-6ad6767ba00d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/ukiah/95482/ukiah-health-center-4034-90200?utm_campaign=ukiah-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "242 Hospital Dr # A, Ukiah, CA 95482, USA",
+  "phoneNumber": "+1 707-462-4303",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6073189530391215401"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Mendocino County",
+  "city": "Ukiah",
+  "latLng": [
+    39.152534,
+    -123.203885
+  ]
+}

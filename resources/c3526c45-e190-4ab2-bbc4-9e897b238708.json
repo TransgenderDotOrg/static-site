@@ -1,0 +1,34 @@
+{
+  "id": "c3526c45-e190-4ab2-bbc4-9e897b238708",
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Support and Services in Florence, Northampton, MA",
+      "description": "A local office located in Florence, Northampton, Massachusetts that offers services specifically tailored to the needs of the transgender community. This office provides a safe and welcoming environment for those looking for support and resources. Please note that specific services may vary, it's recommended to reach out directly for further information."
+    }
+  },
+  "slug": "transgender-support-and-services-in-florence-northampton-ma",
+  "externalUrl": "https://maps.google.com/?q=Florence,+Northampton,+MA&ftid=0x89e6d7eb4251191d:0x21cb6aa79ddd1515",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Florence, Northampton, MA, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Florence",
+  "county": "Hampshire County",
+  "latLng": [
+    42.335505,
+    -72.6719853
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Florence,+Northampton,+MA&ftid=0x89e6d7eb4251191d:0x21cb6aa79ddd1515"
+  }
+}

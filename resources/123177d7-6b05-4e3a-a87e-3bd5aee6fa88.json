@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Thundermist Health Center",
+      "description": "Thundermist Health Centre is an inclusive healthcare provider with emphasis on superior care for the transgender community. Services offered include general medical care, dental care, behavioral health services, prenatal care, among others. They have a dedicated Trans Health Access team who work to provide a safe, comprehensive, affirming environment for transgender people. They provide hormone therapy using the informed consent model, transgender youth services and behavioral health services for transgender people and their families. All services are available irrespective of ability to pay."
+    }
+  },
+  "slug": "thundermist-health-center-west-warwick",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "123177d7-6b05-4e3a-a87e-3bd5aee6fa88",
+  "externalUrl": "http://www.thundermisthealth.org/",
+  "address": "186 Providence St, West Warwick, RI 02893, USA",
+  "phoneNumber": "+1 401-615-2800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2296938902836833123"
+  },
+  "country": "US",
+  "provinceOrState": "RI",
+  "county": "Kent County",
+  "city": "West Warwick",
+  "latLng": [
+    41.7148029,
+    -71.5149983
+  ]
+}

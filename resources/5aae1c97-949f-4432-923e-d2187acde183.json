@@ -1,0 +1,38 @@
+{
+  "id": "5aae1c97-949f-4432-923e-d2187acde183",
+  "i18n": {
+    "en-US": {
+      "title": "HealthNet - Comprehensive Healthcare Provider",
+      "description": "HealthNet is a comprehensive healthcare provider dedicated to offering high-quality, affordable healthcare to all individuals regardless of their ability to pay. They provide robust services for the transgender community including primary care, dental health, pediatrics, obstetrics, gynecology, senior care and behavioral health. HealthNet is passionate about creating a safe and inclusive environment for transmasculine, transfeminine and non-binary individuals ensuring they receive the care they need in a respectful and supportive setting."
+    }
+  },
+  "slug": "healthnet-comprehensive-healthcare-provider",
+  "externalUrl": "http://www.indyhealthnet.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1522 W Morris St, Indianapolis, IN 46221, USA",
+  "phoneNumber": "+1 317-957-2500",
+  "country": "US",
+  "provinceOrState": "IN",
+  "city": "West Indianapolis",
+  "county": "Marion County",
+  "latLng": [
+    39.751493,
+    -86.18813709999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17929682084388056405"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e4183822-5540-4210-8091-ae5f9d26d902",
+  "i18n": {
+    "en-US": {
+      "title": "UCHealth Integrated Transgender Program",
+      "description": "The Integrated Transgender Program by UCHealth offers comprehensive and specialized health care services to transgender and gender diverse adults. The program is tailored to help individuals achieve their unique health goals throughout their transition journey. Services include gender-affirming hormone therapy, primary and mental health care, sexual health screening, and surgical care. The program provides coordination with multiple providers in one visit, enhancing the convenience for patients. From initial evaluation to post-transition routine health maintenance, the program offers an inclusive and supportive care environment catering to the transgender community."
+    }
+  },
+  "slug": "uchealth-integrated-transgender-program",
+  "externalUrl": "https://www.uchealth.org/services/diabetes-endocrinology-care/uchealth-integrated-transgender-program/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1635 Aurora Ct, Aurora, CO 80045, USA",
+  "phoneNumber": "+1 720-848-2650",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Fitzsimons",
+  "latLng": [
+    39.7422394,
+    -104.8401144
+  ],
+  "email": "UCHITP@uchealth.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13903901157113661092"
+  },
+  "county": "Adams County"
+}

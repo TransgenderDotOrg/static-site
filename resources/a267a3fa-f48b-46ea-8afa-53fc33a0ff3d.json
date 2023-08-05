@@ -1,0 +1,34 @@
+{
+  "id": "a267a3fa-f48b-46ea-8afa-53fc33a0ff3d",
+  "i18n": {
+    "en-US": {
+      "title": "Youth Health Empowerment Project",
+      "description": "The Youth Health Empowerment Project is a community-focused health center offering a full range of healthcare services, including informed-consent clinic services. This organization is dedicated to serving the transgender community, providing friendly and empowering services that prioritize patient dignity and respect. Both staff and healthcare professionals are competent and sensitive in dealing with gender-related health issues."
+    }
+  },
+  "slug": "youth-health-empowerment-project",
+  "externalUrl": "https://maps.google.com/?cid=911672352646155432",
+  "tags": [
+    "healthcare",
+    "youth-services",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1207 Chestnut St 5th floor, Philadelphia, PA 19107, USA",
+  "phoneNumber": "+12153441632",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Center City East",
+  "county": "Philadelphia County",
+  "latLng": [
+    39.9506411,
+    -75.1604981
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=911672352646155432"
+  }
+}

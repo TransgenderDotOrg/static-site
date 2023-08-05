@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-newport",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "30829ac4-6c8b-42b9-943e-154aa29ac7f0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center?utm_campaign=closed&utm_medium=referral&utm_source=yext",
+  "address": "79 Coventry St, Newport, VT 05855, USA",
+  "phoneNumber": "+1 800-230-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5829694169615482005"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Orleans County",
+  "city": "Newport",
+  "latLng": [
+    44.9351282,
+    -72.2070085
+  ]
+}

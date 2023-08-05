@@ -1,0 +1,34 @@
+{
+  "id": "d4d60e5a-bf08-449a-afca-cc35d06e752b",
+  "i18n": {
+    "en-US": {
+      "title": "North Country HealthCare Flagstaff",
+      "description": "A comprehensive healthcare center offering a range of services including family medicine, pediatrics, dental care, and behavioral health. Special attention is paid to the needs of the transgender community with available services like sexual assault support, behavioral health, and an on-board pharmacy for prompt medication requirements. A sliding-fee scale discount program is available based on income and family size."
+    }
+  },
+  "slug": "north-country-healthcare-flagstaff",
+  "externalUrl": "http://northcountryhealthcare.org/locations/flagstaff",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "legal",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2920 N Fourth St, Flagstaff, AZ 86004, USA",
+  "phoneNumber": "+19285229400",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Flagstaff",
+  "latLng": [
+    35.2168899,
+    -111.6126929
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=705177450256309982"
+  },
+  "county": "Coconino County"
+}

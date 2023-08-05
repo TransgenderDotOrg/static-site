@@ -1,0 +1,35 @@
+{
+  "id": "5fbb404f-3bb4-462e-a90f-eaca3fcf943d",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Brian D. Woolford, MD Clinic",
+      "description": "A clinic formerly headed by Dr. Brian D. Woolford, MD, which served as an informed consent clinic and healthcare provider for the transgender community. It offered a safe, supportive, and respectful environment for all patients. Please note that this facility is now permanently closed."
+    }
+  },
+  "slug": "dr-brian-d-woolford-md-clinic",
+  "externalUrl": "https://maps.google.com/?cid=15817274973614773833",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "friendly-businesses"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "3544 30th St, San Diego, CA 92104, USA",
+  "phoneNumber": "+1 619-515-2424",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "North Park",
+  "county": "San Diego County",
+  "latLng": [
+    32.7429457,
+    -117.1304223
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15817274973614773833"
+  }
+}

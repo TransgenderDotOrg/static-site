@@ -1,0 +1,33 @@
+{
+  "id": "1e791323-2b89-490c-9ffe-b6ea769b5cef",
+  "i18n": {
+    "en-US": {
+      "title": "Santa Rosa Community Health",
+      "description": "Santa Rosa Community Health is dedicated to providing comprehensive health services to all, including the transgender community. They offer specialized care such as their Gender Clinic and services for intellectual and developmental disabilities. They prioritize understanding, respect, and high-quality care, ensuring all patients are heard and valued. Their services range from primary and mental health care to dental services, women’s health, pediatrics, wellness groups, and more. Their team is ready to work together for the health and wellness of their patients."
+    }
+  },
+  "slug": "santa-rosa-community-health",
+  "externalUrl": "http://www.srhealth.org/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "751 Lombardi Ct, Santa Rosa, CA 95407, USA",
+  "phoneNumber": "+1 707-547-2222",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Southwest Santa Rosa",
+  "county": "Sonoma County",
+  "latLng": [
+    38.4278424,
+    -122.7493697
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10877071393868989918"
+  }
+}

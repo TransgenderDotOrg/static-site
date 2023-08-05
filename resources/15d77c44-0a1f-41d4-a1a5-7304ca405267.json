@@ -1,0 +1,37 @@
+{
+  "id": "15d77c44-0a1f-41d4-a1a5-7304ca405267",
+  "i18n": {
+    "en-US": {
+      "title": "Sherbourne Health",
+      "description": "Sherbourne Health is dedicated to providing holistic and inclusive health care services to the transgender community, specifically targeting those underserved by conventional healthcare. They offer a wide array of services including trans-inclusive services for homeless women, mental health services, and harm reduction programs. Sherbourne Health pledges commitment to newcomers in Canada, individuals experiencing homelessness, Two Spirit, Lesbian, Gay, Bisexual, Trans and Queer (2SLGBTQ) People and mid-east Toronto neighbourhood. They also offer educational resources to improve the health care system's service to the 2SLGBTQ communities."
+    }
+  },
+  "slug": "sherbourne-health",
+  "externalUrl": "http://sherbourne.on.ca/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "333 Sherbourne St, Toronto, ON M5A 2S5, Canada",
+  "phoneNumber": "+1 416-324-4180",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Toronto",
+  "latLng": [
+    43.6622991,
+    -79.37201739999999
+  ],
+  "email": "info@sherbourne.on.ca",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15113290219573166687"
+  },
+  "county": "Toronto",
+  "town": "Old Toronto"
+}

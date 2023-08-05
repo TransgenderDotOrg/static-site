@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-portage",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "24570e03-8f07-4546-8171-c28c8b308d5f",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/wisconsin/portage/53901/portage-health-center-3920-91860?utm_campaign=portage-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "132 W Cook St, Portage, WI 53901, USA",
+  "phoneNumber": "+1 844-493-1052",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11570578534446596884"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "Columbia County",
+  "city": "Portage",
+  "latLng": [
+    43.5394264,
+    -89.46073179999999
+  ]
+}

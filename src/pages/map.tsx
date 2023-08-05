@@ -29,6 +29,10 @@ export const Marker = (props: MarkerProps) => {
           onClick={(e) => setAnchorEl(e.currentTarget)}
           style={{
             position: 'absolute',
+            // update zIndex based on the latLng so that the markers are stacked correctly
+            // props.lat props.lng
+            zIndex: 1000 - Math.round(props.lat * 1000),
+
             bottom: 0,
             left: 'calc(50% - 10px)',
             cursor: 'pointer',
@@ -213,7 +217,7 @@ export const MapPage = () => {
               borderRadius: '24px',
             }}
             onChange={(e) => {
-              const value = (e.target.value as unknown) as string[]
+              const value = e.target.value as unknown as string[]
 
               if (value.indexOf('') !== -1 || value.length === 0) {
                 searchParams.delete('organizationTypes')

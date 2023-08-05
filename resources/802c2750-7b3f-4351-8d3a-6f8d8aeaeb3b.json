@@ -1,0 +1,35 @@
+{
+  "id": "802c2750-7b3f-4351-8d3a-6f8d8aeaeb3b",
+  "i18n": {
+    "en-US": {
+      "title": "Trillium Health",
+      "description": "Trillium Health in Rochester, New York, is an informed consent clinic providing comprehensive healthcare services in a non-judgmental and affirming environment, including primary care, sexually health services, and specialized care for transgender individuals. Their Transgender Center of Excellence carries out exceptional quality transgender care — understanding and respecting the unique needs of transgender community. They also provide support in various aspects of life such as financial aid, food, housing, transportation, and more, truly embodying their comprehensive model of care by attending to their patients’ physical, emotional, and social health."
+    }
+  },
+  "slug": "trillium-health",
+  "externalUrl": "https://www.trilliumhealth.org/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "support-groups",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "259 Monroe Ave, Rochester, NY 14607, USA",
+  "phoneNumber": "+1 585-545-7200",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "Rochester",
+  "latLng": [
+    43.1491263,
+    -77.5993682
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11982673853845749514"
+  },
+  "county": "Monroe County"
+}

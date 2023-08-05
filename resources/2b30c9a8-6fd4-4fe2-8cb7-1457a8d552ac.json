@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lincoln",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2b30c9a8-6fd4-4fe2-8cb7-1457a8d552ac",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/nebraska/lincoln/68516/lincoln-health-center-4062-90720?utm_campaign=lincoln-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "5631 S 48th St #100, Lincoln, NE 68516, USA",
+  "phoneNumber": "+1 877-859-0587",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=360833888527401574"
+  },
+  "country": "US",
+  "provinceOrState": "NE",
+  "county": "Lancaster County",
+  "city": "Lincoln",
+  "latLng": [
+    40.7562213,
+    -96.6544112
+  ]
+}

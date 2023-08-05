@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f219126c-768a-4cc3-a12b-26bacf53c1fa",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/olympia/98501/olympia-health-center-2460-91810?utm_campaign=olympia-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "402 Legion Way SE Suite 201, Olympia, WA 98501, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5771280028090590807"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Thurston County",
+  "city": "Downtown",
+  "latLng": [
+    47.0437531,
+    -122.897517
+  ]
+}

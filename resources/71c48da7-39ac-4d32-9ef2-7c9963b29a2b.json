@@ -1,0 +1,31 @@
+{
+  "id": "71c48da7-39ac-4d32-9ef2-7c9963b29a2b",
+  "i18n": {
+    "en-US": {
+      "title": "UW Medicine Primary Care at Northgate",
+      "description": "Located at Northgate area in Seattle, UW Medicine Primary Care offers a wide range of primary care services. This includes family medicine with obstetrics, geriatrics, behavioral health, travel medicine, nutrition services, reproductive health, and sports medicine among others. Telemedicine visits and digital X-ray facilities are also available for your convenience. Established patients are provided general consultation and obstetric services. Particularly focused on providing holistic care, UW Medicine Primary Care is a community-centered service that tailors to the needs of all individuals, including those from the transgender community."
+    }
+  },
+  "slug": "uw-medicine-primary-care-at-northgate",
+  "externalUrl": "https://www.uwmedicine.org/locations/primary-care-northgate",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "314 NE Thornton Pl, Seattle, WA 98125, USA",
+  "phoneNumber": "+1 206-528-8000",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Northgate",
+  "latLng": [
+    47.7025962,
+    -122.3254887
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12607080676743686425"
+  },
+  "county": "King County"
+}

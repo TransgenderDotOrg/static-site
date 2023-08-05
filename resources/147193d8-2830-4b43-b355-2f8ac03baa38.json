@@ -1,0 +1,33 @@
+{
+  "id": "147193d8-2830-4b43-b355-2f8ac03baa38",
+  "i18n": {
+    "en-US": {
+      "title": "Blue Ridge Health - Hendersonville",
+      "description": "Providing comprehensive healthcare to all, Blue Ridge Health emphasizes inclusivity and accessibility in their commitment to compassionate, quality, affordable care. With specific services for the transgender community, they promote health, inspire hope, and advance healing, tailoring care to the needs of the individual. Providing services like behavioral health and counseling, nutrition, pharmacy, and others, they strive to create a safe and welcoming environment for transgender individuals."
+    }
+  },
+  "slug": "blue-ridge-health-hendersonville",
+  "externalUrl": "https://www.brchs.com/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "709 N Justice St, Hendersonville, NC 28791, USA",
+  "phoneNumber": "+1 828-696-1234",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Hendersonville",
+  "latLng": [
+    35.3190151,
+    -82.4700718
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1144890463308377093"
+  },
+  "county": "Henderson County"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d37de16c-df78-4096-a739-5acafaafe8db",
+  "i18n": {
+    "en-US": {
+      "title": "Transgender Support in Edmonds Office",
+      "description": "Local office located in Edmonds, offering tailored advice, support and resources for the transgender community including healthcare and mental-health services. This friendly environment provides a safe space for transmasculine, non-binary and transfeminine individuals seeking support or helpful information."
+    }
+  },
+  "slug": "transgender-support-in-edmonds-office",
+  "externalUrl": "https://maps.google.com/?q=Parking+lot,+21616+76th+Ave+W+suite+212,+Edmonds,+WA+98026&ftid=0x54901abc43a2b623:0xf706c9ece08e217b",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Parking lot, 21616 76th Ave W STE 212, Edmonds, WA 98026, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Edmonds",
+  "county": "Snohomish County",
+  "latLng": [
+    47.80270360000001,
+    -122.336717
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Parking+lot,+21616+76th+Ave+W+suite+212,+Edmonds,+WA+98026&ftid=0x54901abc43a2b623:0xf706c9ece08e217b"
+  }
+}

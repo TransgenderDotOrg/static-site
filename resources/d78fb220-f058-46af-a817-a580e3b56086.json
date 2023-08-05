@@ -1,0 +1,37 @@
+{
+  "id": "d78fb220-f058-46af-a817-a580e3b56086",
+  "i18n": {
+    "en-US": {
+      "title": "Woonona Medical Practice - Comprehensive Healthcare Provider",
+      "description": "Woonona Medical Practice offers a comprehensive array of healthcare services, paying close attention to inclusive, patient-centered care and evidence-based treatments. We foster an environment where everyone, including the transgender community, can have their health concerns addressed without discrimination. We strive to treat all patients equally and holistically, taking into consideration the physical, psychological, and social aspects of each individual. Our staff further extends our reach into community advocacy, education, and awareness. For transmasculine, transfeminine, and non-binary individuals, Woonona Medical offer mental health services, assisting patients in their unique transitions and journeys."
+    }
+  },
+  "slug": "woonona-medical-practice-comprehensive-healthcare-provider",
+  "externalUrl": "http://www.woononamedical.com.au/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "44 Hopetoun St, Woonona NSW 2517, Australia",
+  "phoneNumber": "+61 2 4283 3433",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Woonona",
+  "latLng": [
+    -34.3393618,
+    150.909055
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5153500999237410076"
+  },
+  "county": "City of Wollongong"
+}

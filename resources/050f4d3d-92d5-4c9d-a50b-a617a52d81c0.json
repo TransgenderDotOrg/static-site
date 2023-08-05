@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-st-cloud",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "050f4d3d-92d5-4c9d-a50b-a617a52d81c0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/saint-cloud/56304/st-cloud-health-center-2609-90720?utm_campaign=st-cloud-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "451 E St Germain St #100, St Cloud, MN 56304, USA",
+  "phoneNumber": "+1 320-252-9504",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2173820277409208017"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Benton County",
+  "city": "St Cloud",
+  "latLng": [
+    45.5661464,
+    -94.1503974
+  ]
+}

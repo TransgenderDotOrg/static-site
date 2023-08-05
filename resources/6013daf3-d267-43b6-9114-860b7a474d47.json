@@ -1,0 +1,35 @@
+{
+  "id": "6013daf3-d267-43b6-9114-860b7a474d47",
+  "i18n": {
+    "en-US": {
+      "title": "Church Wellesley Health Centre",
+      "description": "A multidisciplinary medical centre providing general and specialized healthcare services. They are located in the heart of the village and offer a comprehensive health approach including services in general family medicine, specialized care for the LGBTQ2 community, dentistry, physical rehabilitation, counselling, psychotherapy, and dermatology. They specifically tailor to the transgender community by offering inclusive and affirming care."
+    }
+  },
+  "slug": "church-wellesley-health-centre",
+  "externalUrl": "http://www.cwhealth.ca/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "491 Church St, Toronto, ON M4Y 2C6, Canada",
+  "phoneNumber": "+1 416-463-1500",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Toronto",
+  "county": "Toronto",
+  "latLng": [
+    43.665199,
+    -79.3804985
+  ],
+  "email": "info@cwhealth.ca",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=68767223449066196"
+  },
+  "town": "Old Toronto"
+}

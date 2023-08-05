@@ -1,0 +1,35 @@
+{
+  "id": "76b0723c-629b-4f30-88b9-0c99d87b2223",
+  "i18n": {
+    "en-US": {
+      "title": "2024 N 7th St Phoenix Services",
+      "description": "A local office providing a range of services catering to the needs of the transgender community. The location hosts a vegan restaurant, a life coach, a yoga studio, and a spiritual healing service. These services provide support to transgender individuals, with a focus on health, wellbeing, spirituality, and personal development."
+    }
+  },
+  "slug": "2024-n-7th-st-phoenix-services",
+  "externalUrl": "https://maps.google.com/?q=2024+N+7th+St,+Phoenix,+AZ+85006&ftid=0x872b126bf54cba91:0x17384103287c07ad",
+  "tags": [
+    "legal",
+    "healthcare",
+    "mental-health",
+    "spiritual"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2024 N 7th St, Phoenix, AZ 85004, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Seventh Street/monte Vista Office Condo Bldg A-b",
+  "county": "Maricopa County",
+  "latLng": [
+    33.470355,
+    -112.0653822
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=2024+N+7th+St,+Phoenix,+AZ+85006&ftid=0x872b126bf54cba91:0x17384103287c07ad"
+  }
+}

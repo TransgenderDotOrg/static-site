@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-franklinton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "765313b2-f8de-4dbe-9345-37fde24afcd1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/columbus/43222/franklinton-health-center-2718-91230?utm_campaign=franklinton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1511 W Broad St, Columbus, OH 43222, USA",
+  "phoneNumber": "+1 614-222-3525",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12467330230751607166"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Franklin County",
+  "city": "Franklinton",
+  "latLng": [
+    39.95664420000001,
+    -83.04017520000001
+  ]
+}

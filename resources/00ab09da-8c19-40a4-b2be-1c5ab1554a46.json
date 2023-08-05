@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-eau-claire",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "00ab09da-8c19-40a4-b2be-1c5ab1554a46",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/wisconsin/eau-claire/54701/eau-claire-health-center-2694-91860?utm_campaign=eau-claire-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "967 W Clairemont Ave, Eau Claire, WI 54701, USA",
+  "phoneNumber": "+1 844-493-1052",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6565767486548126565"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "Eau Claire County",
+  "city": "Eau Claire",
+  "latLng": [
+    44.7910062,
+    -91.5137156
+  ]
+}

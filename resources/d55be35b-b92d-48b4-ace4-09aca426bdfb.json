@@ -1,0 +1,36 @@
+{
+  "id": "d55be35b-b92d-48b4-ace4-09aca426bdfb",
+  "i18n": {
+    "en-US": {
+      "title": "Blue Mountain Clinic - Supportive, Diverse and Inclusive Care",
+      "description": "Blue Mountain Clinic, located in Missoula, Montana, is a health clinic that focuses on providing choice-based and respectful healthcare services. They cater to a wide range of patients including the transgender community. They offer services such as Mental Health Therapy and Gender Affirming & Non-Binary Care treating all patients with utmost dignity and support. They advocate for policy changes to access healthcare to help marginalized communities including transgender individuals."
+    }
+  },
+  "slug": "blue-mountain-clinic-supportive-diverse-inclusive-care",
+  "externalUrl": "http://www.bluemountainclinic.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "610 N California St, Missoula, MT 59802, USA",
+  "phoneNumber": "+1 406-721-1646",
+  "country": "US",
+  "provinceOrState": "MT",
+  "city": "Westside",
+  "latLng": [
+    46.8773258,
+    -114.0131024
+  ],
+  "email": "info@bluemountainclinic.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7261038641930306580"
+  },
+  "county": "Missoula County"
+}

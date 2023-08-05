@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hillcrest-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "19287846-c5b9-466a-aa06-a5a2a1d22aad",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/maryland/suitland/20746/planned-parenthood-prince-georges-county-4198-90230?utm_campaign=planned-parenthood-prince-georges-county&utm_medium=organic&utm_source=local-listing",
+  "address": "5001 Silver Hill Rd #103, Hillcrest Heights, MD 20746, USA",
+  "phoneNumber": "+1 240-563-1220",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6274230055364082866"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Prince George's County",
+  "city": "Hillcrest Heights",
+  "latLng": [
+    38.8503577,
+    -76.92158649999999
+  ]
+}

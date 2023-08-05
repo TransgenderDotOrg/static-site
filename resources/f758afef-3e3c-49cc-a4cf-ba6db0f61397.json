@@ -1,0 +1,32 @@
+{
+  "id": "f758afef-3e3c-49cc-a4cf-ba6db0f61397",
+  "i18n": {
+    "en-US": {
+      "title": "UMC Health System Maternity & Newborn Services",
+      "description": "UMC Health System based in Lubbock, TX, offers comprehensive maternity and newborn services with a family-centered approach. They provide individualized birthing options to expectant mothers and extensive support services for the newborn. UMC promotes an inclusive environment that upholds the dignity of all patients regardless of their gender identity. For transgender community, it provides a safe and respectful medical space that tailors healthcare provisions to their specific needs."
+    }
+  },
+  "slug": "umc-health-system-maternity-newborn-services",
+  "externalUrl": "http://www.umchealthsystem.com/medical-services/maternity-newborn/services-programs/grand-expectations",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2602 Avenue Q, Lubbock, TX 79411, USA",
+  "phoneNumber": "+1 806-761-0611",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Heart of Lubbock",
+  "county": "Lubbock County",
+  "latLng": [
+    33.5707528,
+    -101.8560794
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9723156450475916211"
+  }
+}

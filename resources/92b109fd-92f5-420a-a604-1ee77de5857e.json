@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-u-med-district",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "92b109fd-92f5-420a-a604-1ee77de5857e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/alaska/anchorage/99508/anchorage-health-center-3254-91810?utm_campaign=anchorage-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4001 Lake Otis Pkwy STE 101, Anchorage, AK 99508, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8475019445872309908"
+  },
+  "country": "US",
+  "provinceOrState": "AK",
+  "county": "Anchorage Municipality",
+  "city": "U-MED District",
+  "latLng": [
+    61.18420990000001,
+    -149.8372504
+  ]
+}

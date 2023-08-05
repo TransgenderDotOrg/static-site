@@ -1,0 +1,37 @@
+{
+  "id": "94281a50-524f-4394-bd25-703a2dc4bedb",
+  "i18n": {
+    "en-US": {
+      "title": "Be Well Medical Center",
+      "description": "Be Well Medical Center is a patient-centered health facility offering a range of medical services, including specialized care for the transgender community. Affirmed in providing warm-hearted HIV Care, HIV testing, prevention and PrEP, our sensitivity to diverse lifestyles ensures personalized treatment. Our non-discrimination policy signifies our commitment to serving individuals of all backgrounds without bias. Our team is skilled, compassionate, and experienced in handling diverse medical situations. We value inclusivity and provide a safe space for transgender patients."
+    }
+  },
+  "slug": "be-well-medical-center",
+  "externalUrl": "http://www.doctorbewell.com/",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "sexual-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1964 W Eleven Mile Rd, Berkley, MI 48072, USA",
+  "phoneNumber": "+1 248-544-9300",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Berkley",
+  "county": "Oakland County",
+  "latLng": [
+    42.4892176,
+    -83.1768786
+  ],
+  "email": "drpaulbenson@doctorbewell.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17958309133131246228"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-meadow-oaks",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1477cddc-6a31-428d-bd00-086aac11e6e4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/roseville/95661/roseville-health-center-2197-90130?utm_campaign=roseville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "729 Sunrise Ave STE 900, Roseville, CA 95661, USA",
+  "phoneNumber": "+1 916-781-3310",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8210471249382159219"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Placer County",
+  "city": "Meadow Oaks",
+  "latLng": [
+    38.7338758,
+    -121.2701576
+  ]
+}

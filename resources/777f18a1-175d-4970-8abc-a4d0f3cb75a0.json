@@ -1,0 +1,35 @@
+{
+  "id": "777f18a1-175d-4970-8abc-a4d0f3cb75a0",
+  "i18n": {
+    "en-US": {
+      "title": "Aspirus Wausau Family Medicine",
+      "description": "A comprehensive healthcare provider that is dedicated to providing inclusive health care services to all members of the community including the transgender community. Offering a wide range of services from family medicine to obstetrics, acute and chronic illness care, mental health care and more. The family medicine residency is an academic partner with the University of Wisconsin School of Medicine and Public Health, and the Medical College of Wisconsin."
+    }
+  },
+  "slug": "aspirus-wausau-family-medicine",
+  "externalUrl": "https://aspirus.org/find-a-location/Aspirus-Wausau-Family-Medicine-186",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "425 Wind Ridge Dr, Wausau, WI 54401, USA",
+  "phoneNumber": "(715) 675-3391",
+  "country": "US",
+  "provinceOrState": "WI",
+  "city": "Wausau",
+  "county": "Marathon County",
+  "latLng": [
+    44.96867030000001,
+    -89.6609737
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12756070173268783185"
+  }
+}

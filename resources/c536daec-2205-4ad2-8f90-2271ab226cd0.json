@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-sacramento",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c536daec-2205-4ad2-8f90-2271ab226cd0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/sacramento/95816/b-street-health-center-2200-90130?utm_campaign=b-street-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "B St, Sacramento, CA, USA",
+  "phoneNumber": "+1 916-446-6921",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5949245505362938134"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Sacramento County",
+  "city": "Sacramento",
+  "latLng": [
+    38.5805546,
+    -121.4578344
+  ]
+}

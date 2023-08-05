@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-manchester",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "10cc06d9-e75b-40fd-9fb2-94210be03ee8",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-hampshire/manchester/03104/manchester-health-center-2740-91770?utm_campaign=manchester-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "24 Pennacook St, Manchester, NH 03104, USA",
+  "phoneNumber": "+1 603-669-7321",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8294689038814918809"
+  },
+  "country": "US",
+  "provinceOrState": "NH",
+  "county": "Hillsborough County",
+  "city": "Manchester",
+  "latLng": [
+    43.0016427,
+    -71.4631923
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c92c4710-ac61-4b0f-b328-fd9dfff16878",
+  "i18n": {
+    "en-US": {
+      "title": "Santa Cruz Community Health Centers",
+      "description": "Santa Cruz Community Health Centers provide inclusive, all-round primary healthcare services to all, regardless of age, gender identity, ethnicity, ability, sexual orientation, immigration status, or payment capability. Committed to advocating for equality and seeing healthcare as a human right, the services include medical and behavioral health. They offer services in English and Spanish, and are committed to serving the transgender community."
+    }
+  },
+  "slug": "santa-cruz-community-health-centers",
+  "externalUrl": "https://www.schealthcenters.org/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1510 Capitola Rd, Santa Cruz, CA 95062, USA",
+  "phoneNumber": "+1 831-427-3500",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Santa Cruz",
+  "latLng": [
+    36.9760607,
+    -121.9847947
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1375442601256872824"
+  },
+  "county": "Santa Cruz County"
+}

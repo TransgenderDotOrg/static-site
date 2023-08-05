@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-rome",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9ab8c4c4-cc21-483f-8090-cec2fa72b4d4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/rome/13440/rome-center-2884-91110?utm_campaign=rome-center&utm_medium=organic&utm_source=local-listing",
+  "address": "111 E Chestnut St # 205, Rome, NY 13440, USA",
+  "phoneNumber": "+1 315-337-8584",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11339010172867037746"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Oneida County",
+  "city": "Rome",
+  "latLng": [
+    43.2315844,
+    -75.4420062
+  ]
+}

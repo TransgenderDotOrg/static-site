@@ -1,0 +1,35 @@
+{
+  "id": "01fcfdee-6a07-4165-8dee-f11f243a2fcb",
+  "i18n": {
+    "en-US": {
+      "title": "Middlesex Health Center for Gender Medicine and Wellness",
+      "description": "Led by Kathryn S. Tierney, MSN, APRN, FNP-BC, FAANP, the center provides comprehensive endocrinology and transgender hormone therapy services ensuring an equitable access to high quality healthcare. It is dedicated to serving the transgender community with individualized treatments and management plans, in line with the modern standards of transgender care."
+    }
+  },
+  "slug": "middlesex-health-center-for-gender-medicine-and-wellness",
+  "externalUrl": "https://middlesexhealth.org/find-a-doctor/kathryn-s-tierney-msn-aprn-fnp-bc-faanp",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "540 Saybrook Rd Suite 210, Middletown, CT 06457, USA",
+  "phoneNumber": "+1 860-358-2470",
+  "country": "US",
+  "provinceOrState": "CT",
+  "city": "Middletown",
+  "county": "Middlesex County",
+  "latLng": [
+    41.5415335,
+    -72.6211227
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1575381501982330448"
+  }
+}

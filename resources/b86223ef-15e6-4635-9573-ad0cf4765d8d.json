@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fort-wayne",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b86223ef-15e6-4635-9573-ad0cf4765d8d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/ft-wayne/46805/fort-wayne-health-center-2907-91810?utm_campaign=fort-wayne-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2930 Lake Ave, Fort Wayne, IN 46805, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14453084306733131801"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "Allen County",
+  "city": "Fort Wayne",
+  "latLng": [
+    41.089739,
+    -85.1005461
+  ]
+}

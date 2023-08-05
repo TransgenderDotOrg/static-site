@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-concord",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "67ea7425-0fe3-4fa8-a2c0-daf1ce883215",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/concord/94520/concord-health-center-3269-90200?utm_campaign=concord-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2185 Pacheco St, Concord, CA 94520, USA",
+  "phoneNumber": "+1 925-676-0300",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9898034995355619228"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Contra Costa County",
+  "city": "Concord",
+  "latLng": [
+    37.9790599,
+    -122.0347513
+  ]
+}

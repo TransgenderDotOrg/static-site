@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-valley-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f601b5e4-6955-4df3-b64a-b4b84e7c09fb",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/manchester/63088/west-county-health-center-2708-90770?utm_campaign=west-county-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1 Stonegate Center, Valley Park, MO 63088, USA",
+  "phoneNumber": "+1 636-431-0030",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12303322865787088792"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "St Louis County",
+  "city": "Valley Park",
+  "latLng": [
+    38.5663367,
+    -90.49542509999999
+  ]
+}

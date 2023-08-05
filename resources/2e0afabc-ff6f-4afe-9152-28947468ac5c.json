@@ -1,0 +1,41 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Northwestern Medicine Health Clinic | Portland, ME",
+      "description": "Northwestern Medicine's Portland office provides a range of comprehensive health services with a deep commitment to the transgender community. Whether it's in legal, healthcare, mental-health, or social-services sector, our expert teams are dedicated to serving the unique needs of the transmasculine, transfeminine and non-binary individuals. With robust support-groups and resources for parents, partners, and youth, our goal is to create an inclusive and respectful environment for all."
+    }
+  },
+  "slug": "northwestern-medicine-health-clinic-vanguard",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "2e0afabc-ff6f-4afe-9152-28947468ac5c",
+  "externalUrl": "http://www.casadesaludnm.org/",
+  "address": "1608 Isleta Blvd SW, Albuquerque, NM 87105, USA",
+  "phoneNumber": "+1 505-907-8311",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=755932200270522173"
+  },
+  "country": "US",
+  "provinceOrState": "NM",
+  "county": "Bernalillo County",
+  "city": "Vanguard",
+  "latLng": [
+    35.05299249999999,
+    -106.6767392
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-near-north-side",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b69cf604-6051-4da3-9685-0d7ced9124a1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/chicago/60610/near-north-elizabeth-cohn-morris-health-center-2474-90430?utm_campaign=near-north-elizabeth-cohn-morris-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1200 N La Salle Dr, Chicago, IL 60610, USA",
+  "phoneNumber": "+1 312-266-1033",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4213400552344482631"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "Near North Side",
+  "latLng": [
+    41.9040627,
+    -87.6333294
+  ]
+}

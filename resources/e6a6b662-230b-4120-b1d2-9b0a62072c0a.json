@@ -1,0 +1,36 @@
+{
+  "id": "e6a6b662-230b-4120-b1d2-9b0a62072c0a",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Suzanne Scopes - Naturopathic Physician For Transgender Health",
+      "description": "Dr. Suzanne Scopes, ND, PC is a Naturopathic Physician based in Portland, specializing in holistic primary care, transgender health care, and hormone transition. She provides a safe, supportive and natural approach to healthcare and works with the body to stimulate healing and achieve a greater level of wellness. Transgender individuals can step into her office with confidence, knowing that they will receive competent and empathetic care tailored to their unique health needs."
+    }
+  },
+  "slug": "dr-suzanne-scopes-naturopathic-physician",
+  "externalUrl": "http://www.drscopesnaturalhealthcare.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "2326 NW Lovejoy St, Portland, OR 97210, USA",
+  "phoneNumber": "+1 503-230-0812",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Northwest Portland",
+  "county": "Multnomah County",
+  "latLng": [
+    45.5295236,
+    -122.6991658
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=807693826966431524"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5fba4abc-a5ec-4744-b277-3be297b39754",
+  "i18n": {
+    "en-US": {
+      "title": "UC Davis Health - Karen L. Mo, M.D.",
+      "description": "Dr. Karen Mo at UC Davis Health is a generous listener who provides empathetic healthcare services. She ascribes to a philosophy of holistic, body-autonomous healthcare promoting patient agency and health literacy. Committed to integrative medicine, Dr. Mo encourages natural remedies and alternatives to pharmaceuticals. Recognizing the importance of inclusivity, she warmly welcomes transgender individuals and advocates for their health and wellness."
+    }
+  },
+  "slug": "uc-davis-health-karen-l-mo",
+  "externalUrl": "https://health.ucdavis.edu/publish/providerbio/search/714",
+  "tags": [
+    "healthcare",
+    "autonomy",
+    "holistic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2660 W Covell Blvd, Davis, CA 95616, USA",
+  "phoneNumber": "530-747-3000",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Aspen",
+  "county": "Yolo County",
+  "latLng": [
+    38.56052040000001,
+    -121.7819608
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=128024004303191556"
+  }
+}

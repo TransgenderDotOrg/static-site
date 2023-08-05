@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-warren",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "df446e66-75c1-4456-b2de-6e43d18fb52a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/warren/44481/warren-health-center-4217-91230?utm_campaign=warren-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "375 N Park Ave Suite 1 Suite 1, Warren, OH 44481, USA",
+  "phoneNumber": "+1 330-399-5104",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12049014334315700402"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Trumbull County",
+  "city": "Warren",
+  "latLng": [
+    41.240156,
+    -80.8186782
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Piedmont Health: Gateway to Quality Healthcare",
+      "description": "Piedmont Health is a community-focused healthcare provider offering a wide range of services including medical, dental, senior care, and pharmacy services, among others. Our commitment to respect, compassion, and trust has made us a home for many, including the transgender community. With supportive and understanding staff, we strive to create an environment that respects your identity while providing quality healthcare tailored to your needs."
+    }
+  },
+  "slug": "piedmont-health-gateway-to-quality-healthcare-carrboro",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "77d9a783-6cdd-4bd6-a2c9-6b2e52996b73",
+  "externalUrl": "https://piedmonthealth.org/",
+  "address": "301 Lloyd St, Carrboro, NC 27510, USA",
+  "phoneNumber": "+1 919-933-8494",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14226990378338868736"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Orange County",
+  "city": "Carrboro",
+  "latLng": [
+    35.9132954,
+    -79.0697082
+  ]
+}

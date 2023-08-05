@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-tampa",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "787aa3ad-9c08-4611-9465-3c32a7e42528",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/tampa/33617/tampa-health-center-2247-90300?utm_campaign=tampa-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "8068 N 56th St, Tampa, FL 33617, USA",
+  "phoneNumber": "+1 813-980-3555",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9180303844997470816"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Hillsborough County",
+  "city": "Tampa",
+  "latLng": [
+    28.0217576,
+    -82.3940059
+  ]
+}

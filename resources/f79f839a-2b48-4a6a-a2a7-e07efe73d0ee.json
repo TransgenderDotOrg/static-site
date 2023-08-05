@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-smithtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f79f839a-2b48-4a6a-a2a7-e07efe73d0ee",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/smithtown/11787/smithtown-center-2320-91220?utm_campaign=smithtown-center&utm_medium=organic&utm_source=local-listing",
+  "address": "70 Maple Ave, Smithtown, NY 11787, USA",
+  "phoneNumber": "+1 631-361-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1216573703475086068"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Suffolk County",
+  "city": "Smithtown",
+  "latLng": [
+    40.8531318,
+    -73.1980667
+  ]
+}

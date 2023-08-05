@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-coral-way",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7db045fa-8b98-410a-a27b-3872dfa36f2b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/miami/33145/jean-shehan-health-center-3369-90320?utm_campaign=jean-shehan-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1378 Coral Way 4th Fl 4th Fl, Miami, FL 33145, USA",
+  "phoneNumber": "+1 305-285-5535",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6481614602911603974"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Miami-Dade County",
+  "city": "Coral Way",
+  "latLng": [
+    25.7506639,
+    -80.2179054
+  ]
+}

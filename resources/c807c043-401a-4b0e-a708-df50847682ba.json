@@ -1,0 +1,35 @@
+{
+  "id": "c807c043-401a-4b0e-a708-df50847682ba",
+  "i18n": {
+    "en-US": {
+      "title": "Lifespan's Comprehensive Healthcare Service",
+      "description": "The Lifespan's healthcare network in Rhode Island includes settings varying from the state's largest hospitals to community-based health clinics. It is committed to delivering patient-centered, compassionate health care to transgender patients and their families, with focus on the unique needs of the transgender community. The services include pediatric services, orthopedics, neuroscience, women's healthcare and more. The institution is fully equipped with emergency services and urgent care facilities."
+    }
+  },
+  "slug": "lifespans-comprehensive-healthcare-service",
+  "externalUrl": "https://www.lifespan.org/providers/michelle-forcier-md",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "245 Chapman St Suite 100, Providence, RI 02905, USA",
+  "phoneNumber": "+1 401-444-3500",
+  "country": "US",
+  "provinceOrState": "RI",
+  "city": "Washington Park",
+  "county": "Providence County",
+  "latLng": [
+    41.7923826,
+    -71.4027864
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8301691164856535003"
+  }
+}

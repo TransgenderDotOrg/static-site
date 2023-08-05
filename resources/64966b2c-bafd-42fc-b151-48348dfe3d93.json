@@ -1,0 +1,41 @@
+{
+  "id": "64966b2c-bafd-42fc-b151-48348dfe3d93",
+  "i18n": {
+    "en-US": {
+      "title": "NAU Campus Health Services",
+      "description": "Campus Health Services at Northern Arizona University provides inclusive and affirming health care services, including general medical services, counseling, health promotion, and support for transgender and non-binary students. They offer education and awareness programs, mental health services, health equity initiatives, and specific health care for Trans* individuals, ensuring personalized care for the transgender community."
+    }
+  },
+  "slug": "nau-campus-health-services",
+  "externalUrl": "https://nau.edu/campus-health-services/",
+  "tags": [
+    "transgender",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider",
+    "educational-institution"
+  ],
+  "address": "824 S San Francisco St, Flagstaff, AZ 86001, USA",
+  "phoneNumber": "+1 928-523-2131",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Flagstaff",
+  "latLng": [
+    35.1900739,
+    -111.6510088
+  ],
+  "email": "campushealth@nau.edu",
+  "socialMedia": {
+    "twitter": "https://twitter.com/nau",
+    "facebook": "https://www.facebook.com/NAU",
+    "instagram": "https://www.instagram.com/nauflagstaff/",
+    "googleMapsUrl": "https://maps.google.com/?cid=4360172993243901263"
+  },
+  "county": "Coconino County"
+}

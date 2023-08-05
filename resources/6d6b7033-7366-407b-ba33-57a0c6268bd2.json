@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-vashon",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "6d6b7033-7366-407b-ba33-57a0c6268bd2",
+  "externalUrl": "http://www.neighborcare.org/clinics/neighborcare-health-vashon",
+  "address": "Sunrise Ridge, 10030 SW 210th St, Vashon, WA 98070, USA",
+  "phoneNumber": "N/A",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=169673722077293196"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Vashon",
+  "latLng": [
+    47.41715869999999,
+    -122.4633714
+  ]
+}

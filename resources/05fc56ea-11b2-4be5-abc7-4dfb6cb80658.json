@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UW Health Transgender Healthcare Services",
+      "description": "Based in Portland, Maine, UW Health specializes in tailored healthcare services for the transgender community. Our approach emphasizes informed consent, working to ensure all our patients are fully aware and comfortable with their care plan. Whether you identify as transmasculine, transfeminine, or non-binary, our team of medical professionals is here to guide you through your journey, providing not just physical health services but mental and social services support too."
+    }
+  },
+  "slug": "uw-health-transgender-healthcare-services-madison",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "05fc56ea-11b2-4be5-abc7-4dfb6cb80658",
+  "externalUrl": "http://www.uwhealth.org/",
+  "address": "UW Health West Clinic, 451 Junction Rd, Madison, WI 53717, USA",
+  "phoneNumber": "N/A",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=UW+Health+West+Clinic&ftid=0x8807af10e33fcf1d:0xd82b743d730ecec"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "Dane County",
+  "city": "Madison",
+  "latLng": [
+    43.0703214,
+    -89.5234419
+  ]
+}

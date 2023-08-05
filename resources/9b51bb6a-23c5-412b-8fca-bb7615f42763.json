@@ -1,0 +1,35 @@
+{
+  "id": "9b51bb6a-23c5-412b-8fca-bb7615f42763",
+  "i18n": {
+    "en-US": {
+      "title": "Capitol Hill Medical - A Queer-Focused Clinic",
+      "description": "Capitol Hill Medical is a queer-focused clinic in Seattle, providing primary care services to patients of all genders and sexualities. The clinic exists to serve the unique medical needs of Seattle’s LGBTQ community, particularly targeting those who have significant distrust of the medical community due to prior experiences of judgment and discrimination. The aim of the clinic is to create a safe space where patients feel celebrated and healthy, by providing evidence-based and integrative medicine alongside open acceptance."
+    }
+  },
+  "slug": "capitol-hill-medical-a-queer-focused-clinic",
+  "externalUrl": "http://www.capitolhillmedical.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "901 Boren Ave #705, Seattle, WA 98104, USA",
+  "phoneNumber": "+1 206-720-9999",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Downtown Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6084215,
+    -122.3254926
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10454582866653624780"
+  }
+}

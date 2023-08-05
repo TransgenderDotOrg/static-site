@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-denton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9a0324a7-3e09-4b5b-a8cf-98eb9ed845f3",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/denton/76205/denton-health-center-2190-91620?utm_campaign=denton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2436 S Interstate 35 #360, Denton, TX 76210, USA",
+  "phoneNumber": "+1 940-891-0737",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3803930149209521540"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Denton County",
+  "city": "Denton",
+  "latLng": [
+    33.1831022,
+    -97.1058003
+  ]
+}

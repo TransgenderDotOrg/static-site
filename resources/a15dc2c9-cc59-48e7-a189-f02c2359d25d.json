@@ -1,0 +1,37 @@
+{
+  "id": "a15dc2c9-cc59-48e7-a189-f02c2359d25d",
+  "i18n": {
+    "en-US": {
+      "title": "Vigil Family Medicine",
+      "description": "A Direct Primary Care (DPC) practice that offers family medicine services in an affordable membership based model. This practice is inclusive of the entire LGBTQ+ community, specializing in Gender Affirming Care and serves both specialized transition related care for transgender and gender expansive people with a general focus on primary care needs of the LGBTQ+ population. In addition, it offers more specialized care related to gender affirmation, STI screening and treatment, and care of HIV+ people."
+    }
+  },
+  "slug": "vigil-family-medicine",
+  "externalUrl": "http://www.vigilmd.com/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1901 S Union Ave Ste B4003, Tacoma, WA 98405, USA",
+  "phoneNumber": "+1 253-693-0071",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Central Tacoma",
+  "county": "Pierce County",
+  "latLng": [
+    47.2418026,
+    -122.4788688
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1285350985430442751"
+  }
+}

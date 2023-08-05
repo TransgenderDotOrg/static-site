@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "es-MX": {
+      "title": "Centro Ararat",
+      "description": "Centro Ararat ofrece una variedad de servicios de salud sexual, incluyendo pruebas de VIH y consulta PrEP. Nos esforzamos por crear un espacio segura y acogedora para la comunidad transgénero."
+    },
+    "en-US": {
+      "title": "Ararat Center",
+      "description": "Ararat Center provides a variety of sexual health services, including rapid HIV testing and PrEP consultation. We strive to create a safe and welcoming space for the transgender community."
+    }
+  },
+  "slug": "ararat-center-juana-d-az",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "6214a984-80c0-4b25-a49c-25f4187da0da",
+  "externalUrl": "http://www.centroararat.org/",
+  "address": "25 Calle de Hostos, Juana Díaz, 00795, Puerto Rico",
+  "phoneNumber": "+1 787-260-9446",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=897136654874034316"
+  },
+  "country": "PR",
+  "provinceOrState": "Juana Díaz",
+  "county": "Juana Díaz",
+  "city": "Juana Díaz",
+  "latLng": [
+    18.0529051,
+    -66.504148
+  ]
+}

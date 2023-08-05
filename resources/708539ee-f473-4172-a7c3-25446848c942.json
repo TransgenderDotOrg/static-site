@@ -1,0 +1,40 @@
+{
+  "id": "708539ee-f473-4172-a7c3-25446848c942",
+  "i18n": {
+    "en-US": {
+      "title": "VNACJ LGBTQ Health Center",
+      "description": "This health center, which is in collaboration with the Prevention Resource Network, provides comprehensive care and wellness programs specifically tailored to the needs of the LGBTQ+ community. The center offers primary care services, HIV care and treatment, transgender services, STD screenings, behavioral health services, rapid HIV/Syphilis testing, PrEP counseling, and medical case management services."
+    }
+  },
+  "slug": "vnacj-lgbtq-health-center",
+  "externalUrl": "http://prnvnacj.org/vnacj-lgbtq-health-center",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1301 Main St, Asbury Park, NJ 07712, USA",
+  "phoneNumber": "+1 732-502-5130",
+  "country": "US",
+  "provinceOrState": "NJ",
+  "city": "Asbury Park",
+  "county": "Monmouth County",
+  "latLng": [
+    40.2260952,
+    -74.0104195
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6415100713464862835",
+    "yelpUrl": null,
+    "facebook": "https://www.facebook.com/LGBTQhealthcenter/",
+    "twitter": "https://twitter.com/LGBTQhealthcent",
+    "instagram": "https://www.instagram.com/LGBTQhealthcenter/",
+    "youtube": "https://www.youtube.com/channel/UCHLnNgRnfGYDzPCCH8qGbQw"
+  }
+}

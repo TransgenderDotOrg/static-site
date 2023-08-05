@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hammond",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6691a95c-564b-4545-aa1b-3ec8e5807ace",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/hammond/46324/hammond-health-center-2922-91810?utm_campaign=hammond-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7131 Indianapolis Blvd, Hammond, IN 46324, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13031067666446264159"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "Lake County",
+  "city": "Hammond",
+  "latLng": [
+    41.5836728,
+    -87.4806517
+  ]
+}

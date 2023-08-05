@@ -1,0 +1,33 @@
+{
+  "id": "314e6c7f-51f8-4b62-baff-a6309e13ca87",
+  "i18n": {
+    "en-US": {
+      "title": "Forest Community Health Center",
+      "description": "A local-office in Lansing, Michigan that provides a range of health services including primary care, chronic disease management, dental services, nutrition counseling and behavioral health services. This supportive and inclusive environment emphasizes accessibility and offers a Pharmacy (Forest Community Pharmacy) within the premises for the convenience of its patients. As an informed-consent-clinic, it respects and recognizes the autonomy and personal identity of its transgender patients. Health care at Forest Community Health Center is tailored towards the needs of transgender individuals and seeks to provide care in an environment that affirms their identity while promoting health and wellness."
+    }
+  },
+  "slug": "forest-community-health-center",
+  "externalUrl": "http://hd.ingham.org/SeekingCare/CommunityHealthCenters/LocationsHours/ForestCommunityHealthCenter.aspx",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2316 S Cedar St, Lansing, MI 48910, USA",
+  "phoneNumber": "+1 517-887-4302",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Greencroft Park",
+  "county": "Ingham County",
+  "latLng": [
+    42.7079084,
+    -84.54886309999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13579288707050893733"
+  }
+}

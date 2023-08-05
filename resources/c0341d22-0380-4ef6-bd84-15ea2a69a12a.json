@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northeast-philadelphia",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c0341d22-0380-4ef6-bd84-15ea2a69a12a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/philadelphia/19152/castor-ave-health-center-2512-91460?utm_campaign=castor-ave-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "8210 Castor Ave, Philadelphia, PA 19152, USA",
+  "phoneNumber": "+1 215-745-5966",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14197707744086472622"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Philadelphia County",
+  "city": "Northeast Philadelphia",
+  "latLng": [
+    40.0649526,
+    -75.0535855
+  ]
+}

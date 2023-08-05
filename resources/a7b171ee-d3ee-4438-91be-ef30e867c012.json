@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-ventura",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a7b171ee-d3ee-4438-91be-ef30e867c012",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/ventura/93003/ventura-health-center-2251-90170?utm_campaign=ventura-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "5400 Ralston St, Ventura, CA 93003, USA",
+  "phoneNumber": "+1 888-898-3806",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13576626039552399753"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Ventura County",
+  "city": "Ventura",
+  "latLng": [
+    34.2594829,
+    -119.2178865
+  ]
+}

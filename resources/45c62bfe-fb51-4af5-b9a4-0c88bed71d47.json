@@ -1,0 +1,38 @@
+{
+  "id": "45c62bfe-fb51-4af5-b9a4-0c88bed71d47",
+  "i18n": {
+    "en-US": {
+      "title": "Health Care for the Homeless",
+      "description": "An inclusive health care provider that offers various services such as substance use services, HIV Testing and Counseling, Support Groups and resources for immigrants, LGBTQ+ individuals, and youth. This organization is dedicated to ending homelessness in Baltimore and beyond, helping individuals move towards health and stability. Advocacy for justice forms a significant part of their mission."
+    }
+  },
+  "slug": "health-care-for-the-homeless",
+  "externalUrl": "https://www.hchmd.org/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "legal",
+    "community-stories"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization",
+    "healthcare-provider"
+  ],
+  "address": "The Harry and Jeanette Weinberg Building, 421 Fallsway, Baltimore, MD 21202, USA",
+  "phoneNumber": "+1 410-837-5533",
+  "country": "US",
+  "provinceOrState": "MD",
+  "city": "Penn - Fallsway",
+  "latLng": [
+    39.2937841,
+    -76.6094317
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11662537707869804637"
+  }
+}

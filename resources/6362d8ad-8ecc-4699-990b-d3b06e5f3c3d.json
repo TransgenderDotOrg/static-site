@@ -1,0 +1,33 @@
+{
+  "id": "6362d8ad-8ecc-4699-990b-d3b06e5f3c3d",
+  "i18n": {
+    "en-US": {
+      "title": "Taylor Life Center",
+      "description": "Located at 3169 Beecher Rd, Flint, MI 48532, Taylor Life Center offers mental health services that are crucial for the well-being and stability of the transgender community. Also sharing a location is Beecher Rd Family Pharmacy, essential for medication needs."
+    }
+  },
+  "slug": "taylor-life-center",
+  "externalUrl": "https://maps.google.com/?q=3169+Beecher+Rd,+Flint,+MI+48532&ftid=0x88238297717b6b19:0xf4d704757fc35fc6",
+  "tags": [
+    "mental-health",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3169 Beecher Rd, Flint, MI 48532, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Flint",
+  "county": "Genesee County",
+  "latLng": [
+    43.0141783,
+    -83.7381016
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=3169+Beecher+Rd,+Flint,+MI+48532&ftid=0x88238297717b6b19:0xf4d704757fc35fc6"
+  }
+}

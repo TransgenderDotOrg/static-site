@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-cathedral-hill",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5753c651-74bb-4157-bb28-edf9664cbb0e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-francisco/94109/san-francisco-health-center-3997-90200?utm_campaign=san-francisco-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1522 Bush St, San Francisco, CA 94109, USA",
+  "phoneNumber": "+1 415-821-1282",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9576471004892759981"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Francisco County",
+  "city": "Cathedral Hill",
+  "latLng": [
+    37.7886494,
+    -122.422614
+  ]
+}

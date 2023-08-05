@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-san-jacinto",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "c9e6b4dc-2925-4a70-91f2-0ddb66c7ab37",
+  "externalUrl": "https://locations.borregohealth.org/san-jacinto-health-center-736e36233893?y_source=1_MTAxNDIyMTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "651 N State St Suite 5, San Jacinto, CA 92583, USA",
+  "phoneNumber": "+1 951-487-8506",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8482687045509578556"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "San Jacinto",
+  "latLng": [
+    33.7954989,
+    -116.9700988
+  ]
+}

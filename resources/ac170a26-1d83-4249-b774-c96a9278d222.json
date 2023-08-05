@@ -1,0 +1,32 @@
+{
+  "id": "ac170a26-1d83-4249-b774-c96a9278d222",
+  "i18n": {
+    "en-US": {
+      "title": "University Health Center for Sleep Health at Stoney Creek",
+      "description": "This health center, under University Health, provides specialized sleep medicine services. While not exclusively targeting the transgender community, it strives to offer quality and accessible healthcare services to all individuals, fostering an environment of inclusion and diversity. Patients of any gender identity can expect to receive respectful and quality medical attention."
+    }
+  },
+  "slug": "university-health-center-for-sleep-health-at-stoney-creek",
+  "externalUrl": "https://www.universityhealthkc.org/locations/university-health-center-for-sleep-health-at-stoney-creek/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "Main Hospital, 2301 Holmes St 5th Floor, Kansas City, MO 64108, USA",
+  "phoneNumber": "+1 816-404-1000",
+  "country": "US",
+  "provinceOrState": "MO",
+  "city": "Downtown Kansas City",
+  "county": "Jackson County",
+  "latLng": [
+    39.0844879,
+    -94.5752976
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=491514739790133318"
+  }
+}

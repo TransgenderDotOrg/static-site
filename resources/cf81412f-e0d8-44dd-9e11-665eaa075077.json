@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-west-ashley",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "cf81412f-e0d8-44dd-9e11-665eaa075077",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/south-carolina/charleston/29407/charleston-health-center-4288-90860?utm_campaign=charleston-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1312 Ashley River Rd, Charleston, SC 29407, USA",
+  "phoneNumber": "+1 843-628-4380",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13081376578400556324"
+  },
+  "country": "US",
+  "provinceOrState": "SC",
+  "county": "Charleston County",
+  "city": "West Ashley",
+  "latLng": [
+    32.798001,
+    -79.999214
+  ]
+}

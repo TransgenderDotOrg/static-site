@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "One Medical - Exceptional Primary Care",
+      "description": "One Medical offers exceptional primary care facilities and personalized attention to all patients, including the transgender community. The office schedules long appointments for in-depth discussions and has multiple services covering everything from chronic care to mental health issues. It offers compassionate care, recognizing the unique medical and emotional needs of transgender individuals. Practitioners are experienced in handling sensitive matters such as hormone replacement therapy, post-surgery care, and transgender-specific mental health care."
+    }
+  },
+  "slug": "one-medical-exceptional-primary-care-the-castro",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "e909e298-8baf-4ff8-8213-ad00c447e465",
+  "externalUrl": "https://www.onemedical.com/providers/lisa-spitalewitz-2/?utm_source=google&utm_medium=organic&utm_campaign=localseo",
+  "address": "595 Castro St, San Francisco, CA 94114, USA",
+  "phoneNumber": "+1 415-529-4099",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=214134526202938311"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Francisco County",
+  "city": "The Castro",
+  "latLng": [
+    37.75948959999999,
+    -122.4345811
+  ]
+}

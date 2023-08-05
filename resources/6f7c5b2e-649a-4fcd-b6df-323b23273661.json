@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Callen-Lorde Community Health Center",
+      "description": "Callen-Lorde is a healthcare provider specializing in LGBTQ health. They offer a comprehensive range of services including Adolescent Health, Behavioral Health, HIV Services, Sexual Health, Transgender health, and Women’s Health. They cater to the unique healthcare needs of the transgender community, providing resources and services in a safe, inclusive, and supportive environment. Callen-Lorde's focus on health justice for the LGBTQ community makes it a vital resource for transgender patients."
+    }
+  },
+  "slug": "callen-lorde-community-health-center-woodstock",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "6f7c5b2e-649a-4fcd-b6df-323b23273661",
+  "externalUrl": "https://www.callen-lorde.org/?utm_source=gmb&utm_medium=Yext",
+  "address": "3144 Third Ave, Bronx, NY 10451, USA",
+  "phoneNumber": "+1 718-215-1800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10476026649474221530"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Bronx County",
+  "city": "Woodstock",
+  "town": "Bronx",
+  "latLng": [
+    40.8221038,
+    -73.9104924
+  ]
+}

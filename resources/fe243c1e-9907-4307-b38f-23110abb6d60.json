@@ -1,0 +1,40 @@
+{
+  "id": "fe243c1e-9907-4307-b38f-23110abb6d60",
+  "i18n": {
+    "en-US": {
+      "title": "Dre Gabrielle Landry - Hormone Therapy and Medical Aesthetics Center",
+      "description": "Dre Gabrielle Landry's Hormone Therapy and Medical Aesthetics Center specializes in transgender hormone therapy, attentive sexual health consultations, and a variety of aesthetic treatments. The center modifies secondary sexual characteristics to reduce gender dysphoria and facilitate gender identity acceptance, providing an inclusive and comprehensive approach to care for the transgender community."
+    },
+    "fr-CA": {
+      "title": "Dre Gabrielle Landry - Centre d’expertise en hormonothérapie, médico-esthétique et santé sexuelle",
+      "description": "Le Centre d'expertise en hormonothérapie, médico-esthétique et santé sexuelle de Dre Gabrielle Landry se spécialise dans l'hormonothérapie pour les personnes transgenres, l'écoute attentive des consultations en santé sexuelle, et une variété de traitements esthétiques. Le centre modifie les caractéristiques sexuelles secondaires pour réduire la dysphorie de genre et faciliter l'acceptation de l'identité de genre, offrant une approche inclusive et globale des soins pour la communauté transgenre."
+    }
+  },
+  "slug": "dre-gabrielle-landry-hormone-therapy-and-medical-aesthetics-center",
+  "externalUrl": "http://drgabriellelandry.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "407 McGill St #900, Montreal, QC H2Y 2G3, Canada",
+  "phoneNumber": "+1 438-882-0085",
+  "country": "CA",
+  "provinceOrState": "QC",
+  "city": "Montreal",
+  "latLng": [
+    45.5005239,
+    -73.5573951
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3014340434388532160"
+  },
+  "county": "Montreal",
+  "town": "Ville-Marie"
+}

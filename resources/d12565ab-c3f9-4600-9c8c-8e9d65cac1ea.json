@@ -1,0 +1,36 @@
+{
+  "id": "d12565ab-c3f9-4600-9c8c-8e9d65cac1ea",
+  "i18n": {
+    "en-US": {
+      "title": "Women's Health Center of West Virginia",
+      "description": "Women's Health Center of West Virginia, an informed consent clinic, provides a range of healthcare services tailored to the needs of the transgender community. They offer gender affirming hormone therapy and STD testing along with other services like annual exams, cancer screenings, emergency contraception etc. They create a judgement-free environment, respecting the dignity, confidentiality and personal values of all patients."
+    }
+  },
+  "slug": "womens-health-center-of-west-virginia",
+  "externalUrl": "https://womenshealthwv.org/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "510 W Washington St, Charleston, WV 25302, USA",
+  "phoneNumber": "+1 304-344-9834",
+  "country": "US",
+  "provinceOrState": "WV",
+  "city": "Charleston",
+  "county": "Kanawha County",
+  "latLng": [
+    38.3639208,
+    -81.64267889999999
+  ],
+  "email": "info@womenshealthwv.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=15020854068095960934"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "MUSC Local Offices for Transgender Community",
+      "description": "MUSC Local Offices are dedicated to providing comprehensive, tailored healthcare services to the transgender community. They welcome transmasculine, non-binary, and transfeminine individuals to their safe, inclusive environment, offering a range of services, from medical support and legal advice to social, youth services, and support groups. Each office is equipped with responsive and empathetic professionals who understand your unique needs."
+    }
+  },
+  "slug": "musc-local-offices-for-transgender-community-charleston",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "social-services",
+    "youth-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "205e1ea3-2d4d-4150-b2cb-bbb445c1e498",
+  "externalUrl": "https://education.musc.edu/MUSCApps/facultydirectory/Lazenby-Gweneth",
+  "address": "96 Jonathan Lucas St, Charleston, SC 29425, USA",
+  "phoneNumber": "+1 843-792-5300",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1511834678226058803"
+  },
+  "country": "US",
+  "provinceOrState": "SC",
+  "county": "Charleston County",
+  "city": "Charleston",
+  "latLng": [
+    32.7841314,
+    -79.9479356
+  ]
+}

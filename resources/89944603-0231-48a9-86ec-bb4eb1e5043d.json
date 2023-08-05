@@ -1,0 +1,35 @@
+{
+  "id": "89944603-0231-48a9-86ec-bb4eb1e5043d",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Kevin Hatfield's Clinic",
+      "description": "Dr. Kevin Hatfield's clinic provides individualized and inclusive healthcare for all, including special considerations to the needs of transgender, gender-variant, and LGBT patients. They offer preventive medicine, adolescent, pediatric, and men's health care with an emphasis on integrating physical, mental, and spiritual wellness."
+    }
+  },
+  "slug": "dr-kevin-hatfields-clinic",
+  "externalUrl": "https://www.polyclinic.com/locations-nav/providers/wa/kevin-hatfield-md/1588631154.html",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "509 Olive Way Suite 900, Seattle, WA 98101, USA",
+  "phoneNumber": "1-206-329-1760",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Downtown Seattle",
+  "county": "King County",
+  "latLng": [
+    47.6127622,
+    -122.336607
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17077665646610479129"
+  }
+}

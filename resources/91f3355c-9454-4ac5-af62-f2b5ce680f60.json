@@ -1,0 +1,36 @@
+{
+  "id": "91f3355c-9454-4ac5-af62-f2b5ce680f60",
+  "i18n": {
+    "en-US": {
+      "title": "WE Health Clinic - Comprehensive Healthcare",
+      "description": "WE Health Clinic, located in Minnesota, provides a safe and supportive environment for the transgender community and their health needs. We respect and affirm each person's unique identity and cater to transmasculine, transfeminine, and non-binary individuals alike with various services. Our team offers Trans-Nonbinary-Hormone Care, ensuring personalized and efficient health solutions centered around transgender care. We believe in informed consent, and provide the resources and guidance needed for you to take control of your health decisions."
+    }
+  },
+  "slug": "we-health-clinic-comprehensive-healthcare",
+  "externalUrl": "https://wehealthclinic.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "32 E 1st St Suite 300, Duluth, MN 55802, USA",
+  "phoneNumber": "+12187273352",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Downtown - Waterfront",
+  "latLng": [
+    46.7882121,
+    -92.0978686
+  ],
+  "email": "whc@wehealthclinic.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11033878119695768805"
+  },
+  "county": "St Louis County"
+}

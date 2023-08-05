@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-vallejo",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e3ad44ae-2a42-4952-b967-3f413d51edd4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/vallejo/94590/vallejo-health-center-2699-90200?utm_campaign=vallejo-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "303 Sacramento St, Vallejo, CA 94590, USA",
+  "phoneNumber": "+1 800-230-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12671061823971260129"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Solano County",
+  "city": "Vallejo",
+  "latLng": [
+    38.09971,
+    -122.2590523
+  ]
+}

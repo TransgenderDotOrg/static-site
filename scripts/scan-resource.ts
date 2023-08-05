@@ -892,13 +892,15 @@ const processAddress = async (translatedJsonObject: any) => {
         result.address_components.find(
           (component) =>
             component.types.includes('locality' as AddressType) ||
-            component.types.includes('neighborhood' as AddressType),
+            component.types.includes('neighborhood' as AddressType) ||
+            component.types.includes('administrative_area_level_3' as AddressType),
         ),
       )
       ?.address_components.find(
         (component) =>
           component.types.includes('locality' as AddressType) ||
-          component.types.includes('neighborhood' as AddressType),
+          component.types.includes('neighborhood' as AddressType) ||
+          component.types.includes('administrative_area_level_3' as AddressType),
       )?.short_name
 
     const town = geocodeResponse.data.results
@@ -911,19 +913,12 @@ const processAddress = async (translatedJsonObject: any) => {
         component.types.includes('sublocality' as AddressType),
       )?.short_name
 
-    const latLngComponent = geocodeResponse.data.results.find((result) =>
-      result.address_components.find((component) =>
-        component.types.includes('street_address' as AddressType),
-      ),
-    )
+    const latLng = [
+      geocodeResponse.data.results[0].geometry.location.lat,
+      geocodeResponse.data.results[0].geometry.location.lng,
+    ]
 
-    const latLng = [latLngComponent?.geometry.location.lat, latLngComponent?.geometry.location.lng]
-
-    const address = geocodeResponse.data.results.find((result) =>
-      result.address_components.find((component) =>
-        component.types.includes('street_address' as AddressType),
-      ),
-    )?.formatted_address
+    const address = geocodeResponse.data.results[0].formatted_address
 
     console.log(
       `About to return... ${JSON.stringify(
@@ -973,26 +968,33 @@ const processUrl = async (clinic: any) => {
     url = clinic.website
   }
 
-  await page.goto(url)
+  try {
+    await page.goto(url)
 
-  // Set screen size
-  await page.setViewport({ width: 1080, height: 1024 })
+    // Set screen size
+    await page.setViewport({ width: 1080, height: 1024 })
 
-  // wait for the page to be in the ready state, no network activity
-  await page.evaluate(async () => {
-    await new Promise((resolve) => {
-      if (document.readyState === 'complete') {
-        resolve(true)
-      } else {
-        const readyStateCheckInterval = setInterval(() => {
-          if (document.readyState === 'complete') {
-            clearInterval(readyStateCheckInterval)
-            resolve(true)
-          }
-        }, 10)
-      }
+    // wait for the page to be in the ready state, no network activity
+    await page.evaluate(async () => {
+      await new Promise((resolve) => {
+        if (document.readyState === 'complete') {
+          resolve(true)
+        } else {
+          const readyStateCheckInterval = setInterval(() => {
+            if (document.readyState === 'complete') {
+              clearInterval(readyStateCheckInterval)
+              resolve(true)
+            }
+          }, 10)
+        }
+      })
     })
-  })
+
+    // sleep for 2 seconds
+    await new Promise((resolve) => setTimeout(resolve, 2000))
+  } catch (err) {
+    console.log(`Error: ${err}, clinic: ${JSON.stringify(clinic, null, 2)}`)
+  }
 
   // get the page text content
   // we need to strip css and other stuff from the page
@@ -1018,6 +1020,10 @@ const processUrl = async (clinic: any) => {
 
     return textContent?.replace(/\s\s+/g, ' ')
   })
+
+  if (!textContent) {
+    throw new Error(`No text content found for ${JSON.stringify(clinic, null, 2)}`)
+  }
 
   const splitter = new TokenTextSplitter({
     encodingName: 'gpt2',
@@ -1054,21 +1060,35 @@ const processUrl = async (clinic: any) => {
     try {
       translatedJsonObject = JSON.parse(response.trim())
     } catch (err) {
-      console.error(`Could not extract translated JSON from response: ${response}`)
+      console.error(
+        `Could not extract translated JSON from response: ${response}, clinic: ${JSON.stringify(
+          clinic,
+          null,
+          2,
+        )}`,
+      )
     }
   } else {
     try {
       translatedJsonObject = JSON.parse(translatedJson)
     } catch (err) {
-      console.error(`Could not extract translated JSON from response: ${response}`)
+      console.error(
+        `Could not extract translated JSON from response: ${response}, clinic: ${JSON.stringify(
+          clinic,
+          null,
+          2,
+        )}`,
+      )
     }
   }
 
   const fileName = `${id}.json`
 
   // if an address is provided, let's process it with Google Maps
-  if (translatedJsonObject.address) {
+  if (translatedJsonObject?.address) {
     translatedJsonObject = await processAddress(translatedJsonObject)
+  } else {
+    console.log(`No address provided for ${clinic}`)
   }
 
   try {
@@ -1175,9 +1195,9 @@ try {
       )
 
       // Pause for 5 seconds
-      console.log('Pausing for 5 seconds...')
+      console.log('Pausing for 30 seconds...')
       console.log(`Last processed index: ${skip + i * chunkSize + chunkSize - 1}`)
-      await new Promise((resolve) => setTimeout(resolve, 5000))
+      await new Promise((resolve) => setTimeout(resolve, 30000))
     }
   })()
 } catch (error) {

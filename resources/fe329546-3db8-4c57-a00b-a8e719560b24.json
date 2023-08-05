@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Fenway Health: Comprehensive Care Center",
+      "description": "Fenway Health Clinics provide comprehensive medical and behavioral health services, focused on delivering individualized care to all, including the transgender community. Their team of expert providers prioritizes affirming, inclusive, and personalized health care solutions to meet each patient's unique needs."
+    }
+  },
+  "slug": "fenway-west-fens",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "fe329546-3db8-4c57-a00b-a8e719560b24",
+  "externalUrl": "https://fenwayhealth.org/",
+  "address": "1340 Boylston St, Boston, MA 02215, USA",
+  "phoneNumber": "+1 617-267-0900",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16173736768130750854"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Suffolk County",
+  "city": "West Fens",
+  "latLng": [
+    42.3440746,
+    -71.0989723
+  ]
+}

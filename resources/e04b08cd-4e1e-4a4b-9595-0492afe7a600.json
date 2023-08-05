@@ -1,0 +1,32 @@
+{
+  "id": "e04b08cd-4e1e-4a4b-9595-0492afe7a600",
+  "i18n": {
+    "en-US": {
+      "title": "Temple University Hospital – Episcopal Campus",
+      "description": "Temple University Hospital – Episcopal Campus in Philadelphia offers extensive healthcare and emergency services to patients of all genders, including the transgender community. Their inclusivity extends throughout their numerous departments, including cardiology, radiology, pediatrics, physical therapy, etc. They also offer telemedicine appointments for a wide range of primary care and specialty services. Their Crisis Response Center provides 24-hour care for psychiatric emergencies as well. This location prioritizes patient care and safety, creating a safe and welcoming environment for everyone."
+    }
+  },
+  "slug": "temple-university-hospital-episcopal-campus",
+  "externalUrl": "https://www.templehealth.org/locations/temple-health-episcopal-campus?utm_source=google&utm_medium=organic",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "100 E Lehigh Ave, Philadelphia, PA 19125, USA",
+  "phoneNumber": "+1 215-707-1200",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "North Philadelphia",
+  "latLng": [
+    39.99031069999999,
+    -75.13013839999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6306050739070308878"
+  },
+  "county": "Philadelphia County"
+}

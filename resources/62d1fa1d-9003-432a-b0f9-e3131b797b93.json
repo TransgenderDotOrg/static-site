@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-oneida",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "62d1fa1d-9003-432a-b0f9-e3131b797b93",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/oneida/13421/oneida-center-2883-91110?utm_campaign=oneida-center&utm_medium=organic&utm_source=local-listing",
+  "address": "603 Seneca St Suite 5 Suite 5, Oneida, NY 13421, USA",
+  "phoneNumber": "+1 315-363-3950",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9232600474379687284"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Madison County",
+  "city": "Oneida",
+  "latLng": [
+    43.0774822,
+    -75.6516437
+  ]
+}

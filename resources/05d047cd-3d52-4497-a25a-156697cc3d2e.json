@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Hope & Help Center of Central Florida",
+      "description": "Hope & Help offers HIV/STI preventive and treatment as well as primary care to the transgender community, among other patients, across Florida. Dedicated to removing barriers that prevent people from accessing HIV/STI education, prevention resources, testing, and treatment, it provides essential health services in a safe and inclusive environment."
+    }
+  },
+  "slug": "hope-help-center-of-central-florida-winter-park",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "mental-health"
+  ],
+  "organizationType": [
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "05d047cd-3d52-4497-a25a-156697cc3d2e",
+  "externalUrl": "https://www.hopeandhelp.org/",
+  "address": "4122 Metric Dr #800, Winter Park, FL 32792, USA",
+  "phoneNumber": "+1 407-645-2577",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7368216041025576914"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Orange County",
+  "city": "Winter Park",
+  "latLng": [
+    28.5995734,
+    -81.2922335
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hampton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "bd6319aa-8667-4b94-9e2c-6e47e1e478d4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/virginia/hampton/23666/hampton-health-center-4164-91750?utm_campaign=hampton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "403 Yale Dr, Hampton, VA 23666, USA",
+  "phoneNumber": "+1 757-826-2079",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4000692316834798845"
+  },
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Hampton",
+  "latLng": [
+    37.0306997,
+    -76.4236098
+  ]
+}

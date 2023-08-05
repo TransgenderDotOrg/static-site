@@ -1,0 +1,32 @@
+{
+  "id": "c9e3d7a2-7f07-4d17-8c8d-ade47d2f1251",
+  "i18n": {
+    "en-US": {
+      "title": "UNMC Nebraska Medicine: promoting healthcare for the transgender community",
+      "description": "The University of Nebraska Medical Center provides a range of academic health sciences programs and comprehensive health care, striving to work in an environment of diversity, equity, and inclusion. They are known to promote healthcare and wellness for all, specifically including the transgender community, providing services, resources, education, and research that help ensure quality healthcare access for everyone. Through their innovative educational engagement programs and a commitment to transform health sciences, they empower the transgender community by improving patient outcomes, and promoting diversity and social inclusion"
+    }
+  },
+  "slug": "unmc-nebraska-medicine",
+  "externalUrl": "https://www.unmc.edu/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "S 42nd St & Emile St, Omaha, NE 68105, USA",
+  "phoneNumber": "+1 402-559-4000",
+  "country": "US",
+  "provinceOrState": "NE",
+  "city": "Medical Center",
+  "latLng": [
+    41.2542228,
+    -95.975774
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15164489596603075704"
+  },
+  "county": "Douglas County"
+}

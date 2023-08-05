@@ -1,0 +1,36 @@
+{
+  "id": "edfd1479-87ef-48c7-8124-4218a9d83830",
+  "i18n": {
+    "en-US": {
+      "title": "Health Brigade",
+      "description": "Health Brigade, formerly known as Fan Free Clinic, provides a myriad of medical, mental health, community outreach and care coordination services for low-income and uninsured individuals, particularly the marginalized and stigmatized transgender community. It is renowned as a safe and non-judgemental environment, offering services including Trans Health and Needle Exchange. The Health Brigade has earned a gold rating from the National Association of Free and Charitable Clinics Quality Standards Program and is dedicated to continuously evolving to meet the changing health needs of the community."
+    }
+  },
+  "slug": "health-brigade",
+  "externalUrl": "http://www.healthbrigade.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1010 N Thompson St, Richmond, VA 23230, USA",
+  "phoneNumber": "+1 804-358-6343",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Museum District",
+  "latLng": [
+    37.5676569,
+    -77.4793059
+  ],
+  "email": "info@healthbrigade.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4243889193785461265"
+  }
+}

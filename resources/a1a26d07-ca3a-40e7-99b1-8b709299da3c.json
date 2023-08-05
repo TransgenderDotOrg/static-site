@@ -1,0 +1,37 @@
+{
+  "id": "a1a26d07-ca3a-40e7-99b1-8b709299da3c",
+  "i18n": {
+    "en-US": {
+      "title": "Virtua Pride Primary Care Clinic",
+      "description": "Virtua Pride Primary Care is a trusted health partner in the LGBTQ+ community. Offering a safe, comfortable environment where each individual feels respected and heard. The clinic's team is trained to address unique health needs of the community, particularly Transgender people. The focus is on thorough care, which includes breaking down stigmas around pelvic health, offering extensive LGBTQ+ care, and providing services to manage chronic diseases like kidney disorders. The clinic fosters a culture where it is easy for you to be yourself and still get the care you deserve."
+    }
+  },
+  "slug": "virtua-pride-primary-care-clinic",
+  "externalUrl": "https://go.virtua.org/pride-primary-care.html?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "support-group"
+  ],
+  "address": "534 Lippincott Dr, Evesham, NJ 08053, USA",
+  "phoneNumber": "+1 856-355-7144",
+  "country": "US",
+  "provinceOrState": "NJ",
+  "city": "Marlton",
+  "latLng": [
+    39.8814893,
+    -74.92481959999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14157980220028522174"
+  },
+  "county": "Burlington County"
+}

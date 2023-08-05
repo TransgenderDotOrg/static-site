@@ -1,0 +1,34 @@
+{
+  "id": "c7f3f509-a719-4489-9cb3-73b30d787c2b",
+  "i18n": {
+    "en-US": {
+      "title": "Centura Health Southern Colorado Family Medicine Residency",
+      "description": "Providing full-scope family medicine physician training, we focus on diverse areas including underserved outpatient clinics, inpatient adult medicine service, and prenatal care. Regardless of your identity, we strive to provide the best care, with our team of medical professionals passionate about serving the trans community and offering a supportive environment."
+    }
+  },
+  "slug": "centura-health-southern-colorado-family-medicine-residency",
+  "externalUrl": "https://www.centura.org/education-and-training/residencies-and-internships/southern-colorado-family-medicine-residency",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "902 Lakeview Ave, Pueblo, CO 81004, USA",
+  "phoneNumber": "+1 719-557-5855",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Bessemer",
+  "latLng": [
+    38.2347462,
+    -104.6219378
+  ],
+  "socialMedia": {
+    "googleMapsUrl": " https://maps.google.com/?cid=16904096644732013685"
+  },
+  "county": "Pueblo County"
+}

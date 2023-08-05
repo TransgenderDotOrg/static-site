@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-south-delridge",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "07d20087-2fdc-45aa-866f-a207e2edfe63",
+  "externalUrl": "https://neighborcare.org/clinics/denny-international-middle-school/",
+  "address": "2601 SW Kenyon St, Seattle, WA 98106, USA",
+  "phoneNumber": "+1 206-938-1360",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7029335308520647583"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "South Delridge",
+  "latLng": [
+    47.5300051,
+    -122.3659881
+  ]
+}

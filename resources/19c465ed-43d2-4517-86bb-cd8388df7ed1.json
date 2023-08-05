@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lower-north-side",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "19c465ed-43d2-4517-86bb-cd8388df7ed1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/wisconsin/la-crosse/54603/la-crosse-9001-91860?utm_campaign=la-crosse&utm_medium=organic&utm_source=local-listing",
+  "address": "1201 Caledonia St, La Crosse, WI 54603, USA",
+  "phoneNumber": "+1 844-493-1052",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15260639203690837716"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "La Crosse County",
+  "city": "Lower North Side",
+  "latLng": [
+    43.8404226,
+    -91.2470321
+  ]
+}

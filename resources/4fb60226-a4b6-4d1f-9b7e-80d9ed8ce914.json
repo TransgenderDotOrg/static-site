@@ -1,0 +1,36 @@
+{
+  "id": "4fb60226-a4b6-4d1f-9b7e-80d9ed8ce914",
+  "i18n": {
+    "en-US": {
+      "title": "16th Street Internal Medicine & Pediatrics",
+      "description": "16th Street Internal Medicine & Pediatrics, part of UCLA Health, offers comprehensive medical care for both adults and children, including individuals of the transgender community. The staff physicians are trained in both Internal Medicine and Pediatrics, known as Med-Peds. They also offer specialized programs in mental health, gender health, nutrition, and well-being. This clinic is notable for its ability to care for patients in all stages of life, from newborn to geriatric patients."
+    }
+  },
+  "slug": "16th-street-internal-medicine-pediatrics",
+  "externalUrl": "https://www.uclahealth.org/Med-Peds-Care?utm_source=google&utm_medium=Yext",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1245 16th St Suite 125, Santa Monica, CA 90404, USA",
+  "phoneNumber": "+1 310-315-8900",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Mid-City",
+  "latLng": [
+    34.0273878,
+    -118.4854261
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5679901751622000948"
+  },
+  "county": "Los Angeles County"
+}

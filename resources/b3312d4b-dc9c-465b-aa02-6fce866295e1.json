@@ -1,0 +1,34 @@
+{
+  "id": "b3312d4b-dc9c-465b-aa02-6fce866295e1",
+  "i18n": {
+    "en-US": {
+      "title": "Bronson Diabetes & Endocrinology Center - Portage",
+      "description": "The Bronson Diabetes & Endocrinology Center in Portage, Michigan has Dr. Corey Lager, an endocrinology specialist with significant experience in working with transgender individuals seeking gender-affirming care. This office provides an individualized, patient-specific approach to care, ensuring patients are equipped with the knowledge and tools necessary for health success."
+    }
+  },
+  "slug": "bronson-diabetes-and-endocrinology-center-portage-michigan",
+  "externalUrl": "https://www.bronsonhealth.com/doctors/corey-lager",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "7901 S 12th St Suite 200, Portage, MI 49024, USA",
+  "phoneNumber": "+12693418585",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Woodbridge Hills",
+  "latLng": [
+    42.2025772,
+    -85.6467874
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13781665487902045004"
+  },
+  "county": "Kalamazoo County"
+}

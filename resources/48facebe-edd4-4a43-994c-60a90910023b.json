@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-grants-pass",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "48facebe-edd4-4a43-994c-60a90910023b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/grants-pass/97526/grants-pass-health-center-2371-91380?utm_campaign=grants-pass-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "160 NW Franklin Blvd, Grants Pass, OR 97526, USA",
+  "phoneNumber": "+1 541-344-9411",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=579057362435171120"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Josephine County",
+  "city": "Grants Pass",
+  "latLng": [
+    42.4569945,
+    -123.3245817
+  ]
+}

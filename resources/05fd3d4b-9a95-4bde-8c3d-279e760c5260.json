@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Central Outreach Wellness Center",
+      "description": "Central Outreach Wellness Center is an inclusive, holistic healthcare provider that specializes in LGBTQIA, HIV & Hep C healthcare. We understand the unique health concerns of our community and provide resources, services, and medical care with dignity, respect, and no judgement. Our centers are welcoming to everyone and specialize in comprehensive gay health care, HIV & Hep C primary care, and transgender health care."
+    }
+  },
+  "slug": "central-outreach-wellness-center-north-shore",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "05fd3d4b-9a95-4bde-8c3d-279e760c5260",
+  "externalUrl": "https://www.centraloutreach.com/",
+  "address": "127 Anderson St STE 101, Pittsburgh, PA 15212, USA",
+  "phoneNumber": "+1 412-322-4151",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9894178989017673182"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Allegheny County",
+  "city": "North Shore",
+  "latLng": [
+    40.4486915,
+    -80.00105099999999
+  ]
+}

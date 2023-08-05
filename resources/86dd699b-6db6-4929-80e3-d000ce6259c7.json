@@ -1,0 +1,35 @@
+{
+  "id": "86dd699b-6db6-4929-80e3-d000ce6259c7",
+  "i18n": {
+    "en-US": {
+      "title": "Emma Goldman Clinic, Iowa City",
+      "description": "The Emma Goldman Clinic is a not-for-profit organization providing inclusive, non-judgmental and quality healthcare services. They value diversity and uphold feminist principles, offering services like abortion, gynecology, and safer-sex education. Their strong devotion to outreach and advocacy efforts also enables them accessibility to a wider clientele, including the transgender community."
+    }
+  },
+  "slug": "emma-goldman-clinic-iowa-city",
+  "externalUrl": "http://www.emmagoldman.com/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "227 N Dubuque St, Iowa City, IA 52245, USA",
+  "phoneNumber": "+1 800-848-7684",
+  "country": "US",
+  "provinceOrState": "IA",
+  "city": "Mann",
+  "latLng": [
+    41.6645123,
+    -91.5333359
+  ],
+  "email": "info@emmagoldman.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13304118592468587624"
+  },
+  "county": "Johnson County"
+}

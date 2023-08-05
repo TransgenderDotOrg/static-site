@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-far-west-side",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "53fb7fc9-bf31-4e0e-9fe5-f5e6eaa9f2f2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/san-antonio/78245/planned-parenthood-richland-hills-dr-2965-91710?utm_campaign=planned-parenthood-richland-hills-dr&utm_medium=organic&utm_source=local-listing",
+  "address": "235 Richland Hills Dr, San Antonio, TX 78245, USA",
+  "phoneNumber": "+1 210-674-2222",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11234368459837187774"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Bexar County",
+  "city": "Far West Side",
+  "latLng": [
+    29.441156,
+    -98.64457
+  ]
+}

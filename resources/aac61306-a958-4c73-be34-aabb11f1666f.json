@@ -1,0 +1,37 @@
+{
+  "id": "aac61306-a958-4c73-be34-aabb11f1666f",
+  "i18n": {
+    "en-US": {
+      "title": "Gallup Community Health: Comprehensive Healthcare for All",
+      "description": "Gallup Community Health in New Mexico is committed to providing accessible healthcare to everyone, including the transgender community. It recognizes the importance of providing sensitive and necessary health services, such as LGBTQ healthcare, reproductive health services, primary care, and medication-assisted treatment for opioid use disorders. The healthcare center believes that health equity is fundamental, ensuring that no group is left behind, irrespective of their ability to pay. Besides traditional healthcare, this center addresses the sizable care provider deficit in the region, thereby specifically focusing on and catering to the needs of the local transgender communities."
+    }
+  },
+  "slug": "gallup-community-health-comprehensive-healthcare-for-all",
+  "externalUrl": "https://gallupcommunityhealth.org/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider",
+    "non-profit-organization"
+  ],
+  "address": "2022 E Aztec, Gallup, NM 87301, USA",
+  "phoneNumber": "+1 505-397-5172",
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "Gallup",
+  "county": "McKinley County",
+  "latLng": [
+    35.5281007,
+    -108.7126334
+  ],
+  "email": "info@gallupcommunityhealth.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=795575273098399511"
+  }
+}

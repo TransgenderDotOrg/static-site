@@ -1,0 +1,34 @@
+{
+  "id": "602dd670-553c-4859-bbc0-3970656bc3af",
+  "i18n": {
+    "en-US": {
+      "title": "Corktown Health Center",
+      "description": "Corktown Health Center is a healthcare clinic located in Detroit, Michigan, that provides specialized services for the transgender community. The center encourages appointments, but also accommodates walk-ins depending on the situation. Compassionate staff members ensure non-judgmental and patient-centric care, inclusive of LGBTQ+ individuals. However, they have been reported to have a few lapses in their communication and processes."
+    }
+  },
+  "slug": "corktown-health-center",
+  "externalUrl": "https://maps.google.com/?cid=7268847255734429763",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1726 Howard St, Detroit, MI 48216, USA",
+  "phoneNumber": "+1 313-832-3300",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Corktown",
+  "latLng": [
+    42.32489810000001,
+    -83.0665789
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7268847255734429763"
+  },
+  "county": "Wayne County"
+}

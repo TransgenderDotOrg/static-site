@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-vashon",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "2e4f1e62-d2e1-4e2e-8fb3-c176f90ff98d",
+  "externalUrl": "https://neighborcare.org/clinics/vashon-island-high-school/",
+  "address": "9600 SW 204th St, Vashon, WA 98070, USA",
+  "phoneNumber": "+1 206-548-7550",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2547648940351399630"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Vashon",
+  "latLng": [
+    47.4234313,
+    -122.4573024
+  ]
+}

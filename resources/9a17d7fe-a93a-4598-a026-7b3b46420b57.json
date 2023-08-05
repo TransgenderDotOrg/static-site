@@ -1,0 +1,34 @@
+{
+  "id": "9a17d7fe-a93a-4598-a026-7b3b46420b57",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. James Koerner's OB-GYN Practice",
+      "description": "Dr. James Koerner is an experienced obstetrician-gynecologist based in Nacogdoches, Texas. While the office does not explicitly state their services for the transgender community, Dr. Koerner's practice can address various healthcare needs. It's crucial to contact the office to inquire about any specific services related to gender health."
+    }
+  },
+  "slug": "dr-james-koerners-ob-gyn-practice",
+  "externalUrl": "https://maps.google.com/?cid=3130139016309564094",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1018 N Mound St #201, Nacogdoches, TX 75961, USA",
+  "phoneNumber": "+1 936-560-2763",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Nacogdoches",
+  "socalMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3130139016309564094"
+  },
+  "county": "Nacogdoches County",
+  "latLng": [
+    31.6119575,
+    -94.6491259
+  ]
+}

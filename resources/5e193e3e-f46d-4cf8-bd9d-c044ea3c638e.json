@@ -1,0 +1,32 @@
+{
+  "id": "5e193e3e-f46d-4cf8-bd9d-c044ea3c638e",
+  "i18n": {
+    "en-US": {
+      "title": "Stanford Primary Care in Los Altos",
+      "description": "Stanford Primary Care in Los Altos provides comprehensive healthcare services including family medicine, internal medicine, and specialties such as cardiology and orthopaedics. The experienced and highly rated doctors at this clinic provide compassionate care to patients of all ages, including the transgender community. The clinic's commitment to inclusivity and tailored care ensures a comfortable environment for transgender patients seeking primary care services."
+    }
+  },
+  "slug": "stanford-primary-care-los-altos",
+  "externalUrl": "https://stanfordhealthcare.org/medical-clinics/stanford-primary-care-los-altos.html",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "960 N San Antonio Rd #101, Los Altos, CA 94022, USA",
+  "phoneNumber": "+1 650-498-9000",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "North Los Altos",
+  "latLng": [
+    37.3992751,
+    -122.1148452
+  ],
+  "email": "GuestServices@stanfordhealthcare.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15125771605772834467"
+  },
+  "county": "Santa Clara County"
+}

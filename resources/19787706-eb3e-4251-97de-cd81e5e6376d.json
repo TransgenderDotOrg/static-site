@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-milwaukie",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "19787706-eb3e-4251-97de-cd81e5e6376d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/milwaukie/97267/milwaukie-oak-grove-health-center-4195-91400?utm_campaign=milwaukie-oak-grove-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "Parking lot, 14411 SE McLoughlin Blvd, Milwaukie, OR 97267, USA",
+  "phoneNumber": "+1 888-875-7820",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14733198729519150693"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Clackamas County",
+  "city": "Milwaukie",
+  "latLng": [
+    45.4190516,
+    -122.6333899
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-sanford",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "700c76fb-95d3-409c-9681-144d1ca11df2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/maine/sanford/04073/sanford-health-center-2942-91770?utm_campaign=sanford-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "886 Main St #200b, Sanford, ME 04073, USA",
+  "phoneNumber": "+1 207-324-9385",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12440083607069336338"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "York County",
+  "city": "Sanford",
+  "latLng": [
+    43.4403195,
+    -70.7765786
+  ]
+}

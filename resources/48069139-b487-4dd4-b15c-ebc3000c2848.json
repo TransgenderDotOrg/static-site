@@ -1,0 +1,32 @@
+{
+  "id": "48069139-b487-4dd4-b15c-ebc3000c2848",
+  "i18n": {
+    "en-US": {
+      "title": "Geisinger Philipsburg - Comprehensive Healthcare Services",
+      "description": "Geisinger Philipsburg is one of the few healthcare providers that offer vast medical services ranging from family practice, internal medicine, women's health and pediatrics, to specialized fields such as urology, rheumatology, pulmonology, cardiology, nephrology, dermatology, endocrinology, gastroenterology and general surgery. Through tailored services and a compassionate approach, Geisinger Philipsburg is committed to providing supportive and inclusive care for the transgender community, ensuring every individual receives quality healthcare in a safe, respectful, and comfortable environment."
+    }
+  },
+  "slug": "geisinger-philipsburg-comprehensive-healthcare-services",
+  "externalUrl": "https://locations.geisinger.org/details.cfm?id=101&utm_source=gmb&utm_medium=web&utm_term=&utm_content=&utm_campaign=kyruus_brandify",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "210 Medical Center Dr, Philipsburg, PA 16866, USA",
+  "phoneNumber": "+1 800-230-4565",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Philipsburg",
+  "latLng": [
+    40.9063974,
+    -78.20497519999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4318647598434460316"
+  },
+  "county": "Centre County"
+}

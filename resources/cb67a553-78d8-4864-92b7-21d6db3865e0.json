@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-central-san-jose",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "cb67a553-78d8-4864-92b7-21d6db3865e0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-jose/95126/san-jose-central-health-center-3263-90130?utm_campaign=san-jose-central-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1691 The Alameda, San Jose, CA 95126, USA",
+  "phoneNumber": "+1 408-287-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7884905634066617062"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Santa Clara County",
+  "city": "Central San Jose",
+  "latLng": [
+    37.33713789999999,
+    -121.9196217
+  ]
+}

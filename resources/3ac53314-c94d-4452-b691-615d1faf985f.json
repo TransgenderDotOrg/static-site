@@ -1,0 +1,39 @@
+{
+  "id": "3ac53314-c94d-4452-b691-615d1faf985f",
+  "i18n": {
+    "en-US": {
+      "title": "Health Connections, Inc.",
+      "description": "Health Connections, Inc. is a nonprofit organization serving the Greater Milwaukee region with comprehensive health care services. This includes dedicated services for the transgender community, such as hormone therapy, counseling, and social service care coordination. With a focus on serving vulnerable populations, the clinic brings health care directly to those who traditionally experience barriers to access. With a multilingual team and community-based vaccination program, all services are designed with inclusivity and accessibility in mind."
+    }
+  },
+  "slug": "health-connections-inc",
+  "externalUrl": "http://www.healthconnectmke.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "social-services",
+    "legal",
+    "community-stories",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "4655 N Port Washington Rd #325, Milwaukee, WI 53212, USA",
+  "phoneNumber": "+1 414-269-8282",
+  "country": "US",
+  "provinceOrState": "WI",
+  "city": "Milwaukee",
+  "latLng": [
+    43.1011986,
+    -87.9173148
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13990579950107026249"
+  },
+  "county": "Milwaukee County"
+}

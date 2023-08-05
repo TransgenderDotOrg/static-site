@@ -1,0 +1,35 @@
+{
+  "id": "db982101-e7b9-4ab5-bce4-9453894c95cc",
+  "i18n": {
+    "en-US": {
+      "title": "Carilion Clinic Rheumatology",
+      "description": "Carilion Clinic Rheumatology provides specialized care for treatments related to rheumatology and is sensitive towards needs of the transgender community. This non-profit organization ensures inclusive and respectful services, promoting transgender wellness through services like infusions and joint injections to help reduce inflammation. It also offers virtual urgent care for immediate healthcare needs."
+    }
+  },
+  "slug": "carilion-clinic-rheumatology",
+  "externalUrl": "https://www.carilionclinic.org/locations/carilion-clinic-rheumatology?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization",
+    "healthcare-provider"
+  ],
+  "address": "3 Riverside Circle, Roanoke, VA 24016, USA",
+  "phoneNumber": "+1 540-224-5170",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Roanoke",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3839307695784877967"
+  },
+  "latLng": [
+    37.2556919,
+    -79.9436343
+  ]
+}

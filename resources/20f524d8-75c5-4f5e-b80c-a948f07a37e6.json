@@ -1,0 +1,36 @@
+{
+  "id": "20f524d8-75c5-4f5e-b80c-a948f07a37e6",
+  "i18n": {
+    "en-US": {
+      "title": "Malama Pono Health Services",
+      "description": "Malama Pono Health Services in Hawaii provides a range of healthcare services including women's wellness, testing and treatment for sexually transmitted diseases, case management for HIV/AIDS clients, Transgender services including counseling and Hormone replacement therapy and community education. The clinic offers 100% confidential and free STD/HIV testing & treatment services regardless of whether you have insurance. The clinic also provides PrEP services, women's healthcare, a range of support services, and acts a resource for those seeking to quit tobacco. It's reputable for its inclusivity, compassion, and tailored care for the transgender community."
+    }
+  },
+  "slug": "malama-pono-health-services",
+  "externalUrl": "http://mphskauai.org/",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4370 Kukui Grove St #115, Lihue, HI 96766, USA",
+  "phoneNumber": "+1 808-246-9577",
+  "country": "US",
+  "provinceOrState": "HI",
+  "city": "Lihue",
+  "latLng": [
+    21.9719118,
+    -159.3775103
+  ],
+  "email": "info@mphskauai.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18209397416591535445"
+  },
+  "county": "Kauai County"
+}

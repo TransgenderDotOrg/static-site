@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kaiser Permanente Health Services",
+      "description": "Kaiser Permanente offers a range of health services tailored to the needs of the transgender community including medical care, mental health support, and wellness resources. Their inclusive environment makes it easy for patients to discuss their concerns, coordinate care, and find the right health solutions."
+    }
+  },
+  "slug": "kaiser-permanente-health-services-piedmont-avenue",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "7bd1ac7a-4ef7-4983-b665-bd1490bc8833",
+  "externalUrl": "https://healthy.kaiserpermanente.org/northern-california/facilities/Oakland-Medical-Center-100344",
+  "address": "3600 Broadway, Oakland, CA 94611, USA",
+  "phoneNumber": "+1 510-752-1000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4339387481212677917"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Alameda County",
+  "city": "Piedmont Avenue",
+  "latLng": [
+    37.8234884,
+    -122.2581243
+  ]
+}

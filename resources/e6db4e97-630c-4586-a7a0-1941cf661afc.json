@@ -1,0 +1,34 @@
+{
+  "id": "e6db4e97-630c-4586-a7a0-1941cf661afc",
+  "i18n": {
+    "en-US": {
+      "title": "Lake County Health Department & Community Health Center",
+      "description": "A local office providing comprehensive healthcare services to all residents, which include the transgender community. They offer inclusive healthcare that respects the identity and needs of each patient. Resources for mental health and infectious disease testing are also available."
+    }
+  },
+  "slug": "lake-county-health-department-community-health-center",
+  "externalUrl": "http://health.lakecountyil.gov/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3010 Grand Ave, Waukegan, IL 60085, USA",
+  "phoneNumber": "+1 847-377-8000",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Waukegan",
+  "county": "Lake County",
+  "latLng": [
+    42.3720819,
+    -87.8761485
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3774953784662051384"
+  }
+}

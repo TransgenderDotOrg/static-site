@@ -1,0 +1,32 @@
+{
+  "id": "6e0ce29a-43a0-4ad1-95ed-7e6b54583ba0",
+  "i18n": {
+    "en-US": {
+      "title": "MUSC Children's Health North Charleston",
+      "description": "Based at 2250 Mall Dr, North Charleston, SC 29406, MUSC Children's Health offers dedicated healthcare facilities including After Hours Care and Medical Pavilion. It has a team of specialists including pediatricians, and orthopedic surgeons, who provide personalized health care services. Please note, specific trans support services are not mentioned and we recommend contacting them directly to confirm available resources."
+    }
+  },
+  "slug": "musc-childrens-health-north-charleston",
+  "externalUrl": "https://maps.google.com/?q=2250+Mall+Dr,+North+Charleston,+SC+29406&ftid=0x88fe63607435dcb3:0xe81fdb2394b2a265",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2250 Mall Dr, North Charleston, SC 29406, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "SC",
+  "city": "North Charleston",
+  "county": "Charleston County",
+  "latLng": [
+    32.8812102,
+    -80.0104345
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=2250+Mall+Dr,+North+Charleston,+SC+29406&ftid=0x88fe63607435dcb3:0xe81fdb2394b2a265"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5ff48239-bc34-4cfb-82c7-98af0c3034eb",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/nevada/reno/89503/fifth-street-health-center-2262-90130?utm_campaign=fifth-street-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "455 W 5th St, Reno, NV 89503, USA",
+  "phoneNumber": "+1 775-688-5555",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6865847616283695849"
+  },
+  "country": "US",
+  "provinceOrState": "NV",
+  "county": "Washoe County",
+  "city": "Downtown",
+  "latLng": [
+    39.5303045,
+    -119.8206937
+  ]
+}

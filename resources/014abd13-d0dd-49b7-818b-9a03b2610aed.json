@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fircrest",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "014abd13-d0dd-49b7-818b-9a03b2610aed",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/vancouver/98684/vancouver-health-center-2455-91400?utm_campaign=vancouver-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "11516 SE Mill Plain Blvd 2 e, Vancouver, WA 98684, USA",
+  "phoneNumber": "+1 888-875-7820",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13157198443186830033"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Clark County",
+  "city": "Fircrest",
+  "latLng": [
+    45.6217231,
+    -122.5536671
+  ]
+}

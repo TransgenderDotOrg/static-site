@@ -1,0 +1,33 @@
+{
+  "id": "74e1109e-2a73-4792-9786-74c9b9f677a1",
+  "i18n": {
+    "en-US": {
+      "title": "Stoermer Christian H. MD Clinic",
+      "description": "Stoermer Christian H. MD clinic is a medical facility that specializes in internist services in Las Vegas, NV. Dr. Stoermer, renowned for his professionalism and understanding, cultivates an atmosphere of respect and inclusivity, making his clinic tailors to the transgender community. Patients are assured of thorough and personalized healthcare services."
+    }
+  },
+  "slug": "stoermer-christian-h-md-clinic",
+  "externalUrl": "https://maps.google.com/?cid=15421535044683568460",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2110 E Flamingo Rd # 102, Las Vegas, NV 89119, USA",
+  "phoneNumber": "+1 702-836-3366",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Las Vegas",
+  "county": "Clark County",
+  "latLng": [
+    36.1154334,
+    -115.122984
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15421535044683568460"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7bff045a-98cb-41af-ab3f-08ef381f4cc7",
+  "i18n": {
+    "en-US": {
+      "title": "Springs Medical",
+      "description": "Springs Medical is a healthcare provider, offering a broad range of medical services with a commitment towards an environment free of discrimination. It provides a list of special clinics such as cervical screening, immunisation, diabetes, and wellness programs. The medical center also commits to boosting better health outcomes for the First Nations peoples - the Aboriginal and Torres Strait Islander communities. Springs Medical understands the importance of offering tailored healthcare services to the transgender community to enhance respect and self-determination."
+    }
+  },
+  "slug": "springs-medical",
+  "externalUrl": "http://www.springsmedical.com.au/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "10 Hospital St, Daylesford VIC 3460, Australia",
+  "phoneNumber": "+61353482227",
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "Daylesford",
+  "latLng": [
+    -37.3384879,
+    144.1457198
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2299478424913682082"
+  },
+  "county": "Hepburn"
+}

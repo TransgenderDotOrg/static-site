@@ -1,0 +1,33 @@
+{
+  "id": "19713821-cf78-45ed-8405-1e153f713b73",
+  "i18n": {
+    "en-US": {
+      "title": "Dignity Health Medical Foundation - Family Medicine & Pediatrics",
+      "description": "Dignity Health Medical Foundation embraces the transgender community by offering a wide range of healthcare services which include mental health counseling and preventative care. Committed to building lasting relationships, their multidisciplinary team of physicians takes a holistic approach to provide all-encompassing, specialized care according to the individual needs. They also offer pediatric care with a specific focus on the physical, emotional, and social health of children, understanding the unique needs at each stage of growth and development."
+    }
+  },
+  "slug": "dignity-health-medical-foundation-family-medicine-pediatrics",
+  "externalUrl": "https://www.dignityhealth.org/dhmf/locations/davis-family-medicine-pediatrics",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2330 W Covell Blvd, Davis, CA 95616, USA",
+  "phoneNumber": "+1 530-668-2600",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Aspen",
+  "county": "Yolo County",
+  "latLng": [
+    38.5607656,
+    -121.780047
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12801388603385955546"
+  }
+}

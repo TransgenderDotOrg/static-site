@@ -1,0 +1,37 @@
+{
+  "id": "09dfa651-ffda-4d7b-9947-a0461903e845",
+  "i18n": {
+    "en-US": {
+      "title": "ETSU Health Family Medicine - Johnson City Office",
+      "description": "ETSU Health's Family Medicine offers comprehensive health care services for both adults and children including the Trans community. It provides women's health, prenatal, obstetrics and behavioral mental health care along with other services. Dr. Allison Powers, a board certified family medicine practitioner with a fellowship in obstetrics, leads the team. The clinic offers a safe and inclusive environment for the Transgender community including transmasculine, transfeminine and non-binary individuals."
+    }
+  },
+  "slug": "etsu-health-family-medicine-johnson-city-office",
+  "externalUrl": "https://www.etsuhealth.org/locations/family-medicine-jc.php",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "Johnson City Family Practice, 917 W Walnut St, Johnson City, TN 37604, USA",
+  "phoneNumber": "+1 423-439-6464",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Johnson City",
+  "county": "Washington County",
+  "latLng": [
+    36.3059339,
+    -82.36659039999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15650723367790801363"
+  }
+}

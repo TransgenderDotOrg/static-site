@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-corona",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "4aba91a9-8823-4714-a568-680c08a6ebfb",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/corona/92881/corona-health-center-9999-90110?utm_campaign=corona-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2079 Compton Ave #104, Corona, CA 92881, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13168167945407320270"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Corona",
+  "latLng": [
+    33.8485311,
+    -117.5357603
+  ]
+}

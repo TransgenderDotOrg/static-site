@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UK Healthcare Clinic",
+      "description": "The UK Healthcare Clinic strives to support the transgender community by providing a broad range of specialised medical services. The clinic ensures the delivery of quality healthcare in a respectful, safe, and friendly environment. Our services also extend to the provision of relevant resources and support groups that cater specifically to the needs of the transgender community."
+    }
+  },
+  "slug": "uk-healthcare-clinic-lexington",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "25fc32bf-10d0-4c3a-b1cd-3c2616c59f07",
+  "externalUrl": "https://ukhealthcare.uky.edu/university-health-service?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+  "address": "University Health Service Building, 830 S Limestone, Lexington, KY 40508, USA",
+  "phoneNumber": "+1 859-323-2778",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18401158798646647178"
+  },
+  "country": "US",
+  "provinceOrState": "KY",
+  "county": "Fayette County",
+  "city": "Lexington",
+  "latLng": [
+    38.0323621,
+    -84.5088443
+  ]
+}

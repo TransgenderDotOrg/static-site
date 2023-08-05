@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-eden-prairie",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f0858dfc-5ebc-43ae-9355-5194071eb576",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/eden-prairie/55344/eden-prairie-health-center-3376-90720?utm_campaign=eden-prairie-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "582 Prairie Center Dr Suite 215, Eden Prairie, MN 55344, USA",
+  "phoneNumber": "+1 952-653-4499",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3978691304719167927"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Hennepin County",
+  "city": "Eden Prairie",
+  "latLng": [
+    44.852758,
+    -93.4290927
+  ]
+}

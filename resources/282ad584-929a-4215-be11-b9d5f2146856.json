@@ -1,0 +1,33 @@
+{
+  "id": "282ad584-929a-4215-be11-b9d5f2146856",
+  "i18n": {
+    "en-US": {
+      "title": "East Sydney Doctors",
+      "description": "Caring for the community since 1984, East Sydney Doctors provides a full range of healthcare services including sexual health, mental health, preventative health and medicinal cannabis treatment. With a strong focus on education and medical research, the clinic tailors its services to cater to everyone including the transmasculine, non-binary and transfeminine communities. New patients are warmly welcomed to enjoy the relaxed, community based atmosphere of the clinic."
+    }
+  },
+  "slug": "east-sydney-doctors",
+  "externalUrl": "https://www.eastsydneydoctors.com.au/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "102 Burton St, Darlinghurst NSW 2010, Australia",
+  "phoneNumber": "(02) 9332 2531",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Darlinghurst",
+  "county": "City of Sydney",
+  "latLng": [
+    -33.8786825,
+    151.2187365
+  ],
+  "email": "reception@eastsydneydoctors.com.au",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12054803352517086709"
+  }
+}

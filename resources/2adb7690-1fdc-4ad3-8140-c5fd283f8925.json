@@ -1,0 +1,34 @@
+{
+  "id": "2adb7690-1fdc-4ad3-8140-c5fd283f8925",
+  "i18n": {
+    "en-US": {
+      "title": "Bay Area Community Health",
+      "description": "Bay Area Community Health, located in Fremont, CA, provides diverse healthcare services tailored towards the healthcare needs of the transmasculine, transfeminine, and non-binary community in Southern Alameda and Santa Clara counties. The services range from medical, dental, and behavioral health, to vision and specialty care. It supports the transgender community by offering a safe space for accessible and comprehensive healthcare services."
+    }
+  },
+  "slug": "bay-area-community-health",
+  "externalUrl": "http://bach.health/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "39500 Liberty St, Fremont, CA 94538, USA",
+  "phoneNumber": "+1 510-770-8040",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Central District",
+  "county": "Alameda County",
+  "latLng": [
+    37.5489569,
+    -121.9769483
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11390020951608917504"
+  }
+}

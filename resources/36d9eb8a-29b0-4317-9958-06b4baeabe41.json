@@ -1,0 +1,34 @@
+{
+  "id": "36d9eb8a-29b0-4317-9958-06b4baeabe41",
+  "i18n": {
+    "en-US": {
+      "title": "Bozeman Creek Family Health",
+      "description": "Bozeman Creek Family Health is a local family practice offering comprehensive services to the transgender community. Our dedicated team of medical professionals provide gender-affirming care ranging from preventative wellness checks to behavioral health services. We are committed to providing a safe, understanding, and respectful environment for all our patients. With options for same-day appointments and a commitment to continuing education and professional development in medical areas such as internal medicine, pediatrics, gynecology, and psychiatry, we ensure all health needs are taken care of under one roof."
+    }
+  },
+  "slug": "bozeman-creek-family-health",
+  "externalUrl": "http://www.bozemancreekfamilyhealth.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "316 E Babcock St, Bozeman, MT 59715, USA",
+  "phoneNumber": "+1 406-585-0022",
+  "country": "US",
+  "provinceOrState": "MT",
+  "city": "Bozeman",
+  "latLng": [
+    45.6780634,
+    -111.0324575
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9572693671473239450"
+  },
+  "county": "Gallatin County"
+}

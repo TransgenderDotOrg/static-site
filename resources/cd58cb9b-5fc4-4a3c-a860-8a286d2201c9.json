@@ -1,0 +1,34 @@
+{
+  "id": "cd58cb9b-5fc4-4a3c-a860-8a286d2201c9",
+  "i18n": {
+    "en-US": {
+      "title": "GO CARE Community Health Center",
+      "description": "GO CARE focuses on providing a Healthy Body, Healthy Mind, and Healthy Life to the transgender community. Our services include regular medical visits, mental health support for issues like depression or anxiety, and resources to assist with good eating habits and regular exercise. We strive to offer an inclusive and comprehensive healthcare service to support and strengthen our community."
+    }
+  },
+  "slug": "go-care-community-health-center",
+  "externalUrl": "http://www.go-care.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1801 N 7th St, West Monroe, LA 71291, USA",
+  "phoneNumber": "+1 318-325-1092",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "West Monroe",
+  "county": "Ouachita Parish",
+  "latLng": [
+    32.5112256,
+    -92.1465307
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3160803765578976319"
+  }
+}

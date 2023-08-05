@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Anchor Health Connecticut - A Leader in LGBTQ Health",
+      "description": "Anchor Health provides groundbreaking, radically inclusive, gender-affirming, and sex-positive care for the LGBTQ community, with a focus on transgender and gender diverse individuals. They offer a range of services such as primary care, behavioral health, sexual health, and HIV prevention with a holistic approach, striving to create a safe and understanding environment for queer individuals."
+    }
+  },
+  "slug": "anchor-health-connecticut-west-side",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "9ddb1541-e775-4c60-8fa2-88c642b412c9",
+  "externalUrl": "https://anchorhealthct.org/",
+  "address": "30 Myano Ln UNIT 16, Stamford, CT 06902, USA",
+  "phoneNumber": "+1 203-903-8308",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3659126884330025793"
+  },
+  "country": "US",
+  "provinceOrState": "CT",
+  "county": "Fairfield County",
+  "city": "West Side",
+  "latLng": [
+    41.0497987,
+    -73.56460129999999
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-chula-vista",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "257b4eb0-02d2-4117-8048-964167d5e3de",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/chula-vista/91911/chula-vista-health-center-2328-90110?utm_campaign=chula-vista-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1295 Broadway #201, Chula Vista, CA 91911, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9803553276306353349"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Chula Vista",
+  "latLng": [
+    32.6041685,
+    -117.0778074
+  ]
+}

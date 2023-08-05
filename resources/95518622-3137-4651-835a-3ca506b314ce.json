@@ -1,0 +1,35 @@
+{
+  "id": "95518622-3137-4651-835a-3ca506b314ce",
+  "i18n": {
+    "en-US": {
+      "title": "BLISS CARES: Providing Healthcare Regardless of Ability to Pay",
+      "description": "BLISS CARES is a non-profit organization dedicated to preventing the spread of HIV, Hepatitis, and STD's. As a LGBTQ+-friendly health clinic, their financial aid program is open to all Florida residents, including the transgender community. Understanding unique concerns that such community face, BLISS CARES provides services like mental health visits, health insurance navigation and educational awareness programs which are essential for transgender health. They are committed to ensuring nobody is denied healthcare due to lack of money."
+    }
+  },
+  "slug": "bliss-cares-providing-healthcare-regardless-of-ability-to-pay",
+  "externalUrl": "http://blisscares.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2901 Curry Ford Rd suite 206, Orlando, FL 32806, USA",
+  "phoneNumber": "+1 407-203-5984",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Lake Como",
+  "latLng": [
+    28.5245522,
+    -81.34580849999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2633564717139120352"
+  },
+  "county": "Orange County"
+}

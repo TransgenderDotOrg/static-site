@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-aurora",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "991279eb-7340-4841-b24e-3f39bd69b51c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/aurora/60504/aurora-health-center-3483-90430?utm_campaign=aurora-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3051 E New York St, Aurora, IL 60504, USA",
+  "phoneNumber": "+1 630-585-0500",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10857639682649156124"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Dupage County",
+  "city": "Aurora",
+  "latLng": [
+    41.7580093,
+    -88.2391966
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9fdfe762-9a2f-4bc5-b513-8d4019957b82",
+  "i18n": {
+    "en-US": {
+      "title": "The DOCS - Transgender Management Specialists",
+      "description": "The DOCS offers a wide array of medical services including Endocrinology and Podiatry with a dedicated team of specialists. They also provide Transgender Management, addressing the unique health and wellness needs of the transgender community. The organization is composed of various healthcare professionals, each dedicated to delivering comprehensive and compassionate care to their patients."
+    }
+  },
+  "slug": "the-docs-transgender-management-specialists",
+  "externalUrl": "https://www.thedocsnv.com/?utm_source=gmb_auth",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "8352 W Warm Springs Rd, Las Vegas, NV 89113, USA",
+  "phoneNumber": "+1 702-851-7287",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Las Vegas",
+  "county": "Clark County",
+  "latLng": [
+    36.0563098,
+    -115.2738958
+  ],
+  "email": "info@thedocs.md",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9502993113965860440"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-yuba-city",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "619e37c1-443d-4a75-816d-39adfe3c5493",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/yuba-city/95991/yuba-city-health-center-2374-90130?utm_campaign=yuba-city-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "430 Palora Ave Suite G, Yuba City, CA 95991, USA",
+  "phoneNumber": "+1 530-674-2603",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9261716132532993330"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Sutter County",
+  "city": "Yuba City",
+  "latLng": [
+    39.1281353,
+    -121.6338798
+  ]
+}

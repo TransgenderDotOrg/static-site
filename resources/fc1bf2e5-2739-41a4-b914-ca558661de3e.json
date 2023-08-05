@@ -1,0 +1,36 @@
+{
+  "id": "fc1bf2e5-2739-41a4-b914-ca558661de3e",
+  "i18n": {
+    "en-US": {
+      "title": "Isla Vista Clinic - Transgender-Centered Care",
+      "description": "Isla Vista Clinic, operating under the Santa Barbara Neighborhood Clinics (SBNC), offers comprehensive primary and reproductive care specifically tailored to meet the unique health needs of transgender individuals. We provide counseling, hormonal care, and reproductive care for trans youth, trans adults, and non-binary people of all ages. Integrated with our primary care services, our behavioral health offerings ensures our model of treating patients as a 'whole person'. We strive to provide a safe, inclusive, and affirming environment for all our patients."
+    }
+  },
+  "slug": "isla-vista-clinic-transgender-centered-care",
+  "externalUrl": "https://sbclinics.org/clinics/isla-vista-clinic/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "970 Embarcadero del Mar, Goleta, CA 93117, USA",
+  "phoneNumber": "+1 805-968-1511",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Goleta",
+  "county": "Santa Barbara County",
+  "latLng": [
+    34.4117048,
+    -119.8563528
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1193251199975353496"
+  }
+}

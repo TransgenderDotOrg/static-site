@@ -1,0 +1,32 @@
+{
+  "id": "d466dcae-3fb5-4d45-81f9-0658f894e32e",
+  "i18n": {
+    "en-US": {
+      "title": "UT Health East Texas Physicians - Dr. Christine A. Powell",
+      "description": "Dr. Christine A. Powell is a renowned board-certified family medicine physician who offers comprehensive healthcare for the entire family. She is devoted to promoting healthy lifestyles and disease prevention. She is well-experienced and reputed for her patient-centered approach, focusing on achieving and maintaining optimal health for her patients. Although not directly mentioned, her holistic approach to family medicine can also be of significant advantage to transgender individuals in managing their overall health."
+    }
+  },
+  "slug": "ut-health-east-texas-physicians-dr-christine-a-powell",
+  "externalUrl": "https://uthealtheasttexas.com/provider/christine-powell-md",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "3310 Patriot Dr, Tyler, TX 75701, USA",
+  "phoneNumber": "+1 903-939-7870",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Tyler",
+  "latLng": [
+    32.3122033,
+    -95.2591176
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15755004429889477776"
+  },
+  "county": "Smith County"
+}

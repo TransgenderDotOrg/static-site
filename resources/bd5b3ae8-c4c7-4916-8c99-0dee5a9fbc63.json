@@ -1,0 +1,36 @@
+{
+  "id": "bd5b3ae8-c4c7-4916-8c99-0dee5a9fbc63",
+  "i18n": {
+    "en-US": {
+      "title": "GoodEndos - Specialist Endocrinology Practice",
+      "description": "GoodEndos is a specialist endocrinology practice providing directly tailored care focused on diabetes, preventative cardiology, and hormone replacement therapy. This includes safe, supportive and tailored services for the transgender community, specifically for individuals seeking transitional healthcare. Patient-focused care forms the cornerstone of our approach."
+    }
+  },
+  "slug": "goodendos-specialist-endocrinology-practice",
+  "externalUrl": "https://goodendos.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "41 Fairpoint Dr b, Gulf Breeze, FL 32561, USA",
+  "phoneNumber": "+1 850-733-3636",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Gulf Breeze",
+  "latLng": [
+    30.3642013,
+    -87.172009
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10717366695355715547"
+  },
+  "county": "Santa Rosa County"
+}

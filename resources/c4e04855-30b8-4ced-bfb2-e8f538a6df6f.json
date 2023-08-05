@@ -1,0 +1,33 @@
+{
+  "id": "c4e04855-30b8-4ced-bfb2-e8f538a6df6f",
+  "i18n": {
+    "en-US": {
+      "title": "Amity Medical Group",
+      "description": "Amity Medical Group provides patient-centered, team-based medical care with high-quality services. They are committed to breaking barriers and stigmas, providing access to all irrespective of socioeconomic status or health disparity. They have specialization in HIV & Infectious Disease Care, LGBTQIA+ Care, Diabetes Care, and Addiction Medicine and Counseling. They are known for creating a safe and supportive environment for all patients, including transgender individuals, by focusing on personalized care and education."
+    }
+  },
+  "slug": "amity-medical-group",
+  "externalUrl": "http://www.amitymed.org/",
+  "tags": [
+    "healthcare",
+    "education-awareness",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6010 E W.T. Harris Blvd, Charlotte, NC 28215, USA",
+  "phoneNumber": "+1 704-208-4134",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Oak Forest",
+  "latLng": [
+    35.234714,
+    -80.7340443
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12954233260433498693"
+  },
+  "county": "Mecklenburg County"
+}

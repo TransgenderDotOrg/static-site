@@ -1,0 +1,33 @@
+{
+  "id": "5b14b129-c4c6-4128-90b2-986e69b206aa",
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood - Hyde Park Health Center",
+      "description": "A healthcare facility known for its inclusive and professional staff. This clinic prioritizes the health of the LGBTQ+ community and provides valuable and affordable resources, including STD testing."
+    }
+  },
+  "slug": "planned-parenthood-hyde-park-health-center",
+  "externalUrl": "https://maps.google.com/?cid=1665959770763083023",
+  "tags": [
+    "healthcare",
+    "lgbtq-friendly"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "213 Main St, Hyde Park, VT 05655, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "VT",
+  "city": "Hyde Park",
+  "county": "Lamoille County",
+  "latLng": [
+    44.5931981,
+    -72.6159133
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1665959770763083023"
+  }
+}

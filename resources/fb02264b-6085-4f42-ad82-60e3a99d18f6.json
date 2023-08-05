@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-white-river-junction",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fb02264b-6085-4f42-ad82-60e3a99d18f6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/white-river-junction/05001/white-river-junction-health-center-2745-91770?utm_campaign=white-river-junction-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "79 S Main St, Hartford, VT 05001, USA",
+  "phoneNumber": "+1 802-281-6056",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4631034435047754366"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Windsor County",
+  "city": "White River Junction",
+  "latLng": [
+    43.6474845,
+    -72.3190297
+  ]
+}

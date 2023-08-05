@@ -1,0 +1,31 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "One Medical - Exceptional Primary Care",
+      "description": "One Medical offers exceptional primary care facilities and personalized attention to all patients, including the transgender community. The office schedules long appointments for in-depth discussions and has multiple services covering everything from chronic care to mental health issues. It offers compassionate care, recognizing the unique medical and emotional needs of transgender individuals. Practitioners are experienced in handling sensitive matters such as hormone replacement therapy, post-surgery care, and transgender-specific mental health care."
+    }
+  },
+  "slug": "one-medical-exceptional-primary-care-northwest-washington",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "159bca3d-a168-4f57-ba96-a2f359654d17",
+  "externalUrl": "https://www.onemedical.com/locations/dc/unionstation/?utm_source=google&utm_medium=organic&utm_campaign=localseo",
+  "address": "601 New Jersey Ave NW #200, Washington, DC 20001, USA",
+  "phoneNumber": "+1 202-204-1090",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9132732940084710297"
+  },
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Northwest Washington",
+  "latLng": [
+    38.8978502,
+    -77.0115524
+  ]
+}

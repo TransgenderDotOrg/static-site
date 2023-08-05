@@ -1,0 +1,34 @@
+{
+  "id": "7542c9aa-4784-4dba-bac4-95afcd5c1424",
+  "i18n": {
+    "en-US": {
+      "title": "MaineGeneral's Family Medicine Institute",
+      "description": "MaineGeneral's Family Medicine Institute offers a wide range of medical services to serve the community, inclusive of all gender identities. The facility provides comprehensive care with services spanning from prenatal to geriatrics. Services range from adult medicine, newborn care, pediatrics, sports medicine to obstetrics/gynecology among others, accredited and affiliated with top rated medical institutions. They are dedicated towards providing personalized and quality healthcare to individuals, including those from the transgender community."
+    }
+  },
+  "slug": "mainegeneral-family-medicine-institute",
+  "externalUrl": "https://www.mainegeneral.org/Pages/Care-and-Services-A-Z/Family-Medicine/Family-Medicine-Institute-FMI.aspx",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "15 E Chestnut St, Augusta, ME 04330, USA",
+  "phoneNumber": "+1 207-626-1561",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "Augusta",
+  "latLng": [
+    44.3135342,
+    -69.7677671
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4668488257468684070"
+  },
+  "county": "Kennebec County"
+}

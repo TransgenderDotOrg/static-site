@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lynnwood",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "18d72b90-2450-42f2-a41c-6914ebb96da3",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/lynnwood/98036/lynnwood-health-center-2996-91810?utm_campaign=lynnwood-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "19505 76th Ave W Ste 200, Lynnwood, WA 98036, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7906617173687152416"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Snohomish County",
+  "city": "Lynnwood",
+  "latLng": [
+    47.82203879999999,
+    -122.3351518
+  ]
+}

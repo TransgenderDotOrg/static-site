@@ -1,0 +1,36 @@
+{
+  "id": "fc031ced-43bd-44ba-ab6c-bfa6ad30edd9",
+  "i18n": {
+    "en-US": {
+      "title": "AHF Pharmacy – Personalized Care for Transgender Community",
+      "description": "AHF Pharmacy, located in Pensacola, Florida, is a local not-for-profit healthcare provider that offers personalized pharmaceutical services and care tailored specifically for the transgender community. We specialize in HIV care with a team that's certified by the American Academy of HIV Medicine. Our pharmacists provide care with respect and understanding for everyone, including transmasculine, transfeminine, and non-binary individuals. Through services like adherence packaging and confidential delivery, we make receiving and managing your medications convenient and stress-free. With every purchase you make, you're supporting our mission as 96% of our earnings are reinvested into patient services and community support."
+    }
+  },
+  "slug": "ahf-pharmacy-personalized-care-for-transgender-community",
+  "externalUrl": "http://ahfpharmacy.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "4300 Bayou Blvd #17d, Pensacola, FL 32503, USA",
+  "phoneNumber": "+1 850-472-0962",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Northeast Pensacola",
+  "latLng": [
+    30.4666377,
+    -87.2036492
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10998615293744360757"
+  },
+  "county": "Escambia County"
+}

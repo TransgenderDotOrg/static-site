@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Open Door Community Health Centers",
+      "description": "Open Door Community Health Centers provide quality medical, dental, and behavioral health care specifically tailored to the unique health needs of the transgender community. Services include gender affirming services, HIV services and substance use services in a welcoming and affirming environment. Open Door ensures access to healthcare for all, irrespective of financial, geographic, or social barriers."
+    }
+  },
+  "slug": "open-door-community-health-centers-eureka",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "ea43ef8e-355b-413d-a29b-5ceab695b443",
+  "externalUrl": "https://opendoorhealth.com/",
+  "address": "3rd St, Eureka, CA 95501, USA",
+  "phoneNumber": "+1 707-443-4666",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12163677498635139494"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Humboldt County",
+  "city": "Eureka",
+  "latLng": [
+    40.804664,
+    -124.1587569
+  ]
+}

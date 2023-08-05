@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-duluth-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "ad505fd3-917b-485a-b1df-ac78599892f7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/duluth/55811/duluth-health-center-2929-90720?utm_campaign=duluth-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1001 E Central Entrance # 200, Duluth, MN 55811, USA",
+  "phoneNumber": "+1 218-722-0833",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16379710286902964707"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "St Louis County",
+  "city": "Duluth Heights",
+  "latLng": [
+    46.7995227,
+    -92.1136571
+  ]
+}

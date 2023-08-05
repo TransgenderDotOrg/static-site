@@ -1,0 +1,31 @@
+{
+  "id": "14bd544d-bec6-4f06-a677-befe28a9cb65",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Hulinsky's Endocrinology Office",
+      "description": "Dr. Hulinsky's endocrinology practice in West Haven, Connecticut provides comprehensive healthcare services. Although not exclusively meant for the transgender community, the office stands out for its compassionate and respectful approach towards all patients regardless of their gender identity. Understandably, it might be particularly appealing to transgender individuals needing comprehensive health check-ups, hormone level monitoring, blood work, and other endocrine-related services."
+    }
+  },
+  "slug": "dr-hulinskys-endocrinology-office",
+  "externalUrl": "https://maps.google.com/?cid=13485495833509927406",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "755 Campbell Ave, West Haven, CT 06516, USA",
+  "phoneNumber": "+1 203-374-4490",
+  "country": "US",
+  "provinceOrState": "CT",
+  "city": "West Haven",
+  "latLng": [
+    41.2792332,
+    -72.9546007
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13485495833509927406"
+  },
+  "county": "New Haven County"
+}

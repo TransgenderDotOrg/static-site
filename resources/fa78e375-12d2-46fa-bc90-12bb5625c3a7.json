@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-puyallup",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fa78e375-12d2-46fa-bc90-12bb5625c3a7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/puyallup/98373/puyallup-health-center-2504-91810?utm_campaign=puyallup-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "702 30th Ave SW, Puyallup, WA 98373, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6298155592734991103"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Pierce County",
+  "city": "Puyallup",
+  "latLng": [
+    47.1628718,
+    -122.3014587
+  ]
+}

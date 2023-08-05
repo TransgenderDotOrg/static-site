@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-charlottesville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1064b8ad-c779-4449-b042-0e56ee1e84ff",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/virginia/charlottesville/22901/charlottesville-health-center-2815-90860?utm_campaign=charlottesville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2964 Hydraulic Rd, Charlottesville, VA 22901, USA",
+  "phoneNumber": "+1 434-296-1000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9657613711039086605"
+  },
+  "country": "US",
+  "provinceOrState": "VA",
+  "county": "Albemarle County",
+  "city": "Charlottesville",
+  "latLng": [
+    38.0813274,
+    -78.4920429
+  ]
+}

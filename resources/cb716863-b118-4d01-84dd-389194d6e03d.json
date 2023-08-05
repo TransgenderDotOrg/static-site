@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-mankato",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "cb716863-b118-4d01-84dd-389194d6e03d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/mankato/56001/mankato-health-center-2797-90720?utm_campaign=mankato-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "S Victory Dr, Mankato, MN 56001, USA",
+  "phoneNumber": "+1 507-387-5581",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4793534962178666132"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Blue Earth County",
+  "city": "Mankato",
+  "latLng": [
+    44.14853919999999,
+    -93.96465339999999
+  ]
+}

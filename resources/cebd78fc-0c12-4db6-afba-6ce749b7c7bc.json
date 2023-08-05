@@ -1,0 +1,35 @@
+{
+  "id": "cebd78fc-0c12-4db6-afba-6ce749b7c7bc",
+  "i18n": {
+    "en-US": {
+      "title": "FIT Health Care Clinic",
+      "description": "FIT Health Care Clinic is a local-informed consent clinic based in Phoenix offering a range of services tailored to the transgender community. With a focus on primary care and LGBTQ health, the clinic promotes dignity, respect, and holistic care. Offering telehealth facilities during the pandemic, FIT Health continues to be a beacon for personalized and specialized treatments for STDs, diabetes, and many more health concerns. The clinic also welcomes walk-ins and offers convenient appointment scheduling, making it easily accessible."
+    }
+  },
+  "slug": "fit-health-care-clinic",
+  "externalUrl": "http://www.fithcc.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "300 W Clarendon Ave UNIT 145, Phoenix, AZ 85013, USA",
+  "phoneNumber": "+1 602-279-5049",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Midtown",
+  "latLng": [
+    33.4919592,
+    -112.07853
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13716478318739379884"
+  },
+  "county": "Maricopa County"
+}

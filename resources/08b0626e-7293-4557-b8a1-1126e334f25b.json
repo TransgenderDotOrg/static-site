@@ -1,0 +1,35 @@
+{
+  "id": "08b0626e-7293-4557-b8a1-1126e334f25b",
+  "i18n": {
+    "en-US": {
+      "title": "Chena Health - Transgender-friendly Healthcare",
+      "description": "Chena Health provides a wide range of family medicine services and individualized treatment plans. Importantly for the transgender community, they offer transgender health services and are welcoming of patients of all genders from infancy through to adulthood. Their providers practice informed-consenting and caring medicine, focusing on involving the patients in their care, thereby supporting their journey with understanding and respect."
+    }
+  },
+  "slug": "chena-health-transgender-friendly-healthcare",
+  "externalUrl": "https://www.chenahealth.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1919 Lathrop St #222, Fairbanks, AK 99701, USA",
+  "phoneNumber": "+19074568191",
+  "country": "US",
+  "provinceOrState": "AK",
+  "city": "Fairbanks",
+  "county": "Fairbanks North Star Borough",
+  "latLng": [
+    64.8300686,
+    -147.7436983
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1302206683434210875"
+  }
+}

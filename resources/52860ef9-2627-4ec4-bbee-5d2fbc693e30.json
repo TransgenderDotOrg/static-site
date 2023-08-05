@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-orlando",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "52860ef9-2627-4ec4-bbee-5d2fbc693e30",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/orlando/32817/east-orlando-health-center-2857-90300?utm_campaign=east-orlando-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "11500 University Blvd b, Orlando, FL 32817, USA",
+  "phoneNumber": "+1 407-246-1788",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=384842637544548317"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Orange County",
+  "city": "Orlando",
+  "latLng": [
+    28.5970762,
+    -81.2208584
+  ]
+}

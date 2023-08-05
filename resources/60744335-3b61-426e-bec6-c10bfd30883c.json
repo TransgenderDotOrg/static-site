@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-richfield",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "60744335-3b61-426e-bec6-c10bfd30883c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/richfield/55423/richfield-health-center-4138-90720?utm_campaign=richfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "6527 Lyndale Ave S, Richfield, MN 55423, USA",
+  "phoneNumber": "+1 612-874-1420",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5452042300719767399"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Hennepin County",
+  "city": "Richfield",
+  "latLng": [
+    44.8839645,
+    -93.2845751
+  ]
+}

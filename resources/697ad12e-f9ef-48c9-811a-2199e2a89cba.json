@@ -1,0 +1,32 @@
+{
+  "id": "697ad12e-f9ef-48c9-811a-2199e2a89cba",
+  "i18n": {
+    "en-US": {
+      "title": "Family Health Centre - Kalamazoo",
+      "description": "The Family Health Center in Kalamazoo is a patient-centered health care center that is committed to providing quality care, regardless of the patient’s financial or insurance status. It offers a range of health services including Family Medicine, Pediatrics, Dental Care, Behavioral & Mental Health, and immediate care among others. While not explicitly stating its services towards the transgender community, its policy on providing care ethically and without discrimination suggests a welcoming and accommodating space for transgender people."
+    }
+  },
+  "slug": "family-health-center-kalamazoo",
+  "externalUrl": "http://www.fhckzoo.com/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "117 W Paterson St, Kalamazoo, MI 49007, USA",
+  "phoneNumber": "+1 269-349-2641",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Northside",
+  "county": "Kalamazoo County",
+  "latLng": [
+    42.3029749,
+    -85.58460459999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17956920851213937413"
+  }
+}

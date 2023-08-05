@@ -1,0 +1,35 @@
+{
+  "id": "81b73fa0-d20a-46ad-849d-d4812dd912b5",
+  "i18n": {
+    "en-US": {
+      "title": "Open Door Health- Providence, RI",
+      "description": "Open Door Health in Providence, RI, is an inclusive health center that provides transformative and comprehensive healthcare services, specifically catering to the transgender community. They offer unique services like gender-affirming care, HIV, Hepatitis C, STI treatment, and assessments for PrEP & PEP usage. They aim to provide safe, confidential, inclusive healthcare for all, aiding in the overall wellness and empowerment of the transgender community."
+    }
+  },
+  "slug": "open-door-health-providence-ri",
+  "externalUrl": "http://odhpvd.org/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "7 Central St, Providence, RI 02907, USA",
+  "phoneNumber": "+1 401-648-4700",
+  "country": "US",
+  "provinceOrState": "RI",
+  "city": "West End",
+  "latLng": [
+    41.8148119,
+    -71.4218161
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3795423777426268932"
+  },
+  "county": "Providence County"
+}

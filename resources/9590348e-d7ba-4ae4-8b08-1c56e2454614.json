@@ -1,0 +1,38 @@
+{
+  "id": "9590348e-d7ba-4ae4-8b08-1c56e2454614",
+  "i18n": {
+    "en-US": {
+      "title": "Aeroflow Urology - Incontinence Solutions and Resources",
+      "description": "Aeroflow Urology specializes in providing quality incontinence products and supplies. They are inclusive offering pediatric and adult solutions, including a range of incontinence products and catheters adaptable to needs of the transgender community. They work with various insurance policies to ensure accessible and affordable care. Transgender individuals seeking discreet, reliable and personalized continence care would find Aeroflow Urology beneficial."
+    }
+  },
+  "slug": "aeroflow-urology",
+  "externalUrl": "https://aeroflowurology.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "65 Beale Rd, Arden, NC 28704, USA",
+  "phoneNumber": "1-844-276-5588",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Arden",
+  "latLng": [
+    35.4646397,
+    -82.5277804
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6512133880535607752",
+    "instagram": "@aeroflow_urology",
+    "facebook": "https://www.facebook.com/aeroflowinc",
+    "youtube": "https://www.youtube.com/user/aeroflownc",
+    "pinterest": "https://www.pinterest.com/aeroflowinc/"
+  },
+  "county": "Buncombe County"
+}

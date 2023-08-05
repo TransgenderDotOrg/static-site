@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kaiser Permanente Health Services",
+      "description": "Kaiser Permanente offers a range of health services tailored to the needs of the transgender community including medical care, mental health support, and wellness resources. Their inclusive environment makes it easy for patients to discuss their concerns, coordinate care, and find the right health solutions."
+    }
+  },
+  "slug": "kaiser-permanente-health-services-riverside",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "1cecf775-ae9e-4eb4-9e2d-3b1eb9a144d8",
+  "externalUrl": "https://healthy.kaiserpermanente.org/oregon-washington/clinicians/Timothy-Whiteley-4172391?utm_source=GMB_listing",
+  "address": "2930 Maple St, Everett, WA 98201, USA",
+  "phoneNumber": "+1 425-261-1500",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15189390699447523585"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Snohomish County",
+  "city": "Riverside",
+  "latLng": [
+    47.97792889999999,
+    -122.1914897
+  ]
+}

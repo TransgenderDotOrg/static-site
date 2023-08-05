@@ -1,0 +1,35 @@
+{
+  "id": "886cbe71-5ae0-4ce6-8c40-887890106804",
+  "i18n": {
+    "en-US": {
+      "title": "MemorialCare Medical Group Long Beach Family Medicine Residency",
+      "description": "The MemorialCare Medical Group in Long Beach offers comprehensive medical services, with a specific focus on Family Medicine and a welcoming approach towards the transgender community. It provides gender reaffirming care, ensuring a compassionate and understanding environment for all patients. The medical practice benefits from the latest medical school training through the on-site Family Medicine Residency Program and is committed to excellence in education and patient care."
+    }
+  },
+  "slug": "memorialcare-medical-group-long-beach-family-medicine-residency",
+  "externalUrl": "https://www.memorialcare.org/locations/memorialcare-medical-group-long-beach-family-medicine-residency",
+  "tags": [
+    "healthcare",
+    "legal",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "450 E Spring St UNIT 1, Long Beach, CA 90806, USA",
+  "phoneNumber": "+1 562-933-0050",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Long Beach",
+  "latLng": [
+    33.8095834,
+    -118.1874257
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17583351997894586112"
+  },
+  "county": "Los Angeles County"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9e105990-6fe3-49a8-b64d-fda1742dfc94",
+  "i18n": {
+    "en-US": {
+      "title": "Elite Gynecological Care for the Transgender Community - The Palm Beaches",
+      "description": "Elite GYN Care of The Palm Beaches, led by Dr. Maureen Whelihan, is dedicated to offering high-quality, compassionate gynecological and sexual health services to the transgender, as well as the cisgender community. Inclusion and respect for all patients is our top priority as we offer services ensuring overall sexual health, including transitioning hormones for trans individuals. We pride ourselves in equipping patients with the knowledge for them to make informed, personal health decisions. Our facility is welcoming and boasts state-of-the-art technology to ensure best services."
+    }
+  },
+  "slug": "elite-gynecological-care-for-the-transgender-community-the-palm-beaches",
+  "externalUrl": "http://www.mygynpractice.com/?utm_source=gmb_auth",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6801 Lake Worth Rd #100w, Greenacres, FL 33467, USA",
+  "phoneNumber": "+1 561-965-9559",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Greenacres",
+  "latLng": [
+    26.6188175,
+    -80.1522347
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17667543490436130618"
+  },
+  "county": "Palm Beach County"
+}

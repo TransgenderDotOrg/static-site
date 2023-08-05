@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-old-louisville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "808619d3-69ca-44bd-afdc-3c9b892200c5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/kentucky/louisville/40203/louisville-health-center-3290-91810?utm_campaign=louisville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "842 S 7th St, Louisville, KY 40203, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14439369312573859357"
+  },
+  "country": "US",
+  "provinceOrState": "KY",
+  "county": "Jefferson County",
+  "city": "Old Louisville",
+  "latLng": [
+    38.2434262,
+    -85.7645039
+  ]
+}

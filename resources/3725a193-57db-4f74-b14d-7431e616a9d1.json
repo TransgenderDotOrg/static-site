@@ -1,0 +1,38 @@
+{
+  "id": "3725a193-57db-4f74-b14d-7431e616a9d1",
+  "i18n": {
+    "en-US": {
+      "title": "Student Health Services - Oregon State University",
+      "description": "The Student Health Services at Oregon State University provides comprehensive health services for all students, including the transgender community. They tailor their services with respectful and inclusive healthcare, ensuring students of all genders and identities receive the care and support they need. They offer multiple resources such as mental health services, healthcare, and educational awareness."
+    }
+  },
+  "slug": "student-health-services-oregon-state-university",
+  "externalUrl": "https://maps.google.com/?cid=2837384123403709201",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider",
+    "educational-institution"
+  ],
+  "address": "850 SW 26th St, Corvallis, OR 97331, USA",
+  "phoneNumber": "+1 541-737-9355",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Corvallis",
+  "latLng": [
+    44.5589308,
+    -123.28003
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2837384123403709201"
+  },
+  "county": "Benton County"
+}

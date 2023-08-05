@@ -1,0 +1,33 @@
+{
+  "id": "3f09807e-3b77-428f-953c-2d1db32ee747",
+  "i18n": {
+    "en-US": {
+      "title": "Linda J. Gromko, M.D.",
+      "description": "Dr. Linda Gromko is a family practice physician based in Seattle, providing compassionate healthcare services for over 25 years. With an inclusive approach and adapting to the changing needs of her community, she extends care to transgender and transitioning women and offers them a safe space where they feel heard and seen."
+    }
+  },
+  "slug": "linda-j-gromko-md",
+  "externalUrl": "https://maps.google.com/?cid=11356308459707772969",
+  "tags": [
+    "healthcare",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "200 W Mercer St, Seattle, WA 98119, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Uptown",
+  "county": "King County",
+  "latLng": [
+    47.62485419999999,
+    -122.3597421
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11356308459707772969"
+  }
+}

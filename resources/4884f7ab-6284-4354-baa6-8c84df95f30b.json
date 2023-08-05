@@ -1,0 +1,32 @@
+{
+  "id": "4884f7ab-6284-4354-baa6-8c84df95f30b",
+  "i18n": {
+    "en-US": {
+      "title": "Compounding Specialists Pharmacy",
+      "description": "This pharmacy practices the niche field of compounding, which tailors medication to the specific needs of individual patients, making it ideal for the transgender community. They provide a range of services including hormone replacement therapy and pain management."
+    }
+  },
+  "slug": "compounding-specialists-pharmacy",
+  "externalUrl": "http://www.wyocompounding.com/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1540 Centennial Ct Unit 100, Casper, WY 82609, USA",
+  "phoneNumber": "+1 307-333-2120",
+  "country": "US",
+  "provinceOrState": "WY",
+  "city": "Casper",
+  "county": "Natrona County",
+  "latLng": [
+    42.8329678,
+    -106.2717554
+  ],
+  "email": "info@wyocompounding.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=858972868819209775"
+  }
+}

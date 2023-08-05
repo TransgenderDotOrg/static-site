@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Family Health Centers of San Diego",
+      "description": "Committed to providing affordable and high-quality health care to everyone, especially the uninsured, low-income, and medically underserved individuals. With a list of comprehensive services, it caters to various groups including the transgender community. It provides transgender health services ensuring a safe, welcoming environment promoting essential health needs."
+    }
+  },
+  "slug": "family-health-centers-of-san-diego-barrio-logan",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "24642197-77ef-4d5c-affa-37134dfe1b64",
+  "externalUrl": "https://www.fhcsd.org/logan-heights-family-health-center/",
+  "address": "1809 National Ave, San Diego, CA 92113, USA",
+  "phoneNumber": "+1 619-515-2300",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1894365981087811126"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Barrio Logan",
+  "latLng": [
+    32.7014779,
+    -117.1467421
+  ]
+}

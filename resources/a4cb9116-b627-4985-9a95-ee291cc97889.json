@@ -1,0 +1,43 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Los Angeles LGBT Center",
+      "description": "A pivotal community safety net that provides health and mental services, social services and housing, culture and education, leadership and advocacy programs to the LGBT community. Our variety of departments aim to offer diverse resources including HIV/AIDS treatment and prevention, transgender health and wellness programs, services for homeless youth, senior services, legal assistance, and violence recovery programs. Our mission is to build a world where LGBT people thrive as healthy, equal, and beloved members of society."
+    }
+  },
+  "slug": "los-angeles-lgbt-center-central-la",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness",
+    "community-stories"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "a4cb9116-b627-4985-9a95-ee291cc97889",
+  "externalUrl": "http://www.lalgbtcenter.org/",
+  "address": "1118 N McCadden Pl, Los Angeles, CA 90038, USA",
+  "phoneNumber": "+1 323-993-7400",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4217700259731100214"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "Central LA",
+  "latLng": [
+    34.0914086,
+    -118.3372944
+  ]
+}

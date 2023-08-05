@@ -1,0 +1,33 @@
+{
+  "id": "296234d4-9a3d-4398-84e1-2f1960f21bc6",
+  "i18n": {
+    "en-US": {
+      "title": "Paoli Family Medicine",
+      "description": "Paoli Family Medicine is a healthcare provider dedicated to maintaining and improving the health of their patients. With services ranging from General Practice to Flu Vaccination, they strive to meet the diverse needs of the Transgender Community. They pride themselves on their inclusive environment and tailored services. They have eight physicians, two Certified Nurse Practitioners and one Physician Assistant available for consultations."
+    }
+  },
+  "slug": "paoli-family-medicine",
+  "externalUrl": "https://www.paolifamilymedicine.com/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "250 W Lancaster Ave STE 120, Paoli, PA 19301, USA",
+  "phoneNumber": "+1 610-644-8069",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Paoli",
+  "latLng": [
+    40.0416243,
+    -75.4990514
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4452225641095901298"
+  },
+  "county": "Chester County"
+}

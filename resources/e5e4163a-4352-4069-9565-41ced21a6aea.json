@@ -1,0 +1,31 @@
+{
+  "id": "e5e4163a-4352-4069-9565-41ced21a6aea",
+  "i18n": {
+    "en-US": {
+      "title": "USA Health Family Medicine Center",
+      "description": "USA Health Family Medicine Center provides a broad range of services with a focus on family medicine. Their providers understand and cater to their patients' unique needs by designing personalized care plans for each individual. The center is a Level 3 Patient Centered Medical Home, providing comprehensive care to cater to complex concerns in a patient-centered manner. Apart from adult medicine, pediatrics, gynecology, obstetrics, minor surgery and counseling services, they offer specialized services, such as handling complex concerns with counseling, pharmacy consultations and social services assistance. It is thus an inclusive healthcare provider that also welcomes and accommodates transgender individuals."
+    }
+  },
+  "slug": "usa-health-family-medicine-center",
+  "externalUrl": "https://www.usahealthsystem.com/locations/family-medicine-center",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1601 Center St #2a, Mobile, AL 36604, USA",
+  "phoneNumber": "+1 251-434-3475",
+  "country": "US",
+  "provinceOrState": "AL",
+  "city": "Lyons Park",
+  "latLng": [
+    30.6952613,
+    -88.0763011
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8127561559270544100"
+  },
+  "county": "Mobile County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-moorhead",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1e8d480d-07c6-4405-a6f8-28a9e77adf97",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/moorhead/56560/moorhead-health-center-2932-90720?utm_campaign=moorhead-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "803 Belsly Blvd, Moorhead, MN 56560, USA",
+  "phoneNumber": "+1 218-236-7145",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5936394525456879852"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Clay County",
+  "city": "Moorhead",
+  "latLng": [
+    46.8390627,
+    -96.7670746
+  ]
+}

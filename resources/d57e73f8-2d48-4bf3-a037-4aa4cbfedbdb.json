@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Essentia Health - Transgender Health Services",
+      "description": "Essentia Health is an integrated health system that caters to various health needs, including those of the transgender community. We offer tailored healthcare services in an inclusive environment, ensuring each individual feels comfortable and is given the highest standard of care. Our services range from routine consultations to specialized treatments and surgeries. Also, we offer support in the form of information, patient-visitor support, and scheduling appointments online or in-person. With our commitment to serving our diverse community, we aim to be a considerable contributor towards transgender health and wellbeing."
+    }
+  },
+  "slug": "essentia-health-transgender-health-services-central-hillside",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "d57e73f8-2d48-4bf3-a037-4aa4cbfedbdb",
+  "externalUrl": "https://www.essentiahealth.org/find-facility/profile/essentia-health-st-marys-medical-center-duluth/?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
+  "address": "407 E 3rd St, Duluth, MN 55805, USA",
+  "phoneNumber": "+1 218-786-4000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1949939529651732000"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "St Louis County",
+  "city": "Central Hillside",
+  "latLng": [
+    46.79327319999999,
+    -92.0966385
+  ]
+}

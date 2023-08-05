@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-santa-maria",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f362acd0-9042-46db-8bb2-bb7a691c87d3",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/santa-maria/93454/santa-maria-center-2250-90170?utm_campaign=santa-maria-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "415 E Chapel St, Santa Maria, CA 93454, USA",
+  "phoneNumber": "+1 888-898-3806",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16437097272012232737"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Santa Barbara County",
+  "city": "Santa Maria",
+  "latLng": [
+    34.9546576,
+    -120.4307478
+  ]
+}

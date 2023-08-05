@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-san-ramon",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9afe17c4-70d7-4fa9-99d9-5d05a9142fc7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-ramon/94583/san-ramon-health-center-2572-90200?utm_campaign=san-ramon-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "200 Porter Dr Suite 200 Suite 200, San Ramon, CA 94583, USA",
+  "phoneNumber": "+1 925-838-2108",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3110552602561890884"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Contra Costa County",
+  "city": "San Ramon",
+  "latLng": [
+    37.7738074,
+    -121.9903311
+  ]
+}

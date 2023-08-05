@@ -1,0 +1,34 @@
+{
+  "id": "8dba53e2-f04f-4dcc-82e1-414916434035",
+  "i18n": {
+    "en-US": {
+      "title": "Freeway Medical Tower",
+      "description": "Freeway Medical Tower, located in Little Rock, provides specialized healthcare services with a focus on serving the transgender community. The clinic is known for its welcoming environment and highly professional and caring staff. Services provided cater to the requirements of transmasculine, transfeminine and non-binary individuals among others. Please note that the opening hours are 8am to 4.30pm from Monday to Friday."
+    }
+  },
+  "slug": "freeway-medical-tower",
+  "externalUrl": "https://maps.google.com/?cid=1069211066142766368",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5800 W 10th St, Little Rock, AR 72204, USA",
+  "phoneNumber": "+1 501-666-6133",
+  "country": "US",
+  "provinceOrState": "AR",
+  "city": "Oak Forest",
+  "latLng": [
+    34.7441578,
+    -92.33907409999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1069211066142766368"
+  },
+  "county": "Pulaski County"
+}

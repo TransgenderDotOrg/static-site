@@ -1,0 +1,35 @@
+{
+  "id": "fcb20258-e135-4153-bc14-7e480b67c331",
+  "i18n": {
+    "en-US": {
+      "title": "Simply Salud Health Clinic",
+      "description": "Simply Salud Health Clinic is a healthcare service provider located in Albuquerque, New Mexico dedicated to providing fair and accessible healthcare to all members of the community. They offer a diverse range of healthcare services and believe in empowering and educating their patients to strive for their best health. They provide an apprentice model for pre-health professionals to advance their careers and have a focus on integrative medicine. Specializes in serving the underserved, including the transgender community, with respect and dignity."
+    }
+  },
+  "slug": "simply-salud-health-clinic",
+  "externalUrl": "http://www.simplementesalud.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "202 Morningside Dr SE, Albuquerque, NM 87108, USA",
+  "phoneNumber": "+1 505-266-0888",
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "Nob Hill",
+  "county": "Bernalillo County",
+  "latLng": [
+    35.0780897,
+    -106.5997194
+  ],
+  "email": "info@simplysalud.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5676766721570749274"
+  }
+}

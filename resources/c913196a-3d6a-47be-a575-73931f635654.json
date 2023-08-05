@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-mary-munford",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c913196a-3d6a-47be-a575-73931f635654",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/virginia/richmond/23221/hamilton-health-center-3913-91750?utm_campaign=hamilton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "201 N Hamilton St, Richmond, VA 23221, USA",
+  "phoneNumber": "+1 804-355-4358",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13578951495281346353"
+  },
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Mary Munford",
+  "latLng": [
+    37.5594974,
+    -77.49038279999999
+  ]
+}

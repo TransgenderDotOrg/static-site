@@ -1,0 +1,35 @@
+{
+  "id": "00e6b61c-dd4e-4891-8d81-ab515a55bdb8",
+  "i18n": {
+    "en-US": {
+      "title": "Metamorphosis Medical Center",
+      "description": "A safe, nurturing, and informed consent clinic led by Dr. Kristen Vierregger providing personalized therapies to Transgender, Non-binary, and Gender-expansive community. Offers transition-related medical services intending to realize the true health and well-being potential of each patient. Commits to uphold values such as Love, Equity, Peace, and Truth, providing a patient-focused environment."
+    }
+  },
+  "slug": "metamorphosis-medical-center",
+  "externalUrl": "https://www.metatranshormone.com/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Slomann Building, 8081 Stanton Ave #300, Buena Park, CA 90620, USA",
+  "phoneNumber": "(714) 484-8000",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Buena Park",
+  "latLng": [
+    33.8455991,
+    -117.9939975
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4768370848595991806"
+  },
+  "county": "Orange County"
+}

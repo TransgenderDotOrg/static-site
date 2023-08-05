@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-brooklyn-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "0e33d483-0654-425e-99ac-1c72f25eaf3b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/brooklyn/11201/joan-malin-brooklyn-health-center-2522-91110?utm_campaign=joan-malin-brooklyn-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "44 Court St 4th Floor, Brooklyn, NY 11201, USA",
+  "phoneNumber": "+1 212-965-7000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13329569326331780946"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Kings County",
+  "city": "Brooklyn Heights",
+  "town": "Brooklyn",
+  "latLng": [
+    40.6928027,
+    -73.9911479
+  ]
+}

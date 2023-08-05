@@ -1,0 +1,35 @@
+{
+  "id": "e2cbdc1f-6523-4bb7-82b3-e88d810b9829",
+  "i18n": {
+    "en-US": {
+      "title": "Pride Health Clinic",
+      "description": "Pride Health Clinic is an LGBTQIA2S+ friendly clinic that provides various health services targeted towards the transgender community. Their services include gender affirming care, such as masculinizing and feminizing hormones, wellness and pre-op physicals, weight loss programs, STi testing, and reproductive care. They also offer support groups for youths and families."
+    }
+  },
+  "slug": "pride-health-clinic",
+  "externalUrl": "http://www.pridehealthclinic.com/",
+  "tags": [
+    "healthcare",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4905 S 107th Ave, Omaha, NE 68127, USA",
+  "phoneNumber": "+1 402-243-1526",
+  "country": "US",
+  "provinceOrState": "NE",
+  "city": "South Central Omaha",
+  "county": "Douglas County",
+  "latLng": [
+    41.2104374,
+    -96.07878819999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18254476048349967739"
+  }
+}

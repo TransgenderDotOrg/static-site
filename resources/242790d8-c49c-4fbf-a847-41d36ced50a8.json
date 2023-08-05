@@ -1,0 +1,35 @@
+{
+  "id": "242790d8-c49c-4fbf-a847-41d36ced50a8",
+  "i18n": {
+    "en-US": {
+      "title": "Erin Everett, NP-C, AAHIVS: Primary Care & HIV Specialist",
+      "description": "Erin Everett, NP-C, AAHIVS, is a primary care provider and certified HIV specialist in Atlanta, who focuses on providing health promotion and disease prevention to the LGBTQ community. Erin holds certification from the American Academy of HIV Medicine, and in particular provides Gender Affirming treatments in a safe environment, thus greatly delivering on the needs of the transgender community."
+    }
+  },
+  "slug": "erin-everett-np-c-aahivs-primary-care-hiv-specialist",
+  "externalUrl": "https://www.erineverettnp.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1700 Briarcliff Rd NE, Atlanta, GA 30306, USA",
+  "phoneNumber": "+1 404-228-2648",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Morningside-Lenox Park",
+  "latLng": [
+    33.8035243,
+    -84.3384906
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3975071653699697613"
+  },
+  "county": "Dekalb County"
+}

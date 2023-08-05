@@ -1,0 +1,34 @@
+{
+  "id": "fb2f7a86-b5e5-4c4c-9803-a67eb5e75d1f",
+  "i18n": {
+    "en-US": {
+      "title": "Birch Grove Health Center - Transgender Health Services",
+      "description": "Birch Grove Health Center, a La Clinica facility, offers comprehensive health services tailored to the needs of the transgender community. This includes inclusive family planning, mental health counseling, adult physicals including annual well-woman exams, and referrals to specialty care. With a commitment to affordable excellence for all, Birch Grove ensures accessibility to health services for transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "birch-grove-health-center-transgender-health-services",
+  "externalUrl": "https://laclinicahealth.org/locations/birch-grove-health-center/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "910 S Central Ave, Medford, OR 97501, USA",
+  "phoneNumber": "+1 541-535-6239",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Medford",
+  "latLng": [
+    42.318487,
+    -122.8657514
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11190761337628584741"
+  },
+  "county": "Jackson County"
+}

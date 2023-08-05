@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-eureka",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "482021f3-9337-42d4-acd8-3265d81416cc",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/eureka/95503/eureka-health-center-2301-90200?utm_campaign=eureka-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3225 Timber Fall Ct b, Eureka, CA 95503, USA",
+  "phoneNumber": "+1 707-442-5700",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5126874473549481758"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Humboldt County",
+  "city": "Eureka",
+  "latLng": [
+    40.7789987,
+    -124.1351745
+  ]
+}

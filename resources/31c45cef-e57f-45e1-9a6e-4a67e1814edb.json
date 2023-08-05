@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-antioch",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "31c45cef-e57f-45e1-9a6e-4a67e1814edb",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/antioch/94509/antioch-health-center-2573-90200?utm_campaign=antioch-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1104 Buchanan Rd STE C10, Antioch, CA 94509, USA",
+  "phoneNumber": "+1 925-754-4550",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7105372110988720797"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Contra Costa County",
+  "city": "Antioch",
+  "latLng": [
+    37.9990982,
+    -121.8228543
+  ]
+}

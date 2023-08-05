@@ -1,0 +1,35 @@
+{
+  "id": "9af50af7-0843-4297-ad6b-ad0c1d0fe98b",
+  "i18n": {
+    "en-US": {
+      "title": "Family Healthcare - St. George Office",
+      "description": "Family Healthcare provides tailored healthcare services to the transgender community. It adheres to a patient-centered approach towards quality care. Apart from medical services, it also offers services in behavioral health, dental care, pharmacy, and women’s health. The healthcare team of doctors, nurses, and medical assistants focus on building a strong patient-clinician relationship. Supportive health services for transmasculine, non-binary, and transfeminine persons are available. This local clinic also provides assistance in understanding Medicaid and the healthcare marketplace for 2021."
+    }
+  },
+  "slug": "family-healthcare-st-george-office",
+  "externalUrl": "https://familyhc.org/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "25 N 100 E #102, St. George, UT 84770, USA",
+  "phoneNumber": "+1 435-986-2565",
+  "country": "US",
+  "provinceOrState": "UT",
+  "city": "St. George",
+  "latLng": [
+    37.1087846,
+    -113.5815972
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14339741591936068265"
+  },
+  "county": "Washington County"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "59187d4c-133e-4fbb-8a80-fc589cb27001",
+  "i18n": {
+    "en-US": {
+      "title": "Partnership Health Center in Missoula",
+      "description": "Partnership Health Center is a full-service medical center committed to delivering comprehensive, patient-focused, accessible, and equitable healthcare services. This health center emphasizes the values of compassion, dignity, service, and integrity in its practice. Their services include medical, dental, behavioral health, and pharmacy services. Its dedication to the provision of equitable care renders it a trusted healthcare provider to the transgender community."
+    }
+  },
+  "slug": "partnership-health-center-missoula",
+  "externalUrl": "https://www.partnershiphealthcenter.org/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "401 Railroad St W, Missoula, MT 59802, USA",
+  "phoneNumber": "+1 406-258-4789",
+  "country": "US",
+  "provinceOrState": "MT",
+  "city": "Heart of Missoula",
+  "latLng": [
+    46.8771022,
+    -113.9964535
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16648907765222208370"
+  },
+  "county": "Missoula County"
+}

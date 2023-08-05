@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-raleigh",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7c47475b-0c85-495a-8da5-d0fb83993a4b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/raleigh/27603/raleigh-health-center-3338-90860?utm_campaign=raleigh-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "100 S Boylan Ave, Raleigh, NC 27603, USA",
+  "phoneNumber": "+1 919-833-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12696572429820573643"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Wake County",
+  "city": "Raleigh",
+  "latLng": [
+    35.7797626,
+    -78.6495194
+  ]
+}

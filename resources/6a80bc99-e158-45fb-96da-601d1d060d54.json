@@ -1,0 +1,37 @@
+{
+  "id": "6a80bc99-e158-45fb-96da-601d1d060d54",
+  "i18n": {
+    "en-US": {
+      "title": "Legacy Health Primary Care - Northwest",
+      "description": "Legacy Health Primary Care is an informed consent clinic that offers tailor-stitched, discrete health services for the transgender community. Besides routine and preventative care, we provide resources and friendly medical assistance for transmasculine, transfeminine, and non-binary individuals. They can request prescriptions, set up appointments, and get assistance in a respectful and understanding environment. Our office also includes personnel who can help with legal and financial services related to health care."
+    }
+  },
+  "slug": "legacy-health-primary-care-northwest",
+  "externalUrl": "https://www.legacyhealth.org/doctors-and-locations/primary/northwest",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "legal",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1130 NW 22nd Ave #220, Portland, OR 97210, USA",
+  "phoneNumber": "+1 503-413-8988",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Northwest Portland",
+  "latLng": [
+    45.5310694,
+    -122.6962267
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4953569508038091887"
+  },
+  "county": "Multnomah County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-the-elm",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "379b76a8-01a8-49cd-9047-cf3419e5a86e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/kansas/wichita/67214/wichita-health-center-2876-90740?utm_campaign=wichita-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2226 E Central Ave, Wichita, KS 67214, USA",
+  "phoneNumber": "+1 316-263-7575",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5960918260005364936"
+  },
+  "country": "US",
+  "provinceOrState": "KS",
+  "county": "Sedgwick County",
+  "city": "The Elm",
+  "latLng": [
+    37.693857,
+    -97.3095286
+  ]
+}

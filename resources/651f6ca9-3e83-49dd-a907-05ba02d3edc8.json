@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-el-cajon",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "651f6ca9-3e83-49dd-a907-05ba02d3edc8",
+  "externalUrl": "https://locations.borregohealth.org/centro-medico-el-cajon-658329e83ecd?y_source=1_MTAxNDIyMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "133 W Main St #100, El Cajon, CA 92020, USA",
+  "phoneNumber": "+1 619-401-0404",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9411649999285819418"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "El Cajon",
+  "latLng": [
+    32.7947437,
+    -116.962936
+  ]
+}

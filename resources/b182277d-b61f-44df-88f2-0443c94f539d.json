@@ -1,0 +1,32 @@
+{
+  "id": "b182277d-b61f-44df-88f2-0443c94f539d",
+  "i18n": {
+    "en-US": {
+      "title": "Endocrinology - University of Nevada Las Vegas, Medicine",
+      "description": "An endocrinology center that provides healthcare services with an understanding of the unique needs of the transgender community. The office offers a range of essential services although the communication and customer service might need an improvement."
+    }
+  },
+  "slug": "endocrinology-university-of-nevada-las-vegas-medicine",
+  "externalUrl": "https://maps.google.com/?cid=5465335273755539311",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1707 W Charleston Blvd #200, Las Vegas, NV 89102, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Rancho Oakey",
+  "county": "Clark County",
+  "latLng": [
+    36.1579906,
+    -115.1643671
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5465335273755539311"
+  }
+}

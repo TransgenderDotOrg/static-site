@@ -1,0 +1,33 @@
+{
+  "id": "2de6d9c3-8035-4fb5-8481-c43c1640e433",
+  "i18n": {
+    "en-US": {
+      "title": "VECTOR Health & Wellness, LLC - Informed Consent Clinic",
+      "description": "VECTOR Health & Wellness is a healthcare provider catering specifically to the LGBTQ+ community, with a particular focus on transgender individuals. They offer primary care, sexual and reproductive health services, adult HIV treatment, and PrEP and nPEP services. Their trans-specific services are routed in the informed consent model, empowering individuals to make decisions about their health without the need for a psychiatric diagnosis. Safety policies including vaccination requirements and virtual consultations during inclement weather serve to ensure the health and safety of patients."
+    }
+  },
+  "slug": "vector-health-wellness-llc-fayetteville-arkansas",
+  "externalUrl": "http://vectorhealthnwa.com/",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1267 Steamboat Dr #3, Fayetteville, AR 72704, USA",
+  "phoneNumber": "+1 479-316-6565",
+  "country": "US",
+  "provinceOrState": "AR",
+  "city": "Fayetteville",
+  "county": "Washington County",
+  "latLng": [
+    36.0803127,
+    -94.20475970000001
+  ],
+  "email": "info@vectorhealthnwa.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1417493573910725024"
+  }
+}
