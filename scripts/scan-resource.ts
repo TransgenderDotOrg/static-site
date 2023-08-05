@@ -854,32 +854,93 @@ const processAddress = async (translatedJsonObject: any) => {
   })
 
   if (geocodeResponse.data.status === 'OK') {
-    const country = geocodeResponse.data.results[0].address_components.find((component) =>
-      component.types.includes('country' as AddressType),
-    )?.short_name
+    console.log(`Geocode response: ${JSON.stringify(geocodeResponse.data, null, 2)}`)
 
-    const provinceOrState = geocodeResponse.data.results[0].address_components.find((component) =>
-      component.types.includes('administrative_area_level_1' as AddressType),
-    )?.short_name
+    const country = geocodeResponse.data.results
+      .find((result) =>
+        result.address_components.find((component) =>
+          component.types.includes('country' as AddressType),
+        ),
+      )
+      ?.address_components.find((component) => component.types.includes('country' as AddressType))
+      ?.short_name
 
-    const county = geocodeResponse.data.results[0].address_components.find((component) =>
-      component.types.includes('administrative_area_level_2' as AddressType),
-    )?.short_name
+    console.log(`Country: ${country}`)
 
-    const city = geocodeResponse.data.results[0].address_components.find((component) =>
-      component.types.includes('locality' as AddressType),
-    )?.short_name
+    const provinceOrState = geocodeResponse.data.results
+      .find((result) =>
+        result.address_components.find((component) =>
+          component.types.includes('administrative_area_level_1' as AddressType),
+        ),
+      )
+      ?.address_components.find((component) =>
+        component.types.includes('administrative_area_level_1' as AddressType),
+      )?.short_name
 
-    const town = geocodeResponse.data.results[0].address_components.find((component) =>
-      component.types.includes('sublocality' as AddressType),
-    )?.short_name
+    const county = geocodeResponse.data.results
+      .find((result) =>
+        result.address_components.find((component) =>
+          component.types.includes('administrative_area_level_2' as AddressType),
+        ),
+      )
+      ?.address_components.find((component) =>
+        component.types.includes('administrative_area_level_2' as AddressType),
+      )?.short_name
 
-    const latLng = [
-      geocodeResponse.data.results[0].geometry.location.lat,
-      geocodeResponse.data.results[0].geometry.location.lng,
-    ]
+    const city = geocodeResponse.data.results
+      .find((result) =>
+        result.address_components.find(
+          (component) =>
+            component.types.includes('locality' as AddressType) ||
+            component.types.includes('neighborhood' as AddressType),
+        ),
+      )
+      ?.address_components.find(
+        (component) =>
+          component.types.includes('locality' as AddressType) ||
+          component.types.includes('neighborhood' as AddressType),
+      )?.short_name
 
-    const address = geocodeResponse.data.results[0].formatted_address
+    const town = geocodeResponse.data.results
+      .find((result) =>
+        result.address_components.find((component) =>
+          component.types.includes('sublocality' as AddressType),
+        ),
+      )
+      ?.address_components.find((component) =>
+        component.types.includes('sublocality' as AddressType),
+      )?.short_name
+
+    const latLngComponent = geocodeResponse.data.results.find((result) =>
+      result.address_components.find((component) =>
+        component.types.includes('street_address' as AddressType),
+      ),
+    )
+
+    const latLng = [latLngComponent?.geometry.location.lat, latLngComponent?.geometry.location.lng]
+
+    const address = geocodeResponse.data.results.find((result) =>
+      result.address_components.find((component) =>
+        component.types.includes('street_address' as AddressType),
+      ),
+    )?.formatted_address
+
+    console.log(
+      `About to return... ${JSON.stringify(
+        {
+          ...translatedJsonObject,
+          country,
+          provinceOrState,
+          county,
+          city,
+          town,
+          latLng,
+          address,
+        },
+        null,
+        2,
+      )}`,
+    )
 
     return {
       ...translatedJsonObject,
@@ -891,6 +952,9 @@ const processAddress = async (translatedJsonObject: any) => {
       latLng,
       address,
     }
+  } else {
+    console.log(`Geocode response status: ${geocodeResponse.data.status}`)
+    return translatedJsonObject
   }
 }
 
@@ -1086,7 +1150,9 @@ try {
             })
 
             if (!translatedJsonObject.city) {
-              console.log(`DEFAULTSET: No city found for ${chunkSize * i + index + skip}`)
+              console.log(
+                `DEFAULTSET: No city found for ${JSON.stringify(translatedJsonObject, null, 2)}`,
+              )
             }
 
             translatedJsonObject.slug = `${defaultSetClinic.slug}-${paramCase(
