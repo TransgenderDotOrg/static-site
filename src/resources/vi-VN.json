@@ -1,5 +1,289 @@
 [
   {
+    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
+    "slug": "diyhrtcafe",
+    "externalUrl": "https://diyhrt.cafe",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "legal",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "online-platform"
+    ],
+    "title": "DIYHRT.cafe",
+    "description": "Một cộng đồng trực tuyến sôi động và trung tâm kiến thức cho những người quan tâm đến việc tự tạo ra liệu pháp thay thế hormon (HRT). Trang web của họ tập trung vào việc cung cấp một không gian an toàn và bao quát nơi mọi người có thể tiếp cận thông tin, nguồn lực, và hỗ trợ cho việc tự điều khiển HRT. Dù bạn đang khám phá các phương pháp thay thế, tìm kiếm hướng dẫn về liều lượng và quản lý, hay chỉ đơn giản muốn kết nối với những người chia sẻ những trải nghiệm tương tự, DIYHRT.cafe mang đến một nguồn thông tin quý giá, câu chuyện cá nhân, và lời khuyên chuyên môn để giúp bạn ra quyết định thông suốt về sức khỏe và cuộc sống của bạn.",
+    "organizationType": [
+      "online-platform",
+      "healthcare-provider"
+    ]
+  },
+  {
+    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
+    "slug": "transfemscienceorg",
+    "externalUrl": "https://transfemscience.org",
+    "tags": [
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "title": "transfemscience.org",
+    "description": "Một nền tảng trực tuyến tiên phong dành riêng để cung cấp nghiên cứu, giáo dục và nguồn lực dựa trên bằng chứng cho cộng đồng người chuyển giới và không nhị phân, với một trọng tâm đặc biệt vào liệu pháp hormone nữ hóa (FHT). Trang web của họ phục vụ như một trung tâm quan trọng cho những người đang tìm kiếm thông tin tin cậy và cập nhật về các khía cạnh y khoa, sinh lý học, và tâm lý học của FHT. Thông qua bộ sưu tập toàn diện của họ về các nghiên cứu được xem xét bởi đồng nghiệp, các bài viết của chuyên gia, và các hướng dẫn thực tế, trang web của họ trao quyền cho các cá nhân để đưa ra quyết định thông suốt về quá trình chuyển đổi và sức khỏe của họ.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "Chiến dịch Quyền Con người",
+    "description": "Chiến dịch Quyền Con người chiến đấu vì quyền lợi và sự bình đẳng của cộng đồng LGBTQ+. Họ nhằm mục đích chấm dứt sự phân biệt và thúc đẩy các chính sách ủng hộ bình đẳng thông qua giáo dục, vận động và tập hợp. Họ cũng cung cấp các nguồn lực cho những người trong cộng đồng LGBTQ+ để tham gia vào các khu vực địa phương của họ.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
+    "slug": "genderdysphoriafyi",
+    "externalUrl": "https://genderdysphoria.fyi",
+    "tags": [
+      "education-awareness",
+      "transmasculine",
+      "transfeminine",
+      "non-binary"
+    ],
+    "title": "genderdysphoria.fyi",
+    "description": "Một nguồn tài nguyên trực tuyến đáng tin cậy cho những người đang tìm kiếm kiến thức, sự hỗ trợ, và sự hiểu biết về rối loạn giới tính. Trang web của họ cung cấp một lượng lớn thông tin, tài nguyên, và kết nối cộng đồng để trao quyền cho mọi người trên hành trình của họ. Từ các hướng dẫn toàn diện về danh tính giới tính và chuyển đổi giới tính đến những câu chuyện cá nhân và lời khuyên từ chuyên gia, họ nỗ lực tạo nên một không gian an toàn và bao quát cho tất cả mọi người.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "youth-services",
+      "healthcare",
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "parent-family-resources"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "Đa dạng giới tính",
+    "description": "Đa dạng giới tính cải thiện sự ổn định của trẻ em và người lớn thuộc mọi danh tính và biểu hiện giới tính bằng cách cung cấp giáo dục, nâng cao nhận thức, và đem lại cái nhìn sâu sắc vào phạm vi rộng lớn hơn của trải nghiệm con người. Chúng tôi còn hỗ trợ trong việc tạo ra môi trường hỗ trợ và không phân biệt đối xử tại các trường học, đội thể thao, nơi làm việc, và nhà cung cấp dịch vụ y tế cho các cá nhân chuyển đổi giới tính và đa dạng giới tính.",
+    "organizationType": [
+      "educational-institution",
+      "non-profit-organization",
+      "online-platform"
+    ]
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "Trung tâm quốc gia về Bình đẳng Transgender",
+    "description": "Trung tâm quốc gia về Bình đẳng Transgender là một tổ chức đấu tranh để thay đổi chính sách và thái độ của xã hội nhằm tăng sự hiểu biết và chấp nhận người Transgender. NCTE cung cấp thông tin về các vấn đề ảnh hưởng đến cộng đồng Transgender bao gồm lão hóa, chống bạo lực, việc làm, gia đình, sức khỏe & HIV, nhà ở & người vô gia cư, và nhiều hơn nữa.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline là một tổ chức do người chuyển giới lãnh đạo cung cấp sự hỗ trợ đồng nghiệp và tài nguyên cho cộng đồng chuyển giới. Với trọng tâm là hỗ trợ cộng đồng, cấp vốn nhỏ và đường dây nóng, họ nhằm cung cấp cho người chuyển giới những kết nối và tài nguyên họ cần để phát triển. Trans Lifeline cũng đấu tranh cho cộng đồng chuyển giới thông qua các sáng kiến như #SafeHotlines.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Dự án Trevor",
+    "description": "Dự án Trevor là một tổ chức phi lợi nhuận của Mỹ cung cấp dịch vụ phòng ngừa tự tử cho giới trẻ LGBTQ+. Trang web cung cấp các nguồn lực quý giá cho cộng đồng người chuyển giới, bao gồm can thiệp khủng hoảng và dây đường dây nóng phòng ngừa tự tử, TrevorChat, và TrevorText cũng như tư vấn về sức khỏe tâm thần, dịch vụ xã hội, và nhóm hỗ trợ.",
+    "organizationType": [
+      "national-organization",
+      "online-platform",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
+    "slug": "transgendermap",
+    "externalUrl": "https://transgendermap.com",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "voice-training",
+      "makeup",
+      "clothing",
+      "community-stories"
+    ],
+    "title": "Bản đồ Transgender",
+    "description": "Transgendermap.com là một nguồn tài nguyên trực tuyến nhằm cung cấp thông tin và hướng dẫn thực tế cho những người đang thắc mắc về giới tính của mình hoặc đang nằm ở một đâu đó trên phổ giới tính chuyển đổi. Trang web bao gồm một loạt các chủ đề như hiểu về thuật ngữ transgender, quá trình chuyển đổi, vấn đề pháp lý, chăm sóc sức khỏe và nhiều câu chuyện cá nhân. Mục tiêu của nó là giúp cá nhân điều hướng hành trình cá nhân của mình bằng cách cung cấp một 'bản đồ' hoặc hướng dẫn về nhiều khía cạnh của giới tính và trải nghiệm transgender. Vui lòng truy cập trang web thực sự để nhận thông tin mới nhất và chính xác nhất.",
+    "organizationType": [
+      "online-platform",
+      "educational-institution"
+    ]
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "Gia đình Trans",
+    "description": "Gia đình Trans truyền cảm hứng hy vọng, tăng sự hiểu biết và tạo ra lối mòn hữu hình để hỗ trợ trẻ em Trans và đa dạng giới tính cũng như tất cả những người có liên quan đến cuộc sống của họ. Chúng tôi cung cấp nguồn lực, tổ chức sự kiện và kết nối gia đình với các nhóm hỗ trợ.",
+    "organizationType": [
+      "non-profit-organization",
+      "online-platform",
+      "support-group"
+    ]
+  },
+  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -2106,27 +2390,6 @@
     ],
     "title": "Circle Care Center",
     "description": "Located in Connecticut, Circle Care Center is an LGBTQI+ affirming medical services and sexual health center. Offering a range of services such as Primary Care, HIV Treatment & Care, Behavioral Health, and Gender-Affirming Care. It is dedicated to creating a supportive and inclusive environment for the transgender community, providing name and gender change assistance to help ease the transition process. The warm, caring, and committed staff makes it a safe space for those seeking medical attention."
-  },
-  {
-    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
-    "slug": "diyhrtcafe",
-    "externalUrl": "https://diyhrt.cafe",
-    "tags": [
-      "transfeminine",
-      "transmasculine",
-      "non-binary",
-      "healthcare",
-      "legal",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "online-platform"
-    ],
-    "title": "DIYHRT.cafe",
-    "description": "Một cộng đồng trực tuyến sôi động và trung tâm kiến thức cho những người quan tâm đến việc tự tạo ra liệu pháp thay thế hormon (HRT). Trang web của họ tập trung vào việc cung cấp một không gian an toàn và bao quát nơi mọi người có thể tiếp cận thông tin, nguồn lực, và hỗ trợ cho việc tự điều khiển HRT. Dù bạn đang khám phá các phương pháp thay thế, tìm kiếm hướng dẫn về liều lượng và quản lý, hay chỉ đơn giản muốn kết nối với những người chia sẻ những trải nghiệm tương tự, DIYHRT.cafe mang đến một nguồn thông tin quý giá, câu chuyện cá nhân, và lời khuyên chuyên môn để giúp bạn ra quyết định thông suốt về sức khỏe và cuộc sống của bạn.",
-    "organizationType": [
-      "online-platform",
-      "healthcare-provider"
-    ]
   },
   {
     "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
@@ -4607,21 +4870,6 @@
     "description": "Santa Rosa Community Health is dedicated to providing comprehensive health services to all, including the transgender community. They offer specialized care such as their Gender Clinic and services for intellectual and developmental disabilities. They prioritize understanding, respect, and high-quality care, ensuring all patients are heard and valued. Their services range from primary and mental health care to dental services, women’s health, pediatrics, wellness groups, and more. Their team is ready to work together for the health and wellness of their patients."
   },
   {
-    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
-    "slug": "transfemscienceorg",
-    "externalUrl": "https://transfemscience.org",
-    "tags": [
-      "transfeminine",
-      "healthcare",
-      "education-awareness"
-    ],
-    "title": "transfemscience.org",
-    "description": "Một nền tảng trực tuyến tiên phong dành riêng để cung cấp nghiên cứu, giáo dục và nguồn lực dựa trên bằng chứng cho cộng đồng người chuyển giới và không nhị phân, với một trọng tâm đặc biệt vào liệu pháp hormone nữ hóa (FHT). Trang web của họ phục vụ như một trung tâm quan trọng cho những người đang tìm kiếm thông tin tin cậy và cập nhật về các khía cạnh y khoa, sinh lý học, và tâm lý học của FHT. Thông qua bộ sưu tập toàn diện của họ về các nghiên cứu được xem xét bởi đồng nghiệp, các bài viết của chuyên gia, và các hướng dẫn thực tế, trang web của họ trao quyền cho các cá nhân để đưa ra quyết định thông suốt về quá trình chuyển đổi và sức khỏe của họ.",
-    "organizationType": [
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -5129,36 +5377,6 @@
     "county": "Kauai County",
     "title": "Malama Pono Health Services",
     "description": "Malama Pono Health Services in Hawaii provides a range of healthcare services including women's wellness, testing and treatment for sexually transmitted diseases, case management for HIV/AIDS clients, Transgender services including counseling and Hormone replacement therapy and community education. The clinic offers 100% confidential and free STD/HIV testing & treatment services regardless of whether you have insurance. The clinic also provides PrEP services, women's healthcare, a range of support services, and acts a resource for those seeking to quit tobacco. It's reputable for its inclusivity, compassion, and tailored care for the transgender community."
-  },
-  {
-    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
-    "slug": "human-rights-campaign",
-    "externalUrl": "https://www.hrc.org/",
-    "tags": [
-      "legal",
-      "education-awareness",
-      "community-stories"
-    ],
-    "address": null,
-    "phoneNumber": null,
-    "country": "us",
-    "provinceOrState": null,
-    "city": null,
-    "county": null,
-    "latLng": null,
-    "email": null,
-    "socialMedia": {
-      "twitterUrl": "https://twitter.com/HRC",
-      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
-      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
-      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
-    },
-    "title": "Chiến dịch Quyền Con người",
-    "description": "Chiến dịch Quyền Con người chiến đấu vì quyền lợi và sự bình đẳng của cộng đồng LGBTQ+. Họ nhằm mục đích chấm dứt sự phân biệt và thúc đẩy các chính sách ủng hộ bình đẳng thông qua giáo dục, vận động và tập hợp. Họ cũng cung cấp các nguồn lực cho những người trong cộng đồng LGBTQ+ để tham gia vào các khu vực địa phương của họ.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -9511,22 +9729,6 @@
     ],
     "title": "Legacy Community Health",
     "description": "Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay."
-  },
-  {
-    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
-    "slug": "genderdysphoriafyi",
-    "externalUrl": "https://genderdysphoria.fyi",
-    "tags": [
-      "education-awareness",
-      "transmasculine",
-      "transfeminine",
-      "non-binary"
-    ],
-    "title": "genderdysphoria.fyi",
-    "description": "Một nguồn tài nguyên trực tuyến đáng tin cậy cho những người đang tìm kiếm kiến thức, sự hỗ trợ, và sự hiểu biết về rối loạn giới tính. Trang web của họ cung cấp một lượng lớn thông tin, tài nguyên, và kết nối cộng đồng để trao quyền cho mọi người trên hành trình của họ. Từ các hướng dẫn toàn diện về danh tính giới tính và chuyển đổi giới tính đến những câu chuyện cá nhân và lời khuyên từ chuyên gia, họ nỗ lực tạo nên một không gian an toàn và bao quát cho tất cả mọi người.",
-    "organizationType": [
-      "online-platform"
-    ]
   },
   {
     "i18n": {
@@ -19477,38 +19679,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
-    "slug": "gender-diversity",
-    "externalUrl": "https://genderdiversity.org",
-    "tags": [
-      "education-awareness",
-      "youth-services",
-      "healthcare",
-      "non-binary",
-      "transmasculine",
-      "transfeminine",
-      "parent-family-resources"
-    ],
-    "address": "6523 California Ave SW #144, Seattle, WA 98136",
-    "country": "US",
-    "provinceOrState": "WA",
-    "city": "Seattle",
-    "county": "King County",
-    "latLng": [
-      47.544046,
-      -122.387452
-    ],
-    "phoneNumber": "1-833-3GENDER",
-    "email": "info@genderdiversity.org",
-    "title": "Đa dạng giới tính",
-    "description": "Đa dạng giới tính cải thiện sự ổn định của trẻ em và người lớn thuộc mọi danh tính và biểu hiện giới tính bằng cách cung cấp giáo dục, nâng cao nhận thức, và đem lại cái nhìn sâu sắc vào phạm vi rộng lớn hơn của trải nghiệm con người. Chúng tôi còn hỗ trợ trong việc tạo ra môi trường hỗ trợ và không phân biệt đối xử tại các trường học, đội thể thao, nơi làm việc, và nhà cung cấp dịch vụ y tế cho các cá nhân chuyển đổi giới tính và đa dạng giới tính.",
-    "organizationType": [
-      "educational-institution",
-      "non-profit-organization",
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -20602,43 +20772,6 @@
       "national-organization",
       "local-office",
       "legal-service"
-    ]
-  },
-  {
-    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
-    "slug": "national-center-for-transgender-equality",
-    "externalUrl": "https://transequality.org",
-    "tags": [
-      "non-binary",
-      "legal",
-      "healthcare",
-      "education-awareness",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "community-stories",
-      "mental-health",
-      "social-services"
-    ],
-    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
-    "phoneNumber": "(202) 642-4542",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "Washington D.C.",
-    "county": "District of Columbia",
-    "latLng": [
-      38.903438,
-      -77.035037
-    ],
-    "email": "ncte@transequality.org",
-    "socialMedia": {
-      "blogUrl": "https://transequality.org/blog"
-    },
-    "title": "Trung tâm quốc gia về Bình đẳng Transgender",
-    "description": "Trung tâm quốc gia về Bình đẳng Transgender là một tổ chức đấu tranh để thay đổi chính sách và thái độ của xã hội nhằm tăng sự hiểu biết và chấp nhận người Transgender. NCTE cung cấp thông tin về các vấn đề ảnh hưởng đến cộng đồng Transgender bao gồm lão hóa, chống bạo lực, việc làm, gia đình, sức khỏe & HIV, nhà ở & người vô gia cư, và nhiều hơn nữa.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
     ]
   },
   {
@@ -23584,43 +23717,6 @@
     "description": "Anchor Health provides groundbreaking, radically inclusive, gender-affirming, and sex-positive care for the LGBTQ community, with a focus on transgender and gender diverse individuals. They offer a range of services such as primary care, behavioral health, sexual health, and HIV prevention with a holistic approach, striving to create a safe and understanding environment for queer individuals."
   },
   {
-    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
-    "slug": "trans-lifeline-peer-support-and-resources",
-    "externalUrl": "https://translifeline.org/",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "support-groups",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "community-stories"
-    ],
-    "address": null,
-    "email": null,
-    "phoneNumber": "(877) 565-8860",
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TransLifeline/",
-      "twitterUrl": "https://twitter.com/TransLifeline",
-      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
-      "youtubeUrl": null,
-      "tiktokUrl": null,
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "Trans Lifeline",
-    "description": "Trans Lifeline là một tổ chức do người chuyển giới lãnh đạo cung cấp sự hỗ trợ đồng nghiệp và tài nguyên cho cộng đồng chuyển giới. Với trọng tâm là hỗ trợ cộng đồng, cấp vốn nhỏ và đường dây nóng, họ nhằm cung cấp cho người chuyển giới những kết nối và tài nguyên họ cần để phát triển. Trans Lifeline cũng đấu tranh cho cộng đồng chuyển giới thông qua các sáng kiến như #SafeHotlines.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
-  },
-  {
     "id": "9e105990-6fe3-49a8-b64d-fda1742dfc94",
     "i18n": {
       "en-US": {
@@ -24203,46 +24299,6 @@
     ],
     "title": "Planned Parenthood",
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
-  },
-  {
-    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
-    "slug": "the-trevor-project",
-    "externalUrl": "https://www.thetrevorproject.org/",
-    "tags": [
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "education-awareness"
-    ],
-    "address": "West Hollywood, CA 90069, USA",
-    "email": null,
-    "phoneNumber": "(212) 695-8650",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "West Hollywood",
-    "county": "Los Angeles County",
-    "latLng": [
-      34.0931603,
-      -118.3783347
-    ],
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
-      "twitterUrl": "https://twitter.com/trevorproject",
-      "instagramUrl": "https://www.instagram.com/trevorproject/",
-      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
-      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "Dự án Trevor",
-    "description": "Dự án Trevor là một tổ chức phi lợi nhuận của Mỹ cung cấp dịch vụ phòng ngừa tự tử cho giới trẻ LGBTQ+. Trang web cung cấp các nguồn lực quý giá cho cộng đồng người chuyển giới, bao gồm can thiệp khủng hoảng và dây đường dây nóng phòng ngừa tự tử, TrevorChat, và TrevorText cũng như tư vấn về sức khỏe tâm thần, dịch vụ xã hội, và nhóm hỗ trợ.",
-    "organizationType": [
-      "national-organization",
-      "online-platform",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -35232,35 +35288,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
-    "slug": "transgendermap",
-    "externalUrl": "https://transgendermap.com",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "social-services",
-      "youth-services",
-      "parent-family-resources",
-      "partner-resources",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "voice-training",
-      "makeup",
-      "clothing",
-      "community-stories"
-    ],
-    "title": "Bản đồ Transgender",
-    "description": "Transgendermap.com là một nguồn tài nguyên trực tuyến nhằm cung cấp thông tin và hướng dẫn thực tế cho những người đang thắc mắc về giới tính của mình hoặc đang nằm ở một đâu đó trên phổ giới tính chuyển đổi. Trang web bao gồm một loạt các chủ đề như hiểu về thuật ngữ transgender, quá trình chuyển đổi, vấn đề pháp lý, chăm sóc sức khỏe và nhiều câu chuyện cá nhân. Mục tiêu của nó là giúp cá nhân điều hướng hành trình cá nhân của mình bằng cách cung cấp một 'bản đồ' hoặc hướng dẫn về nhiều khía cạnh của giới tính và trải nghiệm transgender. Vui lòng truy cập trang web thực sự để nhận thông tin mới nhất và chính xác nhất.",
-    "organizationType": [
-      "online-platform",
-      "educational-institution"
-    ]
-  },
-  {
     "id": "ef234cb6-c3e1-4b57-9868-6afcc2ac982e",
     "i18n": {
       "en-US": {
@@ -37513,33 +37540,6 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider"
-    ]
-  },
-  {
-    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
-    "slug": "trans-families-home",
-    "externalUrl": "https://transfamilies.org",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "healthcare",
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "education-awareness"
-    ],
-    "email": null,
-    "phoneNumber": null,
-    "address": null,
-    "socialMedia": null,
-    "title": "Gia đình Trans",
-    "description": "Gia đình Trans truyền cảm hứng hy vọng, tăng sự hiểu biết và tạo ra lối mòn hữu hình để hỗ trợ trẻ em Trans và đa dạng giới tính cũng như tất cả những người có liên quan đến cuộc sống của họ. Chúng tôi cung cấp nguồn lực, tổ chức sự kiện và kết nối gia đình với các nhóm hỗ trợ.",
-    "organizationType": [
-      "non-profit-organization",
-      "online-platform",
-      "support-group"
     ]
   },
   {

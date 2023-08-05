@@ -1,37 +1,31 @@
 import React from 'react'
 import { useSearchParams } from 'react-router-dom'
 
-import {
-  Box,
-  FormControl,
-  InputLabel,
-  MenuItem,
-  Select,
-  Typography,
-} from '@mui/material';
-import { ReactComponent as ResultsLeft } from '../assets/results-left.svg';
-import { ReactComponent as ResultsRight } from '../assets/results-right.svg';
-import tags from '../../tags.json';
-import organizationTypes from '../../organization-types.json';
-import languages from '../../languages.json';
+import { Box, FormControl, InputLabel, MenuItem, Select, Typography } from '@mui/material'
+import { ReactComponent as ResultsLeft } from '../assets/results-left.svg'
+import { ReactComponent as ResultsRight } from '../assets/results-right.svg'
+import tags from '../../tags.json'
+import organizationTypes from '../../organization-types.json'
+import languages from '../../languages.json'
 
 import { SearchInput } from '../ui/navigation/header'
 import useSearch from '../hooks/useSearch'
 import i18n from '../i18n'
 import { usePagination } from '../hooks/usePagination'
+import { Link } from '../ui/link'
 
 export interface Resource {
-  id: string;
-  slug: string;
-  externalUrl: string;
-  tags: string[];
-  organizationType: string[];
-  title: string;
-  description: string;
-  address: string;
-  phoneNumber?: string;
-  email?: string;
-  latLng: [number, number];
+  id: string
+  slug: string
+  externalUrl: string
+  tags: string[]
+  organizationType: string[]
+  title: string
+  description: string
+  address: string
+  phoneNumber?: string
+  email?: string
+  latLng: [number, number]
 }
 
 export interface PaginatorPageProps {
@@ -82,16 +76,16 @@ export const ResourcePage = () => {
       decodeURIComponent(searchParams.get('tags') ?? '')
         .split(',')
         .filter(Boolean) ?? [],
-    [searchParams.get('tags')]
-  );
+    [searchParams.get('tags')],
+  )
 
   const queryOrganizationTypes = React.useMemo(
     () =>
       decodeURIComponent(searchParams.get('organizationTypes') ?? '')
         .split(',')
         .filter(Boolean) ?? [],
-    [searchParams.get('organizationTypes')]
-  );
+    [searchParams.get('organizationTypes')],
+  )
 
   React.useEffect(() => {
     const fetchResources = async () => {
@@ -125,11 +119,11 @@ export const ResourcePage = () => {
         (result) =>
           queryTags.every((tag) => result.tags.includes(tag)) &&
           queryOrganizationTypes.every((type) =>
-            result.organizationType.includes(type.toLowerCase())
-          )
+            result.organizationType.includes(type.toLowerCase()),
+          ),
       ),
-    [results, queryTags, queryOrganizationTypes]
-  );
+    [results, queryTags, queryOrganizationTypes],
+  )
 
   const pageString = searchParams.get('page')
 
@@ -204,10 +198,8 @@ export const ResourcePage = () => {
             },
           }}
         >
-          <FormControl sx={{}} size="small">
-            <InputLabel
-              sx={{ background: '#fff', fontFamily: 'Mukta, sans-serif' }}
-            >
+          <FormControl sx={{}} size='small'>
+            <InputLabel sx={{ background: '#fff', fontFamily: 'Mukta, sans-serif' }}>
               {i18n.t('organization-types')}
             </InputLabel>
             <Select
@@ -215,28 +207,27 @@ export const ResourcePage = () => {
                 borderRadius: '24px',
               }}
               onChange={(e) => {
-                const value = (e.target.value as unknown) as string[];
+                const value = e.target.value as unknown as string[]
 
                 if (value.indexOf('') !== -1) {
-                  searchParams.delete('organizationTypes');
+                  searchParams.delete('organizationTypes')
                 } else {
-                  searchParams.set(
-                    'organizationTypes',
-                    value.length ? value.join(',') : ''
-                  );
+                  searchParams.set('organizationTypes', value.length ? value.join(',') : '')
                 }
 
-                setSearchParams(searchParams);
+                setSearchParams(searchParams)
               }}
               value={queryOrganizationTypes}
               multiple
               fullWidth
             >
-              <MenuItem value="">
+              <MenuItem value=''>
                 <em>None</em>
               </MenuItem>
               {organizationTypes.map((type, idx) => (
-                <MenuItem key={idx} value={type.value}>{type.name}</MenuItem>
+                <MenuItem key={idx} value={type.value}>
+                  {type.name}
+                </MenuItem>
               ))}
             </Select>
           </FormControl>
@@ -244,7 +235,7 @@ export const ResourcePage = () => {
             sx={{
               marginTop: '1rem',
             }}
-            size="small"
+            size='small'
           >
             <InputLabel
               sx={{
@@ -259,25 +250,27 @@ export const ResourcePage = () => {
                 borderRadius: '24px',
               }}
               onChange={(e) => {
-                const value = (e.target.value as unknown) as string[];
+                const value = e.target.value as unknown as string[]
 
                 if (value.indexOf('') !== -1) {
-                  searchParams.delete('tags');
+                  searchParams.delete('tags')
                 } else {
-                  searchParams.set('tags', value.length ? value.join(',') : '');
+                  searchParams.set('tags', value.length ? value.join(',') : '')
                 }
 
-                setSearchParams(searchParams);
+                setSearchParams(searchParams)
               }}
               value={queryTags}
               multiple
               fullWidth
             >
-              <MenuItem value="">
+              <MenuItem value=''>
                 <em>None</em>
               </MenuItem>
               {tags.map((type, idx) => (
-                <MenuItem key={idx} value={type.value}>{type.name}</MenuItem>
+                <MenuItem key={idx} value={type.value}>
+                  {type.name}
+                </MenuItem>
               ))}
             </Select>
           </FormControl>
@@ -314,23 +307,91 @@ export const ResourcePage = () => {
             {currentPageData.length} {i18n.t('resources.results')}
           </Typography>
           {currentPageData.map((result, i) => (
-            <Box key={i} sx={{ marginTop: '1rem' }}>
-              <Typography
-                variant='body1'
+            <Box
+              key={i}
+              sx={{
+                marginTop: '1rem',
+                display: 'flex',
+                flexDirection: 'row',
+                paddingBottom: '1rem',
+                borderBottom: '1px solid #E5E7EB',
+
+                '@media (max-width: 768px)': {
+                  flexDirection: 'column',
+                },
+              }}
+            >
+              <Box
                 sx={{
-                  fontFamily: 'Mukta, sans-serif',
-                  textDecoration: 'underline',
-                  color: '#0D6EFD',
-                  cursor: 'pointer',
+                  flex: 1,
+                  marginRight: '1rem',
+                  '@media (max-width: 768px)': {
+                    marginRight: 0,
+                  },
                 }}
               >
-                <a href={result.externalUrl} target='_blank' rel='noreferrer'>
-                  {result.title}
-                </a>
-              </Typography>
-              <Typography variant='body1' sx={{ marginTop: '0.5rem' }}>
-                {result.description}
-              </Typography>
+                <Typography
+                  variant='body1'
+                  sx={{
+                    fontFamily: 'Mukta, sans-serif',
+                    textDecoration: 'underline',
+                    color: '#0D6EFD',
+                    cursor: 'pointer',
+                  }}
+                >
+                  <a href={result.externalUrl} target='_blank' rel='noreferrer'>
+                    {result.title}
+                  </a>
+                </Typography>
+                <Typography variant='body1' sx={{ marginTop: '0.5rem' }}>
+                  {result.description}
+                </Typography>
+              </Box>
+              <Box
+                sx={{
+                  flex: 1,
+                  visibility:
+                    ((result.address || result.phoneNumber || result.email) && 'visible') ||
+                    'hidden',
+
+                  '@media (max-width: 768px)': {
+                    marginTop: '1rem',
+                    display:
+                      ((result.address || result.phoneNumber || result.email) && 'block') || 'none',
+                  },
+                }}
+              >
+                <Typography variant='body1' fontWeight={500}>
+                  Contact
+                </Typography>
+                <Typography variant='body1' sx={{ fontSize: '0.85rem', marginTop: '0.5rem' }}>
+                  <div itemProp='address' itemScope itemType='http://schema.org/PostalAddress'>
+                    <Link
+                      href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                        result.address,
+                      )}`}
+                      target='_blank'
+                      itemProp='address'
+                    >
+                      {result.address}
+                    </Link>
+                  </div>
+                </Typography>
+                {result.phoneNumber && (
+                  <Typography variant='body1' sx={{ fontSize: '0.85rem', marginTop: '0.25rem' }}>
+                    <Link href={`tel:${result.phoneNumber}`} itemProp='telephone'>
+                      {result.phoneNumber}
+                    </Link>
+                  </Typography>
+                )}
+                {result.email && (
+                  <Typography variant='body1' sx={{ fontSize: '0.85rem', marginTop: '0.25rem' }}>
+                    <Link href={`mailto:${result.email}`} itemProp='email'>
+                      {result.email}
+                    </Link>
+                  </Typography>
+                )}
+              </Box>
             </Box>
           ))}
           <Box sx={{ display: 'flex', flexDirection: 'row', marginTop: '1rem' }}>

@@ -1,5 +1,289 @@
 [
   {
+    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
+    "slug": "diyhrtcafe",
+    "externalUrl": "https://diyhrt.cafe",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "legal",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "online-platform"
+    ],
+    "title": "DIYHRT.cafe",
+    "description": "مجتمع اونلاين نابض بالحياة ومركز معرفة للأشخاص المهتمين بالعلاج الهرموني البديل (HRT). موقعهم على الويب مُ dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. سواء كنت تستكشف الأساليب البديلة، أو تبحث عن التوجيه حول الجرعة والإدارة، أو ببساطة تبحث عن التواصل مع الآخرين الذين يشاركون تجارب مماثلة، يقدم DiyHRT.cafe ثروة من الإطلاعات القيمة, قصص شخصية, ونصائح خبير لمساعدتك في اتخاذ قرارات مستنيره بشأن صحتك ورفاهيتك.",
+    "organizationType": [
+      "online-platform",
+      "healthcare-provider"
+    ]
+  },
+  {
+    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
+    "slug": "transfemscienceorg",
+    "externalUrl": "https://transfemscience.org",
+    "tags": [
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "title": "transfemscience.org",
+    "description": "منصة عبر الإنترنت رائدة تُكرس لتقديم البحوث والتعليم والموارد المستندة إلى الأدلة للمجتمع المتحول وغير الثنائي، مع التركيز بشكلٍ خاص على العلاج بالهرمونات المؤنثة (FHT). تعمل موقعهم على الإنترنت كمركز حيوي للأفراد الذين يبحثون عن معلومات ثابتة ومُحدثة عن الجوانب الطبية والفيزيولوجية والنفسية لـ FHT. من خلال مجموعتهم الشاملة من الدراسات التي تمت مراجعتها من قبل الأقران، ومقالات الخبراء، والدلائل العملية، يُمكِّن موقعهم الأفراد من اتخاذ قرارات مستنيرة بشأن عملية التحول والصحة.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "حملة حقوق الإنسان",
+    "description": "تقاتل حملة حقوق الإنسان من أجل حقوق ومساواة مجتمع LGBTQ+. هم يهدفون إلى إنهاء التمييز وتقدم السياسات الموالية للمساواة من خلال التعليم، والدعوة، والتعبئة. كما أنهم يقدمون الموارد لأولئك في مجتمع LGBTQ+ للمشاركة في مناطقهم المحلية.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
+    "slug": "genderdysphoriafyi",
+    "externalUrl": "https://genderdysphoria.fyi",
+    "tags": [
+      "education-awareness",
+      "transmasculine",
+      "transfeminine",
+      "non-binary"
+    ],
+    "title": "genderdysphoria.fyi",
+    "description": "مورد موثوق على الإنترنت للأفراد الذين يبحثون عن المعرفة، والدعم، والتفهم حول اضطراب الهوية الجنسية. يوفر موقعهم الإلكتروني ثروة من المعلومات والموارد وروابط المجتمع لتمكين الأفراد في رحلتهم. من الدلائل الشاملة حول الهوية الجنسية والانتقال إلى القصص الشخصية والنصائح الخبيرة، يسعون إلى خلق مساحة آمنة وشاملة للجميع.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "youth-services",
+      "healthcare",
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "parent-family-resources"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "التنوع الجنسي",
+    "description": "يعمل التنوع الجنسي على تحسين رفاهية الأطفال والبالغين من كافة الهويات والتعبيرات الجنسية من خلال توفير التعليم وزيادة الوعي وتقديم الرؤية حول النطاق الأوسع من التجربة البشرية. كما نقوم بالمساعدة في خلق بيئات داعمة وغير تمييزية في المدارس والفرق الرياضية وأماكن العمل ومقدمي الرعاية الصحية للأفراد من المتحولين جنسيا والذين يتمتعون بتنوع جنسي.",
+    "organizationType": [
+      "educational-institution",
+      "non-profit-organization",
+      "online-platform"
+    ]
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "المركز الوطني للمساواة بين المتحولين جنسيا",
+    "description": "المركز الوطني للمساواة بين المتحولين جنسيا هو منظمة تدعو لتغيير السياسات والمواقف المجتمعية لزيادة الفهم والقبول للأشخاص المتحولين جنسيا. يوفر NCTE معلومات حول القضايا التي تؤثر على المجتمع المتحول جنسيًا بما في ذلك الشيخوخة، مكافحة العنف، التوظيف، الأسر، الصحة و الإيدز، الإسكان والبطالة، وأكثر.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "خط الرعاية للمتحولين جنسيا",
+    "description": "خط الرعاية للمتحولين جنسيا هو منظمة تقودها الجماعة المتحولة جنسيا وتقدم الدعم المتبادل والموارد للمجتمع المتحول جنسيا. مع التركيز على الدعم المجتمعي والمنح الدقيقة والخط الساخن، هدفهم تقديم الاتصالات والموارد التي يحتاجها الأشخاص المتحولون جنسيا للإزدهار. كما يدافع خط الرعاية للمتحولين جنسيا عن المجتمع المتحول جنسيا من خلال مبادرات مثل #SafeHotlines.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "مشروع تريفور",
+    "description": "مشروع تريفور هو منظمة غير ربحية أمريكية تقدم خدمات الوقاية من الانتحار للشباب LGBTQ+. يقدم الموقع موارد قيمة للمجتمع المتحول جنسيًا، بما في ذلك تدخل الأزمات وخط الوقاية من الانتحار، وتريفور تشات، وتريفور تكست وكذلك الإرشاد حول الصحة العقلية، والخدمات الاجتماعية، وجماعات الدعم.",
+    "organizationType": [
+      "national-organization",
+      "online-platform",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
+    "slug": "transgendermap",
+    "externalUrl": "https://transgendermap.com",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "voice-training",
+      "makeup",
+      "clothing",
+      "community-stories"
+    ],
+    "title": "خريطة المتحولين جنسيا",
+    "description": "موقع Transgendermap.com هو مورد عبر الإنترنت يهدف إلى تقديم معلومات عملية وإرشادات للأشخاص الذين يتساءلون حول هويتهم الجندرية أو الموجودين في أي مكان على طيف المتحولين جنسيا. يتضمن الموقع نطاقًا واسعًا من الموضوعات مثل فهم مصطلحات المتحولين جنسيا، عمليات الانتقال، القضايا القانونية، الرعاية الصحية، والعديد من القصص الشخصية. هدفها هو مساعدة الأفراد على التنقل في رحلاتهم الشخصية من خلال تقديم 'خريطة' أو دليل للعديد من جوانب الهوية الجندرية وتجارب المتحولين جنسيا. يرجى زيارة الموقع الفعلي للحصول على المعلومات الأكثر حداثة ودقة.",
+    "organizationType": [
+      "online-platform",
+      "educational-institution"
+    ]
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "عائلات المتحولين جنسيا",
+    "description": "تلهم عائلات المتحولين جنسيا الأمل، وتزيد من التفهم، وتخلق مسارًا واضحًا لدعم الأطفال المتحولين جنسيا والذين يعانون من تنوع الجنس وكل من يلمس حياتهم. نحن نقدم الموارد، وننظم الأحداؤ، ونربط العائلات بجماعات الدعم.",
+    "organizationType": [
+      "non-profit-organization",
+      "online-platform",
+      "support-group"
+    ]
+  },
+  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -2106,27 +2390,6 @@
     ],
     "title": "Circle Care Center",
     "description": "Located in Connecticut, Circle Care Center is an LGBTQI+ affirming medical services and sexual health center. Offering a range of services such as Primary Care, HIV Treatment & Care, Behavioral Health, and Gender-Affirming Care. It is dedicated to creating a supportive and inclusive environment for the transgender community, providing name and gender change assistance to help ease the transition process. The warm, caring, and committed staff makes it a safe space for those seeking medical attention."
-  },
-  {
-    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
-    "slug": "diyhrtcafe",
-    "externalUrl": "https://diyhrt.cafe",
-    "tags": [
-      "transfeminine",
-      "transmasculine",
-      "non-binary",
-      "healthcare",
-      "legal",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "online-platform"
-    ],
-    "title": "DIYHRT.cafe",
-    "description": "مجتمع اونلاين نابض بالحياة ومركز معرفة للأشخاص المهتمين بالعلاج الهرموني البديل (HRT). موقعهم على الويب مُ dedicated to providing a safe and inclusive space where people can access information, resources, and support for self-administered HRT. سواء كنت تستكشف الأساليب البديلة، أو تبحث عن التوجيه حول الجرعة والإدارة، أو ببساطة تبحث عن التواصل مع الآخرين الذين يشاركون تجارب مماثلة، يقدم DiyHRT.cafe ثروة من الإطلاعات القيمة, قصص شخصية, ونصائح خبير لمساعدتك في اتخاذ قرارات مستنيره بشأن صحتك ورفاهيتك.",
-    "organizationType": [
-      "online-platform",
-      "healthcare-provider"
-    ]
   },
   {
     "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
@@ -4606,21 +4869,6 @@
     "description": "Santa Rosa Community Health is dedicated to providing comprehensive health services to all, including the transgender community. They offer specialized care such as their Gender Clinic and services for intellectual and developmental disabilities. They prioritize understanding, respect, and high-quality care, ensuring all patients are heard and valued. Their services range from primary and mental health care to dental services, women’s health, pediatrics, wellness groups, and more. Their team is ready to work together for the health and wellness of their patients."
   },
   {
-    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
-    "slug": "transfemscienceorg",
-    "externalUrl": "https://transfemscience.org",
-    "tags": [
-      "transfeminine",
-      "healthcare",
-      "education-awareness"
-    ],
-    "title": "transfemscience.org",
-    "description": "منصة عبر الإنترنت رائدة تُكرس لتقديم البحوث والتعليم والموارد المستندة إلى الأدلة للمجتمع المتحول وغير الثنائي، مع التركيز بشكلٍ خاص على العلاج بالهرمونات المؤنثة (FHT). تعمل موقعهم على الإنترنت كمركز حيوي للأفراد الذين يبحثون عن معلومات ثابتة ومُحدثة عن الجوانب الطبية والفيزيولوجية والنفسية لـ FHT. من خلال مجموعتهم الشاملة من الدراسات التي تمت مراجعتها من قبل الأقران، ومقالات الخبراء، والدلائل العملية، يُمكِّن موقعهم الأفراد من اتخاذ قرارات مستنيرة بشأن عملية التحول والصحة.",
-    "organizationType": [
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -5128,36 +5376,6 @@
     "county": "Kauai County",
     "title": "Malama Pono Health Services",
     "description": "Malama Pono Health Services in Hawaii provides a range of healthcare services including women's wellness, testing and treatment for sexually transmitted diseases, case management for HIV/AIDS clients, Transgender services including counseling and Hormone replacement therapy and community education. The clinic offers 100% confidential and free STD/HIV testing & treatment services regardless of whether you have insurance. The clinic also provides PrEP services, women's healthcare, a range of support services, and acts a resource for those seeking to quit tobacco. It's reputable for its inclusivity, compassion, and tailored care for the transgender community."
-  },
-  {
-    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
-    "slug": "human-rights-campaign",
-    "externalUrl": "https://www.hrc.org/",
-    "tags": [
-      "legal",
-      "education-awareness",
-      "community-stories"
-    ],
-    "address": null,
-    "phoneNumber": null,
-    "country": "us",
-    "provinceOrState": null,
-    "city": null,
-    "county": null,
-    "latLng": null,
-    "email": null,
-    "socialMedia": {
-      "twitterUrl": "https://twitter.com/HRC",
-      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
-      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
-      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
-    },
-    "title": "حملة حقوق الإنسان",
-    "description": "تقاتل حملة حقوق الإنسان من أجل حقوق ومساواة مجتمع LGBTQ+. هم يهدفون إلى إنهاء التمييز وتقدم السياسات الموالية للمساواة من خلال التعليم، والدعوة، والتعبئة. كما أنهم يقدمون الموارد لأولئك في مجتمع LGBTQ+ للمشاركة في مناطقهم المحلية.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -9510,22 +9728,6 @@
     ],
     "title": "Legacy Community Health",
     "description": "Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay."
-  },
-  {
-    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
-    "slug": "genderdysphoriafyi",
-    "externalUrl": "https://genderdysphoria.fyi",
-    "tags": [
-      "education-awareness",
-      "transmasculine",
-      "transfeminine",
-      "non-binary"
-    ],
-    "title": "genderdysphoria.fyi",
-    "description": "مورد موثوق على الإنترنت للأفراد الذين يبحثون عن المعرفة، والدعم، والتفهم حول اضطراب الهوية الجنسية. يوفر موقعهم الإلكتروني ثروة من المعلومات والموارد وروابط المجتمع لتمكين الأفراد في رحلتهم. من الدلائل الشاملة حول الهوية الجنسية والانتقال إلى القصص الشخصية والنصائح الخبيرة، يسعون إلى خلق مساحة آمنة وشاملة للجميع.",
-    "organizationType": [
-      "online-platform"
-    ]
   },
   {
     "i18n": {
@@ -19474,38 +19676,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
-    "slug": "gender-diversity",
-    "externalUrl": "https://genderdiversity.org",
-    "tags": [
-      "education-awareness",
-      "youth-services",
-      "healthcare",
-      "non-binary",
-      "transmasculine",
-      "transfeminine",
-      "parent-family-resources"
-    ],
-    "address": "6523 California Ave SW #144, Seattle, WA 98136",
-    "country": "US",
-    "provinceOrState": "WA",
-    "city": "Seattle",
-    "county": "King County",
-    "latLng": [
-      47.544046,
-      -122.387452
-    ],
-    "phoneNumber": "1-833-3GENDER",
-    "email": "info@genderdiversity.org",
-    "title": "التنوع الجنسي",
-    "description": "يعمل التنوع الجنسي على تحسين رفاهية الأطفال والبالغين من كافة الهويات والتعبيرات الجنسية من خلال توفير التعليم وزيادة الوعي وتقديم الرؤية حول النطاق الأوسع من التجربة البشرية. كما نقوم بالمساعدة في خلق بيئات داعمة وغير تمييزية في المدارس والفرق الرياضية وأماكن العمل ومقدمي الرعاية الصحية للأفراد من المتحولين جنسيا والذين يتمتعون بتنوع جنسي.",
-    "organizationType": [
-      "educational-institution",
-      "non-profit-organization",
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -20599,43 +20769,6 @@
       "national-organization",
       "local-office",
       "legal-service"
-    ]
-  },
-  {
-    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
-    "slug": "national-center-for-transgender-equality",
-    "externalUrl": "https://transequality.org",
-    "tags": [
-      "non-binary",
-      "legal",
-      "healthcare",
-      "education-awareness",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "community-stories",
-      "mental-health",
-      "social-services"
-    ],
-    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
-    "phoneNumber": "(202) 642-4542",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "Washington D.C.",
-    "county": "District of Columbia",
-    "latLng": [
-      38.903438,
-      -77.035037
-    ],
-    "email": "ncte@transequality.org",
-    "socialMedia": {
-      "blogUrl": "https://transequality.org/blog"
-    },
-    "title": "المركز الوطني للمساواة بين المتحولين جنسيا",
-    "description": "المركز الوطني للمساواة بين المتحولين جنسيا هو منظمة تدعو لتغيير السياسات والمواقف المجتمعية لزيادة الفهم والقبول للأشخاص المتحولين جنسيا. يوفر NCTE معلومات حول القضايا التي تؤثر على المجتمع المتحول جنسيًا بما في ذلك الشيخوخة، مكافحة العنف، التوظيف، الأسر، الصحة و الإيدز، الإسكان والبطالة، وأكثر.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
     ]
   },
   {
@@ -23581,43 +23714,6 @@
     "description": "Anchor Health provides groundbreaking, radically inclusive, gender-affirming, and sex-positive care for the LGBTQ community, with a focus on transgender and gender diverse individuals. They offer a range of services such as primary care, behavioral health, sexual health, and HIV prevention with a holistic approach, striving to create a safe and understanding environment for queer individuals."
   },
   {
-    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
-    "slug": "trans-lifeline-peer-support-and-resources",
-    "externalUrl": "https://translifeline.org/",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "support-groups",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "community-stories"
-    ],
-    "address": null,
-    "email": null,
-    "phoneNumber": "(877) 565-8860",
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TransLifeline/",
-      "twitterUrl": "https://twitter.com/TransLifeline",
-      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
-      "youtubeUrl": null,
-      "tiktokUrl": null,
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "خط الرعاية للمتحولين جنسيا",
-    "description": "خط الرعاية للمتحولين جنسيا هو منظمة تقودها الجماعة المتحولة جنسيا وتقدم الدعم المتبادل والموارد للمجتمع المتحول جنسيا. مع التركيز على الدعم المجتمعي والمنح الدقيقة والخط الساخن، هدفهم تقديم الاتصالات والموارد التي يحتاجها الأشخاص المتحولون جنسيا للإزدهار. كما يدافع خط الرعاية للمتحولين جنسيا عن المجتمع المتحول جنسيا من خلال مبادرات مثل #SafeHotlines.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
-  },
-  {
     "id": "9e105990-6fe3-49a8-b64d-fda1742dfc94",
     "i18n": {
       "en-US": {
@@ -24200,46 +24296,6 @@
     ],
     "title": "Planned Parenthood",
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
-  },
-  {
-    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
-    "slug": "the-trevor-project",
-    "externalUrl": "https://www.thetrevorproject.org/",
-    "tags": [
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "education-awareness"
-    ],
-    "address": "West Hollywood, CA 90069, USA",
-    "email": null,
-    "phoneNumber": "(212) 695-8650",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "West Hollywood",
-    "county": "Los Angeles County",
-    "latLng": [
-      34.0931603,
-      -118.3783347
-    ],
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
-      "twitterUrl": "https://twitter.com/trevorproject",
-      "instagramUrl": "https://www.instagram.com/trevorproject/",
-      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
-      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "مشروع تريفور",
-    "description": "مشروع تريفور هو منظمة غير ربحية أمريكية تقدم خدمات الوقاية من الانتحار للشباب LGBTQ+. يقدم الموقع موارد قيمة للمجتمع المتحول جنسيًا، بما في ذلك تدخل الأزمات وخط الوقاية من الانتحار، وتريفور تشات، وتريفور تكست وكذلك الإرشاد حول الصحة العقلية، والخدمات الاجتماعية، وجماعات الدعم.",
-    "organizationType": [
-      "national-organization",
-      "online-platform",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -35229,35 +35285,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
-    "slug": "transgendermap",
-    "externalUrl": "https://transgendermap.com",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "social-services",
-      "youth-services",
-      "parent-family-resources",
-      "partner-resources",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "voice-training",
-      "makeup",
-      "clothing",
-      "community-stories"
-    ],
-    "title": "خريطة المتحولين جنسيا",
-    "description": "موقع Transgendermap.com هو مورد عبر الإنترنت يهدف إلى تقديم معلومات عملية وإرشادات للأشخاص الذين يتساءلون حول هويتهم الجندرية أو الموجودين في أي مكان على طيف المتحولين جنسيا. يتضمن الموقع نطاقًا واسعًا من الموضوعات مثل فهم مصطلحات المتحولين جنسيا، عمليات الانتقال، القضايا القانونية، الرعاية الصحية، والعديد من القصص الشخصية. هدفها هو مساعدة الأفراد على التنقل في رحلاتهم الشخصية من خلال تقديم 'خريطة' أو دليل للعديد من جوانب الهوية الجندرية وتجارب المتحولين جنسيا. يرجى زيارة الموقع الفعلي للحصول على المعلومات الأكثر حداثة ودقة.",
-    "organizationType": [
-      "online-platform",
-      "educational-institution"
-    ]
-  },
-  {
     "id": "ef234cb6-c3e1-4b57-9868-6afcc2ac982e",
     "i18n": {
       "en-US": {
@@ -37512,33 +37539,6 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider"
-    ]
-  },
-  {
-    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
-    "slug": "trans-families-home",
-    "externalUrl": "https://transfamilies.org",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "healthcare",
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "education-awareness"
-    ],
-    "email": null,
-    "phoneNumber": null,
-    "address": null,
-    "socialMedia": null,
-    "title": "عائلات المتحولين جنسيا",
-    "description": "تلهم عائلات المتحولين جنسيا الأمل، وتزيد من التفهم، وتخلق مسارًا واضحًا لدعم الأطفال المتحولين جنسيا والذين يعانون من تنوع الجنس وكل من يلمس حياتهم. نحن نقدم الموارد، وننظم الأحداؤ، ونربط العائلات بجماعات الدعم.",
-    "organizationType": [
-      "non-profit-organization",
-      "online-platform",
-      "support-group"
     ]
   },
   {

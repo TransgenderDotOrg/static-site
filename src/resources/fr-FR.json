@@ -1,5 +1,289 @@
 [
   {
+    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
+    "slug": "diyhrtcafe",
+    "externalUrl": "https://diyhrt.cafe",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "legal",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "online-platform"
+    ],
+    "title": "DIYHRT.cafe",
+    "description": "Une communauté en ligne dynamique et un centre de connaissances pour les individus intéressés par l'hormonothérapie de substitution à faire soi-même (HRT). Leur site Web est dédié à offrir un espace sûr et inclusif où les gens peuvent accéder à des informations, des ressources, et le soutien pour l'HRT auto-administrée. Que vous exploriez des méthodes alternatives, cherchiez des conseils sur le dosage et l'administration, ou simplement que vous cherchiez à connecter avec d'autres qui partagent des expériences similaires, DIYHRT.cafe offre une multitude d'aperçus précieux, d'histoires personnelles et de conseils d'experts pour vous aider à prendre des décisions éclairées sur votre santé et votre bien-être.",
+    "organizationType": [
+      "online-platform",
+      "healthcare-provider"
+    ]
+  },
+  {
+    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
+    "slug": "transfemscienceorg",
+    "externalUrl": "https://transfemscience.org",
+    "tags": [
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "title": "transfemscience.org",
+    "description": "Une plateforme en ligne révolutionnaire dédiée à fournir des recherches basées sur des preuves, de l'éducation et des ressources pour la communauté transgenre et non-binaire, avec un accent particulier sur l'hormonothérapie féminisante (FHT). Leur site Web sert de hub essentiel pour les personnes cherchant des informations fiables et à jour sur les aspects médicaux, physiologiques et psychologiques de la FHT. À travers leur collection complète d'études évaluées par des pairs, d'articles d'experts et de guides pratiques, leur site permet aux individus de prendre des décisions éclairées sur leur transition et leur santé.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "Campagne pour les droits de l'homme",
+    "description": "La Campagne pour les droits de l'homme se bat pour les droits et l'égalité de la communauté LGBTQ+. Ils visent à mettre fin à la discrimination et à promouvoir des politiques pro-égalité par l'éducation, le plaidoyer et la mobilisation. Ils fournissent également des ressources à ceux de la communauté LGBTQ+ pour s'impliquer dans leurs régions locales.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
+    "slug": "genderdysphoriafyi",
+    "externalUrl": "https://genderdysphoria.fyi",
+    "tags": [
+      "education-awareness",
+      "transmasculine",
+      "transfeminine",
+      "non-binary"
+    ],
+    "title": "genderdysphoria.fyi",
+    "description": "Une ressource en ligne de confiance pour les individus cherchant des connaissances, du soutien et de la compréhension sur la dysphorie de genre. Leur site web fournit une richesse d'informations, ressources et connexions communautaires pour autonomiser les individus dans leur parcours. Des guides complets sur l'identité de genre et la transition aux histoires personnelles et conseils d'experts, ils s'efforcent de créer un espace sûr et inclusif pour tous.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "youth-services",
+      "healthcare",
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "parent-family-resources"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "Diversité de genre",
+    "description": "La diversité de genre améliore le bien-être des enfants et des adultes de toutes identités de genre et d'expression en fournissant de l'éducation, en augmentant la prise de conscience, et en offrant un aperçu de la plus large gamme d'expériences humaines. Nous aidons également à créer des environnements de soutien et non discriminatoires dans les écoles, les équipes sportives, les lieux de travail et les prestataires de soins de santé pour les personnes transgenres et de diversité de genre.",
+    "organizationType": [
+      "educational-institution",
+      "non-profit-organization",
+      "online-platform"
+    ]
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "Centre national pour l'égalité des transgenres",
+    "description": "Le Centre national pour l'égalité des transgenres est une organisation qui plaide pour changer les politiques et les attitudes sociétales pour une meilleure compréhension et acceptation des personnes transgenres. Le NCTE fournit des informations sur les problèmes affectant la communauté transgenre, y compris le vieillissement, la lutte contre la violence, l'emploi, les familles, la santé & le VIH, le logement & l'itinérance, et plus.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline est une organisation dirigée par des personnes trans offrant un soutien de pair à pair et des ressources pour la communauté transgenre. Avec un accent sur le soutien communautaire, les microsubventions et une ligne d'urgence, ils visent à fournir aux personnes trans les connections et les ressources dont ils ont besoin pour s'épanouir. Trans Lifeline milite également pour la communauté trans à travers des initiatives comme #SafeHotlines.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Le Projet Trevor",
+    "description": "Le Projet Trevor est une organisation américaine à but non lucratif qui fournit des services de prévention du suicide aux jeunes LGBTQ+. Le site offre des ressources précieuses pour la communauté transgenre, y compris une ligne de vie pour l'intervention en cas de crise et la prévention du suicide, TrevorChat, et TrevorText ainsi que des conseils sur la santé mentale, les services sociaux et les groupes de soutien.",
+    "organizationType": [
+      "national-organization",
+      "online-platform",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
+    "slug": "transgendermap",
+    "externalUrl": "https://transgendermap.com",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "voice-training",
+      "makeup",
+      "clothing",
+      "community-stories"
+    ],
+    "title": "Carte Transgenre",
+    "description": "Transgendermap.com est une ressource en ligne visant à fournir des informations pratiques et des conseils aux personnes qui remettent en question leur identité de genre ou qui se situent quelque part sur le spectre transgenre. Le site Web comprend un large éventail de sujets tels que la compréhension de la terminologie transgenre, les processus de transition, les problèmes juridiques, les soins de santé et de nombreuses histoires personnelles. Son objectif est d'aider les individus à naviguer dans leur parcours personnel en fournissant une 'carte' ou un guide des nombreux aspects de l'identité de genre et des expériences transgenres. Veuillez visiter le site réel pour obtenir les informations les plus actuelles et précises.",
+    "organizationType": [
+      "online-platform",
+      "educational-institution"
+    ]
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "Familles Trans",
+    "description": "Trans Families inspire de l'espoir, augmente la compréhension et crée un chemin visible pour soutenir les enfants transgenres et diversifiés sur le plan du genre et tous ceux qui touchent leur vie. Nous fournissons des ressources, organisons des événements et connectons les familles à des groupes de soutien.",
+    "organizationType": [
+      "non-profit-organization",
+      "online-platform",
+      "support-group"
+    ]
+  },
+  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -2106,27 +2390,6 @@
     ],
     "title": "Circle Care Center",
     "description": "Located in Connecticut, Circle Care Center is an LGBTQI+ affirming medical services and sexual health center. Offering a range of services such as Primary Care, HIV Treatment & Care, Behavioral Health, and Gender-Affirming Care. It is dedicated to creating a supportive and inclusive environment for the transgender community, providing name and gender change assistance to help ease the transition process. The warm, caring, and committed staff makes it a safe space for those seeking medical attention."
-  },
-  {
-    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
-    "slug": "diyhrtcafe",
-    "externalUrl": "https://diyhrt.cafe",
-    "tags": [
-      "transfeminine",
-      "transmasculine",
-      "non-binary",
-      "healthcare",
-      "legal",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "online-platform"
-    ],
-    "title": "DIYHRT.cafe",
-    "description": "Une communauté en ligne dynamique et un centre de connaissances pour les individus intéressés par l'hormonothérapie de substitution à faire soi-même (HRT). Leur site Web est dédié à offrir un espace sûr et inclusif où les gens peuvent accéder à des informations, des ressources, et le soutien pour l'HRT auto-administrée. Que vous exploriez des méthodes alternatives, cherchiez des conseils sur le dosage et l'administration, ou simplement que vous cherchiez à connecter avec d'autres qui partagent des expériences similaires, DIYHRT.cafe offre une multitude d'aperçus précieux, d'histoires personnelles et de conseils d'experts pour vous aider à prendre des décisions éclairées sur votre santé et votre bien-être.",
-    "organizationType": [
-      "online-platform",
-      "healthcare-provider"
-    ]
   },
   {
     "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
@@ -4607,21 +4870,6 @@
     "description": "Santa Rosa Community Health is dedicated to providing comprehensive health services to all, including the transgender community. They offer specialized care such as their Gender Clinic and services for intellectual and developmental disabilities. They prioritize understanding, respect, and high-quality care, ensuring all patients are heard and valued. Their services range from primary and mental health care to dental services, women’s health, pediatrics, wellness groups, and more. Their team is ready to work together for the health and wellness of their patients."
   },
   {
-    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
-    "slug": "transfemscienceorg",
-    "externalUrl": "https://transfemscience.org",
-    "tags": [
-      "transfeminine",
-      "healthcare",
-      "education-awareness"
-    ],
-    "title": "transfemscience.org",
-    "description": "Une plateforme en ligne révolutionnaire dédiée à fournir des recherches basées sur des preuves, de l'éducation et des ressources pour la communauté transgenre et non-binaire, avec un accent particulier sur l'hormonothérapie féminisante (FHT). Leur site Web sert de hub essentiel pour les personnes cherchant des informations fiables et à jour sur les aspects médicaux, physiologiques et psychologiques de la FHT. À travers leur collection complète d'études évaluées par des pairs, d'articles d'experts et de guides pratiques, leur site permet aux individus de prendre des décisions éclairées sur leur transition et leur santé.",
-    "organizationType": [
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -5129,36 +5377,6 @@
     "county": "Kauai County",
     "title": "Malama Pono Health Services",
     "description": "Malama Pono Health Services in Hawaii provides a range of healthcare services including women's wellness, testing and treatment for sexually transmitted diseases, case management for HIV/AIDS clients, Transgender services including counseling and Hormone replacement therapy and community education. The clinic offers 100% confidential and free STD/HIV testing & treatment services regardless of whether you have insurance. The clinic also provides PrEP services, women's healthcare, a range of support services, and acts a resource for those seeking to quit tobacco. It's reputable for its inclusivity, compassion, and tailored care for the transgender community."
-  },
-  {
-    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
-    "slug": "human-rights-campaign",
-    "externalUrl": "https://www.hrc.org/",
-    "tags": [
-      "legal",
-      "education-awareness",
-      "community-stories"
-    ],
-    "address": null,
-    "phoneNumber": null,
-    "country": "us",
-    "provinceOrState": null,
-    "city": null,
-    "county": null,
-    "latLng": null,
-    "email": null,
-    "socialMedia": {
-      "twitterUrl": "https://twitter.com/HRC",
-      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
-      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
-      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
-    },
-    "title": "Campagne pour les droits de l'homme",
-    "description": "La Campagne pour les droits de l'homme se bat pour les droits et l'égalité de la communauté LGBTQ+. Ils visent à mettre fin à la discrimination et à promouvoir des politiques pro-égalité par l'éducation, le plaidoyer et la mobilisation. Ils fournissent également des ressources à ceux de la communauté LGBTQ+ pour s'impliquer dans leurs régions locales.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -9511,22 +9729,6 @@
     ],
     "title": "Legacy Community Health",
     "description": "Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay."
-  },
-  {
-    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
-    "slug": "genderdysphoriafyi",
-    "externalUrl": "https://genderdysphoria.fyi",
-    "tags": [
-      "education-awareness",
-      "transmasculine",
-      "transfeminine",
-      "non-binary"
-    ],
-    "title": "genderdysphoria.fyi",
-    "description": "Une ressource en ligne de confiance pour les individus cherchant des connaissances, du soutien et de la compréhension sur la dysphorie de genre. Leur site web fournit une richesse d'informations, ressources et connexions communautaires pour autonomiser les individus dans leur parcours. Des guides complets sur l'identité de genre et la transition aux histoires personnelles et conseils d'experts, ils s'efforcent de créer un espace sûr et inclusif pour tous.",
-    "organizationType": [
-      "online-platform"
-    ]
   },
   {
     "i18n": {
@@ -19477,38 +19679,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
-    "slug": "gender-diversity",
-    "externalUrl": "https://genderdiversity.org",
-    "tags": [
-      "education-awareness",
-      "youth-services",
-      "healthcare",
-      "non-binary",
-      "transmasculine",
-      "transfeminine",
-      "parent-family-resources"
-    ],
-    "address": "6523 California Ave SW #144, Seattle, WA 98136",
-    "country": "US",
-    "provinceOrState": "WA",
-    "city": "Seattle",
-    "county": "King County",
-    "latLng": [
-      47.544046,
-      -122.387452
-    ],
-    "phoneNumber": "1-833-3GENDER",
-    "email": "info@genderdiversity.org",
-    "title": "Diversité de genre",
-    "description": "La diversité de genre améliore le bien-être des enfants et des adultes de toutes identités de genre et d'expression en fournissant de l'éducation, en augmentant la prise de conscience, et en offrant un aperçu de la plus large gamme d'expériences humaines. Nous aidons également à créer des environnements de soutien et non discriminatoires dans les écoles, les équipes sportives, les lieux de travail et les prestataires de soins de santé pour les personnes transgenres et de diversité de genre.",
-    "organizationType": [
-      "educational-institution",
-      "non-profit-organization",
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -20602,43 +20772,6 @@
       "national-organization",
       "local-office",
       "legal-service"
-    ]
-  },
-  {
-    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
-    "slug": "national-center-for-transgender-equality",
-    "externalUrl": "https://transequality.org",
-    "tags": [
-      "non-binary",
-      "legal",
-      "healthcare",
-      "education-awareness",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "community-stories",
-      "mental-health",
-      "social-services"
-    ],
-    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
-    "phoneNumber": "(202) 642-4542",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "Washington D.C.",
-    "county": "District of Columbia",
-    "latLng": [
-      38.903438,
-      -77.035037
-    ],
-    "email": "ncte@transequality.org",
-    "socialMedia": {
-      "blogUrl": "https://transequality.org/blog"
-    },
-    "title": "Centre national pour l'égalité des transgenres",
-    "description": "Le Centre national pour l'égalité des transgenres est une organisation qui plaide pour changer les politiques et les attitudes sociétales pour une meilleure compréhension et acceptation des personnes transgenres. Le NCTE fournit des informations sur les problèmes affectant la communauté transgenre, y compris le vieillissement, la lutte contre la violence, l'emploi, les familles, la santé & le VIH, le logement & l'itinérance, et plus.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
     ]
   },
   {
@@ -23584,43 +23717,6 @@
     "description": "Anchor Health provides groundbreaking, radically inclusive, gender-affirming, and sex-positive care for the LGBTQ community, with a focus on transgender and gender diverse individuals. They offer a range of services such as primary care, behavioral health, sexual health, and HIV prevention with a holistic approach, striving to create a safe and understanding environment for queer individuals."
   },
   {
-    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
-    "slug": "trans-lifeline-peer-support-and-resources",
-    "externalUrl": "https://translifeline.org/",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "support-groups",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "community-stories"
-    ],
-    "address": null,
-    "email": null,
-    "phoneNumber": "(877) 565-8860",
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TransLifeline/",
-      "twitterUrl": "https://twitter.com/TransLifeline",
-      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
-      "youtubeUrl": null,
-      "tiktokUrl": null,
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "Trans Lifeline",
-    "description": "Trans Lifeline est une organisation dirigée par des personnes trans offrant un soutien de pair à pair et des ressources pour la communauté transgenre. Avec un accent sur le soutien communautaire, les microsubventions et une ligne d'urgence, ils visent à fournir aux personnes trans les connections et les ressources dont ils ont besoin pour s'épanouir. Trans Lifeline milite également pour la communauté trans à travers des initiatives comme #SafeHotlines.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
-  },
-  {
     "id": "9e105990-6fe3-49a8-b64d-fda1742dfc94",
     "i18n": {
       "en-US": {
@@ -24203,46 +24299,6 @@
     ],
     "title": "Planned Parenthood",
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
-  },
-  {
-    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
-    "slug": "the-trevor-project",
-    "externalUrl": "https://www.thetrevorproject.org/",
-    "tags": [
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "education-awareness"
-    ],
-    "address": "West Hollywood, CA 90069, USA",
-    "email": null,
-    "phoneNumber": "(212) 695-8650",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "West Hollywood",
-    "county": "Los Angeles County",
-    "latLng": [
-      34.0931603,
-      -118.3783347
-    ],
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
-      "twitterUrl": "https://twitter.com/trevorproject",
-      "instagramUrl": "https://www.instagram.com/trevorproject/",
-      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
-      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "Le Projet Trevor",
-    "description": "Le Projet Trevor est une organisation américaine à but non lucratif qui fournit des services de prévention du suicide aux jeunes LGBTQ+. Le site offre des ressources précieuses pour la communauté transgenre, y compris une ligne de vie pour l'intervention en cas de crise et la prévention du suicide, TrevorChat, et TrevorText ainsi que des conseils sur la santé mentale, les services sociaux et les groupes de soutien.",
-    "organizationType": [
-      "national-organization",
-      "online-platform",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -35232,35 +35288,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
-    "slug": "transgendermap",
-    "externalUrl": "https://transgendermap.com",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "social-services",
-      "youth-services",
-      "parent-family-resources",
-      "partner-resources",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "voice-training",
-      "makeup",
-      "clothing",
-      "community-stories"
-    ],
-    "title": "Carte Transgenre",
-    "description": "Transgendermap.com est une ressource en ligne visant à fournir des informations pratiques et des conseils aux personnes qui remettent en question leur identité de genre ou qui se situent quelque part sur le spectre transgenre. Le site Web comprend un large éventail de sujets tels que la compréhension de la terminologie transgenre, les processus de transition, les problèmes juridiques, les soins de santé et de nombreuses histoires personnelles. Son objectif est d'aider les individus à naviguer dans leur parcours personnel en fournissant une 'carte' ou un guide des nombreux aspects de l'identité de genre et des expériences transgenres. Veuillez visiter le site réel pour obtenir les informations les plus actuelles et précises.",
-    "organizationType": [
-      "online-platform",
-      "educational-institution"
-    ]
-  },
-  {
     "id": "ef234cb6-c3e1-4b57-9868-6afcc2ac982e",
     "i18n": {
       "en-US": {
@@ -37514,33 +37541,6 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider"
-    ]
-  },
-  {
-    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
-    "slug": "trans-families-home",
-    "externalUrl": "https://transfamilies.org",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "healthcare",
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "education-awareness"
-    ],
-    "email": null,
-    "phoneNumber": null,
-    "address": null,
-    "socialMedia": null,
-    "title": "Familles Trans",
-    "description": "Trans Families inspire de l'espoir, augmente la compréhension et crée un chemin visible pour soutenir les enfants transgenres et diversifiés sur le plan du genre et tous ceux qui touchent leur vie. Nous fournissons des ressources, organisons des événements et connectons les familles à des groupes de soutien.",
-    "organizationType": [
-      "non-profit-organization",
-      "online-platform",
-      "support-group"
     ]
   },
   {

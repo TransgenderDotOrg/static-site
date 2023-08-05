@@ -15,6 +15,18 @@ const inputDir = path.join(__dirname, '../resources')
 const outputDir = path.join(__dirname, '../src/resources')
 const languageFile = path.join(__dirname, '../languages.json')
 
+const sanitizeUrl = (url: string) => {
+  if (!url) return ''
+  let sanitizedUrl = url.replace(/www./g, '') // remove 'www.'
+  // remove protocol
+  sanitizedUrl = sanitizedUrl.replace(/(^\w+:|^)\/\//, '')
+  if (sanitizedUrl.endsWith('/')) {
+    // remove trailing slash
+    sanitizedUrl = sanitizedUrl.slice(0, -1)
+  }
+  return sanitizedUrl
+}
+
 const processJsonFiles = async () => {
   // Read the languages file
   const languagesContent = await readFile(languageFile, 'utf-8')
@@ -58,6 +70,37 @@ const processJsonFiles = async () => {
 
     // Write the processed data to the output directory
     const outputFilePath = path.join(outputDir, `${localeCode}.json`)
+
+    // sort output based on list of most popular urls
+    const popularUrls = [
+      'transgendermap.com',
+      'diyhrt.cafe',
+      'genderdysphoria.fyi',
+      'genderdiversity.org',
+      'transfamilies.org',
+      'translifeline.org',
+      'glaad.org',
+      'thetrevorproject.org',
+      'hrc.org',
+      'transfemscience.org',
+      'genderspectrum.org',
+      'transequality.org',
+      'strandsfortrans.com',
+    ]
+
+    output = output.sort((a, b) => {
+      const aUrl = sanitizeUrl(a.externalUrl)
+      const bUrl = sanitizeUrl(b.externalUrl)
+
+      if (popularUrls.includes(aUrl) && !popularUrls.includes(bUrl)) {
+        return -1
+      } else if (!popularUrls.includes(aUrl) && popularUrls.includes(bUrl)) {
+        return 1
+      } else {
+        return 0
+      }
+    })
+
     await writeFile(outputFilePath, JSON.stringify(output, null, 2), 'utf-8')
   }
 }

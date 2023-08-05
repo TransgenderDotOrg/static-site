@@ -1,5 +1,289 @@
 [
   {
+    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
+    "slug": "diyhrtcafe",
+    "externalUrl": "https://diyhrt.cafe",
+    "tags": [
+      "transfeminine",
+      "transmasculine",
+      "non-binary",
+      "healthcare",
+      "legal",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "online-platform"
+    ],
+    "title": "DIYHRT.cafe",
+    "description": "தன்னையே செயலாக்கும் ஹார்மோன் மாற்று சிகிச்சை (HRT) ஆர்வத்தை வைத்திருக்கும் நபர்களுக்கான அறிவு மையமாக உள்ள மிகுந்த ஆன்லைன் சமூகம். அவர்களின் இணையத்தளம் தனியார செயலாக்கும் HRT க்கு தகவல்களை, வளங்களை, ஆதரவை அணுகுவது என்பது எங்கும் பாதுகாப்பான மற்றும் சேர்ந்து வாழ்வது என்பது என்று ஈர்த்தெழுதுகிறது. நீங்கள் மாற்று முறைகளை ஆராய்கிறீர்களா, மதிப்பீடு மற்றும் செயல்பாட்டில் வழிகாட்டுதலை தேடுகிறீர்களா, அல்லது ஒரே அனுபவத்தை பகிர்ந்து கொண்ட பிறருடன் தொடர்பு கொள்ள விரும்புகிறீர்களா, DIYHRT.cafe உங்கள் ஆரோக்கியம் மற்றும் நலன் பற்றிய அறிவியல் ஆக்கப்பட்ட முடிவுகளை எடுக்க உதவும் மிகுந்த முக்கியத்துவமுள்ள ஞாலங்களை, தனிப்பட்ட கதைகளை மற்றும் வல்லுநர் ஆலோசனைகளை வழங்குகிறது.",
+    "organizationType": [
+      "online-platform",
+      "healthcare-provider"
+    ]
+  },
+  {
+    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
+    "slug": "transfemscienceorg",
+    "externalUrl": "https://transfemscience.org",
+    "tags": [
+      "transfeminine",
+      "healthcare",
+      "education-awareness"
+    ],
+    "title": "transfemscience.org",
+    "description": "பனிமின்மட்டும் மற்றும் அவிசெயல்பாட்டு சமுதாயத்துக்கான ஆதாரமான ஆய்வு, கல்வி மற்றும் வளங்களை வழங்குவதற்க்கு சித்தார்த்த முளவிய ஆன்லைன் மேடை, தனிப்பட்டும் பெண்ணாக்கும் ஹார்மோன் சிகிச்சை (FHT) மேல் சிப்பனுள்ளது. அவரது வலைத்தளம் FHTயின் மருத்துவ, உடல்நல, மற்றும் உளவியல் தகவல்களுக்கான விழாய்மான மையமாக சேவை செய்கிறது. அவரது நண்பர் மதிப்பியல் ஆய்வுகள், அறிஞர் கட்டுரைகள், மற்றும் நடப்பு வழிகாட்டிகளின் விரிவான சேகரிப்புமூலம், அவரது தளம் தன்னார்வலர்ச்சி மற்றும் ஆரோக்கியத்தை குறித்த அறிவுறுத்தப்பட்ட முடிவுகளையேற்பதற்கு மக்களை அதிகாரப்படுத்துகிறது.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
+    "slug": "human-rights-campaign",
+    "externalUrl": "https://www.hrc.org/",
+    "tags": [
+      "legal",
+      "education-awareness",
+      "community-stories"
+    ],
+    "address": null,
+    "phoneNumber": null,
+    "country": "us",
+    "provinceOrState": null,
+    "city": null,
+    "county": null,
+    "latLng": null,
+    "email": null,
+    "socialMedia": {
+      "twitterUrl": "https://twitter.com/HRC",
+      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
+      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
+      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
+    },
+    "title": "மனித உரிமைகள் போராட்டம்",
+    "description": "மனித உரிமைகள் போராட்டம் LGBTQ+ சமுதாயத்தின் உரிமைகளுக்கும் சமமானத்துவத்திற்கும் போராடுகின்றது. அவர்கள் கல்வி, மேலும் முகாமாதி, மற்றும் அணிகலன்களின் மூலம் வேதித்துவியேற்றுவதை முடிக்க முயற்சிக்கின்றனர். அவர்கள், தங்களுக்கு உள்ளார் மாவட்டத்தில் ஈடுபட முயற்சியும் LGBT+ சமூகத்திற்கு ஆதாரங்களையும் வழங்குகின்றனர்.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
+    "slug": "genderdysphoriafyi",
+    "externalUrl": "https://genderdysphoria.fyi",
+    "tags": [
+      "education-awareness",
+      "transmasculine",
+      "transfeminine",
+      "non-binary"
+    ],
+    "title": "genderdysphoria.fyi",
+    "description": "பாலியல் குழப்பத்தை குறித்து அறிவு, ஆதரவு, மற்றும் புரிந்துணர்வு தேடும் நபர்களுக்கான நம்பிக்கையான ஆன்லைன் வளாகம். அவர்களது வலைத்தளம் தனிநபர்களின் பயணத்தில் அவர்களை ஆதரிக்க ஒரு பொதுவழிக் கேள்விகள், வளங்கள் மற்றும் சமூக இணைப்புகள் ஆகியவற்றை ஏற்படுத்துவதாக உள்ளது. பாலியல் அடையாளம் மற்றும் மாற்றத்திலிருந்து முழுமையான வழிகாட்டிகள், தனிப்பட்ட கதைகள் மற்றும் வல்லுநர் ஆலோசனைகள் வரை, அவர்கள் அனைத்துக்கும் பாலாண்மையான மற்றும் சேர்ந்து இருக்கும் இடத்தை உருவாக்க முயற்சிக்கின்றனர்.",
+    "organizationType": [
+      "online-platform"
+    ]
+  },
+  {
+    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
+    "slug": "gender-diversity",
+    "externalUrl": "https://genderdiversity.org",
+    "tags": [
+      "education-awareness",
+      "youth-services",
+      "healthcare",
+      "non-binary",
+      "transmasculine",
+      "transfeminine",
+      "parent-family-resources"
+    ],
+    "address": "6523 California Ave SW #144, Seattle, WA 98136",
+    "country": "US",
+    "provinceOrState": "WA",
+    "city": "Seattle",
+    "county": "King County",
+    "latLng": [
+      47.544046,
+      -122.387452
+    ],
+    "phoneNumber": "1-833-3GENDER",
+    "email": "info@genderdiversity.org",
+    "title": "பால் வகைப்பாடு",
+    "description": "பால் வகைப்பாடு என்பது அனைத்து பாலுக்கான அடையாளங்கள் மற்றும் வெளிப்படைத்தல்களுக்கான குழந்தைகள் மற்றும் வாழ்க்கையாளர்களின் நலம் மேம்படுத்தும் மூலம் கல்வியாளவு, விழிப்புணர்வுக் கூர்மையாக்கி, மனித அனுபவங்களின் விரிவான வீச்சில் அறிவீடு வழங்குகிறது. நாம் மேலும் பல்லூட்டியல் மற்றும் பாலுக்கான விவாதிப்பான சூழல்களை பள்ளிகள், விளையாட்டு அணிகள், வேலை சூழலுக்குக் கொண்டுவந்து, மற்றும் மருத்துவ வழங்குநர்களால் உருவாக்குவதற்கு உதவுகின்றோம்.",
+    "organizationType": [
+      "educational-institution",
+      "non-profit-organization",
+      "online-platform"
+    ]
+  },
+  {
+    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
+    "slug": "national-center-for-transgender-equality",
+    "externalUrl": "https://transequality.org",
+    "tags": [
+      "non-binary",
+      "legal",
+      "healthcare",
+      "education-awareness",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "community-stories",
+      "mental-health",
+      "social-services"
+    ],
+    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
+    "phoneNumber": "(202) 642-4542",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "Washington D.C.",
+    "county": "District of Columbia",
+    "latLng": [
+      38.903438,
+      -77.035037
+    ],
+    "email": "ncte@transequality.org",
+    "socialMedia": {
+      "blogUrl": "https://transequality.org/blog"
+    },
+    "title": "தேசிய மாறுபாலி சமமானத்துவ மையம்",
+    "description": "தேசிய மாறுபாலி சமமானத்துவ மையம் என்பது மாறுபாலி மக்களை மேலும் உண்மையில் அறிய மற்றும் ஏற்றுறுத்தல் கிடைக்க விதிகள் மற்றும் சமூக முன்னோக்கி மேல் ஆதரவு கொடுத்து, மாறுபாலிக் குழு என்ற சமூகத்தின் மேல் விளைவிக்கும் பிரச்சினைகளுக்கு பற்றி தகவல்கள் வழங்குவதாகும் ஒரு அமைப்பு. அதில் முதுமையாக உள்ளது, வன்முறை எதிர்ப்பு, வேலை, குடும்பங்கள், சுகாதாரம் & HIV, வீடு & விழிப்புணர்வு, மேலும் பல.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
+    "slug": "trans-lifeline-peer-support-and-resources",
+    "externalUrl": "https://translifeline.org/",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "support-groups",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "community-stories"
+    ],
+    "address": null,
+    "email": null,
+    "phoneNumber": "(877) 565-8860",
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TransLifeline/",
+      "twitterUrl": "https://twitter.com/TransLifeline",
+      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
+      "youtubeUrl": null,
+      "tiktokUrl": null,
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "Trans Lifeline",
+    "description": "Trans Lifeline ஒரு மாற்று முன்னணி நிறுவனமாகும், மாற்றுநை சமுதாயத்துக்கான நண்பர் ஆதரவு மற்றும் வளங்களை வழங்குகின்றன. சமூக ஆதரவு, மைக்ரோவழங்கிகள் மற்றும் ஒரு ஹாட்லைன் மேல் கவனமிட்டு, அவர்கள் மாற்றுநை ஆதரவுபெற வேண்டிய வேண்டிய இணைப்புகள் மற்றும் வளங்களை வழங்க நோக்குகின்றன. Trans Lifeline மாற்று சமுதாயத்திற்காக #SafeHotlines போன்ற முயற்சிகள் மூலமும் மேலதிக ஓரளவு வழங்குகின்றது.",
+    "organizationType": [
+      "national-organization",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
+    "slug": "the-trevor-project",
+    "externalUrl": "https://www.thetrevorproject.org/",
+    "tags": [
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "education-awareness"
+    ],
+    "address": "West Hollywood, CA 90069, USA",
+    "email": null,
+    "phoneNumber": "(212) 695-8650",
+    "country": "US",
+    "provinceOrState": "CA",
+    "city": "West Hollywood",
+    "county": "Los Angeles County",
+    "latLng": [
+      34.0931603,
+      -118.3783347
+    ],
+    "socialMedia": {
+      "yelpUrl": null,
+      "googleMapsUrl": null,
+      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
+      "twitterUrl": "https://twitter.com/trevorproject",
+      "instagramUrl": "https://www.instagram.com/trevorproject/",
+      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
+      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
+      "twitchUrl": null,
+      "patreonUrl": null
+    },
+    "title": "ட்ரெவர் திட்டம்",
+    "description": "ட்ரேவர் திட்டம் அமெரிக்கத்தில் உள்ள முனையில்லா அமைப்பு, LGBTQ+ இளம் இளைஞர்களுக்கு மூக்குவிபரித்தல் தடுப்பு சேவைகளை வழங்குகின்றது. இந்த தளம் தற்போதுள்ள ஆபத்தியில் உள்ளவர்களுக்கு மற்றும் மூக்குவிபரித்தல் தடுப்பு முயற்சிக்கு, TrevorChat, மற்றும் TrevorText ஆகியவற்றின் மூலம் ஆதரவு வழங்குகிறது, மன நலத்தை மேம்படுத்த வழிகாட்டுதல்களின் மூலம் மற்றும் சமூக சேவைகளுக்கு மற்றும் ஆதரவு குழுக்களுக்கு மதிப்புள்ள ஆதாரங்களை வழங்குகிறது.",
+    "organizationType": [
+      "national-organization",
+      "online-platform",
+      "non-profit-organization"
+    ]
+  },
+  {
+    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
+    "slug": "transgendermap",
+    "externalUrl": "https://transgendermap.com",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "legal",
+      "healthcare",
+      "mental-health",
+      "social-services",
+      "youth-services",
+      "parent-family-resources",
+      "partner-resources",
+      "education-awareness",
+      "financial-aid-scholarships",
+      "voice-training",
+      "makeup",
+      "clothing",
+      "community-stories"
+    ],
+    "title": "பாலின மாற்று வரைபடம்",
+    "description": "Transgendermap.com என்பது பாலின் அடையாளத்தை சந்தேகிக்கும் அல்லது பாலின மாற்று வரியாவில் உள்ள மக்களுக்கு பிரயோகக் கூறுகள் மற்றும் வழிகாட்டுதல்களை வழங்குவதை நோக்கி ஆன்லைன் வளமாக உள்ளது. இந்த இணையத்தளம் பாலின் மாற்று சொற்தகவல்களை உணர்வத், மாற்றம் செயல்முறைகள், சட்ட விவாதங்கள், சுகாதார, பல தனிப்பட்ட கதைகள் போன்ற பல தலைப்புகளைக் கொண்டுள்ளது. அதன் நோக்கம், 'வரைபடத்தின்' மூலமாக பாலின் அடையாளத்தின் பல பகுதிகளுக்கு வழிகாட்டல் வழங்கி தனித்த பயணங்களுக்கு மக்களை வழிகாட்டுவதாகும். மிகவும் தற்போதைய மற்றும் சரியான தகவல்களுக்கு நிஜ தளத்தை பார்வையிடுவதற்கை நல்லாக கேட்டுக்கொள்ளுகிறோம்.",
+    "organizationType": [
+      "online-platform",
+      "educational-institution"
+    ]
+  },
+  {
+    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
+    "slug": "trans-families-home",
+    "externalUrl": "https://transfamilies.org",
+    "tags": [
+      "transmasculine",
+      "non-binary",
+      "transfeminine",
+      "healthcare",
+      "mental-health",
+      "youth-services",
+      "support-groups",
+      "parent-family-resources",
+      "education-awareness"
+    ],
+    "email": null,
+    "phoneNumber": null,
+    "address": null,
+    "socialMedia": null,
+    "title": "மாறிவாழ்க்கை குடும்பங்கள்",
+    "description": "மாறிவாழ்க்கை குடும்பங்கள் நம்பிக்கையை ஊக்கப்படுத்தி, மேலும் அறிவை அதிகரிப்பதற்கும், மாறிய பாலினத்தையும் பாலின வேறுபாடுகளையும் அடையாளம் காணும் குழந்தைகளுக்கு ஆதரவு வழியை உருவாக்கும். ஆவணங்களை வழங்குவதற்கும், நிகழ்வுகளை ஏற்பாடு செய்வதற்கும், குடும்பங்களை ஆதரவு குழுக்களுக்கு இணைக்கும் ஆணைகளை இணைக்கின்றோம்.",
+    "organizationType": [
+      "non-profit-organization",
+      "online-platform",
+      "support-group"
+    ]
+  },
+  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -2106,27 +2390,6 @@
     ],
     "title": "Circle Care Center",
     "description": "Located in Connecticut, Circle Care Center is an LGBTQI+ affirming medical services and sexual health center. Offering a range of services such as Primary Care, HIV Treatment & Care, Behavioral Health, and Gender-Affirming Care. It is dedicated to creating a supportive and inclusive environment for the transgender community, providing name and gender change assistance to help ease the transition process. The warm, caring, and committed staff makes it a safe space for those seeking medical attention."
-  },
-  {
-    "id": "0db36ba9-b329-4a54-8302-d7810866457a",
-    "slug": "diyhrtcafe",
-    "externalUrl": "https://diyhrt.cafe",
-    "tags": [
-      "transfeminine",
-      "transmasculine",
-      "non-binary",
-      "healthcare",
-      "legal",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "online-platform"
-    ],
-    "title": "DIYHRT.cafe",
-    "description": "தன்னையே செயலாக்கும் ஹார்மோன் மாற்று சிகிச்சை (HRT) ஆர்வத்தை வைத்திருக்கும் நபர்களுக்கான அறிவு மையமாக உள்ள மிகுந்த ஆன்லைன் சமூகம். அவர்களின் இணையத்தளம் தனியார செயலாக்கும் HRT க்கு தகவல்களை, வளங்களை, ஆதரவை அணுகுவது என்பது எங்கும் பாதுகாப்பான மற்றும் சேர்ந்து வாழ்வது என்பது என்று ஈர்த்தெழுதுகிறது. நீங்கள் மாற்று முறைகளை ஆராய்கிறீர்களா, மதிப்பீடு மற்றும் செயல்பாட்டில் வழிகாட்டுதலை தேடுகிறீர்களா, அல்லது ஒரே அனுபவத்தை பகிர்ந்து கொண்ட பிறருடன் தொடர்பு கொள்ள விரும்புகிறீர்களா, DIYHRT.cafe உங்கள் ஆரோக்கியம் மற்றும் நலன் பற்றிய அறிவியல் ஆக்கப்பட்ட முடிவுகளை எடுக்க உதவும் மிகுந்த முக்கியத்துவமுள்ள ஞாலங்களை, தனிப்பட்ட கதைகளை மற்றும் வல்லுநர் ஆலோசனைகளை வழங்குகிறது.",
-    "organizationType": [
-      "online-platform",
-      "healthcare-provider"
-    ]
   },
   {
     "id": "0df181cd-6431-4f05-a79f-6ae5c8e3f79b",
@@ -4607,21 +4870,6 @@
     "description": "Santa Rosa Community Health is dedicated to providing comprehensive health services to all, including the transgender community. They offer specialized care such as their Gender Clinic and services for intellectual and developmental disabilities. They prioritize understanding, respect, and high-quality care, ensuring all patients are heard and valued. Their services range from primary and mental health care to dental services, women’s health, pediatrics, wellness groups, and more. Their team is ready to work together for the health and wellness of their patients."
   },
   {
-    "id": "1e8cb769-f49b-4428-86ea-2c4cbec96905",
-    "slug": "transfemscienceorg",
-    "externalUrl": "https://transfemscience.org",
-    "tags": [
-      "transfeminine",
-      "healthcare",
-      "education-awareness"
-    ],
-    "title": "transfemscience.org",
-    "description": "பனிமின்மட்டும் மற்றும் அவிசெயல்பாட்டு சமுதாயத்துக்கான ஆதாரமான ஆய்வு, கல்வி மற்றும் வளங்களை வழங்குவதற்க்கு சித்தார்த்த முளவிய ஆன்லைன் மேடை, தனிப்பட்டும் பெண்ணாக்கும் ஹார்மோன் சிகிச்சை (FHT) மேல் சிப்பனுள்ளது. அவரது வலைத்தளம் FHTயின் மருத்துவ, உடல்நல, மற்றும் உளவியல் தகவல்களுக்கான விழாய்மான மையமாக சேவை செய்கிறது. அவரது நண்பர் மதிப்பியல் ஆய்வுகள், அறிஞர் கட்டுரைகள், மற்றும் நடப்பு வழிகாட்டிகளின் விரிவான சேகரிப்புமூலம், அவரது தளம் தன்னார்வலர்ச்சி மற்றும் ஆரோக்கியத்தை குறித்த அறிவுறுத்தப்பட்ட முடிவுகளையேற்பதற்கு மக்களை அதிகாரப்படுத்துகிறது.",
-    "organizationType": [
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -5129,36 +5377,6 @@
     "county": "Kauai County",
     "title": "Malama Pono Health Services",
     "description": "Malama Pono Health Services in Hawaii provides a range of healthcare services including women's wellness, testing and treatment for sexually transmitted diseases, case management for HIV/AIDS clients, Transgender services including counseling and Hormone replacement therapy and community education. The clinic offers 100% confidential and free STD/HIV testing & treatment services regardless of whether you have insurance. The clinic also provides PrEP services, women's healthcare, a range of support services, and acts a resource for those seeking to quit tobacco. It's reputable for its inclusivity, compassion, and tailored care for the transgender community."
-  },
-  {
-    "id": "20f75d6a-e25f-4ce8-8b89-135dec7f9a0d",
-    "slug": "human-rights-campaign",
-    "externalUrl": "https://www.hrc.org/",
-    "tags": [
-      "legal",
-      "education-awareness",
-      "community-stories"
-    ],
-    "address": null,
-    "phoneNumber": null,
-    "country": "us",
-    "provinceOrState": null,
-    "city": null,
-    "county": null,
-    "latLng": null,
-    "email": null,
-    "socialMedia": {
-      "twitterUrl": "https://twitter.com/HRC",
-      "facebookUrl": "https://www.facebook.com/humanrightscampaign",
-      "instagramUrl": "https://www.instagram.com/humanrightscampaign/",
-      "tiktokUrl": "https://www.tiktok.com/@humanrightscampaign"
-    },
-    "title": "மனித உரிமைகள் போராட்டம்",
-    "description": "மனித உரிமைகள் போராட்டம் LGBTQ+ சமுதாயத்தின் உரிமைகளுக்கும் சமமானத்துவத்திற்கும் போராடுகின்றது. அவர்கள் கல்வி, மேலும் முகாமாதி, மற்றும் அணிகலன்களின் மூலம் வேதித்துவியேற்றுவதை முடிக்க முயற்சிக்கின்றனர். அவர்கள், தங்களுக்கு உள்ளார் மாவட்டத்தில் ஈடுபட முயற்சியும் LGBT+ சமூகத்திற்கு ஆதாரங்களையும் வழங்குகின்றனர்.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -9511,22 +9729,6 @@
     ],
     "title": "Legacy Community Health",
     "description": "Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay."
-  },
-  {
-    "id": "3b5a33bd-aba4-4205-9a86-293b172e38ee",
-    "slug": "genderdysphoriafyi",
-    "externalUrl": "https://genderdysphoria.fyi",
-    "tags": [
-      "education-awareness",
-      "transmasculine",
-      "transfeminine",
-      "non-binary"
-    ],
-    "title": "genderdysphoria.fyi",
-    "description": "பாலியல் குழப்பத்தை குறித்து அறிவு, ஆதரவு, மற்றும் புரிந்துணர்வு தேடும் நபர்களுக்கான நம்பிக்கையான ஆன்லைன் வளாகம். அவர்களது வலைத்தளம் தனிநபர்களின் பயணத்தில் அவர்களை ஆதரிக்க ஒரு பொதுவழிக் கேள்விகள், வளங்கள் மற்றும் சமூக இணைப்புகள் ஆகியவற்றை ஏற்படுத்துவதாக உள்ளது. பாலியல் அடையாளம் மற்றும் மாற்றத்திலிருந்து முழுமையான வழிகாட்டிகள், தனிப்பட்ட கதைகள் மற்றும் வல்லுநர் ஆலோசனைகள் வரை, அவர்கள் அனைத்துக்கும் பாலாண்மையான மற்றும் சேர்ந்து இருக்கும் இடத்தை உருவாக்க முயற்சிக்கின்றனர்.",
-    "organizationType": [
-      "online-platform"
-    ]
   },
   {
     "i18n": {
@@ -19477,38 +19679,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "7fb1e1a6-bd81-4515-9aaa-70aea4580e55",
-    "slug": "gender-diversity",
-    "externalUrl": "https://genderdiversity.org",
-    "tags": [
-      "education-awareness",
-      "youth-services",
-      "healthcare",
-      "non-binary",
-      "transmasculine",
-      "transfeminine",
-      "parent-family-resources"
-    ],
-    "address": "6523 California Ave SW #144, Seattle, WA 98136",
-    "country": "US",
-    "provinceOrState": "WA",
-    "city": "Seattle",
-    "county": "King County",
-    "latLng": [
-      47.544046,
-      -122.387452
-    ],
-    "phoneNumber": "1-833-3GENDER",
-    "email": "info@genderdiversity.org",
-    "title": "பால் வகைப்பாடு",
-    "description": "பால் வகைப்பாடு என்பது அனைத்து பாலுக்கான அடையாளங்கள் மற்றும் வெளிப்படைத்தல்களுக்கான குழந்தைகள் மற்றும் வாழ்க்கையாளர்களின் நலம் மேம்படுத்தும் மூலம் கல்வியாளவு, விழிப்புணர்வுக் கூர்மையாக்கி, மனித அனுபவங்களின் விரிவான வீச்சில் அறிவீடு வழங்குகிறது. நாம் மேலும் பல்லூட்டியல் மற்றும் பாலுக்கான விவாதிப்பான சூழல்களை பள்ளிகள், விளையாட்டு அணிகள், வேலை சூழலுக்குக் கொண்டுவந்து, மற்றும் மருத்துவ வழங்குநர்களால் உருவாக்குவதற்கு உதவுகின்றோம்.",
-    "organizationType": [
-      "educational-institution",
-      "non-profit-organization",
-      "online-platform"
-    ]
-  },
-  {
     "i18n": {
       "en-US": {
         "title": "Planned Parenthood",
@@ -20602,43 +20772,6 @@
       "national-organization",
       "local-office",
       "legal-service"
-    ]
-  },
-  {
-    "id": "878e809b-12aa-483f-be01-3c51a4d331d6",
-    "slug": "national-center-for-transgender-equality",
-    "externalUrl": "https://transequality.org",
-    "tags": [
-      "non-binary",
-      "legal",
-      "healthcare",
-      "education-awareness",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "community-stories",
-      "mental-health",
-      "social-services"
-    ],
-    "address": "1032 15th St NW #199, Washington, DC 20005, USA",
-    "phoneNumber": "(202) 642-4542",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "Washington D.C.",
-    "county": "District of Columbia",
-    "latLng": [
-      38.903438,
-      -77.035037
-    ],
-    "email": "ncte@transequality.org",
-    "socialMedia": {
-      "blogUrl": "https://transequality.org/blog"
-    },
-    "title": "தேசிய மாறுபாலி சமமானத்துவ மையம்",
-    "description": "தேசிய மாறுபாலி சமமானத்துவ மையம் என்பது மாறுபாலி மக்களை மேலும் உண்மையில் அறிய மற்றும் ஏற்றுறுத்தல் கிடைக்க விதிகள் மற்றும் சமூக முன்னோக்கி மேல் ஆதரவு கொடுத்து, மாறுபாலிக் குழு என்ற சமூகத்தின் மேல் விளைவிக்கும் பிரச்சினைகளுக்கு பற்றி தகவல்கள் வழங்குவதாகும் ஒரு அமைப்பு. அதில் முதுமையாக உள்ளது, வன்முறை எதிர்ப்பு, வேலை, குடும்பங்கள், சுகாதாரம் & HIV, வீடு & விழிப்புணர்வு, மேலும் பல.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
     ]
   },
   {
@@ -23584,43 +23717,6 @@
     "description": "Anchor Health provides groundbreaking, radically inclusive, gender-affirming, and sex-positive care for the LGBTQ community, with a focus on transgender and gender diverse individuals. They offer a range of services such as primary care, behavioral health, sexual health, and HIV prevention with a holistic approach, striving to create a safe and understanding environment for queer individuals."
   },
   {
-    "id": "9e09fcfd-eb5b-4dd9-825c-ae3c3c5ce940",
-    "slug": "trans-lifeline-peer-support-and-resources",
-    "externalUrl": "https://translifeline.org/",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "support-groups",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "community-stories"
-    ],
-    "address": null,
-    "email": null,
-    "phoneNumber": "(877) 565-8860",
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TransLifeline/",
-      "twitterUrl": "https://twitter.com/TransLifeline",
-      "instagramUrl": "https://www.instagram.com/translifeline/?hl=en",
-      "youtubeUrl": null,
-      "tiktokUrl": null,
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "Trans Lifeline",
-    "description": "Trans Lifeline ஒரு மாற்று முன்னணி நிறுவனமாகும், மாற்றுநை சமுதாயத்துக்கான நண்பர் ஆதரவு மற்றும் வளங்களை வழங்குகின்றன. சமூக ஆதரவு, மைக்ரோவழங்கிகள் மற்றும் ஒரு ஹாட்லைன் மேல் கவனமிட்டு, அவர்கள் மாற்றுநை ஆதரவுபெற வேண்டிய வேண்டிய இணைப்புகள் மற்றும் வளங்களை வழங்க நோக்குகின்றன. Trans Lifeline மாற்று சமுதாயத்திற்காக #SafeHotlines போன்ற முயற்சிகள் மூலமும் மேலதிக ஓரளவு வழங்குகின்றது.",
-    "organizationType": [
-      "national-organization",
-      "non-profit-organization"
-    ]
-  },
-  {
     "id": "9e105990-6fe3-49a8-b64d-fda1742dfc94",
     "i18n": {
       "en-US": {
@@ -24203,46 +24299,6 @@
     ],
     "title": "Planned Parenthood",
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
-  },
-  {
-    "id": "a453684e-c325-457f-8841-05c0adabbbc0",
-    "slug": "the-trevor-project",
-    "externalUrl": "https://www.thetrevorproject.org/",
-    "tags": [
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "education-awareness"
-    ],
-    "address": "West Hollywood, CA 90069, USA",
-    "email": null,
-    "phoneNumber": "(212) 695-8650",
-    "country": "US",
-    "provinceOrState": "CA",
-    "city": "West Hollywood",
-    "county": "Los Angeles County",
-    "latLng": [
-      34.0931603,
-      -118.3783347
-    ],
-    "socialMedia": {
-      "yelpUrl": null,
-      "googleMapsUrl": null,
-      "facebookUrl": "https://www.facebook.com/TheTrevorProject",
-      "twitterUrl": "https://twitter.com/trevorproject",
-      "instagramUrl": "https://www.instagram.com/trevorproject/",
-      "youtubeUrl": "https://www.youtube.com/thetrevorproject",
-      "tiktokUrl": "https://www.tiktok.com/@trevorproject",
-      "twitchUrl": null,
-      "patreonUrl": null
-    },
-    "title": "ட்ரெவர் திட்டம்",
-    "description": "ட்ரேவர் திட்டம் அமெரிக்கத்தில் உள்ள முனையில்லா அமைப்பு, LGBTQ+ இளம் இளைஞர்களுக்கு மூக்குவிபரித்தல் தடுப்பு சேவைகளை வழங்குகின்றது. இந்த தளம் தற்போதுள்ள ஆபத்தியில் உள்ளவர்களுக்கு மற்றும் மூக்குவிபரித்தல் தடுப்பு முயற்சிக்கு, TrevorChat, மற்றும் TrevorText ஆகியவற்றின் மூலம் ஆதரவு வழங்குகிறது, மன நலத்தை மேம்படுத்த வழிகாட்டுதல்களின் மூலம் மற்றும் சமூக சேவைகளுக்கு மற்றும் ஆதரவு குழுக்களுக்கு மதிப்புள்ள ஆதாரங்களை வழங்குகிறது.",
-    "organizationType": [
-      "national-organization",
-      "online-platform",
-      "non-profit-organization"
-    ]
   },
   {
     "i18n": {
@@ -35232,35 +35288,6 @@
     "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
   },
   {
-    "id": "eee5057f-7302-4392-b6aa-add70e3e8556",
-    "slug": "transgendermap",
-    "externalUrl": "https://transgendermap.com",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "legal",
-      "healthcare",
-      "mental-health",
-      "social-services",
-      "youth-services",
-      "parent-family-resources",
-      "partner-resources",
-      "education-awareness",
-      "financial-aid-scholarships",
-      "voice-training",
-      "makeup",
-      "clothing",
-      "community-stories"
-    ],
-    "title": "பாலின மாற்று வரைபடம்",
-    "description": "Transgendermap.com என்பது பாலின் அடையாளத்தை சந்தேகிக்கும் அல்லது பாலின மாற்று வரியாவில் உள்ள மக்களுக்கு பிரயோகக் கூறுகள் மற்றும் வழிகாட்டுதல்களை வழங்குவதை நோக்கி ஆன்லைன் வளமாக உள்ளது. இந்த இணையத்தளம் பாலின் மாற்று சொற்தகவல்களை உணர்வத், மாற்றம் செயல்முறைகள், சட்ட விவாதங்கள், சுகாதார, பல தனிப்பட்ட கதைகள் போன்ற பல தலைப்புகளைக் கொண்டுள்ளது. அதன் நோக்கம், 'வரைபடத்தின்' மூலமாக பாலின் அடையாளத்தின் பல பகுதிகளுக்கு வழிகாட்டல் வழங்கி தனித்த பயணங்களுக்கு மக்களை வழிகாட்டுவதாகும். மிகவும் தற்போதைய மற்றும் சரியான தகவல்களுக்கு நிஜ தளத்தை பார்வையிடுவதற்கை நல்லாக கேட்டுக்கொள்ளுகிறோம்.",
-    "organizationType": [
-      "online-platform",
-      "educational-institution"
-    ]
-  },
-  {
     "id": "ef234cb6-c3e1-4b57-9868-6afcc2ac982e",
     "i18n": {
       "en-US": {
@@ -37513,33 +37540,6 @@
     "organizationType": [
       "online-platform",
       "healthcare-provider"
-    ]
-  },
-  {
-    "id": "fc8a7875-84dd-4df5-96ec-8aca153c8ea6",
-    "slug": "trans-families-home",
-    "externalUrl": "https://transfamilies.org",
-    "tags": [
-      "transmasculine",
-      "non-binary",
-      "transfeminine",
-      "healthcare",
-      "mental-health",
-      "youth-services",
-      "support-groups",
-      "parent-family-resources",
-      "education-awareness"
-    ],
-    "email": null,
-    "phoneNumber": null,
-    "address": null,
-    "socialMedia": null,
-    "title": "மாறிவாழ்க்கை குடும்பங்கள்",
-    "description": "மாறிவாழ்க்கை குடும்பங்கள் நம்பிக்கையை ஊக்கப்படுத்தி, மேலும் அறிவை அதிகரிப்பதற்கும், மாறிய பாலினத்தையும் பாலின வேறுபாடுகளையும் அடையாளம் காணும் குழந்தைகளுக்கு ஆதரவு வழியை உருவாக்கும். ஆவணங்களை வழங்குவதற்கும், நிகழ்வுகளை ஏற்பாடு செய்வதற்கும், குடும்பங்களை ஆதரவு குழுக்களுக்கு இணைக்கும் ஆணைகளை இணைக்கின்றோம்.",
-    "organizationType": [
-      "non-profit-organization",
-      "online-platform",
-      "support-group"
     ]
   },
   {
