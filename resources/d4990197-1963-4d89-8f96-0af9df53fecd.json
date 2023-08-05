@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-sioux-falls",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d4990197-1963-4d89-8f96-0af9df53fecd",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/south-dakota/sioux-falls/57106/sioux-falls-health-center-2738-90720?utm_campaign=sioux-falls-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "6511 W 41st St, Sioux Falls, SD 57106, USA",
+  "phoneNumber": "+1 605-361-5100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6917472984481172114"
+  },
+  "country": "US",
+  "provinceOrState": "SD",
+  "county": "Minnehaha County",
+  "city": "Sioux Falls",
+  "latLng": [
+    43.5145491,
+    -96.80788779999999
+  ]
+}

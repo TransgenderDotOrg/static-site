@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "OHSU Primary Care Clinic",
+      "description": "This OHSU clinic is dedicated to serve the people in the community including the transgender individuals. It offers services like gender-affirming primary care, alongside general and specialized health care services like adult care, pediatric care, women’s health care, pregnancy care, geriatric care, behavioral health, and wellness. The clinic emphasizes on respecting each patient’s beliefs, values, cultural needs, and providing personalized care plans that makes sense for you and your family."
+    }
+  },
+  "slug": "ohsu-primary-care-clinic-richmond",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "63d740d5-407a-425f-9ac0-c179e1528cc2",
+  "externalUrl": "https://www.ohsu.edu/primary-care/ohsu-primary-care-clinic-richmond?utm_source=gmb&utm_medium=organic&utm_content=53e86b89-98b6-5b8e-8b44-ab36e21851fa",
+  "address": "Health Care Centre in Portland, OR, USA, 3930 SE Division St, Portland, OR 97202, USA",
+  "phoneNumber": "+1 503-418-3900",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13334605548169404432"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Multnomah County",
+  "city": "Richmond",
+  "latLng": [
+    45.50457249999999,
+    -122.6223253
+  ]
+}

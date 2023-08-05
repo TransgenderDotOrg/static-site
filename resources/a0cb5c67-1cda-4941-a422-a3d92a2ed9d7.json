@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-salinas",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a0cb5c67-1cda-4941-a422-a3d92a2ed9d7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/salinas/93901/salinas-health-center-2228-90130?utm_campaign=salinas-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "316 N Main St, Salinas, CA 93901, USA",
+  "phoneNumber": "+1 831-758-8261",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=307200514020384677"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Monterey County",
+  "city": "Salinas",
+  "latLng": [
+    36.6826296,
+    -121.6527892
+  ]
+}

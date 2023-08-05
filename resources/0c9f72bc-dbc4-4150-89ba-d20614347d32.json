@@ -1,0 +1,35 @@
+{
+  "id": "0c9f72bc-dbc4-4150-89ba-d20614347d32",
+  "i18n": {
+    "en-US": {
+      "title": "Baystate High Street Health Center",
+      "description": "The Baystate High Street Health Center offers comprehensive healthcare services, including specific offerings for the transgender community. As a Patient-Centered Medical Home, Baystate ensures a compassionate and understanding approach to its care, taking into account the specific needs, culture, values and preferences of its patients, especially those from the transgender community. They also provide services such as behavioral health, medication-assisted treatments for substance-use disorders, and preventative healthcare."
+    }
+  },
+  "slug": "baystate-high-street-health-center",
+  "externalUrl": "https://www.baystatehealth.org/locations/high-street-health-center",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "140 High St # C, Springfield, MA 01199, USA",
+  "phoneNumber": "+1 413-794-2511",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Six Corners",
+  "latLng": [
+    42.1052965,
+    -72.57938949999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16243150836129735676"
+  },
+  "county": "Hampden County"
+}

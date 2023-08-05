@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-vienna",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c35ffb47-4a08-43c5-97ce-80920514fd0a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/west-virginia/vienna/26105/vienna-health-center-2893-90860?utm_campaign=vienna-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "522 Grand Central Ave, Vienna, WV 26105, USA",
+  "phoneNumber": "+1 304-295-3331",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13555066603883578443"
+  },
+  "country": "US",
+  "provinceOrState": "WV",
+  "county": "Wood County",
+  "city": "Vienna",
+  "latLng": [
+    39.3038746,
+    -81.54912120000002
+  ]
+}

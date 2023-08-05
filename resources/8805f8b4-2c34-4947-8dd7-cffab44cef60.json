@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-park-central-research-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8805f8b4-2c34-4947-8dd7-cffab44cef60",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/kansas-city/64110/patty-brous-health-center-2628-90740?utm_campaign=patty-brous-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1001 Emanuel Cleaver II Blvd., Kansas City, MO 64110, USA",
+  "phoneNumber": "+1 816-756-2277",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6223312991737812133"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "Jackson County",
+  "city": "Park Central-Research Park",
+  "latLng": [
+    39.041474,
+    -94.573848
+  ]
+}

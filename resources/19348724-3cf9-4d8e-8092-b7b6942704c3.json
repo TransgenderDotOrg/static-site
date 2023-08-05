@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-anza",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "19348724-3cf9-4d8e-8092-b7b6942704c3",
+  "externalUrl": "https://locations.borregohealth.org/anza-community-health-center-3c355fd65dfc?y_source=1_MTAxNDIyMDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "58581 CA-371 h, Anza, CA 92539, USA",
+  "phoneNumber": "+1 951-763-4759",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12438626657552944591"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Anza",
+  "latLng": [
+    33.5568618,
+    -116.6390755
+  ]
+}

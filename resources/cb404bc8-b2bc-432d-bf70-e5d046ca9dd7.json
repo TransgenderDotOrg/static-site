@@ -1,0 +1,37 @@
+{
+  "id": "cb404bc8-b2bc-432d-bf70-e5d046ca9dd7",
+  "i18n": {
+    "en-US": {
+      "title": "4270 Innes Rd National Transgender Center",
+      "description": "A local office and informed consent clinic located at 4270 Innes Rd. Offers a range of services for the transgender community, including health care and support groups. Providers are trained and sensitive to the specific needs of transmasculine, transfeminine and non-binary individuals, helping to create a comfortable and supportive environment."
+    }
+  },
+  "slug": "4270-innes-rd-national-transgender-center",
+  "externalUrl": "https://maps.google.com/?q=4270+Innes+Rd,+Ottawa,+ON+K1C+1T1,+Canada&ftid=0x4cce120261cb21ab:0x129612b3417dda1c",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4270 Innes Rd, Orléans, ON K4A 5E6, Canada",
+  "phoneNumber": null,
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Ottawa",
+  "county": "Ottawa",
+  "latLng": [
+    45.4566361,
+    -75.4942118
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=4270+Innes+Rd,+Ottawa,+ON+K1C+1T1,+Canada&ftid=0x4cce120261cb21ab:0x129612b3417dda1c"
+  },
+  "town": "Cumberland"
+}

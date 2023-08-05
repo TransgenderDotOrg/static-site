@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "St. John's Community Health, Portland",
+      "description": "St. John's Community Health provides comprehensive health services to the transgender community in Portland. Services include medical and mental health services, substance use services, a transgender health program, and various patient programs. This health center serves uninsured and underinsured populations ensuring health equity for everyone, including the transgender community."
+    }
+  },
+  "slug": "st-johns-community-health-portland-south-los-angeles",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "00bc32bd-9529-49d6-812d-21c9ef2bec8a",
+  "externalUrl": "https://sjch.org/",
+  "address": "326 W 23rd St, Los Angeles, CA 90007, USA",
+  "phoneNumber": "+1 323-541-1411",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16921693145374816641"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "South Los Angeles",
+  "latLng": [
+    34.0293689,
+    -118.2715053
+  ]
+}

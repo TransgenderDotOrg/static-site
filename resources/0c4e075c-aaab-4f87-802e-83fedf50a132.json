@@ -1,0 +1,36 @@
+{
+  "id": "0c4e075c-aaab-4f87-802e-83fedf50a132",
+  "i18n": {
+    "en-US": {
+      "title": "Park Nicollet Clinic - Minneapolis",
+      "description": "Located in Minneapolis, Park Nicollet Clinic offers comprehensive primary and specialized healthcare services. It is committed to providing personalized, focused care to all patients, including transgender individuals. The clinic offers services such as General Care, Hormone Therapy, and Support for Transgender individuals, making it a conducive space for everyone. The clinic is also LGBTQ+ friendly. Please contact the clinic for more specific information related to transgender healthcare."
+    }
+  },
+  "slug": "park-nicollet-clinic-minneapolis",
+  "externalUrl": "https://www.healthpartners.com/care/find/location/primary-care-clinics/park-nicollet/minneapolis/park-nicollet-clinic-minneapolis_localpack_conversion/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "2001 Blaisdell Ave, Minneapolis, MN 55404, USA",
+  "phoneNumber": "+1 952-993-8000",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Powderhorn",
+  "county": "Hennepin County",
+  "latLng": [
+    44.9623474,
+    -93.27911100000001
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8653994504581086339"
+  }
+}

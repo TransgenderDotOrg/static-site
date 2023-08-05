@@ -1,0 +1,35 @@
+{
+  "id": "f4636822-e3b2-4a36-8db2-ce742b1b886e",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Anthony Strickland - Transgender Friendly Family Practice Physician",
+      "description": "Located in Lawrence, Kansas, Dr. Anthony Strickland is a family practice physician who welcomes and provides medical care to all individuals including transgender, non-binary, and gender non-conforming patients. The practice is committed to providing respectful, comprehensive, and personalized healthcare services to every individual."
+    }
+  },
+  "slug": "dr-anthony-strickland-transgender-friendly-family-practice-physician",
+  "externalUrl": "https://weence.com/medical/doctors/lawrence/dr-anthony-strickland/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "346 Maine St #150, Lawrence, KS 66044, USA",
+  "phoneNumber": "+1 785-841-7297",
+  "country": "US",
+  "provinceOrState": "KS",
+  "city": "Pinckney",
+  "latLng": [
+    38.977445,
+    -95.246872
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18237567161534734895"
+  },
+  "county": "Douglas County"
+}

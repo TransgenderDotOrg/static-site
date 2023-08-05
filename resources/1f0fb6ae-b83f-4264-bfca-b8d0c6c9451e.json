@@ -1,0 +1,34 @@
+{
+  "id": "1f0fb6ae-b83f-4264-bfca-b8d0c6c9451e",
+  "i18n": {
+    "en-US": {
+      "title": "Radical Healing: Multicultural Healing Campus",
+      "description": "Radical Healing is an inclusive, LGBTQ+ and BIPOC centered, multiracial, and multicultural space providing tailored mental health and wellness services for the transgender community. The services include anti-oppression medication management, assessments, groups, and an array of patient resources. They are grounded in social justice, focusing on the needs of those most marginalized in society."
+    }
+  },
+  "slug": "radical-healing-multicultural-healing-campus",
+  "externalUrl": "http://www.radicalhealing.us/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2009 Chapel Hill Rd, Durham, NC 27707, USA",
+  "phoneNumber": "+1 919-238-1120",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Lakewood Park",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1005915016779560614"
+  },
+  "county": "Durham County",
+  "latLng": [
+    35.9867084,
+    -78.9270784
+  ]
+}

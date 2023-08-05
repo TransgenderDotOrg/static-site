@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-kahului",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c940e34b-6f81-46d6-8fa4-4c0c4cd3e523",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/hawaii/kahului/96732/kahului-health-center-2950-91810?utm_campaign=kahului-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "140 Hoohana St #303, Kahului, HI 96732, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8820983788277740699"
+  },
+  "country": "US",
+  "provinceOrState": "HI",
+  "county": "Maui County",
+  "city": "Kahului",
+  "latLng": [
+    20.8883051,
+    -156.4644334
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-richmond",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "898059f3-81a2-47c3-8821-abe44c39a60d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/richmond/94806/hilltop-richmond-health-center-2791-90200?utm_campaign=hilltop-richmond-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2970 Hilltop Mall Rd 307 #307, Richmond, CA 94806, USA",
+  "phoneNumber": "+1 510-222-5290",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16849323603349784642"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Contra Costa County",
+  "city": "Richmond",
+  "latLng": [
+    37.977616,
+    -122.3292634
+  ]
+}

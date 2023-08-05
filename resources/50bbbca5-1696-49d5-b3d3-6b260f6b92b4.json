@@ -1,0 +1,35 @@
+{
+  "id": "50bbbca5-1696-49d5-b3d3-6b260f6b92b4",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Randolph's Ageless & Wellness Medical Center",
+      "description": "A health and wellness medical center located in Jacksonville Beach, Florida, providing a comprehensive range of treatments and services tailored to the transgender community. Renowned for pioneering work in the fields of anti-aging medicine and natural, bioidentical hormone replacement therapies (BHRT), the center delivers personalized healthcare promoting optimal aging. Our inclusive approach supports sexual vitality treatments, comprehensive gynecological treatments for women, and wellness services for men."
+    }
+  },
+  "slug": "dr-randolphs-ageless-wellness-medical-center",
+  "externalUrl": "http://agelessandwellness.com/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1891 Beach Blvd #200, Jacksonville Beach, FL 32250, USA",
+  "phoneNumber": "+1 904-249-3743",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "The Beaches",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9851018456339256312"
+  },
+  "county": "Duval County",
+  "latLng": [
+    30.2888228,
+    -81.41085609999999
+  ]
+}

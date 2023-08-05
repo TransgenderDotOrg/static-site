@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-pasco",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "912e492f-5d76-46e8-a0b2-06c0da7afe83",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/pasco/99301/pasco-health-center-3971-91850?utm_campaign=pasco-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3901 W Court St, Pasco, WA 99301, USA",
+  "phoneNumber": "+1 866-904-7721",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17006970123551905328"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Franklin County",
+  "city": "Pasco",
+  "latLng": [
+    46.2421163,
+    -119.142388
+  ]
+}

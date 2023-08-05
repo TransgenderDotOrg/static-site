@@ -1,0 +1,35 @@
+{
+  "id": "232a54e0-1171-486a-9ed8-21de220de848",
+  "i18n": {
+    "en-US": {
+      "title": "College Street Specialists",
+      "description": "College Street Specialists is an informed consent clinic located in Darlinghurst, Australia. The clinic provides patient-centered medical services with a special focus on transmasculine, transfeminine, and non-binary individuals. They have highly trained professionals whose mission is to ensure that the transgender community receive the personalized healthcare they need in an environment that is warm, supportive, and respectful."
+    }
+  },
+  "slug": "college-street-specialists",
+  "externalUrl": "https://maps.google.com/?cid=14220055787420254772",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Suite 1, Lvl 7/26 College St, Darlinghurst NSW 2010, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Darlinghurst",
+  "county": "City of Sydney",
+  "latLng": [
+    -33.8762429,
+    151.2125209
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14220055787420254772"
+  }
+}

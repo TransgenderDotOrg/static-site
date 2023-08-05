@@ -1,0 +1,33 @@
+{
+  "id": "3151c605-fe73-4d8e-b013-3e5a646935d3",
+  "i18n": {
+    "en-US": {
+      "title": "Milwaukee Health Services, Inc.",
+      "description": "Milwaukee Health Services, Inc. is an independent, Federally Qualified Health Center that provides a variety of healthcare services. With a focus on medically-underserved families and individuals, they heavily cater to diverse community members including the transgender community. They pride themselves on removing barriers and improving health outcomes to promote equality and reduce disparities among racial and ethnic communities. Various services include medical, dental, podiatry, behavioral healthcare, and specialty services."
+    }
+  },
+  "slug": "milwaukee-health-services-inc",
+  "externalUrl": "http://mhsi.org/",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Milwaukee, WI 53212, USA",
+  "phoneNumber": "+1 414-372-8080",
+  "country": "US",
+  "provinceOrState": "WI",
+  "city": "Milwaukee",
+  "county": "Milwaukee County",
+  "latLng": [
+    43.0732715,
+    -87.9089623
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16980072274204577649"
+  }
+}

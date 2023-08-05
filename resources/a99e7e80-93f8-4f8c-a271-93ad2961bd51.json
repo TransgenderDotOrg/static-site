@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-midtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a99e7e80-93f8-4f8c-a271-93ad2961bd51",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/harrisburg/17102/harrisburg-medical-center-3357-91410?utm_campaign=harrisburg-medical-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1514 N 2nd St, Harrisburg, PA 17102, USA",
+  "phoneNumber": "+1 717-234-2468",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14868336549510477124"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Dauphin County",
+  "city": "Midtown",
+  "latLng": [
+    40.27085110000001,
+    -76.893669
+  ]
+}

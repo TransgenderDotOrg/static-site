@@ -1,0 +1,36 @@
+{
+  "id": "28a78401-f9ad-44c3-9a95-a6a736d00e7b",
+  "i18n": {
+    "en-US": {
+      "title": "Living Well WNC",
+      "description": "Living Well WNC focuses on overall well-being with an emphasis on hormone replacement therapy, including Female, Male, and Transgender BHRT. They seek to optimize health and active lifestyle of the patients, including transgender community, with preventative medicine. Their services range from wellness programs, sexual health services, women’s gynecological care to aesthetic services."
+    }
+  },
+  "slug": "living-well-wnc",
+  "externalUrl": "https://livingwellwnc.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "40 N Merrimon Ave #305, Asheville, NC 28804, USA",
+  "phoneNumber": "+1 828-575-9562",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Asheville",
+  "latLng": [
+    35.640755,
+    -82.5767035
+  ],
+  "email": "wecare@livingwellwnc.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11818109453323151336",
+    "facebookUrl": "https://www.facebook.com/livingwellwnc/"
+  },
+  "county": "Buncombe County"
+}

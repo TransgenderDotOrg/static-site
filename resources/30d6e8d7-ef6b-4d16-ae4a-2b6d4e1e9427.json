@@ -1,0 +1,35 @@
+{
+  "id": "30d6e8d7-ef6b-4d16-ae4a-2b6d4e1e9427",
+  "i18n": {
+    "en-US": {
+      "title": "Valley Health Center Downtown",
+      "description": "Located in San Jose, this community health center and urgent care facility plays a vital role in providing quality healthcare to the transgender community including transmasculine, non-binary, and transfeminine. The healthcare providers are informed and sensitive to the needs and concerns of the trans community, focussing on their unique health needs and ensuring a safe environment."
+    }
+  },
+  "slug": "valley-health-center-downtown",
+  "externalUrl": "https://maps.google.com/?q=777+E+Santa+Clara+St,+San+Jose,+CA+95112&ftid=0x808fccea751dc27d:0x87bd0bacfb744878",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "777 E Santa Clara St, San Jose, CA 95112, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Central San Jose",
+  "county": "Santa Clara County",
+  "latLng": [
+    37.343929,
+    -121.8751931
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=777+E+Santa+Clara+St,+San+Jose,+CA+95112&ftid=0x808fccea751dc27d:0x87bd0bacfb744878"
+  }
+}

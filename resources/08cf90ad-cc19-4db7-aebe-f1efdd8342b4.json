@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-central-naples",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "08cf90ad-cc19-4db7-aebe-f1efdd8342b4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/naples/34103/naples-center-3294-90300?utm_campaign=naples-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1425 Creech Rd, Naples, FL 34103, USA",
+  "phoneNumber": "+1 239-262-0301",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8213188311968304177"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Collier County",
+  "city": "Central Naples",
+  "latLng": [
+    26.18245,
+    -81.7922497
+  ]
+}

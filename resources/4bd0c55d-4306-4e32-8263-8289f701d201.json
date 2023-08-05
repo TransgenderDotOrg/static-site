@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-washington-square-west",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "4bd0c55d-4306-4e32-8263-8289f701d201",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/_/3361?utm_campaign=the-elizabeth-blackwell-health-center-tm-at-locust-street&utm_medium=organic&utm_source=local-listing",
+  "address": "1144 Locust St, Philadelphia, PA 19107, USA",
+  "phoneNumber": "+1 215-351-5560",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16821404740284036120"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Philadelphia County",
+  "city": "Washington Square West",
+  "latLng": [
+    39.9475059,
+    -75.16060590000001
+  ]
+}

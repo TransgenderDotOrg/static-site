@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown-seattle",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2a23b49b-233e-4d10-8a02-62e7eefc8445",
+  "externalUrl": "https://www.plannedparenthood.org/health-center?utm_campaign=closed&utm_medium=organic&utm_source=local-listing",
+  "address": "Swedish Medical First Hill Nordstrom Tower, 1229 Madison St #1040, Seattle, WA 98104, USA",
+  "phoneNumber": "+1 800-230-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11126538096053042305"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Downtown Seattle",
+  "latLng": [
+    47.6100869,
+    -122.3221134
+  ]
+}

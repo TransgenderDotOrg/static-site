@@ -1,0 +1,33 @@
+{
+  "id": "4d49149e-6fa9-40b8-b2d9-8341f2d177ee",
+  "i18n": {
+    "en-US": {
+      "title": "UrgentEMS - Shreveport",
+      "description": "UrgentEMS in Shreveport, LA is a healthcare provider known for its commitment to the local community. They serve patients without any discrimination based on gender or sex. With skilled and knowledgeable staff, they are equipped to provide diagnosis and thorough treatment plans. The staff are known for their speed of service, making them a great option for urgent health scenarios. They also accommodate walk-in patients needing IV treatment. As an informed consent clinic, this office respects and upholds the identity, preferences, and needs of transgender individuals seeking medical care."
+    }
+  },
+  "slug": "urgentems-shreveport",
+  "externalUrl": "https://maps.google.com/?cid=6692945314457004458",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "201 Market St, Shreveport, LA 71101, USA",
+  "phoneNumber": "+1 318-299-6512",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Downtown Riverfront",
+  "latLng": [
+    32.516656,
+    -93.74967850000002
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6692945314457004458"
+  },
+  "county": "Caddo Parish"
+}

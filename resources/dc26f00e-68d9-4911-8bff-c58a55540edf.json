@@ -1,0 +1,34 @@
+{
+  "id": "dc26f00e-68d9-4911-8bff-c58a55540edf",
+  "i18n": {
+    "en-US": {
+      "title": "Holdsworth House Medical Practice",
+      "description": "Holdsworth House Medical Practice is a local office and informed consent clinic providing a broad range of healthcare services. The experienced health professionals at this clinic offer dermatology, psychology, dental services, general practice, and women's health specializing in supporting the transgender community. They offer mental health care for individuals and couples, contraception, pregnancy and minor surgery services. This health practice is supportive and inclusive, catering to the unique health needs of the transgender community."
+    }
+  },
+  "slug": "holdsworth-house-medical-practice",
+  "externalUrl": "https://www.holdsworthhouse.com.au/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "116 Robertson St, Fortitude Valley QLD 4006, Australia",
+  "phoneNumber": "+61 7 3894 0794",
+  "country": "AU",
+  "provinceOrState": "QLD",
+  "city": "Fortitude Valley",
+  "latLng": [
+    -27.4581028,
+    153.0387199
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=468743993437256951"
+  },
+  "county": "Brisbane"
+}

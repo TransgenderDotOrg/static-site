@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-biddeford",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "07f08ce0-4cb9-4d5b-aa97-08b83a77fff2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/maine/biddeford/04005/biddeford-health-center-2943-91770?utm_campaign=biddeford-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "275 Main Street, Biddeford, ME 04005, USA",
+  "phoneNumber": "+1 207-282-6620",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7361197390327693281"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "York County",
+  "city": "Biddeford",
+  "latLng": [
+    43.4942,
+    -70.45818299999999
+  ]
+}

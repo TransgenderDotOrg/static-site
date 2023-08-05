@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-montgomery-village",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "03544291-8b2c-4893-9031-c1a1c2a121d0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/maryland/gaithersburg/20886/gaithersburg-center-2493-90230?utm_campaign=gaithersburg-center&utm_medium=organic&utm_source=local-listing",
+  "address": "19650 Club House Rd #101, Montgomery Village, MD 20886, USA",
+  "phoneNumber": "+1 301-208-1300",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4274399619440377233"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Montgomery County",
+  "city": "Montgomery Village",
+  "latLng": [
+    39.1736367,
+    -77.2068528
+  ]
+}

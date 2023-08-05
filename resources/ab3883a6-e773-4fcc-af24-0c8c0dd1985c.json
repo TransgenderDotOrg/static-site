@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-midtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "ab3883a6-e773-4fcc-af24-0c8c0dd1985c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/san-antonio/78212/planned-parenthood-san-pedro-4248-91710?utm_campaign=planned-parenthood-san-pedro&utm_medium=organic&utm_source=local-listing",
+  "address": "920 San Pedro Ave, San Antonio, TX 78212, USA",
+  "phoneNumber": "+1 210-736-2475",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12332070492432461526"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Bexar County",
+  "city": "Midtown",
+  "latLng": [
+    29.4423849,
+    -98.49869609999999
+  ]
+}

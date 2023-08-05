@@ -1,0 +1,33 @@
+{
+  "id": "8fc19be8-40f2-47cf-9cf3-f4b0655a09fc",
+  "i18n": {
+    "en-US": {
+      "title": "St. Luke's Health Care: Maya Halliburton Local Office",
+      "description": "St. Luke's Health Care, headed by Dr. Maya Halliburton, provides inclusive health care services tailored to the transgender community. Their services cover a wide range of medical specialties, and their Virtual Visits feature allows patients to receive comprehensive care from the comfort of their own home. Insurance is widely accepted, providing financial access for many individuals."
+    }
+  },
+  "slug": "st-lukes-health-care-maya-halliburton-local-office",
+  "externalUrl": "https://www.stlukeshealth.org/find-a-doctor/1831630151-maya-halliburton",
+  "tags": [
+    "healthcare",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3251 Interstate 45 N #100, Conroe, TX 77304, USA",
+  "phoneNumber": "+1 936-441-9000",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Conroe",
+  "latLng": [
+    30.3552817,
+    -95.4852882
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16954010979026283326"
+  },
+  "county": "Montgomery County"
+}

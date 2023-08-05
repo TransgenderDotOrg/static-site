@@ -1,0 +1,35 @@
+{
+  "id": "b6584013-d936-4f45-80ea-1e30c9c1993f",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Smiddy's Trans-friendly Healthcare",
+      "description": "Dr. Smiddy and his staff provide a range of healthcare services from preventive care to the treatment of common conditions like Hypertension, HIV, Depression, Anxiety, and more. They pride themselves on their comprehensive understanding and respectful approach to transgender health, showing care and expertise in dealing with issues like Hypogonadism / Low Testosterone. Their services are welcoming to transmasculine, transfeminine, and non-binary individuals, helping them maintain good health in a supportive atmosphere."
+    }
+  },
+  "slug": "dr-smiddys-trans-friendly-healthcare",
+  "externalUrl": "http://www.joesmiddymd.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1700 Briarcliff Rd NE, Atlanta, GA 30306, USA",
+  "phoneNumber": "+1 404-228-2648",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Morningside-Lenox Park",
+  "latLng": [
+    33.8035243,
+    -84.3384906
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2641655041746750853"
+  },
+  "county": "Dekalb County"
+}

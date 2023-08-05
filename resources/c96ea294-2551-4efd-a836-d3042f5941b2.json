@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-city-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c96ea294-2551-4efd-a836-d3042f5941b2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-diego/92105/city-heights-health-center-3075-90110?utm_campaign=city-heights-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4305 University Ave STE 350, San Diego, CA 92105, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12277551997799159215"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "City Heights",
+  "latLng": [
+    32.7491592,
+    -117.1013803
+  ]
+}

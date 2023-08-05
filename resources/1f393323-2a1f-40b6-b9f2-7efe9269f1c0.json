@@ -1,0 +1,35 @@
+{
+  "id": "1f393323-2a1f-40b6-b9f2-7efe9269f1c0",
+  "i18n": {
+    "en-US": {
+      "title": "M-Care Healthcare",
+      "description": "M-Care Healthcare is committed to providing inclusive, affirming medical care in Wichita for patients of all ages, including members of the LGBTQ+ community. They offer gender-affirming services, hormone replacement, and sexual health services. The organization aims to create a safe, inclusive, and affirming practice for the LGBTQ+ individuals and provide quality care to underserved populations in the region."
+    }
+  },
+  "slug": "m-care-healthcare",
+  "externalUrl": "http://mcarehc.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "731 N McLean Blvd, Wichita, KS 67203, USA",
+  "phoneNumber": "(316) 461-0339",
+  "country": "US",
+  "provinceOrState": "KS",
+  "city": "Indian Hills",
+  "county": "Sedgwick County",
+  "latLng": [
+    37.6968908,
+    -97.372379
+  ],
+  "email": "mcarehealthcare@gmail.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1825526728233542991"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-little-rock",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d018a0a9-b394-4435-aa9d-0d4b1b77389a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/arkansas/little-rock/72205/little-rock-aldersgate-road-health-center-9998-90740",
+  "address": "1501 Aldersgate Rd, Little Rock, AR 72205, USA",
+  "phoneNumber": "+1 501-666-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5140974541053644294"
+  },
+  "country": "US",
+  "provinceOrState": "AR",
+  "county": "Pulaski County",
+  "city": "Little Rock",
+  "latLng": [
+    34.7399996,
+    -92.3895053
+  ]
+}

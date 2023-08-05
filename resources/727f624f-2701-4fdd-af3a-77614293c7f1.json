@@ -1,0 +1,38 @@
+{
+  "id": "727f624f-2701-4fdd-af3a-77614293c7f1",
+  "i18n": {
+    "en-US": {
+      "title": "G Street Integrated Health, Springfield - Trans Inclusive Care",
+      "description": "G Street Integrated Health is a comprehensive health care provider that tailors to the transgender community through its integrated, individualized, and holistic approach. They offer services including LGBTQ2+ Gender Affirming Care Management, Psychiatry, Addition Services, Vaccines, STD Testing, etc. effectively addressing both the physical and the mental health needs. Their mission is to respect and support all individuals in the process of personal growth."
+    }
+  },
+  "slug": "g-street-integrated-health-springfield",
+  "externalUrl": "https://www.gstih.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "147 S 52nd Pl, Springfield, OR 97478, USA",
+  "phoneNumber": "+1 541-735-9420",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Springfield",
+  "latLng": [
+    44.0447201,
+    -122.9383556
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2932567494578042599"
+  },
+  "county": "Lane County"
+}

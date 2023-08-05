@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-centralia",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "0c4f7f96-825c-4866-a3c6-dca0eae2fe5f",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/centralia/98531/centralia-health-center-2453-91810?utm_campaign=centralia-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1020 W Main St, Centralia, WA 98531, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17753946491025130059"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Lewis County",
+  "city": "Centralia",
+  "latLng": [
+    46.71849419999999,
+    -122.9665112
+  ]
+}

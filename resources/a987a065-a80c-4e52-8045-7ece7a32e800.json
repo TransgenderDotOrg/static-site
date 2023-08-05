@@ -1,0 +1,34 @@
+{
+  "id": "a987a065-a80c-4e52-8045-7ece7a32e800",
+  "i18n": {
+    "en-US": {
+      "title": "Southwest Center for HIV/AIDS in Phoenix, Arizona",
+      "description": "The Southwest Center for HIV/AIDS is a comprehensive healthcare provider in Phoenix, Arizona. Primarily geared towards the LGBTQIA2S+ and Queer community, it offers services ranging from health clinic, HIV/STI testing, PrEP/PEP Navigation, a Gender-Affirming Program, Mental Health Case Management and nutrition outreach. In addition, they also provide Sexual & Reproductive Health Services and accept most major insurances for ease of accessibility. Operating every day, the center seeks to facilitate a healthier Arizona through its diverse medical solutions which incorporate all gender identities and sexual orientations."
+    }
+  },
+  "slug": "southwest-center-for-hiv-aids-in-phoenix-arizona",
+  "externalUrl": "https://www.swcenter.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1101 N Central Ave #200, Phoenix, AZ 85004, USA",
+  "phoneNumber": "+1 602-307-5330",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Evans Churchill",
+  "county": "Maricopa County",
+  "latLng": [
+    33.4604886,
+    -112.0735299
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4285947038575860216"
+  }
+}

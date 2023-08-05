@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-freret",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "eee2f969-c9d6-4980-ba9c-7ed2880724cf",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/louisiana/new-orleans/70125/new-orleans-health-center-3961-91650?utm_campaign=new-orleans-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4636 S Claiborne Ave # 100, New Orleans, LA 70125, USA",
+  "phoneNumber": "+1 504-897-9200",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17252766118828174314"
+  },
+  "country": "US",
+  "provinceOrState": "LA",
+  "county": "Orleans Parish",
+  "city": "Freret",
+  "latLng": [
+    29.9395743,
+    -90.1066232
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "36d071f4-5b0c-4c92-8de9-c95fc1c93580",
+  "i18n": {
+    "en-US": {
+      "title": "Clinica Health - Pecos Medical & Dental Clinic",
+      "description": "Clinica Health’s Pecos Medical & Dental Clinic is a healthcare provider dedicated to providing high-quality health care services tailored for individuals and families in the transgender community. From comprehensive medical and dental care to financial assistance and enrollment, this clinic is equipped to meet their diverse health needs. We provide accessible and sensitive services, recognizing the unique experiences and challenges that transgender, transfeminine, transmasculine, and non-binary individuals face in health care."
+    }
+  },
+  "slug": "clinica-health-pecos-medical-dental-clinic",
+  "externalUrl": "https://www.clinica.org/locations/pecos/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "address": "1701 W 72nd Ave, Denver, CO 80221, USA",
+  "phoneNumber": "+1 303-650-4460",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Denver",
+  "latLng": [
+    39.8276846,
+    -105.0074622
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12630997654696558628"
+  },
+  "county": "Adams County"
+}

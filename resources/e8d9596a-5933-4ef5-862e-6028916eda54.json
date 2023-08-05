@@ -1,0 +1,32 @@
+{
+  "id": "e8d9596a-5933-4ef5-862e-6028916eda54",
+  "i18n": {
+    "en-US": {
+      "title": "Inova Pride Clinic",
+      "description": "Inova Pride Clinic is an internal medicine practice that provides primary care services tailored to the unique needs of the transgender and wider LGBTQ+ community. Apart from offering full range of preventive care, health screenings, and chronic disease management, the clinic offers specific services such as pre-exposure prophylaxis (PrEP) for HIV prevention and gender-affirming care. Located in Falls Church, Virginia, the clinic welcomes patients aged 12 years and older, providing inclusive and judgment-free care."
+    }
+  },
+  "slug": "inova-pride-clinic",
+  "externalUrl": "https://www.inova.org/locations/inova-primary-care/pride-clinic",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "500 N Washington St #200, Falls Church, VA 22046, USA",
+  "phoneNumber": "+1 703-522-1175",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Falls Church",
+  "latLng": [
+    38.8854564,
+    -77.1639408
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5032980755230768205"
+  }
+}

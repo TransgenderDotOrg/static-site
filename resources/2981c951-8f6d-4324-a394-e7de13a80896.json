@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-paterson",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2981c951-8f6d-4324-a394-e7de13a80896",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-jersey/paterson/07514/paterson-center-2557-90920?utm_campaign=paterson-center&utm_medium=organic&utm_source=local-listing",
+  "address": "680 Broadway, Paterson, NJ 07514, USA",
+  "phoneNumber": "+1 973-345-3883",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7219854035875575619"
+  },
+  "country": "US",
+  "provinceOrState": "NJ",
+  "county": "Passaic County",
+  "city": "Paterson",
+  "latLng": [
+    40.917751,
+    -74.1443982
+  ]
+}

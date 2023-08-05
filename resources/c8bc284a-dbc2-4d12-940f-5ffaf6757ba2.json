@@ -1,0 +1,33 @@
+{
+  "id": "c8bc284a-dbc2-4d12-940f-5ffaf6757ba2",
+  "i18n": {
+    "en-US": {
+      "title": "TrueCare La Mision - Comprehensive Healthcare Services",
+      "description": "TrueCare La Mision is a local health center providing comprehensive healthcare services, including primary care, pediatrics, behavioral health, dental care, and more. They offer services in English and Spanish and provide patient navigation support for appointment scheduling and other needs. They also cater to the transgender community by creating a caring and trusting relationship with all patients and making decisions together based on individual medical needs and circumstances."
+    }
+  },
+  "slug": "truecare-la-mision-comprehensive-healthcare-services",
+  "externalUrl": "https://truecare.org/location/truecare-la-mision/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "3220 Mission Ave #1, Oceanside, CA 92058, USA",
+  "phoneNumber": "+1 760-736-6767",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "La Mision Village",
+  "county": "San Diego County",
+  "latLng": [
+    33.214339,
+    -117.347658
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9042310056924416329"
+  }
+}

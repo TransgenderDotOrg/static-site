@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Anchor Health Connecticut - A Leader in LGBTQ Health",
+      "description": "Anchor Health provides groundbreaking, radically inclusive, gender-affirming, and sex-positive care for the LGBTQ community, with a focus on transgender and gender diverse individuals. They offer a range of services such as primary care, behavioral health, sexual health, and HIV prevention with a holistic approach, striving to create a safe and understanding environment for queer individuals."
+    }
+  },
+  "slug": "anchor-health-connecticut-hamden",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "4f039647-6330-42a7-92a1-9305f18e5c2d",
+  "externalUrl": "http://anchorhealthct.org/",
+  "address": "2200 Whitney Ave #290, Hamden, CT 06518, USA",
+  "phoneNumber": "+1 203-903-8308",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3640342887696393231"
+  },
+  "country": "US",
+  "provinceOrState": "CT",
+  "county": "New Haven County",
+  "city": "Hamden",
+  "latLng": [
+    41.3767571,
+    -72.90481129999999
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "OHSU Primary Care Clinic",
+      "description": "This OHSU clinic is dedicated to serve the people in the community including the transgender individuals. It offers services like gender-affirming primary care, alongside general and specialized health care services like adult care, pediatric care, women’s health care, pregnancy care, geriatric care, behavioral health, and wellness. The clinic emphasizes on respecting each patient’s beliefs, values, cultural needs, and providing personalized care plans that makes sense for you and your family."
+    }
+  },
+  "slug": "ohsu-primary-care-clinic-hayhurst",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "f68aa05b-dacd-423d-b0fa-35af38d6e484",
+  "externalUrl": "https://www.ohsu.edu/primary-care/ohsu-primary-care-clinic-gabriel-park?utm_source=gmb&utm_medium=organic&utm_content=d4706ea4-7d38-58fe-be0f-e38eb284024f",
+  "address": "4411 S Vermont St, Portland, OR 97219, USA",
+  "phoneNumber": "+1 503-494-9992",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13590525150540726631"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Multnomah County",
+  "city": "Hayhurst",
+  "latLng": [
+    45.47696879999999,
+    -122.7220032
+  ]
+}

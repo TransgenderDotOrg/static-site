@@ -1,0 +1,33 @@
+{
+  "id": "0e098062-5946-4361-8a04-6b27cd5a4a52",
+  "i18n": {
+    "en-US": {
+      "title": "Charlestown Square Medical Centre",
+      "description": "Charlestown Square Medical Centre is a healthcare provider operating 7 days a week. Our experienced doctors offer various services including aged care, antenatal care, skin cancer checks, and sports medicine. We strive to ensure the availability and accessibility of health services to all communities. Please contact us directly for information on services catered to the transgender community."
+    }
+  },
+  "slug": "charlestown-square-medical-centre",
+  "externalUrl": "https://www.ipn.com.au/gp/nsw-charlestown-charlestown-square-medical-centre/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "30 Pearson St, Charlestown NSW 2290, Australia",
+  "phoneNumber": "+61 2 4943 3166",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Charlestown",
+  "county": "City of Lake Macquarie",
+  "latLng": [
+    -32.9640693,
+    151.6938417
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2458271323416067182"
+  }
+}

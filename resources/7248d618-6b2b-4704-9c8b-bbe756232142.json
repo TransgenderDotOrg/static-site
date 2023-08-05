@@ -1,0 +1,34 @@
+{
+  "id": "7248d618-6b2b-4704-9c8b-bbe756232142",
+  "i18n": {
+    "en-US": {
+      "title": "John Hunter Hospital Maternity Services",
+      "description": "The maternity service at John Hunter Hospital in New South Wales, Australia, is committed to providing quality care throughout the journey of pregnancy, birth and parenthood. The service acknowledges and embraces all modern family structures, welcoming families from all cultural backgrounds and providing culturally appropriate care. As part of the Hunter New England Local Health District, it is committed to 'Closing the Gap' for Aboriginal community members. It offers services relevant to the transgender community such as informed consents, health cares and support groups."
+    }
+  },
+  "slug": "john-hunter-hospital-maternity-services",
+  "externalUrl": "https://www.hnehealth.nsw.gov.au/our_services2/having-a-baby/john-hunter-hospital",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Lookout Rd, New Lambton Heights NSW 2305, Australia",
+  "phoneNumber": "+61 2 4921 3000",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "New Lambton Heights",
+  "latLng": [
+    -32.9279961,
+    151.6949662
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1081283275368958864"
+  },
+  "county": "Newcastle"
+}

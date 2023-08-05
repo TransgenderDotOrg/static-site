@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-peoria",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c2818cb5-8141-46bb-b2f1-7e46e2409683",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/peoria/61604/peoria-health-center-3281-90430?utm_campaign=peoria-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2709 Knoxville Ave, Peoria, IL 61604, USA",
+  "phoneNumber": "+1 309-681-0350",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18362254574535428300"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Peoria County",
+  "city": "Peoria",
+  "latLng": [
+    40.7207626,
+    -89.5940361
+  ]
+}

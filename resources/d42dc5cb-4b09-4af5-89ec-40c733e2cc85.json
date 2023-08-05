@@ -1,0 +1,36 @@
+{
+  "id": "d42dc5cb-4b09-4af5-89ec-40c733e2cc85",
+  "i18n": {
+    "en-US": {
+      "title": "The Lavender Clinic",
+      "description": "The Lavender Clinic is a LGBTQ-friendly medical practice providing comprehensive healthcare services such as Primary Care, Behavioral Health Services, and Social Support. Profoundly focused on gender diversity, their services encompass all communities and genders. They adopt a holistic, 'whole-person' approach, aiming not merely to deliver basic healthcare but to aid their patients to thrive. They use a person's chosen name and pronouns and provide legal paperwork assistance."
+    }
+  },
+  "slug": "the-lavender-clinic",
+  "externalUrl": "https://lavenderclinic.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1481 S King St #422, Honolulu, HI 96814, USA",
+  "phoneNumber": "+1 808-744-2543",
+  "country": "US",
+  "provinceOrState": "HI",
+  "city": "Ala Moana",
+  "latLng": [
+    21.2972335,
+    -157.8384785
+  ],
+  "email": "info@lavenderclinic.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13453869316988793984"
+  },
+  "county": "Honolulu County"
+}

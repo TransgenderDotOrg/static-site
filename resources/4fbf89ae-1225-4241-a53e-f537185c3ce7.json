@@ -1,0 +1,36 @@
+{
+  "id": "4fbf89ae-1225-4241-a53e-f537185c3ce7",
+  "i18n": {
+    "en-US": {
+      "title": "Community Healthcare Network",
+      "description": "Community Healthcare Network (CHN) provides comprehensive healthcare, including behavioral health, dental care, eye care, nutrition, wellness, and LGBTQ+ services. These services particularly focus on including transmasculine, transfeminine, and non-binary individuals. CHN is a safe space that supports, respects, and acknowledges the healthcare needs of the transgender community. They also offer PreP and PEP treatments."
+    }
+  },
+  "slug": "community-healthcare-network",
+  "externalUrl": "https://www.chnnyc.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "975 Westchester Ave, Bronx, NY 10459, USA",
+  "phoneNumber": "+1 718-320-4466",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "Foxhurst",
+  "county": "Bronx County",
+  "latLng": [
+    40.82324,
+    -73.8952422
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14204742496657395297"
+  },
+  "town": "Bronx"
+}

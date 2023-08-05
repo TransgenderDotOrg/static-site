@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-mt-auburn",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "0f5afaf1-85b5-47d4-9ced-ef194ddfc204",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/cincinnati/45219/mt-auburn-health-center-3346-91260?utm_campaign=mt-auburn-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2314 Auburn Ave, Cincinnati, OH 45219, USA",
+  "phoneNumber": "+1 513-287-6484",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5562458581914994522"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Hamilton County",
+  "city": "Mt Auburn",
+  "latLng": [
+    39.1237882,
+    -84.5080449
+  ]
+}

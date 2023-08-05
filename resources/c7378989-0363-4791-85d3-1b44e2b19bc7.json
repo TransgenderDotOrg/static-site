@@ -1,0 +1,37 @@
+{
+  "id": "c7378989-0363-4791-85d3-1b44e2b19bc7",
+  "i18n": {
+    "en-US": {
+      "title": "CHOICES - Comprehensive Reproductive Health Clinic",
+      "description": "CHOICES is a comprehensive reproductive health clinic that offers high-quality, affirming healthcare services to everyone, with specialized services for the LGBTQ+ community. Their services are available to everyone, regardless of their ability to pay. They ensure a safe, welcoming clinic experience for the transgender community, recognizing and celebrating all gender identities."
+    }
+  },
+  "slug": "choices-comprehensive-reproductive-clinic",
+  "externalUrl": "https://yourchoices.org/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine",
+    "legal",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "600 N Giant City Rd, Carbondale, IL 62902, USA",
+  "phoneNumber": "+1 618-300-6017",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Carbondale",
+  "latLng": [
+    37.7318141,
+    -89.1856136
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7871310376480929377"
+  },
+  "county": "Jackson County"
+}

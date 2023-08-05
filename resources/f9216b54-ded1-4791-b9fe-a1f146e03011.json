@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-canandaigua",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f9216b54-ded1-4791-b9fe-a1f146e03011",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/canandaigua/14424/canandaigua-health-center-2352-91040?utm_campaign=canandaigua-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "15 Lafayette Ave, Canandaigua, NY 14424, USA",
+  "phoneNumber": "+1 866-600-6886",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8977018953113347493"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Ontario County",
+  "city": "Canandaigua",
+  "latLng": [
+    42.8859966,
+    -77.27785229999999
+  ]
+}

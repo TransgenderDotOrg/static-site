@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-medford",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "76c78cff-05f6-461a-94e3-f06c2176ba24",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/medford/97501/medford-health-center-2367-91380?utm_campaign=medford-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "125 S Central Ave #201, Medford, OR 97501, USA",
+  "phoneNumber": "+1 541-344-9411",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8607781484494862313"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Jackson County",
+  "city": "Medford",
+  "latLng": [
+    42.3254659,
+    -122.8708366
+  ]
+}

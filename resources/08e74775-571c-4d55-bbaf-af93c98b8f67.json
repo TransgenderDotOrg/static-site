@@ -1,0 +1,39 @@
+{
+  "id": "08e74775-571c-4d55-bbaf-af93c98b8f67",
+  "i18n": {
+    "en-US": {
+      "title": "Howard Brown Health 63rd St Clinic",
+      "description": "Howard Brown Health 63rd St is a comprehensive health clinic servicing the Englewood neighborhood. Serving a wide range of health services including primary care, STI/STD testing and prevention, trans & nonbinary health, pediatric services, dental services, and support groups, the clinic is dedicated to providing holistic and sensitive healthcare. The clinic is designed with an understanding of the unique healthcare needs of the transgender community, ensuring accessible, sensitive and quality healthcare for all members of the community. The clinic also offers insurance enrollment assistance, demonstrating the clinic's commitment to affordability and accessibility."
+    }
+  },
+  "slug": "howard-brown-health-63rd-st-clinic",
+  "externalUrl": "https://howardbrown.org/clinic_location/63rd-street/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "641 W 63rd St, Chicago, IL 60621, USA",
+  "phoneNumber": "+17733881600",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Englewood",
+  "county": "Cook County",
+  "latLng": [
+    41.77951789999999,
+    -87.64137760000001
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7861533454495172629"
+  }
+}

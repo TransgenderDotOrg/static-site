@@ -1,0 +1,29 @@
+{
+  "id": "6804f257-3818-46f0-8d8d-d29ecfbe4c23",
+  "i18n": {
+    "en-US": {
+      "title": "Mabel Wadsworth Center",
+      "description": "Mabel Wadsworth Center is a feminist sexual and reproductive healthcare provider. They provide a range of services including pregnancy and abortion care, sexual and reproductive health services, cancer screenings, mental health counseling, primary care, LGBTQ+ healthcare including gender affirming hormone therapy, and various community services."
+    }
+  },
+  "slug": "mabel-wadsworth-center",
+  "externalUrl": "http://www.mabelwadsworth.org/",
+  "tags": ["healthcare", "legal", "mental-health", "community-stories", "education-awareness"],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "700 Mt Hope Ave #420, Bangor, ME 04401, USA",
+  "phoneNumber": "1 (207) 947-5337",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "Bangor",
+  "county": "Penobscot County",
+  "latLng": [44.8241915, -68.7362301],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4323634427723913115"
+  }
+}

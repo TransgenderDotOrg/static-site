@@ -1,0 +1,37 @@
+{
+  "id": "675688f9-be9f-466c-9476-0b9cb991af21",
+  "i18n": {
+    "en-US": {
+      "title": "Haydee Docasar, MD",
+      "description": "Dr. Haydee Docasar is a skilled OB/GYN with her own private practice in Las Vegas, Nevada. Offering a range of services including gynecology, hormonal solutions & transgender services. She is fully committed to offering innovative solutions to address the key concerns women face as they age & is the first to be trained in advanced techniques for bladder dysfunction and sexual enhancement. Her ability to communicate in Spanish also allows her to accommodate Hispanic patients, creating an inclusive healthcare environment."
+    }
+  },
+  "slug": "haydee-docasar-md",
+  "externalUrl": "https://www.haydeedocasarmd.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "private-practice"
+  ],
+  "address": "6785 W Russell Rd #130, Las Vegas, NV 89118, USA",
+  "phoneNumber": "702-550-4870",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Las Vegas",
+  "county": "Clark County",
+  "latLng": [
+    36.084655,
+    -115.240323
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15794969307190199124"
+  }
+}

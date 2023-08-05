@@ -1,0 +1,35 @@
+{
+  "id": "82f0f656-b9d7-42df-9550-58c0ca90c552",
+  "i18n": {
+    "en-US": {
+      "title": "Cairns and Hinterland Hospital and Health Service - Sexual Health Care",
+      "description": "The Cairns and Hinterland Hospital and Health Service offers comprehensive sexual health services with a focus on inclusivity and non-judgemental care. The service is tailored to all individuals including the transgender community, offering services like HIV PEP and PrEP, transgender care, condoms, emergency contraception, and even a fast track clinic for gender diverse clients. With the aim to promote inclusive sexual health, the clinic supports individuals in a safe, respectful and welcoming environment."
+    }
+  },
+  "slug": "cairns-and-hinterland-hospital-and-health-service-sexual-health-care",
+  "externalUrl": "https://www.health.qld.gov.au/cairns_hinterland/html/shealth",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "381 Sheridan St, Cairns North QLD 4870, Australia",
+  "phoneNumber": "+61 7 4226 4769",
+  "country": "AU",
+  "provinceOrState": "QLD",
+  "city": "Cairns North",
+  "latLng": [
+    -16.9027742,
+    145.7565812
+  ],
+  "email": "cairnsshs@health.qld.gov.au",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13196522989766140709"
+  },
+  "county": "Cairns"
+}

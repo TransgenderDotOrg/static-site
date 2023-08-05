@@ -1,0 +1,34 @@
+{
+  "id": "3640127c-15f0-4b7f-8b18-6fb6ce14fb50",
+  "i18n": {
+    "en-US": {
+      "title": "Northern Valley Indian Health",
+      "description": "Northern Valley Indian Health is a healthcare center that offers comprehensive medical, dental, behavioral health, and community outreach services. They provide compassionate care for all ages and are committed to non-discrimination, making them a hospitable environment for transgender individuals. The center is dedicated to making all patients feel respected and cared for according to their unique health needs."
+    }
+  },
+  "slug": "northern-valley-indian-health",
+  "externalUrl": "https://nvih.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "845 W East Ave, Chico, CA 95926, USA",
+  "phoneNumber": "+1 530-896-9400",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Chico",
+  "county": "Butte County",
+  "latLng": [
+    39.7474085,
+    -121.876244
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18261527589624544677"
+  }
+}

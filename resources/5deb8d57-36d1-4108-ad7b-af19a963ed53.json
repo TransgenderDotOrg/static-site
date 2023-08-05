@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-woodbury",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5deb8d57-36d1-4108-ad7b-af19a963ed53",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/woodbury/55125/woodbury-health-center-3096-90720?utm_campaign=woodbury-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1795 Radio Dr D, Woodbury, MN 55125, USA",
+  "phoneNumber": "+1 651-696-5550",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6463303898732622769"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Washington County",
+  "city": "Woodbury",
+  "latLng": [
+    44.9239769,
+    -92.9322253
+  ]
+}

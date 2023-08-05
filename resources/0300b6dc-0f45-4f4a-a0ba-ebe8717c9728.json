@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-roosevelt",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "0300b6dc-0f45-4f4a-a0ba-ebe8717c9728",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/iowa/iowa-city/52246/iowa-city-health-center-2470-90720?utm_campaign=iowa-city-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "850 Orchard St, Iowa City, IA 52246, USA",
+  "phoneNumber": "+1 877-859-0551",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11065757684019396593"
+  },
+  "country": "US",
+  "provinceOrState": "IA",
+  "county": "Johnson County",
+  "city": "Roosevelt",
+  "latLng": [
+    41.649302,
+    -91.54102739999999
+  ]
+}

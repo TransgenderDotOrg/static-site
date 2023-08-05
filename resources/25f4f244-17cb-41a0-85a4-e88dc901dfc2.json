@@ -1,0 +1,36 @@
+{
+  "id": "25f4f244-17cb-41a0-85a4-e88dc901dfc2",
+  "i18n": {
+    "en-US": {
+      "title": "Connect-Clinic/Foria Clinic - Transforming Trans Care in Ontario",
+      "description": "Connect Clinic, now known as Foria Clinic, is a virtual healthcare service providing specialist gender-affirming care to the transgender and gender diverse community of Ontario. Services include medical consultations, hormone therapy, surgical referrals and general health advice, catering to transgender, transsexual, non-conforming, and gender questioning individuals. No referrals are necessary, and OHIP covers all services. Connect Clinic is committed to a safe, respectful, and confidential patient experience, underlining the courage and authenticity of identity exploration and affirmation."
+    }
+  },
+  "slug": "connect-clinic-foria-clinic-transforming-trans-care-in-ontario",
+  "externalUrl": "http://www.connect-clinic.com/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1278 Dundas St W Unit 4, Toronto, ON M6J 1X7, Canada",
+  "phoneNumber": "+1 647-670-0493",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Toronto",
+  "latLng": [
+    43.6495994,
+    -79.4252448
+  ],
+  "email": "info@connect-clinic.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12149730485490133500"
+  },
+  "county": "Toronto",
+  "town": "Old Toronto"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-independence",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d7c99133-25ad-4af2-b83f-73ed5473c7a1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/independence/64050/independence-health-center-2630-90740?utm_campaign=independence-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "815 N Noland Rd #6, Independence, MO 64050, USA",
+  "phoneNumber": "+1 816-252-3800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4829120633176977442"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "Jackson County",
+  "city": "Independence",
+  "latLng": [
+    39.0992511,
+    -94.41254169999999
+  ]
+}

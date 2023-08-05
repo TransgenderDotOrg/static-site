@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborhood Healthcare",
+      "description": "Neighborhood Healthcare provides comprehensive, transformative healthcare services to people of all ages and gender identities, including the transgender community. Including, Primary Care, Behavioral Health, Dental Care, Women’s Health, Prenatal, Pediatrics, Chiropractic, Acupuncture, Podiatry, Vision, Pharmacy, and Lab Services. It provides a safe, inclusive environment where transgender individuals can access quality care with dignity and respect."
+    }
+  },
+  "slug": "neighborhood-healthcare-eastside",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "23f29fb3-f49d-43e5-b0f1-f9c9f1881883",
+  "externalUrl": "https://www.nhcare.org/locations-list/riverside-eastside-health-center/",
+  "address": "1970 University Ave, Riverside, CA 92507, USA",
+  "phoneNumber": "+1 833-967-4642",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5506282656576549022"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Eastside",
+  "latLng": [
+    33.9752923,
+    -117.3545437
+  ]
+}

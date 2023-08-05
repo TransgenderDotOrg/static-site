@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-burr-oaks",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d7b084eb-4e23-41ee-afe5-28cc1569b79d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/wisconsin/madison/53713/madison-south-health-center-3937-91860?utm_campaign=madison-south-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "Villager Shopping Center, 2222 S Park St Suite 210 Suite 210, Madison, WI 53713, USA",
+  "phoneNumber": "+1 844-493-1052",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11862404136919551679"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "Dane County",
+  "city": "Burr Oaks",
+  "latLng": [
+    43.04143149999999,
+    -89.394431
+  ]
+}

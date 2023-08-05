@@ -1,0 +1,34 @@
+{
+  "id": "ad7fefb7-ce8e-4470-9884-a138a968992a",
+  "i18n": {
+    "en-US": {
+      "title": "Mary Walker Health Services at SUNY Oswego",
+      "description": "Mary Walker Health Services at SUNY Oswego provides a range of healthcare and wellness resources for students, including transgender care. Their board-certified nurse practitioners are specialized in college health and are committed to providing student-focused care in a non-judgmental and caring manner."
+    }
+  },
+  "slug": "mary-walker-health-services-at-suny-oswego",
+  "externalUrl": "https://ww1.oswego.edu/health-services/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "40 Rudolph Rd, Oswego, NY 13126, USA",
+  "phoneNumber": "+1 315-312-4100",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "Oswego",
+  "latLng": [
+    43.455706,
+    -76.5427485
+  ],
+  "email": "whealth@oswego.edu",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14264756042670113256"
+  },
+  "county": "Oswego County"
+}

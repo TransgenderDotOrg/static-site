@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-escondido",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "5968ccfc-64f4-442e-a051-f91cf403ccf3",
+  "externalUrl": "https://locations.borregohealth.org/centro-medico-escondido-60cf268b4d25?y_source=1_MTAxNDIyMDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "1121 E Washington Ave, Escondido, CA 92025, USA",
+  "phoneNumber": "+1 760-871-0606",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7233956447299838787"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Escondido",
+  "latLng": [
+    33.1313763,
+    -117.0688351
+  ]
+}

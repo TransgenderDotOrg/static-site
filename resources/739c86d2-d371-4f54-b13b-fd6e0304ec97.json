@@ -1,0 +1,35 @@
+{
+  "id": "739c86d2-d371-4f54-b13b-fd6e0304ec97",
+  "i18n": {
+    "en-US": {
+      "title": "2BWell - Wellness Care For You",
+      "description": "2BWell is a wellness care center aiming to support your wellbeing journey. With a team of highly trained wellness professionals, they offer numerous services including Acupuncture, Massage Therapy, Naturopathic Care, Nutritional Consultation, and more. Their holistic approach to healthcare is inclusive and respectful, welcoming people of all identities and backgrounds, including transgender, transmasculine, transfeminine, and non-binary individuals. They are designed to make you feel at home and provide exceptional service to support you in your health needs."
+    }
+  },
+  "slug": "2bwell-wellness-care-for-you",
+  "externalUrl": "http://www.2bwell.net/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5935 Willow Ln, Lake Oswego, OR 97035, USA",
+  "phoneNumber": "+1 503-655-0044",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Lake Oswego",
+  "latLng": [
+    45.3994525,
+    -122.7371144
+  ],
+  "email": "office@2bwell.net",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8484429072397179497"
+  },
+  "county": "Clackamas County"
+}

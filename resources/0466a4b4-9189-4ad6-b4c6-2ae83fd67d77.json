@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-utica",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "0466a4b4-9189-4ad6-b4c6-2ae83fd67d77",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/utica/13502/utica-center-3318-91110?utm_campaign=utica-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1424 Genesee St, Utica, NY 13502, USA",
+  "phoneNumber": "+1 315-724-6146",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5763192352568255079"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Oneida County",
+  "city": "Utica",
+  "latLng": [
+    43.0941814,
+    -75.2467667
+  ]
+}

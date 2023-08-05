@@ -1,0 +1,32 @@
+{
+  "id": "2bc0a42e-a403-4649-a398-caf5bad3e330",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Marta E. Terlecki, MD",
+      "description": "Dr. Marta E. Terlecki's office, now permanently closed, was known for its supportive and validating environment. Notably, the office took an individualized approach to thyroid disorders, going beyond standard protocols to identify and address underlying causes. Patients commended Dr. Terlecki's attentive and understanding nature, saying the doctor often took time to explore their concerns in-depth. Although there's no explicit mention of transgender-specific services provided, the healthcare provided was comprehensive and considerate."
+    }
+  },
+  "slug": "dr-marta-e-terlecki-md",
+  "externalUrl": "https://maps.google.com/?cid=13024569683879198368",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "717 Encino Pl, Albuquerque, NM 87102, USA",
+  "phoneNumber": "+1 505-247-2141",
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "Valmonte Acres",
+  "county": "Bernalillo County",
+  "latLng": [
+    35.0884355,
+    -106.6337816
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13024569683879198368"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bedford-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "87b7806a-1db5-4ddd-a264-6e5dc7e7b84d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/bedford-heights/44146/bedford-heights-surgery-center-4061-91230?utm_campaign=bedford-heights-surgery-center&utm_medium=organic&utm_source=local-listing",
+  "address": "25350 Rockside Rd, Bedford Heights, OH 44146, USA",
+  "phoneNumber": "+1 440-232-9732",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18360669108903556905"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Cuyahoga County",
+  "city": "Bedford Heights",
+  "latLng": [
+    41.4091994,
+    -81.4995981
+  ]
+}

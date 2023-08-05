@@ -1,0 +1,35 @@
+{
+  "id": "1fca16d7-12e2-459d-95c5-e4a631c32704",
+  "i18n": {
+    "en-US": {
+      "title": "Medical Office at 1175 Cook Rd",
+      "description": "Located at 1175 Cook Rd, this medical office is home to several caring doctors who are understanding and supportive of the transgender community. With various healthcare professionals on site, they provide tailored services to meet the unique medical needs of transgender, non-binary, and gender diverse individuals."
+    }
+  },
+  "slug": "medical-office-at-1175-cook-rd",
+  "externalUrl": "https://maps.google.com/?q=1175+Cook+Rd,+Orangeburg,+SC+29118&ftid=0x88f8d4a164cded15:0xe88dae8602ba24b6",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Parking lot, 1175 Cook Rd, Orangeburg, SC 29118, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "SC",
+  "city": "Orangeburg",
+  "county": "Orangeburg County",
+  "latLng": [
+    33.5404829,
+    -80.82886909999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=1175+Cook+Rd,+Orangeburg,+SC+29118&ftid=0x88f8d4a164cded15:0xe88dae8602ba24b6"
+  }
+}

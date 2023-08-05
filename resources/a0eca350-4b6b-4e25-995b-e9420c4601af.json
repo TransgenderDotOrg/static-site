@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "HealthQ - Comprehensive Health Services for All",
+      "description": "HealthQ provides a comprehensive range of sexual and reproductive health care, including gender affirming care and laser hair removal for gender affirmation. We are committed to providing specialized, individualized care in an inclusive and non-judgmental environment, respecting all genders, sexual orientations, and identities."
+    }
+  },
+  "slug": "healthq-comprehensive-health-services-for-all-beverly",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "a0eca350-4b6b-4e25-995b-e9420c4601af",
+  "externalUrl": "https://healthq.org/locations/beverly-ma/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb",
+  "address": "100 Cummings Center, Beverly, MA 01915, USA",
+  "phoneNumber": "+1 978-575-8420",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4372862300659373890"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Essex County",
+  "city": "Beverly",
+  "latLng": [
+    42.5582799,
+    -70.8859444
+  ]
+}

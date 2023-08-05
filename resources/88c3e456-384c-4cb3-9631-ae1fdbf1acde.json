@@ -1,0 +1,40 @@
+{
+  "id": "88c3e456-384c-4cb3-9631-ae1fdbf1acde",
+  "i18n": {
+    "en-US": {
+      "title": "Mazzoni Center",
+      "description": "Mazzoni Center provides comprehensive health care and wellness services in an LGBTQ-friendly environment, focusing on improving the quality of life for the individuals they serve. It offers an inclusive and supportive setting for the transgender community, featuring services like primary and preventive care, gender-affirming surgery support letters, name and gender-marker changes and various transgender support programs and activities."
+    }
+  },
+  "slug": "mazzoni-center",
+  "externalUrl": "http://www.mazzonicenter.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1348 Bainbridge St, Philadelphia, PA 19147, USA",
+  "phoneNumber": "+1 215-563-0652",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Hawthorne",
+  "county": "Philadelphia County",
+  "latLng": [
+    39.9425996,
+    -75.1651396
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7200316662145566733"
+  }
+}

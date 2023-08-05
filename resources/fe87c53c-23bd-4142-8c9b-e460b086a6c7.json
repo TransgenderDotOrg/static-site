@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-riviera-westchester",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fe87c53c-23bd-4142-8c9b-e460b086a6c7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/bakersfield/93301/bakersfield-health-center-4028-90130?utm_campaign=bakersfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2633 16th St, Bakersfield, CA 93301, USA",
+  "phoneNumber": "+1 661-634-1000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5859268861823077477"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Kern County",
+  "city": "Riviera/Westchester",
+  "latLng": [
+    35.3721713,
+    -119.0327636
+  ]
+}

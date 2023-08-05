@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hornell",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "79cd4da7-d1da-49c1-9172-7c65052d0bf2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/hornell/14843/hornell-health-center-2347-91110?utm_campaign=hornell-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "111 Seneca St, Hornell, NY 14843, USA",
+  "phoneNumber": "+1 607-324-1124",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12433403841036696224"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Steuben County",
+  "city": "Hornell",
+  "latLng": [
+    42.3321045,
+    -77.6608158
+  ]
+}

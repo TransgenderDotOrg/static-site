@@ -1,0 +1,36 @@
+{
+  "id": "43d001ba-c033-4750-966f-a1a16ba26cc9",
+  "i18n": {
+    "en-US": {
+      "title": "El Rio Health, Tucson",
+      "description": "El Rio Health in Tucson, Arizona, is a community-focused health care center providing comprehensive, affordable and compassionate services. It dedicates specialized care to the transgender and gender non-conforming communities. The clinic offers a broad spectrum of services including behavioral health, dental care, and physical therapy, ensuring that all patients receive affirming, respectful, and quality healthcare regardless of their financial status."
+    }
+  },
+  "slug": "el-rio-health-tucson",
+  "externalUrl": "https://www.elrio.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "101 W Irvington Rd building 10, Tucson, AZ 85714, USA",
+  "phoneNumber": "+1 520-670-3909",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Sunnyside",
+  "latLng": [
+    32.1606201,
+    -110.9679118
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17658817919420657111"
+  },
+  "county": "Pima County"
+}

@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborhood Healthcare",
+      "description": "Neighborhood Healthcare provides comprehensive, transformative healthcare services to people of all ages and gender identities, including the transgender community. Including, Primary Care, Behavioral Health, Dental Care, Women’s Health, Prenatal, Pediatrics, Chiropractic, Acupuncture, Podiatry, Vision, Pharmacy, and Lab Services. It provides a safe, inclusive environment where transgender individuals can access quality care with dignity and respect."
+    }
+  },
+  "slug": "neighborhood-healthcare-arlanza",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "a6ead502-2936-468e-a898-55778365fd65",
+  "externalUrl": "https://www.nhcare.org/locations-list/riverside-arlanza-family-health-center/",
+  "address": "8856 Arlington Ave, Riverside, CA 92503, USA",
+  "phoneNumber": "+1 833-867-4642",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17140920461728253916"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Arlanza",
+  "latLng": [
+    33.9459379,
+    -117.4674763
+  ]
+}

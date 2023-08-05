@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-corning",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "4da8f58a-dfc7-46aa-8d26-ad0f6fc3cad0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/corning/14830/corning-health-center-2345-91110?utm_campaign=corning-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "35 W William St, Corning, NY 14830, USA",
+  "phoneNumber": "+1 607-962-4686",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1229623364082317958"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Steuben County",
+  "city": "Corning",
+  "latLng": [
+    42.15026719999999,
+    -77.06289989999999
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Aurora Health Care",
+      "description": "Aurora Health Care is an informed consent clinic and local office that caters to the transgender community providing healthcare services. They ensure transgender patients feel comfortable, respected, and empowered to take an active role in their health care."
+    }
+  },
+  "slug": "aurora-health-care-racine",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "community-stories",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "cfa790fc-4f96-4d14-a291-5cd815306ae2",
+  "externalUrl": "https://care.aurorahealthcare.org/locations/aurora-health-center-2621-s-green-bay-rd",
+  "address": "2621 S Green Bay Rd, Racine, WI 53406, USA",
+  "phoneNumber": "+1 262-504-6100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8769453797646285619"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "Racine County",
+  "city": "Racine",
+  "latLng": [
+    42.6995474,
+    -87.8530571
+  ]
+}

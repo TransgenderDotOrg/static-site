@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-florida-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9c351a23-581e-4e35-8d5e-985de784fc61",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/gainesville/32601/gainesville-health-center-2155-90320?utm_campaign=gainesville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "914 NW 13th St, Gainesville, FL 32601, USA",
+  "phoneNumber": "+1 352-377-0881",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13898726603471944124"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Alachua County",
+  "city": "Florida Park",
+  "latLng": [
+    29.660709,
+    -82.33957269999999
+  ]
+}

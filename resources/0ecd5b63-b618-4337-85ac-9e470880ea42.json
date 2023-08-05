@@ -1,0 +1,31 @@
+{
+  "id": "0ecd5b63-b618-4337-85ac-9e470880ea42",
+  "i18n": {
+    "en-US": {
+      "title": "LHP - Family Medicine - New Haven",
+      "description": "LHP - Family Medicine - New Haven is an all-inclusive clinic offering a broad range of medical services. The clinic aims to promote inclusivity and equal healthcare opportunities for the transgender community, providing a welcoming and understanding environment to help meet their specific medical needs."
+    }
+  },
+  "slug": "LHP-family-medicine-new-haven",
+  "externalUrl": "https://www.lutheranhealthphysicians.com/our-locations/lhp-family-medicine-new-haven-2814",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1302 Minnich Rd # 6, New Haven, IN 46774, USA",
+  "phoneNumber": "(260) 458-3200",
+  "country": "US",
+  "provinceOrState": "IN",
+  "city": "New Haven",
+  "latLng": [
+    41.0647109,
+    -85.00300519999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14940423192395715204"
+  },
+  "county": "Allen County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-brownsville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d80ae00d-bf9d-424c-ac5e-9ada145a111b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/brownsville/78526/planned-parenthood-brownsville-3342-91710?utm_campaign=planned-parenthood-brownsville&utm_medium=organic&utm_source=local-listing",
+  "address": "870 E Alton Gloor Blvd b, Brownsville, TX 78526, USA",
+  "phoneNumber": "+1 956-546-4571",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5223231274360689616"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Cameron County",
+  "city": "Brownsville",
+  "latLng": [
+    25.9785412,
+    -97.5037859
+  ]
+}

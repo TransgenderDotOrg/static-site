@@ -1,0 +1,34 @@
+{
+  "id": "36a00d80-adad-4922-99af-a12a882adfa4",
+  "i18n": {
+    "en-US": {
+      "title": "Mosaic Health & Healing Arts",
+      "description": "Mosaic Health & Healing Arts is a LGBTQ2IA+ family medical and mental wellness center. They tailor their services to the transgender community by offering acceptance and authenticity as essential parts of the healing journey. Specialized services and supportive resources contribute to a welcoming, inclusive environment for all."
+    }
+  },
+  "slug": "mosaic-health-and-healing-arts",
+  "externalUrl": "http://www.mosaichha.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "educational-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "330 Lakeview Dr, Goshen, IN 46528, USA",
+  "phoneNumber": "+1 574-537-2680",
+  "country": "US",
+  "provinceOrState": "IN",
+  "city": "Goshen",
+  "county": "Elkhart County",
+  "latLng": [
+    41.6036361,
+    -85.83942549999999
+  ],
+  "email": "mosaicinfo@mosaichha.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8917949801463413249"
+  }
+}

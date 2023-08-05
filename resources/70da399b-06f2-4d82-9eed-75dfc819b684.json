@@ -1,0 +1,36 @@
+{
+  "id": "70da399b-06f2-4d82-9eed-75dfc819b684",
+  "i18n": {
+    "en-US": {
+      "title": "Texas Endocrinology, PLLC - Medical Care for the Transgender Community",
+      "description": "Led by Dr. Dean Blevins, Texas Endocrinology, PLLC, specializes in diagnosis and treatment of endocrine disorders and recognizes the unique needs of the transgender community. They provide a personalized approach to healthcare that respects the self-identity of each patient. Approachable to gender diverse individuals, Texas Endocrinology advocates for informed care, hormone therapy, and endocrine-related medical assistance tailored to the specific needs of transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "texas-endocrinology-pllc-medical-care-for-transgender-community",
+  "externalUrl": "http://www.txendocrinology.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1124 Midtown Dr, College Station, TX 77845, USA",
+  "phoneNumber": "+1 979-977-7012",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "College Station",
+  "county": "Brazos County",
+  "latLng": [
+    30.5797975,
+    -96.2753978
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4533637602273196527"
+  }
+}

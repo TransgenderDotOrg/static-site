@@ -1,0 +1,32 @@
+{
+  "id": "3ad11a45-6e04-4bab-8d9b-170e6b61ccd2",
+  "i18n": {
+    "en-US": {
+      "title": "D Scott Perry RN, FNP-C",
+      "description": "This health clinic, led by Scott Perry, specializes in comprehensive and personalized health care. It has been highlighted by its clients for its gender-affirming care and the coordination of these services beyond the office. In this welcoming environment, the office staff is praised for its attentiveness, knowledge and pleasing manners, making it a considerable option for Transgender community."
+    }
+  },
+  "slug": "d-scott-perry-rn-fnp-c",
+  "externalUrl": "https://maps.google.com/?cid=14580787573224871771",
+  "tags": [
+    "healthcare",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "114 Sproles Dr # 101, Benbrook, TX 76126, USA",
+  "phoneNumber": "+18172494100",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Benbrook",
+  "latLng": [
+    32.6745361,
+    -97.4700115
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14580787573224871771"
+  },
+  "county": "Tarrant County"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c1fe4eb5-18ac-427c-9d56-16e551304866",
+  "i18n": {
+    "en-US": {
+      "title": "Evergreen Health: Inclusive and Unconditional Care",
+      "description": "Evergreen Health provides inclusive, unconditional, and comprehensive healthcare services, offering primary and specialist care, mental health and substance use services, and supportive care. They are leaders in HIV prevention and care, Hepatitis C treatment enablers, and provide remarkable transgender care, meeting the unique needs of the transgender community. They are committed to their mission of affordability, accessibility, and quality, and not letting any barriers stand in the way of the care you need and deserve."
+    }
+  },
+  "slug": "evergreen-health-inclusive-and-unconditional-care",
+  "externalUrl": "http://www.evergreenhs.org/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "206 S Elmwood Ave, Buffalo, NY 14201, USA",
+  "phoneNumber": "+1 716-847-2441",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "Columbus",
+  "county": "Erie County",
+  "latLng": [
+    42.8908197,
+    -78.8786604
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5257324846144316958"
+  }
+}

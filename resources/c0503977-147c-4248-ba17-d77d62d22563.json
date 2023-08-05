@@ -1,0 +1,36 @@
+{
+  "id": "c0503977-147c-4248-ba17-d77d62d22563",
+  "i18n": {
+    "en-US": {
+      "title": "Aspirus Health Services - Dr. Steven Woodworth",
+      "description": "At Aspirus Health, Dr. Steven Woodworth provides consultation and treatment for issues related to endocrinology and Gynecology, focusing on disorders like chronic fatigue, memory problems, and sleep problems. His areas of special interest include disorders related to growth, pregnancy complications, osteoporosis, pelvic pain, and female bleeding. Aspirus Health values the diversity of our patients, including the transgender community, by providing respectful, informed, and compassionate care."
+    }
+  },
+  "slug": "aspirus-health-services-dr-steven-woodworth",
+  "externalUrl": "https://www.aspirus.org/find-a-provider/steven-woodworth-md-3055",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "205 Osceola St, Laurium, MI 49913, USA",
+  "phoneNumber": "+1 906-337-6500",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Laurium",
+  "latLng": [
+    47.2387168,
+    -88.4435429
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12058535900007557700"
+  },
+  "county": "Houghton County"
+}

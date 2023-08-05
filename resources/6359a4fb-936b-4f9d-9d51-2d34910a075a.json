@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6359a4fb-936b-4f9d-9d51-2d34910a075a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/stockton/95205/eastland-plaza-health-center-2529-90130?utm_campaign=eastland-plaza-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "678 N Wilson Way G, Stockton, CA 95205, USA",
+  "phoneNumber": "+1 209-466-2081",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13788006457592689555"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Joaquin County",
+  "city": "Park",
+  "latLng": [
+    37.9624735,
+    -121.2709925
+  ]
+}

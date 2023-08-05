@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-boston",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "e142dbb0-fa73-4eb3-a190-f5bbfa6e6ffd",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/massachusetts/boston/02215/greater-boston-health-center-3293-90610?utm_campaign=greater-boston-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1055 Commonwealth Ave, Boston, MA 02215, USA",
+  "phoneNumber": "+1 617-295-7235",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12595247915838517749"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Suffolk County",
+  "city": "Boston",
+  "latLng": [
+    42.3527257,
+    -71.1228521
+  ]
+}

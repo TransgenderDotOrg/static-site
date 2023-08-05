@@ -1,0 +1,32 @@
+{
+  "id": "dbdc5f60-f7e9-427d-977b-256326cdb343",
+  "i18n": {
+    "en-US": {
+      "title": "UNC Health Internal Medicine Clinic",
+      "description": "UNC Health Internal Medicine Clinic provides a comprehensive range of medical services and care to adult patients, including those from the transgender community. With a strong focus on disease prevention and management, the clinic offers primary care services designed to keep you at your healthiest. The clinic also provides services such as Nutrition consultation, Counseling for depression and anxiety, and specific disease management programs. Their commitment to inclusivity and patient-centered approach ensures that the specific health needs of the transgender community are well catered to."
+    }
+  },
+  "slug": "unc-health-internal-medicine-clinic",
+  "externalUrl": "https://www.uncmedicalcenter.org/uncmc/care-treatment/primary-care/internal-medicine",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "100 Eastowne Dr, Chapel Hill, NC 27514, USA",
+  "phoneNumber": "+1 984-974-4462",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Chapel Hill",
+  "county": "Orange County",
+  "latLng": [
+    35.948135,
+    -79.0067545
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8176578235551797380"
+  }
+}

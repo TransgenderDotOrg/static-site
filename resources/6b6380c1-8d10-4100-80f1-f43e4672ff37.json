@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-drake-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6b6380c1-8d10-4100-80f1-f43e4672ff37",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/iowa/des-moines/50311/susan-knapp-health-center-3385-90720?utm_campaign=susan-knapp-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2304 University Ave, Des Moines, IA 50311, USA",
+  "phoneNumber": "+1 877-859-0542",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13339093267906850823"
+  },
+  "country": "US",
+  "provinceOrState": "IA",
+  "county": "Polk County",
+  "city": "Drake Park",
+  "latLng": [
+    41.6002113,
+    -93.6485275
+  ]
+}

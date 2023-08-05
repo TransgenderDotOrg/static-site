@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UofL Health Provider",
+      "description": "UofL Health is a comprehensive healthcare provider serving all communities, including the transgender community in Louisville and surrounding areas. With a diverse team of healthcare professionals and an environment focused on compassionate, patient-centered care, UofL Health is committed to meeting the unique healthcare needs of the transgender population. They offer specialty care services, including mental health services, and have dedicated programs and resources tailored specifically to address and support gender health concerns."
+    }
+  },
+  "slug": "uofl-health-provider-phoenix-hill",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "f8d9af23-d423-4149-bc4d-f4f75da1b349",
+  "externalUrl": "https://uoflhealth.org/locations/uofl-hospital/",
+  "address": "University of Louisville Hospital, 530 S Jackson St, Louisville, KY 40202, USA",
+  "phoneNumber": "+1 502-562-3000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16801378502807231854"
+  },
+  "country": "US",
+  "provinceOrState": "KY",
+  "county": "Jefferson County",
+  "city": "Phoenix Hill",
+  "latLng": [
+    38.2477836,
+    -85.7441515
+  ]
+}

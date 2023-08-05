@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-jordan-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b6c3a655-c48d-4735-beb9-f421f5c914f6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/iowa/des-moines/50315/rosenfield-health-center-2386-90720?utm_campaign=rosenfield-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1000 E Army Post Rd, Des Moines, IA 50315, USA",
+  "phoneNumber": "+1 877-849-0782",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4386742681958283998"
+  },
+  "country": "US",
+  "provinceOrState": "IA",
+  "county": "Polk County",
+  "city": "Jordan Park",
+  "latLng": [
+    41.52791999999999,
+    -93.6026284
+  ]
+}

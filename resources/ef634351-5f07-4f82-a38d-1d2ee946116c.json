@@ -1,0 +1,33 @@
+{
+  "id": "ef634351-5f07-4f82-a38d-1d2ee946116c",
+  "i18n": {
+    "en-US": {
+      "title": "City of Hattiesburg Office",
+      "description": "The City of Hattiesburg Office is a local government organization that provides various services to its residents. Though not exclusively catering to the transgender community, the services provided here are inclusive and respectful of all citizens, regardless of gender identity. The Office holds community events, provides public services, and employs public servants, with a commitment to diversity and inclusivity in all areas."
+    }
+  },
+  "slug": "city-of-hattiesburg-office",
+  "externalUrl": "http://www.hattiesburgms.com/",
+  "tags": [
+    "legal",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "government-entity"
+  ],
+  "address": "Hattiesburg, MS, USA",
+  "phoneNumber": "601-545-4500",
+  "country": "US",
+  "provinceOrState": "MS",
+  "city": "Hattiesburg",
+  "county": "Forrest County",
+  "latLng": [
+    31.3271189,
+    -89.29033919999999
+  ],
+  "email": "info@hattiesburgms.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Hattiesburg,+MS&ftid=0x889cdc49d5a828df:0x74b1bf922d1cb5ca"
+  }
+}

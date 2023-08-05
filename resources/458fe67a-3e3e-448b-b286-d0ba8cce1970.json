@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-highline",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "458fe67a-3e3e-448b-b286-d0ba8cce1970",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/seattle/98106/white-center-health-center-4161-91810?utm_campaign=white-center-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "9942 8th Ave SW, Seattle, WA 98106, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5092526433299341706"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Highline",
+  "latLng": [
+    47.5139436,
+    -122.3449664
+  ]
+}

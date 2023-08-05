@@ -1,0 +1,36 @@
+{
+  "id": "8f6cedde-7393-4b9b-82b3-3b0c817a2293",
+  "i18n": {
+    "en-US": {
+      "title": "HIPS Advocacy and Support Services",
+      "description": "HIPS is an organization dedicated to advancing the health, rights, and dignity of individuals and communities impacted by drug use and sex work. Tailored support to the transgender community is provided through resources, educational outreach, harm reduction initiatives, housing services, and employment resources. Transgender individuals can access safe spaces, hormonal treatment, and wellness checks at HIPS’ health clinics."
+    }
+  },
+  "slug": "hips-advocacy-and-support-services",
+  "externalUrl": "http://www.hips.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "906 H St NE, Washington, DC 20002, USA",
+  "phoneNumber": "+1 202-232-8150",
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "H Street Corridor",
+  "latLng": [
+    38.900406,
+    -76.9934009
+  ],
+  "email": null,
+  "socialMedia": null
+}

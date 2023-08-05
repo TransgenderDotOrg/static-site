@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-keene",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "426208bc-a53f-417d-9c20-c0014e30e463",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-hampshire/keene/03431/keene-health-center-2744-91770?utm_campaign=keene-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "8 Middle St, Keene, NH 03431, USA",
+  "phoneNumber": "+1 603-352-6898",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=848033546449065080"
+  },
+  "country": "US",
+  "provinceOrState": "NH",
+  "county": "Cheshire County",
+  "city": "Keene",
+  "latLng": [
+    42.9343212,
+    -72.28129840000001
+  ]
+}

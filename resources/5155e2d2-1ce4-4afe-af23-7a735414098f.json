@@ -1,0 +1,35 @@
+{
+  "id": "5155e2d2-1ce4-4afe-af23-7a735414098f",
+  "i18n": {
+    "en-US": {
+      "title": "Ivinson Medical Group - Comprehensive Care for all including Transgender Community",
+      "description": "Located in Laramie, Ivinson Medical Group offers a broad range of medical care and services including Pediatrics, Dermatology, Orthopedics, and Women's Health. They pride themselves on providing patient-centered care, working together with patients and their families to meet various health needs. The group firmly believes in servicing everyone, valuing inclusivity and understanding the unique needs of the transgender community. They offer a safe and respectful environment for transmasculine, transfeminine and non-binary individuals to receive quality healthcare services."
+    }
+  },
+  "slug": "ivinson-medical-group-comprehensive-care",
+  "externalUrl": "https://www.ivinsonhospital.org/ivinson-medical-group",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "255 N 30th St, Laramie, WY 82072, USA",
+  "phoneNumber": "+1 307-742-2141",
+  "country": "US",
+  "provinceOrState": "WY",
+  "city": "Laramie",
+  "latLng": [
+    41.3129868,
+    -105.5565052
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10074176508524065938"
+  },
+  "county": "Albany County"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d6d943c5-d121-4fca-a4ca-b01907d2867f",
+  "i18n": {
+    "en-US": {
+      "title": "Tapestry Health Systems - Greenfield",
+      "description": "A community-based health resource offering stigma-free healthcare in Western Massachusetts, including gender-affirming hormone therapy to the transgender community. Services include sexual and reproductive health, food access and nutrition education, harm reduction, and mobile health support."
+    }
+  },
+  "slug": "tapestry-health-systems-greenfield",
+  "externalUrl": "http://www.tapestryhealth.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "278 Main St #307a, Greenfield, MA 01301, USA",
+  "phoneNumber": "+1 413-773-5403",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Greenfield",
+  "county": "Franklin County",
+  "latLng": [
+    42.588255,
+    -72.6012104
+  ],
+  "email": "info@tapestryhealth.org",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/TapestryHealth",
+    "instagram": "https://www.instagram.com/tapestryhealth/",
+    "twitter": "https://twitter.com/tapestryhealth",
+    "youtube": "https://www.youtube.com/user/TapestryHealth",
+    "linkedin": "https://www.linkedin.com/company/tapestry-health",
+    "googleMapsUrl": "https://maps.google.com/?cid=1968722352719540730"
+  }
+}

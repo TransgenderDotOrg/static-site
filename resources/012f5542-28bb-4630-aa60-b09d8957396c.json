@@ -1,0 +1,32 @@
+{
+  "id": "012f5542-28bb-4630-aa60-b09d8957396c",
+  "i18n": {
+    "en-US": {
+      "title": "UCSF Gender Affirming Health Program",
+      "description": "UCSF Gender Affirming Health Program provides primary care for gender and sexual minorities including the transgender, nonbinary gender, gay, lesbian, bisexual, and queer communities. The program is overseen by Dr. Madeline Deutsch, who specializes in gender-affirming hormone therapy. The goal is to reduce barriers to care for people who might otherwise avoid seeing a doctor while offering personalized care and treatment."
+    }
+  },
+  "slug": "ucsf-gender-affirming-health-program",
+  "externalUrl": "https://www.ucsfhealth.org/providers/dr-madeline-deutsch",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2356 Sutter St, San Francisco, CA 94115, USA",
+  "phoneNumber": "+1 415-885-7788",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Lower Pacific Heights",
+  "latLng": [
+    37.7854624,
+    -122.4392664
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13153956423155382920"
+  },
+  "county": "San Francisco County"
+}

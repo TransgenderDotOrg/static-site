@@ -1,0 +1,37 @@
+{
+  "id": "37294ede-0224-4432-810d-2d871c5fd73a",
+  "i18n": {
+    "en-US": {
+      "title": "Howard Brown Health Halsted",
+      "description": "An inclusive health center providing a variety of services focused on the needs of the transgender community. Services include trans and non-binary health, men's health, women's health, pediatric services, geriatric medicine, HIV services, dental services, counseling and support, and sexual and reproductive health. Committed to an informed-consent approach to healthcare."
+    }
+  },
+  "slug": "howard-brown-health-halsted",
+  "externalUrl": "https://howardbrown.org/clinic_location/halsted/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "3245 N Halsted St, Chicago, IL 60657, USA",
+  "phoneNumber": "+1 773-388-1600",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Lake View East",
+  "latLng": [
+    41.9412651,
+    -87.6491339
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10747947471406715086"
+  },
+  "county": "Cook County"
+}

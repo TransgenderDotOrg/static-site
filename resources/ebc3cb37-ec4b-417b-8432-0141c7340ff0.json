@@ -1,0 +1,32 @@
+{
+  "id": "ebc3cb37-ec4b-417b-8432-0141c7340ff0",
+  "i18n": {
+    "en-US": {
+      "title": "UnityPoint Health Family Medicine",
+      "description": "UnityPoint Health Family Medicine provides comprehensive healthcare services to the transgender community among others. As family doctors, they are trained to treat individuals as a whole person, regardless of their age, sex or gender identity. They focus on delivering personalized treatments and preventive measures in a safe, respectful and inclusive environment. The clinic has multiple locations, making it accessible to a wide array of patients. It has the capacity to work with specialists, ensuring continued care that may need specific expertise in transgender health."
+    }
+  },
+  "slug": "unitypoint-health-family-medicine",
+  "externalUrl": "https://www.unitypoint.org/desmoines/family-medicine-clinic-locations.aspx?utm_source=gmb&utm_medium=web&utm_campaign=brandify",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6400 Hickman Rd, Urbandale, IA 50322, USA",
+  "phoneNumber": "+1 515-274-3551",
+  "country": "US",
+  "provinceOrState": "IA",
+  "city": "Urbandale",
+  "latLng": [
+    41.6143503,
+    -93.70650760000001
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16338149174984946079"
+  },
+  "county": "Polk County"
+}

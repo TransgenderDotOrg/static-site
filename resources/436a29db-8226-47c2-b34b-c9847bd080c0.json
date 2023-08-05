@@ -1,0 +1,35 @@
+{
+  "id": "436a29db-8226-47c2-b34b-c9847bd080c0",
+  "i18n": {
+    "en-US": {
+      "title": "CrescentCare Health Services",
+      "description": "CrescentCare offers whole person healthcare services with a particular focus on the LGBTQ community and people living with HIV. Their wide range of services includes primary care, women's health, sexual health, LGBTQ health and wellness, gender services, dentistry, and behavioral health. They also provide financial aid and educational resources, confirming their deep commitment to the wellness of the transgender community."
+    }
+  },
+  "slug": "crescentcare-health-services",
+  "externalUrl": "http://crescentcarehealth.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1631 Elysian Fields Ave, New Orleans, LA 70117, USA",
+  "phoneNumber": "+1 504-821-2601",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "St. Roch",
+  "county": "Orleans Parish",
+  "latLng": [
+    29.97426639999999,
+    -90.0566874
+  ],
+  "email": "info@crescentcare.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11867868531124071479"
+  }
+}

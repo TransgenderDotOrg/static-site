@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-greensburg",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a40df92d-b502-4a66-8a21-0324ea4127b0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/greensburg/15601/greensburg-health-center-3962-91470?utm_campaign=greensburg-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "125 Nature Park Rd, Greensburg, PA 15601, USA",
+  "phoneNumber": "+1 724-552-0352",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7269144909067693734"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Westmoreland County",
+  "city": "Greensburg",
+  "latLng": [
+    40.304264,
+    -79.4977588
+  ]
+}

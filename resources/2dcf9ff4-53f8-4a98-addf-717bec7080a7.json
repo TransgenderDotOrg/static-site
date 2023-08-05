@@ -1,0 +1,35 @@
+{
+  "id": "2dcf9ff4-53f8-4a98-addf-717bec7080a7",
+  "i18n": {
+    "en-US": {
+      "title": "New Directions Health and Wellness",
+      "description": "New Directions Health and Wellness is an ally in the healthcare sector for the transgender community. Led by Dr. Scott Smith, offering hormone replacement therapy, medical weight loss solutions and overall healthcare services. Their tailor-made solutions cater to the specific needs of patients with priority given to ensuring extreme privacy and confidentiality, especially for transmasculine and transfeminine patients. The wellness clinic breathes an understanding and sensitive approach towards their patients addressing their physical and mental well-being."
+    }
+  },
+  "slug": "new-directions-health-and-wellness",
+  "externalUrl": "http://nwanewdirections.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5431 W Pinnacle Pointe Dr Suite 104, Rogers, AR 72758, USA",
+  "phoneNumber": "+1 479-268-6404",
+  "country": "US",
+  "provinceOrState": "AR",
+  "city": "Rogers",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=863158109426182657",
+    "facebookUrl": "https://www.facebook.com/NewDirectionsNWA/",
+    "instagramUrl": "https://www.instagram.com/newdirectionsforwomen/"
+  },
+  "county": "Benton County",
+  "latLng": [
+    36.3124455,
+    -94.18951589999999
+  ]
+}

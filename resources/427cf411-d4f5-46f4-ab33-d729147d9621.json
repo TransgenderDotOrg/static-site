@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-east-rock",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "427cf411-d4f5-46f4-ab33-d729147d9621",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/connecticut/new-haven/06511/new-haven-center-3271-90220?utm_campaign=new-haven-center&utm_medium=organic&utm_source=local-listing",
+  "address": "345 Whitney Ave, New Haven, CT 06511, USA",
+  "phoneNumber": "+1 203-503-0450",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13883664488587906006"
+  },
+  "country": "US",
+  "provinceOrState": "CT",
+  "county": "New Haven County",
+  "city": "East Rock",
+  "latLng": [
+    41.3198734,
+    -72.918309
+  ]
+}

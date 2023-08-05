@@ -1,0 +1,37 @@
+{
+  "id": "ab730673-ed02-414a-8ea8-8ceb80887199",
+  "i18n": {
+    "en-US": {
+      "title": "Alice Street General Practice",
+      "description": "Alice Street General Practice is a healthcare provider that caters to the transgender community, providing an inclusive and safe environment with services such as hormonal treatments. As a fragrance-free, informed-consent clinic, individuals from the transmasculine, transfeminine, and non-binary communities can receive quality healthcare that respects their identities and needs. This practice is also committed to education and awareness about the unique health considerations of transgender individuals."
+    }
+  },
+  "slug": "alice-street-general-practice",
+  "externalUrl": "http://www.alicestreetgp.com.au/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "6 Alice St, Newtown NSW 2042, Australia",
+  "phoneNumber": "+61 2 9550 6201",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Newtown",
+  "latLng": [
+    -33.9031902,
+    151.1788902
+  ],
+  "email": "info@alicestreetgp.com.au",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4714529475082646550"
+  },
+  "county": "Inner West Council"
+}

@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "KC CARE Health Center",
+      "description": "KC CARE Health Center provides whole-person care, including medical services, behavioural health, and testing services. They are particularly catered to serving the transgender community with specific services like transgender health and sexual health. KC CARE promotes health equality and believes in healthcare as a right for everyone."
+    }
+  },
+  "slug": "kc-care-health-center-lykins",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "ff986903-2fae-4459-939d-7836945148a7",
+  "externalUrl": "https://kccare.org/",
+  "address": "4601 Independence Ave, Kansas City, MO 64124, USA",
+  "phoneNumber": "+1 816-753-5144",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17439917631016244013"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "Jackson County",
+  "city": "Lykins",
+  "latLng": [
+    39.1053252,
+    -94.5278762
+  ]
+}

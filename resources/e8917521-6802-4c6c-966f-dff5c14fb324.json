@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e8917521-6802-4c6c-966f-dff5c14fb324",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/montana/billings/59105/planned-parenthood-heights-2438-90790?utm_campaign=planned-parenthood-heights&utm_medium=organic&utm_source=local-listing",
+  "address": "100 W Wicks Ln, Billings, MT 59105, USA",
+  "phoneNumber": "+1 406-869-5040",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7454435701232249935"
+  },
+  "country": "US",
+  "provinceOrState": "MT",
+  "county": "Yellowstone County",
+  "city": "Heights",
+  "latLng": [
+    45.8269994,
+    -108.489449
+  ]
+}

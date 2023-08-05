@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-moses-lake",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "80125dd1-d73d-410f-bcd8-b576371f58e5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/moses-lake/98837/moses-lake-health-center-4202-91850?utm_campaign=moses-lake-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "920 W Ivy Ave, Moses Lake, WA 98837, USA",
+  "phoneNumber": "+1 866-904-7721",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17316253591794203579"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Grant County",
+  "city": "Moses Lake",
+  "latLng": [
+    47.12393609999999,
+    -119.2896121
+  ]
+}

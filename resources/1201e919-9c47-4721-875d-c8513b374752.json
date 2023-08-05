@@ -1,0 +1,31 @@
+{
+  "id": "1201e919-9c47-4721-875d-c8513b374752",
+  "i18n": {
+    "en-US": {
+      "title": "Southwest Community Health Center, Bridgeport",
+      "description": "Located in Bridgeport, the Southwest Community Health Center provides a range of healthcare services. Despite mixed reviews, some community members have noted the center as an important healthcare resource. It is yet unclear how tailored the services are for the transgender community, further inquiries or reviews are needed."
+    }
+  },
+  "slug": "southwest-community-health-center-bridgeport",
+  "externalUrl": "https://swchc.org",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Building 6, 743 South Ave, Bridgeport, CT 06604, USA",
+  "phoneNumber": "+1 203-330-6010",
+  "country": "US",
+  "provinceOrState": "CT",
+  "city": "South End",
+  "latLng": [
+    41.1675862,
+    -73.1986391
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18212144484801820545"
+  },
+  "county": "Fairfield County"
+}

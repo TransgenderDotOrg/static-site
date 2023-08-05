@@ -1,0 +1,35 @@
+{
+  "id": "c2ba3d43-8898-4590-b863-ae36d7861102",
+  "i18n": {
+    "en-US": {
+      "title": "Howard Brown Health Counseling Center",
+      "description": "Howard Brown Health Center is dedicated to serving the transgender community. They offer a wide range of health and supportive services including primary care, counseling, psychiatry, support groups, and workshops. They are committed to providing holistic, inclusive care that meets the unique needs of each individual in the transgender community."
+    }
+  },
+  "slug": "howard-brown-health-counseling-center",
+  "externalUrl": "https://howardbrown.org/clinic_location/counseling-center/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "3948 N Sheridan Rd, Chicago, IL 60613, USA",
+  "phoneNumber": "+1 773-388-1600",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Lake View East",
+  "county": "Cook County",
+  "latLng": [
+    41.954162,
+    -87.65470599999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6805630517948382087"
+  }
+}

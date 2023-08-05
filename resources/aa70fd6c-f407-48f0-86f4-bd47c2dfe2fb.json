@@ -1,0 +1,35 @@
+{
+  "id": "aa70fd6c-f407-48f0-86f4-bd47c2dfe2fb",
+  "i18n": {
+    "en-US": {
+      "title": "Huntridge Family Clinic",
+      "description": "Huntridge Family Clinic is dedicated to providing individualized high-quality, compassionate care to all, but with a specific focus on those within the LGBTQIA+ and Allied communities. This includes support for those identifying as transgender, transmasculine, transfeminine and non-binary. They offer a variety of healthcare services including HIV testing, in-office testing e.g. blood glucose checks and urinalysis, and aid in access to PrEP and nPEP for HIV prevention."
+    }
+  },
+  "slug": "huntridge-family-clinic",
+  "externalUrl": "https://huntridgefamilyclinic.org/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1820 E Sahara Ave, Las Vegas, NV 89104, USA",
+  "phoneNumber": "+1 702-979-1111",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Downtown South",
+  "county": "Clark County",
+  "latLng": [
+    36.1457003,
+    -115.1247144
+  ],
+  "email": "jphoenixaprn@huntridgefcf.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11010912990894046980"
+  }
+}

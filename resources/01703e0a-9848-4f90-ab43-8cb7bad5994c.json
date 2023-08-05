@@ -1,0 +1,33 @@
+{
+  "id": "01703e0a-9848-4f90-ab43-8cb7bad5994c",
+  "i18n": {
+    "en-US": {
+      "title": "Pagosa Springs Medical Center",
+      "description": "Pagosa Springs Medical Center (PSMC) is a comprehensive healthcare facility that provides a wide array of medical services, including primary care, cancer center, emergency, and specialty services. PSMC is dedicated to providing inclusive and personal care that caters to everyone, including the transgender community. It prioritizes the wellness of each individual patient, regardless of ability to pay, and ensures compassionate and quality medical care."
+    }
+  },
+  "slug": "pagosa-springs-medical-center",
+  "externalUrl": "https://www.pagosaspringsmedicalcenter.org/",
+  "tags": [
+    "healthcare",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "95 S Pagosa Blvd, Pagosa Springs, CO 81147, USA",
+  "phoneNumber": "+1 970-731-3700",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Pagosa Springs",
+  "latLng": [
+    37.2521575,
+    -107.0783976
+  ],
+  "email": "Quality@PSMedicalCenter.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1277384324283403861"
+  },
+  "county": "Archuleta County"
+}

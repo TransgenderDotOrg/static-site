@@ -1,0 +1,31 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "MetroHealth System in Cleveland",
+      "description": "MetroHealth is a comprehensive healthcare provider offering various services including behavioral health, cancer treatment, obstetrics & gynecology, pharmacy programs, and a rehabilitation institute. Its commitment to inclusion, diversity, and racial equity is evident through its initiatives and resources. The healthcare provider offers a supportive and safe environment for the transgender community with resources tailored to their necessities and wellbeing."
+    }
+  },
+  "slug": "metrohealth-system-in-cleveland-old-brooklyn",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "cbdf7d50-e0e5-42db-a7f0-8f90b232dd73",
+  "externalUrl": "https://www.metrohealth.org/locations/brooklyn",
+  "address": "5208 Memphis Ave, Cleveland, OH 44144, USA",
+  "phoneNumber": "+1 216-398-0100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10958281561301557119"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Cuyahoga County",
+  "city": "Old Brooklyn",
+  "latLng": [
+    41.440138,
+    -81.7225443
+  ]
+}

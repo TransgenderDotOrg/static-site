@@ -1,0 +1,34 @@
+{
+  "id": "4ae4545e-405d-4873-a75c-307fc55d9172",
+  "i18n": {
+    "en-US": {
+      "title": "University of Connecticut Student Health and Wellness",
+      "description": "This facility offers comprehensive health services tailored towards students, including trans and non-binary individuals. Services include medical care, mental health services, and health promotion programs. They have policies honoring advanced directives for health care decisions, acknowledging a patient's right to designate a representative to make decisions on their behalf, catering to diverse identities such as race, religion, and gender identity. The welfare of transgender students is deeply considered, promoting a safe and respectful environment."
+    }
+  },
+  "slug": "university-of-connecticut-student-health-and-wellness",
+  "externalUrl": "https://studenthealth.uconn.edu/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "234 Glenbrook Rd Unit 4011, Storrs, CT 06269, USA",
+  "phoneNumber": "+1 860-486-4700",
+  "country": "US",
+  "provinceOrState": "CT",
+  "city": "Storrs",
+  "latLng": [
+    41.8099086,
+    -72.25358159999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16640750981541905283"
+  },
+  "county": "Tolland County"
+}

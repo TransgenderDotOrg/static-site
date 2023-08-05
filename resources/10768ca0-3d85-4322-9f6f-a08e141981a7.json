@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-old-brooklyn",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "10768ca0-3d85-4322-9f6f-a08e141981a7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/cleveland/44134/old-brooklyn-health-center-2508-91230?utm_campaign=old-brooklyn-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2186 Brookpark Rd, Cleveland, OH 44134, USA",
+  "phoneNumber": "+1 216-661-0400",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16275601871758542356"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Cuyahoga County",
+  "city": "Old Brooklyn",
+  "latLng": [
+    41.419777,
+    -81.69681899999999
+  ]
+}

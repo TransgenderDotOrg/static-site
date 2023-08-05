@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fresno",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e1e2257d-4cf4-44d6-b879-dd9dde5d194b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/fresno/93710/family-first-health-center-2365-90130?utm_campaign=family-first-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "6095 N First St, Fresno, CA 93710, USA",
+  "phoneNumber": "+1 559-446-1515",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12462395525847801859"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Fresno County",
+  "city": "Fresno",
+  "latLng": [
+    36.825265,
+    -119.773818
+  ]
+}

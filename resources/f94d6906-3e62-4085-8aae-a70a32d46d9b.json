@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-rosemary-district",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f94d6906-3e62-4085-8aae-a70a32d46d9b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/sarasota/34236/sarasota-health-center-2189-90300?utm_campaign=sarasota-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "736 Central Ave, Sarasota, FL 34236, USA",
+  "phoneNumber": "+1 941-953-4060",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1052912995217661379"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Sarasota County",
+  "city": "Rosemary District",
+  "latLng": [
+    27.3427755,
+    -82.5424244
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "45d1611c-930d-4a3b-ad6c-01bea33d0fa5",
+  "i18n": {
+    "en-US": {
+      "title": "Center for Transgender Medicine and Surgery at Mount Sinai",
+      "description": "The Center for Transgender Medicine and Surgery at Mount Sinai provides advanced, comprehensive care tailored to the unique needs of transgender and non-binary individuals. The center offers a wide range of services including medical care, gender-affirming surgeries, behavioral health services, and other support services. Our team of primary care providers, endocrinologists, behavioral health specialists, plastic surgeons, urologists, gynecologists, and other medical professionals work in tandem to ensure the provision of a personalized and targeted care plan for every patient."
+    }
+  },
+  "slug": "center-for-transgender-medicine-and-surgery-at-mount-sinai",
+  "externalUrl": "https://www.mountsinai.org/locations/center-transgender-medicine-surgery?utm_source=Yext&utm_medium=local_listing&utm_campaign=CTMS&y_source=1_MTMxNDU5NTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "275 7th Ave, New York, NY 10001, USA",
+  "phoneNumber": "+1 212-604-1730",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "latLng": [
+    40.7456933,
+    -73.9942808
+  ],
+  "email": "CTMSinfo@mountsinai.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15658486237473710427"
+  },
+  "county": "New York County",
+  "town": "Manhattan"
+}

@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hudson",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "28ff9854-efe8-4ce2-a34e-c32fe9c9438f",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/hudson/12534/hudson-health-center-2380-91020?utm_campaign=hudson-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "804 Columbia St, Hudson, NY 12534, USA",
+  "phoneNumber": "+1 518-828-4675",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18027002336802331296"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Columbia County",
+  "city": "Hudson",
+  "latLng": [
+    42.2473979,
+    -73.7796142
+  ]
+}

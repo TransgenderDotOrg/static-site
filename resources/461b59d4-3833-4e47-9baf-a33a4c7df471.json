@@ -1,0 +1,37 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Whitman-Walker",
+      "description": "Whitman-Walker is a dedicated healthcare provider, offering a comprehensive range of services tailored to the transgender community. Our services include HIV/STI testing, PrEP PEP, and support relating to insurance navigation, gender affirming care, youth & family, legal services, dental health, and behavioral health. We prioritize patient care, focusing on each individual's unique needs and challenges."
+    }
+  },
+  "slug": "whitman-walker-southeast-washington",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "461b59d4-3833-4e47-9baf-a33a4c7df471",
+  "externalUrl": "http://www.whitman-walker.org/",
+  "address": "2301 Martin Luther King Jr Ave SE, Washington, DC 20020, USA",
+  "phoneNumber": "+1 202-745-7000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6700567834358818283"
+  },
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Southeast Washington",
+  "latLng": [
+    38.863526,
+    -76.99128499999999
+  ]
+}

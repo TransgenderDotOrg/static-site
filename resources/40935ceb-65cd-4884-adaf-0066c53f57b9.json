@@ -1,0 +1,32 @@
+{
+  "id": "40935ceb-65cd-4884-adaf-0066c53f57b9",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Marta E. Terlecki, MD",
+      "description": "Dr. Marta E. Terlecki is a specialized endocrinologist providing expert healthcare services to the transgender community. Her services cater to individuals who desire hormone therapy and require guidance on endocrine health. Unfortunately, the clinic is permanently closed."
+    }
+  },
+  "slug": "dr-marta-e-terlecki-md",
+  "externalUrl": "https://maps.google.com/?cid=13024569683879198368",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "717 Encino Pl, Albuquerque, NM 87102, USA",
+  "phoneNumber": "+15052472141",
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "Valmonte Acres",
+  "latLng": [
+    35.0884355,
+    -106.6337816
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13024569683879198368"
+  },
+  "county": "Bernalillo County"
+}

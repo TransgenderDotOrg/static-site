@@ -1,0 +1,35 @@
+{
+  "id": "8a4b4573-1bfd-4fd0-8375-28209f27c035",
+  "i18n": {
+    "en-US": {
+      "title": "Apicha Community Health Center",
+      "description": "Apicha is a community health center that serves Asians and Pacific Islanders, Latinos, African Americans, and individuals who identify as LGBTQ+. It offers a multitude of services, including Family Medicine, Dental Care, Women's Health, Mental Health, and more. It considers economic situations and offers discounted services for uninsured, underinsured, and low-income patients."
+    }
+  },
+  "slug": "apicha-community-health-center",
+  "externalUrl": "http://apicha.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "400 Broadway, New York, NY 10013, USA",
+  "phoneNumber": "+1 212-334-6029",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.7186242,
+    -74.00222339999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4374053260740191998"
+  },
+  "town": "Manhattan"
+}

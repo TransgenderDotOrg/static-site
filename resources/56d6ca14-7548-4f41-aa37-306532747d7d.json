@@ -1,0 +1,37 @@
+{
+  "id": "56d6ca14-7548-4f41-aa37-306532747d7d",
+  "i18n": {
+    "en-US": {
+      "title": "Spektrum Health LGBTQA+ Healthcare Services",
+      "description": "Spektrum Health is a non-profit health organization that provides tailored, comprehensive healthcare services for the LGBTQA+ community. Our mission is to empower individuals to achieve their peak mental and physical health goals. Our team of experts are adept in offering primary care, mental health counseling, and gender-affirming treatment, HIV & STD Prevention, weight management, among other services. Our clinic is committed to fostering an environment where you're not just a patient but a part of the Spektrum family. Rest assured that every visit is personalized, making sure that you are seen, heard, and cared for."
+    }
+  },
+  "slug": "spektrum-health-lgbtqa-healthcare-services",
+  "externalUrl": "https://spektrum.health/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "5205 S Orange Ave Suite #110, Orlando, FL 32809, USA",
+  "phoneNumber": "+1 407-454-1363",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Orlando",
+  "latLng": [
+    28.4851648,
+    -81.3716208
+  ],
+  "email": "YOU@SPEKTRUM.Health",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8128427814513082010"
+  },
+  "county": "Orange County"
+}

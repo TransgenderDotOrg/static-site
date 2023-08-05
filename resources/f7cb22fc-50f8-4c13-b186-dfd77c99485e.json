@@ -1,0 +1,36 @@
+{
+  "id": "f7cb22fc-50f8-4c13-b186-dfd77c99485e",
+  "i18n": {
+    "en-US": {
+      "title": "Einstein Healthcare Network",
+      "description": "Einstein Healthcare Network is a leading healthcare system committed to providing high-quality, compassionate care for all. They offer a wide range of services and centers of excellence such as bariatric surgery, cancer, heart and vascular care, orthopedics, and kidney transplantation. They are inclusive and welcoming to the transgender community, providing respectful and understanding care. Einstein Healthcare Network consists of multiple offices, each catering to their community's unique needs and striving to improve the overall health of the populations they serve."
+    },
+    "es": {
+      "title": "Red de Salud de Einstein",
+      "description": "La Red de Atención de la Salud de Einstein es un sistema de salud líder que se compromete a proporcionar atención de alta calidad y compasiva para todos. Ofrecen una amplia gama de servicios y centros de excelencia como cirugía bariátrica, cáncer, corazón y vascular, ortopedia y trasplante de riñón. Son inclusivos y acogedores con la comunidad transgénero, proporcionando una atención respetuosa y comprensiva. La Red de Atención a la Salud de Einstein consta de varias oficinas, cada una atendiendo a las necesidades únicas de su comunidad y esforzándose por mejorar la salud general de las poblaciones a las que sirven."
+    }
+  },
+  "slug": "einstein-healthcare-network",
+  "externalUrl": "https://www.einstein.edu/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4817 N Broad St, Philadelphia, PA 19141, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "North Philadelphia",
+  "county": "Philadelphia County",
+  "latLng": [
+    40.0267047,
+    -75.1469221
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13339238230549451940"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "f60300ec-0e90-455c-8d83-a1a2240738b6",
+  "i18n": {
+    "en-US": {
+      "title": "CHOICES Center for Reproductive Health",
+      "description": "CHOICES is a non-profit organization that provides comprehensive reproductive health care. They welcome everyone, including members of the transgender community, and offer tailored services such as transgender health care services. Their patient-oriented care includes wellness checks, birth control, and LGBTQ+ health services. Most patients qualify for financial aid."
+    }
+  },
+  "slug": "choices-center-for-reproductive-health",
+  "externalUrl": "http://memphischoices.org/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "1203 Poplar Ave, Memphis, TN 38104, USA",
+  "phoneNumber": "+1 901-274-3550",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Midtown",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9471802078405204665"
+  },
+  "county": "Shelby County",
+  "latLng": [
+    35.1440234,
+    -90.0205251
+  ]
+}

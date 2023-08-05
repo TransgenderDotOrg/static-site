@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-watsonville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "752e415d-b5cc-4678-ae66-3fd50c65737c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/watsonville/95076/watsonville-health-center-2229-90130?utm_campaign=watsonville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "398 S Green Valley Rd, Watsonville, CA 95076, USA",
+  "phoneNumber": "+1 831-724-7525",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17553549874392618490"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Santa Cruz County",
+  "city": "Watsonville",
+  "latLng": [
+    36.9302828,
+    -121.7763751
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "es-MX": {
+      "title": "Centro Ararat",
+      "description": "Centro Ararat ofrece una variedad de servicios de salud sexual, incluyendo pruebas de VIH y consulta PrEP. Nos esforzamos por crear un espacio segura y acogedora para la comunidad transgénero."
+    },
+    "en-US": {
+      "title": "Ararat Center",
+      "description": "Ararat Center provides a variety of sexual health services, including rapid HIV testing and PrEP consultation. We strive to create a safe and welcoming space for the transgender community."
+    }
+  },
+  "slug": "ararat-center-arecibo",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "b5574810-c296-4675-b94b-1a654f87dd5a",
+  "externalUrl": "http://www.centroararat.org/",
+  "address": "60 Cll Domingo Rubio #2, Arecibo, 00612, Puerto Rico",
+  "phoneNumber": "+1 787-680-0236",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15577534267914030622"
+  },
+  "country": "PR",
+  "provinceOrState": "Arecibo",
+  "county": "Arecibo",
+  "city": "Arecibo",
+  "town": "Arecibo Pueblo",
+  "latLng": [
+    18.4726406,
+    -66.7218007
+  ]
+}

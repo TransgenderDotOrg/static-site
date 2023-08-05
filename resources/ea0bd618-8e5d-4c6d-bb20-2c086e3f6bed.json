@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-rainier-beach",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "ea0bd618-8e5d-4c6d-bb20-2c086e3f6bed",
+  "externalUrl": "https://neighborcare.org/clinics/rainier-beach/",
+  "address": "9245 Rainier Ave S, Seattle, WA 98118, USA",
+  "phoneNumber": "+1 206-722-8444",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8092556939934580833"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Rainier Beach",
+  "latLng": [
+    47.5196185,
+    -122.269246
+  ]
+}

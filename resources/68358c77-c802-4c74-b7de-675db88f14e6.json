@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-rutland",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "68358c77-c802-4c74-b7de-675db88f14e6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/rutland/05701/rutland-health-center-4229-91770?utm_campaign=rutland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "11 Burnham Ave, Rutland, VT 05701, USA",
+  "phoneNumber": "+1 802-775-2333",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9058001823708571390"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Rutland County",
+  "city": "Rutland",
+  "latLng": [
+    43.6126978,
+    -72.97400139999999
+  ]
+}

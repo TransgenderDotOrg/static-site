@@ -1,0 +1,36 @@
+{
+  "id": "e6b5f9b5-c6bc-4cd3-b7df-7c589bbba137",
+  "i18n": {
+    "en-US": {
+      "title": "Healthy Futures Primary Care - Englewood",
+      "description": "Healthy Futures Primary Care in Englewood specializes in primary care and family planning services including gender affirming care. The clinic offers an evidence-based approach to health care, providing compassionate treatment options personalized to the needs of individuals from the transgender community."
+    }
+  },
+  "slug": "healthy-futures-primary-care-englewood",
+  "externalUrl": "http://healthyfutures.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "300 E Hampden Ave #201, Englewood, CO 80113, USA",
+  "phoneNumber": "+1 303-991-7700",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Englewood",
+  "latLng": [
+    39.6529858,
+    -104.9837782
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10878070964582984514"
+  },
+  "county": "Arapahoe County"
+}

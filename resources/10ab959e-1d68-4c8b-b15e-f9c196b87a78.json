@@ -1,0 +1,31 @@
+{
+  "id": "10ab959e-1d68-4c8b-b15e-f9c196b87a78",
+  "i18n": {
+    "en-US": {
+      "title": "South Peninsula Hospital Family Care Clinic",
+      "description": "South Peninsula Hospital Family Care is a primary care clinic offering comprehensive healthcare services to individuals and families, including those from the transgender community. In addition to traditional medical care, the clinic also provides services under the Sunrise Medical Weight Loss program. Friendly and inclusive, this clinic also offers walk-in lab services."
+    }
+  },
+  "slug": "south-peninsula-hospital-family-care-clinic",
+  "externalUrl": "https://www.sphosp.org/services/family-care-clinic/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4201 Bartlett St, Homer, AK 99603, USA",
+  "phoneNumber": "(907) 235-0900",
+  "country": "US",
+  "provinceOrState": "AK",
+  "city": "Homer",
+  "latLng": [
+    59.65130600000001,
+    -151.5489665
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10097736688474289038"
+  },
+  "county": "Kenai Peninsula Borough"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8d4e5251-ccc3-46cc-a312-1c11a0193a49",
+  "i18n": {
+    "en-US": {
+      "title": "Columbia Fertility Associates - a comprehensive fertility clinic",
+      "description": "Columbia Fertility Associates provides inclusive and tailored fertility treatments to the transgender community. The clinic's services include male infertility, artificial insemination, ovary rejuvenation, egg freezing, genetic testing, surrogacy and in-vitro fertilization among others. CFA also offers assistance with insurance coverage and potential financing options to ensure access for all members of the LGBTQ community in their path to parenthood."
+    }
+  },
+  "slug": "columbia-fertility-associates-washington-dc",
+  "externalUrl": "https://www.columbiafertility.com/?utm_source=gmb_auth",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2440 M St NW #401, Washington, DC 20037, USA",
+  "phoneNumber": "+1 202-293-6567",
+  "country": "US",
+  "provinceOrState": "DC",
+  "city": "Northwest Washington",
+  "latLng": [
+    38.904908,
+    -77.052984
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14615702455503599937"
+  }
+}

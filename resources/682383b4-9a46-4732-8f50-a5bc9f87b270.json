@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Chase Brexton Health Services",
+      "description": "Chase Brexton Health Services is an inclusive healthcare provider offering a broad range of services that especially cater to the transgender community. Among these services are therapy, Gender Affirming Care, and a variety of health management programs. They have created an empathetic environment that addresses the unique healthcare needs of transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "chase-brexton-health-services-downtown",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "682383b4-9a46-4732-8f50-a5bc9f87b270",
+  "externalUrl": "http://www.chasebrexton.org/?utm_source=GMBSocialClimb&utm_medium=ChaseBrextonHealthServices",
+  "address": "1111 N Charles St, Baltimore, MD 21201, USA",
+  "phoneNumber": "+1 410-837-2050",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14396257032548471649"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "city": "Downtown",
+  "latLng": [
+    39.3029758,
+    -76.61556139999999
+  ]
+}

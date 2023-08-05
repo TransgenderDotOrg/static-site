@@ -1,0 +1,36 @@
+{
+  "id": "65cd48a0-7cc0-42ac-9f22-c81d234875a2",
+  "i18n": {
+    "en-US": {
+      "title": "Quest Community Health Centre's Services for Transgender Community",
+      "description": "At Quest Community Health Centre we believe in treating everyone with equal care and respect, including transgender and non-binary individuals. Our traditional health care models focus thoroughly on the physical, mental, emotional, and social well-being of transgender individuals. Our goal is to help this vulnerable community in overcoming social, economic, and cultural barriers to health and wellness. Our services are continually evolving in response to the needs of the transgender community. We take action as allies and advocates for social change, committed to reducing barriers to access and achieving equitable, inclusive and respectful primary health care for all."
+    }
+  },
+  "slug": "quest-community-health-centres-services-for-transgender-community",
+  "externalUrl": "https://questchc.ca/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "145 Queenston St, St. Catharines, ON L2R 2Z9, Canada",
+  "phoneNumber": "+1 905-688-2558",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Queenston",
+  "latLng": [
+    43.1632605,
+    -79.2301701
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16424067912547375804"
+  },
+  "county": "Regional Municipality of Niagara"
+}

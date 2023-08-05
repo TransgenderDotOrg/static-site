@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fairview-heights",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a87ebbb6-67ed-433c-840e-60d77ad953d6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/fairview-heights/62208/fairview-heights-health-center-2712-90770?utm_campaign=fairview-heights-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "317 Salem Pl, Fairview Heights, IL 62208, USA",
+  "phoneNumber": "+1 618-277-6668",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18280887001651753100"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "St Clair County",
+  "city": "Fairview Heights",
+  "latLng": [
+    38.6002994,
+    -89.9818665
+  ]
+}

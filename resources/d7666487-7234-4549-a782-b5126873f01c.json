@@ -1,0 +1,36 @@
+{
+  "id": "d7666487-7234-4549-a782-b5126873f01c",
+  "i18n": {
+    "en-US": {
+      "title": "Duke Children's Endocrinology - Dr. Deanna W. Adkins, MD",
+      "description": "This is a healthcare facility headed by Dr. Deanna W. Adkins, MD, who is specialized in pediatric endocrinology, diabetes, and metabolism. The facility provides quality healthcare services for transgender children, diagnosing and treating various endocrine disorders including diabetes mellitus and thyroid disorders. The institution is committed to ensuring all patients receive comprehensive, individualized care that suits their needs. Also, it's highly recognized for advocating for transgender youth healthcare."
+    }
+  },
+  "slug": "duke-childrens-endocrinology-dr-deanna-w-adkins-md",
+  "externalUrl": "https://www.dukehealth.org/find-doctors-physicians/deanna-w-adkins-md",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "youth-services",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "Duke Hospital Bed Towers, 2301 Erwin Rd, Durham, NC 27710, USA",
+  "phoneNumber": "+1 800-266-2742",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Durham",
+  "latLng": [
+    36.0071694,
+    -78.9385088
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13408059967756773230"
+  },
+  "county": "Durham County"
+}

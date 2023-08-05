@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-old-town-historic-district",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e61ec151-3217-41c6-bfca-3e25c9790a37",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-luis-obispo/93401/san-luis-obispo-health-center-2252-90170?utm_campaign=san-luis-obispo-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "743 Pismo St, San Luis Obispo, CA 93401, USA",
+  "phoneNumber": "+1 888-898-3806",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3231211405877357143"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Luis Obispo County",
+  "city": "Old Town Historic District",
+  "latLng": [
+    35.2768284,
+    -120.6616687
+  ]
+}

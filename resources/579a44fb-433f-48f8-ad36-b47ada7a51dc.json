@@ -1,0 +1,35 @@
+{
+  "id": "579a44fb-433f-48f8-ad36-b47ada7a51dc",
+  "i18n": {
+    "en-US": {
+      "title": "Truesdale Medical Center",
+      "description": "Committed to providing LGBTQ+ inclusive healthcare services, Truesdale Medical Center ensures a safe, respectful, and understanding atmosphere where patients can freely discuss their needs. The medical center specifically emphasizes healthcare for transgender patients with services such as gender-affirming care and mental health support. Their team of professionals are known for their compassionate and informative approach to medical care."
+    }
+  },
+  "slug": "truesdale-medical-center",
+  "externalUrl": "https://www.truesdalemedical.org/about-us",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6296 Rivers Ave STE 310, North Charleston, SC 294064973, USA",
+  "phoneNumber": "+1 843-266-3870",
+  "country": "US",
+  "provinceOrState": "SC",
+  "city": "North Charleston",
+  "latLng": [
+    32.9107104,
+    -80.0233191
+  ],
+  "email": "info@truesdalemedical.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6774442639791253893"
+  },
+  "county": "Charleston County"
+}

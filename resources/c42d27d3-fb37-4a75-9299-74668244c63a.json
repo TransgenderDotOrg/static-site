@@ -1,0 +1,37 @@
+{
+  "id": "c42d27d3-fb37-4a75-9299-74668244c63a",
+  "i18n": {
+    "en-US": {
+      "title": "Buffalo Women Services: Specialized LGBTQ Care",
+      "description": "Buffalo Women Services serves as a comprehensive healthcare facility catering specifically to multiple needs of the transgender community in Buffalo, New York. They provide diverse services including Full Spectrum Healthcare, gynecology, abortions, LGBTQ care, birth center support, and more. The team is committed to making all patients, especially those from the LGBTQ+ community, feel genuinely cared for and secure. They offer an intensive educational approach that empowers patients on their healthcare journey and ensures they are informed of all their reproductive options. Dr. Morrison, who leads the team, is an experienced physician providing terminations for patients up to 19 weeks, offering patients all their reproductive rights choices."
+    }
+  },
+  "slug": "buffalo-women-services-lgbtq-care",
+  "externalUrl": "http://buffalowomenservices.com/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2500 Main St, Buffalo, NY 14214, USA",
+  "phoneNumber": "+1 716-835-2510",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "Leroy",
+  "latLng": [
+    42.93668090000001,
+    -78.8422778
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17597593455834868618"
+  },
+  "county": "Erie County"
+}

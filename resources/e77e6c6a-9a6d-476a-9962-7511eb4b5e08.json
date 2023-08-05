@@ -1,0 +1,31 @@
+{
+  "id": "e77e6c6a-9a6d-476a-9962-7511eb4b5e08",
+  "i18n": {
+    "en-US": {
+      "title": "UH Ulrich Professional Group",
+      "description": "Affiliated with University Hospitals, UH Ulrich Professional Group ensures that all members of the family receive specialized medical care. They are dedicated to advancing the health and well-being of their patients and their families, particularly in the transgender community, with our board-certified physicians in family and internal medicine. They also provide vital resources such as health records management, test results, bill payment, and prescription refill requests through their patient portal."
+    }
+  },
+  "slug": "uh-ulrich-professional-group",
+  "externalUrl": "https://www.uhhospitals.org/locations/primary-care/uh-ulrich-professional-group?utm_campaign=UH_Ulrich_Professional_Group_401_Devon_Place&utm_source=yext&utm_medium=locallisting&utm_content=website_url",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "401 Devon Pl #215, Kent, OH 44240, USA",
+  "phoneNumber": "+1 330-673-9501",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Kent",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4680178684514973154"
+  },
+  "county": "Portage County",
+  "latLng": [
+    41.1339628,
+    -81.3522617
+  ]
+}

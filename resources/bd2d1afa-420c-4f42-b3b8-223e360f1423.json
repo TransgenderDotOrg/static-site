@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UW Health Transgender Healthcare Services",
+      "description": "Based in Portland, Maine, UW Health specializes in tailored healthcare services for the transgender community. Our approach emphasizes informed consent, working to ensure all our patients are fully aware and comfortable with their care plan. Whether you identify as transmasculine, transfeminine, or non-binary, our team of medical professionals is here to guide you through your journey, providing not just physical health services but mental and social services support too."
+    }
+  },
+  "slug": "uw-health-transgender-healthcare-services-berkeley-oaks",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "bd2d1afa-420c-4f42-b3b8-223e360f1423",
+  "externalUrl": "https://www.uwhealth.org/locations/northport-dr-clinic-120/family-medicine-154",
+  "address": "3209 Dryden Dr, Madison, WI 53704, USA",
+  "phoneNumber": "+1 608-241-9020",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11840392204025764899"
+  },
+  "country": "US",
+  "provinceOrState": "WI",
+  "county": "Dane County",
+  "city": "Berkeley Oaks",
+  "latLng": [
+    43.1289171,
+    -89.3571439
+  ]
+}

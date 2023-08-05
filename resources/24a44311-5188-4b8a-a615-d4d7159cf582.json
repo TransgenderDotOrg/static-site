@@ -1,0 +1,32 @@
+{
+  "id": "24a44311-5188-4b8a-a615-d4d7159cf582",
+  "i18n": {
+    "en-US": {
+      "title": "UCHS Vine Hill Clinic",
+      "description": "UCHS Vine Hill Clinic is a medical clinic serving the Nashville community, including the transgender folks. Our professional staff is empathetic, patient-centered, and experienced in handling health-related concerns, including chronic ailments. We have a wonderful Spanish speaking staff, ensuring we cater to a diverse patient population. Our informed-consent-clinic supports transgender individuals' healthcare needs and promotes their well-being"
+    }
+  },
+  "slug": "uchs-vine-hill-clinic",
+  "externalUrl": "https://maps.google.com/?cid=10962503599351622179",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "601 Benton Ave, Nashville, TN 37204, USA",
+  "phoneNumber": "+1 615-292-9770",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Bransford Avenue",
+  "latLng": [
+    36.1312326,
+    -86.7690531
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10962503599351622179"
+  },
+  "county": "Davidson County"
+}

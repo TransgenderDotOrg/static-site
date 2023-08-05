@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-tracy",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b6c0fa92-b983-4bf6-8062-e1731b95dba0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/tracy/95376/tracy-health-center-3856-90130?utm_campaign=tracy-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1441 N Tracy Blvd, Tracy, CA 95376, USA",
+  "phoneNumber": "+1 209-835-8910",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16762628613270967832"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Joaquin County",
+  "city": "Tracy",
+  "latLng": [
+    37.7447802,
+    -121.4353953
+  ]
+}

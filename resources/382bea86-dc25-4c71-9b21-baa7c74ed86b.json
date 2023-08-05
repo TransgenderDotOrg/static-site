@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-san-diego",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "382bea86-dc25-4c71-9b21-baa7c74ed86b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/_/4036?utm_campaign=first-avenue-specialty-services-michelle-wagner-center&utm_medium=organic&utm_source=local-listing",
+  "address": "San Diego, CA 92101, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=754882703550730101"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "San Diego",
+  "latLng": [
+    32.7107071,
+    -117.1562773
+  ]
+}

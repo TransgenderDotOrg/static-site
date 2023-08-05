@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-king",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fee841de-e1bd-4500-a40f-faf2648059a4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/portland/97212/ne-portland-health-center-3943-91400?utm_campaign=ne-portland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3727 NE Martin Luther King Jr Blvd, Portland, OR 97212, USA",
+  "phoneNumber": "+1 888-875-7820",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2582811585891912515"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Multnomah County",
+  "city": "King",
+  "latLng": [
+    45.5497717,
+    -122.6618707
+  ]
+}

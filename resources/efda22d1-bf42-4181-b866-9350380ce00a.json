@@ -1,0 +1,33 @@
+{
+  "id": "efda22d1-bf42-4181-b866-9350380ce00a",
+  "i18n": {
+    "en-US": {
+      "title": "Bartlett Hall Extension, Massachusetts General Hospital",
+      "description": "A local office within the Massachusetts General Hospital in Boston that offers a range of healthcare services. While specifics on services tailored to the transgender community are not detailed, the hospital is known for its commitment to comprehensive and compassionate care for all."
+    }
+  },
+  "slug": "bartlett-hall-extension-massachusetts-general-hospital",
+  "externalUrl": "https://maps.google.com/?cid=16043070350930784691",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "51-99 Parkman St, Boston, MA 02114, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "West End",
+  "county": "Suffolk County",
+  "latLng": [
+    42.3623279,
+    -71.06799939999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16043070350930784691"
+  }
+}

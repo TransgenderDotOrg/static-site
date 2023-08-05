@@ -1,0 +1,38 @@
+{
+  "id": "d4ae03f8-3d45-44c0-a0eb-44202c55d392",
+  "i18n": {
+    "en-US": {
+      "title": "QMed - Gender-affirming Care for Transgender and Nonbinary Individuals",
+      "description": "QMed provides expert care, supporting the transgender and nonbinary community navigate their journey with confidence and dignity. Offering a range of services such as mental health support groups, voice therapy, patient education, and tracking transgender-related legislation, QMed focuses on personalized, holistic care to celebrate each individual's authentic self."
+    }
+  },
+  "slug": "qmed-gender-affirming-care",
+  "externalUrl": "https://www.queermed.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness",
+    "voice-training"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "215 Church St #102, Decatur, GA 30030, USA",
+  "phoneNumber": "+1 404-445-0350",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Downtown Decatur",
+  "latLng": [
+    33.7720602,
+    -84.2945505
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1429867325753434505"
+  },
+  "county": "Dekalb County"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b6417f0d-76e0-43d2-8693-ced02337a69f",
+  "i18n": {
+    "en-US": {
+      "title": "Community Family Practice",
+      "description": "Community Family Practice offers comprehensive healthcare services to all individuals, including the transgender community. Highly supportive of gender diversity, we consider our clinic a safe space for all, including newborns, prenatal/OB patients, and family members of existing patients. We are an informed consent clinic reinforcing that decision-making is a fundamental patient right. Our team, comprising healthcare providers and support groups, is committed to providing trans-affirmative care to our patients."
+    }
+  },
+  "slug": "community-family-practice",
+  "externalUrl": "http://www.communityfamilyonline.com/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "260 Merrimon Ave #200, Asheville, NC 28801, USA",
+  "phoneNumber": "+18282542444",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Five Points",
+  "latLng": [
+    35.6077531,
+    -82.55422449999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15135015824343687559"
+  },
+  "county": "Buncombe County"
+}

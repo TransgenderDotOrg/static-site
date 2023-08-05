@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-somerset",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b7dee12c-edbc-427d-8ada-47e5bc1c93e6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/somerset/15501/somerset-health-center-2633-91470?utm_campaign=somerset-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "118 S Kimberly Ave #201, Somerset, PA 15501, USA",
+  "phoneNumber": "+1 814-443-6549",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8913315261392112894"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Somerset County",
+  "city": "Somerset",
+  "latLng": [
+    40.0079237,
+    -79.0766422
+  ]
+}

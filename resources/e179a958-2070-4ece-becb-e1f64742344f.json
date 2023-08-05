@@ -1,0 +1,33 @@
+{
+  "id": "e179a958-2070-4ece-becb-e1f64742344f",
+  "i18n": {
+    "en-US": {
+      "title": "Lincoln Community Health Center",
+      "description": "The Lincoln Community Health Center seeks to provide all-inclusive primary and preventive healthcare services in a professional and respectful manner, focusing on the medically underserved. They also feature behavioral health providers, which can assist in handling mental health concerns prevalent in the trans community."
+    }
+  },
+  "slug": "lincoln-community-health-center",
+  "externalUrl": "http://www.lincolnchc.org/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1301 Fayetteville St, Durham, NC 27707, USA",
+  "phoneNumber": "+19199564000",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Hayti District",
+  "county": "Durham County",
+  "latLng": [
+    35.9806127,
+    -78.8978008
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9123203765971101680"
+  }
+}

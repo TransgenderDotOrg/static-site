@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-johnstown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5ce03be2-d0de-4ff2-aeb9-33e8364edeb5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/johnstown/12095/johnstown-center-3530-91110?utm_campaign=johnstown-center&utm_medium=organic&utm_source=local-listing",
+  "address": "400 N Perry St, Johnstown, NY 12095, USA",
+  "phoneNumber": "+1 518-736-1911",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17712100312031566656"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Fulton County",
+  "city": "Johnstown",
+  "latLng": [
+    43.0204518,
+    -74.36850679999999
+  ]
+}

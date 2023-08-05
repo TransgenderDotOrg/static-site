@@ -1,0 +1,32 @@
+{
+  "id": "f620e162-2a02-4d63-8f56-c00956680514",
+  "i18n": {
+    "en-US": {
+      "title": "Chicago Women’s Health Center",
+      "description": "The Chicago Women’s Health Center provides a wide range of health services with an emphasis on affirming and educating clients and students to help them make the best decisions for their health and bodies. The center offers services including gynecology, primary care, trans health services, counselling, health education, acupuncture, bodywork + massage, alternative insemination, pelvic floor therapy and nutrition education. Their services are offered on an affordable sliding scale basis. Unfortunately, the center is currently unable to accept new trans healthcare clients due to limited capacity."
+    }
+  },
+  "slug": "chicago-womens-health-center",
+  "externalUrl": "http://www.chicagowomenshealthcenter.org/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1025 W Sunnyside Ave STE 201, Chicago, IL 606405684, USA",
+  "phoneNumber": "773.935.6126",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Uptown",
+  "latLng": [
+    41.96340439999999,
+    -87.6558534
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=480847454768623201"
+  },
+  "county": "Cook County"
+}

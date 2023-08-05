@@ -1,0 +1,33 @@
+{
+  "id": "8a2f45e5-abb7-47f1-93d9-d1e412650364",
+  "i18n": {
+    "en-US": {
+      "title": "Metro Community Health Center",
+      "description": "Metro Community Health Center provides integrated healthcare tailored for the transgender community, offering services regardless of identity, income, insurance status, or the ability to pay. They offer general medical, mental health and dental care to all patients. They stand against bigotry and racism, affirming all gender identities and provide hormone replacement therapy and other gender-specific medical services."
+    }
+  },
+  "slug": "metro-community-health-center",
+  "externalUrl": "http://www.metrocommunityhealthcenter.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1789 S Braddock Ave #410, Pittsburgh, PA 15218, USA",
+  "phoneNumber": "412-247-2310",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Pittsburgh",
+  "latLng": [
+    40.4244534,
+    -79.88731659999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2141306390109424428"
+  },
+  "county": "Allegheny County"
+}

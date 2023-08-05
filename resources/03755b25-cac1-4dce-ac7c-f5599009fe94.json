@@ -1,0 +1,35 @@
+{
+  "id": "03755b25-cac1-4dce-ac7c-f5599009fe94",
+  "i18n": {
+    "en-US": {
+      "title": "Sugar House Health Center Urgent Care",
+      "description": "The Sugar House Health Center offers urgent care services to all individuals, tailored specifically to include transgender patients. They handle non-life-threatening situations and provide a safe and welcoming environment for individuals of all identities. They provide a range of services from addressing simple ailments to conducting certain essential tests. Additionally, they offer free childcare during appointments and are equipped with technology to facilitate virtual urgent care visits as well."
+    }
+  },
+  "slug": "sugar-house-health-center-urgent-care",
+  "externalUrl": "https://healthcare.utah.edu/locations/sugar-house/urgent-care.php?utm_source=google&utm_medium=yext",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1280 E Stringham Ave, Salt Lake City, UT 84106, USA",
+  "phoneNumber": "+1 801-581-2000",
+  "country": "US",
+  "provinceOrState": "UT",
+  "city": "Sugar House",
+  "county": "Salt Lake County",
+  "latLng": [
+    40.7206665,
+    -111.8549089
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15933463789272853163"
+  }
+}

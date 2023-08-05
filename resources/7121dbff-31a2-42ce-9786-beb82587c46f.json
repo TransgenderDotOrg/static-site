@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kaiser Permanente Health Services",
+      "description": "Kaiser Permanente offers a range of health services tailored to the needs of the transgender community including medical care, mental health support, and wellness resources. Their inclusive environment makes it easy for patients to discuss their concerns, coordinate care, and find the right health solutions."
+    }
+  },
+  "slug": "kaiser-permanente-health-services-anza-vista",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "7121dbff-31a2-42ce-9786-beb82587c46f",
+  "externalUrl": "https://healthy.kaiserpermanente.org/northern-california/facilities/San-Francisco-Medical-Center-100328",
+  "address": "2425 Geary Blvd, San Francisco, CA 94115, USA",
+  "phoneNumber": "+1 415-833-2000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10224845796173486538"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Francisco County",
+  "city": "Anza Vista",
+  "latLng": [
+    37.7824588,
+    -122.4430966
+  ]
+}

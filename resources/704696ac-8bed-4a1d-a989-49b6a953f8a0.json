@@ -1,0 +1,34 @@
+{
+  "id": "704696ac-8bed-4a1d-a989-49b6a953f8a0",
+  "i18n": {
+    "en-US": {
+      "title": "LEAF Weight Management Clinic",
+      "description": "LEAF Weight Management Clinic provides evidence-based weight management solutions by a team of dedicated healthcare professionals. While we're open to all, we create a safe and welcoming environment for transgender people. Our individual approach ensures that we pay attention to each person's unique needs, helping to develop sustainable nutritional practices, balanced activity regimens, and positive thinking about weight."
+    }
+  },
+  "slug": "leaf-weight-management-clinic",
+  "externalUrl": "http://www.leafwmc.com/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1980 Ogilvie Rd, Gloucester, ON K1J 9L3, Canada",
+  "phoneNumber": "+1 613-701-1222",
+  "country": "CA",
+  "provinceOrState": "ON",
+  "city": "Ottawa",
+  "latLng": [
+    45.43161140000001,
+    -75.6108173
+  ],
+  "email": "info@leafwmc.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16738583620000791828"
+  },
+  "county": "Ottawa",
+  "town": "Gloucester"
+}

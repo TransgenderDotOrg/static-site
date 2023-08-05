@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-riverhead",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "34be88c7-bb51-485d-9179-6bb87b06dfee",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/riverhead/11901/riverhead-center-4264-91220?utm_campaign=riverhead-center&utm_medium=organic&utm_source=local-listing",
+  "address": "Riverhead, NY, USA",
+  "phoneNumber": "+1 631-369-0230",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4113639460377400138"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Suffolk County",
+  "city": "Riverhead",
+  "latLng": [
+    40.9170435,
+    -72.66204019999999
+  ]
+}

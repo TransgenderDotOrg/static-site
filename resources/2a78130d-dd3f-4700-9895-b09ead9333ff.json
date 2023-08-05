@@ -1,0 +1,36 @@
+{
+  "id": "2a78130d-dd3f-4700-9895-b09ead9333ff",
+  "i18n": {
+    "en-US": {
+      "title": "Complete Care Health Center",
+      "description": "Complete Care Health Center is a diverse health provider in Medford, OR. Offering a range of services from physical therapy and chiropractic to primary care and hormone balance, their knowledgeable and compassionate staff are committed to providing quality care tailored to each individual's needs. As a committed ally, the clinic takes pride in providing a safe and informed atmosphere for transgender individuals. With respect and understanding, it offers transgender care, establishing a strong foundation for the journey ahead."
+    }
+  },
+  "slug": "complete-care-health-center",
+  "externalUrl": "https://www.completecare.net/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3156 State St, Medford, OR 97504, USA",
+  "phoneNumber": "+1 541-773-9772",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Medford",
+  "latLng": [
+    42.3138602,
+    -122.825234
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13871857399822853657"
+  },
+  "county": "Jackson County"
+}

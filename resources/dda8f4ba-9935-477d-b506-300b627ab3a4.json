@@ -1,0 +1,39 @@
+{
+  "id": "dda8f4ba-9935-477d-b506-300b627ab3a4",
+  "i18n": {
+    "en-US": {
+      "title": "Broadway Youth Center by Howard Brown Health",
+      "description": "Broadway Youth Center by Howard Brown Health is a dedicated service focused on improving the health and well-being of LGBTQ+ youth experiencing homelessness and other underprivileged youth. It provides integrated healthcare, social services, and resource advocacy. Our center provides basic needs assistance, mental wellness support, education, vocational services, and healthcare options like sexual and reproductive health services. We believe in the individuality of each youth and ensure help to navigate their journeys. The center also focuses on gender affirmation hormone therapy for people above 18 years old. We welcome everyone, irrespective of their ability to pay."
+    }
+  },
+  "slug": "broadway-youth-center-howard-brown-health",
+  "externalUrl": "https://howardbrown.org/service/broadway-youth-center/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "1023 W Irving Park Rd, Chicago, IL 60613, USA",
+  "phoneNumber": "+1 773-388-1600",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Lake View East",
+  "latLng": [
+    41.9542252,
+    -87.6555118
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17682493901023559894"
+  },
+  "county": "Cook County"
+}

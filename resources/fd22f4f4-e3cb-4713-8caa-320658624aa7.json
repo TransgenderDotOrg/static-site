@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-alexandria",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "fd22f4f4-e3cb-4713-8caa-320658624aa7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/alexandria/56308/alexandria-health-center-2858-90720?utm_campaign=alexandria-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "700 Cedar St, Alexandria, MN 56308, USA",
+  "phoneNumber": "+1 320-762-0766",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12215513003851542521"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Douglas County",
+  "city": "Alexandria",
+  "latLng": [
+    45.8844204,
+    -95.3841075
+  ]
+}

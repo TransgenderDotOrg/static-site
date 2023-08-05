@@ -1,0 +1,35 @@
+{
+  "id": "bec5df1e-5505-4eae-8a7f-da5920bfad61",
+  "i18n": {
+    "en-US": {
+      "title": "Rutgers New Jersey Medical School",
+      "description": "At Rutgers New Jersey Medical School, inclusivity is a mission, not just an aspiration. With a culture of diversity and empathy, they provide quality healthcare and support the transgender and gender non-conforming community. Services include mental health support, health care, and education awareness. You can expect a team of professionals prepared to provide a variety of resources, with innovative programs ensuring a safe and positive experience."
+    }
+  },
+  "slug": "rutgers-new-jersey-medical-school",
+  "externalUrl": "https://njms.rutgers.edu/",
+  "tags": [
+    "mental-health",
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "185 S Orange Ave, Newark, NJ 07103, USA",
+  "phoneNumber": "+1 732-445-4636",
+  "country": "US",
+  "provinceOrState": "NJ",
+  "city": "University Heights",
+  "county": "Essex County",
+  "latLng": [
+    40.7399028,
+    -74.18875779999999
+  ],
+  "email": "njmsmarketing@njms.rutgers.edu",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7036669582325170395"
+  }
+}

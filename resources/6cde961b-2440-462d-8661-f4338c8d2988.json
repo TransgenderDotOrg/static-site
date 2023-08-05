@@ -1,0 +1,33 @@
+{
+  "id": "6cde961b-2440-462d-8661-f4338c8d2988",
+  "i18n": {
+    "en-US": {
+      "title": "Stoermer Christian H MD",
+      "description": "Stoermer Christian H MD is a dedicated local office that caters to the health needs of the transgender community in a professional and embracing environment. It incorporates an informed-consent clinic, ensuring the autonomy and rights of transgender individuals are respected. With Dr. Stoermer's caring and understanding approach, this clinic is a sturdy pillar of support in the local Las Vegas transgender community."
+    }
+  },
+  "slug": "stoermer-christian-h-md",
+  "externalUrl": "https://maps.google.com/?cid=15421535044683568460",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2110 E Flamingo Rd # 102, Las Vegas, NV 89119, USA",
+  "phoneNumber": "+1 702-836-3366",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Las Vegas",
+  "latLng": [
+    36.1154334,
+    -115.122984
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15421535044683568460"
+  },
+  "county": "Clark County"
+}

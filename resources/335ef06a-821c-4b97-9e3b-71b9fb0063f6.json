@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-tampa",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "335ef06a-821c-4b97-9e3b-71b9fb0063f6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/tampa/33613/north-tampa-health-center-4274-90300?utm_campaign=north-tampa-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "236 E Bearss Ave, Tampa, FL 33613, USA",
+  "phoneNumber": "+1 813-443-9694",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4200623424751111874"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Hillsborough County",
+  "city": "Tampa",
+  "latLng": [
+    28.089476,
+    -82.4580761
+  ]
+}

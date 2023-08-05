@@ -1,0 +1,36 @@
+{
+  "id": "cfbd56dd-8b0d-426d-8c44-e726a57b9912",
+  "i18n": {
+    "en-US": {
+      "title": "Howard Brown Health at La Casa Norte",
+      "description": "Located at Humboldt Park neighborhood of Chicago, our clinic serves the transgender community and other patients with primary care, STI/STD testing, prevention, and more. We also assist with affordable health insurance navigation."
+    }
+  },
+  "slug": "howard-brown-health-at-la-casa-norte",
+  "externalUrl": "https://howardbrown.org/clinic_location/la-casa-norte/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3533 W North Ave, Chicago, IL 60647, USA",
+  "phoneNumber": "+1 773-388-1600 ext. 2878",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Humboldt Park",
+  "county": "Cook County",
+  "latLng": [
+    41.9098152,
+    -87.71578
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16245499685645090257"
+  }
+}

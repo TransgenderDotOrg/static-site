@@ -1,0 +1,36 @@
+{
+  "id": "e2f9662c-adf6-49e6-8896-30661c9434e4",
+  "i18n": {
+    "en-US": {
+      "title": "Avance Care Chapel Hill - Comprehensive Primary Care Practice",
+      "description": "Avance Care Chapel Hill offers a welcoming and safe environment where transmasculine, non-binary, and transfeminine individuals can receive quality healthcare. Besides treating common illnesses and providing preventive care, we also offer specialized services such as behavioral therapy, Nutritional counseling, and Care management. Our team is dedicated to addressing the unique health needs of the transgender community, providing personalized and comprehensive care conveniently accessible for all."
+    }
+  },
+  "slug": "avance-care-chapel-hill-comprehensive-primary-care-practice",
+  "externalUrl": "https://www.avancecare.com/locations/chapel-hill-nc/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1512 E Franklin St #100, Chapel Hill, NC 27514, USA",
+  "phoneNumber": "+1 919-240-7269",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Chapel Hill",
+  "county": "Orange County",
+  "latLng": [
+    35.9312223,
+    -79.0326481
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12267108794846508454"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6f8d4df6-56c9-4641-91bc-ce4c8f32f5e9",
+  "i18n": {
+    "en-US": {
+      "title": "Hart and Arndt Family Health",
+      "description": "Hart and Arndt Family Health is committed to serving individuals and families, with a priority on wellness and health potential maximization. The Clinic is inclusive and tailors services to meet the healthcare needs of the transgender community. Their team includes professionals that respect and understand gender care services, making it a trustworthy healthcare provider for transgender individuals."
+    }
+  },
+  "slug": "hart-and-arndt-family-health",
+  "externalUrl": "http://hartandarndtfamilyhealth.com/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "8055 O St #100, Lincoln, NE 68510, USA",
+  "phoneNumber": "+1 402-488-5972",
+  "country": "US",
+  "provinceOrState": "NE",
+  "city": "Maple Village/ Wedgewood",
+  "latLng": [
+    40.812922,
+    -96.6102169
+  ],
+  "email": "receptionist@hartandarndtfamilyhealth.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5167317221249414141"
+  },
+  "county": "Lancaster County"
+}

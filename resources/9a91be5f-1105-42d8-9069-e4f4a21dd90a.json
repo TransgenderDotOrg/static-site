@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lowville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9a91be5f-1105-42d8-9069-e4f4a21dd90a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/lowville/13367/lowville-center-2882-91210?utm_campaign=lowville-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7389 Turin Rd, Lowville, NY 13367, USA",
+  "phoneNumber": "+1 315-804-6174",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2012498520603201205"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Lewis County",
+  "city": "Lowville",
+  "latLng": [
+    43.7765372,
+    -75.4798911
+  ]
+}

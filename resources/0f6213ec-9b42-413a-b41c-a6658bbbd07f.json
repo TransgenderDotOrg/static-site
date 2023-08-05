@@ -1,0 +1,32 @@
+{
+  "id": "0f6213ec-9b42-413a-b41c-a6658bbbd07f",
+  "i18n": {
+    "en-US": {
+      "title": "Carrboro Pediatrics & Internal Medicine",
+      "description": "At Carrboro Pediatrics & Internal Medicine, we pride ourselves on our commitment to providing comprehensive healthcare for all. Our providers are trained in all major areas of primary care, including pediatrics, internal medicine, and basic well woman care and men’s health. What sets us apart, however, is our dedication to creating an inclusive and welcoming environment for patients of all cultures, religions, and lifestyles, including the transgender community. Our commitment to health promotion, illness prevention, and patient-centered care ensures that you leave our office feeling heard, respected, and valued."
+    }
+  },
+  "slug": "carrboro-pediatrics-internal-medicine",
+  "externalUrl": "http://www.carrboropediatrics.com/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "127 Fidelity St, Carrboro, NC 27510, USA",
+  "phoneNumber": "919-933-8381",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Carrboro",
+  "latLng": [
+    35.9115792,
+    -79.0816565
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1222685765821947511"
+  },
+  "county": "Orange County"
+}

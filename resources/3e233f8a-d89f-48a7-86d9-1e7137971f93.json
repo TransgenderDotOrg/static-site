@@ -1,0 +1,33 @@
+{
+  "id": "3e233f8a-d89f-48a7-86d9-1e7137971f93",
+  "i18n": {
+    "en-US": {
+      "title": "Bellin Health Ashwaubenon - Primary Care for Transgender Community",
+      "description": "Bellin Health Ashwaubenon provides a range of healthcare services from wellness and prevention to helping manage acute and chronic illness. Our medical professionals are committed to keeping your health at its best to ensure you can keep doing the things you love. With a special focus on the unique healthcare needs of the transgender community, the clinic offers dedicated primary care and internal medicine specialists who can provide tailored healthcare solutions."
+    }
+  },
+  "slug": "bellin-health-ashwaubenon-primary-care-for-transgender-community",
+  "externalUrl": "https://care.bellin.org/location/bellin-health-ashwaubenon-green-bay-54313",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1630 Commanche Ave, Green Bay, WI 54313, USA",
+  "phoneNumber": "+1 920-430-4700",
+  "country": "US",
+  "provinceOrState": "WI",
+  "city": "Green Bay",
+  "county": "Brown County",
+  "latLng": [
+    44.49276039999999,
+    -88.10297369999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9456913881297709758"
+  }
+}

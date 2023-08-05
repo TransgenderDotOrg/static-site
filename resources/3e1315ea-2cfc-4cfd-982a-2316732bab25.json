@@ -1,0 +1,35 @@
+{
+  "id": "3e1315ea-2cfc-4cfd-982a-2316732bab25",
+  "i18n": {
+    "en-US": {
+      "title": "Wellstar Family Medicine - Transgender Health Services",
+      "description": "Wellstar Family Medicine in Morrow is dedicated to providing comprehensive, quality healthcare for transgender, non-binary and gender-diverse individuals. Our team of experienced healthcare professionals are committed to delivering medical care that is respectful, affirming and responsive to individual healthcare needs. We specialize in providing primary care and we partner with our patients in their unique health journey."
+    }
+  },
+  "slug": "wellstar-family-medicine-transgender-health-services",
+  "externalUrl": "https://www.wellstar.org/locations/medical-practice/family-medicine-morrow-1000-corporate-center-drive-suite-200",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1000 Corporate Center Dr # 200, Morrow, GA 30260, USA",
+  "phoneNumber": "(770) 968-6464",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Morrow",
+  "latLng": [
+    33.5709957,
+    -84.3330719
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4800702594566180823"
+  },
+  "county": "Clayton County"
+}

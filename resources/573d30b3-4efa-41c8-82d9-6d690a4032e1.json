@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-desert-hot-springs",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "573d30b3-4efa-41c8-82d9-6d690a4032e1",
+  "externalUrl": "https://locations.borregohealth.org/desert-hot-springs-health-and-wellness-center-e832a9f72bd0?y_source=1_MTAxNDIyMTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "11750 Cholla Dr B, Desert Hot Springs, CA 92240, USA",
+  "phoneNumber": "+1 760-251-0044",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4048759157402784778"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Desert Hot Springs",
+  "latLng": [
+    33.963979,
+    -116.5138443
+  ]
+}

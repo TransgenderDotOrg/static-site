@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-new-tacoma",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "407e7a8c-9a23-4c43-92e5-9f74011733b5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/tacoma/98405/tacoma-health-center-4106-91810?utm_campaign=tacoma-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1515 M.L.K. Jr Way, Tacoma, WA 98405, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16510130063195303856"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Pierce County",
+  "city": "New Tacoma",
+  "latLng": [
+    47.247412,
+    -122.4501248
+  ]
+}

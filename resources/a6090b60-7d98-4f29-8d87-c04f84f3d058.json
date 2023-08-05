@@ -1,0 +1,34 @@
+{
+  "id": "a6090b60-7d98-4f29-8d87-c04f84f3d058",
+  "i18n": {
+    "en-US": {
+      "title": "Fosnight Center for Sexual Health",
+      "description": "The Fosnight Center for Sexual Health offers a variety of health care services including sexual medicine, primary care, gender affirming care, mental health therapy, and pelvic health physical therapy. The center is highly knowledgeable about the issues affecting the transgender community and provides gender affirming care with sensitivity and respect. They work collaboratively with other local health care providers to ensure comprehensive and personalized care for every patient."
+    }
+  },
+  "slug": "fosnight-center-for-sexual-health",
+  "externalUrl": "https://fosnightcenter.com/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6 Yorkshire St d, Asheville, NC 28803, USA",
+  "phoneNumber": "+1 828-724-7166",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Asheville",
+  "latLng": [
+    35.5571628,
+    -82.5357915
+  ],
+  "email": "info@fosnightcenter.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1564073122242690718"
+  },
+  "county": "Buncombe County"
+}

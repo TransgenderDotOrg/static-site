@@ -1,0 +1,34 @@
+{
+  "id": "b6816c2d-275e-4e1d-b3f6-30132b534070",
+  "i18n": {
+    "en-US": {
+      "title": "Kaiser Permanente Capitol Hill South Building",
+      "description": "Kaiser Permanente's Capitol Hill South Building is a healthcare facility offering a variety of services including Allergy, Cardiology, Endocrinology, Orthopedics, and Rheumatology. This facility is LGBTQA+ friendly and sensitive to the healthcare needs of the transgender community. This location focuses on providing a safe, inclusive, and comprehensive care environment for transgender individuals. Addressing unique health concerns, from hormone replacement therapy to mental health support."
+    }
+  },
+  "slug": "kaiser-permanente-capitol-hill-south-building",
+  "externalUrl": "https://wa.kaiserpermanente.org/html/public/locations/capitol-hill",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "125 16th Ave E, Seattle, WA 98112, USA",
+  "phoneNumber": "+1 206-326-3530",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Stevens",
+  "latLng": [
+    47.6189453,
+    -122.3122273
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7845111433848934919"
+  },
+  "county": "King County"
+}

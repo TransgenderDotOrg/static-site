@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-south-end",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8e206d0d-320b-4226-8df1-ecc39fc730a1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/burlington/05401/burlington-health-center-2650-91770?utm_campaign=burlington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "173 St Paul St, Burlington, VT 05401, USA",
+  "phoneNumber": "+1 802-863-6326",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1183988975048869603"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Chittenden County",
+  "city": "South End",
+  "latLng": [
+    44.4744392,
+    -73.2140933
+  ]
+}

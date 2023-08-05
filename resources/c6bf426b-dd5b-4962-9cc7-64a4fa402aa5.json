@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northeast-seattle",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c6bf426b-dd5b-4962-9cc7-64a4fa402aa5",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/seattle/98105/university-district-health-center-2532-91810?utm_campaign=university-district-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "5020 Roosevelt Way NE Unit 1, Seattle, WA 98105, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1372893253211553149"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Northeast Seattle",
+  "latLng": [
+    47.66560330000001,
+    -122.3171451
+  ]
+}

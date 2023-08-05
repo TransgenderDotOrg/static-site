@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-minor",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8349d9b1-3164-47c6-8909-a6bb6b5e57e9",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/seattle/98122/central-district-health-center-3309-91810?utm_campaign=central-district-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2001 E Madison St, Seattle, WA 98122, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3741141937733240567"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Minor",
+  "latLng": [
+    47.6172919,
+    -122.3051461
+  ]
+}

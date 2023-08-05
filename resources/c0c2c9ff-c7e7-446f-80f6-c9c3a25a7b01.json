@@ -1,0 +1,33 @@
+{
+  "id": "c0c2c9ff-c7e7-446f-80f6-c9c3a25a7b01",
+  "i18n": {
+    "en-US": {
+      "title": "UVA Family Medicine and Specialty Care Crozet",
+      "description": "The UVA Family Medicine and Specialty Care Crozet is a dedicated healthcare provider offering comprehensive care to the trans community. They provide services such as general healthcare, specialty care, and trans-specific treatments such as hormone therapy. They also offer legal support and connect patients to specialists for comprehensive transgender care. This clinic uses an informed consent model for hormone therapy, respecting the autonomy and decision-making capacity of patients."
+    }
+  },
+  "slug": "uva-family-medicine-and-specialty-care-crozet",
+  "externalUrl": "https://uvahealth.com/locations/profile/uva-family-medicine-and-specialty-care-crozet?utm_source=yext&utm_medium=GMB&y_source=1_MTY4NDQwMjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Family Medicine and Specialty Care Crozet, 375 Four Leaf Ln Suite 103, Charlottesville, VA 22903, USA",
+  "phoneNumber": "+1 434-243-0700",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Clover Lawn Village",
+  "latLng": [
+    38.0519381,
+    -78.681698
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10517193102939248747"
+  },
+  "county": "Albemarle County"
+}

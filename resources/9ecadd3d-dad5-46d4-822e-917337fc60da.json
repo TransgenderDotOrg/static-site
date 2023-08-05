@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-norristown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9ecadd3d-dad5-46d4-822e-917337fc60da",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/norristown/19401/norristown-abortion-center-3952-91460?utm_campaign=norristown-abortion-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1221 Powell St, Norristown, PA 19401, USA",
+  "phoneNumber": "+1 610-279-6095",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1248937707321294545"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Montgomery County",
+  "city": "Norristown",
+  "latLng": [
+    40.1234331,
+    -75.33725299999999
+  ]
+}

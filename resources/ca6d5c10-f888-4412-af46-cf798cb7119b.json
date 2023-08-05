@@ -1,0 +1,32 @@
+{
+  "id": "ca6d5c10-f888-4412-af46-cf798cb7119b",
+  "i18n": {
+    "en-US": {
+      "title": "Beloit Memorial Hospital Heliport",
+      "description": "Beloit Memorial Hospital Heliport serves the transgender community of Beloit, WI, by tending to the unique healthcare needs of transmasculine, transfeminine and non-binary individuals. Although primarily a heliport, this local institution extends its services to provide competent and compassionate healthcare assistance to the transgender community."
+    }
+  },
+  "slug": "beloit-memorial-hospital-heliport",
+  "externalUrl": "https://maps.google.com/?cid=10072208163128783421",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Beloit, WI 53511, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "WI",
+  "city": "Beloit",
+  "county": "Rock County",
+  "latLng": [
+    42.5083482,
+    -89.03177649999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10072208163128783421"
+  }
+}

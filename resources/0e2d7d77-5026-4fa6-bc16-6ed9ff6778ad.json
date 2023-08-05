@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UP Health System",
+      "description": "UP Health System is a local health care provider that offers a wide range of medical services. This organization is dedicated to providing quality health care for everyone in the community, including those in the transgender community. They provide a safe, non-judgmental environment where individuals can receive care that is sensitive to their needs."
+    }
+  },
+  "slug": "up-health-system-marquette",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "0e2d7d77-5026-4fa6-bc16-6ed9ff6778ad",
+  "externalUrl": "https://www.uphealthsystem.com/family-medicine",
+  "address": "1414 W Fair Ave # 36, Marquette, MI 49855, USA",
+  "phoneNumber": "+1 906-449-1010",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9734265062285766039"
+  },
+  "country": "US",
+  "provinceOrState": "MI",
+  "county": "Marquette County",
+  "city": "Marquette",
+  "latLng": [
+    46.55704660000001,
+    -87.4160813
+  ]
+}

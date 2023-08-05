@@ -1,0 +1,34 @@
+{
+  "id": "2ba052b9-f8e9-4094-9f4a-5cc559244ef2",
+  "i18n": {
+    "en-US": {
+      "title": "Maj Medical Clinic - Integrative & Holistic Healthcare",
+      "description": "Maj Medical Clinic is a healthcare provider in Visalia, CA offering a range of treatments with an emphasis on holistic and integrative care. The clinic provides services that include primary care, hypnotherapy, cellular therapy, allergy testing, and many more. To attend to the specific needs of the transgender community, our clinic adopts a patient-focused approach, fostering an environment of understanding, respect, and confidentiality. The skillful integration of western and eastern healing therapies ensures personalized patient care."
+    }
+  },
+  "slug": "maj-medical-clinic-integrative-holistic-healthcare",
+  "externalUrl": "https://medicalclinicvisalia.com/",
+  "tags": [
+    "healthcare",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "5109 W Goshen Ave, Visalia, CA 93291, USA",
+  "phoneNumber": "+1 559-740-7989",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Visalia",
+  "county": "Tulare County",
+  "latLng": [
+    36.3405907,
+    -119.3476068
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7631775176574511474"
+  }
+}

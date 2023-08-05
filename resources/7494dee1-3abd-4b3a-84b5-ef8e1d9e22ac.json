@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-clifton-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7494dee1-3abd-4b3a-84b5-ef8e1d9e22ac",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/clifton-park/12065/clifton-park-center-2781-91110?utm_campaign=clifton-park-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1673 US-9, Clifton Park, NY 12065, USA",
+  "phoneNumber": "+1 518-383-1783",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12499875720533923736"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Saratoga County",
+  "city": "Clifton Park",
+  "latLng": [
+    42.8601505,
+    -73.7638705
+  ]
+}

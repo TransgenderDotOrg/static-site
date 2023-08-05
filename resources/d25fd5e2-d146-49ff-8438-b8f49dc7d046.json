@@ -1,0 +1,32 @@
+{
+  "id": "d25fd5e2-d146-49ff-8438-b8f49dc7d046",
+  "i18n": {
+    "en-US": {
+      "title": "First Priority: Patient-Centered Healthcare in Tulsa",
+      "description": "First Priority, located in Tulsa, OK, provides comprehensive medical and mental health services for all ages. They emphasize patient-centered healthcare with a particular focus on thoroughness and inclusivity, making this clinic an accommodating place for everyone, including the transgender community. Their healthcare services range from pediatric care, dermatology, adult medicine, geriatric medicine, physical fitness, sports medicine, women's health, and mental health. In addition, they offer a proctored Covid home test carried out by trained healthcare professionals."
+    }
+  },
+  "slug": "first-priority-patient-centered-healthcare-in-tulsa",
+  "externalUrl": "http://www.first-priority-mc.com/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Blaine Building, 9820 E 41st St #302, Tulsa, OK 74146, USA",
+  "phoneNumber": "+1 918-398-9663",
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "Tulsa",
+  "latLng": [
+    36.1040174,
+    -95.8672879
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14635846950831632708"
+  },
+  "county": "Tulsa County"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "65eb2942-af3b-4273-8b98-6f40b72e7e3c",
+  "i18n": {
+    "en-US": {
+      "title": "Great Health & Wellness Spot on E Main St",
+      "description": "The facility at 540 E Main St houses variety of services catering the community, including transgender individuals. Sanctuary, a yoga studio, promotes mental wellbeing with inclusive sessions. Sanctuary Smoothies offers healthy nourishment. DawnMD, run by Dr. Shaleah Jones, provides medical services aligned to meet the varying needs of the transgender community. They collectively form an accessible and inclusive space for health and wellness."
+    }
+  },
+  "slug": "great-health-and-wellness-spot-on-e-main-st",
+  "externalUrl": "https://maps.google.com/?q=540+E+Main+St,+Pullman,+WA+99163&ftid=0x549f872191f8804b:0x183cef645ee897c6",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "friendly-businesses"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "540 E Main St, Pullman, WA 99163, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Pullman",
+  "county": "Whitman County",
+  "latLng": [
+    46.7297296,
+    -117.1759097
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=540+E+Main+St,+Pullman,+WA+99163&ftid=0x549f872191f8804b:0x183cef645ee897c6"
+  }
+}

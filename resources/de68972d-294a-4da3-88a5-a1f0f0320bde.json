@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-moreno-valley",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "de68972d-294a-4da3-88a5-a1f0f0320bde",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/moreno-valley/92553/moreno-valley-health-center-2188-90110?utm_campaign=moreno-valley-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "12900 Frederick St STE C, Moreno Valley, CA 92553, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1791052212076653815"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Moreno Valley",
+  "latLng": [
+    33.9326881,
+    -117.2608149
+  ]
+}

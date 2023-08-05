@@ -1,0 +1,33 @@
+{
+  "id": "0a3acda3-2ffa-456c-bee6-37d52c716f01",
+  "i18n": {
+    "en-US": {
+      "title": "Muncie Office - Meridian Women's Health",
+      "description": "Located at 100 N Tillotson Ave, this office offers services such as general women's health, with specialists such as John C Peterson MD, a family practice physician. Though they primarily focus on women's health, they are inclusive and accommodating to the transgender community and individuals in transition. They're committed to providing comprehensive services tailored to the specific needs of transgender individuals, ensuring they receive the appropriate care in a comfortable and welcoming environment."
+    }
+  },
+  "slug": "muncie-office-meridian-women-health",
+  "externalUrl": "https://maps.google.com/?q=100+N+Tillotson+Ave,+Muncie,+IN+47304&ftid=0x88153d3e420aae8d:0x9952db542ce04e52",
+  "tags": [
+    "healthcare",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "100 N Tillotson Ave, Muncie, IN 47304, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "IN",
+  "city": "Westside",
+  "county": "Delaware County",
+  "latLng": [
+    40.19423279999999,
+    -85.4186545
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=100+N+Tillotson+Ave,+Muncie,+IN+47304&ftid=0x88153d3e420aae8d:0x9952db542ce04e52"
+  }
+}

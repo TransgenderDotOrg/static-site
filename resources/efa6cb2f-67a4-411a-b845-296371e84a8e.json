@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Equitas Health",
+      "description": "Equitas Health provides comprehensive healthcare services to the transgender community. Their team of specialists deliver gender-affirming care, mental health & recovery services, and specialized HIV care. We aim to provide a comfortable, inclusive environment where you can receive the care you need in a way that works best for you."
+    }
+  },
+  "slug": "equitas-health-midtown-dayton",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "efa6cb2f-67a4-411a-b845-296371e84a8e",
+  "externalUrl": "https://equitashealth.com/locations/dayton-medical-center/?utm_source=google&utm_medium=local&utm_campaign=Local_Listings&utm_content=DaytonMedCtr",
+  "address": "1222 S Patterson Blvd # 230, Dayton, OH 45402, USA",
+  "phoneNumber": "+1 937-853-3650",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4723017282358332249"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Montgomery County",
+  "city": "Midtown Dayton",
+  "latLng": [
+    39.740628,
+    -84.1896866
+  ]
+}

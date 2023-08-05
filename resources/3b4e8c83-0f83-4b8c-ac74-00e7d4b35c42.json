@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Legacy Community Health",
+      "description": "Legacy Community Health provides broad-ranging healthcare services within Houston, including adult medicine, behavioral health, dental services, endocrinology, HIV/STD screening, LGBTQ services, OB/GYN, pediatrics, senior care, and vaccinations. Their mission is to drive healthy change in the community through service to everyone regardless of their ability to pay."
+    }
+  },
+  "slug": "legacy-community-health-hyde-park",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "non-binary",
+    "transfeminine",
+    "transmasculine",
+    "education-awareness",
+    "youth-services"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "3b4e8c83-0f83-4b8c-ac74-00e7d4b35c42",
+  "externalUrl": "http://www.legacycommunityhealth.org/",
+  "address": "1415 California St, Houston, TX 77006, USA",
+  "phoneNumber": "+1 832-548-5100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6652904184631166970"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Harris County",
+  "city": "Hyde Park",
+  "latLng": [
+    29.7450095,
+    -95.39403689999999
+  ]
+}

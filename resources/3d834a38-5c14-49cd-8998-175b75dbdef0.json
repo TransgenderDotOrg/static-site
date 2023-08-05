@@ -1,0 +1,41 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Northwestern Medicine Health Clinic | Portland, ME",
+      "description": "Northwestern Medicine's Portland office provides a range of comprehensive health services with a deep commitment to the transgender community. Whether it's in legal, healthcare, mental-health, or social-services sector, our expert teams are dedicated to serving the unique needs of the transmasculine, transfeminine and non-binary individuals. With robust support-groups and resources for parents, partners, and youth, our goal is to create an inclusive and respectful environment for all."
+    }
+  },
+  "slug": "northwestern-medicine-health-clinic-las-cruces",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "3d834a38-5c14-49cd-8998-175b75dbdef0",
+  "externalUrl": "http://bahcnm.org/site/about.php",
+  "address": "1998 Motel Blvd, Las Cruces, NM 88007, USA",
+  "phoneNumber": "+1 575-541-5941",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4788400099524403585"
+  },
+  "country": "US",
+  "provinceOrState": "NM",
+  "county": "Doña Ana County",
+  "city": "Las Cruces",
+  "latLng": [
+    32.3251387,
+    -106.8114773
+  ]
+}

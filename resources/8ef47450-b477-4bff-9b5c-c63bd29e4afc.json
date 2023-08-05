@@ -1,0 +1,33 @@
+{
+  "id": "8ef47450-b477-4bff-9b5c-c63bd29e4afc",
+  "i18n": {
+    "en-US": {
+      "title": "UAB - Student Health Services",
+      "description": "The University of Alabama at Birmingham's Student Health Services is an on-campus healthcare resource dedicated to providing primary and specialty care services. The center fosters an encompassing and inclusive environment, providing services for all students inclusive of gender, faith, sexuality, and identity. This includes dedicated resources and support for the transgender community, such as non-discriminatory healthcare provision and support in navigating health insurance related queries."
+    }
+  },
+  "slug": "uab-student-health-services",
+  "externalUrl": "https://www.uab.edu/students/health/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "Learning Resourses Center, 1714 9th Ave S, Birmingham, AL 35294, USA",
+  "phoneNumber": "+1 205-934-3580",
+  "country": "US",
+  "provinceOrState": "AL",
+  "city": "Five Points South",
+  "latLng": [
+    33.5020461,
+    -86.80249669999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10833289856094533737"
+  },
+  "county": "Jefferson County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-river-west",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1c3f1dc2-68dc-4fb9-8216-16eaddb7a005",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/bend/97703/bend-health-center-2373-91400?utm_campaign=bend-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2330 NE Division St #7, Bend, OR 97701, USA",
+  "phoneNumber": "+1 888-875-7820",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13470274556847490130"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Deschutes County",
+  "city": "River West",
+  "latLng": [
+    44.0730271,
+    -121.3050758
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3a5936d9-6ad5-4c04-92be-3c6e4d6792e8",
+  "i18n": {
+    "en-US": {
+      "title": "ISU Family Medicine - Healthcare Services",
+      "description": "ISU Family Medicine offers a plethora of comprehensive health care services tailored to the needs of the transgender community. From regular health checkups, prenatal & newborn care, women's health to behavioral health services, diabetes management and more, the clinic is set up to provide full service, compassionate care irrespective of one's gender identity. The clinic accepts all private insurance including Medicare and Medicaid and offers a sliding fee scale for patients with limited income, advocating better healthcare accessibility."
+    }
+  },
+  "slug": "isu-family-medicine-healthcare-services",
+  "externalUrl": "https://www.isu.edu/clinics/family-medicine/",
+  "tags": [
+    "healthcare",
+    "muxer",
+    "non-binary",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Family Medicine, 465 Memorial Dr, Pocatello, ID 83201, USA",
+  "phoneNumber": "+1 208-234-4700",
+  "country": "US",
+  "provinceOrState": "ID",
+  "city": "Pocatello",
+  "county": "Bannock County",
+  "latLng": [
+    42.8698526,
+    -112.4323182
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8794284340044032068"
+  }
+}

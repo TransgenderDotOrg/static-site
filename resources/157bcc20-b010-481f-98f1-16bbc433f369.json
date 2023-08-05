@@ -1,0 +1,31 @@
+{
+  "id": "157bcc20-b010-481f-98f1-16bbc433f369",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Michael E. Hymbaugh, MD's Office",
+      "description": "Dr. Michael E. Hymbaugh, MD is an Internist that provides healthcare services. The office is located in Baton Rouge."
+    }
+  },
+  "slug": "dr-michael-e-hymbaugh-md-office",
+  "externalUrl": "https://maps.google.com/?cid=9581648107104455023",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "private-practice"
+  ],
+  "address": "4550 North Blvd, Baton Rouge, LA 70806, USA",
+  "phoneNumber": "+1 225-341-5901",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Mid City South",
+  "latLng": [
+    30.4469415,
+    -91.1425204
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9581648107104455023"
+  },
+  "county": "East Baton Rouge Parish"
+}

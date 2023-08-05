@@ -1,0 +1,37 @@
+{
+  "i18n": {
+    "es-MX": {
+      "title": "Centro Ararat",
+      "description": "Centro Ararat ofrece una variedad de servicios de salud sexual, incluyendo pruebas de VIH y consulta PrEP. Nos esforzamos por crear un espacio segura y acogedora para la comunidad transgénero."
+    },
+    "en-US": {
+      "title": "Ararat Center",
+      "description": "Ararat Center provides a variety of sexual health services, including rapid HIV testing and PrEP consultation. We strive to create a safe and welcoming space for the transgender community."
+    }
+  },
+  "slug": "ararat-center-san-juan",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "f5063766-ae35-4594-b44c-7002eea40b4e",
+  "externalUrl": "https://centroararat.org/translucent/",
+  "address": "Av. Manuel Fernández Juncos, San Juan, Puerto Rico",
+  "phoneNumber": "+1 787-296-8888",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8001936545508490269"
+  },
+  "country": "PR",
+  "provinceOrState": "San Juan",
+  "city": "San Juan",
+  "latLng": [
+    18.4522663,
+    -66.0835298
+  ]
+}

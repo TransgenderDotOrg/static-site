@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-north-central",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "beb15582-6070-4dc1-8b5c-be9f5d00e3e9",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/pasadena/91104/pasadena-health-center-3265-90090?utm_campaign=pasadena-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1045 N Lake Ave, Pasadena, CA 91104, USA",
+  "phoneNumber": "+1 626-798-0706",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8406558999735992289"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "North Central",
+  "latLng": [
+    34.1640402,
+    -118.1328057
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-poughkeepsie",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "470f8cd0-e9ec-4307-a34c-f866786c1d83",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/poughkeepsie/12601/poughkeepsie-health-center-2621-91110?utm_campaign=poughkeepsie-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "17 Noxon St, Poughkeepsie, NY 12601, USA",
+  "phoneNumber": "+1 845-562-7800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16475117775415963207"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Dutchess County",
+  "city": "Poughkeepsie",
+  "latLng": [
+    41.7013364,
+    -73.92906769999999
+  ]
+}

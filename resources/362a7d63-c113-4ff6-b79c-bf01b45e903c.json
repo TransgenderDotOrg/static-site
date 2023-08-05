@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-old-irving-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "362a7d63-c113-4ff6-b79c-bf01b45e903c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/greensboro/27408/greensboro-health-center-2846-90860?utm_campaign=greensboro-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1704 Battleground Ave, Greensboro, NC 27408, USA",
+  "phoneNumber": "+1 336-373-0678",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6864112136047127700"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Guilford County",
+  "city": "Old Irving Park",
+  "latLng": [
+    36.0917864,
+    -79.8126149
+  ]
+}

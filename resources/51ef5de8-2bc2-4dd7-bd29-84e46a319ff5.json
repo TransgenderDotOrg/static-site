@@ -1,0 +1,36 @@
+{
+  "id": "51ef5de8-2bc2-4dd7-bd29-84e46a319ff5",
+  "i18n": {
+    "en-US": {
+      "title": "Texas Tech Physicians Clinics",
+      "description": "Texas Tech Physicians Clinics is an academic medical organization that offers a broad range of healthcare services across multiple clinics. They welcome patients from all backgrounds, including the transgender community, and are committed to providing respectful, quality healthcare. Patients can find services that cater to their unique needs, such as endocrinology, psychiatry, gynecology, and internal medicine among others. The organization operates under an informed-consent model of care, ensuring that all patients fully understand and agree to the medical care they receive."
+    }
+  },
+  "slug": "texas-tech-physicians-clinics",
+  "externalUrl": "https://www.texastechphysicians.com/services/clinics.aspx",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "3601 4th St, Lubbock, TX 79415, USA",
+  "phoneNumber": "+1 806-743-2669",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Lubbock",
+  "latLng": [
+    33.5901732,
+    -101.8911847
+  ],
+  "email": "patientservices@ttuhsc.edu",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12262650166724150494"
+  },
+  "county": "Lubbock County"
+}

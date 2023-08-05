@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Johns Hopkins Medicine",
+      "description": "Johns Hopkins Medicine, located in Portland, Maine, is a renowned healthcare provider. We have a diverse team of doctors, researchers, and care providers dedicated to improving health for all through excellence in patient care, research, education, and community service. We are committed to providing inclusive and respectful care for the transgender community and emphasize mental health support, community awareness, and healthcare tailored to individual needs."
+    }
+  },
+  "slug": "johns-hopkins-medicine-frederick-research-park",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "1f442771-3faf-4e3c-a781-6ab694449dae",
+  "externalUrl": "https://www.hopkinsmedicine.org/community_physicians/?utm_source=Google&utm_medium=Organic&utm_campaign=Yext&utm_content=FAD&utm_keyword=JHCP_FRE",
+  "address": "45 Thomas Johnson Dr Suite 109, Frederick, MD 21702, USA",
+  "phoneNumber": "+1 301-696-1000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13090876791610037436"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Frederick County",
+  "city": "Frederick Research Park",
+  "latLng": [
+    39.4542964,
+    -77.4018418
+  ]
+}

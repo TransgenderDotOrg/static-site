@@ -1,0 +1,31 @@
+{
+  "id": "5ea83a3c-5ead-45fd-a3d1-efc2648793f9",
+  "i18n": {
+    "en-US": {
+      "title": "Deborah S. Tuffield, NP",
+      "description": "Deborah S. Tuffield, NP, located in Colorado Springs offers healthcare services to the transgender community, with an emphasis on informed consent. Please note the office is reported to be permanently closed."
+    }
+  },
+  "slug": "deborah-s-tuffield-np",
+  "externalUrl": "https://maps.google.com/?cid=13341303711772664158",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5770 Flintridge Dr, Colorado Springs, CO 80918, USA",
+  "phoneNumber": "+1 719-599-7467",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Colorado Springs",
+  "latLng": [
+    38.9152642,
+    -104.7643544
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13341303711772664158"
+  },
+  "county": "El Paso County"
+}

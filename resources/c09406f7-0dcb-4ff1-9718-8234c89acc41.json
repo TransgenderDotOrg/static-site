@@ -1,0 +1,33 @@
+{
+  "id": "c09406f7-0dcb-4ff1-9718-8234c89acc41",
+  "i18n": {
+    "en-US": {
+      "title": "Oklahoma Children’s Hospital OU Health",
+      "description": "A comprehensive family-centered care unit that provides paediatric services, including a 24/7 paediatric emergency room and a neonatal intensive care unit. Renowned for their innovative surgical procedures and specialty care, Oklahoma Children’s Hospital is inclusive and sensitive to the needs of all children and families, including transmasculine, non-binary, and transfeminine individuals."
+    }
+  },
+  "slug": "oklahoma-childrens-hospital-ou-health",
+  "externalUrl": "https://www.oklahomachildrens.org/",
+  "tags": [
+    "healthcare",
+    "youth-services",
+    "parent-family-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1200 Children's Ave, Oklahoma City, OK 73104, USA",
+  "phoneNumber": "+1 405-271-5437",
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "Central Oklahoma City",
+  "latLng": [
+    35.4812917,
+    -97.4977382
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6325816880667187348"
+  },
+  "county": "Oklahoma County"
+}

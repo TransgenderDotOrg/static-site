@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-memorial-hospital-neighborhood",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e8f2bb7c-afb1-4df0-ba4f-7136b0a5eed4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/santa-rosa/95405/santa-rosa-health-center-3990-90200?utm_campaign=santa-rosa-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1140 Sonoma Ave Ste 3, Santa Rosa, CA 95405, USA",
+  "phoneNumber": "+1 707-527-7656",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9947111423546132148"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Sonoma County",
+  "city": "Memorial Hospital Neighborhood",
+  "latLng": [
+    38.4403225,
+    -122.6994749
+  ]
+}

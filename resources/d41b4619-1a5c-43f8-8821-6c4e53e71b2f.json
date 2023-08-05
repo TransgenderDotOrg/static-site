@@ -1,0 +1,33 @@
+{
+  "id": "d41b4619-1a5c-43f8-8821-6c4e53e71b2f",
+  "i18n": {
+    "en-US": {
+      "title": "Chase Brexton Health Services: Hao Ritche MD",
+      "description": "A healthcare provider offering inclusive and affirming healthcare experience for transgender individuals. Specializes in various medical services including informed consent clinic which is essential in transitioning process."
+    }
+  },
+  "slug": "chase-brexton-health-services-hao-ritche-md",
+  "externalUrl": "https://maps.google.com/?cid=2210984772987682584",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "1001 Cathedral St, Baltimore, MD 21201, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MD",
+  "city": "Downtown",
+  "latLng": [
+    39.3011085,
+    -76.6172177
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2210984772987682584"
+  }
+}

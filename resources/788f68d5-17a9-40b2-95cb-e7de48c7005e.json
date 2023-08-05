@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-terry-sanford",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "788f68d5-17a9-40b2-95cb-e7de48c7005e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/fayetteville/28303/fayetteville-health-center-4173-90860?utm_campaign=fayetteville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4551 Yadkin Rd, Fayetteville, NC 28303, USA",
+  "phoneNumber": "+1 866-942-7762",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10368645799605579796"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Cumberland County",
+  "city": "Terry Sanford",
+  "latLng": [
+    35.0793817,
+    -78.9593603
+  ]
+}

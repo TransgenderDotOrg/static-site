@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Callen-Lorde Community Health Center",
+      "description": "Callen-Lorde is a healthcare provider specializing in LGBTQ health. They offer a comprehensive range of services including Adolescent Health, Behavioral Health, HIV Services, Sexual Health, Transgender health, and Women’s Health. They cater to the unique healthcare needs of the transgender community, providing resources and services in a safe, inclusive, and supportive environment. Callen-Lorde's focus on health justice for the LGBTQ community makes it a vital resource for transgender patients."
+    }
+  },
+  "slug": "callen-lorde-community-health-center-new-york",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "e56ea891-d69f-4813-9313-679cb8ef0659",
+  "externalUrl": "https://www.callen-lorde.org/?utm_source=gmb&utm_medium=Yext",
+  "address": "356 W 18th St, New York, NY 10011, USA",
+  "phoneNumber": "+1 212-271-7200",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15630337017794722726"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "New York County",
+  "city": "New York",
+  "town": "Manhattan",
+  "latLng": [
+    40.7431877,
+    -74.00311099999999
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-willmar",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "58c4469d-753b-45fe-ae48-4eb1b37f1f23",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/willmar/56201/willmar-health-center-2859-90720?utm_campaign=willmar-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2320 US-12 # 6, Willmar, MN 56201, USA",
+  "phoneNumber": "+1 320-235-9150",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8184094431853716544"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Kandiyohi County",
+  "city": "Willmar",
+  "latLng": [
+    45.1243547,
+    -95.01274339999999
+  ]
+}

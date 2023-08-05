@@ -1,0 +1,36 @@
+{
+  "id": "5381122c-5fdb-453d-9930-b350a7d90d83",
+  "i18n": {
+    "en-US": {
+      "title": "A P Medical Group: Comprehensive Healthcare Practice",
+      "description": "A P Medical Group, located in Las Vegas, Nevada, is a leading healthcare practice offering diverse services including allergies, weight loss, hormone therapy, wellness and physicals, amongst others. They pride themselves on being LGBTQ+ friendly, providing quality care tailored to suit the unique health needs of this community, such as HRT for gender transition affirmation. If you're seeking unbiased, safe and comprehensive health care, A P Medical Group is dedicated to supporting you."
+    }
+  },
+  "slug": "ap-medical-group",
+  "externalUrl": "https://www.a-pmedicalgroupnv.com/?utm_source=gmb_auth",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "2110 E Flamingo Rd #100, Las Vegas, NV 89119, USA",
+  "phoneNumber": "+1 702-971-3400",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Las Vegas",
+  "county": "Clark County",
+  "latLng": [
+    36.1153703,
+    -115.1230265
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2449553999881311701"
+  }
+}

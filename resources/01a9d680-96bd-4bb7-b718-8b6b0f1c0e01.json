@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-kennewick",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "01a9d680-96bd-4bb7-b718-8b6b0f1c0e01",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/kennewick/99336/kennewick-health-center-2404-91850?utm_campaign=kennewick-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7426 W Bonnie Pl, Kennewick, WA 99336, USA",
+  "phoneNumber": "+1 866-904-7721",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11843247138179378896"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Benton County",
+  "city": "Kennewick",
+  "latLng": [
+    46.2314735,
+    -119.2219938
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Cedar River Clinics",
+      "description": "Cedar River Clinics provide quality health care in a safe, culturally responsive environment. They offer wellness services, free pregnancy tests, sexually transmitted infections services, insemination services, LGBTQ services, no-scalpel vasectomy, and abortion services, among others. They particularly leverage the informed consent approach for transgender and non-binary care."
+    }
+  },
+  "slug": "cedar-river-clinics-renton",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "b0976fb4-cac7-4fcc-9b5b-2e2001523849",
+  "externalUrl": "http://www.cedarriverclinics.org/",
+  "address": "263 Rainier Ave S #200, Renton, WA 98057, USA",
+  "phoneNumber": "+1 425-255-0471",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9294138482476818381"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Renton",
+  "latLng": [
+    47.4808931,
+    -122.2185765
+  ]
+}

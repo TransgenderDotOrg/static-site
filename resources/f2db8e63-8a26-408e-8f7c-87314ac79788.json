@@ -1,0 +1,37 @@
+{
+  "id": "f2db8e63-8a26-408e-8f7c-87314ac79788",
+  "i18n": {
+    "en-US": {
+      "title": "Pullman Family Medicine",
+      "description": "Pullman Family Medicine is a healthcare provider that is a preferred provider for a wide range of insurance companies. They offer a comprehensive range of services such as in-office surgeries & procedures, laboratory services, maternity care, pediatrics, preventive care, sports medicine, and urgent care. They are also proud to offer healthcare services, resources, and support for members and families of the LGBTQ+ community. Their LGBTQ+ services include trans care, hormone therapy, referrals for surgeries, sexual health, and reproductive and pregnancy care. They aim to create an inclusive and respectful environment in the clinic."
+    }
+  },
+  "slug": "pullman-family-medicine",
+  "externalUrl": "http://pullmanfamilymed.com/",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "915 NE Valley Rd, Pullman, WA 99163, USA",
+  "phoneNumber": "+1 509-332-3548",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Pullman",
+  "latLng": [
+    46.7381858,
+    -117.1673609
+  ],
+  "email": "pfmadminteam@pullmanregional.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14049711891811359572"
+  },
+  "county": "Whitman County"
+}

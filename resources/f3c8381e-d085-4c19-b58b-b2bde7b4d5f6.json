@@ -1,0 +1,34 @@
+{
+  "id": "f3c8381e-d085-4c19-b58b-b2bde7b4d5f6",
+  "i18n": {
+    "en-US": {
+      "title": "Ohio State Outpatient Care East",
+      "description": "The Ohio State Outpatient Care East is an inclusive healthcare center that provides a wide range of medical services tailored to the needs of the transgender community. This includes gender-affirming healthcare, endocrinology, and mental health services, among others. The clinic operates with an understanding that transgender individuals have unique healthcare needs and adapts its services accordingly to ensure they receive the care they need and deserve."
+    }
+  },
+  "slug": "ohio-state-outpatient-care-east",
+  "externalUrl": "https://wexnermedical.osu.edu/locations/outpatient-care-east",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "543 Taylor Ave, Columbus, OH 43203, USA",
+  "phoneNumber": "+1 614-688-6400",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Mount Vernon",
+  "latLng": [
+    39.9786991,
+    -82.9630938
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3747358576280209362"
+  },
+  "county": "Franklin County"
+}

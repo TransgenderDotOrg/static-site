@@ -1,0 +1,32 @@
+{
+  "id": "5a3fa88f-cb7a-4b42-b57f-f9a2d9c52b26",
+  "i18n": {
+    "en-US": {
+      "title": "Revan Health: Inclusive Family Medicine",
+      "description": "Revan Health in Oklahoma City provides comprehensive family medicine for all ages, specializing in providing respectful care for the LGBT+ community, including tailored services for transgender individuals. With on-site pharmacy services through Revan Rx and a commitment to personalized care, Revan Health is a go-to healthcare resource for transgender individuals and their families."
+    }
+  },
+  "slug": "revan-health-inclusive-family-medicine",
+  "externalUrl": "http://www.revanhealth.com/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5601 NW 72nd St #142, Warr Acres, OK 73132, USA",
+  "phoneNumber": "+1 405-896-7975",
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "Central Oklahoma City",
+  "latLng": [
+    35.5451412,
+    -97.6117588
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1927699000684170245"
+  },
+  "county": "Oklahoma County"
+}

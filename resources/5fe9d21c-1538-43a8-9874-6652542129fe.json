@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-san-rafael",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5fe9d21c-1538-43a8-9874-6652542129fe",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-rafael/94901/san-rafael-health-center-4114-90200?utm_campaign=san-rafael-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2 H St, San Rafael, CA 94901, USA",
+  "phoneNumber": "+1 415-459-4907",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9075542582164617325"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Marin County",
+  "city": "San Rafael",
+  "latLng": [
+    37.9743693,
+    -122.5383873
+  ]
+}

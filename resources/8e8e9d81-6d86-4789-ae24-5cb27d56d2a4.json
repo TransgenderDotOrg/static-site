@@ -1,0 +1,32 @@
+{
+  "id": "8e8e9d81-6d86-4789-ae24-5cb27d56d2a4",
+  "i18n": {
+    "en-US": {
+      "title": "Capital Area Health Network",
+      "description": "Capital Area Health Network (CAHN) is a community healthcare provider that offers a plethora of medical services including pediatric care, primary care, dental care, diabetes care, behavioral health, and HIV/AIDS care. Particularly tailoring to the transgender community, CAHN focuses on providing affordable healthcare while promoting inclusivity and individuality, recognizing all gender identities and expressions. Their goal is to eliminate health disparities and improve the quality of life for all clients who step in their office."
+    }
+  },
+  "slug": "capital-area-health-network",
+  "externalUrl": "http://cahealthnet.org/",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2809 North Ave, Richmond, VA 23222, USA",
+  "phoneNumber": "+1 804-780-0840",
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Northern Barton Heights",
+  "latLng": [
+    37.5691012,
+    -77.432591
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11718375681183191334"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-white-plains",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e0282383-6371-4a2a-ae08-a50b19333bf4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/white-plains/10607/white-plains-center-2203-91220?utm_campaign=white-plains-center&utm_medium=organic&utm_source=local-listing",
+  "address": "175 Tarrytown Rd, White Plains, NY 10607, USA",
+  "phoneNumber": "+1 914-761-6566",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10733035513702806496"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Westchester County",
+  "city": "White Plains",
+  "latLng": [
+    41.040343,
+    -73.7885103
+  ]
+}

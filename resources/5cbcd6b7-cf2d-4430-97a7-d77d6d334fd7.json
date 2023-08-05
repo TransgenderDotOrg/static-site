@@ -1,0 +1,35 @@
+{
+  "id": "5cbcd6b7-cf2d-4430-97a7-d77d6d334fd7",
+  "i18n": {
+    "en-US": {
+      "title": "Starland Family Practice",
+      "description": "Starland Family Practice focuses on primary care services in Savannah, particularly for Adolescents (16+) and Adults, with emphasis on the LGBTQ+ community. They strive to provide a safe, non-discriminatory and comfortable environment for everyone. Their range of healthcare services encompass routine health monitoring, treatment and care for HIV, PrEP, diabetes and high blood pressure as well as specialized transgender care including hormones and relevant health check-ups."
+    }
+  },
+  "slug": "starland-family-practice",
+  "externalUrl": "http://starlandfp.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "9100 White Bluff Rd STE 501, Savannah, GA 31406, USA",
+  "phoneNumber": "+1 912-800-1017",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Oakhurst",
+  "latLng": [
+    31.9947147,
+    -81.1244722
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4128493769183837597"
+  },
+  "county": "Chatham County"
+}

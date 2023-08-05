@@ -1,0 +1,34 @@
+{
+  "id": "e67ffaa8-31c2-46e3-a64f-f853d9a52abc",
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood - St. Albans Health Center",
+      "description": "This health center, previously located at 80 Fairfield St, St Albans City, VT 05478, served as an inclusive and LGBTQ+ friendly medical center, offering informed-consent clinic services suitable for the transgender community. However, it is now permanently closed."
+    }
+  },
+  "slug": "planned-parenthood-st-albans-health-center",
+  "externalUrl": "https://maps.google.com/?cid=8550321025804174977",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "LGBTQ-friendly"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "80 Fairfield St, St Albans City, VT 05478, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "VT",
+  "city": "St Albans City",
+  "county": "Franklin County",
+  "latLng": [
+    44.8084457,
+    -73.0782944
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8550321025804174977"
+  }
+}

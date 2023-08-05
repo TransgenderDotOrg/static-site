@@ -1,0 +1,34 @@
+{
+  "id": "bd3dcccc-0b3c-4e84-b511-0f618d769a96",
+  "i18n": {
+    "en-US": {
+      "title": "Trust Women Oklahoma City Clinic",
+      "description": "Trust Women Clinic is a specialized healthcare provider serving the transgender community in Oklahoma City. We provide individualized, affirming, and accessible healthcare services including hormone therapy and other gender-affirming care. Focused on informed consent, we stand strong against legislative restrictions, working with legal partners to protect your rights to access needed care. We work with insurance and provide resources for financial support, striving to be a strong healthcare ally for the transmasculine, non-binary, and transfeminine community members."
+    }
+  },
+  "slug": "trust-women-oklahoma-city-clinic",
+  "externalUrl": "https://trustwomen.org/oklahoma-city/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1240 SW 44th St, Oklahoma City, OK 73109, USA",
+  "phoneNumber": "+1 405-429-7940",
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "Highlander Community South",
+  "latLng": [
+    35.4204624,
+    -97.53878689999999
+  ],
+  "email": "oklahomacity@itrustwomen.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6079223599188765322"
+  },
+  "county": "Oklahoma County"
+}

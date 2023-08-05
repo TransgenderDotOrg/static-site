@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-new-york",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c631ee57-05eb-441f-acca-30c302d5082c",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/new-york/10012/manhattan-health-center-3325-91110?utm_campaign=manhattan-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "26 Bleecker St, New York, NY 10012, USA",
+  "phoneNumber": "+1 212-965-7000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4866880691710646392"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "New York County",
+  "city": "New York",
+  "town": "Manhattan",
+  "latLng": [
+    40.7253719,
+    -73.9936086
+  ]
+}

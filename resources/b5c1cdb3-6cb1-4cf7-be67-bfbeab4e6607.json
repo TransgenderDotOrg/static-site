@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-upper-darby",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b5c1cdb3-6cb1-4cf7-be67-bfbeab4e6607",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/upper-darby/19082/upper-darby-health-center-4094-91460?utm_campaign=upper-darby-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7200 Chestnut St Suite 102, Upper Darby, PA 19082, USA",
+  "phoneNumber": "+1 610-626-9482",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12100597460298849139"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Delaware County",
+  "city": "Upper Darby",
+  "latLng": [
+    39.9593998,
+    -75.26331
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-vista",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "0cec28a2-9fd5-477e-af8d-d0914c5605a6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/vista/92081/vista-isabella-center-4186-90110?utm_campaign=vista-isabella-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1964 Via Centre, Vista, CA 92081, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5571667160764333938"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Vista",
+  "latLng": [
+    33.1837996,
+    -117.2838231
+  ]
+}

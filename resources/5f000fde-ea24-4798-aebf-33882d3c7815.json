@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-villages-of-palm-beach-lakes",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5f000fde-ea24-4798-aebf-33882d3c7815",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/west-palm-beach/33409/west-palm-beach-health-center-2360-90320?utm_campaign=west-palm-beach-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "931 Village Blvd Suite 904 Suite 904, West Palm Beach, FL 33409, USA",
+  "phoneNumber": "+1 561-683-0302",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4489310168508354771"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Palm Beach County",
+  "city": "Villages of Palm Beach Lakes",
+  "latLng": [
+    26.7157054,
+    -80.101889
+  ]
+}

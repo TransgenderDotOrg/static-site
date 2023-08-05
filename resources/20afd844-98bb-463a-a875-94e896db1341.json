@@ -1,0 +1,33 @@
+{
+  "id": "20afd844-98bb-463a-a875-94e896db1341",
+  "i18n": {
+    "en-US": {
+      "title": "Modern Gynecology & Reproductive Health",
+      "description": " Modern Gynecology & Reproductive Health is a comprehensive reproductive health service based in Midtown Memphis, Tennessee. They offer an inclusive and empathetic practice for transgender care. Their services encompass a diverse range, from hormone replacement therapy, to aesthetics, and wellness programs catering to transgender individuals, offering them the health care they need in a comfortable and understanding environment."
+    }
+  },
+  "slug": "modern-gynecology-reproductive-health",
+  "externalUrl": "https://www.moregyn.com/?utm_source=gmb_auth",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1407 Union Ave Suite 1401, Memphis, TN 38104, USA",
+  "phoneNumber": "+1 901-554-4867",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Midtown",
+  "latLng": [
+    35.1359876,
+    -90.01501119999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12324898809532834606"
+  },
+  "county": "Shelby County"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12f5d1ea-bc40-489c-942b-a488f1411ad8",
+  "i18n": {
+    "en-US": {
+      "title": "Elliot Pediatrics and Primary Care at Riverside",
+      "description": "A local healthcare clinic part of the Elliot Health System. Providing inclusive healthcare services to all individuals, the clinic caters to the transgender community by offering dedicated and personalized care. Its providers engage in informed consent model of care for transgender patients."
+    }
+  },
+  "slug": "elliot-pediatrics-and-primary-care-at-riverside",
+  "externalUrl": "https://www.elliothospital.org/website/elliot-pediatrics-and-primary-care-at-riverside.php",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "address": "20 Chambers Dr # 2200, Hooksett, NH 03106, USA",
+  "phoneNumber": "+1 603-641-5386",
+  "country": "US",
+  "provinceOrState": "NH",
+  "city": "Hooksett",
+  "county": "Merrimack County",
+  "latLng": [
+    43.0565202,
+    -71.43852609999999
+  ],
+  "email": "null",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12315730636758703003"
+  }
+}

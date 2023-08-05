@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-north-perry",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "06964a50-4ef9-4fdb-a49b-5e5d384d5125",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/indianapolis/46227/southside-health-center-2872-91810?utm_campaign=southside-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "935 E Hanna Ave a, Indianapolis, IN 46227, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3153307860567861262"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "Marion County",
+  "city": "North Perry",
+  "latLng": [
+    39.7078266,
+    -86.14335299999999
+  ]
+}

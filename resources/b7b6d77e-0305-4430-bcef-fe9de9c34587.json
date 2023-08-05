@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-friday-harbor",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b7b6d77e-0305-4430-bcef-fe9de9c34587",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/friday-harbor/98250/friday-harbor-health-center-san-juan-island-2844-91780?utm_campaign=friday-harbor-health-center-san-juan-island&utm_medium=organic&utm_source=local-listing",
+  "address": "470 Reed St #2a, Friday Harbor, WA 98250, USA",
+  "phoneNumber": "+1 877-714-1149",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8783704043081088103"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "San Juan County",
+  "city": "Friday Harbor",
+  "latLng": [
+    48.5349402,
+    -123.0202166
+  ]
+}

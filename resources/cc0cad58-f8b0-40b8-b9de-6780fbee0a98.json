@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-apple-valley",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "cc0cad58-f8b0-40b8-b9de-6780fbee0a98",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/apple-valley/55124/apple-valley-health-center-3091-90720?utm_campaign=apple-valley-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "15322 Galaxie Ave #105, Apple Valley, MN 55124, USA",
+  "phoneNumber": "+1 952-890-0940",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3131828032328798912"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Dakota County",
+  "city": "Apple Valley",
+  "latLng": [
+    44.726948,
+    -93.206991
+  ]
+}

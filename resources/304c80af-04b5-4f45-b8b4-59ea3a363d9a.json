@@ -1,0 +1,34 @@
+{
+  "id": "304c80af-04b5-4f45-b8b4-59ea3a363d9a",
+  "i18n": {
+    "en-US": {
+      "title": "UNM Truman Health Services",
+      "description": "UNM Truman Health Services, located in Albuquerque, NM, offers a caring and professional environment for the transgender community. Providing healthcare services tailored to the unique needs of transgender patients, they are committed to patient-centered care. Their clinicians, who specialize in informed consent, offer a range of services, acknowledging and appreciating the diversity and worth of every person."
+    }
+  },
+  "slug": "unm-truman-health-services",
+  "externalUrl": "https://maps.google.com/?cid=3189359259805901959",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "801 Encino Pl NE, Albuquerque, NM 87102, USA",
+  "phoneNumber": "+1 505-272-1312",
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "Valmonte Acres",
+  "latLng": [
+    35.0902279,
+    -106.632161
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3189359259805901959"
+  },
+  "county": "Bernalillo County"
+}

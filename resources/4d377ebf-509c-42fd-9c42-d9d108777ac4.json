@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-sunnyland",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "4d377ebf-509c-42fd-9c42-d9d108777ac4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/bellingham/98225/bellingham-health-center-2454-91780?utm_campaign=bellingham-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1530 Ellis St, Bellingham, WA 98225, USA",
+  "phoneNumber": "+1 877-714-1149",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14105262529928165855"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Whatcom County",
+  "city": "Sunnyland",
+  "latLng": [
+    48.7504526,
+    -122.4712678
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ebb48721-c65e-4993-8f97-1d173b203286",
+  "i18n": {
+    "en-US": {
+      "title": "AIDS Outreach Center (AOC)",
+      "description": "The AIDS Outreach Center (AOC) is a nonprofit organization dedicated to providing free and low-cost services to individuals living with HIV. They take an approach of outreach, prevention, and community information programs, and provide a variety of support services including a dental clinic, food pantry, and mental health support. Additionally, they have a Peer Advocacy Program to provide extra assistance to clients struggling with care and offer PrEP services for HIV prevention. Understanding the unique needs of the HIV positive transgender community, they offer specific Trans Wellness Services. Through education, prevention, and support, AOC fights against the stigma and fears surrounding HIV and AIDS."
+    }
+  },
+  "slug": "aids-outreach-center",
+  "externalUrl": "http://www.aoc.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "social-services"
+  ],
+  "organizationType": [
+    "non-profit-organization",
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "400 N Beach St, Fort Worth, TX 76111, USA",
+  "phoneNumber": "817.335.1994",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Fort Worth",
+  "latLng": [
+    32.7697069,
+    -97.2868884
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2337430442879423768"
+  },
+  "county": "Tarrant County"
+}

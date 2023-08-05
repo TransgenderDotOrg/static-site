@@ -1,0 +1,33 @@
+{
+  "id": "4f79d77f-78a5-4c95-b816-9d36c2e5b53e",
+  "i18n": {
+    "en-US": {
+      "title": "ProActive Wellness Centre",
+      "description": "Committed to providing tailored healthcare services to transgender community, the ProActive Wellness Centre is a private healthcare provider in Newfoundland and Labrador with various other locations across Canada. The Centre includes a variety of specialized healthcare services encompassing physical rehab, dermatology, psychiatry and pediatric care; all readily accessible to the public. The Centre upholds a holistic approach to healthcare, ensuring a trans-friendly environment for the community while expanding accessible healthcare services throughout the country."
+    }
+  },
+  "slug": "proactive-wellness-centre",
+  "externalUrl": "https://www.proactivewp.ca/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "117 Ropewalk Ln, St. John's, NL A1E 1W5, Canada",
+  "phoneNumber": "+1 709-722-9165",
+  "country": "CA",
+  "provinceOrState": "NL",
+  "city": "Central St. John's",
+  "latLng": [
+    47.5550103,
+    -52.7357209
+  ],
+  "email": "info@proactivewp.ca",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5811948788571316033"
+  }
+}

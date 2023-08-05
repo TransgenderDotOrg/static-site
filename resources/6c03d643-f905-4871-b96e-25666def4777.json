@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hayward",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6c03d643-f905-4871-b96e-25666def4777",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/hayward/94541/hayward-health-center-4150-90130?utm_campaign=hayward-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1032 A St, Hayward, CA 94541, USA",
+  "phoneNumber": "+1 510-300-3800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13066087731561249020"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Alameda County",
+  "city": "Hayward",
+  "latLng": [
+    37.674595,
+    -122.083445
+  ]
+}

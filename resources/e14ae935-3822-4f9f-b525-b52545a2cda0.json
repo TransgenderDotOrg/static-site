@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-university-district",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e14ae935-3822-4f9f-b525-b52545a2cda0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/columbus/43201/north-columbus-health-center-2717-91230?utm_campaign=north-columbus-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "18 E 17th Ave, Columbus, OH 43201, USA",
+  "phoneNumber": "+1 614-222-3604",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16258231241968471906"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Franklin County",
+  "city": "University District",
+  "latLng": [
+    40.0021092,
+    -83.00784379999999
+  ]
+}

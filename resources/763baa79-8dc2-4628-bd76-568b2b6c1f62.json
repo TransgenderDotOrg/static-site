@@ -1,0 +1,36 @@
+{
+  "id": "763baa79-8dc2-4628-bd76-568b2b6c1f62",
+  "i18n": {
+    "en-US": {
+      "title": "Leeton Medical Centre",
+      "description": "Leeton Medical Centre, located at 11 Wade Avenue, offers a variety of healthcare services with an emphasis on inclusive care, catering specifically to the needs of the transgender community, including transmasculine, transfeminine and non-binary individuals. The centre fosters a supportive and accepting environment, assisting with healthcare and mental health needs."
+    }
+  },
+  "slug": "leeton-medical-centre",
+  "externalUrl": "http://www.leetonmedicalcentre.com.au/index.html",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "11 Wade Ave, Leeton NSW 2705, Australia",
+  "phoneNumber": "+(02) 6953 2699",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Leeton",
+  "latLng": [
+    -34.5523467,
+    146.404873
+  ],
+  "email": "reception@leetonmedicalcentre.com.au",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15269583319163844061"
+  },
+  "county": "Leeton"
+}

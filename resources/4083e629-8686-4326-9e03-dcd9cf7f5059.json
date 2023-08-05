@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-derry",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "4083e629-8686-4326-9e03-dcd9cf7f5059",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-hampshire/derry/03038/derry-health-center-2742-91770?utm_campaign=derry-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4 Birch St, Derry, NH 03038, USA",
+  "phoneNumber": "+1 603-434-1354",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16754861130117637959"
+  },
+  "country": "US",
+  "provinceOrState": "NH",
+  "county": "Rockingham County",
+  "city": "Derry",
+  "latLng": [
+    42.8814563,
+    -71.3234411
+  ]
+}

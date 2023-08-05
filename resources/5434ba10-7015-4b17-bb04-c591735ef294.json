@@ -1,0 +1,36 @@
+{
+  "id": "5434ba10-7015-4b17-bb04-c591735ef294",
+  "i18n": {
+    "en-US": {
+      "title": "Wayne Health Care Services",
+      "description": "Wayne Health provides healthcare services tailored to the transgender community, offering over 400 dedicated physicians and advanced practice providers in 50 medical specialties. With an emphasis on early intervention, including screenings and preventive care, Wayne Health addresses physical, behavioral, and social factors to promote a healthy life for transmasculine, transfeminine, and non-binary individuals. Community support resources and social services are available, coupled with accessibility through Wayne Health Mobile Unit."
+    }
+  },
+  "slug": "wayne-health-care-services",
+  "externalUrl": "http://waynehealthcares.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "University Health Center, 4201 St Antoine, Detroit, MI 48201, USA",
+  "phoneNumber": "+1 877-929-6342",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Medical Center",
+  "county": "Wayne County",
+  "latLng": [
+    42.3535426,
+    -83.055094
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16281482132059156194"
+  }
+}

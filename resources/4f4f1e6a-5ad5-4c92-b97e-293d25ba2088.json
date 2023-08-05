@@ -1,0 +1,33 @@
+{
+  "id": "4f4f1e6a-5ad5-4c92-b97e-293d25ba2088",
+  "i18n": {
+    "en-US": {
+      "title": "Barnes-Jewish Hospital Ophthalmology Services",
+      "description": "Barnes-Jewish Hospital's Ophthalmology Services offer comprehensive eye care to all individuals, including those in the transgender community. The physicians understand the unique eye care needs of transgender patients and are committed to providing safe, respectful, and comprehensive care."
+    }
+  },
+  "slug": "barnes-jewish-hospital-ophthalmology-services",
+  "externalUrl": "http://www.barnesjewish.org/Medical-Services/Ophthalmology",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4921 Parkview Pl #12c, St. Louis, MO 63110, USA",
+  "phoneNumber": "+1 314-362-3937",
+  "country": "US",
+  "provinceOrState": "MO",
+  "city": "Central West End",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15847836014757302744"
+  },
+  "latLng": [
+    38.6383181,
+    -90.26320679999999
+  ]
+}

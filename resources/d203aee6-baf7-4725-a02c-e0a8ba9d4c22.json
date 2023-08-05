@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-east-arlington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d203aee6-baf7-4725-a02c-e0a8ba9d4c22",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/arlington/76015/arlington-health-center-2244-91620?utm_campaign=arlington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3701 S Cooper St #235, Arlington, TX 76015, USA",
+  "phoneNumber": "+1 817-472-8196",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8583758059210735519"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Tarrant County",
+  "city": "East Arlington",
+  "latLng": [
+    32.6857313,
+    -97.1304264
+  ]
+}

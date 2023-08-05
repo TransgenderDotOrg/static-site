@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lansing",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7d588c4b-21fd-4438-b39c-f82a7a3bb22b",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/michigan/lansing/48912/lansing-health-center-2785-90630?utm_campaign=lansing-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "300 N Clippert St Suite 6, Lansing, MI 48912, USA",
+  "phoneNumber": "+1 517-351-0550",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17271973088067572995"
+  },
+  "country": "US",
+  "provinceOrState": "MI",
+  "county": "Ingham County",
+  "city": "Lansing",
+  "latLng": [
+    42.7364283,
+    -84.50775809999999
+  ]
+}

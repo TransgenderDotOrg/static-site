@@ -1,0 +1,33 @@
+{
+  "id": "4a635b65-e986-4eb6-b7f1-5297f83fa1b3",
+  "i18n": {
+    "en-US": {
+      "title": "Alamo Area Resource Center",
+      "description": "Located at 303 N Frio St, San Antonio, TX 78207, The Alamo Area Resource Center is a multi-faceted resource providing crucial services to the transgender community. It offers a Health Equity Clinic providing healthcare services tailored for the unique needs of the transgender community. It also houses Avita Pharmacy ensuring convenient access to required medication. As an informed consent clinic, it assists transgender individuals in ensuring that they can give informed consent for their procedures."
+    }
+  },
+  "slug": "alamo-area-resource-center",
+  "externalUrl": "https://maps.google.com/?q=303+N+Frio+St,+San+Antonio,+TX+78207&ftid=0x865c5f4a4a3407cf:0x76afb9ebba975f2c",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "303 N Frio St, San Antonio, TX 78207, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Cattleman Square",
+  "county": "Bexar County",
+  "latLng": [
+    29.428242,
+    -98.5039288
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=303+N+Frio+St,+San+Antonio,+TX+78207&ftid=0x865c5f4a4a3407cf:0x76afb9ebba975f2c"
+  }
+}

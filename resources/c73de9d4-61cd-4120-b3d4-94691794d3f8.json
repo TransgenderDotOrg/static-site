@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-woodland",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c73de9d4-61cd-4120-b3d4-94691794d3f8",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/woodland/95695/woodland-health-center-2375-90130?utm_campaign=woodland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "520 Cottonwood St # 10, Woodland, CA 95695, USA",
+  "phoneNumber": "+1 530-662-4646",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6551617750971897937"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Yolo County",
+  "city": "Woodland",
+  "latLng": [
+    38.6749645,
+    -121.7938787
+  ]
+}

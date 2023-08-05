@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lake-bentley",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9db84f7d-0282-4392-996f-93affeb7cbe2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/lakeland/33803/lakeland-health-center-2214-90300?utm_campaign=lakeland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2250 E Edgewood Dr, Lakeland, FL 33803, USA",
+  "phoneNumber": "+1 863-665-5735",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=558500910738529819"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Polk County",
+  "city": "Lake Bentley",
+  "latLng": [
+    28.0138409,
+    -81.9162918
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "PeaceHealth - Personalized Healthcare Provider",
+      "description": "PeaceHealth aims to bring personalized healthcare for everyone, respecting the uniqueness of each individual. We provide comprehensive care services, including primary and specialty care, and ensure access to reliable health information. Focused particularly on serving the transgender community, we strive to offer a safe, comfortable and inclusive environment. Our facility underlines the significance of understanding, acceptance, and full-fledged support to make high-quality healthcare accessible for all."
+    }
+  },
+  "slug": "peacehealth-personalized-healthcare-provider-fisher-s-landing-east",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "ae6f1542-7ce6-4501-ad71-0bd2abcc13a8",
+  "externalUrl": "https://www.peacehealth.org/locations/vancouver/peacehealth-family-medicine-fishers-landing?utm_source=gbp&utm_medium=organic&utm_content=COL02&utm_campaign=gmb",
+  "address": "16811 SE McGillivray Blvd #101, Vancouver, WA 98683, USA",
+  "phoneNumber": "+1 360-735-8100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7831281717840295560"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Clark County",
+  "city": "Fisher's Landing East",
+  "latLng": [
+    45.604797,
+    -122.4979799
+  ]
+}

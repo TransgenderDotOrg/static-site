@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-decatur",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "8bfc05c2-c666-4391-adcf-c3f59e80f3ff",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/decatur/62526/decatur-health-center-3282-90430?utm_campaign=decatur-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3021 N Oakland Ave, Decatur, IL 62526, USA",
+  "phoneNumber": "+1 217-877-6474",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16770915661324997654"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Macon County",
+  "city": "Decatur",
+  "latLng": [
+    39.8772196,
+    -88.9743324
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bec0de67-cc7c-426f-952b-65bfa0aef62d",
+  "i18n": {
+    "en-US": {
+      "title": "Howard Brown Health: Clark Street Location",
+      "description": "Howard Brown Health is a clinic serving the LGBTQ community, with a particular emphasis on transgender health and well-being. The Clark Street office in Chicago offers a multitude of services, from general health to mental health, substance recovery, and sexual health. They offer specialized services tailored to the needs of the transgender community, including insurance navigation, gender-affirming care, STI prevention, and HIV support services. They aim to provide safe, respectful, and comprehensive care to all."
+    }
+  },
+  "slug": "howard-brown-health-clark-street",
+  "externalUrl": "https://howardbrown.org/clinic_location/clark-street/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "6500 N Clark St, Chicago, IL 60626, USA",
+  "phoneNumber": "+1 773-388-1600",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Rogers Park",
+  "latLng": [
+    41.9999713,
+    -87.67159769999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4104177539025521245"
+  },
+  "county": "Cook County"
+}

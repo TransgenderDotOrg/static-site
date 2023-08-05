@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Equitas Health",
+      "description": "Equitas Health provides comprehensive healthcare services to the transgender community. Their team of specialists deliver gender-affirming care, mental health & recovery services, and specialized HIV care. We aim to provide a comfortable, inclusive environment where you can receive the care you need in a way that works best for you."
+    }
+  },
+  "slug": "equitas-health-walnut-hills",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "aca40716-4d3d-4c66-8987-d5f5ab9da437",
+  "externalUrl": "https://equitashealth.com/locations/cincinnati-medical-center/?utm_source=google&utm_medium=local&utm_campaign=Local_Listings&utm_content=CINMedCtr",
+  "address": "2805 Gilbert Ave, Cincinnati, OH 45206, USA",
+  "phoneNumber": "+1 513-815-4475",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6636013822008664380"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Hamilton County",
+  "city": "Walnut Hills",
+  "latLng": [
+    39.1300167,
+    -84.4888457
+  ]
+}

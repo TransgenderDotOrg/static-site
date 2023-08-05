@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Cowlitz Family Health Center - Comprehensive Health Services",
+      "description": "Committed to cater to the health care needs of the transgender community, Cowlitz Family Health Center provides an inclusive and compassionate care environment. It offers primary and preventative medical care, chronic disease management, family planning, and more, consciously acknowledging and addressing the unique health issues faced by transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "cowlitz-family-health-center-comprehensive-health-services-woodland",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "537f3720-0191-4061-8637-1191920e1b58",
+  "externalUrl": "http://cowlitzfamilyhealth.org/",
+  "address": "1251 Lewis River Rd d, Woodland, WA 98674, USA",
+  "phoneNumber": "+1 360-225-4310",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17384288878479480070"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Cowlitz County",
+  "city": "Woodland",
+  "latLng": [
+    45.9084561,
+    -122.7407813
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f2c8f803-b6e5-4885-a012-dc89ee9e9aba",
+  "i18n": {
+    "en-US": {
+      "title": "KU Wichita Internal Medicine Midtown Clinic",
+      "description": "KU Wichita Internal Medicine Midtown Clinic is a health care provider that specializes in Internal Medicine and HIV treatment. It also provides comprehensive health care services tailored to meet the unique needs of the transgender community. Services include transgender health care, HIV care, STDs, PEP, PREP, and hepatitis care. The clinic also embraces diversity and inclusion, making them an excellent healthcare option for individuals across all spectrums of gender and sexuality."
+    }
+  },
+  "slug": "ku-wichita-internal-medicine-midtown-clinic",
+  "externalUrl": "https://kuwichitaim.com/midtown-clinic/providers/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1001 N Minneapolis St, Wichita, KS 67214, USA",
+  "phoneNumber": "+1 316-293-1840 ",
+  "country": "US",
+  "provinceOrState": "KS",
+  "city": "North Central",
+  "latLng": [
+    37.701543,
+    -97.31557199999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=475722350048257043"
+  },
+  "county": "Sedgwick County"
+}

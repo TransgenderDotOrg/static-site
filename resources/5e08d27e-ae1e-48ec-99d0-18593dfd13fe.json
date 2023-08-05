@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fairbanks",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5e08d27e-ae1e-48ec-99d0-18593dfd13fe",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/alaska/fairbanks/99701/fairbanks-health-center-2603-91810?utm_campaign=fairbanks-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1867 Airport Way #160b, Fairbanks, AK 99701, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6230473516928807464"
+  },
+  "country": "US",
+  "provinceOrState": "AK",
+  "county": "Fairbanks North Star Borough",
+  "city": "Fairbanks",
+  "latLng": [
+    64.83569849999999,
+    -147.7566155
+  ]
+}

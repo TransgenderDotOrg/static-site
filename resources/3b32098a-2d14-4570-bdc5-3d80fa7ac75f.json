@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-st-peters",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "3b32098a-2d14-4570-bdc5-3d80fa7ac75f",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/saint-peters/63376/st-peters-health-center-2709-90770?utm_campaign=st-peters-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "208 Mid Rivers Center, St Peters, MO 63376, USA",
+  "phoneNumber": "+1 636-279-3339",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11728218683366327552"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "St Charles County",
+  "city": "St Peters",
+  "latLng": [
+    38.7922539,
+    -90.6180294
+  ]
+}

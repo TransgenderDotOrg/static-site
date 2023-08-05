@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "UofL Health Provider",
+      "description": "UofL Health is a comprehensive healthcare provider serving all communities, including the transgender community in Louisville and surrounding areas. With a diverse team of healthcare professionals and an environment focused on compassionate, patient-centered care, UofL Health is committed to meeting the unique healthcare needs of the transgender population. They offer specialty care services, including mental health services, and have dedicated programs and resources tailored specifically to address and support gender health concerns."
+    }
+  },
+  "slug": "uofl-health-provider-hazelwood",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "f9686e36-72a8-41ff-baa5-6e37b8f09551",
+  "externalUrl": "https://uoflhealth.org/provider/carrie-thonen/",
+  "address": "4331 Churchman Ave, Louisville, KY 40215, USA",
+  "phoneNumber": "+1 502-977-5907",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12199130430043915912"
+  },
+  "country": "US",
+  "provinceOrState": "KY",
+  "county": "Jefferson County",
+  "city": "Hazelwood",
+  "latLng": [
+    38.1783508,
+    -85.79225459999999
+  ]
+}

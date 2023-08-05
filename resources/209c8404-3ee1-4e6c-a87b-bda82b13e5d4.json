@@ -1,0 +1,33 @@
+{
+  "id": "209c8404-3ee1-4e6c-a87b-bda82b13e5d4",
+  "i18n": {
+    "en-US": {
+      "title": "Milford Primary Care Associates - Inclusive Healthcare",
+      "description": "At Milford Primary Care Associates, we are dedicated to providing comprehensive, primary health care to all individuals regardless of their gender identity. Our diverse team offers respectful, empathetic care and our services range from early detection of diseases, managing chronic conditions to acute health issues. We follow an informed consent model making sure you are at the centre of all your healthcare decisions."
+    }
+  },
+  "slug": "milford-primary-care-associates-inclusive-healthcare",
+  "externalUrl": "http://www.milfordprimarycare.com/",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "301 Jefferson Ave, Milford, DE 19963, USA",
+  "phoneNumber": "(302) 536-2580",
+  "country": "US",
+  "provinceOrState": "DE",
+  "city": "Milford",
+  "county": "Sussex County",
+  "latLng": [
+    38.9098135,
+    -75.43140009999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1580326979297827958"
+  }
+}

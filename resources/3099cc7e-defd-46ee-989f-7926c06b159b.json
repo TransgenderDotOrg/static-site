@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Chase Brexton Health Services",
+      "description": "Chase Brexton Health Services is an inclusive healthcare provider offering a broad range of services that especially cater to the transgender community. Among these services are therapy, Gender Affirming Care, and a variety of health management programs. They have created an empathetic environment that addresses the unique healthcare needs of transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "chase-brexton-health-services-south-gate",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "3099cc7e-defd-46ee-989f-7926c06b159b",
+  "externalUrl": "http://www.chasebrexton.org/about-us/locations/glen-burnie?utm_source=GMBSocialClimb&utm_medium=ChaseBrextonHealthCare-GlenBurnieCenter",
+  "address": "200 Hospital Dr #300, Glen Burnie, MD 21061, USA",
+  "phoneNumber": "+1 410-837-2050",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10020786071434612704"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Anne Arundel County",
+  "city": "South Gate",
+  "latLng": [
+    39.1386294,
+    -76.6201375
+  ]
+}

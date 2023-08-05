@@ -1,0 +1,35 @@
+{
+  "id": "30e43ffb-cea7-47a9-86cf-3dc37ddf1a58",
+  "i18n": {
+    "en-US": {
+      "title": "Central Valley OB/GYN Medical Group",
+      "description": "A patient-focused medical group in Central Valley, offering extensive OB/GYN care, catering services to all women including the transgender community. Our experienced team understands the unique needs and sensitivities of transmasculine, transfeminine and non-binary individuals. We provide tailored healthcare services to ensure seamless and positive patient experience."
+    }
+  },
+  "slug": "central-valley-obgyn-medical-group",
+  "externalUrl": "http://www.centralvalleyobgyn.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "110 N Valeria St #505, Fresno, CA 93701, USA",
+  "phoneNumber": "+1 559-266-8989",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Downtown",
+  "county": "Fresno County",
+  "latLng": [
+    36.7441581,
+    -119.7845698
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1404713925221543000"
+  }
+}

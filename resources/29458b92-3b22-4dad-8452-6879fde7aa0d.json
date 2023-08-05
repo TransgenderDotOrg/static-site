@@ -1,0 +1,35 @@
+{
+  "id": "29458b92-3b22-4dad-8452-6879fde7aa0d",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Marlowe's Weight Loss Institute",
+      "description": "Dr. Marlowe's Weight Loss Institute in Charlotte, North Carolina offers a unique and flexible approach to weight loss, providing personalized diet plans, weight loss medications, and support for obstacles to weight loss. It caters to a diverse clientele, including the transgender community, by offering tailored treatment plans that aim to optimize physical health and align with individual lifestyle factors and medical needs. The clinic is proud to take a holistic and individualized approach to healthcare and weight loss, recognizing the importance of specific needs and circumstances."
+    }
+  },
+  "slug": "dr-marlowes-weight-loss-institute",
+  "externalUrl": "https://marlowesweightloss.com/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "411 Billingsley Rd STE 104, Charlotte, NC 28211, USA",
+  "phoneNumber": "+1 704-348-4000",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Grier Heights",
+  "latLng": [
+    35.1910265,
+    -80.805329
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4712942151111837187"
+  },
+  "county": "Mecklenburg County"
+}

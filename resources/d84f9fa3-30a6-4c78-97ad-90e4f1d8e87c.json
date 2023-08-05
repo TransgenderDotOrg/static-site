@@ -1,0 +1,34 @@
+{
+  "id": "d84f9fa3-30a6-4c78-97ad-90e4f1d8e87c",
+  "i18n": {
+    "en-US": {
+      "title": "headspace Gosford- Mental Health Support Center",
+      "description": "headspace Gosford is a dedicated support center for young individuals and their families to obtain mental health resources and services. They offer culturally suitable services that acknowledge and celebrate diversity eliminating all forms of discrimination in provision of health services. Their facility is equipped to accommodate people from different ethnicity, lifestyle choice, faith, and particularly sexual orientation and gender identity. Available services include professional consultations like 1-on-1 chat, community contributions, and personal mental health toolkit development."
+    }
+  },
+  "slug": "headspace-gosford-mental-health-support-center",
+  "externalUrl": "https://www.headspace.org.au/headspace-centres/headspace-gosford/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1/237 Mann St, Gosford NSW 2250, Australia",
+  "phoneNumber": "+61 2 4304 7870",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Gosford",
+  "latLng": [
+    -33.4235672,
+    151.3431413
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7741097167741428295"
+  },
+  "county": "Central Coast Council"
+}

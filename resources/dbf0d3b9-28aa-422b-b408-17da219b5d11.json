@@ -1,0 +1,32 @@
+{
+  "id": "dbf0d3b9-28aa-422b-b408-17da219b5d11",
+  "i18n": {
+    "en-US": {
+      "title": "Lancaster Family Health Center at Lancaster",
+      "description": "Lancaster Family Health Center at Lancaster is a local medical clinic that is LGBTQ+ friendly, with staff who are sensitive and accommodating to the needs of the transgender community. They offer a variety of healthcare services including general medical care, COVID-19 testing and vaccination, and more."
+    }
+  },
+  "slug": "lancaster-family-health-center-at-lancaster",
+  "externalUrl": "https://maps.google.com/?cid=16530695376833134616",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "255 Lancaster Dr NE, Salem, OR 97301, USA",
+  "phoneNumber": "+1 503-576-8400",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Northeast Salem",
+  "latLng": [
+    44.9299848,
+    -122.9848307
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16530695376833134616"
+  },
+  "county": "Marion County"
+}

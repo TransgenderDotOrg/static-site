@@ -1,0 +1,34 @@
+{
+  "id": "c10a4afe-5962-468c-8229-ca7f87733a11",
+  "i18n": {
+    "en-US": {
+      "title": "T. Douglas Gurley MD - LGBT Specialist Clinic",
+      "description": "T. Douglas Gurley MD clinic in Atlanta specializes in LGBT healthcare, offering services like HIV treatments and support for transgender specific health needs. The clinic operates with utmost respect for individual patient's identity, including use of chosen names. As members of the LGBT community themselves, the clinic's staff understands their patients' needs and identity, providing expert level treatment."
+    }
+  },
+  "slug": "t-douglas-gurley-md-lgbt-specialist-clinic",
+  "externalUrl": "http://tdouglasgurleymd.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "659 Auburn Ave NE # 156, Atlanta, GA 30312, USA",
+  "phoneNumber": "+14048880228",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Old Fourth Ward",
+  "latLng": [
+    33.7562289,
+    -84.36608199999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6506555535358573018"
+  },
+  "county": "Fulton County"
+}

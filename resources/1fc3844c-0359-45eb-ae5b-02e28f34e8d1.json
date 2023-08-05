@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-manteca",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "1fc3844c-0359-45eb-ae5b-02e28f34e8d1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/manteca/95336/manteca-health-center-2530-90130?utm_campaign=manteca-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "965 E Yosemite Ave # 2, Manteca, CA 95336, USA",
+  "phoneNumber": "+1 209-239-2528",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6199889035317585141"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Joaquin County",
+  "city": "Manteca",
+  "latLng": [
+    37.7977176,
+    -121.203485
+  ]
+}

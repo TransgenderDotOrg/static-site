@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-visalia",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5df723ee-0851-4d36-a8f1-d0492375ffa6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/visalia/93291/visalia-health-center-4021-90130?utm_campaign=visalia-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "211 N Stevenson St, Visalia, CA 93291, USA",
+  "phoneNumber": "+1 877-855-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10064353402919309036"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Tulare County",
+  "city": "Visalia",
+  "latLng": [
+    36.331717,
+    -119.3001944
+  ]
+}

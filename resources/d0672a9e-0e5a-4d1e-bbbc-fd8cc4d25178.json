@@ -1,0 +1,32 @@
+{
+  "id": "d0672a9e-0e5a-4d1e-bbbc-fd8cc4d25178",
+  "i18n": {
+    "en-US": {
+      "title": "Swedish Physicians in Richmond",
+      "description": "Swedish Physicians is a healthcare provider office in Richmond that provides a broad range of medical services. The team is dedicated to improving the health and well-being of each patient they serve, including those who identify as transgender. They uphold values of Compassion, Dignity, Justice, Excellence, and Integrity, creating a safe and welcoming environment for everyone. They also provide informed consent treatment options tailored to the needs and preferences of the transgender community."
+    }
+  },
+  "slug": "swedish-physicians-richmond",
+  "externalUrl": "https://www.swedish.org/swedish-physicians/profile.aspx?id=157728",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "509 Olive Way Suite 900, Seattle, WA 98101, USA",
+  "phoneNumber": "+1 206-860-4700",
+  "country": "US",
+  "provinceOrState": "WA",
+  "city": "Downtown Seattle",
+  "latLng": [
+    47.6127622,
+    -122.336607
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5273596522785687595"
+  },
+  "county": "King County"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "433ae0c7-b7ad-4e4e-81f6-21811052fe44",
+  "i18n": {
+    "en-US": {
+      "title": "Ponce Primary Care",
+      "description": "Ponce Primary Care is a healthcare provider that offers comprehensive services tailored to the unique health needs of the transgender community, including transmasculine, transfeminine, and non-binary individuals. It is an informed-consent clinic, meaning patients are fully involved in decisions about their healthcare. The clinic is committed to providing an inclusive, supportive environment for all patients."
+    }
+  },
+  "slug": "ponce-primary-care",
+  "externalUrl": "http://www.ponceprimarycare.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "315 W Ponce de Leon Ave #110, Decatur, GA 30030, USA",
+  "phoneNumber": "+1 404-537-2521",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Downtown Decatur",
+  "county": "Dekalb County",
+  "latLng": [
+    33.7761504,
+    -84.30051809999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10011937455470663032"
+  }
+}

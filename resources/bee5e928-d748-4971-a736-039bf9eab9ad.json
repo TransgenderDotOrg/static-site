@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "bee5e928-d748-4971-a736-039bf9eab9ad",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/hawaii/honolulu/96813/honolulu-health-center-2951-91810?utm_campaign=honolulu-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "839 S Beretania St., Honolulu, HI 96813, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11561649278201696497"
+  },
+  "country": "US",
+  "provinceOrState": "HI",
+  "county": "Honolulu County",
+  "city": "Downtown",
+  "latLng": [
+    21.3040523,
+    -157.8503561
+  ]
+}

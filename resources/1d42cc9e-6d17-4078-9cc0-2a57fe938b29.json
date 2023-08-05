@@ -1,0 +1,33 @@
+{
+  "id": "1d42cc9e-6d17-4078-9cc0-2a57fe938b29",
+  "i18n": {
+    "en-US": {
+      "title": "Weinberg Jane MD",
+      "description": "Dr. Jane Weinberg is a highly appreciated psychiatrist who provides thorough and personalized care. She is readily available to communicate with patients through call or text. Her practice is inclusive and welcoming, making her a supportive resource for the transgender community."
+    }
+  },
+  "slug": "weinberg-jane-md",
+  "externalUrl": "https://maps.google.com/?cid=14605608748673155881",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "602 W Iris Dr, Berry Hill, TN 37204, USA",
+  "phoneNumber": "+1 615-383-1995",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "South Nashville",
+  "county": "Davidson County",
+  "latLng": [
+    36.1169467,
+    -86.7668633
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14605608748673155881"
+  }
+}

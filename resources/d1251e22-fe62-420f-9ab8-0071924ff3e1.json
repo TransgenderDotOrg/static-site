@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-gary",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d1251e22-fe62-420f-9ab8-0071924ff3e1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/gary/46407/gary-health-center-2920-91810?utm_campaign=gary-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1124 Broadway, Gary, IN 46407, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10311445394372614269"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "Lake County",
+  "city": "Gary",
+  "latLng": [
+    41.5913412,
+    -87.3375477
+  ]
+}

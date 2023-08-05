@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-amsterdam",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "81f485ee-7160-4205-916c-709793066a00",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/amsterdam/12010/amsterdam-center-3047-91110?utm_campaign=amsterdam-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4803 NY-30, Amsterdam, NY 12010, USA",
+  "phoneNumber": "+1 518-842-0285",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9534670395358457901"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Montgomery County",
+  "city": "Amsterdam",
+  "latLng": [
+    42.9743138,
+    -74.1874721
+  ]
+}

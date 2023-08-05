@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-logan",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b7f1de00-b614-4366-9f3f-343c67250d07",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/spokane/99207/spokane-health-center-2794-91850?utm_campaign=spokane-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "123 E Indiana Ave Bldg A, Spokane, WA 99207, USA",
+  "phoneNumber": "+1 866-904-7721",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15189041590228680425"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "Spokane County",
+  "city": "Logan",
+  "latLng": [
+    47.6754312,
+    -117.4083322
+  ]
+}

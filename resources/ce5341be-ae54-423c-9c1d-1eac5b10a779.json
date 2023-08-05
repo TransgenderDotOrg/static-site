@@ -1,0 +1,35 @@
+{
+  "id": "ce5341be-ae54-423c-9c1d-1eac5b10a779",
+  "i18n": {
+    "en-US": {
+      "title": "Kirk Kerkorian School of Medicine at UNLV - Family Medicine Clinic",
+      "description": "The Family Medicine Clinic at the Kirk Kerkorian School of Medicine at UNLV is committed to providing inclusive, respectful, and comprehensive healthcare services that center the unique needs of transgender patients. Its diverse range of primary care services, including specialist care such as endocrinology, gynecology and mental health, ensure that transmasculine, transfeminine, and non-binary individuals receive personalized and appropriate care."
+    }
+  },
+  "slug": "kirk-kerkorian-school-of-medicine-unlv-family-medicine-clinic",
+  "externalUrl": "https://www.unlvhealth.org/family-medicine",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1524 Pinto Ln 2nd Floor, Las Vegas, NV 89106, USA",
+  "phoneNumber": "+1 702-992-6888",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "Rancho Oakey",
+  "latLng": [
+    36.164964,
+    -115.1628887
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17270857744370838805"
+  },
+  "county": "Clark County"
+}

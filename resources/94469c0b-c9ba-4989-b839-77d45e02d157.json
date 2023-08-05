@@ -1,0 +1,35 @@
+{
+  "id": "94469c0b-c9ba-4989-b839-77d45e02d157",
+  "i18n": {
+    "en-US": {
+      "title": "Centura Health  - Anna Wegleitner, MD",
+      "description": "Dr. Anna Wegleitner, MD at Centura Health provides quality medical services with a focus on individualized attention. With a welcoming and accepting environment, Dr. Wegleitner takes special interest in providing competent gender affirming care for transgender individuals and is an active member of the World Professional Association for Transgender Health (WPATH)."
+    }
+  },
+  "slug": "centura-health-anna-wegleitner-md",
+  "externalUrl": "https://www.centura.org/provider-search/anna-wegleitner-md",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "950 E Harvard Ave #200, Denver, CO 80210, USA",
+  "phoneNumber": "+13036493200",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "South Denver",
+  "latLng": [
+    39.67044660000001,
+    -104.9764004
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3630265192756266077"
+  },
+  "county": "Denver County"
+}

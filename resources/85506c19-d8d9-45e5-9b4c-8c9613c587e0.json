@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-glendora",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "85506c19-d8d9-45e5-9b4c-8c9613c587e0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/glendora/91740/glendora-health-center-4070-90090?utm_campaign=glendora-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "130 W Rte 66 Suite 100, Glendora, CA 91740, USA",
+  "phoneNumber": "+1 626-798-0706",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17197145415949916338"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "Glendora",
+  "latLng": [
+    34.1279495,
+    -117.8651894
+  ]
+}

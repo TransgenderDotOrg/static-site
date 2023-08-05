@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-chicago-loop",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "22368b23-66a6-4d6b-a21e-af8b19937d32",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/chicago/60602/loop-health-center-3286-90430?utm_campaign=loop-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "16 N Wabash Ave 5th Floor 5th Fl, Chicago, IL 60602, USA",
+  "phoneNumber": "+1 312-592-6700",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7475913688119500049"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "Chicago Loop",
+  "latLng": [
+    41.882614,
+    -87.6264156
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Bassett Healthcare Network",
+      "description": "Bassett Healthcare Network is a comprehensive health care system offering a full range of services catered to the transgender community ensuring respectful and appropriate care for transgendere individuals. We provide services like primary care, specialty services, family dentistry, and long-term care. Our clinic embraces diversity and inclusion, promoting a positive healthcare environment for our transgender patients."
+    }
+  },
+  "slug": "bassett-healthcare-network-oneonta",
+  "tags": [
+    "healthcare",
+    "social-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "425ef754-e38b-4620-8cd6-d5af5ddc358b",
+  "externalUrl": "https://www.bassett.org/locations/susquehanna-family-practice-and-gender-wellness-center",
+  "address": "1 Foxcare Dr #103, Oneonta, NY 13820, USA",
+  "phoneNumber": "+1 607-431-5757",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8203907784574340965"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Otsego County",
+  "city": "Oneonta",
+  "latLng": [
+    42.4564336,
+    -75.0290894
+  ]
+}

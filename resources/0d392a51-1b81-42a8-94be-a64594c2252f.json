@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Circle Care Center",
+      "description": "Located in Connecticut, Circle Care Center is an LGBTQI+ affirming medical services and sexual health center. Offering a range of services such as Primary Care, HIV Treatment & Care, Behavioral Health, and Gender-Affirming Care. It is dedicated to creating a supportive and inclusive environment for the transgender community, providing name and gender change assistance to help ease the transition process. The warm, caring, and committed staff makes it a safe space for those seeking medical attention."
+    }
+  },
+  "slug": "circle-care-center-norwalk",
+  "tags": [
+    "healthcare",
+    "legal",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "0d392a51-1b81-42a8-94be-a64594c2252f",
+  "externalUrl": "http://circlecarecenter.org/",
+  "address": "618 West Ave, Norwalk, CT 06850, USA",
+  "phoneNumber": "+1 203-852-9525",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1049223352417464433"
+  },
+  "country": "US",
+  "provinceOrState": "CT",
+  "county": "Fairfield County",
+  "city": "Norwalk",
+  "latLng": [
+    41.1136305,
+    -73.4158516
+  ]
+}

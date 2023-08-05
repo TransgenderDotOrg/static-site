@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kind Clinic",
+      "description": "Kind Clinic provides no-cost sexual health services to people of all races, creeds, gender identities and expressions, immigration statuses, sexual orientations, insurance statuses, and abilities to pay. The clinic offers patient advocates with expertise serving the LGBTQIA+ community, free walk-in HIV/STI testing and treatment services, PrEP & PEP access, HIV testing & care and gender affirming care including hormone therapy."
+    }
+  },
+  "slug": "kind-clinic-north-loop",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "18597b5f-ae84-422e-8136-e03ef52bbab8",
+  "externalUrl": "https://kindclinic.org/about-kind-clinic/",
+  "address": "101 W Koenig Ln UNIT 100, Austin, TX 78751, USA",
+  "phoneNumber": "+1 833-937-5463",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2117822120999645127"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Travis County",
+  "city": "North Loop",
+  "latLng": [
+    30.3221702,
+    -97.72012699999999
+  ]
+}

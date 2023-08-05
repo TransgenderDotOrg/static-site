@@ -1,0 +1,33 @@
+{
+  "id": "dddb6d23-5e3a-4a81-9e99-bd22a4b01317",
+  "i18n": {
+    "en-US": {
+      "title": "Riverside - Community Health Centers of Burlington",
+      "description": "Riverside, a part of Community Health Centers of Burlington, provides medical, dental, psychiatry/mental health care services. Their integrated health care model ensures accessibility, affordability, and quality care for community members, particularly catering to marginalized groups like the transgender community."
+    }
+  },
+  "slug": "riverside-community-health-centers-burlington",
+  "externalUrl": "https://www.chcb.org/locations/riverside/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "dental-care"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "617 Riverside Ave., Burlington, VT 05401, USA",
+  "phoneNumber": "+1 802-864-6309",
+  "country": "US",
+  "provinceOrState": "VT",
+  "city": "Burlington",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=266327003019219372"
+  },
+  "county": "Chittenden County",
+  "latLng": [
+    44.49012889999999,
+    -73.20612059999999
+  ]
+}

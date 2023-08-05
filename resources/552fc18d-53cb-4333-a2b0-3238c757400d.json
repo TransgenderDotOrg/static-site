@@ -1,0 +1,34 @@
+{
+  "id": "552fc18d-53cb-4333-a2b0-3238c757400d",
+  "i18n": {
+    "en-US": {
+      "title": "Rebirth OB/GYN Clinic",
+      "description": "Rebirth OB/GYN Clinic in Salt Lake City aims at providing advanced healthcare services to the transgender community. The clinic ensures respectful and comfortable experiences in a medical setting. It is widely recognized for trans healthcare. Dr. Luikenaar, an expert at the clinic, ensures safe hormone therapy. The clinic embraces new patients and is committed to rendering valuable services to the transgender community."
+    }
+  },
+  "slug": "rebirth-obgyn-clinic",
+  "externalUrl": "https://maps.google.com/?cid=1283835665824625174",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "non-binary",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2160 E 4500 S STE 2, Holladay, UT 84117, USA",
+  "phoneNumber": "+1 801-272-3909",
+  "country": "US",
+  "provinceOrState": "UT",
+  "city": "Holladay",
+  "latLng": [
+    40.6738843,
+    -111.8290244
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1283835665824625174"
+  },
+  "county": "Salt Lake County"
+}

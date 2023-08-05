@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-chapel-hill",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d8c4555f-ec7e-45b1-967c-c856ae830cb0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/north-carolina/chapel-hill/27514/chapel-hill-health-center-4169-90860?utm_campaign=chapel-hill-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1765 Dobbins Dr, Chapel Hill, NC 27514, USA",
+  "phoneNumber": "+1 919-942-7762",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6186812451448372073"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Orange County",
+  "city": "Chapel Hill",
+  "latLng": [
+    35.9447132,
+    -79.0140344
+  ]
+}

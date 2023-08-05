@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Chase Brexton Health Services",
+      "description": "Chase Brexton Health Services is an inclusive healthcare provider offering a broad range of services that especially cater to the transgender community. Among these services are therapy, Gender Affirming Care, and a variety of health management programs. They have created an empathetic environment that addresses the unique healthcare needs of transmasculine, transfeminine, and non-binary individuals."
+    }
+  },
+  "slug": "chase-brexton-health-services-randallstown",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "23bc9352-6530-4493-a8f1-dcaaa3087cbb",
+  "externalUrl": "http://www.chasebrexton.org/?utm_source=GMBSocialClimb&utm_medium=ChaseBrextonHealthCare-RandallstownCenter",
+  "address": "3510 Brenbrook Dr, Randallstown, MD 21133, USA",
+  "phoneNumber": "+1 410-837-2050",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13312382197216985837"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Baltimore County",
+  "city": "Randallstown",
+  "latLng": [
+    39.3627464,
+    -76.7868937
+  ]
+}

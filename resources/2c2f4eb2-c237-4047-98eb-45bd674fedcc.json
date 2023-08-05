@@ -1,0 +1,33 @@
+{
+  "id": "2c2f4eb2-c237-4047-98eb-45bd674fedcc",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Jude B. Harrison, MD - Family Practice Physician",
+      "description": "Dr. Jude B. Harrison, MD is a family practice physician based in Durango, CO. While providing a wide range of healthcare services, he/she/they specializes in serving the transgender community through informed consent practices. Dr. Harrison works to tailor his/her/their approach to suit individual needs, ensuring a supportive and understanding environment for every patient."
+    }
+  },
+  "slug": "dr-jude-b-harrison-md-family-practice-physician",
+  "externalUrl": "https://maps.google.com/?cid=8113886415709263453",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "316 Sawyer Dr, Durango, CO 81303, USA",
+  "phoneNumber": "+1 970-259-3110",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Durango",
+  "latLng": [
+    37.240723,
+    -107.8777788
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8113886415709263453"
+  },
+  "county": "La Plata County"
+}

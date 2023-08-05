@@ -1,0 +1,35 @@
+{
+  "id": "bcc2dd6b-a209-457d-a9fa-ab0068380f39",
+  "i18n": {
+    "en-US": {
+      "title": "Pride Clinic in Cleveland",
+      "description": "The Pride Clinic in Cleveland serves the transgender community through its inclusive healthcare services. It welcomes non-binary and gender non-conforming individuals, providing a comfortable environment for all patients. Led by Dr. Ng and Dr. Meyers, its staff are committed to understanding and meeting unique healthcare needs in relation to medical transition. The Pride Clinic is part of the Thomas F. McCafferty Health Center, located in Cleveland, Ohio."
+    }
+  },
+  "slug": "pride-clinic-in-cleveland",
+  "externalUrl": "https://maps.google.com/?cid=6539930460299650530",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4242 Lorain Ave, Cleveland, OH 44113, USA",
+  "phoneNumber": "+1 216-957-4905",
+  "country": "US",
+  "provinceOrState": "OH",
+  "city": "Detroit - Shoreway",
+  "latLng": [
+    41.4798088,
+    -81.7161751
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6539930460299650530"
+  },
+  "county": "Cuyahoga County"
+}

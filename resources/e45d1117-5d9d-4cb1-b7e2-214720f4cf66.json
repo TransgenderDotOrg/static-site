@@ -1,0 +1,31 @@
+{
+  "id": "e45d1117-5d9d-4cb1-b7e2-214720f4cf66",
+  "i18n": {
+    "en-US": {
+      "title": "St Nicholas Medical Group",
+      "description": "Located in Los Angeles, the St Nicholas Medical Group provides high quality medical clinic services. While it does not specify serving the transgender community directly, the staff is described by reviews as helpful and caring, indicating an inclusive environment."
+    }
+  },
+  "slug": "st-nicholas-medical-group",
+  "externalUrl": "https://maps.google.com/?cid=3400006562128532050",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "5520 Santa Monica Blvd, Los Angeles, CA 90038, USA",
+  "phoneNumber": "+1 323-860-9054",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Central LA",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3400006562128532050"
+  },
+  "county": "Los Angeles County",
+  "latLng": [
+    34.0902769,
+    -118.3101672
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6ff27b43-9166-429f-a3b8-7b17ae48bbf8",
+  "i18n": {
+    "en-US": {
+      "title": "Lyon-Martin Community Health Services",
+      "description": "Lyon-Martin Community Health Services is committed to providing high quality, compassionate and trauma-informed care, with a specific focus on trans, non-binary, gender non-conforming, and intersex (TGI) communities and cis-gender women. The organization champions for health care equity, intersectionality, self-determination, and community engagement and empowerment. Their services are designed for and by the community, providing culturally responsive care and fostering safety, healing, transformation, and liberation."
+    }
+  },
+  "slug": "lyon-martin-community-health-services",
+  "externalUrl": "http://lyon-martin.org",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "community-stories",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "1735 Mission St, San Francisco, CA 94103, USA",
+  "phoneNumber": "+1 415-565-7667",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Mission District",
+  "latLng": [
+    37.7694225,
+    -122.4198163
+  ],
+  "email": "info@lyon-martin.org",
+  "socialMedia": {
+    "yelpUrl": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=3260818236341142390"
+  },
+  "county": "San Francisco County"
+}

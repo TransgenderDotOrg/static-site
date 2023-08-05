@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-cathedral-city",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "56926ab8-f03c-4859-9621-2183e68a5570",
+  "externalUrl": "https://locations.borregohealth.org/stonewall-medical-center-cacfd0afe2fa?y_source=1_MTAxNDIyMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "68555 Ramon Rd, Cathedral City, CA 92234, USA",
+  "phoneNumber": "+1 760-507-3310",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9150948640664358950"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Riverside County",
+  "city": "Cathedral City",
+  "latLng": [
+    33.8154871,
+    -116.4647075
+  ]
+}

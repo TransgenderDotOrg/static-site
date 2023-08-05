@@ -1,0 +1,36 @@
+{
+  "id": "ea0b098b-cbb2-4430-901c-b041dffea9f5",
+  "i18n": {
+    "en-US": {
+      "title": "Cempa Community Care",
+      "description": "Cempa Community Care is dedicated to providing compassionate and premium quality care, specifically catering to the needs of the transgender community. We offer a broad range of services including primary care, HIV healthcare, HEP C treatment, dental services, and more. We also have a dedicated team focusing on prevention services such as HIV testing, STI testing, and more. We firmly believe in empowering all individuals we serve and strive to create a safe and welcoming space for the transgender community."
+    }
+  },
+  "slug": "cempa-community-care",
+  "externalUrl": "https://www.cempa.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1000 E 3rd St, Chattanooga, TN 37403, USA",
+  "phoneNumber": "+1 423-265-2273",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Martin Luther King",
+  "county": "Hamilton County",
+  "latLng": [
+    35.0472644,
+    -85.2905001
+  ],
+  "email": "info@cempa.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=324625540128883755"
+  }
+}

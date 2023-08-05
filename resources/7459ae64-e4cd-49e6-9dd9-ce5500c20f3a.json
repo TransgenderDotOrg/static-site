@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "7459ae64-e4cd-49e6-9dd9-ce5500c20f3a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/dayton/45402/dayton-health-center-2192-91260?utm_campaign=dayton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "224 N Wilkinson St, Dayton, OH 45402, USA",
+  "phoneNumber": "+1 937-226-0780",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4255680072467808087"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Montgomery County",
+  "city": "Downtown",
+  "latLng": [
+    39.7627526,
+    -84.1960503
+  ]
+}

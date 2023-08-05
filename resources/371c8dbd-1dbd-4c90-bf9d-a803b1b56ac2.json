@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Borrego Health - Specialty Clinic",
+      "description": "Borrego Health offers comprehensive health services specifically geared towards the transgender community, including transgender health services and specialized care such as HIV/AIDS, PrEP/PEP, and Hepatitis B & C treatment. Our healthcare professionals are trained and sensitive to transgender issues, making our clinic a safe, inclusive and welcoming environment for all."
+    }
+  },
+  "slug": "borrego-health-specialty-clinic-julian",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "371c8dbd-1dbd-4c90-bf9d-a803b1b56ac2",
+  "externalUrl": "https://locations.borregohealth.org/julian-medical-center-042aa1fd08ba?y_source=1_MTAxNDIyMTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "2721 Washington St, Julian, CA 92036, USA",
+  "phoneNumber": "+1 760-765-1278",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10054842232707758076"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Julian",
+  "latLng": [
+    33.0780414,
+    -116.6027061
+  ]
+}

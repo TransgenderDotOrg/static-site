@@ -1,0 +1,35 @@
+{
+  "id": "5d073ac3-e285-4537-90be-2ffad848629b",
+  "i18n": {
+    "en-US": {
+      "title": "Haddonfield Primary & Specialty Care",
+      "description": "Haddonfield Primary & Specialty Care specializes in LGBTQIA+ affirming primary and specialty healthcare. The team has professionals experienced in primary care, infectious diseases, behavioral health, obstetrics & gynecology, nutrition & diabetes education among others which serves patients aged 13 and above. They also provide top surgery, Pre-exposure prophylaxis (PrEP) for HIV Prevention, and Medication Assisted Treatment for Opioid Use Disorder. The non-judgmental and inclusive environment ensures everyone, including the transgender community, is treated with fairness and dignity. They provide health resources, insurance assistance, referrals and connect patients with community resources."
+    }
+  },
+  "slug": "haddonfield-primary-specialty-care",
+  "externalUrl": "https://www.jeffersonhealth.org/locations/haddonfield-primary-specialty-care",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "80 Tanner St, Haddonfield, NJ 08033, USA",
+  "phoneNumber": "+1 844-542-2273",
+  "country": "US",
+  "provinceOrState": "NJ",
+  "city": "Haddonfield",
+  "latLng": [
+    39.899571,
+    -75.03570789999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10988502420259602138"
+  },
+  "county": "Camden County"
+}

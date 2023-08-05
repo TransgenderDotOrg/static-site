@@ -1,0 +1,33 @@
+{
+  "id": "432b7759-38b2-420f-96a9-271b95b3e268",
+  "i18n": {
+    "en-US": {
+      "title": "Doctors of South Melbourne",
+      "description": "Doctors of South Melbourne caters to the transgender community by providing inclusive and comprehensive healthcare services. The center understands the unique healthcare needs of transgender individuals and offers tailored treatments accordingly. The services range from Mental Health, Sexual Health to Hormone Therapy. The team of health professionals provides evidence-based treatments in a sunny, calm, and inclusive environment."
+    }
+  },
+  "slug": "doctors-of-south-melbourne",
+  "externalUrl": "https://www.doctorsofsouthmelbourne.com.au/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "145 Cecil St, South Melbourne VIC 3205, Australia",
+  "phoneNumber": "+61 3 8579 6838",
+  "country": "AU",
+  "provinceOrState": "VIC",
+  "city": "South Melbourne",
+  "latLng": [
+    -37.8329777,
+    144.9581936
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16391964762064194951"
+  },
+  "county": "Port Phillip"
+}

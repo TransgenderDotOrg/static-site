@@ -1,0 +1,37 @@
+{
+  "id": "4b155ab2-4873-45d2-a053-9ae894fa38ed",
+  "i18n": {
+    "en-US": {
+      "title": "Norton Healthcare - Dr. Mehdi Poorkay",
+      "description": "Dr. Mehdi Poorkay is a specialist in endocrinology and diabetes at Norton Healthcare. His expertise is essential in transgender hormone therapy. Patients have commended his excellent bedside manners, showing compassion and respect. He ensures clear communication with patients, thoroughly explaining treatments and conditions, and is prompt to respond to questions. Norton Medical Group’s mission to provide comprehensive, quality health care to all, aligns with a commitment to inclusivity and understanding for the transgender community. "
+    }
+  },
+  "slug": "norton-healthcare-dr-mehdi-poorkay",
+  "externalUrl": "https://providers.nortonhealthcare.com/provider/Mehdi+Poorkay/504517?utm_source=Yext",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "legal"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "4915 Norton Healthcare Blvd Suite 201, Louisville, KY 40241, USA",
+  "phoneNumber": "+1 502-559-3636",
+  "country": "US",
+  "provinceOrState": "KY",
+  "city": "Louisville",
+  "county": "Jefferson County",
+  "latLng": [
+    38.3140436,
+    -85.57330739999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17118982996188346925"
+  }
+}

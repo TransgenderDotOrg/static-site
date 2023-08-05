@@ -1,0 +1,39 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "MUSC Local Offices for Transgender Community",
+      "description": "MUSC Local Offices are dedicated to providing comprehensive, tailored healthcare services to the transgender community. They welcome transmasculine, non-binary, and transfeminine individuals to their safe, inclusive environment, offering a range of services, from medical support and legal advice to social, youth services, and support groups. Each office is equipped with responsive and empathetic professionals who understand your unique needs."
+    }
+  },
+  "slug": "musc-local-offices-for-transgender-community-charleston",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "legal",
+    "healthcare",
+    "social-services",
+    "youth-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "b813b393-a3b8-4637-b023-d046216ae78e",
+  "externalUrl": "https://education.musc.edu/MUSCApps/facultydirectory/Bowlby-Deborah",
+  "address": "96 Jonathan Lucas St # 316, Charleston, SC 29425, USA",
+  "phoneNumber": "+1 843-792-6807",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15776291404993099708"
+  },
+  "country": "US",
+  "provinceOrState": "SC",
+  "county": "Charleston County",
+  "city": "Charleston",
+  "latLng": [
+    32.784226,
+    -79.947896
+  ]
+}

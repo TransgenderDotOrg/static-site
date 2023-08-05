@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "APLA Health Services",
+      "description": "APLA Health provides an extensive range of services that cater to the LGBTQ+ and HIV/AIDS communities. They offer a plethora of aid ranging from primary care, sexual health services, HIV specialty care, and behavioral healthcare. Additionally, they offer transgender-specific health services, ensuring tailored care to the transgender community. Their services also extend to insurance enrollment, vaccination information, and Housing support. Committed to inclusivity and equality, APLA Health strives to deliver comprehensive healthcare for all."
+    }
+  },
+  "slug": "apla-health-services-long-beach",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "ca1c19c9-8b94-4ca9-a198-68fe020d4ec4",
+  "externalUrl": "http://www.aplahealth.org/",
+  "address": "1043 Elm Ave #302, Long Beach, CA 90813, USA",
+  "phoneNumber": "+1 562-247-7740",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14523467718029744471"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Los Angeles County",
+  "city": "Long Beach",
+  "latLng": [
+    33.7797049,
+    -118.1884091
+  ]
+}

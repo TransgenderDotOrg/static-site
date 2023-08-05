@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Equitas Health",
+      "description": "Equitas Health provides comprehensive healthcare services to the transgender community. Their team of specialists deliver gender-affirming care, mental health & recovery services, and specialized HIV care. We aim to provide a comfortable, inclusive environment where you can receive the care you need in a way that works best for you."
+    }
+  },
+  "slug": "equitas-health-victorian-village",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "efac66fa-0b2c-48a4-9c14-ac5f89e86b19",
+  "externalUrl": "https://equitashealth.com/locations/columbus-short-north-medical-center/",
+  "address": "1033 N High St, Columbus, OH 43201, USA",
+  "phoneNumber": "+1 614-340-6777",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11826190288384200168"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Franklin County",
+  "city": "Victorian Village",
+  "latLng": [
+    39.983533,
+    -83.0051477
+  ]
+}

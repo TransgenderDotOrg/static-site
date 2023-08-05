@@ -1,0 +1,35 @@
+{
+  "id": "2c812433-dd6d-44fd-9d51-e85fcfb09dac",
+  "i18n": {
+    "en-US": {
+      "title": "University of Texas Medical Branch",
+      "description": "The University of Texas Medical Branch offers a broad array of health services and performs medical research. Its inclusive environment and wide range of healthcare services cater to the health needs of the transgender community, including individuals identifying as transmasculine, non-binary and transfeminine. It supports the community in issues regarding healthcare, mental health, social services, education and awareness."
+    }
+  },
+  "slug": "university-of-texas-medical-branch",
+  "externalUrl": "http://www.utmb.edu/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "301 University Blvd, Galveston, TX 77555, USA",
+  "phoneNumber": "+1 409-772-1011",
+  "country": "US",
+  "provinceOrState": "TX",
+  "city": "Galveston",
+  "county": "Galveston County",
+  "latLng": [
+    29.3113141,
+    -94.7771267
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5007123156225816620"
+  }
+}

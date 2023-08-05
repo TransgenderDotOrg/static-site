@@ -1,0 +1,36 @@
+{
+  "id": "288962f1-edea-4d62-bdf6-51366bbc4c8d",
+  "i18n": {
+    "en-US": {
+      "title": "Equality Clinic of Augusta",
+      "description": "The Equality Clinic of Augusta offers free HIV testing and Pre-Exposure Prophylaxis (PrEP) for HIV. It's a volunteer-driven organization providing healthcare services specifically for the underserved LGBTQIA+ community in the Augusta region. It offers tailored, inclusive, and sensitive care for people of all identities, including transgender, non-binary, transmasculine, and transfeminine individuals."
+    }
+  },
+  "slug": "equality-clinic-augusta",
+  "externalUrl": "http://equalityclinicaugusta.squarespace.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1014 Moore Ave, Augusta, GA 30904, USA",
+  "phoneNumber": "+1 762-218-2226",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Medical District",
+  "county": "Richmond County",
+  "latLng": [
+    33.4728066,
+    -81.9933862
+  ],
+  "email": "equalityclinicaugusta@gmail.com",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6625625097574067830"
+  }
+}

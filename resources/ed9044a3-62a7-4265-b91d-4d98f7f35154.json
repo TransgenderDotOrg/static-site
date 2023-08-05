@@ -1,0 +1,36 @@
+{
+  "id": "ed9044a3-62a7-4265-b91d-4d98f7f35154",
+  "i18n": {
+    "en-US": {
+      "title": "CSU Health Network",
+      "description": "The CSU Health Network provides a range of healthcare services to the student community, including wellness and behavioral health consultations, sexual and reproductive care, mental health services, and more. Their inclusive care specifically caters to the needs of the transgender, including members of the non-binary and LGBTQ+ communities providing a supportive, understanding and safe environment."
+    }
+  },
+  "slug": "csu-health-network",
+  "externalUrl": "https://health.colostate.edu/location-hours-parking/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "151 W Lake St, Fort Collins, CO 80524, USA",
+  "phoneNumber": "+1 970-491-7121",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Fort Collins",
+  "county": "Larimer County",
+  "latLng": [
+    40.5678259,
+    -105.0777834
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18138913762808542098"
+  }
+}

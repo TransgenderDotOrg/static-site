@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-madera",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "ddf9b64f-347c-4b5b-89dd-809f2f5527b2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/madera/93637/madera-health-center-2363-90130?utm_campaign=madera-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "500 E Almond Ave SUITE 1, Madera, CA 93637, USA",
+  "phoneNumber": "+1 559-675-1133",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3513005090160396599"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Madera County",
+  "city": "Madera",
+  "latLng": [
+    36.9453018,
+    -120.0512217
+  ]
+}

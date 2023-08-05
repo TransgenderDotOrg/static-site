@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-coatesville",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "73c6baa5-96df-46ee-b252-af8888bc2ff7",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/coatesville/19320/coatesville-health-center-2724-91460?utm_campaign=coatesville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1001 Lincoln Hwy E Suite 101, Coatesville, PA 19320, USA",
+  "phoneNumber": "+1 610-383-5911",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6184005923357576370"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Chester County",
+  "city": "Coatesville",
+  "latLng": [
+    39.9865701,
+    -75.8054683
+  ]
+}

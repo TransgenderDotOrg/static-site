@@ -1,0 +1,32 @@
+{
+  "id": "e2c0f246-88eb-4071-8adb-92a9036f056b",
+  "i18n": {
+    "en-US": {
+      "title": "ASU Health Service Building",
+      "description": "The ASU Health Services Building offers a variety of health services, including acute care, an allergy clinic, women’s health services, contraception services, primary care, sports medicine and preventative health care to the transgender community, notably with their health education and wellness services. The environment is made more inviting with artwork from the Herberger Institute’s School of Art Northlight Gallery."
+    }
+  },
+  "slug": "asu-health-service-building",
+  "externalUrl": "https://tours.asu.edu/tempe/health-service-building",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Health Service Building, 451 E University Dr, Tempe, AZ 85281, USA",
+  "phoneNumber": "+1 480-965-3349",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Tempe",
+  "latLng": [
+    33.4213463,
+    -111.93304
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7649927279600243439"
+  },
+  "county": "Maricopa County"
+}

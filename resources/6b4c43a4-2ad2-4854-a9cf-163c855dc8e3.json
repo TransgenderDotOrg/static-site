@@ -1,0 +1,37 @@
+{
+  "id": "6b4c43a4-2ad2-4854-a9cf-163c855dc8e3",
+  "i18n": {
+    "en-US": {
+      "title": "National University of Natural Medicine",
+      "description": "The National University of Natural Medicine in Portland, Oregon is dedicated to a whole health system approach, providing academic courses in naturopathic and Classical Chinese medicine. Faculty members specialize in LGBTQIA+ health, demonstrating the college's commitment to the transgender community. Their holistic approach puts a strong emphasis on individual healthcare journeys and integrated, natural treatments tailored to each person’s needs."
+    }
+  },
+  "slug": "national-university-of-natural-medicine",
+  "externalUrl": "http://www.nunm.edu/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "educational-institution"
+  ],
+  "address": "49 S Porter St, Portland, OR 97201, USA",
+  "phoneNumber": "503.552.1555",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Southwest Portland",
+  "latLng": [
+    45.50189779999999,
+    -122.6765812
+  ],
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/nwnaturalmedicine",
+    "twitterUrl": "https://twitter.com/NUNM_EDU",
+    "linkedinUrl": "https://www.linkedin.com/school/nationaluniversityofnaturalmedicine/",
+    "youtubeUrl": "https://www.youtube.com/channel/NUNM",
+    "instagramUrl": "https://www.instagram.com/nunm/"
+  },
+  "county": "Multnomah County"
+}

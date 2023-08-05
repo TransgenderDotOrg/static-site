@@ -1,0 +1,34 @@
+{
+  "id": "82f70a3a-c23d-4f9a-957b-8f3c43e60b8f",
+  "i18n": {
+    "en-US": {
+      "title": "Babs Siperstein PROUD Center",
+      "description": "Babs Siperstein PROUD Center provides compassionate, culturally competent healthcare to the LGBTQIA community. With a wide range of health care services including behavioral health, chronic illness management, emergency care, HIV prevention, hormone therapy, radiology, rehabilitative services and support groups, the center ensures appropriate resources and care for the transgender community."
+    }
+  },
+  "slug": "babs-siperstein-proud-center",
+  "externalUrl": "https://www.rwjbh.org/our-locations/outpatient-rehab-center/babs-siperstein-proud-center/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "128 Rehill Ave Suite 1100, Somerville, NJ 08876, USA",
+  "phoneNumber": "+1 855-776-8334",
+  "country": "US",
+  "provinceOrState": "NJ",
+  "city": "Somerville",
+  "latLng": [
+    40.56849130000001,
+    -74.5954258
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17467665864530678589"
+  },
+  "county": "Somerset County"
+}

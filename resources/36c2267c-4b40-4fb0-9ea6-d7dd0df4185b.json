@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Novant Health Comprehensive Transgender Care",
+      "description": "At Novant Health, we are dedicated to providing compassionate and inclusive healthcare for the transgender community. We offer primary care, urgent care, walk-in care, and emergency care tailored to the unique health needs of the transmasculine, transfeminine, and non-binary individuals. Our interactive online portal, MyNovant, allows you to manage all your health information in one place. With our team of expert and empathetic providers, start your journey towards better health."
+    }
+  },
+  "slug": "novant-health-transgender-care-wilmington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "36c2267c-4b40-4fb0-9ea6-d7dd0df4185b",
+  "externalUrl": "https://www.novanthealth.org/pf/providers/1457589533",
+  "address": "2523 Delaney Ave, Wilmington, NC 28403, USA",
+  "phoneNumber": "+1 910-763-5522",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4516144928393096167"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "New Hanover County",
+  "city": "Wilmington",
+  "latLng": [
+    34.1957706,
+    -77.91857879999999
+  ]
+}

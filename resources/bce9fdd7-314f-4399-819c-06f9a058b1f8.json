@@ -1,0 +1,35 @@
+{
+  "id": "bce9fdd7-314f-4399-819c-06f9a058b1f8",
+  "i18n": {
+    "en-US": {
+      "title": "College of Human Medicine Department of Family Medicine",
+      "description": "An acclaimed institution, devoted to providing premier primary care through research, innovative curriculum, and an unmatched residency network. Committed to promoting health and vitality concerns of the transgender community, and providing tailored support by healthcare professionals globally recognized for their research."
+    }
+  },
+  "slug": "college-of-human-medicine-department-of-family-medicine",
+  "externalUrl": "http://chmfamilymedicine.msu.edu/",
+  "tags": [
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider",
+    "educational-institution"
+  ],
+  "address": "804 Service Rd, East Lansing, MI 48824, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "East Lansing",
+  "county": "Ingham County",
+  "latLng": [
+    42.7178698,
+    -84.4690526
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7772889707101608581"
+  }
+}

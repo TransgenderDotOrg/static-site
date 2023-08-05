@@ -1,0 +1,31 @@
+{
+  "id": "d49ca902-94f7-4ae1-ab47-5c82114a27b0",
+  "i18n": {
+    "en-US": {
+      "title": "Northampton Family Medicine at Cooley Dickinson Hospital",
+      "description": "An integral part of the Cooley Dickinson Medical Group, Northampton Family Medicine offers comprehensive primary care to patients of all ages, with a family-focused and compassionate approach. The clinic has physicians board-certified in Family Medicine or Internal Medicine/Pediatrics, allowing them to cater to a wide range of patients. Respect and understanding for diverse identities, including transgender individuals, is deeply embedded in their care philosophy, making them an inclusive local health provider."
+    }
+  },
+  "slug": "northampton-family-medicine-cooley-dickinson",
+  "externalUrl": "https://www.cooleydickinson.org/programs-services/primary-care/northampton-family-medicine/",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "22 Atwood Dr #201, Northampton, MA 01060, USA",
+  "phoneNumber": "+1 413-584-2178",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Northampton",
+  "latLng": [
+    42.3031588,
+    -72.6244028
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15816514558122512844"
+  },
+  "county": "Hampshire County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-baywood-aragon",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a61ec7c0-f580-4ab6-8c01-7b89ce9f7760",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-mateo/94402/san-mateo-health-center-4104-90130?utm_campaign=san-mateo-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "29 Baywood Ave, San Mateo, CA 94402, USA",
+  "phoneNumber": "+1 650-235-7940",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16289892003899436797"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Mateo County",
+  "city": "Baywood - Aragon",
+  "latLng": [
+    37.5644727,
+    -122.3286213
+  ]
+}

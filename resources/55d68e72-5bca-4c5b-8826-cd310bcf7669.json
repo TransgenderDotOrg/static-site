@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-edgewater",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "55d68e72-5bca-4c5b-8826-cd310bcf7669",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/chicago/60660/rogers-park-health-center-2266-90430?utm_campaign=rogers-park-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "5725 N Broadway, Chicago, IL 60660, USA",
+  "phoneNumber": "+1 773-942-7193",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4150217469939972417"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Cook County",
+  "city": "Edgewater",
+  "latLng": [
+    41.9863005,
+    -87.6594617
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Maine Family Planning",
+      "description": "Maine Family Planning provides affordable reproductive health care services for all Mainers, as well as primary care, help for new parents and families, and gender-affirming health services. Some services are available online."
+    }
+  },
+  "slug": "maine-family-planning-lewiston",
+  "externalUrl": "http://www.mainefamilyplanning.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "parent-family-resources",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "189677df-9105-487a-84f7-a20ba17b1de7",
+  "address": "179 Lisbon St, Lewiston, ME 04240, USA",
+  "phoneNumber": "+1 207-922-3222",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3075785862883358299"
+  },
+  "country": "US",
+  "provinceOrState": "ME",
+  "county": "Androscoggin County",
+  "city": "Lewiston",
+  "latLng": [
+    44.0955646,
+    -70.21690559999999
+  ]
+}

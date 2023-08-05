@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-watkins-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "bc39cd75-1329-4ad8-97f8-ab5af1f12517",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550?utm_campaign=nashville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "412 Dr DB Todd Jr Blvd, Nashville, TN 37203, USA",
+  "phoneNumber": "+1 866-711-1717",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17699871364542404840"
+  },
+  "country": "US",
+  "provinceOrState": "TN",
+  "county": "Davidson County",
+  "city": "Watkins Park",
+  "latLng": [
+    36.158991,
+    -86.8003615
+  ]
+}

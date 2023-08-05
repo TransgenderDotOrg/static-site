@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-central-beaverton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "82c7dd0f-0fd8-4fc1-91cf-7cb62234c91f",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oregon/beaverton/97005/beaverton-health-center-2410-91400?utm_campaign=beaverton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "12220 SW 1st St Suite 200 Suite 200, Beaverton, OR 97005, USA",
+  "phoneNumber": "+1 888-875-7820",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16953767982882452708"
+  },
+  "country": "US",
+  "provinceOrState": "OR",
+  "county": "Washington County",
+  "city": "Central Beaverton",
+  "latLng": [
+    45.485853,
+    -122.8024354
+  ]
+}

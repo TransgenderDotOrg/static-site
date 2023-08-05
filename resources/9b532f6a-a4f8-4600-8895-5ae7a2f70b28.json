@@ -1,0 +1,34 @@
+{
+  "id": "9b532f6a-a4f8-4600-8895-5ae7a2f70b28",
+  "i18n": {
+    "en-US": {
+      "title": "Southwest Care - Comprehensive Health Services",
+      "description": "Southwest Care is a comprehensive health center offering a wide range of services including pediatrics, women's health, geriatrics, gender equity medicine, pharmacy, and more. Recognized for prioritizing each patient's unique medical, behavioral, and social needs, Southwest Care provides compassionate care in a judgment-free environment. They extend services to the transgender community by their commitment to gender equity in medicine, addressing the particular health challenges faced by trans individuals at every stage of transition."
+    }
+  },
+  "slug": "southwest-care-comprehensive-health-services",
+  "externalUrl": "https://southwestcare.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4710 Jefferson St NE a, Albuquerque, NM 87109, USA",
+  "phoneNumber": "+1 505-955-9454",
+  "country": "US",
+  "provinceOrState": "NM",
+  "city": "McLeod Crossing",
+  "county": "Bernalillo County",
+  "latLng": [
+    35.1346977,
+    -106.5912334
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7700969100170208002"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d4bac27c-1b5d-43a5-b3cf-7bae7b79dc06",
+  "i18n": {
+    "en-US": {
+      "title": "Prism Health - Transgender Friendly Clinic",
+      "description": "Prism Health provides comprehensive, culturally affirming healthcare for everyone, especially catering to the unique needs of the transgender community. It offers primary care, gender-affirming care, behavioral health & substance use support, sexual health services and PrEP. It focuses on promoting equitable access to healthcare, aiming to address long-standing health disparities in the LGBTQ+ community."
+    }
+  },
+  "slug": "prism-health-transgender-friendly-clinic",
+  "externalUrl": "http://prismhealth.org/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2236 SE Belmont St, Portland, OR 97214, USA",
+  "phoneNumber": "+1 503-445-7699",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Southeast Portland",
+  "county": "Multnomah County",
+  "latLng": [
+    45.5162522,
+    -122.6428119
+  ],
+  "email": "info@prismhealth.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14965513994198117642"
+  }
+}

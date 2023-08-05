@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-north-central-omaha",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "30292777-276a-4571-a91a-1c27f33c9062",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/nebraska/omaha/68134/omaha-health-center-2447-90720?utm_campaign=omaha-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3105 N 93rd St, Omaha, NE 68134, USA",
+  "phoneNumber": "+1 877-859-0589",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15455897645182932540"
+  },
+  "country": "US",
+  "provinceOrState": "NE",
+  "county": "Douglas County",
+  "city": "North Central Omaha",
+  "latLng": [
+    41.2876402,
+    -96.0554277
+  ]
+}

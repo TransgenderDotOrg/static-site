@@ -1,0 +1,38 @@
+{
+  "id": "2b8bfd4d-9e70-4935-b7a8-d099ed87279d",
+  "i18n": {
+    "en-US": {
+      "title": "Joan G Lovering Health Center",
+      "description": "The Lovering Health Center, located in Greenland, New Hampshire passionately services the entire community including transgender individuals, with a wide range of sexual and reproductive health care services. They offer gender-affirming care and are committed to providing a supportive, respectful, and welcoming environment for everyone."
+    }
+  },
+  "slug": "joan-g-lovering-health-center",
+  "externalUrl": "http://joangloveringhealthcenter.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "559 Portsmouth Ave, Greenland, NH 03840, USA",
+  "phoneNumber": "+1 603-436-7588",
+  "country": "US",
+  "provinceOrState": "NH",
+  "city": "Greenland",
+  "latLng": [
+    43.0364026,
+    -70.83765939999999
+  ],
+  "email": "info@jglhc.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9776518000320262266",
+    "facebook": "https://www.facebook.com/TheLovering/",
+    "twitter": "https://twitter.com/TheLovering",
+    "instagram": "https://www.instagram.com/thelovering/"
+  },
+  "county": "Rockingham County"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4cc82f12-31f7-4f1c-ace8-9f4464c3c4dc",
+  "i18n": {
+    "en-US": {
+      "title": "Gerald J. Friedman Transgender Program for Health and Wellness",
+      "description": "Providing comprehensive medical services for the specialized needs of transgender and gender-nonconforming communities at Northwell Lenox Hill Hospital. Our goal is to help you achieve a full and enriched life."
+    }
+  },
+  "slug": "gerald-j-friedman-transgender-program-for-health-and-wellness",
+  "externalUrl": "https://friedmantransgenderprogram.org/",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "110 E 59th St 8th floor suite 8b, New York, NY 10022, USA",
+  "phoneNumber": "+1 212-434-3556",
+  "country": "US",
+  "provinceOrState": "NY",
+  "city": "New York",
+  "county": "New York County",
+  "latLng": [
+    40.7623738,
+    -73.9691596
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8075185202456324854"
+  },
+  "town": "Manhattan"
+}

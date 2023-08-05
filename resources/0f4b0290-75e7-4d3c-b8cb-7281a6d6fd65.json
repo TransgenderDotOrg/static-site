@@ -1,0 +1,36 @@
+{
+  "id": "0f4b0290-75e7-4d3c-b8cb-7281a6d6fd65",
+  "i18n": {
+    "en-US": {
+      "title": "Dennis R. Neill Equality Center",
+      "description": "A vital organization situated at 621 E 4th St, Tulsa. Primarily acting as an inclusive gay and lesbian organization, it offers nuanced and understanding care and resources for the transgender community. Open weekdays, with services adaptable to translate to transmasculine, non-binary, and transfeminine individuals."
+    }
+  },
+  "slug": "dennis-r-neill-equality-center",
+  "externalUrl": "https://maps.google.com/?q=621+E+4th+St,+Tulsa,+OK+74120&ftid=0x87b6ec8024b95c31:0xcb8b507dd9a54133",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "social-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "621 E 4th St, Tulsa, OK 74120, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "Downtown",
+  "county": "Tulsa County",
+  "latLng": [
+    36.155561,
+    -95.9826587
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=621+E+4th+St,+Tulsa,+OK+74120&ftid=0x87b6ec8024b95c31:0xcb8b507dd9a54133"
+  }
+}

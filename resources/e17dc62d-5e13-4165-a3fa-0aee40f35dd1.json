@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hough",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "e17dc62d-5e13-4165-a3fa-0aee40f35dd1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/ohio/cleveland/44103/cleveland-health-center-3966-91230?utm_campaign=cleveland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7997 Euclid Ave, Cleveland, OH 44103, USA",
+  "phoneNumber": "+1 216-851-1880",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=752834695370104265"
+  },
+  "country": "US",
+  "provinceOrState": "OH",
+  "county": "Cuyahoga County",
+  "city": "Hough",
+  "latLng": [
+    41.5048634,
+    -81.63192020000001
+  ]
+}

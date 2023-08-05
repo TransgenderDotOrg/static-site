@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-prescott",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d6c295d3-88b1-4c0c-a772-7cf9c32bdcb4",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/oakland/94607/west-oakland-health-center-4090-90130?utm_campaign=west-oakland-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1682 7th St, Oakland, CA 94607, USA",
+  "phoneNumber": "+1 510-300-3800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10490375013054436198"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Alameda County",
+  "city": "Prescott",
+  "latLng": [
+    37.8067389,
+    -122.3003062
+  ]
+}

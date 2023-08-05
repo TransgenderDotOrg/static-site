@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-west-central-el-paso",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "b41e37ec-e214-45c8-862b-b973f2ae9329",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/el-paso/79902/el-paso-health-resource-center-4285-91620?utm_campaign=el-paso-health-resource-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1511 E Missouri Ave Suite 150, El Paso, TX 79902, USA",
+  "phoneNumber": "+1 915-626-5191",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5151887097247419823"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "El Paso County",
+  "city": "West Central El Paso",
+  "latLng": [
+    31.7705312,
+    -106.4764604
+  ]
+}

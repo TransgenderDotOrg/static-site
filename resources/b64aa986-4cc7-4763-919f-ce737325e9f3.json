@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Kind Clinic",
+      "description": "Kind Clinic provides no-cost sexual health services to people of all races, creeds, gender identities and expressions, immigration statuses, sexual orientations, insurance statuses, and abilities to pay. The clinic offers patient advocates with expertise serving the LGBTQIA+ community, free walk-in HIV/STI testing and treatment services, PrEP & PEP access, HIV testing & care and gender affirming care including hormone therapy."
+    }
+  },
+  "slug": "kind-clinic-balcones-terrace",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "b64aa986-4cc7-4763-919f-ce737325e9f3",
+  "externalUrl": "https://kindclinic.org/",
+  "address": "8140 N Mopac Expy Bldg 2, Ste 130, Austin, TX 78759, USA",
+  "phoneNumber": "+1 833-937-5463",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6623931502015199691"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Travis County",
+  "city": "Balcones Terrace",
+  "latLng": [
+    30.36702129999999,
+    -97.744469
+  ]
+}

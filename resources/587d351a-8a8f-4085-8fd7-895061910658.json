@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Family Health Centers of San Diego",
+      "description": "Committed to providing affordable and high-quality health care to everyone, especially the uninsured, low-income, and medically underserved individuals. With a list of comprehensive services, it caters to various groups including the transgender community. It provides transgender health services ensuring a safe, welcoming environment promoting essential health needs."
+    }
+  },
+  "slug": "family-health-centers-of-san-diego-core-columbia",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "587d351a-8a8f-4085-8fd7-895061910658",
+  "externalUrl": "https://www.fhcsd.org/downtown-family-health-center-at-connections/",
+  "address": "1250 Sixth Ave #100, San Diego, CA 92101, USA",
+  "phoneNumber": "+1 619-515-2430",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14343236838567798314"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Core-Columbia",
+  "latLng": [
+    32.718544,
+    -117.159579
+  ]
+}

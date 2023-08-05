@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-airline-farms",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "095a8857-ea60-41b2-b73a-5e78cd0f4676",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/houston/77037/northville-health-center-2494-91650?utm_campaign=northville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "9919 N Fwy Service Rd #107, Houston, TX 77037, USA",
+  "phoneNumber": "+1 713-514-1106",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8252224587046721144"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Harris County",
+  "city": "Airline Farms",
+  "latLng": [
+    29.9074724,
+    -95.413325
+  ]
+}

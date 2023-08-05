@@ -1,0 +1,41 @@
+{
+  "id": "b4ef7bb8-0c1b-4b34-b840-d3b8c858e2ed",
+  "i18n": {
+    "en-US": {
+      "title": "Outside In - Providing a Range of Services to the Transgender and Gender Diverse Community",
+      "description": "Outside In in Portland, OR offers a multitude of services catering to the transgender and gender diverse community. Health services include medical consultations by experienced health care providers and the opportunity for insured medical care. They offer specific services for transgender and gender diverse individuals, providing the necessary respect and understanding towards their needs. The center also provides substance use peer services, meals, housing support, education, employment, and LGBTQIA+ specific services. Their aim is to provide access to basic healthcare, housing, and education - tools necessary for the individuals they serve to thrive."
+    }
+  },
+  "slug": "outside-in",
+  "externalUrl": "https://outsidein.org/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1132 SW 13th Ave, Portland, OR 97205, USA",
+  "phoneNumber": "+1 503-535-3860",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Southwest Portland",
+  "county": "Multnomah County",
+  "latLng": [
+    45.5176019,
+    -122.6864858
+  ],
+  "email": "info@outsidein.org",
+  "socialMedia": {
+    "facebookUrl": "https://www.facebook.com/pages/Outside-In/353846711409909",
+    "instagramUrl": "https://www.instagram.com/outsidein_pdx/",
+    "googleMapsUrl": "https://maps.google.com/?cid=9789066096726035125"
+  }
+}

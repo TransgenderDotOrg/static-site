@@ -1,0 +1,34 @@
+{
+  "id": "de776300-b8e9-4938-b712-fb91f572ac5f",
+  "i18n": {
+    "en-US": {
+      "title": "HNE Sexual Health Clinics",
+      "description": "HNE Sexual Health is an organization providing tailored healthcare services in New South Wales. Our services are specifically designed to serve individuals at high risk, including members of the transgender community. We offer free and confidential sexual health services to cater to the various needs, providing a safe and inclusive environment for all, including transmasculine, transfeminine and non-binary individuals."
+    }
+  },
+  "slug": "hne-sexual-health-clinics",
+  "externalUrl": "http://hnesexualhealth.org.au/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "LVL 2/670 Hunter St, Newcastle West NSW 2302, Australia",
+  "phoneNumber": "+61 2 4016 4536",
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Newcastle West",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5126928094916040264"
+  },
+  "county": "Newcastle",
+  "latLng": [
+    -32.926606,
+    151.764789
+  ]
+}

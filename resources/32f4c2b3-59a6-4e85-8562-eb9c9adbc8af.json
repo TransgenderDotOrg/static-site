@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-wesselman-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "32f4c2b3-59a6-4e85-8562-eb9c9adbc8af",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/evansville/47711/evansville-health-center-2637-91810?utm_campaign=evansville-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "125 N Weinbach Ave #120, Evansville, IN 47711, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15563628799558977119"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "Vanderburgh County",
+  "city": "Wesselman Park",
+  "latLng": [
+    37.97912,
+    -87.52903739999999
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c83b40fb-2543-4138-b1bb-f286a012fa5e",
+  "i18n": {
+    "en-US": {
+      "title": "UI Health University Village Clinic",
+      "description": "UI Health University Village Clinic offers a wide range of services from primary care to specialist services. They provide inclusive and compassionate care catering to the specific healthcare needs of the transgender community. They offer services like endocrinology and behavioral development which are essential needs for transition-related healthcare."
+    }
+  },
+  "slug": "ui-health-university-village-clinic",
+  "externalUrl": "https://hospital.uillinois.edu/patients-and-visitors/locations-and-directions/ui-health-at-university-village/university-village-maxwell-clinic",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "722 W Maxwell St, Chicago, IL 60607, USA",
+  "phoneNumber": "+1 866-600-2273",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Little Italy",
+  "county": "Cook County",
+  "latLng": [
+    41.8650352,
+    -87.6459252
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14939958063145325996"
+  }
+}

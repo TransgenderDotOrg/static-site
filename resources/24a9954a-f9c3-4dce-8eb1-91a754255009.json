@@ -1,0 +1,35 @@
+{
+  "id": "24a9954a-f9c3-4dce-8eb1-91a754255009",
+  "i18n": {
+    "en-US": {
+      "title": "Rager Adolescent Health",
+      "description": "Rager Adolescent Health, PLLC is a dedicated healthcare provider for the transgender community, offering medical services designed to support transmasculine, non-binary, and transfeminine individuals. Although the physical location of the clinic is closing, the team, including Dr. Rager and Michael, will continue their compassionate care at the Nashville CARES Clinic. They are committed to ensuring a seamless transition and ongoing holistic healthcare for patients. Please take note this location only serves patients 18 years and older."
+    }
+  },
+  "slug": "rager-adolescent-health",
+  "externalUrl": "http://www.rageradolescenthealth.com/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "801 Woodland St, Nashville, TN 37206, USA",
+  "phoneNumber": "+1 615-933-0173",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Historic Edgefield",
+  "county": "Davidson County",
+  "latLng": [
+    36.1745925,
+    -86.7584102
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4604986007031054376"
+  }
+}

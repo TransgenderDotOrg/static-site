@@ -1,0 +1,36 @@
+{
+  "id": "efaf1314-57ed-4ed9-8415-8e73222027dc",
+  "i18n": {
+    "en-US": {
+      "title": "M Health Fairview Clinic - Smiley's",
+      "description": "M Health Fairview Clinic - Smiley's, a family medicine clinic, offers a comprehensive range of services for all ages, including through pregnancy and childbirth and women's health issues. As an informed consent clinic, we foster an inclusive and supportive environment for the transgender community, providing tailored healthcare services that prioritize individuals' identities and preferences. Our team of educators, pharmacists, and psychologists work collaboratively to teach and support patients in disease prevention and management."
+    }
+  },
+  "slug": "m-health-fairview-clinic-smileys",
+  "externalUrl": "https://www.mhealthfairview.org/locations/M-Health-Fairview-Clinic---Smileys",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic",
+    "transfeminine",
+    "transmasculine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2020 E 28th St, Minneapolis, MN 55407, USA",
+  "phoneNumber": "612-333-0770",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Phillips",
+  "county": "Hennepin County",
+  "latLng": [
+    44.9527966,
+    -93.24249789999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=812344247912514318"
+  }
+}

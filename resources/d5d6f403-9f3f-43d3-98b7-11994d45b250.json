@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bloomington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d5d6f403-9f3f-43d3-98b7-11994d45b250",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/illinois/bloomington/61704/bloomington-health-center-2891-90430?utm_campaign=bloomington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1319 N Veterans Pkwy 3 a, Bloomington, IL 61704, USA",
+  "phoneNumber": "+1 309-827-4014",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6034414970511987170"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "McLean County",
+  "city": "Bloomington",
+  "latLng": [
+    40.4959394,
+    -88.95228039999999
+  ]
+}

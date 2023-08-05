@@ -1,0 +1,34 @@
+{
+  "id": "90af5085-cb57-412b-81d6-445a94110907",
+  "i18n": {
+    "en-US": {
+      "title": "White Bird Medical Clinic",
+      "description": "White Bird Medical Clinic aims to provide compassionate health care to all, especially those who might not usually receive it. White Bird has shown solidarity with the transgender community and offers services such as medical assistance and mental health support. They also offer assistance in obtaining Oregon birth certificates, a vital service for transgender individuals seeking to change their legal names and gender markers. The clinic operates on a sliding fee scale, indicating its commitment to making healthcare accessible and affordable for the transgender community."
+    }
+  },
+  "slug": "white-bird-medical-clinic",
+  "externalUrl": "https://whitebirdclinic.org/services/medical/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1400 Mill St, Eugene, OR 97401, USA",
+  "phoneNumber": "(541) 484-4800",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Downtown",
+  "latLng": [
+    44.0442083,
+    -123.0869652
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7493709217888492448"
+  },
+  "county": "Lane County"
+}

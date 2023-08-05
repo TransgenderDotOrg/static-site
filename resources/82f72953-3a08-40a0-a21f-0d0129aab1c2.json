@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "One Medical - Exceptional Primary Care",
+      "description": "One Medical offers exceptional primary care facilities and personalized attention to all patients, including the transgender community. The office schedules long appointments for in-depth discussions and has multiple services covering everything from chronic care to mental health issues. It offers compassionate care, recognizing the unique medical and emotional needs of transgender individuals. Practitioners are experienced in handling sensitive matters such as hormone replacement therapy, post-surgery care, and transgender-specific mental health care."
+    }
+  },
+  "slug": "one-medical-exceptional-primary-care-chevy-chase",
+  "tags": [
+    "healthcare",
+    "informed-consent-clinic"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "82f72953-3a08-40a0-a21f-0d0129aab1c2",
+  "externalUrl": "https://www.onemedical.com/locations/dc/chevychase/?utm_source=google&utm_medium=organic&utm_campaign=localseo",
+  "address": "8401 Connecticut Ave, Chevy Chase, MD 20815, USA",
+  "phoneNumber": "+1 888-663-6331",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5252986992921508533"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Montgomery County",
+  "city": "Chevy Chase",
+  "latLng": [
+    38.9943421,
+    -77.0764987
+  ]
+}

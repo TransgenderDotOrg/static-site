@@ -1,0 +1,33 @@
+{
+  "id": "340dfbf3-1daf-4c35-931c-e883fdf889d8",
+  "i18n": {
+    "en-US": {
+      "title": "Bassow Family Medicine - Informed Consent Clinic",
+      "description": "Bassow Family Medicine provides comprehensive care tailored to the individual health needs of the transgender community in Wheat Ridge, Colorado. The services offered are informed consent, meaning they base treatment plans on individual's informed and autonomous decisions about their health. The health professionals are highly knowledgeable and friendly, ensuring a safe and inclusive environment."
+    }
+  },
+  "slug": "bassow-family-medicine-informed-consent-clinic",
+  "externalUrl": "http://bassowfamilymedicine.com/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "4045 Wadsworth Blvd Ste 250, Wheat Ridge, CO 80033, USA",
+  "phoneNumber": "+1 303-425-6012",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Bel Aire",
+  "latLng": [
+    39.7724413,
+    -105.0820363
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=779354143867299725"
+  },
+  "county": "Jefferson County"
+}

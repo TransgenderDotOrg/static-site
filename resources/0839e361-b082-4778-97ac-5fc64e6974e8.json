@@ -1,0 +1,35 @@
+{
+  "id": "0839e361-b082-4778-97ac-5fc64e6974e8",
+  "i18n": {
+    "en-US": {
+      "title": "City of Waukegan Services",
+      "description": "The City of Waukegan in Illinois provides a range of services and amenities to serve its diverse residents, including the transgender community. From community programs led by the local police department to various leisure activities and social services, there are numerous opportunities for the transgender community to engage and receive support. Amenities such as public libraries, schools, and hospitals contribute to providing an inclusive and supportive environment."
+    }
+  },
+  "slug": "city-of-waukegan-services",
+  "externalUrl": "http://www.waukeganweb.net/",
+  "tags": [
+    "legal",
+    "healthcare",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "Waukegan, IL, USA",
+  "phoneNumber": "847-599-2500",
+  "country": "US",
+  "provinceOrState": "IL",
+  "city": "Waukegan",
+  "county": "Lake County",
+  "latLng": [
+    42.3636331,
+    -87.84479379999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Waukegan,+IL&ftid=0x880f929cb856822d:0x1b746b364cacf55f"
+  }
+}

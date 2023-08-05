@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "CAN Community Health",
+      "description": "CAN Community Health is a community health center focused on providing healthcare services to individuals affected by HIV, Hepatitis C and other sexually transmitted diseases. They are committed to inclusivity and diversity, ensuring that they provide excellent healthcare regardless of race, color, gender, personal beliefs, disability, etc. They also offer a wide range of services tailored specifically to the needs of transgender people, including education, research, outreach, and support."
+    }
+  },
+  "slug": "can-community-health-ghent",
+  "tags": [
+    "healthcare",
+    "support-groups",
+    "medicine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "aba42e1c-449c-4055-afd0-8dc05d051e76",
+  "externalUrl": "http://www.cancommunityhealth.org/norfolk-va/",
+  "address": "1001 Monticello Ave #100, Norfolk, VA 23510, USA",
+  "phoneNumber": "+1 757-346-5770",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12772970860668630167"
+  },
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Ghent",
+  "latLng": [
+    36.8596998,
+    -76.2873762
+  ]
+}

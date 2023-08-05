@@ -1,0 +1,36 @@
+{
+  "id": "64830c6c-996d-46d7-bebe-89f79d6b7143",
+  "i18n": {
+    "en-US": {
+      "title": "Denver Health Medical Center",
+      "description": "Denver Health Medical Center offers advanced health care services tailored to the unique needs of the transgender community. It provides specialized, compassionate, and inclusive care that respects the individuality and identity of each patient. The center offers informed consent clinics, mental health services, and the support of patient advocates. Emphasizing patient accessibility, Denver Health offers the option of virtual and telehealth appointments for easier access to health care."
+    }
+  },
+  "slug": "denver-health-medical-center",
+  "externalUrl": "http://www.denverhealth.org/?utm_medium=local_listing&utm_source=google&utm_campaign=brand",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "777 Bannock St, Denver, CO 80204, USA",
+  "phoneNumber": "+1 303-436-6000",
+  "country": "US",
+  "provinceOrState": "CO",
+  "city": "Lincoln Park",
+  "latLng": [
+    39.72780789999999,
+    -104.9911862
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7897844294615798027"
+  },
+  "county": "Denver County"
+}

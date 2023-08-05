@@ -1,0 +1,24 @@
+{
+  "id": "02b1cd1a-0b9c-44b9-9005-fa8fa260af65",
+  "i18n": {
+    "en-US": {
+      "title": "Maine Family Planning",
+      "description": "Maine Family Planning provides affordable reproductive health care services for all Mainers, as well as primary care, help for new parents and families, and gender-affirming health services. Some services are available online."
+    }
+  },
+  "externalUrl": "http://www.mainefamilyplanning.org/",
+  "tags": ["healthcare", "support-groups", "parent-family-resources", "education-awareness"],
+  "organizationType": ["local-office", "informed-consent-clinic", "healthcare-provider"],
+  "slug": "maine-family-planning-belfast",
+  "address": "147 Waldo Ave, Belfast, ME 04915, USA",
+  "phoneNumber": "+1 207-922-3222",
+  "country": "US",
+  "provinceOrState": "ME",
+  "city": "Belfast",
+  "county": "Waldo County",
+  "latLng": [44.4326503, -69.0189233],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13639411562759275596"
+  }
+}

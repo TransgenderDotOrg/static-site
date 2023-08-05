@@ -1,0 +1,36 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-west-bronx",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "848dfe22-915c-4aee-9dc3-4a09b1f821f6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/bronx/10451/the-bronx-center-2524-91110?utm_campaign=the-bronx-center&utm_medium=organic&utm_source=local-listing",
+  "address": "349 E 149th St 2nd Floor, Bronx, NY 10451, USA",
+  "phoneNumber": "+1 212-965-7000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5125168087424994481"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Bronx County",
+  "city": "West Bronx",
+  "town": "Bronx",
+  "latLng": [
+    40.8168619,
+    -73.9196783
+  ]
+}

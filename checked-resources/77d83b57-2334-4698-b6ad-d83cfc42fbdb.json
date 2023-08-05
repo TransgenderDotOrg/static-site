@@ -1,0 +1,37 @@
+{
+  "id": "77d83b57-2334-4698-b6ad-d83cfc42fbdb",
+  "i18n": {
+    "en-US": {
+      "title": "Equality Health Center",
+      "description": "Equality Health Center is a non-profit health care facility that provides individualised and compassionate health care for people of all genders, ages, and sexual orientation. Services include preventive health examinations, abortion services, birth control, gender-affirming hormone therapy, STI and HIV Testing, PrEP, behavioural health and more."
+    }
+  },
+  "slug": "equality-health-center",
+  "externalUrl": "http://www.equalityhc.org/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "non-profit-organization",
+    "informed-consent-clinic",
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "38 S Main St, Concord, NH 03301, USA",
+  "phoneNumber": "+1 603-225-2739",
+  "country": "US",
+  "provinceOrState": "NH",
+  "city": "Concord",
+  "latLng": [
+    43.2018497,
+    -71.5350472
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15876617818604898513"
+  },
+  "county": "Merrimack County"
+}

@@ -1,0 +1,37 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Western North Carolina Community Health Services",
+      "description": "Providing inclusive medical and health services to the transgender community, with a comprehensive range of services from primary care to mental health and HIV care. Our mission is ensuring everyone, especially those in the LGBTQ+ community, have access to high-quality, respectful, and non-stigmatizing care."
+    }
+  },
+  "slug": "western-north-carolina-community-health-services-asheville",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "936fb1dd-9690-4bbe-ba65-c5de0b55ae89",
+  "externalUrl": "http://www.wncchs.org/",
+  "address": "257 Biltmore Ave, Asheville, NC 28801, USA",
+  "phoneNumber": "+1 828-285-0622",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1813497912633728437"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Buncombe County",
+  "city": "Asheville",
+  "latLng": [
+    35.5852445,
+    -82.5519766
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "8d104a5f-d9a9-449b-b507-8e5c0267a6ec",
+  "i18n": {
+    "en-US": {
+      "title": "Gender Health Center, Sacramento",
+      "description": "A Trans and POC-led grassroots nonprofit organization in Sacramento, CA, Gender Health Center (GHC) prioritizes the needs of Queer and Trans People of Color (QTPOC). It provides a range of services including mental health, advocacy, and healthcare along with supportive resources like the Black Trans Power Fund. It tailors to the transgender community by providing an inclusive, sensitive environment and a range of specific services that address the unique needs of the transgender community. Apart from harm reduction services, GHC accepts walk-ins and operates by appointments only."
+    }
+  },
+  "slug": "gender-health-center-sacramento",
+  "externalUrl": "http://genderhealthcenter.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "3823 V St, Sacramento, CA 95817, USA",
+  "phoneNumber": "916.455.2391",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "Southeastern Sacramento",
+  "latLng": [
+    38.5575738,
+    -121.4601243
+  ],
+  "email": "frontdesk@ghcmail.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11270513996777633058"
+  },
+  "county": "Sacramento County"
+}

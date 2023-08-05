@@ -1,0 +1,36 @@
+{
+  "id": "7247924c-9f8a-4b67-8554-8fd526ea52de",
+  "i18n": {
+    "en-US": {
+      "title": "Fenway: South End",
+      "description": "Fenway: South End is a comprehensive health care facility located in Boston’s South End neighborhood. It offers a range of medical and behavioral health care services, from primary care to HIV/STI testing and counseling. The facility is well-known for its work with the LGBTQIA+ community, and also offers interpretation services."
+    },
+    "other-lang": null
+  },
+  "slug": "fenway-south-end",
+  "externalUrl": "http://fenwayhealth.org/info/locations/fenway-south-end/",
+  "tags": [
+    "healthcare",
+    "community-stories",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "142 Berkeley St, Boston, MA 02116, USA",
+  "phoneNumber": "+1 617-247-7555",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "latLng": [
+    42.348831,
+    -71.0721366
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11744828125629694522"
+  }
+}

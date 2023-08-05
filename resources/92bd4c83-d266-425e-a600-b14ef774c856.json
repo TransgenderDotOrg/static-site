@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-grand-rapids",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "92bd4c83-d266-425e-a600-b14ef774c856",
+  "externalUrl": "https://www.plannedparenthood.org/health-center?utm_campaign=closed&utm_medium=referral&utm_source=yext",
+  "address": "1404 NW 4th St, Grand Rapids, MN 55744, USA",
+  "phoneNumber": "+1 800-230-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=624396685343333429"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Itasca County",
+  "city": "Grand Rapids",
+  "latLng": [
+    47.235724,
+    -93.54997019999999
+  ]
+}

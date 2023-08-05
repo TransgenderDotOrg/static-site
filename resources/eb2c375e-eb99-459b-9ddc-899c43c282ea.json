@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-twin-falls",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "eb2c375e-eb99-459b-9ddc-899c43c282ea",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/idaho/twin-falls/83301/twin-falls-health-center-2938-91810?utm_campaign=twin-falls-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "200 2nd Ave N, Twin Falls, ID 83301, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17597515204192132084"
+  },
+  "country": "US",
+  "provinceOrState": "ID",
+  "county": "Twin Falls County",
+  "city": "Twin Falls",
+  "latLng": [
+    42.5578152,
+    -114.4703489
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-memphis",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d3a2aff8-95dd-484a-8f07-ce2ec0557e16",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/tennessee/memphis/38122/memphis-health-center-near-summer-and-i240-4247-91550?utm_campaign=memphis-health-center-near-summer-and-i240&utm_medium=organic&utm_source=local-listing",
+  "address": "835 Virginia Run Cove, Memphis, TN 38122, USA",
+  "phoneNumber": "+1 866-711-1717",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9134165465764938509"
+  },
+  "country": "US",
+  "provinceOrState": "TN",
+  "county": "Shelby County",
+  "city": "Memphis",
+  "latLng": [
+    35.1567732,
+    -89.8823335
+  ]
+}

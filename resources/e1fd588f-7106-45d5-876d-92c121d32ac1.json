@@ -1,0 +1,35 @@
+{
+  "id": "e1fd588f-7106-45d5-876d-92c121d32ac1",
+  "i18n": {
+    "en-US": {
+      "title": "Semcac Community Services",
+      "description": "Semcac is a community-based agency serving Southeastern Minnesota, committed to providing crucial services to the communities, including the transgender community. They provide comprehensive healthcare services such as hormone therapy, STD testing, and reproductive education. Other services such as homelessness prevention, car repair assistance, senior advocacy, and food security initiative tailor to the broader needs of the transgender community, recognizing the systemic challenges that transgender people face. Semcac's core value is treating all individuals dignity and respect, regardless of their gender identity."
+    }
+  },
+  "slug": "semcac-community-services",
+  "externalUrl": "http://www.semcac.org/",
+  "tags": [
+    "healthcare",
+    "social-services",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "address": "420 E Sarnia St # 1600, Winona, MN 55987, USA",
+  "phoneNumber": "+1 507-452-4307",
+  "country": "US",
+  "provinceOrState": "MN",
+  "city": "Winona",
+  "county": "Winona County",
+  "latLng": [
+    44.0406772,
+    -91.6312169
+  ],
+  "email": "semcac@semcac.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10262691263432353939"
+  }
+}

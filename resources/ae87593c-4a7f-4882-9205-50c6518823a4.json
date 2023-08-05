@@ -1,0 +1,34 @@
+{
+  "id": "ae87593c-4a7f-4882-9205-50c6518823a4",
+  "i18n": {
+    "en-US": {
+      "title": "Memphis Internal Medicine and Pediatrics - Dr. Allison Stiles",
+      "description": "Dr. Allison Stiles is a primary care physician at Memphis Internal Medicine and Pediatrics, providing internal medicine & pediatrics, specializing in breastfeeding medicine. Dr. Stiles is a fervent supporter of the transgender community, providing care and advice towards reaching their gender goals. She has partnered with organizations such as OutMemphis and Friends for Life, and she is an active provider of PrEP to help prevent HIV."
+    }
+  },
+  "slug": "memphis-internal-medicine-and-pediatrics-dr-allison-stiles",
+  "externalUrl": "https://www.memphis-medpeds.com",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "1325 Eastmoreland Ave #585, Memphis, TN 38104, USA",
+  "phoneNumber": "+1 901-276-0249",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "New Pathways",
+  "latLng": [
+    35.135079,
+    -90.017386
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15304966929325882118"
+  },
+  "county": "Shelby County"
+}

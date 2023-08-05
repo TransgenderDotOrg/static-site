@@ -1,0 +1,32 @@
+{
+  "id": "6b999e0f-caaf-430d-ae9b-0845e255fe29",
+  "i18n": {
+    "en-US": {
+      "title": "Port Kembla Hospital",
+      "description": "Port Kembla Hospital is a local healthcare provider that tailors to the needs of the transgender community in Warrawong, Australia. Its services may include gender-affirming treatments, hormone therapies, and related medical procedures. Please contact the hospital for more specific details of their services."
+    }
+  },
+  "slug": "port-kembla-hospital",
+  "externalUrl": "https://maps.google.com/?q=Port+Kembla+Hospital,+Warrawong+NSW+2502,+Australia&ftid=0x6b13173d1d7c5731:0x5025f731ad26c90a",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider"
+  ],
+  "address": "Port Kembla Hospital, Warrawong NSW 2502, Australia",
+  "phoneNumber": null,
+  "country": "AU",
+  "provinceOrState": "NSW",
+  "city": "Warrawong",
+  "county": "City of Wollongong",
+  "latLng": [
+    -34.4856687,
+    150.8812989
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=Port+Kembla+Hospital,+Warrawong+NSW+2502,+Australia&ftid=0x6b13173d1d7c5731:0x5025f731ad26c90a"
+  }
+}

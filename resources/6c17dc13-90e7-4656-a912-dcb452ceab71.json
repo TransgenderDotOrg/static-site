@@ -1,0 +1,36 @@
+{
+  "id": "6c17dc13-90e7-4656-a912-dcb452ceab71",
+  "i18n": {
+    "en-US": {
+      "title": "UnityPoint Clinic LGBTQ - Prairie Parkway",
+      "description": "UnityPoint Clinic LGBTQ - Prairie Parkway is a healthcare provider situated in Cedar Falls, IA. Offering services such as immunizations, laboratory services, and women's health, with a specialty in family medicine. The clinic is dedicated to serving the transgender community, acknowledging that every individual is more than just a label or diagnosis, but a person with unique needs and feelings. The clinic operates with a patient-first approach, prioritizing the well-being and health of all people, including those who identify as transmasculine, transfeminine, and non-binary."
+    }
+  },
+  "slug": "unitypoint-clinic-lgbtq-prairie-parkway",
+  "externalUrl": "https://www.unitypoint.org/locations/unitypoint-clinic-lgbtq---prairie-parkway",
+  "tags": [
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "healthcare"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "address": "5100 Prairie Pkwy Ste 300, Cedar Falls, IA 50613, USA",
+  "phoneNumber": "+1 319-222-2710",
+  "country": "US",
+  "provinceOrState": "IA",
+  "city": "Cedar Falls",
+  "county": "Black Hawk County",
+  "latLng": [
+    42.4919935,
+    -92.43248059999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13793308664821713734"
+  }
+}

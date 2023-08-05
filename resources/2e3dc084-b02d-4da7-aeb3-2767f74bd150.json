@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bemidji",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2e3dc084-b02d-4da7-aeb3-2767f74bd150",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/bemidji/56601/bemidji-health-center-2927-90720?utm_campaign=bemidji-clinic&utm_medium=organic&utm_source=local-listing",
+  "address": "2504 Hannah Ave NW, Bemidji, MN 56601, USA",
+  "phoneNumber": "+1 218-751-8683",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7965105754222233695"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Beltrami County",
+  "city": "Bemidji",
+  "latLng": [
+    47.49313979999999,
+    -94.9062472
+  ]
+}

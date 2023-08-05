@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-barre",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "61a876b5-dd41-46d2-97aa-3698881f2810",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/vermont/barre/05641/barre-health-center-2654-91770?utm_campaign=barre-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "90 Washington St, Barre, VT 05641, USA",
+  "phoneNumber": "+1 802-476-6696",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16161547199042448143"
+  },
+  "country": "US",
+  "provinceOrState": "VT",
+  "county": "Washington County",
+  "city": "Barre",
+  "latLng": [
+    44.195142,
+    -72.4967154
+  ]
+}

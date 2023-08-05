@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "d6df762f-b773-4e82-9369-d24f05620cca",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/south-san-francisco/94080/south-san-francisco-health-center-4255-90130?utm_campaign=south-san-francisco-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "435 Grand Ave, South San Francisco, CA 94080, USA",
+  "phoneNumber": "+1 877-855-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16538976427844516897"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Mateo County",
+  "city": "Downtown",
+  "latLng": [
+    37.6556169,
+    -122.4140304
+  ]
+}

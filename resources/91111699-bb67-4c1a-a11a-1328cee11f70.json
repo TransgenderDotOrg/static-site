@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-cobleskill",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "91111699-bb67-4c1a-a11a-1328cee11f70",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/cobleskill/12043/cobleskill-center-2783-91110?utm_campaign=cobleskill-center&utm_medium=organic&utm_source=local-listing",
+  "address": "109 Legion Dr, Cobleskill, NY 12043, USA",
+  "phoneNumber": "+1 518-234-3325",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8025133236114868009"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Schoharie County",
+  "city": "Cobleskill",
+  "latLng": [
+    42.6808689,
+    -74.4807022
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "3605fed1-653f-4adb-a272-e5a11a444f59",
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood - Middlebury Health Center",
+      "description": "A local office and informed consent clinic that prioritizes providing excellent healthcare to everyone, regardless of gender, sexuality, or identity. Staff are highly knowledgeable and aim to ensure all patients feel comfortable. This center is highly recommended for its LGBTQ+ friendly approach and dedication to inclusivity within healthcare."
+    }
+  },
+  "slug": "planned-parenthood-middlebury-health-center",
+  "externalUrl": "https://maps.google.com/?cid=17041431797061723163",
+  "tags": [
+    "healthcare",
+    "legal",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1330 Exchange St Suite 202, Middlebury, VT 05753, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "VT",
+  "city": "Middlebury",
+  "county": "Addison County",
+  "latLng": [
+    44.0354404,
+    -73.1651859
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17041431797061723163"
+  }
+}

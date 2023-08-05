@@ -1,0 +1,34 @@
+{
+  "id": "6e6a77bc-d284-4a6d-93ed-1c2f65a687a2",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Ilona Lorincz - Endocrinology Specialist at Penn Medicine",
+      "description": "Dr. Ilona Lorincz is an endocrinologist specializing in diabetes, thyroid, and reproductive conditions. She provides tailored care suited to the specific needs of each patient, including gender-affirming care for transgender individuals. She is committed to evaluating each patient’s health conditions in line with their overall health, helping them achieve their health goals via lifestyle modifications and medical therapies. Dr. Lorincz is based at the Penn Medicine's Perelman Center for Advanced Medicine."
+    }
+  },
+  "slug": "dr-ilona-lorincz-endocrinology-specialist-at-penn-medicine",
+  "externalUrl": "https://www.pennmedicine.org/providers/profile/ilona-lorincz",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3400 Spruce St, Philadelphia, PA 19104, USA",
+  "phoneNumber": "+1 215-360-0628",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "University City",
+  "latLng": [
+    39.9499701,
+    -75.19300590000002
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3979578056758979902"
+  },
+  "county": "Philadelphia County"
+}

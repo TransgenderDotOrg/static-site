@@ -1,0 +1,38 @@
+{
+  "id": "395617be-0a64-4b6c-a6c0-30ce2f425744",
+  "i18n": {
+    "en-US": {
+      "title": "Cherokee Health Systems",
+      "description": "Cherokee Health Systems is a non-profit organization providing comprehensive healthcare services including primary care, behavioral health, dental, pharmacy, and optometry. We are committed to serve all patients regardless of their ability to pay. We are recognized for our high quality, integrated model of healthcare. We cater the needs of transgender community by providing a safe, compassionate, and inclusive environment for care. Our services include support for physical and mental health, social services, support groups and patient education."
+    }
+  },
+  "slug": "cherokee-health-systems",
+  "externalUrl": "http://www.cherokeehealth.com/",
+  "tags": [
+    "mental-health",
+    "healthcare",
+    "social-services",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "non-profit-organization",
+    "healthcare-provider"
+  ],
+  "address": "2018 Western Ave, Knoxville, TN 37921, USA",
+  "phoneNumber": "+1 866-231-4477",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Knoxville",
+  "county": "Knox County",
+  "latLng": [
+    35.9666411,
+    -83.9452831
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15236438264522827370"
+  }
+}

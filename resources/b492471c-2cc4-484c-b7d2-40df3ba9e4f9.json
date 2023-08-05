@@ -1,0 +1,35 @@
+{
+  "id": "b492471c-2cc4-484c-b7d2-40df3ba9e4f9",
+  "i18n": {
+    "en-US": {
+      "title": " HealthOn Tucson, Broadway & University",
+      "description": "HealthOn Tucson offers personalized healthcare services for the transgender community in Tucson, Arizona. With offices at Broadway and University, HealthOn Tucson embraces diversity and work towards ensuring a safe, confidential and inclusive environment for all patients. They provide a range of medical services catering specifically to transgender health, driven by understanding and acknowledging each patient’s unique journey."
+    }
+  },
+  "slug": "healthon-tucson",
+  "externalUrl": "https://healthontucson.org/",
+  "tags": [
+    "healthcare",
+    "legal",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1 W Broadway Blvd Suite #151, Tucson, AZ 85701, USA",
+  "phoneNumber": "+1 520-309-4200",
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Downtown",
+  "county": "Pima County",
+  "latLng": [
+    32.2208202,
+    -110.9714337
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=8832858212968984679"
+  }
+}

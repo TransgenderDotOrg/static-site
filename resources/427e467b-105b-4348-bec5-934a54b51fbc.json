@@ -1,0 +1,38 @@
+{
+  "id": "427e467b-105b-4348-bec5-934a54b51fbc",
+  "i18n": {
+    "en-US": {
+      "title": "Harvard University Health Services",
+      "description": "Harvard University Health Services (HUHS) is a premier healthcare provider inclusive and sensitive to the healthcare needs of the transgender community. Offering multiple services including primary care, mental health services, and patient advocacy, HUHS promotes a supportive and affirming environment for all, including transmasculine, transfeminine, and non-binary individuals. They provide telemedicine as well as in-person consultations, fostering an adaptable and accessible model of care."
+    }
+  },
+  "slug": "harvard-university-health-services",
+  "externalUrl": "http://huhs.harvard.edu/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "friendly-businesses",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "75 Mt Auburn St, Cambridge, MA 02138, USA",
+  "phoneNumber": "+1 617-495-5711",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Riverside",
+  "latLng": [
+    42.37263979999999,
+    -71.1186448
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18016302621625880626"
+  },
+  "county": "Middlesex County"
+}

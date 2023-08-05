@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-federal-way",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c3e97139-5220-4aaf-b798-65e9efef848e",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/washington/federal-way/98003/federal-way-health-center-2503-91810?utm_campaign=federal-way-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1105 S 348th St #B103, Federal Way, WA 98003, USA",
+  "phoneNumber": "+1 800-769-0045",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1146594553227387945"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Federal Way",
+  "latLng": [
+    47.288995,
+    -122.3199712
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "d0dfab23-46eb-466b-9484-408d0e3a5aeb",
+  "i18n": {
+    "en-US": {
+      "title": "215 Church St Local Offices",
+      "description": "The building located at 215 Church St, Decatur, GA houses various essential services that cater to the transgender community. Notably, it houses QueerMed, an informed-consent clinic that provides healthcare to transgender and non-binary individuals. Also present is Dr. Leo Panagiotakopoulos, a pediatrician, and Heather Kotler, a social worker, both of whom could assist with youth-services, mental-health, and support-groups for the transgender community. This central location makes accessing these resources more convenient for members of the community."
+    }
+  },
+  "slug": "215-church-st-local-offices",
+  "externalUrl": "https://maps.google.com/?q=215+Church+St,+Decatur,+GA+30030&ftid=0x88f5073ec3bb8bc1:0x6f10d45d4cae15b7",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "youth-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "215 Church St, Decatur, GA 30030, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Downtown Decatur",
+  "county": "Dekalb County",
+  "latLng": [
+    33.7720816,
+    -84.2945711
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?q=215+Church+St,+Decatur,+GA+30030&ftid=0x88f5073ec3bb8bc1:0x6f10d45d4cae15b7"
+  }
+}

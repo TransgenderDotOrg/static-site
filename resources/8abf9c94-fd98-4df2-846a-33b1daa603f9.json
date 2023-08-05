@@ -1,0 +1,35 @@
+{
+  "id": "8abf9c94-fd98-4df2-846a-33b1daa603f9",
+  "i18n": {
+    "en-US": {
+      "title": "Ochsner Medical Center – New Orleans",
+      "description": "Ochsner Medical Center in New Orleans is a part of Ochsner Health, a nonprofit, academic, multi-specialty healthcare system known for its commitment to patient care, education, and research. They provide comprehensive healthcare services and have earned recognition for nursing excellence. The center embraces diversity, equity and is inclusive, making it a safe and welcoming space for the transgender community. Their highly-trained medical professionals work across specialties, providing patient-centered care using innovative technologies. They also offer resources such as medical records, patient stories, and health resources including a COVID-19 Information segment to ensure informed consent and increased patient empowerment."
+    }
+  },
+  "slug": "ochsner-medical-center-new-orleans",
+  "externalUrl": "https://www.ochsner.org/locations/ochsner-medical-center",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1514 Jefferson Hwy, Jefferson, LA 70121, USA",
+  "phoneNumber": "+1 504-842-3000",
+  "country": "US",
+  "provinceOrState": "LA",
+  "city": "Jefferson",
+  "latLng": [
+    29.9608859,
+    -90.1452225
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17960772164934871020"
+  },
+  "county": "Jefferson Parish"
+}

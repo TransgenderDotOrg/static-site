@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-gladstone",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6eea5991-f603-42ed-879b-5d8109234bad",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/missouri/gladstone/64119/northland-center-2629-90740?utm_campaign=northland-center&utm_medium=organic&utm_source=local-listing",
+  "address": "2900 NE 60th St Suite 100 Suite 100, Gladstone, MO 64119, USA",
+  "phoneNumber": "+1 816-453-6000",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6184470097776814214"
+  },
+  "country": "US",
+  "provinceOrState": "MO",
+  "county": "Clay County",
+  "city": "Gladstone",
+  "latLng": [
+    39.20342369999999,
+    -94.5450887
+  ]
+}

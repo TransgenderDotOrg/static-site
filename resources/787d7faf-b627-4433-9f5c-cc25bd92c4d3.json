@@ -1,0 +1,34 @@
+{
+  "id": "787d7faf-b627-4433-9f5c-cc25bd92c4d3",
+  "i18n": {
+    "en-US": {
+      "title": "Central Florida Endocrine and Diabetes Clinic",
+      "description": "Central Florida Endocrine and Diabetes Clinic is a medical practice specializing in endocrine disorders. Committed to providing quality healthcare, this clinic tailors its services to the transgender community by ensuring a safe, welcoming environment respectful of each individual's gender identity. Services include hormonal management, treatment for endocrine-related incidieties and more. The entire clinic staff is educated and sensitive to the medical and personal needs of transgender patients."
+    }
+  },
+  "slug": "central-florida-endocrine-and-diabetes-clinic",
+  "externalUrl": "http://floridaendocrine.com/",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "635 N Maitland Ave, Maitland, FL 32751, USA",
+  "phoneNumber": "407-629-4901",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Maitland",
+  "county": "Orange County",
+  "latLng": [
+    28.632748,
+    -81.36603459999999
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7171293562074089095"
+  }
+}

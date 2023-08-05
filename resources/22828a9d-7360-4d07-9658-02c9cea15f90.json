@@ -1,0 +1,36 @@
+{
+  "id": "22828a9d-7360-4d07-9658-02c9cea15f90",
+  "i18n": {
+    "en-US": {
+      "title": "Henry Ford Medical Center - Harbortown",
+      "description": "Henry Ford Medical Center – Harbortown in Detroit provides family medicine and lab services, specializing in X-ray services. For the transgender community, we provide compassionate care tailored to individual needs, including mental health, addiction medicine, dermatology, and reproductive medicine among others. We welcome patients of all gender identities and expressions."
+    }
+  },
+  "slug": "henry-ford-medical-center-harbortown",
+  "externalUrl": "https://www.henryford.com/locations/harbortown?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "3370 E Jefferson Ave, Detroit, MI 48207, USA",
+  "phoneNumber": "+1 313-656-1600",
+  "country": "US",
+  "provinceOrState": "MI",
+  "city": "Rivertown - Warehouse District",
+  "county": "Wayne County",
+  "latLng": [
+    42.341668,
+    -83.01287409999999
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13787871253523680547"
+  }
+}

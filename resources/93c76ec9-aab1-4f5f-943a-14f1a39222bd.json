@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-fox-hill-office-park",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "93c76ec9-aab1-4f5f-943a-14f1a39222bd",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/kansas/overland-park/66211/comprehensive-health-center-2594-90740?utm_campaign=comprehensive-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4401 W 109th St Ste 100, Leawood, KS 66211, USA",
+  "phoneNumber": "+1 913-345-1400",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1902791525335713010"
+  },
+  "country": "US",
+  "provinceOrState": "KS",
+  "county": "Johnson County",
+  "city": "Fox Hill Office Park",
+  "latLng": [
+    38.9310173,
+    -94.6367538
+  ]
+}

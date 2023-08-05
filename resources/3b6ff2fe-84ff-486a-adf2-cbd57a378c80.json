@@ -1,0 +1,38 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Cedar River Clinics",
+      "description": "Cedar River Clinics provide quality health care in a safe, culturally responsive environment. They offer wellness services, free pregnancy tests, sexually transmitted infections services, insemination services, LGBTQ services, no-scalpel vasectomy, and abortion services, among others. They particularly leverage the informed consent approach for transgender and non-binary care."
+    }
+  },
+  "slug": "cedar-river-clinics-downtown-seattle",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "non-profit-organization"
+  ],
+  "id": "3b6ff2fe-84ff-486a-adf2-cbd57a378c80",
+  "externalUrl": "http://www.cedarriverclinics.org/",
+  "address": "509 Olive Way #1454, Seattle, WA 98103, USA",
+  "phoneNumber": "+1 206-957-0990",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1604980966181873085"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Downtown Seattle",
+  "latLng": [
+    47.6127646,
+    -122.3366952
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Fenway Health: Comprehensive Care Center",
+      "description": "Fenway Health Clinics provide comprehensive medical and behavioral health services, focused on delivering individualized care to all, including the transgender community. Their team of expert providers prioritizes affirming, inclusive, and personalized health care solutions to meet each patient's unique needs."
+    }
+  },
+  "slug": "fenway-back-bay",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "id": "33fc7a82-da9b-4ec4-bbdd-3af624fc807c",
+  "externalUrl": "https://fenwayhealth.org/info/locations/the-borum/",
+  "address": "142 Berkeley St, Boston, MA 02116, USA",
+  "phoneNumber": "+1 617-457-8140",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10654157718941455417"
+  },
+  "country": "US",
+  "provinceOrState": "MA",
+  "county": "Suffolk County",
+  "city": "Back Bay",
+  "latLng": [
+    42.348831,
+    -71.0721366
+  ]
+}

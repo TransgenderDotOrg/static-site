@@ -1,0 +1,34 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-northwest",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "34ace0bf-2230-4aec-af01-55b442ad63f2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/virginia/virginia-beach/23462/virginia-beach-health-center-4166-91750?utm_campaign=virginia-beach-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "515 Newtown Rd, Virginia Beach, VA 23462, USA",
+  "phoneNumber": "+1 757-499-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2244321356249298011"
+  },
+  "country": "US",
+  "provinceOrState": "VA",
+  "city": "Northwest",
+  "latLng": [
+    36.8572971,
+    -76.1774229
+  ]
+}

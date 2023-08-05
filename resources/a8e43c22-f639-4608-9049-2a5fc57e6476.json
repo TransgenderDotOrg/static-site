@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-miami",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "a8e43c22-f639-4608-9049-2a5fc57e6476",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/miami/33186/kendall-health-center-2258-90320?utm_campaign=kendall-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "8900 SW 117th Ave 207 b, Miami, FL 33186, USA",
+  "phoneNumber": "+1 786-263-0001",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12993273665798667062"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Miami-Dade County",
+  "city": "Miami",
+  "latLng": [
+    25.6851992,
+    -80.38513259999999
+  ]
+}

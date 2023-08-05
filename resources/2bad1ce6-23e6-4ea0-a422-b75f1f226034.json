@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-boca-raton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2bad1ce6-23e6-4ea0-a422-b75f1f226034",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/florida/boca-raton/33434/boca-raton-health-center-3863-90320?utm_campaign=boca-raton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "8177 Glades Rd #25, Boca Raton, FL 33434, USA",
+  "phoneNumber": "+1 561-226-4116",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2781656555931534408"
+  },
+  "country": "US",
+  "provinceOrState": "FL",
+  "county": "Palm Beach County",
+  "city": "Boca Raton",
+  "latLng": [
+    26.3692771,
+    -80.1730769
+  ]
+}

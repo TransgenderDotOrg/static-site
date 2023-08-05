@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-high-point",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "0e690113-caad-4eb8-8d81-8e69ec4146c5",
+  "externalUrl": "https://neighborcare.org/clinics/high-point/",
+  "address": "6020 35th Ave SW 2nd Floor, Seattle, WA 98126, USA",
+  "phoneNumber": "+1 206-461-6966",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6541130390451953809"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "High Point",
+  "latLng": [
+    47.5477703,
+    -122.3760489
+  ]
+}

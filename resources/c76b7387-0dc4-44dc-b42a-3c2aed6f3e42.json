@@ -1,0 +1,36 @@
+{
+  "id": "c76b7387-0dc4-44dc-b42a-3c2aed6f3e42",
+  "i18n": {
+    "en-US": {
+      "title": "AIDS Care Group - Comprehensive Healthcare Provider",
+      "description": "AIDS Care Group is a non-profit organization that dedicates to the provision of medical care, dental care, and social services for the uninsured and underinsured. Although the name primarily speaks to HIV/AIDS care, the group’s scope is much wider and includes services for the transgender community like STD testing and treatment, Hep-C care, opioid use disorders treatment, mental health services, outreach and more. The AIDS Care Group pledges holistic care for all its patients, meeting criteria for verifiable self-reliance and independence."
+    }
+  },
+  "slug": "aids-care-group-comprehensive-healthcare-provider",
+  "externalUrl": "http://aidscaregroup.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider",
+    "non-profit-organization"
+  ],
+  "address": "907 Chester Pike, Sharon Hill, PA 19079, USA",
+  "phoneNumber": "+1 610-583-1177",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Sharon Hill",
+  "county": "Delaware County",
+  "latLng": [
+    39.910061,
+    -75.2704629
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=1848401356230387299"
+  }
+}

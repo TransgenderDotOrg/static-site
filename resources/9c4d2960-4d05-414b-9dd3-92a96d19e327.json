@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-ithaca",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9c4d2960-4d05-414b-9dd3-92a96d19e327",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/ithaca/14850/ithaca-health-center-3333-91110?utm_campaign=ithaca-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "620 W Seneca St, Ithaca, NY 14850, USA",
+  "phoneNumber": "+1 607-273-1513",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13516565831170144548"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Tompkins County",
+  "city": "Ithaca",
+  "latLng": [
+    42.440337,
+    -76.5094802
+  ]
+}

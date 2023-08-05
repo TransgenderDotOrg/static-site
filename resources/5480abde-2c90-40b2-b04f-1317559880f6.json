@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-downtown",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5480abde-2c90-40b2-b04f-1317559880f6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/pennsylvania/pittsburgh/15222/pittsburgh-family-planning-health-center-3358-91470?utm_campaign=pittsburgh-family-planning-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "933 Liberty Ave, Pittsburgh, PA 15222, USA",
+  "phoneNumber": "+1 412-434-8971",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18331739061675495640"
+  },
+  "country": "US",
+  "provinceOrState": "PA",
+  "county": "Allegheny County",
+  "city": "Downtown",
+  "latLng": [
+    40.4435134,
+    -79.9968708
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-el-cerrito",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "994aeca1-2b1b-4aef-a0d3-926e945bde5d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/el-cerrito/94530/el-cerrito-health-center-3940-90200?utm_campaign=el-cerrito-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "320 El Cerrito Plaza, El Cerrito, CA 94530, USA",
+  "phoneNumber": "+1 510-527-5806",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=80980414624561438"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Contra Costa County",
+  "city": "El Cerrito",
+  "latLng": [
+    37.8993065,
+    -122.2983525
+  ]
+}

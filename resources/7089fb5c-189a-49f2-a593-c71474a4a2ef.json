@@ -1,0 +1,41 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Northwestern Medicine Health Clinic | Portland, ME",
+      "description": "Northwestern Medicine's Portland office provides a range of comprehensive health services with a deep commitment to the transgender community. Whether it's in legal, healthcare, mental-health, or social-services sector, our expert teams are dedicated to serving the unique needs of the transmasculine, transfeminine and non-binary individuals. With robust support-groups and resources for parents, partners, and youth, our goal is to create an inclusive and respectful environment for all."
+    }
+  },
+  "slug": "northwestern-medicine-health-clinic-geneva",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "7089fb5c-189a-49f2-a593-c71474a4a2ef",
+  "externalUrl": "https://www.nm.org/locations/primary-care-geneva?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_MTE5NTMzOTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "address": "2425 Fargo Blvd, Geneva, IL 60134, USA",
+  "phoneNumber": "+1 630-232-2200",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6495722877174347703"
+  },
+  "country": "US",
+  "provinceOrState": "IL",
+  "county": "Kane County",
+  "city": "Geneva",
+  "latLng": [
+    41.8765223,
+    -88.342869
+  ]
+}

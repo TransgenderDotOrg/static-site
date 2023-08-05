@@ -1,0 +1,34 @@
+{
+  "id": "7b9ca8f2-9e73-49e3-8ce6-24e1818c4a9b",
+  "i18n": {
+    "en-US": {
+      "title": "Student Health Center at University of Tennessee, Knoxville",
+      "description": "A comprehensive health service for students at the University of Tennessee, Knoxville, committed to addressing the healthcare needs of all, irrespective of their gender identity. The center provides services such as wellness checks, vaccinations, gynecology, physical therapy, radiology, and laboratory services. They have a policy of informed consent, providing patients with comprehensive information to allow independent decision making. The center promotes a nurturing environment aimed at supporting the health of transgender, non-binary, and gender-diverse students, while respecting their individual needs."
+    }
+  },
+  "slug": "student-health-center-university-tennessee-knoxville",
+  "externalUrl": "http://studenthealth.utk.edu/",
+  "tags": [
+    "healthcare",
+    "informed-consent",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "educational-institution"
+  ],
+  "address": "1800 Volunteer Blvd, Knoxville, TN 37996, USA",
+  "phoneNumber": "865-974-5932",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "University of Tennessee",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18303292641920824072"
+  },
+  "county": "Knox County",
+  "latLng": [
+    35.9503441,
+    -83.93069
+  ]
+}

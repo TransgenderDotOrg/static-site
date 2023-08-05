@@ -1,0 +1,38 @@
+{
+  "id": "67836435-493e-4169-9145-4c6e4605142a",
+  "i18n": {
+    "en-US": {
+      "title": "UCS Healthcare - West Des Moines",
+      "description": "UCS Healthcare is an inclusive healthcare provider in West Des Moines, Iowa. We provide comprehensive services including medical, mental health, and substance disorder treatments with specialized programs for the LGBTQIA+ community. Our goal is to offer individualized and compassionate care. We understand the unique health concerns of transgender individuals and strive to provide a safe, respectful, and comfortable environment throughout each step of the healthcare journey."
+    }
+  },
+  "slug": "ucs-healthcare-west-des-moines",
+  "externalUrl": "https://www.ucsonline.org/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "support-groups",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "1300 Woodland Ave, West Des Moines, IA 50265, USA",
+  "phoneNumber": "(P) 515-280-3860",
+  "country": "US",
+  "provinceOrState": "IA",
+  "city": "West Des Moines",
+  "county": "Polk County",
+  "latLng": [
+    41.5890671,
+    -93.7213704
+  ],
+  "email": "ucsinformation@ucsdsm.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9433172031048315851"
+  }
+}

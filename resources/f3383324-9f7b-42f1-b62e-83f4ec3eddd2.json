@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-bloomington",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f3383324-9f7b-42f1-b62e-83f4ec3eddd2",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/indiana/bloomington/47403/bloomington-health-center-2639-91810?utm_campaign=bloomington-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "421 S College Ave, Bloomington, IN 47403, USA",
+  "phoneNumber": "+1 317-205-8088",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13162373314979499563"
+  },
+  "country": "US",
+  "provinceOrState": "IN",
+  "county": "Monroe County",
+  "city": "Bloomington",
+  "latLng": [
+    39.1622905,
+    -86.5346582
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "7ade1679-3f50-4ba4-ab8f-54133eb31caf",
+  "i18n": {
+    "en-US": {
+      "title": "Northern Nevada HOPES Clinic",
+      "description": "A safe and accepting medical clinic providing comprehensive medical and wellness services for the transgender community. The clinic offers specialized care including LGBTQ care, legal service, and financial assistance. Services are tailored to meet the unique health needs of transmasculine, transfeminine, and non-binary individuals, with a commitment to fostering a supportive and inclusive health care environment."
+    }
+  },
+  "slug": "northern-nevada-hopes-clinic",
+  "externalUrl": "https://nnhopes.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "legal",
+    "healthcare",
+    "financial-aid-scholarships"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "580 W 5th St, Reno, NV 89503, USA",
+  "phoneNumber": "+1 775-786-4673",
+  "country": "US",
+  "provinceOrState": "NV",
+  "city": "West University",
+  "latLng": [
+    39.529318,
+    -119.8214944
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16495410995763260653"
+  },
+  "county": "Washoe County"
+}

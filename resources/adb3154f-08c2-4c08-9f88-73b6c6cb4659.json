@@ -1,0 +1,33 @@
+{
+  "id": "adb3154f-08c2-4c08-9f88-73b6c6cb4659",
+  "i18n": {
+    "en-US": {
+      "title": "Heartland Community Health Center",
+      "description": "Heartland Community Health Center provides comprehensive health care under one roof, addressing each patient's physical, emotional, mental, and social needs. Our integrated approach to health care ensures services are tailored to every individual's specific situation, including members of the transgender community. Our variety of services includes primary care, dental health, mental health, and pediatrics."
+    }
+  },
+  "slug": "heartland-community-health-center",
+  "externalUrl": "http://www.heartlandhealth.org/",
+  "tags": [
+    "healthcare",
+    "mental-health"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1312 W 6th St, Lawrence, KS 66044, USA",
+  "phoneNumber": "+1 785-841-7297",
+  "country": "US",
+  "provinceOrState": "KS",
+  "city": "Pinckney",
+  "county": "Douglas County",
+  "latLng": [
+    38.9739721,
+    -95.2505709
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5556323097623451888"
+  }
+}

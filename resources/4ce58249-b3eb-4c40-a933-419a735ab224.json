@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Transhealth /Transgender Health at Guardian - Dr. Terry Watson",
+      "description": "Transhealth /Transgender Health at Guardian, headed by Dr. Terry Watson, provides sensitive, respectful, and comprehensive healthcare services tailored for the transgender community. These services include Hormone Replacement Therapy (HRT) and other essential health care. The clinic is highly appreciated for its LGBT+ friendly environment, helpful staff, and timely services."
+    }
+  },
+  "slug": "transhealth-transgender-health-at-guardian-dr-terry-watson-dallas",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "id": "4ce58249-b3eb-4c40-a933-419a735ab224",
+  "externalUrl": "https://transhealth-at-guardian.business.site/",
+  "address": "8204 Elmbrook Dr #206, Dallas, TX 75247, USA",
+  "phoneNumber": "+1 214-221-8181",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15163196301051500328"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Dallas County",
+  "city": "Dallas",
+  "latLng": [
+    32.8239479,
+    -96.86415699999999
+  ]
+}

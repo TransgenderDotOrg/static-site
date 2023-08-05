@@ -1,0 +1,32 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Piedmont Health: Gateway to Quality Healthcare",
+      "description": "Piedmont Health is a community-focused healthcare provider offering a wide range of services including medical, dental, senior care, and pharmacy services, among others. Our commitment to respect, compassion, and trust has made us a home for many, including the transgender community. With supportive and understanding staff, we strive to create an environment that respects your identity while providing quality healthcare tailored to your needs."
+    }
+  },
+  "slug": "piedmont-health-gateway-to-quality-healthcare-moncure",
+  "tags": [
+    "healthcare",
+    "support-groups"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "id": "4e684cbf-a3ed-4bde-9ff1-1f807c51e9c4",
+  "externalUrl": "https://piedmonthealth.org/",
+  "address": "7228 Moncure Pittsboro Rd, Moncure, NC 27559, USA",
+  "phoneNumber": "+1 919-542-4991",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=10276621229184439877"
+  },
+  "country": "US",
+  "provinceOrState": "NC",
+  "county": "Chatham County",
+  "city": "Moncure",
+  "latLng": [
+    35.6314317,
+    -79.09618999999999
+  ]
+}

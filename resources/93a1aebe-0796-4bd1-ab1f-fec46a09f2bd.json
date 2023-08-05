@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-easton",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "93a1aebe-0796-4bd1-ab1f-fec46a09f2bd",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/maryland/easton/21601/easton-health-center-md-2830-90620?utm_campaign=easton-health-center-md&utm_medium=organic&utm_source=local-listing",
+  "address": "8579 Commerce Dr Ste 102, Easton, MD 21601, USA",
+  "phoneNumber": "+1 410-576-1414",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14111687714943794281"
+  },
+  "country": "US",
+  "provinceOrState": "MD",
+  "county": "Talbot County",
+  "city": "Easton",
+  "latLng": [
+    38.7842204,
+    -76.0822929
+  ]
+}

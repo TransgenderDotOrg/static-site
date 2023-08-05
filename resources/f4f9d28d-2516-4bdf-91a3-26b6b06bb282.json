@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-newburgh",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f4f9d28d-2516-4bdf-91a3-26b6b06bb282",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/newburgh/12550/newburgh-health-center-3995-91110?utm_campaign=newburgh-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "136 Lake St, Newburgh, NY 12550, USA",
+  "phoneNumber": "+1 845-562-7800",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5396903725220374083"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Orange County",
+  "city": "Newburgh",
+  "latLng": [
+    41.4968172,
+    -74.0297678
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "14162691-3706-4f03-9634-e5dd2d968caa",
+  "i18n": {
+    "en-US": {
+      "title": "Health Imperatives Sexual and Reproductive Health Services",
+      "description": "Health Imperatives provides comprehensive sexual and reproductive healthcare services to all members of the community, with a particular focus on assisting transgender and non-binary individuals. Services include STI testing and treatment, various birth control methods, pregnancy testing and options counselling, reproductive health exams for all genders, HIV prevention medications, and gender affirming hormone therapy. They strive to create a safe, confidential, and inclusive environment and accept most forms of insurance, with low or no-cost options available for the uninsured."
+    }
+  },
+  "slug": "health-imperatives-sexual-and-reproductive-health-services",
+  "externalUrl": "https://healthimperatives.org/repro-health/",
+  "tags": [
+    "transmasculine",
+    "non-binary",
+    "transfeminine",
+    "healthcare"
+  ],
+  "organizationType": [
+    "informed-consent-clinic",
+    "local-office"
+  ],
+  "address": "1019 Iyannough Rd, Hyannis, MA 02601, USA",
+  "phoneNumber": "+1 508-771-8010",
+  "country": "US",
+  "provinceOrState": "MA",
+  "city": "Hyannis",
+  "latLng": [
+    41.6714649,
+    -70.3033798
+  ],
+  "email": "info@healthimperatives.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=5477051182156119769"
+  },
+  "county": "Barnstable County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-hempstead",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "3fb73a14-81c6-4cc5-996d-2b45a1687bfa",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/hempstead/11550/hempstead-center-3321-91110?utm_campaign=hempstead-center&utm_medium=organic&utm_source=local-listing",
+  "address": "540 Fulton Ave, Hempstead, NY 11550, USA",
+  "phoneNumber": "+1 516-750-2500",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=17813283328115136663"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Nassau County",
+  "city": "Hempstead",
+  "latLng": [
+    40.7098477,
+    -73.6126919
+  ]
+}

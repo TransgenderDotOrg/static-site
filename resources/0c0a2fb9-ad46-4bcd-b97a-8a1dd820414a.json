@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Neighborcare Health",
+      "description": "Neighborcare Health is a healthcare center that provides various health-related services such as medical, pregnancy, children, dental, mental health and social work, school-based, homeless and housing, and after hours care. It promotes cultural sensitivity and community health, showcasing patient success stories and aspiring to social justice and excellence."
+    }
+  },
+  "slug": "neighborcare-health-rainier-valley",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "non-profit-organization",
+    "informed-consent-clinic"
+  ],
+  "id": "0c0a2fb9-ad46-4bcd-b97a-8a1dd820414a",
+  "externalUrl": "https://neighborcare.org/clinics/columbia-city/",
+  "address": "4400 37th Ave S, Seattle, WA 98118, USA",
+  "phoneNumber": "+1 206-461-6957",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11566418519233669995"
+  },
+  "country": "US",
+  "provinceOrState": "WA",
+  "county": "King County",
+  "city": "Rainier Valley",
+  "latLng": [
+    47.5636556,
+    -122.2857967
+  ]
+}

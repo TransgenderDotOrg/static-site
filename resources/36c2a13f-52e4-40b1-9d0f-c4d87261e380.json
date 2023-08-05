@@ -1,0 +1,39 @@
+{
+  "id": "36c2a13f-52e4-40b1-9d0f-c4d87261e380",
+  "i18n": {
+    "en-US": {
+      "title": "Identity Health Clinic in Anchorage, Alaska",
+      "description": "Identity Health Clinic offers a range of services tailored to the transgender community within Anchorage and the wider Alaskan community. The clinic provides gender affirming care, resources for workplace gender transitions, medical transition services and more. Additionally, they offer various programs and resources such as Q-Club, TransParent, Generation Q, and Alaska Rainbow Elders to support the transgender community in different aspects of life. The clinic works under an informed consent model, aiming to ensure that all community members can access gender affirming healthcare."
+    }
+  },
+  "slug": "identity-health-clinic-anchorage-alaska",
+  "externalUrl": "https://identityalaska.org/programs/identityhealthclinic/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "social-services",
+    "youth-services",
+    "support-groups",
+    "parent-family-resources",
+    "community-stories",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "307 E Northern Lights Blvd Suite 101, Anchorage, AK 99503, USA",
+  "phoneNumber": "+1 907-865-3247",
+  "country": "US",
+  "provinceOrState": "AK",
+  "city": "North Star",
+  "county": "Anchorage Municipality",
+  "latLng": [
+    61.1955918,
+    -149.8774355
+  ],
+  "email": "info@identityinc.org",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11875892127490128036"
+  }
+}

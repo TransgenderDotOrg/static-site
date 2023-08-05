@@ -1,0 +1,37 @@
+{
+  "id": "394682c2-0fdc-48e8-82c3-126983a20d3d",
+  "i18n": {
+    "en-US": {
+      "title": "Crew Health - Comprehensive LGBT Healthcare in Orlando, FL",
+      "description": "Based in Orlando, Crew Health specializes in comprehensive care for the Transgender community, including Primary Care, PEP, PrEP, Hormone Replacement Therapy and HIV Care. We aim to provide the best patient Care in an environment of Empathy, ensuring you have all the Resources for your well-being. We also offer free STI/HIV testing alongside efficient behavioral health services."
+    }
+  },
+  "slug": "crew-health-orlando-fl",
+  "externalUrl": "https://crewhealth.org/",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "Happy Building, 8601 Commodity Cir, Orlando, FL 32819, USA",
+  "phoneNumber": "+1 407-605-2252",
+  "country": "US",
+  "provinceOrState": "FL",
+  "city": "Orlando",
+  "county": "Orange County",
+  "latLng": [
+    28.4440385,
+    -81.4329202
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=119979954315862257"
+  }
+}

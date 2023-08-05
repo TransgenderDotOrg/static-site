@@ -1,0 +1,35 @@
+{
+  "id": "9bc32947-354a-416c-b1d8-6d9182ea4c64",
+  "i18n": {
+    "en-US": {
+      "title": "Diversity Family Health Clinic",
+      "description": "Diversity Family Health clinic provides comprehensive healthcare services to the gender diverse and LGB+ community in a non-discriminatory and unbiased environment. They offer core medical services including gender affirming care, sexual health, and other primary care services with a focus on the needs and well-being of the transgender community."
+    }
+  },
+  "slug": "diversity-family-health-clinic",
+  "externalUrl": "http://www.diversityfamilyhealth.com/",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transmasculine",
+    "transfeminine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "1211 N Shartel Ave STE 300, Oklahoma City, OK 73103, USA",
+  "phoneNumber": "+1 405-848-0026",
+  "country": "US",
+  "provinceOrState": "OK",
+  "city": "Midtown",
+  "county": "Oklahoma County",
+  "latLng": [
+    35.4803862,
+    -97.5260763
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=14334790749404545483"
+  }
+}

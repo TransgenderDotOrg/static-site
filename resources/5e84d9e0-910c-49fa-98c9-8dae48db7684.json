@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-uptown-oklahoma-city",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "5e84d9e0-910c-49fa-98c9-8dae48db7684",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/oklahoma/oklahoma-city/73103/central-oklahoma-city-clinic-3351-90740?utm_campaign=central-oklahoma-city-clinic&utm_medium=organic&utm_source=local-listing",
+  "address": "619 NW 23rd St, Oklahoma City, OK 73103, USA",
+  "phoneNumber": "+1 405-528-2157",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4878684580573911702"
+  },
+  "country": "US",
+  "provinceOrState": "OK",
+  "county": "Oklahoma County",
+  "city": "Uptown Oklahoma City",
+  "latLng": [
+    35.493403,
+    -97.52363849999999
+  ]
+}

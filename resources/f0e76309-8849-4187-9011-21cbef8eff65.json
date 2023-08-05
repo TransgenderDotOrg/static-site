@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-council-bluffs",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "f0e76309-8849-4187-9011-21cbef8eff65",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/iowa/council-bluffs/51501/council-bluffs-health-center-3683-90720?utm_campaign=council-bluffs-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1604 2nd Ave, Council Bluffs, IA 51501, USA",
+  "phoneNumber": "+1 877-849-0771",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=16412851583036915788"
+  },
+  "country": "US",
+  "provinceOrState": "IA",
+  "county": "Pottawattamie County",
+  "city": "Council Bluffs",
+  "latLng": [
+    41.2599296,
+    -95.86791129999999
+  ]
+}

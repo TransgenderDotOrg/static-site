@@ -1,0 +1,35 @@
+{
+  "id": "4cbe94ec-4b0b-41e5-9f11-1d40e6f3e81f",
+  "i18n": {
+    "en-US": {
+      "title": "Community Health Centers - San Luis Obispo - Casa Street",
+      "description": "The Community Health Centers (CHC) at San Luis Obispo offers comprehensive healthcare services including primary care, pediatrics, and specialty care. CHC tailors to the needs of the transgender community by offering services such as behavioral health, health education, immunology and rheumatology. It's an informed-consent clinic indicating they respect the autonomy and decision-making capabilities of the transgender community. With dedicated healthcare providers, it ensures respectful and sensitive healthcare for all members."
+    }
+  },
+  "slug": "community-health-centers-san-luis-obispo-casa-street",
+  "externalUrl": "https://www.communityhealthcenters.org/locations/slo-casa/",
+  "tags": [
+    "healthcare",
+    "mental-health",
+    "education-awareness"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "77 Casa St, San Luis Obispo, CA 93405, USA",
+  "phoneNumber": "(805) 269-1500",
+  "country": "US",
+  "provinceOrState": "CA",
+  "city": "San Luis Obispo",
+  "county": "San Luis Obispo County",
+  "latLng": [
+    35.2928144,
+    -120.6651957
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=15265126409083888011"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "23e8fb07-f45a-49ce-9f7f-c7fb05afb7f7",
+  "i18n": {
+    "en-US": {
+      "title": "The Fertility Center of Oregon",
+      "description": "The Fertility Center of Oregon offers comprehensive fertility care, including hormone therapy and specialized services for transgender patients. The clinic is led by Dr. Austin, who has extensive experience and a compassionate approach in helping transgender patients fulfill their dream of becoming parents."
+    }
+  },
+  "slug": "the-fertility-center-of-oregon",
+  "externalUrl": "http://www.fertilitycenteroforegon.com/",
+  "tags": [
+    "healthcare",
+    "transfeminine",
+    "transmasculine",
+    "non-binary",
+    "support-groups",
+    "partner-resources"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "590 Country Club Pkwy a, Eugene, OR 97401, USA",
+  "phoneNumber": "+1 541-683-1559",
+  "country": "US",
+  "provinceOrState": "OR",
+  "city": "Cal Young",
+  "latLng": [
+    44.0639046,
+    -123.0923447
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13499352373061505992"
+  },
+  "county": "Lane County"
+}

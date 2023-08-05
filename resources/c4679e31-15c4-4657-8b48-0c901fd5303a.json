@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-little-canada",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "c4679e31-15c4-4657-8b48-0c901fd5303a",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55117/rice-street-health-center-viking-drive-west-2706-90720?utm_campaign=rice-street-viking-drive-west-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "91 W Viking Dr, Little Canada, MN 55117, USA",
+  "phoneNumber": "+1 651-489-1328",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=9652644182548449825"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Ramsey County",
+  "city": "Little Canada",
+  "latLng": [
+    45.0088579,
+    -93.1053242
+  ]
+}

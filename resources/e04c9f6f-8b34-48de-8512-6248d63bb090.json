@@ -1,0 +1,23 @@
+{
+  "id": "e04c9f6f-8b34-48de-8512-6248d63bb090",
+  "i18n": {
+    "en-US": {
+      "title": "Pisgah Urology Associates",
+      "description": "This resource is a Urology Associates based in Pisgah."
+    }
+  },
+  "slug": "pisgah-urology-associates",
+  "externalUrl": "https://maps.google.com/?cid=2560163582412835643",
+  "tags": ["healthcare", "transmasculine", "transfeminine", "non-binary"],
+  "organizationType": ["local-office", "healthcare-provider", "informed-consent-clinic"],
+  "address": "89 Hospital Dr Suite C, Brevard, NC 28712, USA",
+  "phoneNumber": "+1 828-883-5858",
+  "country": "US",
+  "provinceOrState": "NC",
+  "city": "Brevard",
+  "latLng": [35.2567642, -82.71545069999999],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=2560163582412835643"
+  },
+  "county": "Transylvania County"
+}

@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-merced",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "10799590-6e0e-48cb-9f73-f3655bd29cb6",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/merced/95348/merced-health-center-2526-90130?utm_campaign=merced-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "3166 Collins Dr, Merced, CA 95348, USA",
+  "phoneNumber": "+1 209-723-7751",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=4803295685437683578"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Merced County",
+  "city": "Merced",
+  "latLng": [
+    37.3203177,
+    -120.4755004
+  ]
+}

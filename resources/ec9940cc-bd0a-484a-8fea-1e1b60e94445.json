@@ -1,0 +1,36 @@
+{
+  "id": "ec9940cc-bd0a-484a-8fea-1e1b60e94445",
+  "i18n": {
+    "en-US": {
+      "title": "Adam C. Lake, MD Comprehensive Care",
+      "description": "Led by Dr. Adam Lake, this clinic offers comprehensive healthcare services for individuals aged 12 and above, with special focus on members of the LGBTQ+ community, and those living with HIV/AIDS or struggling with addiction. This is a comprehensive healthcare center that provides a safe and inclusive environment to everyone it serves. Services delivered include preventive care, outpatient treatments, wellness checks, reproductive health, mental health services, HIV/AIDS testing and prevention, LGBTQ+ Youth Care, transmasculine, transfeminine, and non-binary inclusive services such as hormone replacement therapy. It's an informed consent clinic that ensures your rights are protected while you receive the care you need. "
+    }
+  },
+  "slug": "adam-c-lake-md-comprehensive-care",
+  "externalUrl": "https://www.lancastergeneralhealth.org/providers/profile/adam-lake?utm_source=google-my-business&utm_medium=referral&utm_campaign=penn-medicine&utm_term=adam-lake&y_source=1_MjM4NTgxOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "tags": [
+    "transmasculine",
+    "transfeminine",
+    "non-binary",
+    "healthcare",
+    "youth-services"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic",
+    "healthcare-provider"
+  ],
+  "address": "554 N Duke St #3rd, Lancaster, PA 17602, USA",
+  "phoneNumber": "+1 717-544-4943",
+  "country": "US",
+  "provinceOrState": "PA",
+  "city": "Lancaster",
+  "latLng": [
+    40.0476634,
+    -76.3058022
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=11346048806054102787"
+  },
+  "county": "Lancaster County"
+}

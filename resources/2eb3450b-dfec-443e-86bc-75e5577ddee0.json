@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-kearny-mesa",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "2eb3450b-dfec-443e-86bc-75e5577ddee0",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-diego/92111/kearny-mesa-joan-irwin-jacobs-center-2332-90110?utm_campaign=kearny-mesa-joan-irwin-jacobs-center&utm_medium=organic&utm_source=local-listing",
+  "address": "7035 Convoy Ct, San Diego, CA 92117, USA",
+  "phoneNumber": "+1 888-743-7526",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=273934446685051520"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Diego County",
+  "city": "Kearny Mesa",
+  "latLng": [
+    32.8343023,
+    -117.1649057
+  ]
+}

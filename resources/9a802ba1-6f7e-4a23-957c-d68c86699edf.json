@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-evergreen",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "9a802ba1-6f7e-4a23-957c-d68c86699edf",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/san-jose/95121/mar-monte-community-clinic-2437-90130?utm_campaign=mar-monte-community-clinic&utm_medium=organic&utm_source=local-listing",
+  "address": "2470 Alvin Ave Suite 60, San Jose, CA 95121, USA",
+  "phoneNumber": "+1 408-274-7100",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13532234919232941331"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "Santa Clara County",
+  "city": "Evergreen",
+  "latLng": [
+    37.3197149,
+    -121.8267728
+  ]
+}

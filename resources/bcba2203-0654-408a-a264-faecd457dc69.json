@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-schenectady",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "bcba2203-0654-408a-a264-faecd457dc69",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/new-york/schenectady/12307/schenectady-center-4192-91110?utm_campaign=schenectady-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1040 State St, Schenectady, NY 12307, USA",
+  "phoneNumber": "+1 518-374-5353",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3523442953772343383"
+  },
+  "country": "US",
+  "provinceOrState": "NY",
+  "county": "Schenectady County",
+  "city": "Schenectady",
+  "latLng": [
+    42.8013756,
+    -73.9285882
+  ]
+}

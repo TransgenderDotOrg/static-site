@@ -1,0 +1,36 @@
+{
+  "id": "6714476e-df36-440d-8eca-1231b39f3e42",
+  "i18n": {
+    "en-US": {
+      "title": "Vanderbilt Primary Care Bellevue",
+      "description": "Vanderbilt Primary Care Bellevue offers a wide array of primary healthcare services to the transgender community. This includes, but is not limited to, adolescent and young adult health, contraception, depression, and internal medicine services. The care team consists of highly trained and experienced practitioners who approach every patient with empathy and understanding. Their mission is to personalize the patient experience through their caring spirit and distinctive capabilities."
+    }
+  },
+  "slug": "vanderbilt-primary-care-bellevue",
+  "externalUrl": "https://search.vanderbilthealth.com/locations/vanderbilt-primary-care-bellevue?utm_source=Yext",
+  "tags": [
+    "healthcare",
+    "non-binary",
+    "transfeminine",
+    "transmasculine"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "7069 Hwy 70 S b, Nashville, TN 37221, USA",
+  "phoneNumber": "+1 615-538-3668",
+  "country": "US",
+  "provinceOrState": "TN",
+  "city": "Bellevue",
+  "latLng": [
+    36.0733026,
+    -86.9182684
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=7022761894056063316",
+    "yelpUrl": null
+  },
+  "county": "Davidson County"
+}

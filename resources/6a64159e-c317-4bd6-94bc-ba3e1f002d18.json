@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-columbia",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "6a64159e-c317-4bd6-94bc-ba3e1f002d18",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/south-carolina/columbia/29204/columbia-health-center-2646-90860?utm_campaign=columbia-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "Admin 103, 2712 Middleburg Dr Suite 107, Columbia, SC 29204, USA",
+  "phoneNumber": "+1 803-256-4908",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12315972951399118110"
+  },
+  "country": "US",
+  "provinceOrState": "SC",
+  "county": "Richland County",
+  "city": "Columbia",
+  "latLng": [
+    34.01531,
+    -81.0034053
+  ]
+}

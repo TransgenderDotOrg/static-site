@@ -1,0 +1,31 @@
+{
+  "id": "42b50a4e-5cd7-478c-afa3-594475cc159c",
+  "i18n": {
+    "en-US": {
+      "title": "David L. Kriegel II, MD",
+      "description": "As a family practice physician, Dr. David L. Kriegel II provides comprehensive healthcare services, which include care for the transgender community. His practice is rooted in creating a safe and supportive space for his patients as they navigate their healthcare journey."
+    }
+  },
+  "slug": "david-l-kriegel-2-md",
+  "externalUrl": "https://maps.google.com/?cid=6043354412066094539",
+  "tags": [
+    "healthcare"
+  ],
+  "organizationType": [
+    "healthcare-provider",
+    "local-office"
+  ],
+  "address": "1120 15th St, Augusta, GA 30912, USA",
+  "phoneNumber": "+1 706-721-8623",
+  "country": "US",
+  "provinceOrState": "GA",
+  "city": "Medical District",
+  "latLng": [
+    33.4699171,
+    -81.9897417
+  ],
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=6043354412066094539"
+  },
+  "county": "Richmond County"
+}

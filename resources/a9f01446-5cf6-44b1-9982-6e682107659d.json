@@ -1,0 +1,35 @@
+{
+  "id": "a9f01446-5cf6-44b1-9982-6e682107659d",
+  "i18n": {
+    "en-US": {
+      "title": "Dr. Megan K. Schendel-Dittmann, MD's Clinic",
+      "description": "Dr. Megan K. Schendel-Dittmann, MD's Clinic is a local office that practices as an informed-consent-clinic. The clinic offers healthcare services with a specialty in Obstetrics and Gynecology. It is supportive and mindful of the transgender community and its unique healthcare needs. By using an informed consent model, patients are empowered to make educated decisions about their healthcare."
+    }
+  },
+  "slug": "dr-megan-k-schendel-dittmann-mds-clinic",
+  "externalUrl": "https://maps.google.com/?cid=13829926728000824806",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "informed-consent-clinic"
+  ],
+  "address": "2601 E Roosevelt St, Phoenix, AZ 85008, USA",
+  "phoneNumber": null,
+  "country": "US",
+  "provinceOrState": "AZ",
+  "city": "Central City",
+  "county": "Maricopa County",
+  "latLng": [
+    33.4573098,
+    -112.0261191
+  ],
+  "email": null,
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=13829926728000824806"
+  }
+}

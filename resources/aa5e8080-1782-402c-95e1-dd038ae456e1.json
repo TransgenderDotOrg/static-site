@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-gulfgate-pine-valley",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "aa5e8080-1782-402c-95e1-dd038ae456e1",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/texas/houston/77023/prevention-park-health-center-2291-91650?utm_campaign=prevention-park-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4600 Gulf Fwy ste 100 1st floor, Houston, TX 77023, USA",
+  "phoneNumber": "+1 713-522-3976",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=18363804363830370418"
+  },
+  "country": "US",
+  "provinceOrState": "TX",
+  "county": "Harris County",
+  "city": "Gulfgate / Pine Valley",
+  "latLng": [
+    29.72586729999999,
+    -95.3345647
+  ]
+}

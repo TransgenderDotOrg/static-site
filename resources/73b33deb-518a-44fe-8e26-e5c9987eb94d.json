@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-lowry-hill-east",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "73b33deb-518a-44fe-8e26-e5c9987eb94d",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-health-center-2719-90720?utm_campaign=minneapolis-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "1200 Lagoon Ave, Minneapolis, MN 55408, USA",
+  "phoneNumber": "+1 612-823-6300",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=3470203127864084994"
+  },
+  "country": "US",
+  "provinceOrState": "MN",
+  "county": "Hennepin County",
+  "city": "Lowry Hill East",
+  "latLng": [
+    44.9496338,
+    -93.2949108
+  ]
+}

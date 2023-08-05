@@ -1,0 +1,35 @@
+{
+  "i18n": {
+    "en-US": {
+      "title": "Planned Parenthood",
+      "description": "A clinic operated by Planned Parenthood offering healthcare services including birth control, abortion referrals, HIV services, men's health care, STI testing, treatment & vaccines, transgender hormone therapy and more."
+    }
+  },
+  "slug": "planned-parenthood-pacific",
+  "tags": [
+    "healthcare",
+    "transmasculine",
+    "transfeminine",
+    "non-binary"
+  ],
+  "organizationType": [
+    "local-office",
+    "healthcare-provider",
+    "informed-consent-clinic"
+  ],
+  "id": "60c6c1a7-f96e-48ff-bfad-3f5d722599ad",
+  "externalUrl": "https://www.plannedparenthood.org/health-center/california/stockton/95207/north-stockton-health-center-2528-90130?utm_campaign=north-stockton-health-center&utm_medium=organic&utm_source=local-listing",
+  "address": "4555 Precissi Ln, Stockton, CA 95207, USA",
+  "phoneNumber": "+1 209-477-4103",
+  "socialMedia": {
+    "googleMapsUrl": "https://maps.google.com/?cid=12445543882922805587"
+  },
+  "country": "US",
+  "provinceOrState": "CA",
+  "county": "San Joaquin County",
+  "city": "Pacific",
+  "latLng": [
+    37.9891226,
+    -121.3154697
+  ]
+}
