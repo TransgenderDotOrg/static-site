@@ -64,6 +64,12 @@ export const HomePage = () => {
           >
             {i18n.t('home.cta.resources-button')}
           </Button>
+          <Button
+            onClick={() => window.open('https://forms.gle/sWGokyMXL92hRVYg8', '_blank')}
+            sx={{ marginLeft: '0.5rem', marginRight: '0.5rem' }}
+          >
+            {i18n.t('home.cta.survey-button')}
+          </Button>
         </Box>
       </Box>
     </Box>
