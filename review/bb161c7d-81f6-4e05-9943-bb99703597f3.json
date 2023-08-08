@@ -1,0 +1,206 @@
+{
+  "id": "bb161c7d-81f6-4e05-9943-bb99703597f3",
+  "slug": "transgender-archives",
+  "externalUrl": "https://www.uvic.ca/transgenderarchives/index.php",
+  "tags": [
+    "education-awareness",
+    "community-stories"
+  ],
+  "organizationType": [
+    "educational-institution"
+  ],
+  "address": "125 Wilson St, Victoria, BC V9A 6X1, Canada",
+  "phoneNumber": null,
+  "country": "CA",
+  "provinceOrState": "BC",
+  "city": "Victoria",
+  "county": "CRD",
+  "latLng": [
+    48.4316064,
+    -123.3805366
+  ],
+  "email": null,
+  "socialMedia": {
+    "twitterUrl": "https://twitter.com/TransArchives",
+    "facebookUrl": "https://www.facebook.com/TransArchives",
+    "instagramUrl": "https://www.instagram.com/transarchives/",
+    "youtubeUrl": "https://www.youtube.com/user/TransgenderUVic",
+    "flickrUrl": "https://www.flickr.com/photos/127803977@N03/albums"
+  },
+  "i18n": {
+    "en-US": {
+      "title": {
+        "en": "Transgender Archives at the University of Victoria"
+      },
+      "description": {
+        "en": "The Transgender Archives at the University of Victoria is committed to preserving the history of pioneering activists, community leaders, and researchers who have contributed to the betterment of Trans+ and other gender-diverse people. The records are accessible to everyone, free of charge."
+      }
+    },
+    "id-ID": {
+      "title": {
+        "en": "Arsip Transgender di Universitas Victoria"
+      },
+      "description": {
+        "en": "Arsip Transgender di Universitas Victoria berkomitmen untuk melestarikan sejarah aktivis perintis, pemimpin komunitas, dan peneliti yang telah berkontribusi pada peningkatan Trans+ dan orang-orang dengan keberagaman gender lainnya. Catatan dapat diakses oleh semua orang, tanpa biaya."
+      }
+    },
+    "de-DE": {
+      "title": {
+        "en": "Transgender-Archiv an der Universität von Victoria"
+      },
+      "description": {
+        "en": "Das Transgender-Archiv an der Universität von Victoria hat es sich zur Aufgabe gemacht, die Geschichte von Pionieren Aktivisten, Gemeinschaftsführern und Forschern zu bewahren, die zur Verbesserung von Trans+ und anderen geschlechtervielfältigen Menschen beigetragen haben. Die Unterlagen sind für alle kostenlos zugänglich."
+      }
+    },
+    "sw-KE": {
+      "title": {
+        "en": "Transgender Archives katika Chuo Kikuu cha Victoria"
+      },
+      "description": {
+        "en": "Maktaba ya Transgender katika Chuo Kikuu cha Victoria inajitolea kuhifadhi historia ya wanaharakati waanzilishi, viongozi wa jamii, na watafiti ambao wamechangia katika kuimarisha hali ya Trans+ na watu wengine wenye utofauti wa jinsia. Rekodi zinapatikana kwa kila mtu, bila malipo."
+      }
+    },
+    "fr-FR": {
+      "title": {
+        "en": "Archives transgenres à l'Université de Victoria"
+      },
+      "description": {
+        "en": "Les Archives transgenres à l'Université de Victoria sont dédiées à la préservation de l'histoire des activistes pionniers, des leaders communautaires et des chercheurs qui ont contribué à l'amélioration des personnes Trans+ et autres personnes de diversité de genre. Les dossiers sont accessibles à tous, gratuitement."
+      }
+    },
+    "tr-TR": {
+      "title": {
+        "en": "Victoria Üniversitesi'nde Transgender Arşivleri"
+      },
+      "description": {
+        "en": "Victoria Üniversitesi'ndeki Transgender Arşivleri, öncü aktivistlerin, topluluk liderlerinin ve Trans+ ve diğer cinsiyet çeşitliliği olan kişilerin daha iyi hale gelmesine katkıda bulunan araştırmacıların tarihini korumaya adamıştır. Kayıtlar herkese ücretsiz olarak erişilebilir."
+      }
+    },
+    "pt-PT": {
+      "title": {
+        "en": "Arquivos Transgêneros na Universidade de Victoria"
+      },
+      "description": {
+        "en": "Os Arquivos Transgêneros na Universidade de Victoria estão comprometidos em preservar a história de ativistas pioneiros, líderes comunitários e pesquisadores que contribuíram para a melhoria das pessoas trans+ e outras pessoas com diversidade de gênero. Os registros estão acessíveis a todos, gratuitamente."
+      }
+    },
+    "es-ES": {
+      "title": {
+        "en": "Transgender Archives at the University of Victoria",
+        "es": "Archivos Transgénero en la Universidad de Victoria"
+      },
+      "description": {
+        "en": "The Transgender Archives at the University of Victoria is committed to preserving the history of pioneering activists, community leaders, and researchers who have contributed to the betterment of Trans+ and other gender-diverse people. The records are accessible to everyone, free of charge.",
+        "es": "Los Archivos Transgénero en la Universidad de Victoria están comprometidos a preservar la historia de los pioneros activistas, líderes comunitarios e investigadores que han contribuido al mejoramiento de las personas Trans+ y otras personas de género diverso. Los registros son accesibles para todos, sin costo alguno."
+      }
+    },
+    "ru-RU": {
+      "title": {
+        "en": "Трансгендерные архивы в Университете Виктории"
+      },
+      "description": {
+        "en": "Трансгендерные архивы в Университете Виктории посвящены сохранению истории пионерских активистов, лидеров сообщества и исследователей, которые внесли вклад в улучшение жизни трансгендерных и других людей с различной гендерной идентичностью. Записи доступны всем бесплатно."
+      }
+    },
+    "vi-VN": {
+      "title": {
+        "en": "Lưu trữ Transgender tại Đại học Victoria"
+      },
+      "description": {
+        "en": "Lưu trữ Transgender tại Đại học Victoria cam kết bảo tồn lịch sử của những nhà hoạt động tiên phong, những lãnh đạo cộng đồng, và những nhà nghiên cứu đã cống hiến cho việc cải thiện cuộc sống của Trans+ và những người đa giới tính khác. Tất cả các hồ sơ đều dễ dàng truy cập cho tất cả mọi người, miễn phí."
+      }
+    },
+    "ar-SA": {
+      "title": {
+        "en": "أرشيفات المتحولين جنسياً في جامعة فيكتوريا"
+      },
+      "description": {
+        "en": "أرشيفات المتحولين جنسياً في جامعة فيكتوريا ملتزمة بالحفاظ على تاريخ النشطاء الرائدين، وقادة المجتمع، والباحثين الذين ساهموا في تحسين وضع الأشخاص المتحولين جنسياً وغيرهم من الأشخاص متنوعي الجنس. السجلات متاحة للجميع، مجاناً."
+      }
+    },
+    "uk-UA": {
+      "title": {
+        "en": "Архіви трансгендерів у Вікторійському університеті"
+      },
+      "description": {
+        "en": "Архіви трансгендерів у Вікторійському університеті зобов'язані зберігати історію піонерських активістів, громадських лідерів та дослідників, які внесли свій вклад у покращення життя трансгендерних та інших людей зі змінним статевим самовизначенням. Записи доступні для всіх, безкоштовно."
+      }
+    },
+    "zh-CN": {
+      "title": {
+        "en": "Transgender Archives at the University of Victoria",
+        "zh": "维多利亚大学的跨性别档案馆"
+      },
+      "description": {
+        "en": "The Transgender Archives at the University of Victoria is committed to preserving the history of pioneering activists, community leaders, and researchers who have contributed to the betterment of Trans+ and other gender-diverse people. The records are accessible to everyone, free of charge.",
+        "zh": "维多利亚大学的跨性别档案馆致力于保存先驱活动家、社区领袖和研究人员的历史，他们为Trans+和其他性别多元的人们的改善做出了贡献。这些记录对每个人都是开放的，免费提供。"
+      }
+    },
+    "ko-KR": {
+      "title": {
+        "en": "Transgender Archives at the University of Victoria"
+      },
+      "description": {
+        "en": "빅토리아 대학교의 트랜스젠더 아카이브는 트랜스 + 및 기타 성 다양성을 가진 사람들을 위해 노력한 개척적인 활동가, 커뮤니티 리더, 연구원들의 역사를 보존하는데 헌신하고 있습니다. 기록은 누구나 무료로 접속할 수 있습니다."
+      }
+    },
+    "ja-JP": {
+      "title": {
+        "en": "Transgender Archives at the University of Victoria",
+        "jp": "ビクトリア大学のトランスジェンダーアーカイブ"
+      },
+      "description": {
+        "en": "The Transgender Archives at the University of Victoria is committed to preserving the history of pioneering activists, community leaders, and researchers who have contributed to the betterment of Trans+ and other gender-diverse people. The records are accessible to everyone, free of charge.",
+        "jp": "ビクトリア大学のトランスジェンダーアーカイブは、パイオニアの活動家、コミュニティリーダー、研究者たちの歴史を保存し、Trans+やその他のジェンダーダイバーシティに貢献することを目指しています。これらの記録は誰でも無料でアクセス可能です。"
+      }
+    },
+    "mr-IN": {
+      "title": {
+        "en": "विक्टोरिया विद्यापीठातील ट्रान्सजेंडर संग्रहालय"
+      },
+      "description": {
+        "en": "विक्टोरिया विद्यापीठातील ट्रान्सजेंडर संग्रहालय म्हणजेच प्रवर्तक कार्यकर्ते, समुदाय नेते आणि संशोधकांच्या इतिहासाची संवर्धनास मग्न आहेत, ज्यांनी ट्रान्स+ आणि इतर लिंग-विविध व्यक्तींच्या सुधारासाठी योगदान दिलेला आहे. या रेकॉर्ड्सला सर्वांनी, मुफत पहायला मिळतात."
+      }
+    },
+    "ur-PK": {
+      "title": {
+        "en": "ٹرانس جنس کے محفوظات یونیورسٹی آف وکٹوریا میں"
+      },
+      "description": {
+        "en": "یونیورسٹی آف وکٹوریا میں ٹرانس جنس کے محفوظات نے پائنیر کار کنندگان, برادری کے قائدین اور تحقیق کاروں کی تاریخ کو محفوظ رکھنے کے لئے اپنی کوشش کی ہے جو ٹرانس + اور دیگر جنسی تنوع والے افراد کی بہتری میں حصہ لے چکے ہیں. ریکارڈز ہر شخص کے لئے قابل رسائی ہیں, بالکل مفت."
+      }
+    },
+    "hi-IN": {
+      "title": {
+        "en": "विक्टोरिया विश्वविद्यालय में ट्रांसजेंडर संग्रहालय"
+      },
+      "description": {
+        "en": "विक्टोरिया विश्वविद्यालय के ट्रांसजेंडर संग्रहालय का समर्पण है कि वे समुदाय के नेताओं, पाठयक्रम और शोधकर्ताओं के इतिहास की संरक्षा करें, जो ट्रांस + और अन्य लिंग-विविध लोगों के बेहतरीन योगदान कर चुके हैं। रिकॉर्ड सभी लोगों के लिए, निशुल्क उपलब्ध हैं।"
+      }
+    },
+    "bn-BD": {
+      "title": {
+        "en": "ভিক্টোরিয়া বিশ্ববিদ্যালয়ের ট্রান্সজেন্ডার আর্কাইভ"
+      },
+      "description": {
+        "en": "ভিক্টোরিয়া বিশ্ববিদ্যালয়ের ট্রান্সজেন্ডার আর্কাইভ প্রবর্তনশীল সক্রিয়কদের, সম্প্রদায় নেতাদের এবং গবেষকদের ইতিহাস সংরক্ষণে বদ্ধপরিকর। যারা ট্রান্স+ এবং অন্যান্য লিঙ্গ-বৈচিত্রিক মানুষের উন্নয়নে তাদের অবদান রাখেন। রেকর্ডগুলি সকলের জন্য উন্মুক্ত, এবং এটি বিনামূল্যে।"
+      }
+    },
+    "ta-IN": {
+      "title": {
+        "en": "விக்டோரியா பல்கலைக்கழகத்தில் உள்ள மாறுபாலிய ஆவணங்கள்"
+      },
+      "description": {
+        "en": "விக்டோரியா பல்கலைக்கழகத்தில் உள்ள மாறுபாலி ஆவணங்கள், முதன்முதலில் சேர்ந்து மேம்படுத்தும் செயல்பாட்டில் முதன்முதலில் சேவிக்கும் செயலாளர்களின், சமூக தலைவர்களின், ஆராய்ச்சியாளர்களின் வரலாற்றை பாதுகாப்பதில் உள்ளது. ஆவணங்கள் அனைத்துக்கும் இலவசமாக அணுக கூடியவை."
+      }
+    },
+    "te-IN": {
+      "title": {
+        "en": "విక్టోరియా విశ్వవిద్యాలయంలో ట్రాన్స్జెండర్ భండాగారాలు"
+      },
+      "description": {
+        "en": "విక్టోరియా విశ్వవిద్యాలయంలోని ట్రాన్స్జెండర్ భండాగారాలు, అగ్రగామి కార్యకర్తలు, సముదాయ నాయకులు మరియు పరిశోధకుల చరిత్రను పరిపాలించే దృష్టితో ప్రతిభటిస్తుంది, వారు ట్రాన్స్ + మరియు ఇతర లింగ వైవిధ్యమైన ప్రజల ప్రగతికి తమ యోగదానాన్ని సమర్పించారు. ఈ రికార్డులు ప్రతిఒకరిగా అందుబాటులో ఉంటాయి, ఆపేదే చార్జీలు."
+      }
+    }
+  }
+}

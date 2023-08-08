@@ -3265,42 +3265,6 @@
     ]
   },
   {
-    "id": "bb161c7d-81f6-4e05-9943-bb99703597f3",
-    "slug": "transgender-archives",
-    "externalUrl": "https://www.uvic.ca/transgenderarchives/index.php",
-    "tags": [
-      "education-awareness",
-      "community-stories"
-    ],
-    "organizationType": [
-      "educational-institution"
-    ],
-    "address": "125 Wilson St, Victoria, BC V9A 6X1, Canada",
-    "phoneNumber": null,
-    "country": "CA",
-    "provinceOrState": "BC",
-    "city": "Victoria",
-    "county": "CRD",
-    "latLng": [
-      48.4316064,
-      -123.3805366
-    ],
-    "email": null,
-    "socialMedia": {
-      "twitterUrl": "https://twitter.com/TransArchives",
-      "facebookUrl": "https://www.facebook.com/TransArchives",
-      "instagramUrl": "https://www.instagram.com/transarchives/",
-      "youtubeUrl": "https://www.youtube.com/user/TransgenderUVic",
-      "flickrUrl": "https://www.flickr.com/photos/127803977@N03/albums"
-    },
-    "title": {
-      "en": "Трансгендерные архивы в Университете Виктории"
-    },
-    "description": {
-      "en": "Трансгендерные архивы в Университете Виктории посвящены сохранению истории пионерских активистов, лидеров сообщества и исследователей, которые внесли вклад в улучшение жизни трансгендерных и других людей с различной гендерной идентичностью. Записи доступны всем бесплатно."
-    }
-  },
-  {
     "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
     "slug": "pride-center-san-antonio",
     "externalUrl": "https://pridecentersa.org/",
@@ -4454,34 +4418,6 @@
       "healthcare-provider",
       "non-profit-organization"
     ]
-  },
-  {
-    "id": "f6769a85-4702-4a3a-8103-521e252c3973",
-    "slug": "the-null-hypothecis",
-    "externalUrl": "https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/",
-    "tags": [
-      "community-stories",
-      "education-awareness"
-    ],
-    "organizationType": [
-      "online-platform",
-      "educational-institution"
-    ],
-    "country": null,
-    "provinceOrState": null,
-    "city": null,
-    "county": null,
-    "latLng": null,
-    "email": null,
-    "socialMedia": {},
-    "title": {
-      "en-US": "The Null HypotheCis",
-      "ru-RU": "Нулевая гипотеза о цисгендерности"
-    },
-    "description": {
-      "en-US": "A blog post discussing the concept of the default assumption of cisgender identity often held in society, and arguing for a more balanced approach to questioning and confirming one's gender identity.",
-      "ru-RU": "Блог, в котором обсуждается концепция общепринятого предположения о цисгендерной идентичности в обществе, и выступает за более сбалансированный подход к вопросу подтверждения гендерной идентичности."
-    }
   },
   {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",

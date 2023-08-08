@@ -13,7 +13,35 @@ const readdir = promisify(fs.readdir);
 
 const inputDir = path.join(__dirname, "../resources");
 const outputDir = path.join(__dirname, "../src/resources");
+const reviewDir = path.join(__dirname, "../review");
 const languageFile = path.join(__dirname, "../languages.json");
+
+interface Indexable {
+  [key: string]: string
+}
+
+// This function validates that the fields expected by the Resource interface are the correct types
+const validateResource = (resource: Indexable) => {
+  const stringKeys = [
+    'id',
+    'slug',
+    'externalUrl',
+    'title',
+    'description',
+    'address',
+    'phoneNumber',
+    'email',
+  ]
+  for (const key of stringKeys) {
+    if (resource[key] && typeof resource[key] !== 'string') return false
+  }
+  const arrayKeys = ['tags', 'organizationType', 'latLng']
+  for (const key of arrayKeys) {
+    if (resource[key] && !Array.isArray(resource[key])) return false
+  }
+
+  return true
+}
 
 const processJsonFiles = async () => {
   // Read the languages file
@@ -32,6 +60,7 @@ const processJsonFiles = async () => {
     const jsonFiles = files.filter((file) => path.extname(file) === ".json");
 
     let output: any[] = [];
+    const invalid: any[] = [];
 
     // Process each JSON file
     for (const file of jsonFiles) {
@@ -41,20 +70,25 @@ const processJsonFiles = async () => {
 
       // Process the data with the external library
       if (data.i18n[localeCode]) {
-        output.push({
-          ...data,
-          title: data.i18n[localeCode].title,
-          description: data.i18n[localeCode].description,
-        });
-
-        // Remove i18n property from the output
-        delete output[output.length - 1].i18n;
+        const { i18n, ...resourceData } = data;
+        const resource = {
+          ...resourceData,
+          title: i18n[localeCode].title,
+          description: i18n[localeCode].description,
+        };
+        validateResource(resource) ? output.push(resource) : invalid.push(data);
       }
     }
 
     // Write the processed data to the output directory
     const outputFilePath = path.join(outputDir, `${localeCode}.json`);
     await writeFile(outputFilePath, JSON.stringify(output, null, 2), "utf-8");
+
+    // Write invalid resources to review directory
+    invalid.forEach(
+      async (r) =>
+        await writeFile(path.join(reviewDir, `${r.id}.json`), JSON.stringify(r, null, 2), 'utf-8'),
+    )
   }
 };
 

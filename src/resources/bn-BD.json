@@ -3265,42 +3265,6 @@
     ]
   },
   {
-    "id": "bb161c7d-81f6-4e05-9943-bb99703597f3",
-    "slug": "transgender-archives",
-    "externalUrl": "https://www.uvic.ca/transgenderarchives/index.php",
-    "tags": [
-      "education-awareness",
-      "community-stories"
-    ],
-    "organizationType": [
-      "educational-institution"
-    ],
-    "address": "125 Wilson St, Victoria, BC V9A 6X1, Canada",
-    "phoneNumber": null,
-    "country": "CA",
-    "provinceOrState": "BC",
-    "city": "Victoria",
-    "county": "CRD",
-    "latLng": [
-      48.4316064,
-      -123.3805366
-    ],
-    "email": null,
-    "socialMedia": {
-      "twitterUrl": "https://twitter.com/TransArchives",
-      "facebookUrl": "https://www.facebook.com/TransArchives",
-      "instagramUrl": "https://www.instagram.com/transarchives/",
-      "youtubeUrl": "https://www.youtube.com/user/TransgenderUVic",
-      "flickrUrl": "https://www.flickr.com/photos/127803977@N03/albums"
-    },
-    "title": {
-      "en": "ভিক্টোরিয়া বিশ্ববিদ্যালয়ের ট্রান্সজেন্ডার আর্কাইভ"
-    },
-    "description": {
-      "en": "ভিক্টোরিয়া বিশ্ববিদ্যালয়ের ট্রান্সজেন্ডার আর্কাইভ প্রবর্তনশীল সক্রিয়কদের, সম্প্রদায় নেতাদের এবং গবেষকদের ইতিহাস সংরক্ষণে বদ্ধপরিকর। যারা ট্রান্স+ এবং অন্যান্য লিঙ্গ-বৈচিত্রিক মানুষের উন্নয়নে তাদের অবদান রাখেন। রেকর্ডগুলি সকলের জন্য উন্মুক্ত, এবং এটি বিনামূল্যে।"
-    }
-  },
-  {
     "id": "bc2405bb-5ed6-4b7f-93dc-a30bc9aedf96",
     "slug": "pride-center-san-antonio",
     "externalUrl": "https://pridecentersa.org/",
@@ -4454,34 +4418,6 @@
       "healthcare-provider",
       "non-profit-organization"
     ]
-  },
-  {
-    "id": "f6769a85-4702-4a3a-8103-521e252c3973",
-    "slug": "the-null-hypothecis",
-    "externalUrl": "https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/",
-    "tags": [
-      "community-stories",
-      "education-awareness"
-    ],
-    "organizationType": [
-      "online-platform",
-      "educational-institution"
-    ],
-    "country": null,
-    "provinceOrState": null,
-    "city": null,
-    "county": null,
-    "latLng": null,
-    "email": null,
-    "socialMedia": {},
-    "title": {
-      "en-US": "The Null HypoCis",
-      "bn-BD": "নাল হাইপোসিস"
-    },
-    "description": {
-      "en-US": "A blog post discussing the concept of the default assumption of cisgender identity often held in society, and arguing for a more balanced approach to questioning and confirming one's gender identity.",
-      "bn-BD": "সিসজেন্ডার আইডেন্টিটির আদি ধারনার বিষয়ে আলোচনা করা একটি ব্লগ পোস্ট, যা সাধারনত সমাজে রাখা হয়, এবং কেউ তার লিঙ্গ পরিচয়ের প্রশ্ন এবং নিশ্চিত করার জন্য আরও সমতোলক পদ্ধতির পক্ষে যুক্তি দিচ্ছে।"
-    }
   },
   {
     "id": "f8b46156-9e3c-4347-aa8a-1df0f89e8f25",
