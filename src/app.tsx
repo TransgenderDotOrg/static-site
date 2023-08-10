@@ -9,6 +9,7 @@ import { ThemeProvider, createTheme } from '@mui/material'
 import { Header } from './ui/navigation/header'
 import { HomePage } from './pages/home'
 import { ResourcePage } from './pages/resource'
+import { FAQsPage } from './pages/faqs'
 
 import i18n from './i18n'
 import { Footer } from './ui/navigation/footer'
@@ -158,6 +159,7 @@ const App = () => {
             <Route path='/' element={<HomePage />} />
             {/* <Route path="about" element={<AboutPage />} />*/}
             <Route path='resources' element={<ResourcePage />} />
+            <Route path='faqs' element={<FAQsPage />} />
             <Route path='terms-of-service' element={<TermsOfServicePage />} />
             <Route path='privacy-policy' element={<PrivacyPolicyPage />} />
             <Route path='map' element={<MapPage />} />

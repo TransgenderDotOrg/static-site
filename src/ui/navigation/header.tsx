@@ -10,6 +10,7 @@ import logoUrl from '../../assets/logo.svg'
 import { Button } from '../button'
 import i18n from '../../i18n'
 import tags from '../../../tags.json'
+import faqfilters from '../../../faqfilters.json'
 
 export const StyledLink = styled('a')({
   textDecoration: 'none',
@@ -383,6 +384,22 @@ export const Header = () => {
                   }}
                 >
                   {i18n.t(`tags.${tag.value}`)}
+                </a>
+              ))}
+            </Menu>
+          </MenuItem>
+          <MenuItem title={i18n.t('header.menuitem.faqs')} href='/faqs'>
+            <Menu>
+              {faqfilters.map((faq, i) => (
+                <a
+                  key={i}
+                  href={`/faqs?faqs=${faq.value}`}
+                  onClick={(e) => {
+                    e.preventDefault()
+                    navigate(`/faqs?faqs=${faq.value}`)
+                  }}
+                >
+                  {i18n.t(`faqs.${faq.value}`)}
                 </a>
               ))}
             </Menu>
