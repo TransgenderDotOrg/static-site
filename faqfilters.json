@@ -1,26 +1,26 @@
 [
   {
     "name": "About Trangender.org",
-    "value": 0
+    "value": "0"
   },
   {
     "name": "Trangender",
-    "value": 1
+    "value": "1"
   },
   {
     "name": "Gender Exploraton",
-    "value": 2
+    "value": "2"
   },
   {
     "name": "Gender Affirming Therapy",
-    "value": 3
+    "value": "3"
   },
   {
     "name": "Gender Afirming Medicine",
-    "value": 4
+    "value": "4"
   },
   {
     "name": "Gender Affirming Surgery",
-    "value": 5
+    "value": "5"
   }  
 ]

@@ -5,7 +5,7 @@ import { Box, FormControl, InputLabel, MenuItem, Select, Typography } from '@mui
 import { ReactComponent as ResultsLeft } from '../assets/results-left.svg'
 import { ReactComponent as ResultsRight } from '../assets/results-right.svg'
 import tags from '../../tags.json'
-import filters from '../../faqfilters.json'
+import faqfilters from '../../faqfilters.json'
 // import languages from '../../languages.json'
 
 import { SearchInput } from '../ui/navigation/header'
@@ -17,7 +17,7 @@ import { usePagination } from '../hooks/usePagination'
 export interface FAQ {
   question: string
   content: string
-  filters: number
+  filters: string
   order: number
   verified: number
   tags: string
@@ -76,10 +76,10 @@ export const FAQsPage = () => {
 
   const queryFilters = React.useMemo(
     () =>
-      decodeURIComponent(searchParams.get('faqsfilters') ?? '')
+      decodeURIComponent(searchParams.get('faqfilters') ?? '')
         .split(',')
         .filter(Boolean) ?? [],
-    [searchParams.get('faqsfilters')],
+    [searchParams.get('faqfilters')],
   )
 
   React.useEffect(() => {
@@ -107,7 +107,7 @@ export const FAQsPage = () => {
   const { results, searchValue, setSearchValue } = useSearch<FAQ>({
     defaultValue: searchParams.get('search') ?? '',
     dataSet: faqs,
-    keys: ['name', 'content'],
+    keys: ['question', 'content'],
   })
 
   const filteredResources = React.useMemo(
@@ -116,7 +116,7 @@ export const FAQsPage = () => {
         (result) =>
           queryTags.every((tag) => result.tags.includes(tag)) &&
           queryFilters.every((type) =>
-            result.tags.includes(type.toLowerCase()),
+            result.filters.includes(type.toLowerCase()),
           ),
       ),
     [results, queryTags, queryFilters],
@@ -197,7 +197,7 @@ export const FAQsPage = () => {
         >
           <FormControl sx={{}} size='small'>
             <InputLabel sx={{ background: '#fff', fontFamily: 'Mukta, sans-serif' }}>
-              {i18n.t('faqfilters')}
+              {i18n.t('faqs')}
             </InputLabel>
             <Select
               sx={{
@@ -207,9 +207,9 @@ export const FAQsPage = () => {
                 const value = e.target.value as unknown as string[]
 
                 if (value.indexOf('') !== -1) {
-                  searchParams.delete('filters')
+                  searchParams.delete('faqfilters')
                 } else {
-                  searchParams.set('filters', value.length ? value.join(',') : '')
+                  searchParams.set('faqfilters', value.length ? value.join(',') : '')
                 }
 
                 setSearchParams(searchParams)
@@ -221,7 +221,7 @@ export const FAQsPage = () => {
               <MenuItem value=''>
                 <em>None</em>
               </MenuItem>
-              {filters.map((type, idx) => (
+              {faqfilters.map((type, idx) => (
                 <MenuItem key={idx} value={type.value}>
                   {type.name}
                 </MenuItem>

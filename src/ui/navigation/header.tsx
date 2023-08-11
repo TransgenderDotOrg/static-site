@@ -393,10 +393,10 @@ export const Header = () => {
               {faqfilters.map((faq, i) => (
                 <a
                   key={i}
-                  href={`/faqs?faqs=${faq.value}`}
+                  href={`/faqs?faqfilters=${faq.value}`}
                   onClick={(e) => {
                     e.preventDefault()
-                    navigate(`/faqs?faqs=${faq.value}`)
+                    navigate(`/faqs?faqfilters=${faq.value}`)
                   }}
                 >
                   {i18n.t(`faqs.${faq.value}`)}
