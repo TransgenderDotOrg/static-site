@@ -71,7 +71,7 @@ export const SearchStyledInput = styled('input')({
   border: 'none',
   boxSizing: 'border-box',
   outline: 'none',
-});
+})
 
 export const StyledDiscordLink = styled('a')({
   marginLeft: '0.5rem',
@@ -237,14 +237,18 @@ export const Header = () => {
   }, [location.pathname])
 
   const navigateToEscapeSite = () => {
-    window.location.href = 'https://rnewsbite.com'
+    for (let i = 0; i < window.history.state.idx; i++) {
+      window.history.back()
+    }
+
+    window.location.replace('https://rnewsbite.com')
   }
 
   // on escape, navigate to escape site
   React.useEffect(() => {
     const escape = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
-        window.location.href = 'https://rnewsbite.com'
+        navigateToEscapeSite()
       }
     }
 
