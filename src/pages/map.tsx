@@ -31,7 +31,7 @@ export const Marker = (props: MarkerProps) => {
             position: 'absolute',
             // update zIndex based on the latLng so that the markers are stacked correctly
             // props.lat props.lng
-            zIndex: 1000 - Math.round(props.lat * 1000),
+            zIndex: 10000 - Math.round(props.lat * 1000),
 
             bottom: 0,
             left: 'calc(50% - 10px)',
