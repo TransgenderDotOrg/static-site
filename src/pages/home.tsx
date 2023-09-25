@@ -53,7 +53,7 @@ export const HomePage = () => {
           {/* <Button onClick={() => navigate("/about")}>More About Us</Button>*/}
           <Button
             onClick={() => {
-              window.open('https://discord.gg/wtRVNzpGkx', '_blank')
+              window.open('https://discord.gg/CBmacvJfZK', '_blank')
             }}
           >
             {i18n.t('home.cta.discord-button')}

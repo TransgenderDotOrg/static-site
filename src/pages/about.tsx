@@ -76,7 +76,7 @@ export const AboutPage = () => {
         For more information, suggestions, or to join our mission, feel free to reach out to us.
         We're excited to connect with you and appreciate your interest in Transgender.org. The best
         way to do this is to{' '}
-        <Link href='https://discord.gg/wtRVNzpGkx' target='_blank'>
+        <Link href='https://discord.gg/CBmacvJfZK' target='_blank'>
           reach out to us on Discord
         </Link>
         .
