@@ -411,7 +411,7 @@ export const Header = () => {
         )}
         <StyledDiscordLink
           className='mobile-toggle'
-          href='https://discord.gg/wtRVNzpGkx'
+          href='https://discord.gg/CBmacvJfZK'
           target='_blank'
           rel='noreferrer'
         >
