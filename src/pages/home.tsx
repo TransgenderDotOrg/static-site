@@ -9,7 +9,7 @@ import i18n from '../i18n'
 
 export const HomePage = () => {
   const navigate = useNavigate()
-  const targetDate = moment('2023-11-13T20:00:00.000Z')
+  const targetDate = moment('2023-11-13T02:00:00.000Z')
   const [now, setNow] = React.useState(moment())
 
   React.useEffect(() => {
@@ -82,7 +82,9 @@ export const HomePage = () => {
           }}
         />
         <Box sx={{ display: 'flex', flexDirection: 'column' }}>
-          <Typography variant='body1'>🗓️ {targetDate.format('MMMM Do, YYYY')}</Typography>
+          <Typography variant='body1'>
+            🗓️ {targetDate.locale(i18n.language).format('MMMM Do, YYYY')}
+          </Typography>
           <Typography variant='h6'>{i18n.t('home.countdown.event')}</Typography>
         </Box>
         <Box
