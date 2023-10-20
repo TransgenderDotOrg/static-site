@@ -42,5 +42,8 @@
   "tags.surgeons": "Dokter bedah",
   "tags.informed-consent-clinics": "Klinik Persetujuan Berdasarkan Informasi",
   "organization-types": "Jenis Organisasi",
-  "home.cta.survey-button": "Arahkan Jalur Kami"
+  "home.cta.survey-button": "Arahkan Jalur Kami",
+  "home.countdown.days-to-go": "hari lagi",
+  "home.countdown.event": "Reveal dan Peluncuran Situs Web Baru",
+  "home.countdown.learn-more": "Belajar lebih banyak & bergabung bersama kami →"
 }

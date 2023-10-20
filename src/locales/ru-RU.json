@@ -42,5 +42,8 @@
   "tags.surgeons": "Хирурги",
   "tags.informed-consent-clinics": "Клиники информированного согласия",
   "organization-types": "Типы организаций",
-  "home.cta.survey-button": "Направь Наш Путь"
+  "home.cta.survey-button": "Направь Наш Путь",
+  "home.countdown.days-to-go": "осталось дней",
+  "home.countdown.event": "Презентация нового веб-сайта и вечеринка по случаю запуска",
+  "home.countdown.learn-more": "Узнайте больше и присоединяйтесь к нам →"
 }

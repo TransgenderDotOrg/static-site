@@ -42,5 +42,8 @@
   "tags.surgeons": "Bác sĩ phẫu thuật",
   "tags.informed-consent-clinics": "Phòng Khám Thông Báo Đồng Ý",
   "organization-types": "Các Loại Tổ Chức",
-  "home.cta.survey-button": "Hướng Dẫn Con Đường Của Chúng Ta"
+  "home.cta.survey-button": "Hướng Dẫn Con Đường Của Chúng Ta",
+  "home.countdown.days-to-go": "còn lại nhiều ngày",
+  "home.countdown.event": "Tiết lộ và Khai trương Trang web Mới",
+  "home.countdown.learn-more": "Tìm hiểu thêm & tham gia cùng chúng tôi →"
 }

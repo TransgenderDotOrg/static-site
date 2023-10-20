@@ -42,5 +42,8 @@
   "tags.surgeons": "外科医",
   "tags.informed-consent-clinics": "情報提供同意クリニック",
   "organization-types": "組織の種類",
-  "home.cta.survey-button": "私たちの道を指し示して"
+  "home.cta.survey-button": "私たちの道を指し示して",
+  "home.countdown.days-to-go": "残りの日数",
+  "home.countdown.event": "新ウェブサイト公開とローンチパーティー",
+  "home.countdown.learn-more": "もっと学び、私たちと参加しましょう→"
 }

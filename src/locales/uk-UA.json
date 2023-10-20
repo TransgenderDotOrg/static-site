@@ -42,5 +42,8 @@
   "tags.surgeons": "Хірурги",
   "tags.informed-consent-clinics": "Клініки Інформованої Згоди",
   "organization-types": "Типи організацій",
-  "home.cta.survey-button": "Спрямуй Наш Шлях"
+  "home.cta.survey-button": "Спрямуй Наш Шлях",
+  "home.countdown.days-to-go": "днів до початку",
+  "home.countdown.event": "Презентація нового веб-сайту і вечірка з нагоди запуску",
+  "home.countdown.learn-more": "Дізнатися більше та приєднатися до нас →"
 }

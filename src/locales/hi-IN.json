@@ -42,5 +42,8 @@
   "tags.surgeons": "सर्जन",
   "tags.informed-consent-clinics": "सूचना आधारित सहमति क्लिनिक",
   "organization-types": "संगठन प्रकार",
-  "home.cta.survey-button": "हमारे मार्ग को निर्देशित करें"
+  "home.cta.survey-button": "हमारे मार्ग को निर्देशित करें",
+  "home.countdown.days-to-go": "दिन बाकी",
+  "home.countdown.event": "नई वेबसाइट का खुलासा और लॉन्च पार्टी",
+  "home.countdown.learn-more": "अधिक जानें और हमसे जुड़ें →"
 }

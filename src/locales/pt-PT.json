@@ -42,5 +42,8 @@
   "tags.surgeons": "Cirurgiões",
   "tags.informed-consent-clinics": "Clínicas de Consentimento Informado",
   "organization-types": "Tipos de Organização",
-  "home.cta.survey-button": "Direcione Nosso Caminho"
+  "home.cta.survey-button": "Direcione Nosso Caminho",
+  "home.countdown.days-to-go": "dias restantes",
+  "home.countdown.event": "Revelação e Festa de Lançamento do Novo Site",
+  "home.countdown.learn-more": "Aprenda mais e junte-se a nós →"
 }
