@@ -42,5 +42,8 @@
   "tags.surgeons": "शल्यक्रिया संचालक",
   "tags.informed-consent-clinics": "माहितीपूर्वक सहमती उपचारगृह",
   "organization-types": "संघटनेच्या प्रकारे",
-  "home.cta.survey-button": "आमच्या मार्गदर्शन करा"
+  "home.cta.survey-button": "आमच्या मार्गदर्शन करा",
+  "home.countdown.days-to-go": "दिवस बाकी आहेत",
+  "home.countdown.event": "नवीन वेबसाईट उद्घाटन आणि प्रकाशन सोहळा",
+  "home.countdown.learn-more": "अधिक जाणून घ्या आणि आमच्या सोबत सामील व्हा →"
 }

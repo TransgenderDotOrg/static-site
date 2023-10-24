@@ -42,5 +42,8 @@
   "tags.surgeons": "سرجنز",
   "tags.informed-consent-clinics": "معلوماتی رضامندی کلینک",
   "organization-types": "تنظیموں کی اقسام",
-  "home.cta.survey-button": "ہمارے راستے کی ہدایت کریں"
+  "home.cta.survey-button": "ہمارے راستے کی ہدایت کریں",
+  "home.countdown.days-to-go": "روز باقی ہیں",
+  "home.countdown.event": "نئی ویب سائٹ کا انکشاف اور لانچ پارٹی",
+  "home.countdown.learn-more": "مزید سیکھیں اور ہمارے ساتھ شامل ہوں →"
 }

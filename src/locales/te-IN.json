@@ -42,5 +42,8 @@
   "tags.surgeons": "శస్త్రచికిత్సకులు",
   "tags.informed-consent-clinics": "సమాచార అనుమతి క్లినిక్లు",
   "organization-types": "సంస్థ రకాలు",
-  "home.cta.survey-button": "మా మార్గాన్ని నిర్దేశించండి"
+  "home.cta.survey-button": "మా మార్గాన్ని నిర్దేశించండి",
+  "home.countdown.days-to-go": "రోజులు ఉంది వెళ్ళడానికి",
+  "home.countdown.event": "కొత్త వెబ్‌సైట్ ప్రకటన మరియు ప్రారంభ పార్టీ",
+  "home.countdown.learn-more": "ఇంకా నేర్చుకోండి & మాతో చేరండి →"
 }

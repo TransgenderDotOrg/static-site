@@ -42,5 +42,8 @@
   "tags.surgeons": "外科医生",
   "tags.informed-consent-clinics": "知情同意诊所",
   "organization-types": "组织类型",
-  "home.cta.survey-button": "指引我们的道路"
+  "home.cta.survey-button": "指引我们的道路",
+  "home.countdown.days-to-go": "还剩下的天数",
+  "home.countdown.event": "新网站揭示和发布派对",
+  "home.countdown.learn-more": "了解更多并加入我们 →"
 }

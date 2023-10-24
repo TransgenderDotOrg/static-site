@@ -42,5 +42,8 @@
   "tags.surgeons": "Waonaji",
   "tags.informed-consent-clinics": "Kliniki za Idhini yenye Habari",
   "organization-types": "Aina za Mashirika",
-  "home.cta.survey-button": "Elekeza Njia Yetu"
+  "home.cta.survey-button": "Elekeza Njia Yetu",
+  "home.countdown.days-to-go": "siku za kwenda",
+  "home.countdown.event": "Ufichuzi na Sherehe ya Uzinduzi wa Tovuti Mpya",
+  "home.countdown.learn-more": "Jifunze zaidi & jiunge nasi →"
 }

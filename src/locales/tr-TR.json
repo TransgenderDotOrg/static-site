@@ -42,5 +42,8 @@
   "tags.surgeons": "Cerrahlar",
   "tags.informed-consent-clinics": "Bilgilendirilmiş Onay Klinikleri",
   "organization-types": "Organizasyon Türleri",
-  "home.cta.survey-button": "Yolumuzu Yönlendir"
+  "home.cta.survey-button": "Yolumuzu Yönlendir",
+  "home.countdown.days-to-go": "gün kaldı",
+  "home.countdown.event": "Yeni Web Sitesi Tanıtımı ve Lansman Partisi",
+  "home.countdown.learn-more": "Daha fazla öğrenin ve bize katılın →"
 }

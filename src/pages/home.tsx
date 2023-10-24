@@ -16,8 +16,7 @@ export const HomePage = () => {
         flexDirection: 'column',
         background: `linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%), url(${homeImageUrl}) no-repeat center center, #000`,
         backgroundSize: 'cover',
-        minHeight: 'calc(100vh - 85px - 200px)',
-        padding: '100px 120px',
+        minHeight: '100vh',
 
         '@media (max-width: 768px)': {
           padding: 0,
@@ -33,11 +32,14 @@ export const HomePage = () => {
           background: '#fff',
           width: 500,
           padding: '1rem 2rem',
+          marginTop: '100px',
+          marginLeft: '200px',
 
           '@media (max-width: 768px)': {
             width: 'unset',
             borderRadius: 0,
-            marginTop: '50vh',
+            marginTop: '2rem',
+            marginLeft: 0,
           },
         }}
       >

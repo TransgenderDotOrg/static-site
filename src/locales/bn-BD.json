@@ -42,5 +42,8 @@
   "tags.surgeons": "সার্জন",
   "tags.informed-consent-clinics": "অবগত সম্মতি ক্লিনিক",
   "organization-types": "সংগঠনের প্রকারভেদ",
-  "home.cta.survey-button": "আমাদের পথ নির্দেশনা করুন"
+  "home.cta.survey-button": "আমাদের পথ নির্দেশনা করুন",
+  "home.countdown.days-to-go": "দিন বাকি",
+  "home.countdown.event": "নতুন ওয়েবসাইট প্রকাশ এবং লঞ্চ পার্টি",
+  "home.countdown.learn-more": "আরও শিখুন এবং আমাদের সাথে যোগ দিন →"
 }

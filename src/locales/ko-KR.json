@@ -42,5 +42,8 @@
   "tags.surgeons": "외과 의사들",
   "tags.informed-consent-clinics": "인폼드 컨센트 클리닉",
   "organization-types": "조직 유형",
-  "home.cta.survey-button": "우리의 길을 인도하십시오"
+  "home.cta.survey-button": "우리의 길을 인도하십시오",
+  "home.countdown.days-to-go": "남은 일수",
+  "home.countdown.event": "새 웹사이트 공개 및 출시 파티",
+  "home.countdown.learn-more": "더 배우고 우리와 함께하세요 →"
 }

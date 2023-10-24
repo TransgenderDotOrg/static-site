@@ -53,7 +53,7 @@ export const Footer = () => {
               userSelect: 'none',
             }}
           >
-            <img src={logoUrl} alt='logo' />
+            <img src={logoUrl} alt='logo' width='36' height='36' />
             <Typography
               sx={{
                 fontFamily: 'Quicksand',

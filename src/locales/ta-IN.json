@@ -42,5 +42,8 @@
   "tags.surgeons": "அறுவை மருத்துவர்கள்",
   "tags.informed-consent-clinics": "தகவல் முடிவொண்ட ஆரோக்கியக் கல்வி மையங்கள்",
   "organization-types": "அமைப்பு வகைகள்",
-  "home.cta.survey-button": "எங்கள் பாதையை நேரடியாக முகமையிடுக"
+  "home.cta.survey-button": "எங்கள் பாதையை நேரடியாக முகமையிடுக",
+  "home.countdown.days-to-go": "நாட்கள் மிகுந்துள்ளன",
+  "home.countdown.event": "புதிய வலைத்தள வெளியீடு மற்றும் துவக்க விழா",
+  "home.countdown.learn-more": "மேலும் கற்றுக்கொள்ளுங்கள் & எங்களுடன் சேருங்கள் →"
 }

@@ -42,5 +42,8 @@
   "tags.surgeons": "Chirurgiens",
   "tags.informed-consent-clinics": "Cliniques de Consentement Éclairé",
   "organization-types": "Types d'Organisation",
-  "home.cta.survey-button": "Dirige Notre Chemin"
+  "home.cta.survey-button": "Dirige Notre Chemin",
+  "home.countdown.days-to-go": "jours restants",
+  "home.countdown.event": "Nouvelle révélation et fête de lancement du site Web",
+  "home.countdown.learn-more": "Apprenez-en plus & rejoignez-nous →"
 }

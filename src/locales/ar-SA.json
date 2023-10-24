@@ -42,5 +42,8 @@
   "tags.surgeons": "جراحين",
   "tags.informed-consent-clinics": "عيادات الموافقة المستنيرة",
   "organization-types": "أنواع المنظمات",
-  "home.cta.survey-button": "هدِ دَربَنا"
+  "home.cta.survey-button": "هدِ دَربَنا",
+  "home.countdown.days-to-go": "أيام متبقية",
+  "home.countdown.event": "كشف وحفل إطلاق الموقع الجديد",
+  "home.countdown.learn-more": "تعلم المزيد وانضم إلينا →"
 }

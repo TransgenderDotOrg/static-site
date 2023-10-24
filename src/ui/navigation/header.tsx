@@ -326,7 +326,7 @@ export const Header = () => {
               userSelect: 'none',
             }}
           >
-            <img src={logoUrl} alt='logo' />
+            <img src={logoUrl} alt='logo' height='36' width='36' />
             <HeaderTypography sx={{ marginLeft: '0.5rem', fontSize: '1.5rem' }}>
               Transgender.org
             </HeaderTypography>
