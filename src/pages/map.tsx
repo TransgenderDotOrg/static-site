@@ -167,7 +167,7 @@ export const MapPage = () => {
           fullscreenControl: false,
         }}
         bootstrapURLKeys={{
-          key: process.env.GOOGLE_MAPS_API_KEY ?? '',
+          key: process.env.GOOGLE_MAPS_API_KEY ?? 'AIzaSyCr3rCOGUpIhLLcmGpWOOhmpVkRWrkqbUQ',
         }}
         center={{
           lat: 0,
